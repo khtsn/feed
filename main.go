@@ -53,6 +53,8 @@ var (
 		"https://mshibanami.github.io/GitHubTrendingRSS/daily/go.xml",
 		"https://www.hltv.org/rss/news",
 		"https://vlr.gg/rss",
+		"https://www.teamblind.com/rss/Tech/rss",
+		"https://blogtienao.com/feed",
 	}
 
 	relevantDuration = 7 * 24 * time.Hour
