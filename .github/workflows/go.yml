@@ -4,7 +4,7 @@ on:
   push:
     branches: [ master ]
   schedule:
-    # Run every hour
+    # Run every 5 mins
     - cron: '*/5 * * * *'
 
 jobs:
