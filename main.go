@@ -188,6 +188,7 @@ func getAllPosts(ctx context.Context, feeds []string) []*Post {
 
 func getPosts(ctx context.Context, feedURL string, posts chan *Post) {
 	start := time.Now()
+	cnt := 0
 	defer func() {
 		log.Printf("Fetched posts from %s, took %s", feedURL, time.Since(start))
 	}()
@@ -219,8 +220,12 @@ func getPosts(ctx context.Context, feedURL string, posts chan *Post) {
 			continue
 		}
 
-		if parsedLink.Host == "www.teamblind.com" && published.Before(time.Now().Add(-relevantDurationForTeamBlind)) {
-			continue
+		if parsedLink.Host == "www.teamblind.com" {
+			cnt++
+		}
+
+		if cnt > 10 {
+			break
 		}
 
 		post := &Post{
