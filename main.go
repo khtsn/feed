@@ -65,7 +65,7 @@ var (
 	logFile    = path.Join(outputDir, "log.txt")
 
 	// Error out if fetching feeds takes longer than a minute
-	timeout = time.Minute
+	timeout = time.Minute * 10
 )
 
 var blocklist = map[string]bool{
