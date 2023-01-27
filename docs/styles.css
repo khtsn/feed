@@ -9,6 +9,7 @@ body {
   padding: 0 12px 0;
   height: 100%;
   background-color: #0f0f0f;
+  font-size: 1.5rem;
 }
 
 h1,
@@ -28,10 +29,12 @@ h6 {
 
   a {
     color: hsl(208, 96.8%, 75.3%);
+    text-decoration: none;
   }
 
   a:visited {
     color: hsl(284.1, 96.1%, 80%);
+    text-decoration: none;
   }
 
   /* https://css-tricks.com/dark-modes-with-css/#its-not-just-setting-dark-backgrounds-with-light-text */
