@@ -16,13 +16,9 @@
       {{ if ne .Content "" }}
       <!-- prettier-ignore-->
       <li>
-        {{ if ne .Host "www.teamblind.com" }}
-
         <a href="posts/{{ .Filename }}">{{ .Title }}</a> ({{ .Host }})
-
-        {{ else }}
-
-        {{ .Title }} ({{ .Host }})<br/>
+        
+        {{ if eq .Host "www.teamblind.com" }}
 
         {{ .Content }}
 
