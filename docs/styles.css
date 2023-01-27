@@ -5,11 +5,10 @@ body {
   font-family: "Source Serif Pro", serif;
   font-weight: 300;
   line-height: 1.7;
-  max-width: 600px;
-  margin: 50px auto 50px;
+  margin: auto auto;
   padding: 0 12px 0;
   height: 100%;
-  background-color: #eff8ff;
+  background-color: #0f0f0f;
 }
 
 h1,
@@ -23,7 +22,7 @@ h6 {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: hsl(238.6, 53.1%, 15.9%);
+    background-color: #0f0f0f;
     color: hsl(0, 0%, 86.7%);
   }
 
