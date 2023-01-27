@@ -57,7 +57,8 @@ var (
 		"https://blogtienao.com/feed",
 	}
 
-	relevantDuration = 7 * 24 * time.Hour
+	relevantDuration             = 7 * 24 * time.Hour
+	relevantDurationForTeamBlind = 1 * 24 * time.Hour
 
 	outputDir  = "docs" // So we can host the site on GitHub Pages
 	outputFile = "index.html"
@@ -215,6 +216,10 @@ func getPosts(ctx context.Context, feedURL string, posts chan *Post) {
 		}
 
 		if blocklist[parsedLink.Host] {
+			continue
+		}
+
+		if parsedLink.Host == "www.teamblind.com" && published.Before(time.Now().Add(-relevantDurationForTeamBlind)) {
 			continue
 		}
 

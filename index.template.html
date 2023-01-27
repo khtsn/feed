@@ -4,13 +4,11 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Khanh's feed</title>
+    <title>Khanh's daily feed</title>
 
     <link rel="stylesheet" type="text/css" href="styles.css" media="screen" />
   </head>
   <body>
-    <h1>News</h1>
-
     <ol class="postlist">
       <!-- prettier-ignore-->
       {{ range .Posts }}
@@ -18,7 +16,17 @@
       {{ if ne .Content "" }}
       <!-- prettier-ignore-->
       <li>
+        {{ if ne .Host "www.teamblind.com" }}
+
         <a href="posts/{{ .Filename }}">{{ .Title }}</a> ({{ .Host }})
+
+        {{ else }}
+
+        {{ .Title }} ({{ .Host }})<br/>
+
+        {{ .Content }}
+
+        {{ end }}
       </li>
       {{ else }}
       <li>
