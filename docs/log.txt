@@ -1,9 +1,10 @@
-2023/01/29 05:37:18 Fetched posts from https://mshibanami.github.io/GitHubTrendingRSS/daily/go.xml, took 206.788127ms
-2023/01/29 05:37:18 Fetched posts from https://mshibanami.github.io/GitHubTrendingRSS/daily/javascript.xml, took 209.291928ms
-2023/01/29 05:37:18 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 375.715731ms
-2023/01/29 05:37:18 Fetched posts from https://www.hltv.org/rss/news, took 652.0579ms
-2023/01/29 05:37:19 Fetched posts from https://vlr.gg/rss, took 1.557325856s
-2023/01/29 05:37:21 Fetched posts from https://blogtienao.com/feed, took 3.080584691s
-2023/01/29 05:37:40 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.977797204s
-2023/01/29 05:37:44 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 26.045176476s
-2023/01/29 05:37:44 Templated 120 posts, took 19.570321ms
+2023/01/29 05:47:57 Fetched posts from https://mshibanami.github.io/GitHubTrendingRSS/daily/go.xml, took 64.085939ms
+2023/01/29 05:47:57 Fetched posts from https://mshibanami.github.io/GitHubTrendingRSS/daily/javascript.xml, took 66.099672ms
+2023/01/29 05:47:57 Fetched posts from https://www.hltv.org/rss/news, took 493.866304ms
+2023/01/29 05:47:57 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 593.223115ms
+2023/01/29 05:47:57 Fetched posts from https://vlr.gg/rss, took 646.937384ms
+2023/01/29 05:47:59 Fetched posts from https://blogtienao.com/feed, took 1.976546333s
+2023/01/29 05:48:29 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 32.127408732s
+2023/01/29 05:48:31 error parsing https://cdn.24h.com.vn/upload/rss/bongda.rss: Get "https://cdn.24h.com.vn/upload/rss/bongda.rss": EOF
+2023/01/29 05:48:31 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 34.517465331s
+2023/01/29 05:48:31 Templated 96 posts, took 28.531156ms
