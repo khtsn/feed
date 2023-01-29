@@ -50,15 +50,13 @@ var (
 		"https://vnexpress.net/rss/tin-moi-nhat.rss",
 		"https://cdn.24h.com.vn/upload/rss/bongda.rss",
 		"https://thanhnien.vn/rss/home.rss",
-		"https://cafef.vn/trang-chu.rss",
 		"https://www.hltv.org/rss/news",
 		"https://vlr.gg/rss",
 		"https://www.teamblind.com/rss/Tech/rss",
 		"https://blogtienao.com/feed",
 	}
 
-	relevantDuration             = 7 * 24 * time.Hour
-	relevantDurationForTeamBlind = 1 * 24 * time.Hour
+	relevantDuration = 7 * 24 * time.Hour
 
 	outputDir  = "docs" // So we can host the site on GitHub Pages
 	outputFile = "index.html"
