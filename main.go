@@ -49,8 +49,9 @@ var (
 	feeds = []string{
 		"https://vnexpress.net/rss/tin-moi-nhat.rss",
 		"https://cdn.24h.com.vn/upload/rss/bongda.rss",
-		"https://mshibanami.github.io/GitHubTrendingRSS/daily/javascript.xml",
-		"https://mshibanami.github.io/GitHubTrendingRSS/daily/go.xml",
+		"https://thanhnien.vn/rss/home.rss",
+		"https://vtv.vn/rss.htm",
+		"https://cafef.vn/trang-chu.rss",
 		"https://www.hltv.org/rss/news",
 		"https://vlr.gg/rss",
 		"https://www.teamblind.com/rss/Tech/rss",
