@@ -1,8 +1,9 @@
-2023/02/01 10:10:45 Fetched posts from https://www.hltv.org/rss/news, took 431.106885ms
-2023/02/01 10:10:45 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 663.916671ms
-2023/02/01 10:10:47 Fetched posts from https://vlr.gg/rss, took 2.249517463s
-2023/02/01 10:10:47 Fetched posts from https://blogtienao.com/feed, took 2.523030152s
-2023/02/01 10:10:58 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.661043573s
-2023/02/01 10:11:05 Fetched posts from https://thanhnien.vn/rss/home.rss, took 20.643803982s
-2023/02/01 10:11:09 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 25.037770139s
-2023/02/01 10:11:09 Templated 173 posts, took 41.051768ms
+2023/02/01 10:30:28 Fetched posts from https://www.hltv.org/rss/news, took 543.797596ms
+2023/02/01 10:30:28 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 618.547058ms
+2023/02/01 10:30:29 Fetched posts from https://vlr.gg/rss, took 1.641944174s
+2023/02/01 10:30:30 Fetched posts from https://blogtienao.com/feed, took 2.687130752s
+2023/02/01 10:30:43 Fetched posts from https://thanhnien.vn/rss/home.rss, took 16.349277927s
+2023/02/01 10:30:54 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 26.772183367s
+2023/02/01 10:30:57 error parsing https://cdn.24h.com.vn/upload/rss/bongda.rss: Get "https://cdn.24h.com.vn/upload/rss/bongda.rss": dial tcp 103.90.220.91:443: i/o timeout
+2023/02/01 10:30:57 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 30.000515175s
+2023/02/01 10:30:57 Templated 151 posts, took 28.439366ms
