@@ -17,47 +17,400 @@
     <a href="https://www.vlr.gg/170447/valorant-patch-notes-6-02">Original</a>
     <h1>Valorant patch notes 6.02</h1>
     
-    <div id="readability-page-1" class="page"><div id="cf-wrapper">
-    <p>Please enable cookies.</p>
-    <div id="cf-error-details">
-      <p>
-        
-        <h2><span data-translate="unable_to_access">You are unable to access</span> hltv.org</h2>
-      </p><!-- /.header -->
+    <div id="readability-page-1" class="page"><div>
 
-      <!-- /.captcha-container -->
+							
+						
+<div>
+	<div>
+		
+		<div>
+							<p><img src="https://owcdn.net/img/60e2d7a3458e5.png"/></p>
+		</div>
+	</div>
+	
+	<div>
+		
+		<p>Notes for patch 6.02 have been released, with a focus on networking updates and a big damage fall-off nerf to Stinger.</p>
 
-      <div>
-        <div>
-          <div>
-            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
-
-            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
-          </div>
-
-          <div>
-            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
-
-            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
-          </div>
-        </div>
-      </div><!-- /.section -->
-
-      <p>
-    <span>Cloudflare Ray ID: <strong>79670e74f87305eb</strong></span>
-    <span>•</span>
-    <span id="cf-footer-item-ip">
-      Your IP:
-      
-      <span id="cf-footer-ip">104.45.203.193</span>
-      <span>•</span>
-    </span>
-    <span><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p><!-- /.error-footer -->
+<p>The <a href="https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-6-02/" target="_blank">full patch notes</a> have been reproduced below:</p>
 
 
-    </div><!-- /#cf-error-details -->
-  </div></div>
+
+<blockquote>
+  <p><em>When a player fires a shot, it takes time for the input to reach the server. To prevent you from needing to lead your shots, VALORANT implements server rewinding. When the server determines the outcome of a shot, it rewinds character positions around the bullet to match their locations at the time when the shot was initially fired. Finding the right limit for a max rewind amount is important for reducing cases of anyone feeling like they need to lead shots, or that they can still be shot after safely repositioning themselves.</em></p>
+  
+  <p><em>When we launched the game, the max rewind value was set to 200 ms based on what we deemed as acceptable networking conditions (factoring in some amount of additional input/processing latency) to play VALORANT. Based on player data since launch, we&#39;ve determined that this value is too high for the networking conditions experienced by most of you. —Kevin Lee, Software Engineer</em></p>
+  
+  <ul>
+  <li>Adjusted max server rewind limit down to 140 ms from 200 ms. </li>
+  <li><p><em>If you only play in games where everyone&#39;s ping is low, you shouldn&#39;t even notice this change. In other cases, the impact from this change will be subtle, and most of you won&#39;t notice the difference. That being said, we expect to see the following changes in gameplay patterns:</em></p>
+  
+  <ul>
+  <li>Playing against players with high ping should feel less like you&#39;re getting shot after moving behind cover by a bullet fired earlier</li>
+  <li>Players playing with high ping may start to experience hit registration inaccuracy</li>
+  </ul></li>
+  <li><p>These behaviors already exist in VALORANT, but we are shifting the needle for what we consider “high ping” to be less generous. We hope that this change reduces the frustration players feel when playing against high ping players and continues to minimize the impact of networking conditions on gameplay</p></li>
+  <li>If you want to dive deeper into hit registration in VALORANT, <a href="https://playvalorant.com/en-us/news/dev/the-state-of-hit-registration/" target="_blank">check out our previous piece from 2020.</a></li>
+  <li>For some more about one of the reasons that motivated this update, <a href="https://playvalorant.com/en-gb/news/game-updates/valorant-gameplay-consistency-update/" target="_blank">read our first Gameplay Consistency Update</a>, and then <a href="https://playvalorant.com/en-us/news/game-updates/valorant-gameplay-consistency-update-2/" target="_blank">our most recent update from last year</a>. </li>
+  </ul>
+</blockquote>
+
+
+
+<h2>STINGER</h2>
+
+<blockquote>
+  <ul>
+  <li><p>We feel that the Stinger is overperforming at medium to long range engagements at its price point. Force buying Heavy Armor and Stingers on both round 2 and 3 was too effective and lacked the appropriate nuance and economic tradeoffs. We hope that players can occasionally still access this strategy granted they have the credits to do so.</p></li>
+  <li><p>Cost increased 950 &gt;&gt;&gt; 1100</p></li>
+  <li>Damage fall-off changed:
+  
+  <ul>
+  <li>Previously:</li>
+  <li>27 damage per bullet (0 - 20m)</li>
+  <li>25 damage per bullet (20m+)</li>
+  </ul></li>
+  <li>Now:
+  
+  <ul>
+  <li>27 damage per bullet (0 - 15m)</li>
+  <li>23 damage per bullet (15m+)</li>
+  </ul></li>
+  </ul>
+</blockquote>
+
+
+
+<blockquote>
+  <ul>
+  <li>Voice Evaluation Beta (North America/English-only)
+  
+  <ul>
+  <li>Last year we began a background launch of the Riot Voice Evaluation (RVE) in North America. RVE will now move into a limited beta phase that will enhance our behavioral reports data collection capabilities and improve the impact of our comms related behavioral interventions.</li>
+  </ul></li>
+  </ul>
+</blockquote>
+
+
+
+<h2>AGENTS</h2>
+
+<blockquote>
+  <ul>
+  <li>Potentially fixed bug with KAY/O&#39;s Zero/point (E) not showing the correct enemies that it has suppressed (please let us know if you see further issues here)</li>
+  <li>Pathfinding has been improved on Raze&#39;s Boom Bot (C) when chasing an enemy. It can now more consistently jump up small heights and will do so with smoother movement</li>
+  <li>Fixed a bug with Boom Bot (C) getting stuck in a wall and rapidly shaking while making a loud noise. It will now bounce off the wall per usual</li>
+  <li>Fixed a bug where Yoru&#39;s Fakeout (C) could get stuck in mid-air in various locations</li>
+  <li>Fixed bug where Cypher&#39;s Neural Theft (X) would only reveal one time if he had been killed or the round had changed during a previous cast</li>
+  <li>Fixed a bug where Cypher&#39;s Neural Theft (X) reveals would be interrupted when he was killed after it had been deployed</li>
+  </ul>
+</blockquote>
+
+<h2>MAPS</h2>
+
+<blockquote>
+  <ul>
+  <li>Players will no longer make footstep audio when dropping from Lotus B site platform to the fountain</li>
+  <li>Lotus door volume has been lowered further (we lowered in 6.01 as well) during the rotation phase</li>
+  <li>On Lotus, players next to each other while rotating door…rotates should feel smoother</li>
+  <li>On Lotus, fixed an issue where players were spawning on the wrong side of barrier near C site if standing on rotating door at round end</li>
+  <li>On Fracture, fixed a bug where the “Paul Delmann” badge could be stuck on the screen after Buy Phase ends</li>
+  </ul>
+</blockquote>
+
+<h2>WEAPONS</h2>
+
+<blockquote>
+  <ul>
+  <li>Fixed an issue where Frenzy and Bulldog reload audio is quieter than other weapons in third person</li>
+  </ul>
+</blockquote>
+
+<h2>SOCIAL</h2>
+
+<blockquote>
+  <ul>
+  <li>Fixed a bug that caused voice chat to no longer function when disconnected from the internet for less than 60 seconds
+  
+  <ul>
+  <li>If the internet is disconnected for 60 seconds or less, you will be able to reconnect to voice chat without having to relaunch the game.</li>
+  </ul></li>
+  </ul>
+</blockquote>
+	</div>
+</div><div data-auto-scroll="0">
+	<div><div>
+	<div data-post-id="1779828">
+		
+		
+		<p>Cypher ult buff again!!??</p>
+
+		
+
+		
+		
+	</div>
+</div><div><div>
+	<div data-post-id="1780741">
+		
+		
+		<p>I think it was supposed to work that way the codes just bugged out</p>
+
+		
+
+		
+		
+	</div>
+</div></div></div><div><div>
+	<div data-post-id="1779830">
+		
+		
+		<p>the stinger cost increase kinda hurt</p>
+
+		
+
+		
+		
+	</div>
+</div></div><div><div><div>
+	<div data-post-id="1779837">
+		
+		
+		<p>we don&#39;t know, up to the admins</p>
+
+		
+
+		
+		
+	</div>
+</div><div><div>
+	<div data-post-id="1779848">
+		
+		
+		<p>What do you mean you dont know ?? players should been notified already if this patch is going to be in lock in or not.</p>
+
+		
+
+		
+		
+	</div>
+</div><div><div><div>
+	<div data-post-id="1779961">
+		
+		
+		<p>I hope you have a good tournament in São Paulo eutalyx!</p>
+
+		
+
+		
+		
+	</div>
+</div></div><div><div>
+	<div data-post-id="1780124">
+		
+		
+		<p>lmfao ignorant reporter covering his ass</p>
+
+		
+
+		
+		
+	</div>
+</div><div><div>
+	<div data-post-id="1780735">
+		
+		
+		<p>This is your first good take and people are downvoting you... I can now see that society is to blame for your condition, pushing you away from intelligent opinions.</p>
+
+		
+
+		
+		
+	</div>
+</div></div></div><div><div>
+	<div data-post-id="1780167">
+		
+		
+		<p>aren&#39;t you a... REPORTER?</p>
+
+		
+
+		
+		
+	</div>
+</div></div></div></div></div></div><div><div>
+	<div data-post-id="1779835">
+		
+		
+		<p>damn it cant rush the cypher now</p>
+
+		
+
+		
+		
+	</div>
+</div></div><div><div>
+	<div data-post-id="1779842">
+		
+		
+		<p>That cypher ult cancel was a bug wtf</p>
+
+		
+
+		
+		
+	</div>
+</div><div><div>
+	<div data-post-id="1779902">
+		
+		
+		<div>
+			
+			<p>For real...</p>
+<p>In Cypher&#39;s case, if he was killed before the first tick, his hat stops working, even tho he used it, like their equipments, as the tripwire and camera</p>		</div>
+
+		
+
+		
+		
+	</div>
+</div></div></div><div><div>
+	<div data-post-id="1780139">
+		
+		
+		<p>theres no way thats fixing the stinger</p>
+
+		
+
+		
+		
+	</div>
+</div></div><div><div>
+	<div data-post-id="1780171">
+		
+		
+		<p>Riot spying on us through voice chat lets goooo</p>
+
+		
+
+		
+		
+	</div>
+</div><div><div>
+	<div data-post-id="1780281">
+		
+		
+		<p>who tf talks about their personal nuclear codes in valorant anyway</p>
+
+		
+
+		
+		
+	</div>
+</div><div><div>
+	<div data-post-id="1780686">
+		
+		
+		<p>sorryy me and the boys were just discussing about the current plans of the FBI to assassinate vlr.gg user KazeraSG</p>
+
+		
+
+		
+		
+	</div>
+</div></div></div><div><div>
+	<div data-post-id="1780862">
+		
+		
+		<p>just don&#39;t use voice chat, you don&#39;t need it anyway it&#39;s all toxic shits</p>
+
+		
+
+		
+		
+	</div>
+</div></div></div><div><div>
+	<div data-post-id="1780509">
+		
+		
+		<p>Oh well, I guess no more valorant for Africans (except maybe North Africans), shots were already so inaccurate when playing at 140-160ms</p>
+
+		
+
+		
+		
+	</div>
+</div></div><div><div>
+	<div data-post-id="1780727">
+		
+		
+		<div>
+			
+			<p>Are you kidding me? The rewind was 200ms? No wonder high ping abusers were so fucked up, looking at you turks.</p>
+<p>140ms is still way too long. Why should other players with normal ping be punished because other people&#39;s internet is crap and they can still see you on their screen? This makes 0 sense.</p>		</div>
+
+		
+
+		
+		
+	</div>
+</div></div><div><div>
+	<div data-post-id="1781055">
+		
+		
+		<p>so you are telling me that cypher ult not pinging after him dying wasn&#39;t intentional?? wtf i cant imagine how many times i just died right after ulting, ( old cypher mentality where it revealed even if you died) i thought it was like that cause now the ult reveals twice but nice bug!</p>
+
+		
+
+		
+		
+	</div>
+</div></div></div>
+<!--
+<div class="report-template">
+	<div class="reply-template-inner">
+		<form action="/post/reply" method="post">
+
+						
+						<div class="post-editor mod-inset">
+	<ul class="post-editor-header noselect">
+		<li class="post-editor-header-action" title="Bold (Ctrl-B)" data-action="bold"><i class="fa fa-bold"></i></li>
+		<li class="post-editor-header-action" title="Italic (Ctrl-I)" data-action="italic"><i class="fa fa-italic"></i></li>
+		<li class="post-editor-header-action" title="Strikethrough (Ctrl-S)" data-action="strikethrough"><i class="fa fa-strikethrough"></i></li>
+		<li class="post-editor-header-action" title="Heading (Ctrl-H)" data-action="heading"><i class="fa fa-font"></i></li>
+		<li class="post-editor-header-action mod-link" title="Link" data-action="link"><i class="fa fa-link"></i></li>
+		<li class="post-editor-header-action" title="List" data-action="list"><i class="fa fa-list-ul"></i></li>
+		<li class="post-editor-header-action" title="Ordered List" data-action="olist"><i class="fa fa-list-ol"></i></li>
+		<li class="post-editor-header-action" title="Quote" data-action="quote"><i class="fa fa-quote-right"></i></li>
+		<li class="post-editor-header-action" title="Code" data-action="code"><i class="fa fa-code"></i></li>
+		<li class="post-editor-header-action" title="Spoiler" data-action="spoiler"><i class="fa fa-exclamation-triangle"></i></li>
+		<li class="btn mod-action post-editor-header-preview">Preview</li>
+		<li class="btn mod-action post-editor-header-edit">Edit</li>
+	</ul>
+	<textarea maxlength="8000" name="body" class="post-editor-text" required tabindex="1"></textarea>
+	<div class="post-loading">
+		<i class="fa fa-spinner fa-spin"></i>
+	</div>
+	<div class="post-preview">
+	</div>
+</div>						<div class="form-hint" style="margin: 5px 0 0 0">
+				› check that that your post follows the <a href="/s/rules" target="_blank">forum rules and guidelines</a> or get
+				<a href="/s/formatting" target="_blank">formatting help</a>
+			</div>
+			
+			<input type="hidden" name="parent_id" value="">
+			<input type="hidden" name="thread_id" value="170447">
+			<input type="hidden" name="token" value="f4696f4361a34e117670f0011ae2272b">
+			<input type="submit" value="Reply" style="margin-top: 10px;" class="btn mod-action" tabindex="2">
+		</form>
+	</div>
+</div>
+-->
+
+
+
+	
+					</div></div>
   </body>
 </html>
