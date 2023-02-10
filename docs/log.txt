@@ -1,8 +1,9 @@
-2023/02/10 09:56:33 Fetched posts from https://www.hltv.org/rss/news, took 497.199717ms
-2023/02/10 09:56:33 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 608.10201ms
-2023/02/10 09:56:34 Fetched posts from https://vlr.gg/rss, took 1.336147521s
-2023/02/10 09:56:35 Fetched posts from https://blogtienao.com/feed, took 2.641831417s
-2023/02/10 09:56:49 Fetched posts from https://thanhnien.vn/rss/home.rss, took 16.524731409s
-2023/02/10 09:56:50 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.467370122s
-2023/02/10 09:57:03 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 30.012562257s
-2023/02/10 09:57:03 Templated 168 posts, took 26.9994ms
+2023/02/10 10:20:16 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 384.392646ms
+2023/02/10 10:20:16 Fetched posts from https://www.hltv.org/rss/news, took 456.988799ms
+2023/02/10 10:20:17 Fetched posts from https://blogtienao.com/feed, took 1.912636031s
+2023/02/10 10:20:18 Fetched posts from https://vlr.gg/rss, took 2.563864498s
+2023/02/10 10:20:31 error parsing https://vnexpress.net/rss/tin-moi-nhat.rss: Get "https://vnexpress.net/rss/tin-moi-nhat.rss": dial tcp: lookup vnexpress.net: Temporary failure in name resolution
+2023/02/10 10:20:31 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 15.02972727s
+2023/02/10 10:20:31 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.812650372s
+2023/02/10 10:20:33 Fetched posts from https://thanhnien.vn/rss/home.rss, took 17.603895834s
+2023/02/10 10:20:33 Templated 122 posts, took 21.255829ms
