@@ -1,8 +1,9 @@
-2023/02/13 17:08:51 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 347.613929ms
-2023/02/13 17:08:51 Fetched posts from https://www.hltv.org/rss/news, took 577.420796ms
-2023/02/13 17:08:52 Fetched posts from https://vlr.gg/rss, took 1.358229388s
-2023/02/13 17:08:53 Fetched posts from https://blogtienao.com/feed, took 2.772788004s
-2023/02/13 17:09:05 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.653244101s
-2023/02/13 17:09:08 Fetched posts from https://thanhnien.vn/rss/home.rss, took 18.104973387s
-2023/02/13 17:09:19 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 28.623874011s
-2023/02/13 17:09:19 Templated 176 posts, took 30.070533ms
+2023/02/13 17:27:17 Fetched posts from https://www.hltv.org/rss/news, took 510.019432ms
+2023/02/13 17:27:18 Fetched posts from https://vlr.gg/rss, took 1.540753447s
+2023/02/13 17:27:19 Fetched posts from https://blogtienao.com/feed, took 2.488424267s
+2023/02/13 17:27:27 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/02/13 17:27:27 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 10.283183764s
+2023/02/13 17:27:32 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.482836905s
+2023/02/13 17:27:34 Fetched posts from https://thanhnien.vn/rss/home.rss, took 17.343498253s
+2023/02/13 17:27:44 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 27.262125536s
+2023/02/13 17:27:44 Templated 167 posts, took 27.185611ms
