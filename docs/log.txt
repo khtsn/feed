@@ -1,8 +1,9 @@
-2023/02/18 07:50:26 Fetched posts from https://www.hltv.org/rss/news, took 330.176923ms
-2023/02/18 07:50:26 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 347.259107ms
-2023/02/18 07:50:28 Fetched posts from https://vlr.gg/rss, took 2.368471019s
-2023/02/18 07:50:30 Fetched posts from https://blogtienao.com/feed, took 3.688157983s
-2023/02/18 07:50:39 Fetched posts from https://thanhnien.vn/rss/home.rss, took 13.408391695s
-2023/02/18 07:50:40 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.541841753s
-2023/02/18 07:50:47 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 21.282627228s
-2023/02/18 07:50:47 Templated 172 posts, took 37.848002ms
+2023/02/18 08:07:28 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 562.353585ms
+2023/02/18 08:07:28 Fetched posts from https://www.hltv.org/rss/news, took 710.884364ms
+2023/02/18 08:07:31 Fetched posts from https://blogtienao.com/feed, took 2.832545294s
+2023/02/18 08:07:45 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.770094474s
+2023/02/18 08:07:46 Fetched posts from https://thanhnien.vn/rss/home.rss, took 17.984169476s
+2023/02/18 08:07:55 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 27.085115389s
+2023/02/18 08:07:58 error parsing https://vlr.gg/rss: Get "https://vlr.gg/rss": dial tcp 172.104.213.34:443: i/o timeout
+2023/02/18 08:07:58 Fetched posts from https://vlr.gg/rss, took 30.000230797s
+2023/02/18 08:07:58 Templated 164 posts, took 26.568634ms
