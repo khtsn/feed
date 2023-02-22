@@ -47,10 +47,13 @@ type Post struct {
 
 var (
 	feeds = []string{
-		"https://vnexpress.net/rss/tin-moi-nhat.rss",
 		"https://cdn.24h.com.vn/upload/rss/bongda.rss",
-		"https://thanhnien.vn/rss/home.rss",
+		"https://vnexpress.net/rss/tin-moi-nhat.rss",
+		"https://thanhnien.vn/rss/thoi-su.rss",
+		"https://tuoitre.vn/rss/thoi-su.rss",
 		"https://www.hltv.org/rss/news",
+		"http://rss.cnn.com/rss/cnn_topstories.rss",
+		"https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
 		"https://vlr.gg/rss",
 		"https://www.teamblind.com/rss/Tech/rss",
 		"https://blogtienao.com/feed",
