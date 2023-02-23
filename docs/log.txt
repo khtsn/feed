@@ -1,10 +1,11 @@
-2023/02/23 14:12:59 Fetched posts from https://www.hltv.org/rss/news, took 541.07151ms
-2023/02/23 14:12:59 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 639.142207ms
-2023/02/23 14:13:00 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.018234709s
-2023/02/23 14:13:00 Fetched posts from https://vlr.gg/rss, took 1.159085515s
-2023/02/23 14:13:01 Fetched posts from https://blogtienao.com/feed, took 1.966376918s
-2023/02/23 14:13:01 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 2.307359476s
-2023/02/23 14:13:13 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.390284139s
-2023/02/23 14:13:29 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 29.959204663s
-2023/02/23 14:14:24 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 1m25.294564944s
-2023/02/23 14:14:24 Templated 224 posts, took 38.286968ms
+2023/02/23 14:29:05 Fetched posts from https://www.hltv.org/rss/news, took 462.391831ms
+2023/02/23 14:29:05 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 522.707478ms
+2023/02/23 14:29:06 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.655356181s
+2023/02/23 14:29:07 Fetched posts from https://vlr.gg/rss, took 1.947782887s
+2023/02/23 14:29:08 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 3.02120517s
+2023/02/23 14:29:09 Fetched posts from https://blogtienao.com/feed, took 4.350295971s
+2023/02/23 14:29:28 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 23.11105652s
+2023/02/23 14:29:33 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 28.878855393s
+2023/02/23 14:30:11 Get "https://tuoitre.vn/nghich-ly-thieu-dien-luoi-nhung-dien-mat-troi-bo-khong-o-con-dao-20230223114047266.htm": read tcp 10.1.1.82:37668->14.225.199.139:443: read: connection reset by peer
+2023/02/23 14:30:22 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 1m17.421780956s
+2023/02/23 14:30:22 Templated 221 posts, took 36.576241ms
