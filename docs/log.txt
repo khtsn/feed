@@ -1,10 +1,12 @@
-2023/03/01 03:42:32 Fetched posts from https://www.hltv.org/rss/news, took 556.384882ms
-2023/03/01 03:42:32 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 652.44864ms
-2023/03/01 03:42:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.199830634s
-2023/03/01 03:42:33 Fetched posts from https://vlr.gg/rss, took 1.591163367s
-2023/03/01 03:42:34 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 3.083841232s
-2023/03/01 03:42:34 Fetched posts from https://blogtienao.com/feed, took 3.223139518s
-2023/03/01 03:42:40 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.988552766s
-2023/03/01 03:42:49 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.315406976s
-2023/03/01 03:42:57 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 26.279539609s
-2023/03/01 03:42:57 Templated 226 posts, took 39.084861ms
+2023/03/01 03:53:10 Fetched posts from https://www.hltv.org/rss/news, took 506.222451ms
+2023/03/01 03:53:10 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 708.240028ms
+2023/03/01 03:53:11 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.080387631s
+2023/03/01 03:53:11 Fetched posts from https://vlr.gg/rss, took 1.335773125s
+2023/03/01 03:53:12 Fetched posts from https://blogtienao.com/feed, took 2.018294151s
+2023/03/01 03:53:12 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 2.608557357s
+2023/03/01 03:53:27 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.912863529s
+2023/03/01 03:53:36 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 25.836560987s
+2023/03/01 03:54:21 Get "https://tuoitre.vn/nha-xuong-cong-ty-thuc-pham-dinh-duong-gafo-boc-chay-khoi-den-boc-cao-hang-tram-met-20230228182502061.htm": read tcp 10.1.0.29:50192->14.225.199.139:443: read: connection reset by peer
+2023/03/01 03:55:43 failed to parse input: read tcp 10.1.0.29:60506->14.225.199.139:443: read: connection reset by peer
+2023/03/01 03:55:45 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 2m35.334664192s
+2023/03/01 03:55:45 Templated 221 posts, took 38.576556ms
