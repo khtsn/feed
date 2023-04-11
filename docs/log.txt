@@ -1,11 +1,11 @@
-2023/04/11 16:55:00 Fetched posts from https://www.hltv.org/rss/news, took 464.77471ms
-2023/04/11 16:55:00 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 618.959085ms
-2023/04/11 16:55:00 Fetched posts from https://vlr.gg/rss, took 844.541385ms
-2023/04/11 16:55:01 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.891447925s
-2023/04/11 16:55:02 Fetched posts from https://blogtienao.com/feed, took 2.726364188s
-2023/04/11 16:55:03 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 3.056141992s
-2023/04/11 16:55:08 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.343473695s
-2023/04/11 16:55:10 error parsing https://vnexpress.net/rss/tin-moi-nhat.rss: Get "https://vnexpress.net/rss/tin-moi-nhat.rss": dial tcp: lookup vnexpress.net on 127.0.0.53:53: read udp 127.0.0.1:51014->127.0.0.53:53: i/o timeout
-2023/04/11 16:55:10 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 10.009885914s
-2023/04/11 16:55:14 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.391442781s
-2023/04/11 16:55:14 Templated 166 posts, took 27.180531ms
+2023/04/11 17:11:14 Fetched posts from https://www.hltv.org/rss/news, took 1.044468918s
+2023/04/11 17:11:14 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 1.043887601s
+2023/04/11 17:11:14 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.195604019s
+2023/04/11 17:11:15 Fetched posts from https://vlr.gg/rss, took 1.550417014s
+2023/04/11 17:11:16 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 2.948898105s
+2023/04/11 17:11:16 Fetched posts from https://blogtienao.com/feed, took 3.178707743s
+2023/04/11 17:11:21 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.846857172s
+2023/04/11 17:11:23 error parsing https://vnexpress.net/rss/tin-moi-nhat.rss: Get "https://vnexpress.net/rss/tin-moi-nhat.rss": dial tcp: lookup vnexpress.net on 127.0.0.53:53: read udp 127.0.0.1:45671->127.0.0.53:53: i/o timeout
+2023/04/11 17:11:23 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 10.010901126s
+2023/04/11 17:11:26 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 12.596667673s
+2023/04/11 17:11:26 Templated 165 posts, took 29.796754ms
