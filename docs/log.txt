@@ -1,11 +1,11 @@
-2023/04/15 18:29:11 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 560.888832ms
-2023/04/15 18:29:11 Fetched posts from https://www.hltv.org/rss/news, took 591.174373ms
-2023/04/15 18:29:12 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.495419349s
-2023/04/15 18:29:12 Fetched posts from https://vlr.gg/rss, took 1.565353818s
-2023/04/15 18:29:13 Fetched posts from https://blogtienao.com/feed, took 3.063858662s
-2023/04/15 18:29:14 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 3.410518587s
-2023/04/15 18:29:20 error parsing https://vnexpress.net/rss/tin-moi-nhat.rss: Get "https://vnexpress.net/rss/tin-moi-nhat.rss": dial tcp: lookup vnexpress.net on 127.0.0.53:53: read udp 127.0.0.1:60735->127.0.0.53:53: i/o timeout
-2023/04/15 18:29:20 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 10.007444745s
-2023/04/15 18:29:28 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.615787235s
-2023/04/15 18:29:45 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 35.339533695s
-2023/04/15 18:29:46 Templated 165 posts, took 25.455141ms
+2023/04/15 18:39:53 Fetched posts from https://www.hltv.org/rss/news, took 629.499081ms
+2023/04/15 18:39:53 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 851.644179ms
+2023/04/15 18:39:53 Fetched posts from https://vlr.gg/rss, took 884.000393ms
+2023/04/15 18:39:54 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.112753085s
+2023/04/15 18:39:55 Fetched posts from https://blogtienao.com/feed, took 2.052600535s
+2023/04/15 18:39:56 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 3.021254088s
+2023/04/15 18:40:03 error parsing https://vnexpress.net/rss/tin-moi-nhat.rss: Get "https://vnexpress.net/rss/tin-moi-nhat.rss": dial tcp: lookup vnexpress.net on 127.0.0.53:53: read udp 127.0.0.1:60272->127.0.0.53:53: i/o timeout
+2023/04/15 18:40:03 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 10.008654561s
+2023/04/15 18:40:09 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 16.261937766s
+2023/04/15 18:40:12 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.36129852s
+2023/04/15 18:40:12 Templated 164 posts, took 28.396982ms
