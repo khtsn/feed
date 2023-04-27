@@ -1,10 +1,13 @@
-2023/04/27 10:15:36 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 362.018236ms
-2023/04/27 10:15:36 Fetched posts from https://www.hltv.org/rss/news, took 398.618364ms
-2023/04/27 10:15:36 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 508.835753ms
-2023/04/27 10:15:37 Fetched posts from https://vlr.gg/rss, took 728.18532ms
-2023/04/27 10:15:37 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 939.056688ms
-2023/04/27 10:15:39 Fetched posts from https://blogtienao.com/feed, took 3.054298137s
-2023/04/27 10:15:45 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.773252525s
-2023/04/27 10:15:57 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.609745528s
-2023/04/27 10:16:01 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 25.040266684s
-2023/04/27 10:16:01 Templated 161 posts, took 25.271982ms
+2023/04/27 10:30:50 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 495.281399ms
+2023/04/27 10:30:50 Fetched posts from https://www.hltv.org/rss/news, took 528.714627ms
+2023/04/27 10:30:51 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 768.881848ms
+2023/04/27 10:30:51 Fetched posts from https://vlr.gg/rss, took 937.810495ms
+2023/04/27 10:30:52 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.837466843s
+2023/04/27 10:30:52 Fetched posts from https://blogtienao.com/feed, took 2.54617116s
+2023/04/27 10:31:09 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.174446475s
+2023/04/27 10:31:09 failed to parse input: unexpected EOF
+2023/04/27 10:31:13 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 23.054473612s
+2023/04/27 10:31:16 failed to parse input: unexpected EOF
+2023/04/27 10:31:18 failed to parse input: unexpected EOF
+2023/04/27 10:31:44 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 53.97409423s
+2023/04/27 10:31:44 Templated 158 posts, took 32.43001ms
