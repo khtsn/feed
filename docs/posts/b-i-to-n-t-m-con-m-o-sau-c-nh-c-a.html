@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bài toán tìm con mèo sau cánh cửa | Khanh's feed</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="../styles.css"
+      media="screen"
+    />
+  </head>
+  <body>
+    <a href="/index.html">Back</a>
+    <a href="https://vnexpress.net/bai-toan-tim-con-meo-sau-canh-cua-4604654.html">Original</a>
+    <h1>Bài toán tìm con mèo sau cánh cửa</h1>
+    
+    <div id="readability-page-1" class="page"><div>
+<ul data-campaign="Header">
+<li><a data-medium="Menu-GiaoDuc" href="https://www.24h.com.vn/giao-duc" title="Giáo dục">Giáo dục</a></li><li><a data-medium="Menu-TracNghiem" href="https://www.24h.com.vn/giao-duc/trac-nghiem" title="Trắc nghiệm">Trắc nghiệm</a></li>	<span id="parentCateDetail" data-cate="1004026"></span>
+<span id="site-sub-id" data-cate="1004026"></span>
+</ul>
+<p><span>Thứ bảy, 13/5/2023, 09:00 (GMT+7)</span>
+</p></div><p>Bài toán lớp 5 yêu cầu người đọc tính số lần mở cửa để tìm được con mèo, biết rằng sau mỗi lần mở vào cánh cửa trống, con mèo sẽ di chuyển tới cánh cửa khác.</p><article>
+<p><strong>Đề bài:</strong></p><p>Một hành lang thẳng có năm cánh cửa dọc theo một bên. Đằng sau một trong các cánh cửa đó có một con mèo. Nhiệm vụ của bạn là tìm ra con mèo bằng cách mở đúng cánh cửa. Mỗi ngày bạn chỉ có thể mở một cánh cửa. Nếu con mèo ở đó, bạn thắng.</p><p>Nếu con mèo không ở đó, cánh cửa sẽ đóng lại, và bạn phải đợi đến ngày hôm sau trước khi bạn có thể mở cửa lại. Con mèo di chuyển không ngừng nghỉ và mỗi đêm nó chuyển đến ngồi sau một cánh cửa khác. Cánh cửa mà nó di chuyển tới sẽ là cánh cửa bên trái hoặc bên phải của vị trí nó đang ở.</p><p>Bạn cần bao nhiêu ngày để chắc chắn tìm được con mèo?</p>
+<figure data-size="true" itemprop="associatedMedia image" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta itemprop="url" content="https://i1-vnexpress.vnecdn.net/2023/05/12/A-nh-chu-p-Ma-n-hi-nh-2023-05-4509-8576-1683907474.png?w=0&amp;h=0&amp;q=100&amp;dpr=2&amp;fit=crop&amp;s=M0d73QnPniz-UXK_yBSJUw"/>
+<meta itemprop="width" content="1406"/>
+<meta itemprop="height" content="644"/>
+<meta itemprop="href" content=""/>
+<div><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-vnexpress.vnecdn.net/2023/05/12/A-nh-chu-p-Ma-n-hi-nh-2023-05-4509-8576-1683907474.png?w=680&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=c2CxXVYbDX5Gs9oeConi1Q 1x, https://i1-vnexpress.vnecdn.net/2023/05/12/A-nh-chu-p-Ma-n-hi-nh-2023-05-4509-8576-1683907474.png?w=1020&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=OLdE4Nfy-2N0mM3rgbuK8A 1.5x, https://i1-vnexpress.vnecdn.net/2023/05/12/A-nh-chu-p-Ma-n-hi-nh-2023-05-4509-8576-1683907474.png?w=680&amp;h=0&amp;q=100&amp;dpr=2&amp;fit=crop&amp;s=Imb9rxW69dCBkHRHo85k_Q 2x"/>
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" loading="lazy" intrinsicsize="680x0" alt="Bài toán tìm con mèo sau cánh cửa" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-vnexpress.vnecdn.net/2023/05/12/A-nh-chu-p-Ma-n-hi-nh-2023-05-4509-8576-1683907474.png?w=680&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=c2CxXVYbDX5Gs9oeConi1Q"/>
+</picture></div>
+<figcaption itemprop="description">
+</figcaption>
+</figure><p>Bài toán đang yêu cầu bạn tìm một chiến lược để đảm bảo bạn sẽ bắt được con mèo trong một số ngày cố định, bất kể nó bắt đầu đằng sau cánh cửa nào và di chuyển đến đâu vào ban đêm. Chìa khóa để giải quyết vấn đề là bắt đầu với một số cửa nhỏ hơn, tìm ra mô hình và sau đó tăng số lượng cánh cửa.</p><p>Chúng ta hãy thử bắt đầu bài toán với trường hợp chỉ có ba cánh cửa. Nếu bạn mở cánh cửa ở giữa vào hai ngày liên tiếp, bạn sẽ đảm bảo bắt được con mèo, vì nếu con mèo không ở đằng sau cánh cửa ở giữa vào ngày thứ nhất, nó phải ở phía sau một trong hai cánh cửa ở hai đầu. Và nếu nó ở đằng sau một trong hai cánh cửa ở hai đầu vào ngày thứ nhất, nó không có lựa chọn nào khác ngoài việc di chuyển đến cánh cửa ở giữa vào ngày thứ hai.</p><p>Nếu có bốn cánh cửa, bạn có thể bắt được con mèo trong bốn ngày. Bạn có thể tìm được lời giải thích ngay trong đáp án bên dưới, nhưng trước đó, bạn hãy thử tự mình giải thích xem sao. Hãy nhớ rằng, con mèo chỉ di chuyển đến cánh cửa ngay bên phải hoặc bên trái của nó và có thể trở lại cánh cửa mà nó đã từng ngồi phía sau trước đây. Tin rằng bạn sẽ cảm thấy sung sướng khi tìm được lời giải thích.</p><p><a title="&gt;&gt;&gt;Đáp án" href="https://vnexpress.net/bai-toan-tim-con-meo-sau-canh-cua-4604654-p2.html">&gt;&gt;&gt;Đáp án</a></p><p><strong>Võ Quốc Bá Cẩn</strong></p><p><em>Giáo viên Toán, trường Archimedes Hà Nội</em></p>
+</article></div>
+  </body>
+</html>
