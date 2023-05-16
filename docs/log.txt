@@ -1,10 +1,14 @@
-2023/05/16 15:19:44 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 144.584638ms
-2023/05/16 15:19:44 Fetched posts from https://www.hltv.org/rss/news, took 533.561711ms
-2023/05/16 15:19:44 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 704.344575ms
-2023/05/16 15:19:44 Fetched posts from https://vlr.gg/rss, took 817.311483ms
-2023/05/16 15:19:45 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.276750423s
-2023/05/16 15:19:49 Fetched posts from https://blogtienao.com/feed, took 5.861260429s
-2023/05/16 15:19:53 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 9.281810335s
-2023/05/16 15:20:02 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.878508962s
-2023/05/16 15:20:15 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 31.725937054s
-2023/05/16 15:20:15 Templated 168 posts, took 24.5462ms
+2023/05/16 15:30:14 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 180.726545ms
+2023/05/16 15:30:14 Fetched posts from https://www.hltv.org/rss/news, took 390.10951ms
+2023/05/16 15:30:14 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 950.810716ms
+2023/05/16 15:30:14 Fetched posts from https://vlr.gg/rss, took 1.041633844s
+2023/05/16 15:30:15 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 1.244829618s
+2023/05/16 15:30:18 Fetched posts from https://blogtienao.com/feed, took 4.596541122s
+2023/05/16 15:30:23 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 9.650001027s
+2023/05/16 15:30:33 Content still empty after HTML reader: https://vnexpress.net/co-nen-dung-nen-thom-khu-mui-phong-4605293.html
+2023/05/16 15:30:38 Content still empty after HTML reader: https://vnexpress.net/tuyen-nu-viet-nam-ve-nuoc-4606014.html
+2023/05/16 15:30:40 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 26.633493966s
+2023/05/16 15:30:42 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 28.47277352s
+2023/05/16 15:30:42 Skipping writing post, no content: https://vnexpress.net/co-nen-dung-nen-thom-khu-mui-phong-4605293.html
+2023/05/16 15:30:42 Skipping writing post, no content: https://vnexpress.net/tuyen-nu-viet-nam-ve-nuoc-4606014.html
+2023/05/16 15:30:42 Templated 167 posts, took 26.764219ms
