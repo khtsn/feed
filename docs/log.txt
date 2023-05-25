@@ -1,11 +1,10 @@
-2023/05/25 16:13:54 error parsing https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml: http error: 404 Not Found
-2023/05/25 16:13:54 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 32.284407ms
-2023/05/25 16:13:54 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 261.708114ms
-2023/05/25 16:13:55 Fetched posts from https://www.hltv.org/rss/news, took 485.928039ms
-2023/05/25 16:13:55 Fetched posts from https://vlr.gg/rss, took 551.609571ms
-2023/05/25 16:13:56 Fetched posts from https://blogtienao.com/feed, took 2.109858674s
-2023/05/25 16:13:59 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 4.952833985s
-2023/05/25 16:14:02 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.317915507s
-2023/05/25 16:14:16 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.335999924s
-2023/05/25 16:14:23 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 28.493647636s
-2023/05/25 16:14:23 Templated 143 posts, took 22.041969ms
+2023/05/25 16:31:49 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 267.614665ms
+2023/05/25 16:31:49 Fetched posts from https://www.hltv.org/rss/news, took 502.823988ms
+2023/05/25 16:31:50 Fetched posts from https://vlr.gg/rss, took 1.016732375s
+2023/05/25 16:31:50 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.428558027s
+2023/05/25 16:31:51 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 1.681300555s
+2023/05/25 16:31:52 Fetched posts from https://blogtienao.com/feed, took 2.713259689s
+2023/05/25 16:31:56 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.461717038s
+2023/05/25 16:32:11 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.101190317s
+2023/05/25 16:32:17 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 28.003476334s
+2023/05/25 16:32:17 Templated 170 posts, took 27.455297ms
