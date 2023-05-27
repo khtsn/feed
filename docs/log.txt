@@ -1,10 +1,11 @@
-2023/05/27 13:33:40 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 220.558625ms
-2023/05/27 13:33:40 Fetched posts from https://www.hltv.org/rss/news, took 534.557341ms
-2023/05/27 13:33:40 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 635.743665ms
-2023/05/27 13:33:41 Fetched posts from https://vlr.gg/rss, took 816.522024ms
-2023/05/27 13:33:42 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.016773354s
-2023/05/27 13:33:42 Fetched posts from https://blogtienao.com/feed, took 2.057309625s
-2023/05/27 13:33:48 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.270311489s
-2023/05/27 13:33:59 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.981185733s
-2023/05/27 13:34:06 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 25.905935169s
-2023/05/27 13:34:06 Templated 168 posts, took 24.890544ms
+2023/05/27 13:44:40 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 200.423352ms
+2023/05/27 13:44:41 Fetched posts from https://www.hltv.org/rss/news, took 489.779734ms
+2023/05/27 13:44:41 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 571.51139ms
+2023/05/27 13:44:41 Fetched posts from https://vlr.gg/rss, took 731.853087ms
+2023/05/27 13:44:42 Fetched posts from https://blogtienao.com/feed, took 2.093439882s
+2023/05/27 13:44:42 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.231954027s
+2023/05/27 13:44:48 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.383960567s
+2023/05/27 13:44:50 error parsing https://cdn.24h.com.vn/upload/rss/bongda.rss: Get "https://cdn.24h.com.vn/upload/rss/bongda.rss": dial tcp: lookup cdn.24h.com.vn on 127.0.0.53:53: read udp 127.0.0.1:48795->127.0.0.53:53: i/o timeout
+2023/05/27 13:44:50 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 10.009781618s
+2023/05/27 13:45:06 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 25.648230879s
+2023/05/27 13:45:06 Templated 144 posts, took 24.188911ms
