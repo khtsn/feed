@@ -1,10 +1,11 @@
-2023/06/01 13:52:31 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 200.097568ms
-2023/06/01 13:52:31 Fetched posts from https://www.hltv.org/rss/news, took 587.559259ms
-2023/06/01 13:52:31 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 654.886804ms
-2023/06/01 13:52:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.088519742s
-2023/06/01 13:52:32 Fetched posts from https://vlr.gg/rss, took 1.524606099s
-2023/06/01 13:52:34 Fetched posts from https://blogtienao.com/feed, took 2.705274316s
-2023/06/01 13:52:38 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.209135167s
-2023/06/01 13:52:48 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.062503148s
-2023/06/01 13:53:09 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 38.667365473s
-2023/06/01 13:53:09 Templated 171 posts, took 29.737998ms
+2023/06/01 14:08:20 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 409.140682ms
+2023/06/01 14:08:21 Fetched posts from https://www.hltv.org/rss/news, took 492.862341ms
+2023/06/01 14:08:21 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 677.354531ms
+2023/06/01 14:08:21 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 835.187564ms
+2023/06/01 14:08:22 Fetched posts from https://vlr.gg/rss, took 1.997500411s
+2023/06/01 14:08:23 Fetched posts from https://blogtienao.com/feed, took 3.1570167s
+2023/06/01 14:08:27 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 6.794253416s
+2023/06/01 14:08:36 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.452319401s
+2023/06/01 14:08:50 error parsing https://vnexpress.net/rss/tin-moi-nhat.rss: Get "https://vnexpress.net/rss/tin-moi-nhat.rss": dial tcp 111.65.250.2:443: i/o timeout
+2023/06/01 14:08:50 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 30.000492434s
+2023/06/01 14:08:50 Templated 115 posts, took 24.456819ms
