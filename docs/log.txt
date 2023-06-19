@@ -1,26 +1,30 @@
-2023/06/19 03:54:52 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 161.511593ms
-2023/06/19 03:54:52 Content still empty after HTML reader: https://www.hltv.org/news/36495/saw-secure-master-league-portugal-title
-2023/06/19 03:54:52 Content still empty after HTML reader: https://www.hltv.org/news/36494/esc-announce-ukrainian-roster-featuring-edward-and-bondik
-2023/06/19 03:54:52 Content still empty after HTML reader: https://www.hltv.org/news/36487/free-agents-and-transfer-listed-players-of-the-2023-off-season
-2023/06/19 03:54:52 Content still empty after HTML reader: https://www.hltv.org/news/36492/falcons-bench-misutaaa
-2023/06/19 03:54:52 Content still empty after HTML reader: https://www.hltv.org/news/36491/railway-magnojez-el1an-depart-k23
-2023/06/19 03:54:52 Content still empty after HTML reader: https://www.hltv.org/news/36490/forze-open-to-offers-for-jerry-zorte
-2023/06/19 03:54:52 Content still empty after HTML reader: https://www.hltv.org/news/36489/media-navi-set-to-bench-npl-consider-going-international
-2023/06/19 03:54:52 Content still empty after HTML reader: https://www.hltv.org/news/36485/rostermania-off-season-changes-and-rumors-in-one-place
-2023/06/19 03:54:52 Fetched posts from https://www.hltv.org/rss/news, took 522.34339ms
-2023/06/19 03:54:53 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 836.051454ms
-2023/06/19 03:54:53 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 1.137354212s
-2023/06/19 03:54:53 Fetched posts from https://vlr.gg/rss, took 1.282068388s
-2023/06/19 03:54:54 Fetched posts from https://blogtienao.com/feed, took 2.047747389s
-2023/06/19 03:55:00 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.125726969s
-2023/06/19 03:55:12 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.146711334s
-2023/06/19 03:55:25 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 33.129858913s
-2023/06/19 03:55:25 Skipping writing post, no content: https://www.hltv.org/news/36495/saw-secure-master-league-portugal-title
-2023/06/19 03:55:25 Skipping writing post, no content: https://www.hltv.org/news/36494/esc-announce-ukrainian-roster-featuring-edward-and-bondik
-2023/06/19 03:55:25 Skipping writing post, no content: https://www.hltv.org/news/36487/free-agents-and-transfer-listed-players-of-the-2023-off-season
-2023/06/19 03:55:25 Skipping writing post, no content: https://www.hltv.org/news/36492/falcons-bench-misutaaa
-2023/06/19 03:55:25 Skipping writing post, no content: https://www.hltv.org/news/36491/railway-magnojez-el1an-depart-k23
-2023/06/19 03:55:25 Skipping writing post, no content: https://www.hltv.org/news/36490/forze-open-to-offers-for-jerry-zorte
-2023/06/19 03:55:25 Skipping writing post, no content: https://www.hltv.org/news/36489/media-navi-set-to-bench-npl-consider-going-international
-2023/06/19 03:55:25 Skipping writing post, no content: https://www.hltv.org/news/36485/rostermania-off-season-changes-and-rumors-in-one-place
-2023/06/19 03:55:25 Templated 174 posts, took 26.398838ms
+2023/06/19 04:15:32 Content still empty after HTML reader: https://www.hltv.org/news/36495/saw-secure-master-league-portugal-title
+2023/06/19 04:15:32 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 385.019741ms
+2023/06/19 04:15:32 Content still empty after HTML reader: https://www.hltv.org/news/36493/atox-win-perfect-world-arena-premier-league
+2023/06/19 04:15:32 Content still empty after HTML reader: https://www.hltv.org/news/36494/esc-announce-ukrainian-roster-featuring-edward-and-bondik
+2023/06/19 04:15:32 Content still empty after HTML reader: https://www.hltv.org/news/36487/free-agents-and-transfer-listed-players-of-the-2023-off-season
+2023/06/19 04:15:32 Content still empty after HTML reader: https://www.hltv.org/news/36492/falcons-bench-misutaaa
+2023/06/19 04:15:32 Content still empty after HTML reader: https://www.hltv.org/news/36491/railway-magnojez-el1an-depart-k23
+2023/06/19 04:15:32 Content still empty after HTML reader: https://www.hltv.org/news/36488/sources-falcons-sign-mhl-launx-target-boros
+2023/06/19 04:15:32 Content still empty after HTML reader: https://www.hltv.org/news/36490/forze-open-to-offers-for-jerry-zorte
+2023/06/19 04:15:32 Content still empty after HTML reader: https://www.hltv.org/news/36489/media-navi-set-to-bench-npl-consider-going-international
+2023/06/19 04:15:32 Content still empty after HTML reader: https://www.hltv.org/news/36485/rostermania-off-season-changes-and-rumors-in-one-place
+2023/06/19 04:15:32 Fetched posts from https://www.hltv.org/rss/news, took 476.299493ms
+2023/06/19 04:15:33 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 700.281252ms
+2023/06/19 04:15:33 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 932.049815ms
+2023/06/19 04:15:35 Fetched posts from https://vlr.gg/rss, took 2.749404814s
+2023/06/19 04:15:35 Fetched posts from https://blogtienao.com/feed, took 3.210432812s
+2023/06/19 04:15:39 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 6.683195008s
+2023/06/19 04:15:49 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.044808957s
+2023/06/19 04:16:01 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 29.079871546s
+2023/06/19 04:16:01 Skipping writing post, no content: https://www.hltv.org/news/36495/saw-secure-master-league-portugal-title
+2023/06/19 04:16:01 Skipping writing post, no content: https://www.hltv.org/news/36493/atox-win-perfect-world-arena-premier-league
+2023/06/19 04:16:01 Skipping writing post, no content: https://www.hltv.org/news/36494/esc-announce-ukrainian-roster-featuring-edward-and-bondik
+2023/06/19 04:16:01 Skipping writing post, no content: https://www.hltv.org/news/36487/free-agents-and-transfer-listed-players-of-the-2023-off-season
+2023/06/19 04:16:01 Skipping writing post, no content: https://www.hltv.org/news/36492/falcons-bench-misutaaa
+2023/06/19 04:16:01 Skipping writing post, no content: https://www.hltv.org/news/36491/railway-magnojez-el1an-depart-k23
+2023/06/19 04:16:01 Skipping writing post, no content: https://www.hltv.org/news/36488/sources-falcons-sign-mhl-launx-target-boros
+2023/06/19 04:16:01 Skipping writing post, no content: https://www.hltv.org/news/36490/forze-open-to-offers-for-jerry-zorte
+2023/06/19 04:16:01 Skipping writing post, no content: https://www.hltv.org/news/36489/media-navi-set-to-bench-npl-consider-going-international
+2023/06/19 04:16:01 Skipping writing post, no content: https://www.hltv.org/news/36485/rostermania-off-season-changes-and-rumors-in-one-place
+2023/06/19 04:16:01 Templated 174 posts, took 29.935894ms
