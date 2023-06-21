@@ -1,11 +1,30 @@
-2023/06/21 03:01:03 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 223.845742ms
-2023/06/21 03:01:03 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 826.616547ms
-2023/06/21 03:01:04 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.454539804s
-2023/06/21 03:01:04 Fetched posts from https://vlr.gg/rss, took 1.738823956s
-2023/06/21 03:01:05 Fetched posts from https://blogtienao.com/feed, took 2.838528197s
-2023/06/21 03:01:11 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.298708523s
-2023/06/21 03:01:16 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.857190651s
-2023/06/21 03:01:36 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 33.761041138s
-2023/06/21 03:02:03 error parsing https://www.hltv.org/rss/news: http error: 504 Gateway Timeout
-2023/06/21 03:02:03 Fetched posts from https://www.hltv.org/rss/news, took 1m0.34770629s
-2023/06/21 03:02:03 Templated 160 posts, took 29.180785ms
+2023/06/21 03:20:20 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 156.673064ms
+2023/06/21 03:20:20 Content still empty after HTML reader: https://www.hltv.org/news/36506/team-olofmeister-win-1xbet-goat-league-summer-vacation
+2023/06/21 03:20:20 Content still empty after HTML reader: https://www.hltv.org/news/36503/im-on-hltv-confirmed-discussing-his-career-and-major-run-offseason-rumors
+2023/06/21 03:20:20 Content still empty after HTML reader: https://www.hltv.org/news/36505/entropiq-set-out-to-build-new-international-contender-we-understand-what-it-takes-to-get-to-a-major
+2023/06/21 03:20:20 Content still empty after HTML reader: https://www.hltv.org/news/36504/official-og-transfer-list-neofrag-degster
+2023/06/21 03:20:20 Content still empty after HTML reader: https://www.hltv.org/news/36502/official-falcons-announce-launx-mhl-boros-additions
+2023/06/21 03:20:20 Content still empty after HTML reader: https://www.hltv.org/news/36501/media-fallen-chooses-furia-as-negotiations-begin
+2023/06/21 03:20:20 Content still empty after HTML reader: https://www.hltv.org/news/36499/iem-fall-to-be-held-in-sydney
+2023/06/21 03:20:20 Content still empty after HTML reader: https://www.hltv.org/news/36500/sources-og-to-rebuild-around-f1ku-nexa-regali
+2023/06/21 03:20:20 Content still empty after HTML reader: https://www.hltv.org/news/36498/media-liquid-target-patsi-look-to-sell-elige
+2023/06/21 03:20:20 Content still empty after HTML reader: https://www.hltv.org/news/36497/ence-invited-to-elisa-masters-espoo-2023
+2023/06/21 03:20:20 Fetched posts from https://www.hltv.org/rss/news, took 290.379066ms
+2023/06/21 03:20:20 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 520.726889ms
+2023/06/21 03:20:21 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 883.228491ms
+2023/06/21 03:20:21 Fetched posts from https://vlr.gg/rss, took 1.103575956s
+2023/06/21 03:20:22 Fetched posts from https://blogtienao.com/feed, took 1.977880006s
+2023/06/21 03:20:30 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 9.792219763s
+2023/06/21 03:20:39 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.612404442s
+2023/06/21 03:20:58 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 38.615861807s
+2023/06/21 03:20:58 Skipping writing post, no content: https://www.hltv.org/news/36506/team-olofmeister-win-1xbet-goat-league-summer-vacation
+2023/06/21 03:20:58 Skipping writing post, no content: https://www.hltv.org/news/36503/im-on-hltv-confirmed-discussing-his-career-and-major-run-offseason-rumors
+2023/06/21 03:20:58 Skipping writing post, no content: https://www.hltv.org/news/36505/entropiq-set-out-to-build-new-international-contender-we-understand-what-it-takes-to-get-to-a-major
+2023/06/21 03:20:58 Skipping writing post, no content: https://www.hltv.org/news/36504/official-og-transfer-list-neofrag-degster
+2023/06/21 03:20:58 Skipping writing post, no content: https://www.hltv.org/news/36502/official-falcons-announce-launx-mhl-boros-additions
+2023/06/21 03:20:58 Skipping writing post, no content: https://www.hltv.org/news/36501/media-fallen-chooses-furia-as-negotiations-begin
+2023/06/21 03:20:58 Skipping writing post, no content: https://www.hltv.org/news/36499/iem-fall-to-be-held-in-sydney
+2023/06/21 03:20:58 Skipping writing post, no content: https://www.hltv.org/news/36500/sources-og-to-rebuild-around-f1ku-nexa-regali
+2023/06/21 03:20:58 Skipping writing post, no content: https://www.hltv.org/news/36498/media-liquid-target-patsi-look-to-sell-elige
+2023/06/21 03:20:58 Skipping writing post, no content: https://www.hltv.org/news/36497/ence-invited-to-elisa-masters-espoo-2023
+2023/06/21 03:20:58 Templated 169 posts, took 28.59693ms
