@@ -1,31 +1,30 @@
-2023/06/22 16:51:15 error parsing https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml: http error: 404 Not Found
-2023/06/22 16:51:15 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 54.035299ms
-2023/06/22 16:51:15 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 399.752603ms
-2023/06/22 16:51:15 Content still empty after HTML reader: https://www.hltv.org/news/36518/flamez-replaces-dupreeh-in-vitality
-2023/06/22 16:51:15 Content still empty after HTML reader: https://www.hltv.org/news/36517/mouz-nxt-allow-q-q-sl3nd-to-explore-options
-2023/06/22 16:51:15 Content still empty after HTML reader: https://www.hltv.org/news/36516/official-astralis-add-staehr-b0rup
-2023/06/22 16:51:15 Content still empty after HTML reader: https://www.hltv.org/news/36514/media-eg-left-scrambling-as-jackz-zorte-no-longer-part-of-plans
-2023/06/22 16:51:15 Content still empty after HTML reader: https://www.hltv.org/news/36513/sources-astralis-bench-gla1ve-finalize-staehr-transfer
-2023/06/22 16:51:15 Content still empty after HTML reader: https://www.hltv.org/news/36511/big-sign-mantuu-promote-s1n-prosus-in-major-roster-overhaul
-2023/06/22 16:51:15 Content still empty after HTML reader: https://www.hltv.org/news/36485/rostermania-off-season-changes-and-rumors-in-one-place
-2023/06/22 16:51:15 Content still empty after HTML reader: https://www.hltv.org/news/36512/sources-liquid-complete-rainwaker-signing
-2023/06/22 16:51:15 Content still empty after HTML reader: https://www.hltv.org/news/36510/media-navi-in-talks-over-im-and-aleksib
-2023/06/22 16:51:15 Content still empty after HTML reader: https://www.hltv.org/news/36509/jame-extends-contract-with-virtuspro-for-four-years
-2023/06/22 16:51:15 Fetched posts from https://www.hltv.org/rss/news, took 559.975983ms
-2023/06/22 16:51:15 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 951.882161ms
-2023/06/22 16:51:17 Fetched posts from https://vlr.gg/rss, took 2.7234608s
-2023/06/22 16:51:18 Fetched posts from https://blogtienao.com/feed, took 3.374762877s
-2023/06/22 16:51:21 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 6.649838987s
-2023/06/22 16:51:30 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.440971982s
-2023/06/22 16:51:51 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 36.608663691s
-2023/06/22 16:51:51 Skipping writing post, no content: https://www.hltv.org/news/36518/flamez-replaces-dupreeh-in-vitality
-2023/06/22 16:51:51 Skipping writing post, no content: https://www.hltv.org/news/36517/mouz-nxt-allow-q-q-sl3nd-to-explore-options
-2023/06/22 16:51:51 Skipping writing post, no content: https://www.hltv.org/news/36516/official-astralis-add-staehr-b0rup
-2023/06/22 16:51:51 Skipping writing post, no content: https://www.hltv.org/news/36514/media-eg-left-scrambling-as-jackz-zorte-no-longer-part-of-plans
-2023/06/22 16:51:51 Skipping writing post, no content: https://www.hltv.org/news/36513/sources-astralis-bench-gla1ve-finalize-staehr-transfer
-2023/06/22 16:51:51 Skipping writing post, no content: https://www.hltv.org/news/36511/big-sign-mantuu-promote-s1n-prosus-in-major-roster-overhaul
-2023/06/22 16:51:51 Skipping writing post, no content: https://www.hltv.org/news/36485/rostermania-off-season-changes-and-rumors-in-one-place
-2023/06/22 16:51:51 Skipping writing post, no content: https://www.hltv.org/news/36512/sources-liquid-complete-rainwaker-signing
-2023/06/22 16:51:51 Skipping writing post, no content: https://www.hltv.org/news/36510/media-navi-in-talks-over-im-and-aleksib
-2023/06/22 16:51:51 Skipping writing post, no content: https://www.hltv.org/news/36509/jame-extends-contract-with-virtuspro-for-four-years
-2023/06/22 16:51:51 Templated 154 posts, took 29.998085ms
+2023/06/22 17:04:51 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 136.581362ms
+2023/06/22 17:04:51 Content still empty after HTML reader: https://www.hltv.org/news/36518/flamez-replaces-dupreeh-in-vitality
+2023/06/22 17:04:51 Content still empty after HTML reader: https://www.hltv.org/news/36517/mouz-nxt-allow-q-q-sl3nd-to-explore-options
+2023/06/22 17:04:51 Content still empty after HTML reader: https://www.hltv.org/news/36516/official-astralis-add-staehr-b0rup
+2023/06/22 17:04:51 Content still empty after HTML reader: https://www.hltv.org/news/36514/media-eg-left-scrambling-as-jackz-zorte-no-longer-part-of-plans
+2023/06/22 17:04:51 Content still empty after HTML reader: https://www.hltv.org/news/36513/sources-astralis-bench-gla1ve-finalize-staehr-transfer
+2023/06/22 17:04:51 Content still empty after HTML reader: https://www.hltv.org/news/36511/big-sign-mantuu-promote-s1n-prosus-in-major-roster-overhaul
+2023/06/22 17:04:51 Content still empty after HTML reader: https://www.hltv.org/news/36485/rostermania-off-season-changes-and-rumors-in-one-place
+2023/06/22 17:04:51 Content still empty after HTML reader: https://www.hltv.org/news/36512/sources-liquid-complete-rainwaker-signing
+2023/06/22 17:04:51 Content still empty after HTML reader: https://www.hltv.org/news/36510/media-navi-in-talks-over-im-and-aleksib
+2023/06/22 17:04:51 Content still empty after HTML reader: https://www.hltv.org/news/36509/jame-extends-contract-with-virtuspro-for-four-years
+2023/06/22 17:04:51 Fetched posts from https://www.hltv.org/rss/news, took 500.034514ms
+2023/06/22 17:04:51 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 565.067043ms
+2023/06/22 17:04:52 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.079234135s
+2023/06/22 17:04:52 Fetched posts from https://vlr.gg/rss, took 1.111743839s
+2023/06/22 17:04:53 Fetched posts from https://blogtienao.com/feed, took 2.016704081s
+2023/06/22 17:04:59 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.443149355s
+2023/06/22 17:05:04 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.515051776s
+2023/06/22 17:05:28 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 36.887616341s
+2023/06/22 17:05:28 Skipping writing post, no content: https://www.hltv.org/news/36518/flamez-replaces-dupreeh-in-vitality
+2023/06/22 17:05:28 Skipping writing post, no content: https://www.hltv.org/news/36517/mouz-nxt-allow-q-q-sl3nd-to-explore-options
+2023/06/22 17:05:28 Skipping writing post, no content: https://www.hltv.org/news/36516/official-astralis-add-staehr-b0rup
+2023/06/22 17:05:28 Skipping writing post, no content: https://www.hltv.org/news/36514/media-eg-left-scrambling-as-jackz-zorte-no-longer-part-of-plans
+2023/06/22 17:05:28 Skipping writing post, no content: https://www.hltv.org/news/36513/sources-astralis-bench-gla1ve-finalize-staehr-transfer
+2023/06/22 17:05:28 Skipping writing post, no content: https://www.hltv.org/news/36511/big-sign-mantuu-promote-s1n-prosus-in-major-roster-overhaul
+2023/06/22 17:05:28 Skipping writing post, no content: https://www.hltv.org/news/36485/rostermania-off-season-changes-and-rumors-in-one-place
+2023/06/22 17:05:28 Skipping writing post, no content: https://www.hltv.org/news/36512/sources-liquid-complete-rainwaker-signing
+2023/06/22 17:05:28 Skipping writing post, no content: https://www.hltv.org/news/36510/media-navi-in-talks-over-im-and-aleksib
+2023/06/22 17:05:28 Skipping writing post, no content: https://www.hltv.org/news/36509/jame-extends-contract-with-virtuspro-for-four-years
+2023/06/22 17:05:28 Templated 176 posts, took 24.80627ms
