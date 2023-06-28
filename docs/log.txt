@@ -1,29 +1,31 @@
-2023/06/28 17:49:20 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 181.989193ms
-2023/06/28 17:49:20 Content still empty after HTML reader: https://www.hltv.org/news/36547/mouz-bench-jdc
-2023/06/28 17:49:21 Content still empty after HTML reader: https://www.hltv.org/news/36544/media-mibr-in-negotiations-with-furia-over-drop-and-saffee
-2023/06/28 17:49:21 Content still empty after HTML reader: https://www.hltv.org/news/36543/mibr-bench-hen1
-2023/06/28 17:49:21 Content still empty after HTML reader: https://www.hltv.org/news/36542/forze-fielding-offers-for-krad
-2023/06/28 17:49:21 Content still empty after HTML reader: https://www.hltv.org/news/36541/sangal-release-kory-bench-scrunk
-2023/06/28 17:49:21 Content still empty after HTML reader: https://www.hltv.org/news/36539/vorborg-before-i-even-joined-eg-i-pointed-out-that-the-roster-composition-didnt-make-sense-to-me
-2023/06/28 17:49:21 Content still empty after HTML reader: https://www.hltv.org/news/36536/stat-check-how-will-flamez-fit-into-vitality
-2023/06/28 17:49:21 Content still empty after HTML reader: https://www.hltv.org/news/36538/sources-cacanito-to-apeks-done-deal
-2023/06/28 17:49:21 Content still empty after HTML reader: https://www.hltv.org/news/36537/pgl-cs2-major-copenhagen-ticket-sales-start
-2023/06/28 17:49:21 Fetched posts from https://www.hltv.org/rss/news, took 431.21793ms
-2023/06/28 17:49:21 Fetched posts from https://vlr.gg/rss, took 873.240128ms
-2023/06/28 17:49:21 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 970.216352ms
-2023/06/28 17:49:22 Fetched posts from https://blogtienao.com/feed, took 2.135656736s
-2023/06/28 17:49:29 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.357098605s
-2023/06/28 17:49:37 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.726023081s
-2023/06/28 17:50:00 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/06/28 17:50:00 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.277548709s
-2023/06/28 17:50:01 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 41.022265952s
-2023/06/28 17:50:01 Skipping writing post, no content: https://www.hltv.org/news/36547/mouz-bench-jdc
-2023/06/28 17:50:01 Skipping writing post, no content: https://www.hltv.org/news/36544/media-mibr-in-negotiations-with-furia-over-drop-and-saffee
-2023/06/28 17:50:01 Skipping writing post, no content: https://www.hltv.org/news/36543/mibr-bench-hen1
-2023/06/28 17:50:01 Skipping writing post, no content: https://www.hltv.org/news/36542/forze-fielding-offers-for-krad
-2023/06/28 17:50:01 Skipping writing post, no content: https://www.hltv.org/news/36541/sangal-release-kory-bench-scrunk
-2023/06/28 17:50:01 Skipping writing post, no content: https://www.hltv.org/news/36539/vorborg-before-i-even-joined-eg-i-pointed-out-that-the-roster-composition-didnt-make-sense-to-me
-2023/06/28 17:50:01 Skipping writing post, no content: https://www.hltv.org/news/36536/stat-check-how-will-flamez-fit-into-vitality
-2023/06/28 17:50:01 Skipping writing post, no content: https://www.hltv.org/news/36538/sources-cacanito-to-apeks-done-deal
-2023/06/28 17:50:01 Skipping writing post, no content: https://www.hltv.org/news/36537/pgl-cs2-major-copenhagen-ticket-sales-start
-2023/06/28 17:50:01 Templated 164 posts, took 23.419477ms
+2023/06/28 17:59:58 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 238.555781ms
+2023/06/28 17:59:58 Content still empty after HTML reader: https://www.hltv.org/news/36547/mouz-bench-jdc
+2023/06/28 17:59:58 Content still empty after HTML reader: https://www.hltv.org/news/36546/pgl-reveal-schedule-for-cs2-major-rmr-qualifiers
+2023/06/28 17:59:58 Content still empty after HTML reader: https://www.hltv.org/news/36544/media-mibr-in-negotiations-with-furia-over-drop-and-saffee
+2023/06/28 17:59:58 Content still empty after HTML reader: https://www.hltv.org/news/36543/mibr-bench-hen1
+2023/06/28 17:59:58 Content still empty after HTML reader: https://www.hltv.org/news/36542/forze-fielding-offers-for-krad
+2023/06/28 17:59:58 Content still empty after HTML reader: https://www.hltv.org/news/36541/sangal-release-kory-bench-scrunk
+2023/06/28 17:59:58 Content still empty after HTML reader: https://www.hltv.org/news/36539/vorborg-before-i-even-joined-eg-i-pointed-out-that-the-roster-composition-didnt-make-sense-to-me
+2023/06/28 17:59:58 Content still empty after HTML reader: https://www.hltv.org/news/36536/stat-check-how-will-flamez-fit-into-vitality
+2023/06/28 17:59:58 Content still empty after HTML reader: https://www.hltv.org/news/36538/sources-cacanito-to-apeks-done-deal
+2023/06/28 17:59:59 Content still empty after HTML reader: https://www.hltv.org/news/36537/pgl-cs2-major-copenhagen-ticket-sales-start
+2023/06/28 17:59:59 Fetched posts from https://www.hltv.org/rss/news, took 418.97948ms
+2023/06/28 18:00:00 Fetched posts from https://vlr.gg/rss, took 1.493530707s
+2023/06/28 18:00:00 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.514675484s
+2023/06/28 18:00:01 Fetched posts from https://blogtienao.com/feed, took 2.647600896s
+2023/06/28 18:00:06 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.443196995s
+2023/06/28 18:00:11 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 12.614444795s
+2023/06/28 18:00:37 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 38.458339777s
+2023/06/28 18:00:38 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/06/28 18:00:38 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.265456291s
+2023/06/28 18:00:38 Skipping writing post, no content: https://www.hltv.org/news/36547/mouz-bench-jdc
+2023/06/28 18:00:38 Skipping writing post, no content: https://www.hltv.org/news/36546/pgl-reveal-schedule-for-cs2-major-rmr-qualifiers
+2023/06/28 18:00:38 Skipping writing post, no content: https://www.hltv.org/news/36544/media-mibr-in-negotiations-with-furia-over-drop-and-saffee
+2023/06/28 18:00:38 Skipping writing post, no content: https://www.hltv.org/news/36543/mibr-bench-hen1
+2023/06/28 18:00:38 Skipping writing post, no content: https://www.hltv.org/news/36542/forze-fielding-offers-for-krad
+2023/06/28 18:00:38 Skipping writing post, no content: https://www.hltv.org/news/36541/sangal-release-kory-bench-scrunk
+2023/06/28 18:00:38 Skipping writing post, no content: https://www.hltv.org/news/36539/vorborg-before-i-even-joined-eg-i-pointed-out-that-the-roster-composition-didnt-make-sense-to-me
+2023/06/28 18:00:38 Skipping writing post, no content: https://www.hltv.org/news/36536/stat-check-how-will-flamez-fit-into-vitality
+2023/06/28 18:00:38 Skipping writing post, no content: https://www.hltv.org/news/36538/sources-cacanito-to-apeks-done-deal
+2023/06/28 18:00:38 Skipping writing post, no content: https://www.hltv.org/news/36537/pgl-cs2-major-copenhagen-ticket-sales-start
+2023/06/28 18:00:38 Templated 164 posts, took 32.110641ms
