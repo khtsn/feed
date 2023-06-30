@@ -1,29 +1,31 @@
-2023/06/30 11:27:36 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 269.26998ms
-2023/06/30 11:27:36 Content still empty after HTML reader: https://www.hltv.org/news/36558/nabowow-stays-on-as-saws-coach
-2023/06/30 11:27:36 Content still empty after HTML reader: https://www.hltv.org/news/36557/astralis-talent-and-kristou-part-ways
-2023/06/30 11:27:36 Content still empty after HTML reader: https://www.hltv.org/news/36555/cs2-update-swaps-mirage-for-nuke-office
-2023/06/30 11:27:36 Content still empty after HTML reader: https://www.hltv.org/news/36554/esl-fine-astralis-100000-for-conflict-of-interest
-2023/06/30 11:27:36 Content still empty after HTML reader: https://www.hltv.org/news/36552/9ine-invited-to-hussar-cup
-2023/06/30 11:27:36 Content still empty after HTML reader: https://www.hltv.org/news/36551/furia-say-goodbye-to-drop-saffee
-2023/06/30 11:27:36 Content still empty after HTML reader: https://www.hltv.org/news/36545/future-of-csppa-unknown-after-website-goes-offline-board-members-depart
-2023/06/30 11:27:36 Content still empty after HTML reader: https://www.hltv.org/news/36548/hardzao-moved-to-pains-bench
-2023/06/30 11:27:36 Content still empty after HTML reader: https://www.hltv.org/news/36547/mouz-bench-jdc
-2023/06/30 11:27:36 Fetched posts from https://www.hltv.org/rss/news, took 901.726231ms
-2023/06/30 11:27:37 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.43685052s
-2023/06/30 11:27:37 Fetched posts from https://vlr.gg/rss, took 1.735738144s
-2023/06/30 11:27:38 Fetched posts from https://blogtienao.com/feed, took 2.650146666s
-2023/06/30 11:27:44 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.989360903s
-2023/06/30 11:27:50 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.868827182s
-2023/06/30 11:28:16 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/06/30 11:28:16 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.219832569s
-2023/06/30 11:28:18 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 42.201081047s
-2023/06/30 11:28:18 Skipping writing post, no content: https://www.hltv.org/news/36558/nabowow-stays-on-as-saws-coach
-2023/06/30 11:28:18 Skipping writing post, no content: https://www.hltv.org/news/36557/astralis-talent-and-kristou-part-ways
-2023/06/30 11:28:18 Skipping writing post, no content: https://www.hltv.org/news/36555/cs2-update-swaps-mirage-for-nuke-office
-2023/06/30 11:28:18 Skipping writing post, no content: https://www.hltv.org/news/36554/esl-fine-astralis-100000-for-conflict-of-interest
-2023/06/30 11:28:18 Skipping writing post, no content: https://www.hltv.org/news/36552/9ine-invited-to-hussar-cup
-2023/06/30 11:28:18 Skipping writing post, no content: https://www.hltv.org/news/36551/furia-say-goodbye-to-drop-saffee
-2023/06/30 11:28:18 Skipping writing post, no content: https://www.hltv.org/news/36545/future-of-csppa-unknown-after-website-goes-offline-board-members-depart
-2023/06/30 11:28:18 Skipping writing post, no content: https://www.hltv.org/news/36548/hardzao-moved-to-pains-bench
-2023/06/30 11:28:18 Skipping writing post, no content: https://www.hltv.org/news/36547/mouz-bench-jdc
-2023/06/30 11:28:18 Templated 165 posts, took 22.050754ms
+2023/06/30 11:38:36 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 457.93373ms
+2023/06/30 11:38:36 Content still empty after HTML reader: https://www.hltv.org/news/36558/nabowow-stays-on-as-saws-coach
+2023/06/30 11:38:36 Content still empty after HTML reader: https://www.hltv.org/news/36557/astralis-talent-and-kristou-part-ways
+2023/06/30 11:38:36 Content still empty after HTML reader: https://www.hltv.org/news/36555/cs2-update-swaps-mirage-for-nuke-office
+2023/06/30 11:38:36 Content still empty after HTML reader: https://www.hltv.org/news/36550/flamez-on-hltv-confirmed-transfer-to-vitality-and-new-roster-rumors
+2023/06/30 11:38:36 Content still empty after HTML reader: https://www.hltv.org/news/36554/esl-fine-astralis-100000-for-conflict-of-interest
+2023/06/30 11:38:36 Content still empty after HTML reader: https://www.hltv.org/news/36552/9ine-invited-to-hussar-cup
+2023/06/30 11:38:36 Content still empty after HTML reader: https://www.hltv.org/news/36551/furia-say-goodbye-to-drop-saffee
+2023/06/30 11:38:36 Content still empty after HTML reader: https://www.hltv.org/news/36545/future-of-csppa-unknown-after-website-goes-offline-board-members-depart
+2023/06/30 11:38:36 Content still empty after HTML reader: https://www.hltv.org/news/36548/hardzao-moved-to-pains-bench
+2023/06/30 11:38:36 Content still empty after HTML reader: https://www.hltv.org/news/36547/mouz-bench-jdc
+2023/06/30 11:38:36 Fetched posts from https://www.hltv.org/rss/news, took 533.965813ms
+2023/06/30 11:38:37 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.027206077s
+2023/06/30 11:38:38 Fetched posts from https://vlr.gg/rss, took 2.130222433s
+2023/06/30 11:38:39 Fetched posts from https://blogtienao.com/feed, took 3.352785676s
+2023/06/30 11:38:43 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.047677454s
+2023/06/30 11:38:54 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.426985804s
+2023/06/30 11:39:13 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 37.32924113s
+2023/06/30 11:39:16 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/06/30 11:39:16 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.176370507s
+2023/06/30 11:39:16 Skipping writing post, no content: https://www.hltv.org/news/36558/nabowow-stays-on-as-saws-coach
+2023/06/30 11:39:16 Skipping writing post, no content: https://www.hltv.org/news/36557/astralis-talent-and-kristou-part-ways
+2023/06/30 11:39:16 Skipping writing post, no content: https://www.hltv.org/news/36555/cs2-update-swaps-mirage-for-nuke-office
+2023/06/30 11:39:16 Skipping writing post, no content: https://www.hltv.org/news/36550/flamez-on-hltv-confirmed-transfer-to-vitality-and-new-roster-rumors
+2023/06/30 11:39:16 Skipping writing post, no content: https://www.hltv.org/news/36554/esl-fine-astralis-100000-for-conflict-of-interest
+2023/06/30 11:39:16 Skipping writing post, no content: https://www.hltv.org/news/36552/9ine-invited-to-hussar-cup
+2023/06/30 11:39:16 Skipping writing post, no content: https://www.hltv.org/news/36551/furia-say-goodbye-to-drop-saffee
+2023/06/30 11:39:16 Skipping writing post, no content: https://www.hltv.org/news/36545/future-of-csppa-unknown-after-website-goes-offline-board-members-depart
+2023/06/30 11:39:16 Skipping writing post, no content: https://www.hltv.org/news/36548/hardzao-moved-to-pains-bench
+2023/06/30 11:39:16 Skipping writing post, no content: https://www.hltv.org/news/36547/mouz-bench-jdc
+2023/06/30 11:39:16 Templated 165 posts, took 29.525332ms
