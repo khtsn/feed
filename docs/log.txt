@@ -1,30 +1,33 @@
-2023/07/02 11:52:25 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 314.196578ms
-2023/07/02 11:52:25 Content still empty after HTML reader: https://www.hltv.org/news/36569/500-add-kaluber
-2023/07/02 11:52:25 Content still empty after HTML reader: https://www.hltv.org/news/36540/the-dual-berettas-have-become-a-go-to-in-pistol-rounds-but-how-good-are-they-really
-2023/07/02 11:52:25 Content still empty after HTML reader: https://www.hltv.org/news/36568/community-reacts-navi-goes-international
-2023/07/02 11:52:25 Content still empty after HTML reader: https://www.hltv.org/news/36566/official-mibr-sign-saffee-drop
-2023/07/02 11:52:25 Content still empty after HTML reader: https://www.hltv.org/news/36556/one-for-the-future-donk
-2023/07/02 11:52:25 Content still empty after HTML reader: https://www.hltv.org/news/36559/flamez-on-joining-vitality-the-motivation-was-to-succeed-with-another-israeli-guy
-2023/07/02 11:52:25 Content still empty after HTML reader: https://www.hltv.org/news/36549/ren-rechtman-nominated-for-better-collectives-board-of-directors
-2023/07/02 11:52:25 Content still empty after HTML reader: https://www.hltv.org/news/36562/sources-movistar-riders-in-advanced-negotiations-with-just-sausol-set-to-become-free-agent
-2023/07/02 11:52:25 Content still empty after HTML reader: https://www.hltv.org/news/36563/mouz-bid-farewell-to-dexter
-2023/07/02 11:52:25 Fetched posts from https://www.hltv.org/rss/news, took 664.950366ms
-2023/07/02 11:52:25 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 896.181472ms
-2023/07/02 11:52:27 Fetched posts from https://blogtienao.com/feed, took 2.0718635s
-2023/07/02 11:52:33 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.879001255s
-2023/07/02 11:52:38 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.948300924s
-2023/07/02 11:52:54 error parsing https://vlr.gg/rss: Get "https://vlr.gg/rss": dial tcp 172.104.213.34:443: i/o timeout
-2023/07/02 11:52:54 Fetched posts from https://vlr.gg/rss, took 30.000767728s
-2023/07/02 11:53:02 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 37.068131964s
-2023/07/02 11:53:05 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/07/02 11:53:05 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.281736753s
-2023/07/02 11:53:05 Skipping writing post, no content: https://www.hltv.org/news/36569/500-add-kaluber
-2023/07/02 11:53:05 Skipping writing post, no content: https://www.hltv.org/news/36540/the-dual-berettas-have-become-a-go-to-in-pistol-rounds-but-how-good-are-they-really
-2023/07/02 11:53:05 Skipping writing post, no content: https://www.hltv.org/news/36568/community-reacts-navi-goes-international
-2023/07/02 11:53:05 Skipping writing post, no content: https://www.hltv.org/news/36566/official-mibr-sign-saffee-drop
-2023/07/02 11:53:05 Skipping writing post, no content: https://www.hltv.org/news/36556/one-for-the-future-donk
-2023/07/02 11:53:05 Skipping writing post, no content: https://www.hltv.org/news/36559/flamez-on-joining-vitality-the-motivation-was-to-succeed-with-another-israeli-guy
-2023/07/02 11:53:05 Skipping writing post, no content: https://www.hltv.org/news/36549/ren-rechtman-nominated-for-better-collectives-board-of-directors
-2023/07/02 11:53:05 Skipping writing post, no content: https://www.hltv.org/news/36562/sources-movistar-riders-in-advanced-negotiations-with-just-sausol-set-to-become-free-agent
-2023/07/02 11:53:05 Skipping writing post, no content: https://www.hltv.org/news/36563/mouz-bid-farewell-to-dexter
-2023/07/02 11:53:05 Templated 146 posts, took 20.929438ms
+2023/07/02 12:17:24 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 464.757662ms
+2023/07/02 12:17:24 Content still empty after HTML reader: https://www.hltv.org/news/36569/500-add-kaluber
+2023/07/02 12:17:24 Content still empty after HTML reader: https://www.hltv.org/news/36540/the-dual-berettas-have-become-a-go-to-in-pistol-rounds-but-how-good-are-they-really
+2023/07/02 12:17:24 Content still empty after HTML reader: https://www.hltv.org/news/36568/community-reacts-navi-goes-international
+2023/07/02 12:17:24 Content still empty after HTML reader: https://www.hltv.org/news/36567/official-cacanito-joins-apeks
+2023/07/02 12:17:24 Content still empty after HTML reader: https://www.hltv.org/news/36566/official-mibr-sign-saffee-drop
+2023/07/02 12:17:24 Content still empty after HTML reader: https://www.hltv.org/news/36556/one-for-the-future-donk
+2023/07/02 12:17:24 Content still empty after HTML reader: https://www.hltv.org/news/36559/flamez-on-joining-vitality-the-motivation-was-to-succeed-with-another-israeli-guy
+2023/07/02 12:17:24 Content still empty after HTML reader: https://www.nytimes.com/2023/07/02/opinion/employers-colleges-affirmative-action.html
+2023/07/02 12:17:24 Content still empty after HTML reader: https://www.hltv.org/news/36549/ren-rechtman-nominated-for-better-collectives-board-of-directors
+2023/07/02 12:17:24 Content still empty after HTML reader: https://www.hltv.org/news/36562/sources-movistar-riders-in-advanced-negotiations-with-just-sausol-set-to-become-free-agent
+2023/07/02 12:17:24 Content still empty after HTML reader: https://www.hltv.org/news/36563/mouz-bid-farewell-to-dexter
+2023/07/02 12:17:24 Fetched posts from https://www.hltv.org/rss/news, took 941.460818ms
+2023/07/02 12:17:25 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.428400569s
+2023/07/02 12:17:25 Fetched posts from https://vlr.gg/rss, took 1.789997484s
+2023/07/02 12:17:30 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 6.923302959s
+2023/07/02 12:17:33 Fetched posts from https://blogtienao.com/feed, took 9.665464322s
+2023/07/02 12:17:37 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.557175243s
+2023/07/02 12:17:54 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 30.131657064s
+2023/07/02 12:18:04 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/07/02 12:18:04 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.19149619s
+2023/07/02 12:18:04 Skipping writing post, no content: https://www.nytimes.com/2023/07/02/opinion/employers-colleges-affirmative-action.html
+2023/07/02 12:18:04 Skipping writing post, no content: https://www.hltv.org/news/36569/500-add-kaluber
+2023/07/02 12:18:04 Skipping writing post, no content: https://www.hltv.org/news/36540/the-dual-berettas-have-become-a-go-to-in-pistol-rounds-but-how-good-are-they-really
+2023/07/02 12:18:04 Skipping writing post, no content: https://www.hltv.org/news/36568/community-reacts-navi-goes-international
+2023/07/02 12:18:04 Skipping writing post, no content: https://www.hltv.org/news/36567/official-cacanito-joins-apeks
+2023/07/02 12:18:04 Skipping writing post, no content: https://www.hltv.org/news/36566/official-mibr-sign-saffee-drop
+2023/07/02 12:18:04 Skipping writing post, no content: https://www.hltv.org/news/36556/one-for-the-future-donk
+2023/07/02 12:18:04 Skipping writing post, no content: https://www.hltv.org/news/36559/flamez-on-joining-vitality-the-motivation-was-to-succeed-with-another-israeli-guy
+2023/07/02 12:18:04 Skipping writing post, no content: https://www.hltv.org/news/36549/ren-rechtman-nominated-for-better-collectives-board-of-directors
+2023/07/02 12:18:04 Skipping writing post, no content: https://www.hltv.org/news/36562/sources-movistar-riders-in-advanced-negotiations-with-just-sausol-set-to-become-free-agent
+2023/07/02 12:18:04 Skipping writing post, no content: https://www.hltv.org/news/36563/mouz-bid-farewell-to-dexter
+2023/07/02 12:18:04 Templated 158 posts, took 22.176892ms
