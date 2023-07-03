@@ -1,29 +1,31 @@
-2023/07/03 18:26:11 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 299.601621ms
-2023/07/03 18:26:11 Content still empty after HTML reader: https://www.hltv.org/news/36573/meta-monday-siuhys-confidence-calls-on-mirage-that-broke-heroics-back
-2023/07/03 18:26:11 Content still empty after HTML reader: https://www.hltv.org/news/36578/official-furia-complete-roster-with-chelo
-2023/07/03 18:26:11 Content still empty after HTML reader: https://www.hltv.org/news/36577/official-fallen-joins-furia
-2023/07/03 18:26:11 Content still empty after HTML reader: https://www.hltv.org/news/36575/mouz-announce-siuhy-return
-2023/07/03 18:26:11 Content still empty after HTML reader: https://www.hltv.org/news/36576/imperial-says-goodbye-to-chelo
-2023/07/03 18:26:11 Content still empty after HTML reader: https://www.hltv.org/news/36572/fallen-departs-imperial
-2023/07/03 18:26:11 Content still empty after HTML reader: https://www.hltv.org/news/36571/el1an-enters-free-agency
-2023/07/03 18:26:12 Content still empty after HTML reader: https://www.hltv.org/news/36515/big-we-will-call-in-english
-2023/07/03 18:26:12 Content still empty after HTML reader: https://www.hltv.org/news/36540/the-dual-berettas-have-become-a-go-to-in-pistol-rounds-but-how-good-are-they-really
-2023/07/03 18:26:12 Fetched posts from https://www.hltv.org/rss/news, took 444.006475ms
-2023/07/03 18:26:12 Fetched posts from https://vlr.gg/rss, took 722.649274ms
-2023/07/03 18:26:12 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 974.888044ms
-2023/07/03 18:26:13 Fetched posts from https://blogtienao.com/feed, took 1.959030038s
-2023/07/03 18:26:20 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.484960404s
-2023/07/03 18:26:25 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.660821994s
-2023/07/03 18:26:51 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/07/03 18:26:51 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.257568627s
-2023/07/03 18:26:52 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 40.525122667s
-2023/07/03 18:26:52 Skipping writing post, no content: https://www.hltv.org/news/36573/meta-monday-siuhys-confidence-calls-on-mirage-that-broke-heroics-back
-2023/07/03 18:26:52 Skipping writing post, no content: https://www.hltv.org/news/36578/official-furia-complete-roster-with-chelo
-2023/07/03 18:26:52 Skipping writing post, no content: https://www.hltv.org/news/36577/official-fallen-joins-furia
-2023/07/03 18:26:52 Skipping writing post, no content: https://www.hltv.org/news/36575/mouz-announce-siuhy-return
-2023/07/03 18:26:52 Skipping writing post, no content: https://www.hltv.org/news/36576/imperial-says-goodbye-to-chelo
-2023/07/03 18:26:52 Skipping writing post, no content: https://www.hltv.org/news/36572/fallen-departs-imperial
-2023/07/03 18:26:52 Skipping writing post, no content: https://www.hltv.org/news/36571/el1an-enters-free-agency
-2023/07/03 18:26:52 Skipping writing post, no content: https://www.hltv.org/news/36515/big-we-will-call-in-english
-2023/07/03 18:26:52 Skipping writing post, no content: https://www.hltv.org/news/36540/the-dual-berettas-have-become-a-go-to-in-pistol-rounds-but-how-good-are-they-really
-2023/07/03 18:26:52 Templated 162 posts, took 22.960861ms
+2023/07/03 18:39:40 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 278.90255ms
+2023/07/03 18:39:40 Content still empty after HTML reader: https://www.hltv.org/news/36573/meta-monday-siuhys-confidence-calls-on-mirage-that-broke-heroics-back
+2023/07/03 18:39:40 Content still empty after HTML reader: https://www.hltv.org/news/36578/official-furia-complete-roster-with-chelo
+2023/07/03 18:39:40 Content still empty after HTML reader: https://www.hltv.org/news/36577/official-fallen-joins-furia
+2023/07/03 18:39:40 Content still empty after HTML reader: https://www.hltv.org/news/36575/mouz-announce-siuhy-return
+2023/07/03 18:39:40 Content still empty after HTML reader: https://www.hltv.org/news/36576/imperial-says-goodbye-to-chelo
+2023/07/03 18:39:40 Content still empty after HTML reader: https://www.hltv.org/news/36572/fallen-departs-imperial
+2023/07/03 18:39:40 Content still empty after HTML reader: https://www.hltv.org/news/36571/el1an-enters-free-agency
+2023/07/03 18:39:40 Content still empty after HTML reader: https://www.hltv.org/news/36515/big-we-will-call-in-english
+2023/07/03 18:39:40 Content still empty after HTML reader: https://www.hltv.org/news/36569/500-add-kaluber
+2023/07/03 18:39:40 Content still empty after HTML reader: https://www.hltv.org/news/36540/the-dual-berettas-have-become-a-go-to-in-pistol-rounds-but-how-good-are-they-really
+2023/07/03 18:39:40 Fetched posts from https://www.hltv.org/rss/news, took 483.391886ms
+2023/07/03 18:39:40 Fetched posts from https://vlr.gg/rss, took 755.455497ms
+2023/07/03 18:39:41 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.048307425s
+2023/07/03 18:39:42 Fetched posts from https://blogtienao.com/feed, took 1.974086369s
+2023/07/03 18:39:56 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 15.899278408s
+2023/07/03 18:39:59 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.696816933s
+2023/07/03 18:40:20 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/07/03 18:40:20 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.142421069s
+2023/07/03 18:40:20 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 40.365512323s
+2023/07/03 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/36573/meta-monday-siuhys-confidence-calls-on-mirage-that-broke-heroics-back
+2023/07/03 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/36578/official-furia-complete-roster-with-chelo
+2023/07/03 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/36577/official-fallen-joins-furia
+2023/07/03 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/36575/mouz-announce-siuhy-return
+2023/07/03 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/36576/imperial-says-goodbye-to-chelo
+2023/07/03 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/36572/fallen-departs-imperial
+2023/07/03 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/36571/el1an-enters-free-agency
+2023/07/03 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/36515/big-we-will-call-in-english
+2023/07/03 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/36569/500-add-kaluber
+2023/07/03 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/36540/the-dual-berettas-have-become-a-go-to-in-pistol-rounds-but-how-good-are-they-really
+2023/07/03 18:40:20 Templated 162 posts, took 22.794006ms
