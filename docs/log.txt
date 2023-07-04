@@ -1,31 +1,29 @@
-2023/07/04 19:59:54 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 220.21287ms
-2023/07/04 19:59:54 Content still empty after HTML reader: https://www.hltv.org/news/36589/sprout-bid-farewell-to-xellow
-2023/07/04 19:59:54 Content still empty after HTML reader: https://www.hltv.org/news/36588/blast-announce-broadcast-talent-lineup-for-fall-groups
-2023/07/04 19:59:54 Content still empty after HTML reader: https://www.hltv.org/news/36587/official-fnatic-bench-nicoodoz
-2023/07/04 19:59:54 Content still empty after HTML reader: https://www.hltv.org/news/36585/ence-receive-hussar-cup-invite
-2023/07/04 19:59:54 Content still empty after HTML reader: https://www.hltv.org/news/36584/media-pain-close-in-on-kauez
-2023/07/04 19:59:54 Content still empty after HTML reader: https://www.hltv.org/news/36583/endpoint-sign-azuwu-return-to-british-core
-2023/07/04 19:59:54 Content still empty after HTML reader: https://www.hltv.org/news/36582/esl-impact-league-season-4-dates-and-qualifiers-announced
-2023/07/04 19:59:54 Content still empty after HTML reader: https://www.hltv.org/news/36581/team-ranking-june-2023
-2023/07/04 19:59:54 Content still empty after HTML reader: https://www.hltv.org/news/36580/big-part-ways-with-tizian
-2023/07/04 19:59:54 Fetched posts from https://vlr.gg/rss, took 504.023812ms
-2023/07/04 19:59:54 Content still empty after HTML reader: https://www.hltv.org/news/36573/meta-monday-siuhys-confidence-calls-on-mirage-that-broke-heroics-back
-2023/07/04 19:59:54 Fetched posts from https://www.hltv.org/rss/news, took 512.291269ms
-2023/07/04 19:59:55 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.081813045s
-2023/07/04 19:59:56 Fetched posts from https://blogtienao.com/feed, took 2.01189007s
-2023/07/04 20:00:03 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.96724621s
-2023/07/04 20:00:09 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.52841041s
-2023/07/04 20:00:34 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/07/04 20:00:34 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.262122305s
-2023/07/04 20:00:36 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 41.993629613s
-2023/07/04 20:00:36 Skipping writing post, no content: https://www.hltv.org/news/36589/sprout-bid-farewell-to-xellow
-2023/07/04 20:00:36 Skipping writing post, no content: https://www.hltv.org/news/36588/blast-announce-broadcast-talent-lineup-for-fall-groups
-2023/07/04 20:00:36 Skipping writing post, no content: https://www.hltv.org/news/36587/official-fnatic-bench-nicoodoz
-2023/07/04 20:00:36 Skipping writing post, no content: https://www.hltv.org/news/36585/ence-receive-hussar-cup-invite
-2023/07/04 20:00:36 Skipping writing post, no content: https://www.hltv.org/news/36584/media-pain-close-in-on-kauez
-2023/07/04 20:00:36 Skipping writing post, no content: https://www.hltv.org/news/36583/endpoint-sign-azuwu-return-to-british-core
-2023/07/04 20:00:36 Skipping writing post, no content: https://www.hltv.org/news/36582/esl-impact-league-season-4-dates-and-qualifiers-announced
-2023/07/04 20:00:36 Skipping writing post, no content: https://www.hltv.org/news/36581/team-ranking-june-2023
-2023/07/04 20:00:36 Skipping writing post, no content: https://www.hltv.org/news/36580/big-part-ways-with-tizian
-2023/07/04 20:00:36 Skipping writing post, no content: https://www.hltv.org/news/36573/meta-monday-siuhys-confidence-calls-on-mirage-that-broke-heroics-back
-2023/07/04 20:00:36 Templated 162 posts, took 23.774365ms
+2023/07/04 20:23:08 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 274.034111ms
+2023/07/04 20:23:08 Content still empty after HTML reader: https://www.hltv.org/news/36589/sprout-bid-farewell-to-xellow
+2023/07/04 20:23:08 Content still empty after HTML reader: https://www.hltv.org/news/36588/blast-announce-broadcast-talent-lineup-for-fall-groups
+2023/07/04 20:23:08 Content still empty after HTML reader: https://www.hltv.org/news/36587/official-fnatic-bench-nicoodoz
+2023/07/04 20:23:08 Content still empty after HTML reader: https://www.hltv.org/news/36585/ence-receive-hussar-cup-invite
+2023/07/04 20:23:08 Content still empty after HTML reader: https://www.hltv.org/news/36584/media-pain-close-in-on-kauez
+2023/07/04 20:23:08 Content still empty after HTML reader: https://www.hltv.org/news/36583/endpoint-sign-azuwu-return-to-british-core
+2023/07/04 20:23:08 Content still empty after HTML reader: https://www.hltv.org/news/36582/esl-impact-league-season-4-dates-and-qualifiers-announced
+2023/07/04 20:23:08 Content still empty after HTML reader: https://www.hltv.org/news/36581/team-ranking-june-2023
+2023/07/04 20:23:08 Content still empty after HTML reader: https://www.hltv.org/news/36573/meta-monday-siuhys-confidence-calls-on-mirage-that-broke-heroics-back
+2023/07/04 20:23:08 Fetched posts from https://www.hltv.org/rss/news, took 409.193508ms
+2023/07/04 20:23:08 Fetched posts from https://vlr.gg/rss, took 504.024358ms
+2023/07/04 20:23:08 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 957.449329ms
+2023/07/04 20:23:09 Fetched posts from https://blogtienao.com/feed, took 1.827610738s
+2023/07/04 20:23:16 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.985342839s
+2023/07/04 20:23:29 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.08493624s
+2023/07/04 20:23:48 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/07/04 20:23:48 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.238793132s
+2023/07/04 20:23:51 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 43.288307548s
+2023/07/04 20:23:51 Skipping writing post, no content: https://www.hltv.org/news/36589/sprout-bid-farewell-to-xellow
+2023/07/04 20:23:51 Skipping writing post, no content: https://www.hltv.org/news/36588/blast-announce-broadcast-talent-lineup-for-fall-groups
+2023/07/04 20:23:51 Skipping writing post, no content: https://www.hltv.org/news/36587/official-fnatic-bench-nicoodoz
+2023/07/04 20:23:51 Skipping writing post, no content: https://www.hltv.org/news/36585/ence-receive-hussar-cup-invite
+2023/07/04 20:23:51 Skipping writing post, no content: https://www.hltv.org/news/36584/media-pain-close-in-on-kauez
+2023/07/04 20:23:51 Skipping writing post, no content: https://www.hltv.org/news/36583/endpoint-sign-azuwu-return-to-british-core
+2023/07/04 20:23:51 Skipping writing post, no content: https://www.hltv.org/news/36582/esl-impact-league-season-4-dates-and-qualifiers-announced
+2023/07/04 20:23:51 Skipping writing post, no content: https://www.hltv.org/news/36581/team-ranking-june-2023
+2023/07/04 20:23:51 Skipping writing post, no content: https://www.hltv.org/news/36573/meta-monday-siuhys-confidence-calls-on-mirage-that-broke-heroics-back
+2023/07/04 20:23:51 Templated 162 posts, took 22.870427ms
