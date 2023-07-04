@@ -1,29 +1,31 @@
-2023/07/04 05:14:57 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 170.637379ms
-2023/07/04 05:14:57 Content still empty after HTML reader: https://www.hltv.org/news/36581/team-ranking-june-2023
-2023/07/04 05:14:57 Content still empty after HTML reader: https://www.hltv.org/news/36580/big-part-ways-with-tizian
-2023/07/04 05:14:57 Content still empty after HTML reader: https://www.hltv.org/news/36573/meta-monday-siuhys-confidence-calls-on-mirage-that-broke-heroics-back
-2023/07/04 05:14:57 Content still empty after HTML reader: https://www.hltv.org/news/36577/official-fallen-joins-furia
-2023/07/04 05:14:58 Content still empty after HTML reader: https://www.hltv.org/news/36575/mouz-announce-siuhy-return
-2023/07/04 05:14:58 Content still empty after HTML reader: https://www.hltv.org/news/36576/imperial-says-goodbye-to-chelo
-2023/07/04 05:14:58 Content still empty after HTML reader: https://www.hltv.org/news/36572/fallen-departs-imperial
-2023/07/04 05:14:58 Content still empty after HTML reader: https://www.hltv.org/news/36571/el1an-enters-free-agency
-2023/07/04 05:14:58 Content still empty after HTML reader: https://www.hltv.org/news/36515/big-we-will-call-in-english
-2023/07/04 05:14:58 Fetched posts from https://www.hltv.org/rss/news, took 430.604401ms
-2023/07/04 05:14:58 Fetched posts from https://vlr.gg/rss, took 708.893005ms
-2023/07/04 05:14:58 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 904.661842ms
-2023/07/04 05:14:59 Fetched posts from https://blogtienao.com/feed, took 1.87426859s
-2023/07/04 05:15:06 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 9.047847505s
-2023/07/04 05:15:13 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.962967447s
-2023/07/04 05:15:37 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 40.116014646s
-2023/07/04 05:15:37 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/07/04 05:15:37 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.121047876s
-2023/07/04 05:15:37 Skipping writing post, no content: https://www.hltv.org/news/36581/team-ranking-june-2023
-2023/07/04 05:15:37 Skipping writing post, no content: https://www.hltv.org/news/36580/big-part-ways-with-tizian
-2023/07/04 05:15:37 Skipping writing post, no content: https://www.hltv.org/news/36573/meta-monday-siuhys-confidence-calls-on-mirage-that-broke-heroics-back
-2023/07/04 05:15:37 Skipping writing post, no content: https://www.hltv.org/news/36577/official-fallen-joins-furia
-2023/07/04 05:15:37 Skipping writing post, no content: https://www.hltv.org/news/36575/mouz-announce-siuhy-return
-2023/07/04 05:15:37 Skipping writing post, no content: https://www.hltv.org/news/36576/imperial-says-goodbye-to-chelo
-2023/07/04 05:15:37 Skipping writing post, no content: https://www.hltv.org/news/36572/fallen-departs-imperial
-2023/07/04 05:15:37 Skipping writing post, no content: https://www.hltv.org/news/36571/el1an-enters-free-agency
-2023/07/04 05:15:37 Skipping writing post, no content: https://www.hltv.org/news/36515/big-we-will-call-in-english
-2023/07/04 05:15:37 Templated 162 posts, took 24.749141ms
+2023/07/04 05:31:30 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 153.324408ms
+2023/07/04 05:31:30 Content still empty after HTML reader: https://www.hltv.org/news/36581/team-ranking-june-2023
+2023/07/04 05:31:30 Content still empty after HTML reader: https://www.hltv.org/news/36580/big-part-ways-with-tizian
+2023/07/04 05:31:30 Content still empty after HTML reader: https://www.hltv.org/news/36573/meta-monday-siuhys-confidence-calls-on-mirage-that-broke-heroics-back
+2023/07/04 05:31:30 Content still empty after HTML reader: https://www.hltv.org/news/36578/official-furia-complete-roster-with-chelo
+2023/07/04 05:31:30 Content still empty after HTML reader: https://www.hltv.org/news/36577/official-fallen-joins-furia
+2023/07/04 05:31:30 Content still empty after HTML reader: https://www.hltv.org/news/36575/mouz-announce-siuhy-return
+2023/07/04 05:31:30 Content still empty after HTML reader: https://www.hltv.org/news/36576/imperial-says-goodbye-to-chelo
+2023/07/04 05:31:30 Content still empty after HTML reader: https://www.hltv.org/news/36572/fallen-departs-imperial
+2023/07/04 05:31:30 Content still empty after HTML reader: https://www.hltv.org/news/36571/el1an-enters-free-agency
+2023/07/04 05:31:30 Content still empty after HTML reader: https://www.hltv.org/news/36515/big-we-will-call-in-english
+2023/07/04 05:31:30 Fetched posts from https://www.hltv.org/rss/news, took 746.630413ms
+2023/07/04 05:31:30 Fetched posts from https://vlr.gg/rss, took 882.293997ms
+2023/07/04 05:31:31 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.144544953s
+2023/07/04 05:31:31 Fetched posts from https://blogtienao.com/feed, took 1.961542962s
+2023/07/04 05:31:38 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.71650099s
+2023/07/04 05:31:46 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.111841368s
+2023/07/04 05:32:10 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/07/04 05:32:10 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.149080928s
+2023/07/04 05:32:10 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 40.595019043s
+2023/07/04 05:32:10 Skipping writing post, no content: https://www.hltv.org/news/36581/team-ranking-june-2023
+2023/07/04 05:32:10 Skipping writing post, no content: https://www.hltv.org/news/36580/big-part-ways-with-tizian
+2023/07/04 05:32:10 Skipping writing post, no content: https://www.hltv.org/news/36573/meta-monday-siuhys-confidence-calls-on-mirage-that-broke-heroics-back
+2023/07/04 05:32:10 Skipping writing post, no content: https://www.hltv.org/news/36578/official-furia-complete-roster-with-chelo
+2023/07/04 05:32:10 Skipping writing post, no content: https://www.hltv.org/news/36577/official-fallen-joins-furia
+2023/07/04 05:32:10 Skipping writing post, no content: https://www.hltv.org/news/36575/mouz-announce-siuhy-return
+2023/07/04 05:32:10 Skipping writing post, no content: https://www.hltv.org/news/36576/imperial-says-goodbye-to-chelo
+2023/07/04 05:32:10 Skipping writing post, no content: https://www.hltv.org/news/36572/fallen-departs-imperial
+2023/07/04 05:32:10 Skipping writing post, no content: https://www.hltv.org/news/36571/el1an-enters-free-agency
+2023/07/04 05:32:10 Skipping writing post, no content: https://www.hltv.org/news/36515/big-we-will-call-in-english
+2023/07/04 05:32:10 Templated 162 posts, took 24.450869ms
