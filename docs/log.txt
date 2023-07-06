@@ -1,29 +1,31 @@
-2023/07/06 05:17:37 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 209.514348ms
-2023/07/06 05:17:37 Content still empty after HTML reader: https://www.hltv.org/news/36596/entropiq-add-forsyy-in-first-piece-of-international-project
-2023/07/06 05:17:37 Content still empty after HTML reader: https://www.hltv.org/news/36594/spirit-announce-new-roster-with-academy-trio-including-donk
-2023/07/06 05:17:37 Content still empty after HTML reader: https://www.hltv.org/news/36595/virtuspro-sign-mir-on-long-term-contract
-2023/07/06 05:17:37 Content still empty after HTML reader: https://www.hltv.org/news/36591/volt-leaves-into-the-breach
-2023/07/06 05:17:37 Content still empty after HTML reader: https://www.hltv.org/news/36592/official-movistar-riders-sign-just
-2023/07/06 05:17:37 Content still empty after HTML reader: https://www.hltv.org/news/36593/blast-premier-world-final-returns-to-abu-dhabi
-2023/07/06 05:17:37 Content still empty after HTML reader: https://www.hltv.org/news/36590/michu-returns-on-ikla
-2023/07/06 05:17:37 Content still empty after HTML reader: https://www.hltv.org/news/36588/blast-announce-broadcast-talent-lineup-for-fall-groups
-2023/07/06 05:17:37 Content still empty after HTML reader: https://www.hltv.org/news/36587/official-fnatic-bench-nicoodoz
-2023/07/06 05:17:37 Fetched posts from https://www.hltv.org/rss/news, took 391.888181ms
-2023/07/06 05:17:37 Fetched posts from https://vlr.gg/rss, took 430.619285ms
-2023/07/06 05:17:37 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 910.080054ms
-2023/07/06 05:17:38 Fetched posts from https://blogtienao.com/feed, took 1.922873617s
-2023/07/06 05:17:45 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.905610035s
-2023/07/06 05:17:56 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.009082548s
-2023/07/06 05:18:15 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 38.439579788s
-2023/07/06 05:18:17 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/07/06 05:18:17 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.239552229s
-2023/07/06 05:18:17 Skipping writing post, no content: https://www.hltv.org/news/36596/entropiq-add-forsyy-in-first-piece-of-international-project
-2023/07/06 05:18:17 Skipping writing post, no content: https://www.hltv.org/news/36594/spirit-announce-new-roster-with-academy-trio-including-donk
-2023/07/06 05:18:17 Skipping writing post, no content: https://www.hltv.org/news/36595/virtuspro-sign-mir-on-long-term-contract
-2023/07/06 05:18:17 Skipping writing post, no content: https://www.hltv.org/news/36591/volt-leaves-into-the-breach
-2023/07/06 05:18:17 Skipping writing post, no content: https://www.hltv.org/news/36592/official-movistar-riders-sign-just
-2023/07/06 05:18:17 Skipping writing post, no content: https://www.hltv.org/news/36593/blast-premier-world-final-returns-to-abu-dhabi
-2023/07/06 05:18:17 Skipping writing post, no content: https://www.hltv.org/news/36590/michu-returns-on-ikla
-2023/07/06 05:18:17 Skipping writing post, no content: https://www.hltv.org/news/36588/blast-announce-broadcast-talent-lineup-for-fall-groups
-2023/07/06 05:18:17 Skipping writing post, no content: https://www.hltv.org/news/36587/official-fnatic-bench-nicoodoz
-2023/07/06 05:18:17 Templated 151 posts, took 31.304878ms
+2023/07/06 05:33:24 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 256.612496ms
+2023/07/06 05:33:24 Content still empty after HTML reader: https://www.hltv.org/news/36596/entropiq-add-forsyy-in-first-piece-of-international-project
+2023/07/06 05:33:24 Content still empty after HTML reader: https://www.hltv.org/news/36594/spirit-announce-new-roster-with-academy-trio-including-donk
+2023/07/06 05:33:24 Content still empty after HTML reader: https://www.hltv.org/news/36595/virtuspro-sign-mir-on-long-term-contract
+2023/07/06 05:33:24 Content still empty after HTML reader: https://www.hltv.org/news/36591/volt-leaves-into-the-breach
+2023/07/06 05:33:24 Content still empty after HTML reader: https://www.hltv.org/news/36592/official-movistar-riders-sign-just
+2023/07/06 05:33:24 Content still empty after HTML reader: https://www.hltv.org/news/36593/blast-premier-world-final-returns-to-abu-dhabi
+2023/07/06 05:33:24 Content still empty after HTML reader: https://www.hltv.org/news/36590/michu-returns-on-ikla
+2023/07/06 05:33:24 Content still empty after HTML reader: https://www.hltv.org/news/36589/sprout-bid-farewell-to-xellow
+2023/07/06 05:33:24 Content still empty after HTML reader: https://www.hltv.org/news/36588/blast-announce-broadcast-talent-lineup-for-fall-groups
+2023/07/06 05:33:24 Content still empty after HTML reader: https://www.hltv.org/news/36587/official-fnatic-bench-nicoodoz
+2023/07/06 05:33:24 Fetched posts from https://www.hltv.org/rss/news, took 494.893663ms
+2023/07/06 05:33:24 Fetched posts from https://vlr.gg/rss, took 765.176706ms
+2023/07/06 05:33:25 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.350315118s
+2023/07/06 05:33:26 Fetched posts from https://blogtienao.com/feed, took 2.605554507s
+2023/07/06 05:33:32 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.867197023s
+2023/07/06 05:33:43 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.402605035s
+2023/07/06 05:33:58 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 34.710361245s
+2023/07/06 05:34:04 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/07/06 05:34:04 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.299169119s
+2023/07/06 05:34:04 Skipping writing post, no content: https://www.hltv.org/news/36596/entropiq-add-forsyy-in-first-piece-of-international-project
+2023/07/06 05:34:04 Skipping writing post, no content: https://www.hltv.org/news/36594/spirit-announce-new-roster-with-academy-trio-including-donk
+2023/07/06 05:34:04 Skipping writing post, no content: https://www.hltv.org/news/36595/virtuspro-sign-mir-on-long-term-contract
+2023/07/06 05:34:04 Skipping writing post, no content: https://www.hltv.org/news/36591/volt-leaves-into-the-breach
+2023/07/06 05:34:04 Skipping writing post, no content: https://www.hltv.org/news/36592/official-movistar-riders-sign-just
+2023/07/06 05:34:04 Skipping writing post, no content: https://www.hltv.org/news/36593/blast-premier-world-final-returns-to-abu-dhabi
+2023/07/06 05:34:04 Skipping writing post, no content: https://www.hltv.org/news/36590/michu-returns-on-ikla
+2023/07/06 05:34:04 Skipping writing post, no content: https://www.hltv.org/news/36589/sprout-bid-farewell-to-xellow
+2023/07/06 05:34:04 Skipping writing post, no content: https://www.hltv.org/news/36588/blast-announce-broadcast-talent-lineup-for-fall-groups
+2023/07/06 05:34:04 Skipping writing post, no content: https://www.hltv.org/news/36587/official-fnatic-bench-nicoodoz
+2023/07/06 05:34:04 Templated 152 posts, took 30.421495ms
