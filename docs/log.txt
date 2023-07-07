@@ -1,27 +1,31 @@
-2023/07/07 20:47:10 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 153.00218ms
-2023/07/07 20:47:10 Fetched posts from https://vlr.gg/rss, took 374.6417ms
-2023/07/07 20:47:10 Content still empty after HTML reader: https://www.hltv.org/news/36605/ex-heroic-performance-coach-becomes-new-astralis-sports-director
-2023/07/07 20:47:10 Content still empty after HTML reader: https://www.hltv.org/news/36570/stat-check-how-will-the-new-navi-set-up
-2023/07/07 20:47:10 Content still empty after HTML reader: https://www.hltv.org/news/36603/team-of-legends-to-take-on-faze-in-cs2-showmatch
-2023/07/07 20:47:10 Content still empty after HTML reader: https://www.hltv.org/news/36598/hltv-confirmed-building-the-dream-major-with-guest-ner0
-2023/07/07 20:47:10 Content still empty after HTML reader: https://www.hltv.org/news/36602/media-cypher-jackz-interz-close-to-signing-with-tsm
-2023/07/07 20:47:10 Content still empty after HTML reader: https://www.hltv.org/news/36601/complexity-to-replace-pain-at-iem-cologne-play-in
-2023/07/07 20:47:10 Content still empty after HTML reader: https://www.hltv.org/news/36600/fnatic-round-out-roster-with-dexter-afro
-2023/07/07 20:47:10 Content still empty after HTML reader: https://www.hltv.org/news/36599/hltv-fantasy-updated-for-fall-season-notifications-roles-boosters-and-more
-2023/07/07 20:47:10 Fetched posts from https://www.hltv.org/rss/news, took 466.982491ms
-2023/07/07 20:47:11 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 823.693876ms
-2023/07/07 20:47:12 Fetched posts from https://blogtienao.com/feed, took 1.977721367s
-2023/07/07 20:47:19 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.603634837s
-2023/07/07 20:47:32 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.49004858s
-2023/07/07 20:47:50 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/07/07 20:47:50 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.123499464s
-2023/07/07 20:47:51 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 41.216054514s
-2023/07/07 20:47:51 Skipping writing post, no content: https://www.hltv.org/news/36605/ex-heroic-performance-coach-becomes-new-astralis-sports-director
-2023/07/07 20:47:51 Skipping writing post, no content: https://www.hltv.org/news/36570/stat-check-how-will-the-new-navi-set-up
-2023/07/07 20:47:51 Skipping writing post, no content: https://www.hltv.org/news/36603/team-of-legends-to-take-on-faze-in-cs2-showmatch
-2023/07/07 20:47:51 Skipping writing post, no content: https://www.hltv.org/news/36598/hltv-confirmed-building-the-dream-major-with-guest-ner0
-2023/07/07 20:47:51 Skipping writing post, no content: https://www.hltv.org/news/36602/media-cypher-jackz-interz-close-to-signing-with-tsm
-2023/07/07 20:47:51 Skipping writing post, no content: https://www.hltv.org/news/36601/complexity-to-replace-pain-at-iem-cologne-play-in
-2023/07/07 20:47:51 Skipping writing post, no content: https://www.hltv.org/news/36600/fnatic-round-out-roster-with-dexter-afro
-2023/07/07 20:47:51 Skipping writing post, no content: https://www.hltv.org/news/36599/hltv-fantasy-updated-for-fall-season-notifications-roles-boosters-and-more
-2023/07/07 20:47:51 Templated 159 posts, took 22.998445ms
+2023/07/07 20:57:42 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 132.74262ms
+2023/07/07 20:57:42 Content still empty after HTML reader: https://www.hltv.org/news/36606/nekiz-joins-00nation
+2023/07/07 20:57:42 Content still empty after HTML reader: https://www.hltv.org/news/36586/stat-check-fallens-furia-project
+2023/07/07 20:57:42 Content still empty after HTML reader: https://www.hltv.org/news/36605/ex-heroic-performance-coach-becomes-new-astralis-sports-director
+2023/07/07 20:57:42 Content still empty after HTML reader: https://www.hltv.org/news/36604/endpoint-sign-sl3nd
+2023/07/07 20:57:42 Content still empty after HTML reader: https://www.hltv.org/news/36570/stat-check-how-will-the-new-navi-set-up
+2023/07/07 20:57:42 Content still empty after HTML reader: https://www.hltv.org/news/36603/team-of-legends-to-take-on-faze-in-cs2-showmatch
+2023/07/07 20:57:42 Content still empty after HTML reader: https://www.hltv.org/news/36598/hltv-confirmed-building-the-dream-major-with-guest-ner0
+2023/07/07 20:57:42 Content still empty after HTML reader: https://www.hltv.org/news/36602/media-cypher-jackz-interz-close-to-signing-with-tsm
+2023/07/07 20:57:42 Content still empty after HTML reader: https://www.hltv.org/news/36601/complexity-to-replace-pain-at-iem-cologne-play-in
+2023/07/07 20:57:43 Content still empty after HTML reader: https://www.hltv.org/news/36600/fnatic-round-out-roster-with-dexter-afro
+2023/07/07 20:57:43 Fetched posts from https://www.hltv.org/rss/news, took 465.578977ms
+2023/07/07 20:57:43 Fetched posts from https://vlr.gg/rss, took 616.455337ms
+2023/07/07 20:57:43 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.069030614s
+2023/07/07 20:57:44 Fetched posts from https://blogtienao.com/feed, took 1.996125438s
+2023/07/07 20:57:51 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.565627411s
+2023/07/07 20:57:59 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.12040366s
+2023/07/07 20:58:22 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/07/07 20:58:22 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.258456225s
+2023/07/07 20:58:24 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 41.506834849s
+2023/07/07 20:58:24 Skipping writing post, no content: https://www.hltv.org/news/36606/nekiz-joins-00nation
+2023/07/07 20:58:24 Skipping writing post, no content: https://www.hltv.org/news/36586/stat-check-fallens-furia-project
+2023/07/07 20:58:24 Skipping writing post, no content: https://www.hltv.org/news/36605/ex-heroic-performance-coach-becomes-new-astralis-sports-director
+2023/07/07 20:58:24 Skipping writing post, no content: https://www.hltv.org/news/36604/endpoint-sign-sl3nd
+2023/07/07 20:58:24 Skipping writing post, no content: https://www.hltv.org/news/36570/stat-check-how-will-the-new-navi-set-up
+2023/07/07 20:58:24 Skipping writing post, no content: https://www.hltv.org/news/36603/team-of-legends-to-take-on-faze-in-cs2-showmatch
+2023/07/07 20:58:24 Skipping writing post, no content: https://www.hltv.org/news/36598/hltv-confirmed-building-the-dream-major-with-guest-ner0
+2023/07/07 20:58:24 Skipping writing post, no content: https://www.hltv.org/news/36602/media-cypher-jackz-interz-close-to-signing-with-tsm
+2023/07/07 20:58:24 Skipping writing post, no content: https://www.hltv.org/news/36601/complexity-to-replace-pain-at-iem-cologne-play-in
+2023/07/07 20:58:24 Skipping writing post, no content: https://www.hltv.org/news/36600/fnatic-round-out-roster-with-dexter-afro
+2023/07/07 20:58:24 Templated 159 posts, took 22.399926ms
