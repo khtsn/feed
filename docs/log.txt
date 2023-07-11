@@ -1,31 +1,29 @@
-2023/07/11 19:42:52 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 227.838419ms
-2023/07/11 19:42:52 Content still empty after HTML reader: https://www.hltv.org/news/36624/big-to-field-s3nsey-at-iem-cologne
-2023/07/11 19:42:52 Content still empty after HTML reader: https://www.hltv.org/news/36620/the-new-rosters-debuting-at-blast-premier-fall-groups
-2023/07/11 19:42:52 Content still empty after HTML reader: https://www.hltv.org/news/36622/sprout-launch-academy-project
-2023/07/11 19:42:52 Content still empty after HTML reader: https://www.hltv.org/news/36621/jimpphat-completes-mouz-roster
-2023/07/11 19:42:52 Content still empty after HTML reader: https://www.hltv.org/news/36574/the-history-of-csgos-competitive-map-pool
-2023/07/11 19:42:52 Content still empty after HTML reader: https://www.hltv.org/news/36619/imperial-add-felps-hen1-vini-takes-up-leadership-duties
-2023/07/11 19:42:53 Content still empty after HTML reader: https://www.hltv.org/news/36618/mouz-nxt-down-to-two-after-jimpphat-departure
-2023/07/11 19:42:53 Content still empty after HTML reader: https://www.hltv.org/news/36617/sprout-reveal-new-roster
-2023/07/11 19:42:53 Content still empty after HTML reader: https://www.hltv.org/news/36616/fluxo-complete-roster-overhaul-with-zevy-pkl-t9rnay-additions
-2023/07/11 19:42:53 Content still empty after HTML reader: https://www.hltv.org/news/36615/pkl-departs-pain
-2023/07/11 19:42:53 Fetched posts from https://www.hltv.org/rss/news, took 513.536463ms
-2023/07/11 19:42:53 Fetched posts from https://vlr.gg/rss, took 815.973433ms
-2023/07/11 19:42:54 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.847128917s
-2023/07/11 19:42:55 Fetched posts from https://blogtienao.com/feed, took 2.521901026s
-2023/07/11 19:42:59 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.425804584s
-2023/07/11 19:43:09 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.550358422s
-2023/07/11 19:43:27 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 34.72024496s
-2023/07/11 19:43:32 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/07/11 19:43:32 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.295365274s
-2023/07/11 19:43:32 Skipping writing post, no content: https://www.hltv.org/news/36624/big-to-field-s3nsey-at-iem-cologne
-2023/07/11 19:43:32 Skipping writing post, no content: https://www.hltv.org/news/36620/the-new-rosters-debuting-at-blast-premier-fall-groups
-2023/07/11 19:43:32 Skipping writing post, no content: https://www.hltv.org/news/36622/sprout-launch-academy-project
-2023/07/11 19:43:32 Skipping writing post, no content: https://www.hltv.org/news/36621/jimpphat-completes-mouz-roster
-2023/07/11 19:43:32 Skipping writing post, no content: https://www.hltv.org/news/36574/the-history-of-csgos-competitive-map-pool
-2023/07/11 19:43:32 Skipping writing post, no content: https://www.hltv.org/news/36619/imperial-add-felps-hen1-vini-takes-up-leadership-duties
-2023/07/11 19:43:32 Skipping writing post, no content: https://www.hltv.org/news/36618/mouz-nxt-down-to-two-after-jimpphat-departure
-2023/07/11 19:43:32 Skipping writing post, no content: https://www.hltv.org/news/36617/sprout-reveal-new-roster
-2023/07/11 19:43:32 Skipping writing post, no content: https://www.hltv.org/news/36616/fluxo-complete-roster-overhaul-with-zevy-pkl-t9rnay-additions
-2023/07/11 19:43:32 Skipping writing post, no content: https://www.hltv.org/news/36615/pkl-departs-pain
-2023/07/11 19:43:32 Templated 159 posts, took 30.620894ms
+2023/07/11 19:53:30 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 144.090816ms
+2023/07/11 19:53:30 Fetched posts from https://vlr.gg/rss, took 350.46745ms
+2023/07/11 19:53:31 Content still empty after HTML reader: https://www.hltv.org/news/36624/big-to-field-s3nsey-at-iem-cologne
+2023/07/11 19:53:31 Content still empty after HTML reader: https://www.hltv.org/news/36622/sprout-launch-academy-project
+2023/07/11 19:53:31 Content still empty after HTML reader: https://www.hltv.org/news/36621/jimpphat-completes-mouz-roster
+2023/07/11 19:53:31 Content still empty after HTML reader: https://www.hltv.org/news/36574/the-history-of-csgos-competitive-map-pool
+2023/07/11 19:53:31 Content still empty after HTML reader: https://www.hltv.org/news/36619/imperial-add-felps-hen1-vini-takes-up-leadership-duties
+2023/07/11 19:53:31 Content still empty after HTML reader: https://www.hltv.org/news/36618/mouz-nxt-down-to-two-after-jimpphat-departure
+2023/07/11 19:53:31 Content still empty after HTML reader: https://www.hltv.org/news/36617/sprout-reveal-new-roster
+2023/07/11 19:53:31 Content still empty after HTML reader: https://www.hltv.org/news/36616/fluxo-complete-roster-overhaul-with-zevy-pkl-t9rnay-additions
+2023/07/11 19:53:31 Content still empty after HTML reader: https://www.hltv.org/news/36615/pkl-departs-pain
+2023/07/11 19:53:31 Fetched posts from https://www.hltv.org/rss/news, took 710.642489ms
+2023/07/11 19:53:31 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.031881168s
+2023/07/11 19:53:32 Fetched posts from https://blogtienao.com/feed, took 2.042510222s
+2023/07/11 19:53:39 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.665323471s
+2023/07/11 19:53:52 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.629198269s
+2023/07/11 19:54:07 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 37.480742747s
+2023/07/11 19:54:10 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/07/11 19:54:10 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.115728766s
+2023/07/11 19:54:10 Skipping writing post, no content: https://www.hltv.org/news/36624/big-to-field-s3nsey-at-iem-cologne
+2023/07/11 19:54:10 Skipping writing post, no content: https://www.hltv.org/news/36622/sprout-launch-academy-project
+2023/07/11 19:54:10 Skipping writing post, no content: https://www.hltv.org/news/36621/jimpphat-completes-mouz-roster
+2023/07/11 19:54:10 Skipping writing post, no content: https://www.hltv.org/news/36574/the-history-of-csgos-competitive-map-pool
+2023/07/11 19:54:10 Skipping writing post, no content: https://www.hltv.org/news/36619/imperial-add-felps-hen1-vini-takes-up-leadership-duties
+2023/07/11 19:54:10 Skipping writing post, no content: https://www.hltv.org/news/36618/mouz-nxt-down-to-two-after-jimpphat-departure
+2023/07/11 19:54:10 Skipping writing post, no content: https://www.hltv.org/news/36617/sprout-reveal-new-roster
+2023/07/11 19:54:10 Skipping writing post, no content: https://www.hltv.org/news/36616/fluxo-complete-roster-overhaul-with-zevy-pkl-t9rnay-additions
+2023/07/11 19:54:10 Skipping writing post, no content: https://www.hltv.org/news/36615/pkl-departs-pain
+2023/07/11 19:54:10 Templated 159 posts, took 24.083076ms
