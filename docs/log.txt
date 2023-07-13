@@ -1,27 +1,33 @@
-2023/07/13 10:52:27 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 254.504296ms
-2023/07/13 10:52:27 Content still empty after HTML reader: https://www.hltv.org/news/36636/9z-qualify-for-esl-pro-league-season-18
-2023/07/13 10:52:27 Content still empty after HTML reader: https://www.hltv.org/news/36635/9ine-secure-final-spot-at-gamers8
-2023/07/13 10:52:27 Content still empty after HTML reader: https://www.hltv.org/news/36634/monte-sign-br0
-2023/07/13 10:52:27 Content still empty after HTML reader: https://www.hltv.org/news/36628/hltv-confirmed-snappi-saw-talk-leading-ence-to-success-and-new-teams-at-blast
-2023/07/13 10:52:27 Content still empty after HTML reader: https://www.hltv.org/news/36632/elige-complexitys-goal-was-just-to-make-the-major-my-expectations-are-going-to-be-higher-than-that
-2023/07/13 10:52:27 Content still empty after HTML reader: https://www.hltv.org/news/36564/who-is-rainwaker-and-why-did-liquid-want-him
-2023/07/13 10:52:28 Content still empty after HTML reader: https://www.hltv.org/news/36631/fantasy-focus-scrawny-gives-out-tips-for-blast-premier-fall-groups
-2023/07/13 10:52:28 Content still empty after HTML reader: https://www.hltv.org/news/36630/into-the-breach-sign-bymas-neofrag
-2023/07/13 10:52:28 Fetched posts from https://www.hltv.org/rss/news, took 411.705265ms
-2023/07/13 10:52:28 Fetched posts from https://vlr.gg/rss, took 592.360301ms
-2023/07/13 10:52:28 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 813.878179ms
-2023/07/13 10:52:29 Fetched posts from https://blogtienao.com/feed, took 2.107502992s
-2023/07/13 10:52:36 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.596345971s
-2023/07/13 10:52:46 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.635897257s
-2023/07/13 10:52:55 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 28.340460387s
-2023/07/13 10:53:07 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/07/13 10:53:07 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.273284434s
-2023/07/13 10:53:07 Skipping writing post, no content: https://www.hltv.org/news/36636/9z-qualify-for-esl-pro-league-season-18
-2023/07/13 10:53:07 Skipping writing post, no content: https://www.hltv.org/news/36635/9ine-secure-final-spot-at-gamers8
-2023/07/13 10:53:07 Skipping writing post, no content: https://www.hltv.org/news/36634/monte-sign-br0
-2023/07/13 10:53:07 Skipping writing post, no content: https://www.hltv.org/news/36628/hltv-confirmed-snappi-saw-talk-leading-ence-to-success-and-new-teams-at-blast
-2023/07/13 10:53:07 Skipping writing post, no content: https://www.hltv.org/news/36632/elige-complexitys-goal-was-just-to-make-the-major-my-expectations-are-going-to-be-higher-than-that
-2023/07/13 10:53:07 Skipping writing post, no content: https://www.hltv.org/news/36564/who-is-rainwaker-and-why-did-liquid-want-him
-2023/07/13 10:53:07 Skipping writing post, no content: https://www.hltv.org/news/36631/fantasy-focus-scrawny-gives-out-tips-for-blast-premier-fall-groups
-2023/07/13 10:53:07 Skipping writing post, no content: https://www.hltv.org/news/36630/into-the-breach-sign-bymas-neofrag
-2023/07/13 10:53:07 Templated 151 posts, took 23.389449ms
+2023/07/13 11:07:45 Content still empty after HTML reader: https://www.hltv.org/news/36636/9z-qualify-for-esl-pro-league-season-18
+2023/07/13 11:07:45 Content still empty after HTML reader: https://www.hltv.org/news/36635/9ine-secure-final-spot-at-gamers8
+2023/07/13 11:07:45 Content still empty after HTML reader: https://www.hltv.org/news/36633/hampus-on-playing-with-k0nfig-its-nice-to-not-have-the-biggest-balls-anymore
+2023/07/13 11:07:45 Content still empty after HTML reader: https://www.hltv.org/news/36634/monte-sign-br0
+2023/07/13 11:07:45 Content still empty after HTML reader: https://www.hltv.org/news/36628/hltv-confirmed-snappi-saw-talk-leading-ence-to-success-and-new-teams-at-blast
+2023/07/13 11:07:45 Content still empty after HTML reader: https://www.hltv.org/news/36632/elige-complexitys-goal-was-just-to-make-the-major-my-expectations-are-going-to-be-higher-than-that
+2023/07/13 11:07:45 Content still empty after HTML reader: https://www.nytimes.com/2023/07/12/business/england-high-street-retail-recovery.html
+2023/07/13 11:07:45 Content still empty after HTML reader: https://www.hltv.org/news/36564/who-is-rainwaker-and-why-did-liquid-want-him
+2023/07/13 11:07:45 Content still empty after HTML reader: https://www.hltv.org/news/36631/fantasy-focus-scrawny-gives-out-tips-for-blast-premier-fall-groups
+2023/07/13 11:07:45 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 372.44237ms
+2023/07/13 11:07:45 Content still empty after HTML reader: https://www.hltv.org/news/36630/into-the-breach-sign-bymas-neofrag
+2023/07/13 11:07:45 Content still empty after HTML reader: https://www.hltv.org/news/36629/rooster-qualify-for-esl-pro-league-season-18
+2023/07/13 11:07:45 Fetched posts from https://www.hltv.org/rss/news, took 398.309737ms
+2023/07/13 11:07:45 Fetched posts from https://vlr.gg/rss, took 503.961739ms
+2023/07/13 11:07:45 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 638.804811ms
+2023/07/13 11:07:47 Fetched posts from https://blogtienao.com/feed, took 2.621745575s
+2023/07/13 11:07:53 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.64250029s
+2023/07/13 11:08:01 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.177558927s
+2023/07/13 11:08:13 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 28.745498595s
+2023/07/13 11:08:25 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/07/13 11:08:25 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.135540911s
+2023/07/13 11:08:25 Skipping writing post, no content: https://www.hltv.org/news/36636/9z-qualify-for-esl-pro-league-season-18
+2023/07/13 11:08:25 Skipping writing post, no content: https://www.hltv.org/news/36635/9ine-secure-final-spot-at-gamers8
+2023/07/13 11:08:25 Skipping writing post, no content: https://www.hltv.org/news/36633/hampus-on-playing-with-k0nfig-its-nice-to-not-have-the-biggest-balls-anymore
+2023/07/13 11:08:25 Skipping writing post, no content: https://www.hltv.org/news/36634/monte-sign-br0
+2023/07/13 11:08:25 Skipping writing post, no content: https://www.hltv.org/news/36628/hltv-confirmed-snappi-saw-talk-leading-ence-to-success-and-new-teams-at-blast
+2023/07/13 11:08:25 Skipping writing post, no content: https://www.hltv.org/news/36632/elige-complexitys-goal-was-just-to-make-the-major-my-expectations-are-going-to-be-higher-than-that
+2023/07/13 11:08:25 Skipping writing post, no content: https://www.hltv.org/news/36564/who-is-rainwaker-and-why-did-liquid-want-him
+2023/07/13 11:08:25 Skipping writing post, no content: https://www.hltv.org/news/36631/fantasy-focus-scrawny-gives-out-tips-for-blast-premier-fall-groups
+2023/07/13 11:08:25 Skipping writing post, no content: https://www.hltv.org/news/36630/into-the-breach-sign-bymas-neofrag
+2023/07/13 11:08:25 Skipping writing post, no content: https://www.hltv.org/news/36629/rooster-qualify-for-esl-pro-league-season-18
+2023/07/13 11:08:25 Skipping writing post, no content: https://www.nytimes.com/2023/07/12/business/england-high-street-retail-recovery.html
+2023/07/13 11:08:25 Templated 152 posts, took 29.185217ms
