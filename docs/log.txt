@@ -1,31 +1,33 @@
-2023/07/17 23:35:34 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 252.249622ms
-2023/07/17 23:35:34 Content still empty after HTML reader: https://www.hltv.org/news/36671/overhauled-overpass-arrives-in-latest-cs2-limited-test-update
-2023/07/17 23:35:34 Content still empty after HTML reader: https://www.hltv.org/news/36670/g2-trounce-og-to-face-faze-in-group-c-consolidation-final
-2023/07/17 23:35:34 Content still empty after HTML reader: https://www.hltv.org/news/36669/sashi-appoint-hunden-as-head-coach
-2023/07/17 23:35:34 Content still empty after HTML reader: https://www.hltv.org/news/36668/new-look-liquid-one-win-away-from-blast-fall-final
-2023/07/17 23:35:34 Content still empty after HTML reader: https://www.hltv.org/news/36667/eternal-fire-orks-clinch-final-esl-pro-league-season-18-slots
-2023/07/17 23:35:34 Content still empty after HTML reader: https://www.hltv.org/news/36666/big-reverse-sweep-astralis-at-fall-groups
-2023/07/17 23:35:34 Content still empty after HTML reader: https://www.hltv.org/news/36665/heroic-defeat-navi-to-qualify-for-group-b-final
-2023/07/17 23:35:34 Content still empty after HTML reader: https://www.hltv.org/news/36664/ecstatic-sign-patti
-2023/07/17 23:35:34 Content still empty after HTML reader: https://www.hltv.org/news/36663/k0nfig-i-thought-we-would-steamroll-eg
-2023/07/17 23:35:34 Content still empty after HTML reader: https://www.hltv.org/news/36662/headtr1ck-powers-nip-to-victory-over-eg
-2023/07/17 23:35:34 Fetched posts from https://www.hltv.org/rss/news, took 542.181351ms
-2023/07/17 23:35:35 Fetched posts from https://vlr.gg/rss, took 1.409828215s
-2023/07/17 23:35:35 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.606136633s
-2023/07/17 23:35:36 Fetched posts from https://blogtienao.com/feed, took 2.64206919s
-2023/07/17 23:35:41 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.934715403s
-2023/07/17 23:35:49 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.49780853s
-2023/07/17 23:36:08 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 34.906379884s
-2023/07/17 23:36:14 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/07/17 23:36:14 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.229509331s
-2023/07/17 23:36:14 Skipping writing post, no content: https://www.hltv.org/news/36671/overhauled-overpass-arrives-in-latest-cs2-limited-test-update
-2023/07/17 23:36:14 Skipping writing post, no content: https://www.hltv.org/news/36670/g2-trounce-og-to-face-faze-in-group-c-consolidation-final
-2023/07/17 23:36:14 Skipping writing post, no content: https://www.hltv.org/news/36669/sashi-appoint-hunden-as-head-coach
-2023/07/17 23:36:14 Skipping writing post, no content: https://www.hltv.org/news/36668/new-look-liquid-one-win-away-from-blast-fall-final
-2023/07/17 23:36:14 Skipping writing post, no content: https://www.hltv.org/news/36667/eternal-fire-orks-clinch-final-esl-pro-league-season-18-slots
-2023/07/17 23:36:14 Skipping writing post, no content: https://www.hltv.org/news/36666/big-reverse-sweep-astralis-at-fall-groups
-2023/07/17 23:36:14 Skipping writing post, no content: https://www.hltv.org/news/36665/heroic-defeat-navi-to-qualify-for-group-b-final
-2023/07/17 23:36:14 Skipping writing post, no content: https://www.hltv.org/news/36664/ecstatic-sign-patti
-2023/07/17 23:36:14 Skipping writing post, no content: https://www.hltv.org/news/36663/k0nfig-i-thought-we-would-steamroll-eg
-2023/07/17 23:36:14 Skipping writing post, no content: https://www.hltv.org/news/36662/headtr1ck-powers-nip-to-victory-over-eg
-2023/07/17 23:36:14 Templated 159 posts, took 23.822317ms
+2023/07/17 23:46:24 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 241.679703ms
+2023/07/17 23:46:24 Content still empty after HTML reader: https://www.hltv.org/news/36671/overhauled-overpass-arrives-in-latest-cs2-limited-test-update
+2023/07/17 23:46:24 Content still empty after HTML reader: https://www.hltv.org/news/36670/g2-trounce-og-to-face-faze-in-group-c-consolidation-final
+2023/07/17 23:46:24 Content still empty after HTML reader: https://www.nytimes.com/2023/07/17/us/politics/desantis-israel-biden.html
+2023/07/17 23:46:24 Content still empty after HTML reader: https://www.hltv.org/news/36669/sashi-appoint-hunden-as-head-coach
+2023/07/17 23:46:24 Content still empty after HTML reader: https://www.hltv.org/news/36668/new-look-liquid-one-win-away-from-blast-fall-final
+2023/07/17 23:46:24 Content still empty after HTML reader: https://www.hltv.org/news/36667/eternal-fire-orks-clinch-final-esl-pro-league-season-18-slots
+2023/07/17 23:46:24 Content still empty after HTML reader: https://www.hltv.org/news/36666/big-reverse-sweep-astralis-at-fall-groups
+2023/07/17 23:46:24 Content still empty after HTML reader: https://www.hltv.org/news/36665/heroic-defeat-navi-to-qualify-for-group-b-final
+2023/07/17 23:46:24 Content still empty after HTML reader: https://www.hltv.org/news/36664/ecstatic-sign-patti
+2023/07/17 23:46:24 Content still empty after HTML reader: https://www.hltv.org/news/36663/k0nfig-i-thought-we-would-steamroll-eg
+2023/07/17 23:46:24 Content still empty after HTML reader: https://www.hltv.org/news/36662/headtr1ck-powers-nip-to-victory-over-eg
+2023/07/17 23:46:24 Fetched posts from https://www.hltv.org/rss/news, took 399.543779ms
+2023/07/17 23:46:25 Fetched posts from https://vlr.gg/rss, took 1.212438249s
+2023/07/17 23:46:25 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.531912322s
+2023/07/17 23:46:27 Fetched posts from https://blogtienao.com/feed, took 2.796791852s
+2023/07/17 23:46:31 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.202881749s
+2023/07/17 23:46:38 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.776778571s
+2023/07/17 23:46:59 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 35.025692954s
+2023/07/17 23:47:04 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/07/17 23:47:04 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.371205143s
+2023/07/17 23:47:04 Skipping writing post, no content: https://www.nytimes.com/2023/07/17/us/politics/desantis-israel-biden.html
+2023/07/17 23:47:04 Skipping writing post, no content: https://www.hltv.org/news/36671/overhauled-overpass-arrives-in-latest-cs2-limited-test-update
+2023/07/17 23:47:04 Skipping writing post, no content: https://www.hltv.org/news/36670/g2-trounce-og-to-face-faze-in-group-c-consolidation-final
+2023/07/17 23:47:04 Skipping writing post, no content: https://www.hltv.org/news/36669/sashi-appoint-hunden-as-head-coach
+2023/07/17 23:47:04 Skipping writing post, no content: https://www.hltv.org/news/36668/new-look-liquid-one-win-away-from-blast-fall-final
+2023/07/17 23:47:04 Skipping writing post, no content: https://www.hltv.org/news/36667/eternal-fire-orks-clinch-final-esl-pro-league-season-18-slots
+2023/07/17 23:47:04 Skipping writing post, no content: https://www.hltv.org/news/36666/big-reverse-sweep-astralis-at-fall-groups
+2023/07/17 23:47:04 Skipping writing post, no content: https://www.hltv.org/news/36665/heroic-defeat-navi-to-qualify-for-group-b-final
+2023/07/17 23:47:04 Skipping writing post, no content: https://www.hltv.org/news/36664/ecstatic-sign-patti
+2023/07/17 23:47:04 Skipping writing post, no content: https://www.hltv.org/news/36663/k0nfig-i-thought-we-would-steamroll-eg
+2023/07/17 23:47:04 Skipping writing post, no content: https://www.hltv.org/news/36662/headtr1ck-powers-nip-to-victory-over-eg
+2023/07/17 23:47:04 Templated 160 posts, took 37.193047ms
