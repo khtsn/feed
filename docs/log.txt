@@ -1,31 +1,33 @@
-2023/07/23 21:49:11 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 210.493458ms
-2023/07/23 21:49:11 Content still empty after HTML reader: https://www.hltv.org/news/36695/navi-qualify-for-blast-fall-final-over-g2
-2023/07/23 21:49:11 Content still empty after HTML reader: https://www.hltv.org/news/36694/esl-reveal-talent-lineup-for-iem-cologne
-2023/07/23 21:49:11 Content still empty after HTML reader: https://www.hltv.org/news/36693/vitality-overpower-big-to-earn-blast-fall-final-berth
-2023/07/23 21:49:11 Content still empty after HTML reader: https://www.hltv.org/news/36692/iem-cologne-preview-on-hltv-confirmed
-2023/07/23 21:49:12 Content still empty after HTML reader: https://www.hltv.org/news/36685/forze-sign-el1an-and-sstinix
-2023/07/23 21:49:12 Content still empty after HTML reader: https://www.hltv.org/news/36691/astralis-defeat-liquid-2-0-to-qualify-for-blast-fall-final
-2023/07/23 21:49:12 Content still empty after HTML reader: https://www.hltv.org/news/36690/niko-masterclass-fends-off-eg-at-blast-fall-groups
-2023/07/23 21:49:12 Content still empty after HTML reader: https://www.hltv.org/news/36689/sources-valve-targets-shanghai-for-second-2024-major
-2023/07/23 21:49:12 Content still empty after HTML reader: https://www.hltv.org/news/36688/big-cast-og-down-to-blast-fall-showdown
-2023/07/23 21:49:12 Content still empty after HTML reader: https://www.hltv.org/news/36686/official-movistar-riders-sign-adams-dav1g-moved-to-the-bench
-2023/07/23 21:49:12 Fetched posts from https://www.hltv.org/rss/news, took 502.850506ms
-2023/07/23 21:49:12 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.334460676s
-2023/07/23 21:49:13 Fetched posts from https://vlr.gg/rss, took 1.961991427s
-2023/07/23 21:49:14 Fetched posts from https://blogtienao.com/feed, took 2.70345936s
-2023/07/23 21:49:19 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.520957148s
-2023/07/23 21:49:29 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.3841412s
-2023/07/23 21:49:49 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 37.658916279s
-2023/07/23 21:49:51 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/07/23 21:49:51 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.172116629s
-2023/07/23 21:49:51 Skipping writing post, no content: https://www.hltv.org/news/36695/navi-qualify-for-blast-fall-final-over-g2
-2023/07/23 21:49:51 Skipping writing post, no content: https://www.hltv.org/news/36694/esl-reveal-talent-lineup-for-iem-cologne
-2023/07/23 21:49:51 Skipping writing post, no content: https://www.hltv.org/news/36693/vitality-overpower-big-to-earn-blast-fall-final-berth
-2023/07/23 21:49:51 Skipping writing post, no content: https://www.hltv.org/news/36692/iem-cologne-preview-on-hltv-confirmed
-2023/07/23 21:49:51 Skipping writing post, no content: https://www.hltv.org/news/36685/forze-sign-el1an-and-sstinix
-2023/07/23 21:49:51 Skipping writing post, no content: https://www.hltv.org/news/36691/astralis-defeat-liquid-2-0-to-qualify-for-blast-fall-final
-2023/07/23 21:49:51 Skipping writing post, no content: https://www.hltv.org/news/36690/niko-masterclass-fends-off-eg-at-blast-fall-groups
-2023/07/23 21:49:51 Skipping writing post, no content: https://www.hltv.org/news/36689/sources-valve-targets-shanghai-for-second-2024-major
-2023/07/23 21:49:51 Skipping writing post, no content: https://www.hltv.org/news/36688/big-cast-og-down-to-blast-fall-showdown
-2023/07/23 21:49:51 Skipping writing post, no content: https://www.hltv.org/news/36686/official-movistar-riders-sign-adams-dav1g-moved-to-the-bench
-2023/07/23 21:49:51 Templated 175 posts, took 29.571462ms
+2023/07/23 21:59:45 Content still empty after HTML reader: https://www.hltv.org/news/36695/navi-qualify-for-blast-fall-final-over-g2
+2023/07/23 21:59:45 Content still empty after HTML reader: https://www.hltv.org/news/36694/esl-reveal-talent-lineup-for-iem-cologne
+2023/07/23 21:59:45 Content still empty after HTML reader: https://www.hltv.org/news/36693/vitality-overpower-big-to-earn-blast-fall-final-berth
+2023/07/23 21:59:45 Content still empty after HTML reader: https://www.nytimes.com/2023/07/23/movies/barbie-fans-outfits.html
+2023/07/23 21:59:45 Content still empty after HTML reader: https://www.hltv.org/news/36692/iem-cologne-preview-on-hltv-confirmed
+2023/07/23 21:59:45 Content still empty after HTML reader: https://www.hltv.org/news/36685/forze-sign-el1an-and-sstinix
+2023/07/23 21:59:45 Content still empty after HTML reader: https://www.hltv.org/news/36691/astralis-defeat-liquid-2-0-to-qualify-for-blast-fall-final
+2023/07/23 21:59:45 Content still empty after HTML reader: https://www.hltv.org/news/36690/niko-masterclass-fends-off-eg-at-blast-fall-groups
+2023/07/23 21:59:45 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 414.869031ms
+2023/07/23 21:59:46 Content still empty after HTML reader: https://www.hltv.org/news/36689/sources-valve-targets-shanghai-for-second-2024-major
+2023/07/23 21:59:46 Content still empty after HTML reader: https://www.hltv.org/news/36688/big-cast-og-down-to-blast-fall-showdown
+2023/07/23 21:59:46 Content still empty after HTML reader: https://www.hltv.org/news/36686/official-movistar-riders-sign-adams-dav1g-moved-to-the-bench
+2023/07/23 21:59:46 Fetched posts from https://www.hltv.org/rss/news, took 443.025559ms
+2023/07/23 21:59:46 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 816.548208ms
+2023/07/23 21:59:49 Fetched posts from https://blogtienao.com/feed, took 3.460950654s
+2023/07/23 21:59:49 Fetched posts from https://vlr.gg/rss, took 4.247180908s
+2023/07/23 21:59:52 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 6.870583043s
+2023/07/23 22:00:01 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.254038732s
+2023/07/23 22:00:23 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 38.087661014s
+2023/07/23 22:00:25 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/07/23 22:00:25 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.132482139s
+2023/07/23 22:00:25 Skipping writing post, no content: https://www.hltv.org/news/36695/navi-qualify-for-blast-fall-final-over-g2
+2023/07/23 22:00:25 Skipping writing post, no content: https://www.nytimes.com/2023/07/23/movies/barbie-fans-outfits.html
+2023/07/23 22:00:25 Skipping writing post, no content: https://www.hltv.org/news/36694/esl-reveal-talent-lineup-for-iem-cologne
+2023/07/23 22:00:25 Skipping writing post, no content: https://www.hltv.org/news/36693/vitality-overpower-big-to-earn-blast-fall-final-berth
+2023/07/23 22:00:25 Skipping writing post, no content: https://www.hltv.org/news/36692/iem-cologne-preview-on-hltv-confirmed
+2023/07/23 22:00:25 Skipping writing post, no content: https://www.hltv.org/news/36685/forze-sign-el1an-and-sstinix
+2023/07/23 22:00:25 Skipping writing post, no content: https://www.hltv.org/news/36691/astralis-defeat-liquid-2-0-to-qualify-for-blast-fall-final
+2023/07/23 22:00:25 Skipping writing post, no content: https://www.hltv.org/news/36690/niko-masterclass-fends-off-eg-at-blast-fall-groups
+2023/07/23 22:00:25 Skipping writing post, no content: https://www.hltv.org/news/36689/sources-valve-targets-shanghai-for-second-2024-major
+2023/07/23 22:00:25 Skipping writing post, no content: https://www.hltv.org/news/36688/big-cast-og-down-to-blast-fall-showdown
+2023/07/23 22:00:25 Skipping writing post, no content: https://www.hltv.org/news/36686/official-movistar-riders-sign-adams-dav1g-moved-to-the-bench
+2023/07/23 22:00:25 Templated 176 posts, took 27.730074ms
