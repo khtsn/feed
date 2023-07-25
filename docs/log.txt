@@ -1,29 +1,31 @@
-2023/07/25 18:22:29 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 150.709835ms
-2023/07/25 18:22:29 Content still empty after HTML reader: https://www.hltv.org/news/36704/10000-fantasy-season-continues-with-iem-cologne-play-in-game
-2023/07/25 18:22:29 Content still empty after HTML reader: https://www.hltv.org/news/36703/media-preasy-close-to-signing-nicoodoz-refrezh
-2023/07/25 18:22:29 Content still empty after HTML reader: https://www.hltv.org/news/36701/pinnacle-cup-v-announced-to-feature-apeks-astralis-in-playoffs
-2023/07/25 18:22:29 Content still empty after HTML reader: https://www.hltv.org/news/36653/stat-check-how-cloud9s-marquee-signings-fit-like-a-glove
-2023/07/25 18:22:29 Content still empty after HTML reader: https://www.hltv.org/news/36697/iem-cologne-teams-format-schedule-talent-prizes
-2023/07/25 18:22:29 Content still empty after HTML reader: https://www.hltv.org/news/36698/ination-withdraw-from-csgo
-2023/07/25 18:22:29 Content still empty after HTML reader: https://www.hltv.org/news/36696/alexsomfan-becomes-new-astralis-talent-coach
-2023/07/25 18:22:29 Content still empty after HTML reader: https://www.hltv.org/news/36623/stat-check-mouz-go-for-firepower-over-comfort
-2023/07/25 18:22:29 Content still empty after HTML reader: https://www.hltv.org/news/36695/navi-qualify-for-blast-fall-final-over-g2
-2023/07/25 18:22:29 Fetched posts from https://www.hltv.org/rss/news, took 534.530926ms
-2023/07/25 18:22:29 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 982.583301ms
-2023/07/25 18:22:30 Fetched posts from https://vlr.gg/rss, took 1.155531603s
-2023/07/25 18:22:31 Fetched posts from https://blogtienao.com/feed, took 2.342637144s
-2023/07/25 18:22:37 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.35859762s
-2023/07/25 18:22:47 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.915787008s
-2023/07/25 18:23:07 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 38.430395938s
-2023/07/25 18:23:09 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/07/25 18:23:09 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.123007367s
-2023/07/25 18:23:09 Skipping writing post, no content: https://www.hltv.org/news/36704/10000-fantasy-season-continues-with-iem-cologne-play-in-game
-2023/07/25 18:23:09 Skipping writing post, no content: https://www.hltv.org/news/36703/media-preasy-close-to-signing-nicoodoz-refrezh
-2023/07/25 18:23:09 Skipping writing post, no content: https://www.hltv.org/news/36701/pinnacle-cup-v-announced-to-feature-apeks-astralis-in-playoffs
-2023/07/25 18:23:09 Skipping writing post, no content: https://www.hltv.org/news/36653/stat-check-how-cloud9s-marquee-signings-fit-like-a-glove
-2023/07/25 18:23:09 Skipping writing post, no content: https://www.hltv.org/news/36697/iem-cologne-teams-format-schedule-talent-prizes
-2023/07/25 18:23:09 Skipping writing post, no content: https://www.hltv.org/news/36698/ination-withdraw-from-csgo
-2023/07/25 18:23:09 Skipping writing post, no content: https://www.hltv.org/news/36696/alexsomfan-becomes-new-astralis-talent-coach
-2023/07/25 18:23:09 Skipping writing post, no content: https://www.hltv.org/news/36623/stat-check-mouz-go-for-firepower-over-comfort
-2023/07/25 18:23:09 Skipping writing post, no content: https://www.hltv.org/news/36695/navi-qualify-for-blast-fall-final-over-g2
-2023/07/25 18:23:09 Templated 171 posts, took 25.756956ms
+2023/07/25 18:33:37 Content still empty after HTML reader: https://www.hltv.org/news/36704/10000-fantasy-season-continues-with-iem-cologne-play-in-game
+2023/07/25 18:33:37 Content still empty after HTML reader: https://www.hltv.org/news/36703/media-preasy-close-to-signing-nicoodoz-refrezh
+2023/07/25 18:33:37 Content still empty after HTML reader: https://www.hltv.org/news/36700/sangal-announce-lnz-signing
+2023/07/25 18:33:37 Content still empty after HTML reader: https://www.hltv.org/news/36701/pinnacle-cup-v-announced-to-feature-apeks-astralis-in-playoffs
+2023/07/25 18:33:37 Content still empty after HTML reader: https://www.hltv.org/news/36653/stat-check-how-cloud9s-marquee-signings-fit-like-a-glove
+2023/07/25 18:33:37 Content still empty after HTML reader: https://www.hltv.org/news/36697/iem-cologne-teams-format-schedule-talent-prizes
+2023/07/25 18:33:38 Content still empty after HTML reader: https://www.hltv.org/news/36698/ination-withdraw-from-csgo
+2023/07/25 18:33:38 Content still empty after HTML reader: https://www.hltv.org/news/36696/alexsomfan-becomes-new-astralis-talent-coach
+2023/07/25 18:33:38 Content still empty after HTML reader: https://www.hltv.org/news/36623/stat-check-mouz-go-for-firepower-over-comfort
+2023/07/25 18:33:38 Content still empty after HTML reader: https://www.hltv.org/news/36695/navi-qualify-for-blast-fall-final-over-g2
+2023/07/25 18:33:38 Fetched posts from https://www.hltv.org/rss/news, took 483.820141ms
+2023/07/25 18:33:38 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 582.215277ms
+2023/07/25 18:33:38 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 969.90292ms
+2023/07/25 18:33:38 Fetched posts from https://vlr.gg/rss, took 1.19711663s
+2023/07/25 18:33:39 Fetched posts from https://blogtienao.com/feed, took 2.325702946s
+2023/07/25 18:33:46 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.719975865s
+2023/07/25 18:33:56 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.920293023s
+2023/07/25 18:34:16 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 38.832812474s
+2023/07/25 18:34:17 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/07/25 18:34:17 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.138531884s
+2023/07/25 18:34:17 Skipping writing post, no content: https://www.hltv.org/news/36704/10000-fantasy-season-continues-with-iem-cologne-play-in-game
+2023/07/25 18:34:17 Skipping writing post, no content: https://www.hltv.org/news/36703/media-preasy-close-to-signing-nicoodoz-refrezh
+2023/07/25 18:34:17 Skipping writing post, no content: https://www.hltv.org/news/36700/sangal-announce-lnz-signing
+2023/07/25 18:34:17 Skipping writing post, no content: https://www.hltv.org/news/36701/pinnacle-cup-v-announced-to-feature-apeks-astralis-in-playoffs
+2023/07/25 18:34:17 Skipping writing post, no content: https://www.hltv.org/news/36653/stat-check-how-cloud9s-marquee-signings-fit-like-a-glove
+2023/07/25 18:34:17 Skipping writing post, no content: https://www.hltv.org/news/36697/iem-cologne-teams-format-schedule-talent-prizes
+2023/07/25 18:34:17 Skipping writing post, no content: https://www.hltv.org/news/36698/ination-withdraw-from-csgo
+2023/07/25 18:34:17 Skipping writing post, no content: https://www.hltv.org/news/36696/alexsomfan-becomes-new-astralis-talent-coach
+2023/07/25 18:34:17 Skipping writing post, no content: https://www.hltv.org/news/36623/stat-check-mouz-go-for-firepower-over-comfort
+2023/07/25 18:34:17 Skipping writing post, no content: https://www.hltv.org/news/36695/navi-qualify-for-blast-fall-final-over-g2
+2023/07/25 18:34:17 Templated 171 posts, took 26.881859ms
