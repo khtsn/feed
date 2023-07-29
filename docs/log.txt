@@ -1,27 +1,31 @@
-2023/07/29 20:00:59 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 233.715373ms
-2023/07/29 20:01:00 Content still empty after HTML reader: https://www.hltv.org/news/36754/saw-after-dallas-it-sort-of-felt-like-the-season-was-cut-short
-2023/07/29 20:01:00 Content still empty after HTML reader: https://www.hltv.org/news/36755/g2-outlast-astralis-to-advance-to-upper-bracket-semi-final-in-cologne
-2023/07/29 20:01:00 Content still empty after HTML reader: https://www.hltv.org/news/36752/mezii-you-cant-just-sit-there-and-hope-that-the-igl-makes-the-best-call
-2023/07/29 20:01:00 Content still empty after HTML reader: https://www.hltv.org/news/36751/fnatic-send-cloud9-to-lower-bracket-in-cologne
-2023/07/29 20:01:00 Content still empty after HTML reader: https://www.hltv.org/news/36749/monte-breeze-past-new-look-gamerlegion-in-iem-cologne-group-stage-opener
-2023/07/29 20:01:00 Content still empty after HTML reader: https://www.hltv.org/news/36748/apeks-virtuspro-headline-cct-online-finals-2-team-list
-2023/07/29 20:01:00 Content still empty after HTML reader: https://www.hltv.org/news/36747/live-updates-from-iem-cologne-groups-day-1
-2023/07/29 20:01:00 Content still empty after HTML reader: https://www.hltv.org/news/36745/djl-im-just-super-proud-of-headtr1ck-the-clutch-king
-2023/07/29 20:01:00 Fetched posts from https://www.hltv.org/rss/news, took 794.796912ms
-2023/07/29 20:01:00 Fetched posts from https://vlr.gg/rss, took 920.08301ms
-2023/07/29 20:01:00 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.014439015s
-2023/07/29 20:01:02 Fetched posts from https://blogtienao.com/feed, took 2.404816626s
-2023/07/29 20:01:08 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 9.13541934s
-2023/07/29 20:01:17 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.035025853s
-2023/07/29 20:01:27 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 28.207220567s
-2023/07/29 20:01:39 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/07/29 20:01:39 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.275011578s
-2023/07/29 20:01:39 Skipping writing post, no content: https://www.hltv.org/news/36754/saw-after-dallas-it-sort-of-felt-like-the-season-was-cut-short
-2023/07/29 20:01:39 Skipping writing post, no content: https://www.hltv.org/news/36755/g2-outlast-astralis-to-advance-to-upper-bracket-semi-final-in-cologne
-2023/07/29 20:01:39 Skipping writing post, no content: https://www.hltv.org/news/36752/mezii-you-cant-just-sit-there-and-hope-that-the-igl-makes-the-best-call
-2023/07/29 20:01:39 Skipping writing post, no content: https://www.hltv.org/news/36751/fnatic-send-cloud9-to-lower-bracket-in-cologne
-2023/07/29 20:01:39 Skipping writing post, no content: https://www.hltv.org/news/36749/monte-breeze-past-new-look-gamerlegion-in-iem-cologne-group-stage-opener
-2023/07/29 20:01:39 Skipping writing post, no content: https://www.hltv.org/news/36748/apeks-virtuspro-headline-cct-online-finals-2-team-list
-2023/07/29 20:01:39 Skipping writing post, no content: https://www.hltv.org/news/36747/live-updates-from-iem-cologne-groups-day-1
-2023/07/29 20:01:39 Skipping writing post, no content: https://www.hltv.org/news/36745/djl-im-just-super-proud-of-headtr1ck-the-clutch-king
-2023/07/29 20:01:39 Templated 163 posts, took 25.650978ms
+2023/07/29 20:18:02 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 300.900816ms
+2023/07/29 20:18:02 Content still empty after HTML reader: https://www.hltv.org/news/36754/saw-after-dallas-it-sort-of-felt-like-the-season-was-cut-short
+2023/07/29 20:18:02 Content still empty after HTML reader: https://www.hltv.org/news/36755/g2-outlast-astralis-to-advance-to-upper-bracket-semi-final-in-cologne
+2023/07/29 20:18:02 Content still empty after HTML reader: https://www.hltv.org/news/36753/ence-survive-9ine-in-iem-cologne-group-stage-opener
+2023/07/29 20:18:02 Content still empty after HTML reader: https://www.hltv.org/news/36752/mezii-you-cant-just-sit-there-and-hope-that-the-igl-makes-the-best-call
+2023/07/29 20:18:02 Content still empty after HTML reader: https://www.hltv.org/news/36751/fnatic-send-cloud9-to-lower-bracket-in-cologne
+2023/07/29 20:18:02 Content still empty after HTML reader: https://www.hltv.org/news/36750/volt-gamerlegion-have-a-better-plan-for-the-future-compared-to-what-we-had-in-itb
+2023/07/29 20:18:02 Content still empty after HTML reader: https://www.hltv.org/news/36749/monte-breeze-past-new-look-gamerlegion-in-iem-cologne-group-stage-opener
+2023/07/29 20:18:02 Content still empty after HTML reader: https://www.hltv.org/news/36748/apeks-virtuspro-headline-cct-online-finals-2-team-list
+2023/07/29 20:18:02 Content still empty after HTML reader: https://www.hltv.org/news/36747/live-updates-from-iem-cologne-groups-day-1
+2023/07/29 20:18:02 Content still empty after HTML reader: https://www.hltv.org/news/36745/djl-im-just-super-proud-of-headtr1ck-the-clutch-king
+2023/07/29 20:18:02 Fetched posts from https://www.hltv.org/rss/news, took 515.621251ms
+2023/07/29 20:18:03 Fetched posts from https://vlr.gg/rss, took 1.168436816s
+2023/07/29 20:18:03 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.381342918s
+2023/07/29 20:18:05 Fetched posts from https://blogtienao.com/feed, took 3.23861976s
+2023/07/29 20:18:09 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.938181084s
+2023/07/29 20:18:16 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.357243217s
+2023/07/29 20:18:26 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 24.623018878s
+2023/07/29 20:18:42 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/07/29 20:18:42 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.293588589s
+2023/07/29 20:18:42 Skipping writing post, no content: https://www.hltv.org/news/36754/saw-after-dallas-it-sort-of-felt-like-the-season-was-cut-short
+2023/07/29 20:18:42 Skipping writing post, no content: https://www.hltv.org/news/36755/g2-outlast-astralis-to-advance-to-upper-bracket-semi-final-in-cologne
+2023/07/29 20:18:42 Skipping writing post, no content: https://www.hltv.org/news/36753/ence-survive-9ine-in-iem-cologne-group-stage-opener
+2023/07/29 20:18:42 Skipping writing post, no content: https://www.hltv.org/news/36752/mezii-you-cant-just-sit-there-and-hope-that-the-igl-makes-the-best-call
+2023/07/29 20:18:42 Skipping writing post, no content: https://www.hltv.org/news/36751/fnatic-send-cloud9-to-lower-bracket-in-cologne
+2023/07/29 20:18:42 Skipping writing post, no content: https://www.hltv.org/news/36750/volt-gamerlegion-have-a-better-plan-for-the-future-compared-to-what-we-had-in-itb
+2023/07/29 20:18:42 Skipping writing post, no content: https://www.hltv.org/news/36749/monte-breeze-past-new-look-gamerlegion-in-iem-cologne-group-stage-opener
+2023/07/29 20:18:42 Skipping writing post, no content: https://www.hltv.org/news/36748/apeks-virtuspro-headline-cct-online-finals-2-team-list
+2023/07/29 20:18:42 Skipping writing post, no content: https://www.hltv.org/news/36747/live-updates-from-iem-cologne-groups-day-1
+2023/07/29 20:18:42 Skipping writing post, no content: https://www.hltv.org/news/36745/djl-im-just-super-proud-of-headtr1ck-the-clutch-king
+2023/07/29 20:18:42 Templated 162 posts, took 26.376169ms
