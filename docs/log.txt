@@ -1,33 +1,31 @@
-2023/08/06 12:27:11 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 131.56051ms
-2023/08/06 12:27:11 Content still empty after HTML reader: https://www.nytimes.com/2023/08/06/nyregion/serial-killers-gilgo-beach-rex-heuermann.html
-2023/08/06 12:27:11 Content still empty after HTML reader: https://www.hltv.org/news/36830/hunter-if-we-can-find-consistency-then-i-think-we-can-be-the-best-in-the-world-again
-2023/08/06 12:27:11 Content still empty after HTML reader: https://www.hltv.org/news/36829/g2-overpower-astralis-to-face-ence-in-iem-cologne-grand-final
-2023/08/06 12:27:11 Content still empty after HTML reader: https://www.hltv.org/news/36828/sunpayus-i-think-were-capable-of-winning-with-the-positive-mindset-we-have-right-now
-2023/08/06 12:27:11 Content still empty after HTML reader: https://www.hltv.org/news/36827/sunpayus-shines-bright-as-ence-advance-to-iem-cologne-grand-final-over-vitality
-2023/08/06 12:27:11 Content still empty after HTML reader: https://www.hltv.org/news/36826/havu-move-past-ence-academy-to-qualify-for-elisa-masters-espoo
-2023/08/06 12:27:11 Content still empty after HTML reader: https://www.hltv.org/news/36825/live-updates-from-iem-cologne-semi-finals
-2023/08/06 12:27:11 Content still empty after HTML reader: https://www.hltv.org/news/36824/astralis-best-heroic-to-set-up-g2-semi-final
-2023/08/06 12:27:11 Content still empty after HTML reader: https://www.hltv.org/news/36823/vitality-best-cloud9-to-secure-iem-cologne-semi-final-spot
-2023/08/06 12:27:11 Content still empty after HTML reader: https://www.hltv.org/news/36822/into-the-breach-appoint-trace-as-head-coach
-2023/08/06 12:27:11 Content still empty after HTML reader: https://www.hltv.org/news/36821/live-updates-from-iem-cologne-quarter-finals
-2023/08/06 12:27:11 Fetched posts from https://www.hltv.org/rss/news, took 422.729744ms
-2023/08/06 12:27:11 Fetched posts from https://vlr.gg/rss, took 556.326713ms
-2023/08/06 12:27:12 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 863.168723ms
-2023/08/06 12:27:15 Fetched posts from https://blogtienao.com/feed, took 4.212783216s
-2023/08/06 12:27:20 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 9.232105205s
-2023/08/06 12:27:32 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.878590114s
-2023/08/06 12:27:49 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 38.609022301s
-2023/08/06 12:27:51 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/08/06 12:27:51 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.136834161s
-2023/08/06 12:27:51 Skipping writing post, no content: https://www.nytimes.com/2023/08/06/nyregion/serial-killers-gilgo-beach-rex-heuermann.html
-2023/08/06 12:27:51 Skipping writing post, no content: https://www.hltv.org/news/36830/hunter-if-we-can-find-consistency-then-i-think-we-can-be-the-best-in-the-world-again
-2023/08/06 12:27:51 Skipping writing post, no content: https://www.hltv.org/news/36829/g2-overpower-astralis-to-face-ence-in-iem-cologne-grand-final
-2023/08/06 12:27:51 Skipping writing post, no content: https://www.hltv.org/news/36828/sunpayus-i-think-were-capable-of-winning-with-the-positive-mindset-we-have-right-now
-2023/08/06 12:27:51 Skipping writing post, no content: https://www.hltv.org/news/36827/sunpayus-shines-bright-as-ence-advance-to-iem-cologne-grand-final-over-vitality
-2023/08/06 12:27:51 Skipping writing post, no content: https://www.hltv.org/news/36826/havu-move-past-ence-academy-to-qualify-for-elisa-masters-espoo
-2023/08/06 12:27:51 Skipping writing post, no content: https://www.hltv.org/news/36825/live-updates-from-iem-cologne-semi-finals
-2023/08/06 12:27:51 Skipping writing post, no content: https://www.hltv.org/news/36824/astralis-best-heroic-to-set-up-g2-semi-final
-2023/08/06 12:27:51 Skipping writing post, no content: https://www.hltv.org/news/36823/vitality-best-cloud9-to-secure-iem-cologne-semi-final-spot
-2023/08/06 12:27:51 Skipping writing post, no content: https://www.hltv.org/news/36822/into-the-breach-appoint-trace-as-head-coach
-2023/08/06 12:27:51 Skipping writing post, no content: https://www.hltv.org/news/36821/live-updates-from-iem-cologne-quarter-finals
-2023/08/06 12:27:51 Templated 156 posts, took 23.108958ms
+2023/08/06 12:47:50 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 430.84726ms
+2023/08/06 12:47:50 Content still empty after HTML reader: https://www.hltv.org/news/36830/hunter-if-we-can-find-consistency-then-i-think-we-can-be-the-best-in-the-world-again
+2023/08/06 12:47:50 Content still empty after HTML reader: https://www.hltv.org/news/36829/g2-overpower-astralis-to-face-ence-in-iem-cologne-grand-final
+2023/08/06 12:47:50 Content still empty after HTML reader: https://www.hltv.org/news/36828/sunpayus-i-think-were-capable-of-winning-with-the-positive-mindset-we-have-right-now
+2023/08/06 12:47:50 Content still empty after HTML reader: https://www.hltv.org/news/36827/sunpayus-shines-bright-as-ence-advance-to-iem-cologne-grand-final-over-vitality
+2023/08/06 12:47:50 Content still empty after HTML reader: https://www.hltv.org/news/36826/havu-move-past-ence-academy-to-qualify-for-elisa-masters-espoo
+2023/08/06 12:47:50 Content still empty after HTML reader: https://www.hltv.org/news/36825/live-updates-from-iem-cologne-semi-finals
+2023/08/06 12:47:50 Content still empty after HTML reader: https://www.hltv.org/news/36824/astralis-best-heroic-to-set-up-g2-semi-final
+2023/08/06 12:47:50 Content still empty after HTML reader: https://www.hltv.org/news/36823/vitality-best-cloud9-to-secure-iem-cologne-semi-final-spot
+2023/08/06 12:47:50 Content still empty after HTML reader: https://www.hltv.org/news/36822/into-the-breach-appoint-trace-as-head-coach
+2023/08/06 12:47:50 Content still empty after HTML reader: https://www.hltv.org/news/36821/live-updates-from-iem-cologne-quarter-finals
+2023/08/06 12:47:50 Fetched posts from https://www.hltv.org/rss/news, took 834.70213ms
+2023/08/06 12:47:51 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.412762997s
+2023/08/06 12:47:51 Fetched posts from https://vlr.gg/rss, took 1.475169845s
+2023/08/06 12:47:55 Fetched posts from https://blogtienao.com/feed, took 5.930254698s
+2023/08/06 12:47:57 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.573012916s
+2023/08/06 12:48:08 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.066471378s
+2023/08/06 12:48:25 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 35.519112743s
+2023/08/06 12:48:29 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/08/06 12:48:29 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.191817701s
+2023/08/06 12:48:29 Skipping writing post, no content: https://www.hltv.org/news/36830/hunter-if-we-can-find-consistency-then-i-think-we-can-be-the-best-in-the-world-again
+2023/08/06 12:48:29 Skipping writing post, no content: https://www.hltv.org/news/36829/g2-overpower-astralis-to-face-ence-in-iem-cologne-grand-final
+2023/08/06 12:48:29 Skipping writing post, no content: https://www.hltv.org/news/36828/sunpayus-i-think-were-capable-of-winning-with-the-positive-mindset-we-have-right-now
+2023/08/06 12:48:29 Skipping writing post, no content: https://www.hltv.org/news/36827/sunpayus-shines-bright-as-ence-advance-to-iem-cologne-grand-final-over-vitality
+2023/08/06 12:48:29 Skipping writing post, no content: https://www.hltv.org/news/36826/havu-move-past-ence-academy-to-qualify-for-elisa-masters-espoo
+2023/08/06 12:48:29 Skipping writing post, no content: https://www.hltv.org/news/36825/live-updates-from-iem-cologne-semi-finals
+2023/08/06 12:48:29 Skipping writing post, no content: https://www.hltv.org/news/36824/astralis-best-heroic-to-set-up-g2-semi-final
+2023/08/06 12:48:29 Skipping writing post, no content: https://www.hltv.org/news/36823/vitality-best-cloud9-to-secure-iem-cologne-semi-final-spot
+2023/08/06 12:48:29 Skipping writing post, no content: https://www.hltv.org/news/36822/into-the-breach-appoint-trace-as-head-coach
+2023/08/06 12:48:29 Skipping writing post, no content: https://www.hltv.org/news/36821/live-updates-from-iem-cologne-quarter-finals
+2023/08/06 12:48:29 Templated 156 posts, took 22.408884ms
