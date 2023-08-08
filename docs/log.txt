@@ -1,29 +1,31 @@
-2023/08/08 05:27:32 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 203.010556ms
-2023/08/08 05:27:32 Content still empty after HTML reader: https://www.hltv.org/news/36838/team-ranking-july-2023
-2023/08/08 05:27:32 Content still empty after HTML reader: https://www.hltv.org/news/36837/the-best-photos-from-iem-cologne
-2023/08/08 05:27:32 Content still empty after HTML reader: https://www.hltv.org/news/36836/godsent-announce-new-lineup-featuring-goldens-return-as-a-player
-2023/08/08 05:27:32 Content still empty after HTML reader: https://www.hltv.org/news/36835/entire-rare-atom-lineup-departs-organization
-2023/08/08 05:27:32 Content still empty after HTML reader: https://www.hltv.org/news/36833/niko-named-mvp-of-iem-cologne
-2023/08/08 05:27:32 Content still empty after HTML reader: https://www.hltv.org/news/36832/g2-triumph-over-ence-to-take-iem-cologne-trophy
-2023/08/08 05:27:32 Content still empty after HTML reader: https://www.hltv.org/news/36831/live-updates-from-iem-cologne-grand-final
-2023/08/08 05:27:32 Content still empty after HTML reader: https://www.hltv.org/news/36830/hunter-if-we-can-find-consistency-then-i-think-we-can-be-the-best-in-the-world-again
-2023/08/08 05:27:32 Content still empty after HTML reader: https://www.hltv.org/news/36829/g2-overpower-astralis-to-face-ence-in-iem-cologne-grand-final
-2023/08/08 05:27:32 Fetched posts from https://www.hltv.org/rss/news, took 397.688376ms
-2023/08/08 05:27:33 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.034112797s
-2023/08/08 05:27:33 Fetched posts from https://vlr.gg/rss, took 1.262374671s
-2023/08/08 05:27:35 Fetched posts from https://blogtienao.com/feed, took 2.992071504s
-2023/08/08 05:27:40 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.030235581s
-2023/08/08 05:27:48 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.520466795s
-2023/08/08 05:28:09 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 36.935119187s
-2023/08/08 05:28:12 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/08/08 05:28:12 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.168217083s
-2023/08/08 05:28:12 Skipping writing post, no content: https://www.hltv.org/news/36838/team-ranking-july-2023
-2023/08/08 05:28:12 Skipping writing post, no content: https://www.hltv.org/news/36837/the-best-photos-from-iem-cologne
-2023/08/08 05:28:12 Skipping writing post, no content: https://www.hltv.org/news/36836/godsent-announce-new-lineup-featuring-goldens-return-as-a-player
-2023/08/08 05:28:12 Skipping writing post, no content: https://www.hltv.org/news/36835/entire-rare-atom-lineup-departs-organization
-2023/08/08 05:28:12 Skipping writing post, no content: https://www.hltv.org/news/36833/niko-named-mvp-of-iem-cologne
-2023/08/08 05:28:12 Skipping writing post, no content: https://www.hltv.org/news/36832/g2-triumph-over-ence-to-take-iem-cologne-trophy
-2023/08/08 05:28:12 Skipping writing post, no content: https://www.hltv.org/news/36831/live-updates-from-iem-cologne-grand-final
-2023/08/08 05:28:12 Skipping writing post, no content: https://www.hltv.org/news/36830/hunter-if-we-can-find-consistency-then-i-think-we-can-be-the-best-in-the-world-again
-2023/08/08 05:28:12 Skipping writing post, no content: https://www.hltv.org/news/36829/g2-overpower-astralis-to-face-ence-in-iem-cologne-grand-final
-2023/08/08 05:28:12 Templated 154 posts, took 30.535889ms
+2023/08/08 05:38:17 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 280.052263ms
+2023/08/08 05:38:17 Content still empty after HTML reader: https://www.hltv.org/news/36838/team-ranking-july-2023
+2023/08/08 05:38:17 Content still empty after HTML reader: https://www.hltv.org/news/36837/the-best-photos-from-iem-cologne
+2023/08/08 05:38:17 Content still empty after HTML reader: https://www.hltv.org/news/36836/godsent-announce-new-lineup-featuring-goldens-return-as-a-player
+2023/08/08 05:38:17 Content still empty after HTML reader: https://www.hltv.org/news/36835/entire-rare-atom-lineup-departs-organization
+2023/08/08 05:38:17 Content still empty after HTML reader: https://www.hltv.org/news/36834/niko-i-feel-like-the-most-complete-player-in-my-career-in-this-moment
+2023/08/08 05:38:17 Content still empty after HTML reader: https://www.hltv.org/news/36833/niko-named-mvp-of-iem-cologne
+2023/08/08 05:38:17 Content still empty after HTML reader: https://www.hltv.org/news/36832/g2-triumph-over-ence-to-take-iem-cologne-trophy
+2023/08/08 05:38:17 Content still empty after HTML reader: https://www.hltv.org/news/36831/live-updates-from-iem-cologne-grand-final
+2023/08/08 05:38:17 Content still empty after HTML reader: https://www.hltv.org/news/36830/hunter-if-we-can-find-consistency-then-i-think-we-can-be-the-best-in-the-world-again
+2023/08/08 05:38:17 Content still empty after HTML reader: https://www.hltv.org/news/36829/g2-overpower-astralis-to-face-ence-in-iem-cologne-grand-final
+2023/08/08 05:38:17 Fetched posts from https://www.hltv.org/rss/news, took 917.219209ms
+2023/08/08 05:38:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.152198542s
+2023/08/08 05:38:18 Fetched posts from https://vlr.gg/rss, took 1.439764642s
+2023/08/08 05:38:19 Fetched posts from https://blogtienao.com/feed, took 2.536966269s
+2023/08/08 05:38:25 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.332078244s
+2023/08/08 05:38:34 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.841556336s
+2023/08/08 05:38:54 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 37.422497634s
+2023/08/08 05:38:56 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/08/08 05:38:56 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.230538149s
+2023/08/08 05:38:56 Skipping writing post, no content: https://www.hltv.org/news/36838/team-ranking-july-2023
+2023/08/08 05:38:56 Skipping writing post, no content: https://www.hltv.org/news/36837/the-best-photos-from-iem-cologne
+2023/08/08 05:38:56 Skipping writing post, no content: https://www.hltv.org/news/36836/godsent-announce-new-lineup-featuring-goldens-return-as-a-player
+2023/08/08 05:38:56 Skipping writing post, no content: https://www.hltv.org/news/36835/entire-rare-atom-lineup-departs-organization
+2023/08/08 05:38:56 Skipping writing post, no content: https://www.hltv.org/news/36834/niko-i-feel-like-the-most-complete-player-in-my-career-in-this-moment
+2023/08/08 05:38:56 Skipping writing post, no content: https://www.hltv.org/news/36833/niko-named-mvp-of-iem-cologne
+2023/08/08 05:38:56 Skipping writing post, no content: https://www.hltv.org/news/36832/g2-triumph-over-ence-to-take-iem-cologne-trophy
+2023/08/08 05:38:56 Skipping writing post, no content: https://www.hltv.org/news/36831/live-updates-from-iem-cologne-grand-final
+2023/08/08 05:38:56 Skipping writing post, no content: https://www.hltv.org/news/36830/hunter-if-we-can-find-consistency-then-i-think-we-can-be-the-best-in-the-world-again
+2023/08/08 05:38:56 Skipping writing post, no content: https://www.hltv.org/news/36829/g2-overpower-astralis-to-face-ence-in-iem-cologne-grand-final
+2023/08/08 05:38:56 Templated 154 posts, took 24.309893ms
