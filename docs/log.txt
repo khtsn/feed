@@ -1,29 +1,31 @@
-2023/08/14 17:39:06 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 199.254946ms
-2023/08/14 17:39:07 Content still empty after HTML reader: https://www.hltv.org/news/36871/forze-complete-new-roster-with-tn1r
-2023/08/14 17:39:07 Content still empty after HTML reader: https://www.hltv.org/news/36870/roobet-cup-2023-announced
-2023/08/14 17:39:07 Content still empty after HTML reader: https://www.hltv.org/news/36869/gamers8-teams-format-schedule-talent-prizes
-2023/08/14 17:39:07 Content still empty after HTML reader: https://www.hltv.org/news/36867/limitless-revamp-lineup-with-mistem-motm
-2023/08/14 17:39:07 Content still empty after HTML reader: https://www.hltv.org/news/36865/mouz-defeat-big-to-win-20000-prize-in-thunderpick-qualifier
-2023/08/14 17:39:07 Content still empty after HTML reader: https://www.hltv.org/news/36864/gamers8-talent-lineup-announced
-2023/08/14 17:39:07 Content still empty after HTML reader: https://www.hltv.org/news/36863/forsaken-earn-final-iem-sydney-na-closed-qualifier-berth-over-eg
-2023/08/14 17:39:07 Content still empty after HTML reader: https://www.hltv.org/news/36862/1win-knasigt-complete-iem-sydney-europe-closed-qualifier-team-list
-2023/08/14 17:39:07 Content still empty after HTML reader: https://www.hltv.org/news/36861/big-mouz-qualify-for-thunderpick-world-championship
-2023/08/14 17:39:07 Fetched posts from https://www.hltv.org/rss/news, took 505.569507ms
-2023/08/14 17:39:07 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 921.804001ms
-2023/08/14 17:39:08 Fetched posts from https://vlr.gg/rss, took 1.305425707s
-2023/08/14 17:39:09 Fetched posts from https://blogtienao.com/feed, took 2.654516466s
-2023/08/14 17:39:16 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 9.437314078s
-2023/08/14 17:39:22 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.750313104s
-2023/08/14 17:39:46 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/08/14 17:39:46 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.138234216s
-2023/08/14 17:39:51 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 44.531718003s
-2023/08/14 17:39:51 Skipping writing post, no content: https://www.hltv.org/news/36871/forze-complete-new-roster-with-tn1r
-2023/08/14 17:39:51 Skipping writing post, no content: https://www.hltv.org/news/36870/roobet-cup-2023-announced
-2023/08/14 17:39:51 Skipping writing post, no content: https://www.hltv.org/news/36869/gamers8-teams-format-schedule-talent-prizes
-2023/08/14 17:39:51 Skipping writing post, no content: https://www.hltv.org/news/36867/limitless-revamp-lineup-with-mistem-motm
-2023/08/14 17:39:51 Skipping writing post, no content: https://www.hltv.org/news/36865/mouz-defeat-big-to-win-20000-prize-in-thunderpick-qualifier
-2023/08/14 17:39:51 Skipping writing post, no content: https://www.hltv.org/news/36864/gamers8-talent-lineup-announced
-2023/08/14 17:39:51 Skipping writing post, no content: https://www.hltv.org/news/36863/forsaken-earn-final-iem-sydney-na-closed-qualifier-berth-over-eg
-2023/08/14 17:39:51 Skipping writing post, no content: https://www.hltv.org/news/36862/1win-knasigt-complete-iem-sydney-europe-closed-qualifier-team-list
-2023/08/14 17:39:51 Skipping writing post, no content: https://www.hltv.org/news/36861/big-mouz-qualify-for-thunderpick-world-championship
-2023/08/14 17:39:51 Templated 169 posts, took 33.634394ms
+2023/08/14 17:49:27 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 158.199242ms
+2023/08/14 17:49:27 Content still empty after HTML reader: https://www.hltv.org/news/36871/forze-complete-new-roster-with-tn1r
+2023/08/14 17:49:27 Content still empty after HTML reader: https://www.hltv.org/news/36870/roobet-cup-2023-announced
+2023/08/14 17:49:27 Content still empty after HTML reader: https://www.hltv.org/news/36869/gamers8-teams-format-schedule-talent-prizes
+2023/08/14 17:49:27 Content still empty after HTML reader: https://www.hltv.org/news/36867/limitless-revamp-lineup-with-mistem-motm
+2023/08/14 17:49:27 Content still empty after HTML reader: https://www.hltv.org/news/36866/new-forze-squad-win-russian-cybersport-league-finals
+2023/08/14 17:49:27 Content still empty after HTML reader: https://www.hltv.org/news/36865/mouz-defeat-big-to-win-20000-prize-in-thunderpick-qualifier
+2023/08/14 17:49:27 Content still empty after HTML reader: https://www.hltv.org/news/36864/gamers8-talent-lineup-announced
+2023/08/14 17:49:27 Content still empty after HTML reader: https://www.hltv.org/news/36863/forsaken-earn-final-iem-sydney-na-closed-qualifier-berth-over-eg
+2023/08/14 17:49:27 Content still empty after HTML reader: https://www.hltv.org/news/36862/1win-knasigt-complete-iem-sydney-europe-closed-qualifier-team-list
+2023/08/14 17:49:27 Content still empty after HTML reader: https://www.hltv.org/news/36861/big-mouz-qualify-for-thunderpick-world-championship
+2023/08/14 17:49:27 Fetched posts from https://www.hltv.org/rss/news, took 501.724633ms
+2023/08/14 17:49:28 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 833.008895ms
+2023/08/14 17:49:28 Fetched posts from https://vlr.gg/rss, took 1.21761125s
+2023/08/14 17:49:29 Fetched posts from https://blogtienao.com/feed, took 2.436599409s
+2023/08/14 17:49:35 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.790341754s
+2023/08/14 17:49:44 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.353129165s
+2023/08/14 17:50:07 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/08/14 17:50:07 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.146599156s
+2023/08/14 17:50:10 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 43.045050985s
+2023/08/14 17:50:10 Skipping writing post, no content: https://www.hltv.org/news/36871/forze-complete-new-roster-with-tn1r
+2023/08/14 17:50:10 Skipping writing post, no content: https://www.hltv.org/news/36870/roobet-cup-2023-announced
+2023/08/14 17:50:10 Skipping writing post, no content: https://www.hltv.org/news/36869/gamers8-teams-format-schedule-talent-prizes
+2023/08/14 17:50:10 Skipping writing post, no content: https://www.hltv.org/news/36867/limitless-revamp-lineup-with-mistem-motm
+2023/08/14 17:50:10 Skipping writing post, no content: https://www.hltv.org/news/36866/new-forze-squad-win-russian-cybersport-league-finals
+2023/08/14 17:50:10 Skipping writing post, no content: https://www.hltv.org/news/36865/mouz-defeat-big-to-win-20000-prize-in-thunderpick-qualifier
+2023/08/14 17:50:10 Skipping writing post, no content: https://www.hltv.org/news/36864/gamers8-talent-lineup-announced
+2023/08/14 17:50:10 Skipping writing post, no content: https://www.hltv.org/news/36863/forsaken-earn-final-iem-sydney-na-closed-qualifier-berth-over-eg
+2023/08/14 17:50:10 Skipping writing post, no content: https://www.hltv.org/news/36862/1win-knasigt-complete-iem-sydney-europe-closed-qualifier-team-list
+2023/08/14 17:50:10 Skipping writing post, no content: https://www.hltv.org/news/36861/big-mouz-qualify-for-thunderpick-world-championship
+2023/08/14 17:50:10 Templated 169 posts, took 23.793509ms
