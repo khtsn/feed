@@ -1,29 +1,31 @@
-2023/08/15 15:10:38 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 259.43731ms
-2023/08/15 15:10:39 Content still empty after HTML reader: https://www.hltv.org/news/36877/zonic-to-miss-gamers8
-2023/08/15 15:10:39 Content still empty after HTML reader: https://www.hltv.org/news/36876/flusha-retires-from-competitive-counter-strike
-2023/08/15 15:10:39 Content still empty after HTML reader: https://www.hltv.org/news/36875/pgl-announce-second-round-of-ticket-sales-for-cs2-major-copenhagen
-2023/08/15 15:10:39 Content still empty after HTML reader: https://www.hltv.org/news/36874/nouns-part-ways-with-stamina
-2023/08/15 15:10:39 Content still empty after HTML reader: https://www.hltv.org/news/36873/pompa-sign-let-us-cook
-2023/08/15 15:10:39 Content still empty after HTML reader: https://www.hltv.org/news/36872/pain-announce-lux-kauez-signings-cass1n-promoted
-2023/08/15 15:10:39 Content still empty after HTML reader: https://www.hltv.org/news/36871/forze-complete-new-roster-with-tn1r
-2023/08/15 15:10:39 Content still empty after HTML reader: https://www.hltv.org/news/36870/roobet-cup-2023-announced
-2023/08/15 15:10:39 Content still empty after HTML reader: https://www.hltv.org/news/36869/gamers8-teams-format-schedule-talent-prizes
-2023/08/15 15:10:39 Fetched posts from https://www.hltv.org/rss/news, took 514.144642ms
-2023/08/15 15:10:39 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.289462422s
-2023/08/15 15:10:40 Fetched posts from https://vlr.gg/rss, took 2.125522788s
-2023/08/15 15:10:43 Fetched posts from https://blogtienao.com/feed, took 5.24902077s
-2023/08/15 15:10:47 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.411031183s
-2023/08/15 15:10:54 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.426520931s
-2023/08/15 15:11:18 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 39.78621469s
-2023/08/15 15:11:18 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/08/15 15:11:18 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.184040622s
-2023/08/15 15:11:18 Skipping writing post, no content: https://www.hltv.org/news/36877/zonic-to-miss-gamers8
-2023/08/15 15:11:18 Skipping writing post, no content: https://www.hltv.org/news/36876/flusha-retires-from-competitive-counter-strike
-2023/08/15 15:11:18 Skipping writing post, no content: https://www.hltv.org/news/36875/pgl-announce-second-round-of-ticket-sales-for-cs2-major-copenhagen
-2023/08/15 15:11:18 Skipping writing post, no content: https://www.hltv.org/news/36874/nouns-part-ways-with-stamina
-2023/08/15 15:11:18 Skipping writing post, no content: https://www.hltv.org/news/36873/pompa-sign-let-us-cook
-2023/08/15 15:11:18 Skipping writing post, no content: https://www.hltv.org/news/36872/pain-announce-lux-kauez-signings-cass1n-promoted
-2023/08/15 15:11:18 Skipping writing post, no content: https://www.hltv.org/news/36871/forze-complete-new-roster-with-tn1r
-2023/08/15 15:11:18 Skipping writing post, no content: https://www.hltv.org/news/36870/roobet-cup-2023-announced
-2023/08/15 15:11:18 Skipping writing post, no content: https://www.hltv.org/news/36869/gamers8-teams-format-schedule-talent-prizes
-2023/08/15 15:11:18 Templated 165 posts, took 31.731405ms
+2023/08/15 15:22:14 Content still empty after HTML reader: https://www.hltv.org/news/36877/zonic-to-miss-gamers8
+2023/08/15 15:22:14 Content still empty after HTML reader: https://www.hltv.org/news/36876/flusha-retires-from-competitive-counter-strike
+2023/08/15 15:22:14 Content still empty after HTML reader: https://www.hltv.org/news/36875/pgl-announce-second-round-of-ticket-sales-for-cs2-major-copenhagen
+2023/08/15 15:22:14 Content still empty after HTML reader: https://www.hltv.org/news/36874/nouns-part-ways-with-stamina
+2023/08/15 15:22:14 Content still empty after HTML reader: https://www.hltv.org/news/36868/gamers8-preview-no-slow-starters-allowed
+2023/08/15 15:22:14 Content still empty after HTML reader: https://www.hltv.org/news/36873/pompa-sign-let-us-cook
+2023/08/15 15:22:14 Content still empty after HTML reader: https://www.hltv.org/news/36872/pain-announce-lux-kauez-signings-cass1n-promoted
+2023/08/15 15:22:14 Content still empty after HTML reader: https://www.hltv.org/news/36871/forze-complete-new-roster-with-tn1r
+2023/08/15 15:22:14 Content still empty after HTML reader: https://www.hltv.org/news/36870/roobet-cup-2023-announced
+2023/08/15 15:22:14 Content still empty after HTML reader: https://www.hltv.org/news/36869/gamers8-teams-format-schedule-talent-prizes
+2023/08/15 15:22:14 Fetched posts from https://www.hltv.org/rss/news, took 327.405514ms
+2023/08/15 15:22:14 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 421.284834ms
+2023/08/15 15:22:16 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.77466987s
+2023/08/15 15:22:17 Fetched posts from https://vlr.gg/rss, took 2.923867711s
+2023/08/15 15:22:21 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.435044188s
+2023/08/15 15:22:22 Fetched posts from https://blogtienao.com/feed, took 8.172047302s
+2023/08/15 15:22:27 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.065480363s
+2023/08/15 15:22:49 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 35.01185455s
+2023/08/15 15:22:54 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/08/15 15:22:54 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.355659817s
+2023/08/15 15:22:54 Skipping writing post, no content: https://www.hltv.org/news/36877/zonic-to-miss-gamers8
+2023/08/15 15:22:54 Skipping writing post, no content: https://www.hltv.org/news/36876/flusha-retires-from-competitive-counter-strike
+2023/08/15 15:22:54 Skipping writing post, no content: https://www.hltv.org/news/36875/pgl-announce-second-round-of-ticket-sales-for-cs2-major-copenhagen
+2023/08/15 15:22:54 Skipping writing post, no content: https://www.hltv.org/news/36874/nouns-part-ways-with-stamina
+2023/08/15 15:22:54 Skipping writing post, no content: https://www.hltv.org/news/36868/gamers8-preview-no-slow-starters-allowed
+2023/08/15 15:22:54 Skipping writing post, no content: https://www.hltv.org/news/36873/pompa-sign-let-us-cook
+2023/08/15 15:22:54 Skipping writing post, no content: https://www.hltv.org/news/36872/pain-announce-lux-kauez-signings-cass1n-promoted
+2023/08/15 15:22:54 Skipping writing post, no content: https://www.hltv.org/news/36871/forze-complete-new-roster-with-tn1r
+2023/08/15 15:22:54 Skipping writing post, no content: https://www.hltv.org/news/36870/roobet-cup-2023-announced
+2023/08/15 15:22:54 Skipping writing post, no content: https://www.hltv.org/news/36869/gamers8-teams-format-schedule-talent-prizes
+2023/08/15 15:22:54 Templated 163 posts, took 32.757499ms
