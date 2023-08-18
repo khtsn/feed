@@ -1,31 +1,33 @@
-2023/08/18 09:17:44 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 265.799128ms
-2023/08/18 09:17:44 Content still empty after HTML reader: https://www.hltv.org/news/36895/cs2-update-all-released-maps-now-available-in-casual-deathmatch
-2023/08/18 09:17:44 Content still empty after HTML reader: https://www.hltv.org/news/36894/flamez-shines-in-vitalitys-statement-win-over-navi
-2023/08/18 09:17:44 Content still empty after HTML reader: https://www.hltv.org/news/36893/valve-revises-ranking-formula-met-with-further-criticism
-2023/08/18 09:17:44 Content still empty after HTML reader: https://www.hltv.org/news/36892/virtuspro-send-faze-home-from-gamers8
-2023/08/18 09:17:44 Content still empty after HTML reader: https://www.hltv.org/news/36891/g2-eliminate-9ine-from-gamers8
-2023/08/18 09:17:44 Content still empty after HTML reader: https://www.hltv.org/news/36890/live-updates-from-gamers8-day-2
-2023/08/18 09:17:44 Content still empty after HTML reader: https://www.hltv.org/news/36889/navi-fend-off-furia-set-up-quarter-final-fixture-against-vitality
-2023/08/18 09:17:44 Content still empty after HTML reader: https://www.hltv.org/news/36888/ence-send-liquid-packing-from-gamers8
-2023/08/18 09:17:44 Content still empty after HTML reader: https://www.hltv.org/news/36886/vitality-bully-mibr-through-to-gamers8-quarter-finals
-2023/08/18 09:17:44 Content still empty after HTML reader: https://www.hltv.org/news/36887/heroic-eliminate-falcons-from-gamers8
-2023/08/18 09:17:44 Fetched posts from https://www.hltv.org/rss/news, took 446.385977ms
-2023/08/18 09:17:45 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.202446669s
-2023/08/18 09:17:45 Fetched posts from https://vlr.gg/rss, took 1.82591506s
-2023/08/18 09:17:46 Fetched posts from https://blogtienao.com/feed, took 2.752821227s
-2023/08/18 09:17:52 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.063468088s
-2023/08/18 09:17:59 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.254947002s
-2023/08/18 09:18:19 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 35.413618547s
-2023/08/18 09:18:24 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/08/18 09:18:24 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.16580183s
-2023/08/18 09:18:24 Skipping writing post, no content: https://www.hltv.org/news/36895/cs2-update-all-released-maps-now-available-in-casual-deathmatch
-2023/08/18 09:18:24 Skipping writing post, no content: https://www.hltv.org/news/36894/flamez-shines-in-vitalitys-statement-win-over-navi
-2023/08/18 09:18:24 Skipping writing post, no content: https://www.hltv.org/news/36893/valve-revises-ranking-formula-met-with-further-criticism
-2023/08/18 09:18:24 Skipping writing post, no content: https://www.hltv.org/news/36892/virtuspro-send-faze-home-from-gamers8
-2023/08/18 09:18:24 Skipping writing post, no content: https://www.hltv.org/news/36891/g2-eliminate-9ine-from-gamers8
-2023/08/18 09:18:24 Skipping writing post, no content: https://www.hltv.org/news/36890/live-updates-from-gamers8-day-2
-2023/08/18 09:18:24 Skipping writing post, no content: https://www.hltv.org/news/36889/navi-fend-off-furia-set-up-quarter-final-fixture-against-vitality
-2023/08/18 09:18:24 Skipping writing post, no content: https://www.hltv.org/news/36888/ence-send-liquid-packing-from-gamers8
-2023/08/18 09:18:24 Skipping writing post, no content: https://www.hltv.org/news/36886/vitality-bully-mibr-through-to-gamers8-quarter-finals
-2023/08/18 09:18:24 Skipping writing post, no content: https://www.hltv.org/news/36887/heroic-eliminate-falcons-from-gamers8
-2023/08/18 09:18:24 Templated 167 posts, took 24.169895ms
+2023/08/18 09:28:43 Content still empty after HTML reader: https://www.hltv.org/news/36895/cs2-update-all-released-maps-now-available-in-casual-deathmatch
+2023/08/18 09:28:43 Content still empty after HTML reader: https://www.hltv.org/news/36894/flamez-shines-in-vitalitys-statement-win-over-navi
+2023/08/18 09:28:43 Content still empty after HTML reader: https://www.hltv.org/news/36893/valve-revises-ranking-formula-met-with-further-criticism
+2023/08/18 09:28:43 Content still empty after HTML reader: https://www.hltv.org/news/36892/virtuspro-send-faze-home-from-gamers8
+2023/08/18 09:28:43 Content still empty after HTML reader: https://www.hltv.org/news/36891/g2-eliminate-9ine-from-gamers8
+2023/08/18 09:28:43 Content still empty after HTML reader: https://www.hltv.org/news/36890/live-updates-from-gamers8-day-2
+2023/08/18 09:28:43 Content still empty after HTML reader: https://www.hltv.org/news/36889/navi-fend-off-furia-set-up-quarter-final-fixture-against-vitality
+2023/08/18 09:28:43 Content still empty after HTML reader: https://www.hltv.org/news/36888/ence-send-liquid-packing-from-gamers8
+2023/08/18 09:28:43 Content still empty after HTML reader: https://www.hltv.org/news/36886/vitality-bully-mibr-through-to-gamers8-quarter-finals
+2023/08/18 09:28:43 Content still empty after HTML reader: https://www.nytimes.com/2023/08/17/us/maui-pets-dogs-cats.html
+2023/08/18 09:28:43 Content still empty after HTML reader: https://www.hltv.org/news/36887/heroic-eliminate-falcons-from-gamers8
+2023/08/18 09:28:43 Fetched posts from https://www.hltv.org/rss/news, took 324.246656ms
+2023/08/18 09:28:44 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 662.131814ms
+2023/08/18 09:28:44 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 911.615204ms
+2023/08/18 09:28:46 Fetched posts from https://vlr.gg/rss, took 2.489501954s
+2023/08/18 09:28:47 Fetched posts from https://blogtienao.com/feed, took 4.18309928s
+2023/08/18 09:28:50 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.350671894s
+2023/08/18 09:29:00 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.833870454s
+2023/08/18 09:29:17 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 33.517411014s
+2023/08/18 09:29:23 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/08/18 09:29:23 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.14676247s
+2023/08/18 09:29:23 Skipping writing post, no content: https://www.hltv.org/news/36895/cs2-update-all-released-maps-now-available-in-casual-deathmatch
+2023/08/18 09:29:23 Skipping writing post, no content: https://www.hltv.org/news/36894/flamez-shines-in-vitalitys-statement-win-over-navi
+2023/08/18 09:29:23 Skipping writing post, no content: https://www.nytimes.com/2023/08/17/us/maui-pets-dogs-cats.html
+2023/08/18 09:29:23 Skipping writing post, no content: https://www.hltv.org/news/36893/valve-revises-ranking-formula-met-with-further-criticism
+2023/08/18 09:29:23 Skipping writing post, no content: https://www.hltv.org/news/36892/virtuspro-send-faze-home-from-gamers8
+2023/08/18 09:29:23 Skipping writing post, no content: https://www.hltv.org/news/36891/g2-eliminate-9ine-from-gamers8
+2023/08/18 09:29:23 Skipping writing post, no content: https://www.hltv.org/news/36890/live-updates-from-gamers8-day-2
+2023/08/18 09:29:23 Skipping writing post, no content: https://www.hltv.org/news/36889/navi-fend-off-furia-set-up-quarter-final-fixture-against-vitality
+2023/08/18 09:29:23 Skipping writing post, no content: https://www.hltv.org/news/36888/ence-send-liquid-packing-from-gamers8
+2023/08/18 09:29:23 Skipping writing post, no content: https://www.hltv.org/news/36886/vitality-bully-mibr-through-to-gamers8-quarter-finals
+2023/08/18 09:29:23 Skipping writing post, no content: https://www.hltv.org/news/36887/heroic-eliminate-falcons-from-gamers8
+2023/08/18 09:29:23 Templated 166 posts, took 33.028567ms
