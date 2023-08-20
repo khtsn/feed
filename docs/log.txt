@@ -1,29 +1,31 @@
-2023/08/20 09:48:53 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 165.414174ms
-2023/08/20 09:48:53 Content still empty after HTML reader: https://www.hltv.org/news/36905/vitality-edge-past-g2-to-make-gamers8-grand-final
-2023/08/20 09:48:53 Content still empty after HTML reader: https://www.hltv.org/news/36903/ence-defeat-heroic-2-0-to-advance-to-gamers8-grand-final
-2023/08/20 09:48:53 Content still empty after HTML reader: https://www.hltv.org/news/36902/live-updates-from-gamers8-semi-finals
-2023/08/20 09:48:53 Content still empty after HTML reader: https://www.hltv.org/news/36901/g2-outlast-virtuspro-to-set-up-vitality-semi-final
-2023/08/20 09:48:53 Content still empty after HTML reader: https://www.hltv.org/news/36895/cs2-update-mr12-arrives-in-practice-mode-all-released-maps-available-in-casual-deathmatch-updated
-2023/08/20 09:48:53 Content still empty after HTML reader: https://www.hltv.org/news/36899/steel-and-zqks-reunite-on-flamengo
-2023/08/20 09:48:53 Content still empty after HTML reader: https://www.hltv.org/news/36900/cloud9-no-match-to-ence-at-gamers8
-2023/08/20 09:48:53 Content still empty after HTML reader: https://www.hltv.org/news/36898/heroic-breeze-past-gamerlegion-secure-semi-final-spot-at-gamers8
-2023/08/20 09:48:53 Content still empty after HTML reader: https://www.hltv.org/news/36897/eyeballers-sign-heap-on-permanent-basis
-2023/08/20 09:48:53 Fetched posts from https://www.hltv.org/rss/news, took 361.004964ms
-2023/08/20 09:48:53 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 926.835754ms
-2023/08/20 09:48:53 Fetched posts from https://vlr.gg/rss, took 958.286602ms
-2023/08/20 09:48:55 Fetched posts from https://blogtienao.com/feed, took 2.144692213s
-2023/08/20 09:49:02 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 9.254250614s
-2023/08/20 09:49:08 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.513988128s
-2023/08/20 09:49:33 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/08/20 09:49:33 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.261968013s
-2023/08/20 09:49:35 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 42.738876876s
-2023/08/20 09:49:35 Skipping writing post, no content: https://www.hltv.org/news/36905/vitality-edge-past-g2-to-make-gamers8-grand-final
-2023/08/20 09:49:35 Skipping writing post, no content: https://www.hltv.org/news/36903/ence-defeat-heroic-2-0-to-advance-to-gamers8-grand-final
-2023/08/20 09:49:35 Skipping writing post, no content: https://www.hltv.org/news/36902/live-updates-from-gamers8-semi-finals
-2023/08/20 09:49:35 Skipping writing post, no content: https://www.hltv.org/news/36901/g2-outlast-virtuspro-to-set-up-vitality-semi-final
-2023/08/20 09:49:35 Skipping writing post, no content: https://www.hltv.org/news/36895/cs2-update-mr12-arrives-in-practice-mode-all-released-maps-available-in-casual-deathmatch-updated
-2023/08/20 09:49:35 Skipping writing post, no content: https://www.hltv.org/news/36899/steel-and-zqks-reunite-on-flamengo
-2023/08/20 09:49:35 Skipping writing post, no content: https://www.hltv.org/news/36900/cloud9-no-match-to-ence-at-gamers8
-2023/08/20 09:49:35 Skipping writing post, no content: https://www.hltv.org/news/36898/heroic-breeze-past-gamerlegion-secure-semi-final-spot-at-gamers8
-2023/08/20 09:49:35 Skipping writing post, no content: https://www.hltv.org/news/36897/eyeballers-sign-heap-on-permanent-basis
-2023/08/20 09:49:35 Templated 167 posts, took 24.344007ms
+2023/08/20 09:59:27 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 225.323579ms
+2023/08/20 09:59:27 Content still empty after HTML reader: https://www.hltv.org/news/36906/qikert-to-no-longer-play-with-virtuspro
+2023/08/20 09:59:27 Content still empty after HTML reader: https://www.hltv.org/news/36905/vitality-edge-past-g2-to-make-gamers8-grand-final
+2023/08/20 09:59:27 Content still empty after HTML reader: https://www.hltv.org/news/36903/ence-defeat-heroic-2-0-to-advance-to-gamers8-grand-final
+2023/08/20 09:59:27 Content still empty after HTML reader: https://www.hltv.org/news/36902/live-updates-from-gamers8-semi-finals
+2023/08/20 09:59:27 Content still empty after HTML reader: https://www.hltv.org/news/36901/g2-outlast-virtuspro-to-set-up-vitality-semi-final
+2023/08/20 09:59:27 Content still empty after HTML reader: https://www.hltv.org/news/36895/cs2-update-mr12-arrives-in-practice-mode-all-released-maps-available-in-casual-deathmatch-updated
+2023/08/20 09:59:27 Content still empty after HTML reader: https://www.hltv.org/news/36899/steel-and-zqks-reunite-on-flamengo
+2023/08/20 09:59:27 Content still empty after HTML reader: https://www.hltv.org/news/36900/cloud9-no-match-to-ence-at-gamers8
+2023/08/20 09:59:27 Content still empty after HTML reader: https://www.hltv.org/news/36898/heroic-breeze-past-gamerlegion-secure-semi-final-spot-at-gamers8
+2023/08/20 09:59:27 Content still empty after HTML reader: https://www.hltv.org/news/36897/eyeballers-sign-heap-on-permanent-basis
+2023/08/20 09:59:27 Fetched posts from https://www.hltv.org/rss/news, took 408.667781ms
+2023/08/20 09:59:28 Fetched posts from https://vlr.gg/rss, took 1.024122465s
+2023/08/20 09:59:28 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.223904989s
+2023/08/20 09:59:30 Fetched posts from https://blogtienao.com/feed, took 2.533713504s
+2023/08/20 09:59:36 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 9.326308823s
+2023/08/20 09:59:49 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.829120998s
+2023/08/20 10:00:04 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 37.366461166s
+2023/08/20 10:00:07 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/08/20 10:00:07 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.303965335s
+2023/08/20 10:00:07 Skipping writing post, no content: https://www.hltv.org/news/36906/qikert-to-no-longer-play-with-virtuspro
+2023/08/20 10:00:07 Skipping writing post, no content: https://www.hltv.org/news/36905/vitality-edge-past-g2-to-make-gamers8-grand-final
+2023/08/20 10:00:07 Skipping writing post, no content: https://www.hltv.org/news/36903/ence-defeat-heroic-2-0-to-advance-to-gamers8-grand-final
+2023/08/20 10:00:07 Skipping writing post, no content: https://www.hltv.org/news/36902/live-updates-from-gamers8-semi-finals
+2023/08/20 10:00:07 Skipping writing post, no content: https://www.hltv.org/news/36901/g2-outlast-virtuspro-to-set-up-vitality-semi-final
+2023/08/20 10:00:07 Skipping writing post, no content: https://www.hltv.org/news/36895/cs2-update-mr12-arrives-in-practice-mode-all-released-maps-available-in-casual-deathmatch-updated
+2023/08/20 10:00:07 Skipping writing post, no content: https://www.hltv.org/news/36899/steel-and-zqks-reunite-on-flamengo
+2023/08/20 10:00:07 Skipping writing post, no content: https://www.hltv.org/news/36900/cloud9-no-match-to-ence-at-gamers8
+2023/08/20 10:00:07 Skipping writing post, no content: https://www.hltv.org/news/36898/heroic-breeze-past-gamerlegion-secure-semi-final-spot-at-gamers8
+2023/08/20 10:00:07 Skipping writing post, no content: https://www.hltv.org/news/36897/eyeballers-sign-heap-on-permanent-basis
+2023/08/20 10:00:07 Templated 165 posts, took 25.649748ms
