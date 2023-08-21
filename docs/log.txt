@@ -1,31 +1,33 @@
-2023/08/21 19:56:55 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 241.195947ms
-2023/08/21 19:56:55 Content still empty after HTML reader: https://www.hltv.org/news/36912/vitality-return-to-no1-in-the-rankings-following-gamers8-triumph
-2023/08/21 19:56:55 Content still empty after HTML reader: https://www.hltv.org/news/36911/space-complete-underdog-run-to-win-cct-east-europe-series-1
-2023/08/21 19:56:55 Content still empty after HTML reader: https://www.hltv.org/news/36910/zywoo-named-mvp-of-gamers8-2023
-2023/08/21 19:56:55 Content still empty after HTML reader: https://www.hltv.org/news/36909/vitality-outlast-ence-to-claim-gamers8-title
-2023/08/21 19:56:55 Content still empty after HTML reader: https://www.hltv.org/news/36908/n0rb3r7-returns-to-virtuspro-starting-roster
-2023/08/21 19:56:55 Content still empty after HTML reader: https://www.hltv.org/news/36907/live-updates-from-gamers8-final
-2023/08/21 19:56:55 Content still empty after HTML reader: https://www.hltv.org/news/36904/astralis-furia-headline-pinnacle-cup-v-playoffs-as-bracket-is-set
-2023/08/21 19:56:55 Content still empty after HTML reader: https://www.hltv.org/news/36906/qikert-to-no-longer-play-with-virtuspro
-2023/08/21 19:56:55 Content still empty after HTML reader: https://www.hltv.org/news/36905/vitality-edge-past-g2-to-make-gamers8-grand-final
-2023/08/21 19:56:55 Content still empty after HTML reader: https://www.hltv.org/news/36903/ence-defeat-heroic-2-0-to-advance-to-gamers8-grand-final
-2023/08/21 19:56:55 Fetched posts from https://www.hltv.org/rss/news, took 503.686063ms
-2023/08/21 19:56:56 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.061285707s
-2023/08/21 19:56:56 Fetched posts from https://vlr.gg/rss, took 1.488219199s
-2023/08/21 19:56:58 Fetched posts from https://blogtienao.com/feed, took 3.341898735s
-2023/08/21 19:57:03 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.151039094s
-2023/08/21 19:57:15 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.020440303s
-2023/08/21 19:57:30 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 35.257378385s
-2023/08/21 19:57:35 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/08/21 19:57:35 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.297547902s
-2023/08/21 19:57:35 Skipping writing post, no content: https://www.hltv.org/news/36912/vitality-return-to-no1-in-the-rankings-following-gamers8-triumph
-2023/08/21 19:57:35 Skipping writing post, no content: https://www.hltv.org/news/36911/space-complete-underdog-run-to-win-cct-east-europe-series-1
-2023/08/21 19:57:35 Skipping writing post, no content: https://www.hltv.org/news/36910/zywoo-named-mvp-of-gamers8-2023
-2023/08/21 19:57:35 Skipping writing post, no content: https://www.hltv.org/news/36909/vitality-outlast-ence-to-claim-gamers8-title
-2023/08/21 19:57:35 Skipping writing post, no content: https://www.hltv.org/news/36908/n0rb3r7-returns-to-virtuspro-starting-roster
-2023/08/21 19:57:35 Skipping writing post, no content: https://www.hltv.org/news/36907/live-updates-from-gamers8-final
-2023/08/21 19:57:35 Skipping writing post, no content: https://www.hltv.org/news/36904/astralis-furia-headline-pinnacle-cup-v-playoffs-as-bracket-is-set
-2023/08/21 19:57:35 Skipping writing post, no content: https://www.hltv.org/news/36906/qikert-to-no-longer-play-with-virtuspro
-2023/08/21 19:57:35 Skipping writing post, no content: https://www.hltv.org/news/36905/vitality-edge-past-g2-to-make-gamers8-grand-final
-2023/08/21 19:57:35 Skipping writing post, no content: https://www.hltv.org/news/36903/ence-defeat-heroic-2-0-to-advance-to-gamers8-grand-final
-2023/08/21 19:57:35 Templated 164 posts, took 25.276535ms
+2023/08/21 20:15:58 Content still empty after HTML reader: https://www.hltv.org/news/36912/vitality-return-to-no1-in-the-rankings-following-gamers8-triumph
+2023/08/21 20:15:58 Content still empty after HTML reader: https://www.hltv.org/news/36911/space-complete-underdog-run-to-win-cct-east-europe-series-1
+2023/08/21 20:15:58 Content still empty after HTML reader: https://www.hltv.org/news/36910/zywoo-named-mvp-of-gamers8-2023
+2023/08/21 20:15:58 Content still empty after HTML reader: https://www.hltv.org/news/36909/vitality-outlast-ence-to-claim-gamers8-title
+2023/08/21 20:15:58 Content still empty after HTML reader: https://www.nytimes.com/2023/08/20/us/politics/trump-biden-debates.html
+2023/08/21 20:15:58 Content still empty after HTML reader: https://www.hltv.org/news/36908/n0rb3r7-returns-to-virtuspro-starting-roster
+2023/08/21 20:15:58 Content still empty after HTML reader: https://www.hltv.org/news/36907/live-updates-from-gamers8-final
+2023/08/21 20:15:58 Content still empty after HTML reader: https://www.hltv.org/news/36904/astralis-furia-headline-pinnacle-cup-v-playoffs-as-bracket-is-set
+2023/08/21 20:15:58 Content still empty after HTML reader: https://www.hltv.org/news/36906/qikert-to-no-longer-play-with-virtuspro
+2023/08/21 20:15:58 Content still empty after HTML reader: https://www.hltv.org/news/36905/vitality-edge-past-g2-to-make-gamers8-grand-final
+2023/08/21 20:15:58 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 459.283566ms
+2023/08/21 20:15:58 Content still empty after HTML reader: https://www.hltv.org/news/36903/ence-defeat-heroic-2-0-to-advance-to-gamers8-grand-final
+2023/08/21 20:15:58 Fetched posts from https://www.hltv.org/rss/news, took 459.730672ms
+2023/08/21 20:15:59 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 859.598003ms
+2023/08/21 20:15:59 Fetched posts from https://vlr.gg/rss, took 911.174229ms
+2023/08/21 20:16:00 Fetched posts from https://blogtienao.com/feed, took 2.58608881s
+2023/08/21 20:16:07 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 9.186694522s
+2023/08/21 20:16:13 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.823593601s
+2023/08/21 20:16:38 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 40.03068785s
+2023/08/21 20:16:38 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/08/21 20:16:38 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.130759304s
+2023/08/21 20:16:38 Skipping writing post, no content: https://www.hltv.org/news/36912/vitality-return-to-no1-in-the-rankings-following-gamers8-triumph
+2023/08/21 20:16:38 Skipping writing post, no content: https://www.nytimes.com/2023/08/20/us/politics/trump-biden-debates.html
+2023/08/21 20:16:38 Skipping writing post, no content: https://www.hltv.org/news/36911/space-complete-underdog-run-to-win-cct-east-europe-series-1
+2023/08/21 20:16:38 Skipping writing post, no content: https://www.hltv.org/news/36910/zywoo-named-mvp-of-gamers8-2023
+2023/08/21 20:16:38 Skipping writing post, no content: https://www.hltv.org/news/36909/vitality-outlast-ence-to-claim-gamers8-title
+2023/08/21 20:16:38 Skipping writing post, no content: https://www.hltv.org/news/36908/n0rb3r7-returns-to-virtuspro-starting-roster
+2023/08/21 20:16:38 Skipping writing post, no content: https://www.hltv.org/news/36907/live-updates-from-gamers8-final
+2023/08/21 20:16:38 Skipping writing post, no content: https://www.hltv.org/news/36904/astralis-furia-headline-pinnacle-cup-v-playoffs-as-bracket-is-set
+2023/08/21 20:16:38 Skipping writing post, no content: https://www.hltv.org/news/36906/qikert-to-no-longer-play-with-virtuspro
+2023/08/21 20:16:38 Skipping writing post, no content: https://www.hltv.org/news/36905/vitality-edge-past-g2-to-make-gamers8-grand-final
+2023/08/21 20:16:38 Skipping writing post, no content: https://www.hltv.org/news/36903/ence-defeat-heroic-2-0-to-advance-to-gamers8-grand-final
+2023/08/21 20:16:38 Templated 163 posts, took 25.407418ms
