@@ -1,27 +1,31 @@
-2023/08/30 13:33:58 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 203.954434ms
-2023/08/30 13:33:58 Content still empty after HTML reader: https://www.hltv.org/news/36951/esl-pro-league-group-a-highlights
-2023/08/30 13:33:58 Content still empty after HTML reader: https://www.hltv.org/news/36943/indias-love-for-counter-strike-has-begun-to-rekindle-with-their-largest-event-to-date
-2023/08/30 13:33:58 Content still empty after HTML reader: https://www.hltv.org/news/36950/blade-theres-an-obvious-difference-in-level-with-our-opponents-but-theres-also-a-certain-parity
-2023/08/30 13:33:58 Content still empty after HTML reader: https://www.hltv.org/news/36948/epl-group-a-fantasy-game-set-to-start-with-vitality-players-in-gold
-2023/08/30 13:33:58 Content still empty after HTML reader: https://www.hltv.org/news/36949/tsm-returns-to-counter-strike-with-roster-featuring-jackz-valde-cypher
-2023/08/30 13:33:58 Content still empty after HTML reader: https://www.hltv.org/news/36946/fallen-on-adjusting-to-furia-there-is-a-cultural-difference-in-how-to-approach-counter-strike
-2023/08/30 13:33:58 Content still empty after HTML reader: https://www.hltv.org/news/36944/complexity-nouns-qualify-for-thunderpick-world-championship
-2023/08/30 13:33:58 Content still empty after HTML reader: https://www.hltv.org/news/36942/themongolz-qualify-for-blast-premier-fall-showdown
-2023/08/30 13:33:58 Fetched posts from https://www.hltv.org/rss/news, took 484.917999ms
-2023/08/30 13:33:59 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.011714458s
-2023/08/30 13:33:59 Fetched posts from https://vlr.gg/rss, took 1.338438137s
-2023/08/30 13:34:00 Fetched posts from https://blogtienao.com/feed, took 2.318288968s
-2023/08/30 13:34:07 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.702835986s
-2023/08/30 13:34:19 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.026704637s
-2023/08/30 13:34:30 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 32.198445174s
-2023/08/30 13:34:38 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/08/30 13:34:38 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.288427164s
-2023/08/30 13:34:38 Skipping writing post, no content: https://www.hltv.org/news/36951/esl-pro-league-group-a-highlights
-2023/08/30 13:34:38 Skipping writing post, no content: https://www.hltv.org/news/36943/indias-love-for-counter-strike-has-begun-to-rekindle-with-their-largest-event-to-date
-2023/08/30 13:34:38 Skipping writing post, no content: https://www.hltv.org/news/36950/blade-theres-an-obvious-difference-in-level-with-our-opponents-but-theres-also-a-certain-parity
-2023/08/30 13:34:38 Skipping writing post, no content: https://www.hltv.org/news/36948/epl-group-a-fantasy-game-set-to-start-with-vitality-players-in-gold
-2023/08/30 13:34:38 Skipping writing post, no content: https://www.hltv.org/news/36949/tsm-returns-to-counter-strike-with-roster-featuring-jackz-valde-cypher
-2023/08/30 13:34:38 Skipping writing post, no content: https://www.hltv.org/news/36946/fallen-on-adjusting-to-furia-there-is-a-cultural-difference-in-how-to-approach-counter-strike
-2023/08/30 13:34:38 Skipping writing post, no content: https://www.hltv.org/news/36944/complexity-nouns-qualify-for-thunderpick-world-championship
-2023/08/30 13:34:38 Skipping writing post, no content: https://www.hltv.org/news/36942/themongolz-qualify-for-blast-premier-fall-showdown
-2023/08/30 13:34:38 Templated 161 posts, took 23.721184ms
+2023/08/30 13:44:49 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 163.901248ms
+2023/08/30 13:44:49 Content still empty after HTML reader: https://www.hltv.org/news/36951/esl-pro-league-group-a-highlights
+2023/08/30 13:44:49 Content still empty after HTML reader: https://www.hltv.org/news/36943/indias-love-for-counter-strike-has-begun-to-rekindle-with-their-largest-event-to-date
+2023/08/30 13:44:49 Content still empty after HTML reader: https://www.hltv.org/news/36950/blade-theres-an-obvious-difference-in-level-with-our-opponents-but-theres-also-a-certain-parity
+2023/08/30 13:44:49 Content still empty after HTML reader: https://www.hltv.org/news/36947/esl-pro-league-group-a-preview
+2023/08/30 13:44:49 Content still empty after HTML reader: https://www.hltv.org/news/36948/epl-group-a-fantasy-game-set-to-start-with-vitality-players-in-gold
+2023/08/30 13:44:49 Content still empty after HTML reader: https://www.hltv.org/news/36949/tsm-returns-to-counter-strike-with-roster-featuring-jackz-valde-cypher
+2023/08/30 13:44:49 Content still empty after HTML reader: https://www.hltv.org/news/36946/fallen-on-adjusting-to-furia-there-is-a-cultural-difference-in-how-to-approach-counter-strike
+2023/08/30 13:44:49 Content still empty after HTML reader: https://www.hltv.org/news/36945/flamez-i-wouldnt-say-my-role-is-to-have-good-stats-but-it-allows-me-to-perform-well
+2023/08/30 13:44:49 Content still empty after HTML reader: https://www.hltv.org/news/36944/complexity-nouns-qualify-for-thunderpick-world-championship
+2023/08/30 13:44:49 Content still empty after HTML reader: https://www.hltv.org/news/36942/themongolz-qualify-for-blast-premier-fall-showdown
+2023/08/30 13:44:49 Fetched posts from https://www.hltv.org/rss/news, took 255.501737ms
+2023/08/30 13:44:50 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 714.447592ms
+2023/08/30 13:44:50 Fetched posts from https://vlr.gg/rss, took 1.195079505s
+2023/08/30 13:44:51 Fetched posts from https://blogtienao.com/feed, took 2.202215775s
+2023/08/30 13:44:58 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 9.200220685s
+2023/08/30 13:45:07 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.995991748s
+2023/08/30 13:45:27 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 37.91318604s
+2023/08/30 13:45:29 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/08/30 13:45:29 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.144259949s
+2023/08/30 13:45:29 Skipping writing post, no content: https://www.hltv.org/news/36951/esl-pro-league-group-a-highlights
+2023/08/30 13:45:29 Skipping writing post, no content: https://www.hltv.org/news/36943/indias-love-for-counter-strike-has-begun-to-rekindle-with-their-largest-event-to-date
+2023/08/30 13:45:29 Skipping writing post, no content: https://www.hltv.org/news/36950/blade-theres-an-obvious-difference-in-level-with-our-opponents-but-theres-also-a-certain-parity
+2023/08/30 13:45:29 Skipping writing post, no content: https://www.hltv.org/news/36947/esl-pro-league-group-a-preview
+2023/08/30 13:45:29 Skipping writing post, no content: https://www.hltv.org/news/36948/epl-group-a-fantasy-game-set-to-start-with-vitality-players-in-gold
+2023/08/30 13:45:29 Skipping writing post, no content: https://www.hltv.org/news/36949/tsm-returns-to-counter-strike-with-roster-featuring-jackz-valde-cypher
+2023/08/30 13:45:29 Skipping writing post, no content: https://www.hltv.org/news/36946/fallen-on-adjusting-to-furia-there-is-a-cultural-difference-in-how-to-approach-counter-strike
+2023/08/30 13:45:29 Skipping writing post, no content: https://www.hltv.org/news/36945/flamez-i-wouldnt-say-my-role-is-to-have-good-stats-but-it-allows-me-to-perform-well
+2023/08/30 13:45:29 Skipping writing post, no content: https://www.hltv.org/news/36944/complexity-nouns-qualify-for-thunderpick-world-championship
+2023/08/30 13:45:29 Skipping writing post, no content: https://www.hltv.org/news/36942/themongolz-qualify-for-blast-premier-fall-showdown
+2023/08/30 13:45:29 Templated 162 posts, took 23.659154ms
