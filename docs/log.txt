@@ -1,32 +1,31 @@
-2023/08/31 02:22:45 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 194.482674ms
-2023/08/31 02:22:46 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.075827101s
-2023/08/31 02:22:46 Fetched posts from https://vlr.gg/rss, took 1.232953299s
-2023/08/31 02:22:46 Content still empty after HTML reader: https://www.hltv.org/news/36955/nip-overpower-astralis-to-secure-first-win-in-malta
-2023/08/31 02:22:46 Content still empty after HTML reader: https://www.hltv.org/news/36954/vitality-demolish-orks-to-kick-off-epl-s18-campaign
-2023/08/31 02:22:46 Content still empty after HTML reader: https://www.hltv.org/news/36952/movistar-riders-fend-off-kscerato-brilliance-to-best-furia-in-malta
-2023/08/31 02:22:46 Content still empty after HTML reader: https://www.hltv.org/news/36953/gamerlegion-defeat-grayhound-in-esl-pro-league-season-18-opener
-2023/08/31 02:22:46 Content still empty after HTML reader: https://www.hltv.org/news/36951/esl-pro-league-group-a-highlights
-2023/08/31 02:22:46 Content still empty after HTML reader: https://www.hltv.org/news/36943/indias-love-for-counter-strike-has-begun-to-rekindle-with-their-largest-event-to-date
-2023/08/31 02:22:46 Content still empty after HTML reader: https://www.hltv.org/news/36950/blade-theres-an-obvious-difference-in-level-with-our-opponents-but-theres-also-a-certain-parity
-2023/08/31 02:22:46 Content still empty after HTML reader: https://www.hltv.org/news/36947/esl-pro-league-group-a-preview
-2023/08/31 02:22:46 Content still empty after HTML reader: https://www.hltv.org/news/36948/epl-group-a-fantasy-game-set-to-start-with-vitality-players-in-gold
-2023/08/31 02:22:46 Content still empty after HTML reader: https://www.hltv.org/news/36949/tsm-returns-to-counter-strike-with-roster-featuring-jackz-valde-cypher
-2023/08/31 02:22:46 Fetched posts from https://www.hltv.org/rss/news, took 1.484372936s
-2023/08/31 02:22:54 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.821280483s
-2023/08/31 02:23:03 Fetched posts from https://blogtienao.com/feed, took 17.643524251s
-2023/08/31 02:23:09 failed to parse input: read tcp 10.1.0.104:42314->125.212.247.111:443: read: connection reset by peer
-2023/08/31 02:23:15 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 29.672214018s
-2023/08/31 02:23:25 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 39.599028757s
-2023/08/31 02:23:25 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/08/31 02:23:25 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.145941146s
-2023/08/31 02:23:25 Skipping writing post, no content: https://www.hltv.org/news/36955/nip-overpower-astralis-to-secure-first-win-in-malta
-2023/08/31 02:23:25 Skipping writing post, no content: https://www.hltv.org/news/36954/vitality-demolish-orks-to-kick-off-epl-s18-campaign
-2023/08/31 02:23:25 Skipping writing post, no content: https://www.hltv.org/news/36952/movistar-riders-fend-off-kscerato-brilliance-to-best-furia-in-malta
-2023/08/31 02:23:25 Skipping writing post, no content: https://www.hltv.org/news/36953/gamerlegion-defeat-grayhound-in-esl-pro-league-season-18-opener
-2023/08/31 02:23:25 Skipping writing post, no content: https://www.hltv.org/news/36951/esl-pro-league-group-a-highlights
-2023/08/31 02:23:25 Skipping writing post, no content: https://www.hltv.org/news/36943/indias-love-for-counter-strike-has-begun-to-rekindle-with-their-largest-event-to-date
-2023/08/31 02:23:25 Skipping writing post, no content: https://www.hltv.org/news/36950/blade-theres-an-obvious-difference-in-level-with-our-opponents-but-theres-also-a-certain-parity
-2023/08/31 02:23:25 Skipping writing post, no content: https://www.hltv.org/news/36947/esl-pro-league-group-a-preview
-2023/08/31 02:23:25 Skipping writing post, no content: https://www.hltv.org/news/36948/epl-group-a-fantasy-game-set-to-start-with-vitality-players-in-gold
-2023/08/31 02:23:25 Skipping writing post, no content: https://www.hltv.org/news/36949/tsm-returns-to-counter-strike-with-roster-featuring-jackz-valde-cypher
-2023/08/31 02:23:25 Templated 160 posts, took 22.791854ms
+2023/08/31 02:33:52 Content still empty after HTML reader: https://www.hltv.org/news/36955/nip-overpower-astralis-to-secure-first-win-in-malta
+2023/08/31 02:33:52 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 160.682518ms
+2023/08/31 02:33:52 Content still empty after HTML reader: https://www.hltv.org/news/36954/vitality-demolish-orks-to-kick-off-epl-s18-campaign
+2023/08/31 02:33:52 Content still empty after HTML reader: https://www.hltv.org/news/36952/movistar-riders-fend-off-kscerato-brilliance-to-best-furia-in-malta
+2023/08/31 02:33:52 Content still empty after HTML reader: https://www.hltv.org/news/36953/gamerlegion-defeat-grayhound-in-esl-pro-league-season-18-opener
+2023/08/31 02:33:52 Content still empty after HTML reader: https://www.hltv.org/news/36951/esl-pro-league-group-a-highlights
+2023/08/31 02:33:52 Content still empty after HTML reader: https://www.hltv.org/news/36943/indias-love-for-counter-strike-has-begun-to-rekindle-with-their-largest-event-to-date
+2023/08/31 02:33:52 Content still empty after HTML reader: https://www.hltv.org/news/36950/blade-theres-an-obvious-difference-in-level-with-our-opponents-but-theres-also-a-certain-parity
+2023/08/31 02:33:52 Content still empty after HTML reader: https://www.hltv.org/news/36947/esl-pro-league-group-a-preview
+2023/08/31 02:33:52 Content still empty after HTML reader: https://www.hltv.org/news/36948/epl-group-a-fantasy-game-set-to-start-with-vitality-players-in-gold
+2023/08/31 02:33:52 Content still empty after HTML reader: https://www.hltv.org/news/36949/tsm-returns-to-counter-strike-with-roster-featuring-jackz-valde-cypher
+2023/08/31 02:33:52 Fetched posts from https://www.hltv.org/rss/news, took 265.999173ms
+2023/08/31 02:33:53 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 982.820669ms
+2023/08/31 02:33:53 Fetched posts from https://vlr.gg/rss, took 1.045347232s
+2023/08/31 02:33:58 Fetched posts from https://blogtienao.com/feed, took 6.700665189s
+2023/08/31 02:34:00 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.593980819s
+2023/08/31 02:34:14 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.292958564s
+2023/08/31 02:34:21 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 29.523454167s
+2023/08/31 02:34:32 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/08/31 02:34:32 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.251306718s
+2023/08/31 02:34:32 Skipping writing post, no content: https://www.hltv.org/news/36955/nip-overpower-astralis-to-secure-first-win-in-malta
+2023/08/31 02:34:32 Skipping writing post, no content: https://www.hltv.org/news/36954/vitality-demolish-orks-to-kick-off-epl-s18-campaign
+2023/08/31 02:34:32 Skipping writing post, no content: https://www.hltv.org/news/36952/movistar-riders-fend-off-kscerato-brilliance-to-best-furia-in-malta
+2023/08/31 02:34:32 Skipping writing post, no content: https://www.hltv.org/news/36953/gamerlegion-defeat-grayhound-in-esl-pro-league-season-18-opener
+2023/08/31 02:34:32 Skipping writing post, no content: https://www.hltv.org/news/36951/esl-pro-league-group-a-highlights
+2023/08/31 02:34:32 Skipping writing post, no content: https://www.hltv.org/news/36943/indias-love-for-counter-strike-has-begun-to-rekindle-with-their-largest-event-to-date
+2023/08/31 02:34:32 Skipping writing post, no content: https://www.hltv.org/news/36950/blade-theres-an-obvious-difference-in-level-with-our-opponents-but-theres-also-a-certain-parity
+2023/08/31 02:34:32 Skipping writing post, no content: https://www.hltv.org/news/36947/esl-pro-league-group-a-preview
+2023/08/31 02:34:32 Skipping writing post, no content: https://www.hltv.org/news/36948/epl-group-a-fantasy-game-set-to-start-with-vitality-players-in-gold
+2023/08/31 02:34:32 Skipping writing post, no content: https://www.hltv.org/news/36949/tsm-returns-to-counter-strike-with-roster-featuring-jackz-valde-cypher
+2023/08/31 02:34:32 Templated 158 posts, took 25.242946ms
