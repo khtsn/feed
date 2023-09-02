@@ -1,34 +1,32 @@
-2023/09/02 02:36:53 error parsing https://blogtienao.com/feed: http error: 500 Internal Server Error
-2023/09/02 02:36:53 Fetched posts from https://blogtienao.com/feed, took 298.819018ms
-2023/09/02 02:36:53 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 338.893694ms
-2023/09/02 02:36:53 Content still empty after HTML reader: https://www.hltv.org/news/36965/furia-send-nip-to-last-chance-stage-in-malta
-2023/09/02 02:36:53 Content still empty after HTML reader: https://www.hltv.org/news/36964/astralis-ease-past-gamerlegion-to-reach-epl-group-a-lower-bracket-final
-2023/09/02 02:36:53 Content still empty after HTML reader: https://www.hltv.org/news/36962/valve-confirm-move-to-mr12-for-majors-introduce-cs-rating-release-inferno
-2023/09/02 02:36:53 Content still empty after HTML reader: https://www.hltv.org/news/36961/astralis-relegate-orks-to-last-chance-stage-at-epl
-2023/09/02 02:36:53 Content still empty after HTML reader: https://www.hltv.org/news/36951/esl-pro-league-group-a-highlights
-2023/09/02 02:36:53 Content still empty after HTML reader: https://www.hltv.org/news/36960/vitality-cruise-to-epl-playoffs-with-victory-over-ninjas-in-pyjamas
-2023/09/02 02:36:53 Content still empty after HTML reader: https://www.hltv.org/news/36959/thomas-steps-down-from-into-the-breach
-2023/09/02 02:36:53 Content still empty after HTML reader: https://www.hltv.org/news/36958/movistar-riders-dispatch-gamerlegion-to-qualify-for-epl-playoffs
-2023/09/02 02:36:53 Content still empty after HTML reader: https://www.hltv.org/news/36957/sprout-part-ways-with-alpha-raalz-to-take-over-in-game-leadership
-2023/09/02 02:36:53 Content still empty after HTML reader: https://www.hltv.org/news/36956/furia-ease-past-grayhound-in-epl-group-a-lower-bracket
-2023/09/02 02:36:53 Fetched posts from https://www.hltv.org/rss/news, took 474.06699ms
-2023/09/02 02:36:53 Content still empty after HTML reader: https://www.vlr.gg/269709/ninjas-in-pyjamas-announce-chinese-lineup
-2023/09/02 02:36:53 Fetched posts from https://vlr.gg/rss, took 1.07300293s
-2023/09/02 02:36:53 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.110980397s
-2023/09/02 02:37:01 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 9.104505434s
-2023/09/02 02:37:08 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.892118828s
-2023/09/02 02:37:31 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 39.048356743s
-2023/09/02 02:37:32 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/09/02 02:37:32 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.153610512s
-2023/09/02 02:37:32 Skipping writing post, no content: https://www.hltv.org/news/36965/furia-send-nip-to-last-chance-stage-in-malta
-2023/09/02 02:37:32 Skipping writing post, no content: https://www.hltv.org/news/36964/astralis-ease-past-gamerlegion-to-reach-epl-group-a-lower-bracket-final
-2023/09/02 02:37:32 Skipping writing post, no content: https://www.hltv.org/news/36962/valve-confirm-move-to-mr12-for-majors-introduce-cs-rating-release-inferno
-2023/09/02 02:37:32 Skipping writing post, no content: https://www.hltv.org/news/36961/astralis-relegate-orks-to-last-chance-stage-at-epl
-2023/09/02 02:37:32 Skipping writing post, no content: https://www.hltv.org/news/36951/esl-pro-league-group-a-highlights
-2023/09/02 02:37:32 Skipping writing post, no content: https://www.hltv.org/news/36960/vitality-cruise-to-epl-playoffs-with-victory-over-ninjas-in-pyjamas
-2023/09/02 02:37:32 Skipping writing post, no content: https://www.hltv.org/news/36959/thomas-steps-down-from-into-the-breach
-2023/09/02 02:37:32 Skipping writing post, no content: https://www.hltv.org/news/36958/movistar-riders-dispatch-gamerlegion-to-qualify-for-epl-playoffs
-2023/09/02 02:37:32 Skipping writing post, no content: https://www.hltv.org/news/36957/sprout-part-ways-with-alpha-raalz-to-take-over-in-game-leadership
-2023/09/02 02:37:32 Skipping writing post, no content: https://www.hltv.org/news/36956/furia-ease-past-grayhound-in-epl-group-a-lower-bracket
-2023/09/02 02:37:32 Skipping writing post, no content: https://www.vlr.gg/269709/ninjas-in-pyjamas-announce-chinese-lineup
-2023/09/02 02:37:32 Templated 160 posts, took 21.596291ms
+2023/09/02 02:47:49 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 288.19469ms
+2023/09/02 02:47:49 Content still empty after HTML reader: https://www.hltv.org/news/36965/furia-send-nip-to-last-chance-stage-in-malta
+2023/09/02 02:47:49 Content still empty after HTML reader: https://www.hltv.org/news/36964/astralis-ease-past-gamerlegion-to-reach-epl-group-a-lower-bracket-final
+2023/09/02 02:47:49 Content still empty after HTML reader: https://www.hltv.org/news/36962/valve-confirm-move-to-mr12-for-majors-introduce-cs-rating-release-inferno
+2023/09/02 02:47:49 Content still empty after HTML reader: https://www.hltv.org/news/36961/astralis-relegate-orks-to-last-chance-stage-at-epl
+2023/09/02 02:47:49 error parsing https://blogtienao.com/feed: http error: 500 Internal Server Error
+2023/09/02 02:47:49 Fetched posts from https://blogtienao.com/feed, took 391.773232ms
+2023/09/02 02:47:49 Content still empty after HTML reader: https://www.hltv.org/news/36951/esl-pro-league-group-a-highlights
+2023/09/02 02:47:49 Content still empty after HTML reader: https://www.hltv.org/news/36960/vitality-cruise-to-epl-playoffs-with-victory-over-ninjas-in-pyjamas
+2023/09/02 02:47:49 Content still empty after HTML reader: https://www.hltv.org/news/36959/thomas-steps-down-from-into-the-breach
+2023/09/02 02:47:49 Content still empty after HTML reader: https://www.hltv.org/news/36958/movistar-riders-dispatch-gamerlegion-to-qualify-for-epl-playoffs
+2023/09/02 02:47:49 Content still empty after HTML reader: https://www.hltv.org/news/36957/sprout-part-ways-with-alpha-raalz-to-take-over-in-game-leadership
+2023/09/02 02:47:49 Content still empty after HTML reader: https://www.hltv.org/news/36956/furia-ease-past-grayhound-in-epl-group-a-lower-bracket
+2023/09/02 02:47:49 Fetched posts from https://www.hltv.org/rss/news, took 492.882628ms
+2023/09/02 02:47:50 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.607865945s
+2023/09/02 02:47:50 Fetched posts from https://vlr.gg/rss, took 1.816005189s
+2023/09/02 02:47:56 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.966430799s
+2023/09/02 02:48:04 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.099772149s
+2023/09/02 02:48:23 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 34.852720102s
+2023/09/02 02:48:29 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/09/02 02:48:29 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.283874056s
+2023/09/02 02:48:29 Skipping writing post, no content: https://www.hltv.org/news/36965/furia-send-nip-to-last-chance-stage-in-malta
+2023/09/02 02:48:29 Skipping writing post, no content: https://www.hltv.org/news/36964/astralis-ease-past-gamerlegion-to-reach-epl-group-a-lower-bracket-final
+2023/09/02 02:48:29 Skipping writing post, no content: https://www.hltv.org/news/36962/valve-confirm-move-to-mr12-for-majors-introduce-cs-rating-release-inferno
+2023/09/02 02:48:29 Skipping writing post, no content: https://www.hltv.org/news/36961/astralis-relegate-orks-to-last-chance-stage-at-epl
+2023/09/02 02:48:29 Skipping writing post, no content: https://www.hltv.org/news/36951/esl-pro-league-group-a-highlights
+2023/09/02 02:48:29 Skipping writing post, no content: https://www.hltv.org/news/36960/vitality-cruise-to-epl-playoffs-with-victory-over-ninjas-in-pyjamas
+2023/09/02 02:48:29 Skipping writing post, no content: https://www.hltv.org/news/36959/thomas-steps-down-from-into-the-breach
+2023/09/02 02:48:29 Skipping writing post, no content: https://www.hltv.org/news/36958/movistar-riders-dispatch-gamerlegion-to-qualify-for-epl-playoffs
+2023/09/02 02:48:29 Skipping writing post, no content: https://www.hltv.org/news/36957/sprout-part-ways-with-alpha-raalz-to-take-over-in-game-leadership
+2023/09/02 02:48:29 Skipping writing post, no content: https://www.hltv.org/news/36956/furia-ease-past-grayhound-in-epl-group-a-lower-bracket
+2023/09/02 02:48:29 Templated 160 posts, took 30.240781ms
