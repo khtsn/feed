@@ -1,29 +1,31 @@
-2023/09/04 20:07:44 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 165.616409ms
-2023/09/04 20:07:44 Content still empty after HTML reader: https://www.hltv.org/news/36982/team-ranking-august-2023
-2023/09/04 20:07:44 Content still empty after HTML reader: https://www.hltv.org/news/36980/tsm-debut-with-win-over-former-00nation-squad
-2023/09/04 20:07:44 Content still empty after HTML reader: https://www.hltv.org/news/36981/themongolz-part-ways-with-hasteka
-2023/09/04 20:07:44 Content still empty after HTML reader: https://www.hltv.org/news/36978/astralis-complete-csgo-asia-championships-list
-2023/09/04 20:07:44 Content still empty after HTML reader: https://www.hltv.org/news/36963/community-reacts-to-mr12-introduction-to-counter-strike-2
-2023/09/04 20:07:44 Content still empty after HTML reader: https://www.hltv.org/news/36976/sweden-triumph-at-iesf-world-championship-over-germany
-2023/09/04 20:07:44 Content still empty after HTML reader: https://www.hltv.org/news/36977/furia-clinch-final-epl-playoff-spot-from-group-a
-2023/09/04 20:07:44 Content still empty after HTML reader: https://www.hltv.org/news/36951/esl-pro-league-group-a-highlights
-2023/09/04 20:07:44 Content still empty after HTML reader: https://www.hltv.org/news/36970/into-the-breach-confirm-misutaaa-addition
-2023/09/04 20:07:44 Fetched posts from https://www.hltv.org/rss/news, took 527.253175ms
-2023/09/04 20:07:45 Fetched posts from https://vlr.gg/rss, took 973.026077ms
-2023/09/04 20:07:45 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 974.504079ms
-2023/09/04 20:07:46 Fetched posts from https://blogtienao.com/feed, took 2.29611006s
-2023/09/04 20:07:53 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 9.046167878s
-2023/09/04 20:08:01 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.609276918s
-2023/09/04 20:08:24 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
-2023/09/04 20:08:24 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.270999613s
-2023/09/04 20:08:24 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 40.418302972s
-2023/09/04 20:08:24 Skipping writing post, no content: https://www.hltv.org/news/36982/team-ranking-august-2023
-2023/09/04 20:08:24 Skipping writing post, no content: https://www.hltv.org/news/36980/tsm-debut-with-win-over-former-00nation-squad
-2023/09/04 20:08:24 Skipping writing post, no content: https://www.hltv.org/news/36981/themongolz-part-ways-with-hasteka
-2023/09/04 20:08:24 Skipping writing post, no content: https://www.hltv.org/news/36978/astralis-complete-csgo-asia-championships-list
-2023/09/04 20:08:24 Skipping writing post, no content: https://www.hltv.org/news/36963/community-reacts-to-mr12-introduction-to-counter-strike-2
-2023/09/04 20:08:24 Skipping writing post, no content: https://www.hltv.org/news/36976/sweden-triumph-at-iesf-world-championship-over-germany
-2023/09/04 20:08:24 Skipping writing post, no content: https://www.hltv.org/news/36977/furia-clinch-final-epl-playoff-spot-from-group-a
-2023/09/04 20:08:24 Skipping writing post, no content: https://www.hltv.org/news/36951/esl-pro-league-group-a-highlights
-2023/09/04 20:08:24 Skipping writing post, no content: https://www.hltv.org/news/36970/into-the-breach-confirm-misutaaa-addition
-2023/09/04 20:08:24 Templated 162 posts, took 23.238977ms
+2023/09/04 20:21:27 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 162.014643ms
+2023/09/04 20:21:27 Content still empty after HTML reader: https://www.hltv.org/news/36982/team-ranking-august-2023
+2023/09/04 20:21:27 Content still empty after HTML reader: https://www.hltv.org/news/36980/tsm-debut-with-win-over-former-00nation-squad
+2023/09/04 20:21:27 Content still empty after HTML reader: https://www.hltv.org/news/36981/themongolz-part-ways-with-hasteka
+2023/09/04 20:21:27 Content still empty after HTML reader: https://www.hltv.org/news/36973/hltv-confirmed-with-jerry-future-after-six-years-with-forze-thoughts-on-cs2-and-epl
+2023/09/04 20:21:27 Content still empty after HTML reader: https://www.hltv.org/news/36978/astralis-complete-csgo-asia-championships-list
+2023/09/04 20:21:27 Content still empty after HTML reader: https://www.hltv.org/news/36963/community-reacts-to-mr12-introduction-to-counter-strike-2
+2023/09/04 20:21:27 Content still empty after HTML reader: https://www.hltv.org/news/36976/sweden-triumph-at-iesf-world-championship-over-germany
+2023/09/04 20:21:27 Content still empty after HTML reader: https://www.hltv.org/news/36977/furia-clinch-final-epl-playoff-spot-from-group-a
+2023/09/04 20:21:27 Content still empty after HTML reader: https://www.hltv.org/news/36951/esl-pro-league-group-a-highlights
+2023/09/04 20:21:27 Content still empty after HTML reader: https://www.hltv.org/news/36970/into-the-breach-confirm-misutaaa-addition
+2023/09/04 20:21:27 Fetched posts from https://www.hltv.org/rss/news, took 400.787027ms
+2023/09/04 20:21:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 744.772087ms
+2023/09/04 20:21:27 Fetched posts from https://vlr.gg/rss, took 890.651727ms
+2023/09/04 20:21:29 Fetched posts from https://blogtienao.com/feed, took 2.260172147s
+2023/09/04 20:21:36 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 9.123725903s
+2023/09/04 20:21:47 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.07279977s
+2023/09/04 20:22:05 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 38.311441477s
+2023/09/04 20:22:07 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 504 Gateway Timeout
+2023/09/04 20:22:07 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 40.137005838s
+2023/09/04 20:22:07 Skipping writing post, no content: https://www.hltv.org/news/36982/team-ranking-august-2023
+2023/09/04 20:22:07 Skipping writing post, no content: https://www.hltv.org/news/36980/tsm-debut-with-win-over-former-00nation-squad
+2023/09/04 20:22:07 Skipping writing post, no content: https://www.hltv.org/news/36981/themongolz-part-ways-with-hasteka
+2023/09/04 20:22:07 Skipping writing post, no content: https://www.hltv.org/news/36973/hltv-confirmed-with-jerry-future-after-six-years-with-forze-thoughts-on-cs2-and-epl
+2023/09/04 20:22:07 Skipping writing post, no content: https://www.hltv.org/news/36978/astralis-complete-csgo-asia-championships-list
+2023/09/04 20:22:07 Skipping writing post, no content: https://www.hltv.org/news/36963/community-reacts-to-mr12-introduction-to-counter-strike-2
+2023/09/04 20:22:07 Skipping writing post, no content: https://www.hltv.org/news/36976/sweden-triumph-at-iesf-world-championship-over-germany
+2023/09/04 20:22:07 Skipping writing post, no content: https://www.hltv.org/news/36977/furia-clinch-final-epl-playoff-spot-from-group-a
+2023/09/04 20:22:07 Skipping writing post, no content: https://www.hltv.org/news/36951/esl-pro-league-group-a-highlights
+2023/09/04 20:22:07 Skipping writing post, no content: https://www.hltv.org/news/36970/into-the-breach-confirm-misutaaa-addition
+2023/09/04 20:22:07 Templated 162 posts, took 25.720205ms
