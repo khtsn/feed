@@ -1,52 +1,30 @@
-2023/09/05 21:18:39 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 204.330094ms
-2023/09/05 21:18:39 Content still empty after HTML reader: https://www.hltv.org/news/36992/nertz-i-believe-that-we-can-be-better-than-vitality-in-the-close-future
-2023/09/05 21:18:39 Content still empty after HTML reader: https://www.hltv.org/news/36991/torzsi-i-wouldnt-say-that-the-performance-i-had-last-year-was-only-on-dexter
-2023/09/05 21:18:39 Content still empty after HTML reader: https://www.hltv.org/news/36990/esl-pro-league-group-b-preview
-2023/09/05 21:18:39 Content still empty after HTML reader: https://www.hltv.org/news/36986/cadian-were-not-all-playing-to-our-philosophies-and-principles
-2023/09/05 21:18:39 Content still empty after HTML reader: https://www.hltv.org/news/36988/woro2k-im-never-tired-of-playing-officials-i-could-play-three-matches-a-day
-2023/09/05 21:18:39 Content still empty after HTML reader: https://www.hltv.org/news/36989/astralis-nip-headline-roobet-cup-2023-invite-list
-2023/09/05 21:18:39 Content still empty after HTML reader: https://www.hltv.org/news/36985/krimbo-for-me-it-wasnt-a-problem-to-speak-english
-2023/09/05 21:18:39 Content still empty after HTML reader: https://www.hltv.org/news/36987/ence-furia-imperial-secure-blast-fall-showdown-invites
-2023/09/05 21:18:39 Content still empty after HTML reader: https://www.hltv.org/news/36984/cs2-news-highlights-tips-and-tricks
-2023/09/05 21:18:39 Content still empty after HTML reader: https://www.hltv.org/news/36983/jerry-you-will-find-out-about-my-new-roster-on-september-15
-2023/09/05 21:18:39 Fetched posts from https://www.hltv.org/rss/news, took 841.840095ms
-2023/09/05 21:18:40 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 958.964133ms
-2023/09/05 21:18:40 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.125250407s
-2023/09/05 21:18:40 Fetched posts from https://vlr.gg/rss, took 1.417580052s
-2023/09/05 21:18:41 Fetched posts from https://blogtienao.com/feed, took 2.691097266s
-2023/09/05 21:18:46 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.805844955s
-2023/09/05 21:19:02 failed to parse input: read tcp 10.1.0.246:55760->125.212.247.111:443: read: connection reset by peer
-2023/09/05 21:19:10 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 31.825789958s
-2023/09/05 21:28:39 failed to parse input: context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/dt-duc-dung-truoc-nguong-cua-thay-tuong-thua-nhat-phap-la-hansi-flick-mat-chuc-c48a1498904.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/tin-moi-nhat-bong-da-sang-6-9-phil-jones-bat-ngo-tro-lai-mu-c48a1498906.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/13-cau-thu-palestine-o-nuoc-ngoai-se-ve-thi-dau-voi-tuyen-viet-nam-c48a1498888.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/quang-hai-o-tuyen-viet-nam-c48a1498879.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/bao-trung-quoc-nhieu-ngoi-sao-tre-khong-muon-len-tuyen-du-asiad-c48a1498880.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/lich-thi-dau-bong-da-vong-loai-u23-chau-a-2024-lich-thi-dau-u23-viet-nam-c48a1470239.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/lich-thi-dau-bong-da-hom-nay-moi-nhat-c48a364371.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/lich-truc-tiep-bong-da-hom-nay-va-link-xem-truc-tiep-moi-nhat-c48a1127188.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/hlv-troussier-dat-muc-tieu-du-olympic-2024-u23-viet-nam-co-ap-luc-c48a1498841.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/may-quet-amrabat-chan-thuong-co-kip-ra-mat-mu-2-tuan-nua-c48a1498842.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/lich-thi-dau-cup-c1-mu-khon-cang-them-kho-man-city-huong-loi-c48a1498734.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/mu-kho-xu-vi-sancho-antony-dai-gia-a-rap-don-them-sao-chau-au-truoc-gio-g-clip-1-phut-bong-da-24h-c48a1498838.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/tan-binh-choi-sang-nhat-chau-au-bellingham-100-trieu-euro-an-dut-sao-ngoai-hang-anh-c48a1498760.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/dt-anh-gay-soc-moi-guardiola-thay-southgate-dac-cach-van-nam-quyen-o-man-city-c48a1498627.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/man-city-lo-am-muu-cuom-3-sao-tre-cua-barca-chu-tich-laporta-noi-gian-c48a1498603.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/danh-sach-u23-viet-nam-dau-giai-u23-chau-a-hlv-troussier-loai-4-nha-vo-dich-dong-nam-a-c48a1498640.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/be-boi-bong-da-tbn-chu-tich-rubiales-khong-tu-chuc-hlv-truong-bi-sa-thai-c48a1498601.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/truc-tiep-hop-bao-vong-loai-u23-chau-a-hlv-troussier-noi-gi-truoc-giai-dau-quan-trong-c48a1498590.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/dai-gia-a-rap-van-chua-tu-bo-salah-don-suc-no-bom-tan-200-trieu-bang-c48a1498579.html": context deadline exceeded
-2023/09/05 21:28:39 Get "https://www.24h.com.vn/bong-da/greenwood-tuoi-cuoi-ra-mat-doi-bong-moi-co-the-tro-lai-mu-ngay-thang-1-2024-c48a1498580.html": context deadline exceeded
-2023/09/05 21:28:39 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 10m0.000939832s
-2023/09/05 21:28:39 Skipping writing post, no content: https://www.hltv.org/news/36992/nertz-i-believe-that-we-can-be-better-than-vitality-in-the-close-future
-2023/09/05 21:28:39 Skipping writing post, no content: https://www.hltv.org/news/36991/torzsi-i-wouldnt-say-that-the-performance-i-had-last-year-was-only-on-dexter
-2023/09/05 21:28:39 Skipping writing post, no content: https://www.hltv.org/news/36990/esl-pro-league-group-b-preview
-2023/09/05 21:28:39 Skipping writing post, no content: https://www.hltv.org/news/36986/cadian-were-not-all-playing-to-our-philosophies-and-principles
-2023/09/05 21:28:39 Skipping writing post, no content: https://www.hltv.org/news/36988/woro2k-im-never-tired-of-playing-officials-i-could-play-three-matches-a-day
-2023/09/05 21:28:39 Skipping writing post, no content: https://www.hltv.org/news/36989/astralis-nip-headline-roobet-cup-2023-invite-list
-2023/09/05 21:28:39 Skipping writing post, no content: https://www.hltv.org/news/36985/krimbo-for-me-it-wasnt-a-problem-to-speak-english
-2023/09/05 21:28:39 Skipping writing post, no content: https://www.hltv.org/news/36987/ence-furia-imperial-secure-blast-fall-showdown-invites
-2023/09/05 21:28:39 Skipping writing post, no content: https://www.hltv.org/news/36984/cs2-news-highlights-tips-and-tricks
-2023/09/05 21:28:39 Skipping writing post, no content: https://www.hltv.org/news/36983/jerry-you-will-find-out-about-my-new-roster-on-september-15
-2023/09/05 21:28:39 Templated 141 posts, took 20.101042ms
+2023/09/05 21:29:26 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 235.838844ms
+2023/09/05 21:29:26 Content still empty after HTML reader: https://www.hltv.org/news/36992/nertz-i-believe-that-we-can-be-better-than-vitality-in-the-close-future
+2023/09/05 21:29:26 Content still empty after HTML reader: https://www.hltv.org/news/36991/torzsi-i-wouldnt-say-that-the-performance-i-had-last-year-was-only-on-dexter
+2023/09/05 21:29:26 Content still empty after HTML reader: https://www.hltv.org/news/36990/esl-pro-league-group-b-preview
+2023/09/05 21:29:26 Content still empty after HTML reader: https://www.hltv.org/news/36986/cadian-were-not-all-playing-to-our-philosophies-and-principles
+2023/09/05 21:29:26 Content still empty after HTML reader: https://www.hltv.org/news/36988/woro2k-im-never-tired-of-playing-officials-i-could-play-three-matches-a-day
+2023/09/05 21:29:26 Content still empty after HTML reader: https://www.hltv.org/news/36989/astralis-nip-headline-roobet-cup-2023-invite-list
+2023/09/05 21:29:26 Content still empty after HTML reader: https://www.hltv.org/news/36985/krimbo-for-me-it-wasnt-a-problem-to-speak-english
+2023/09/05 21:29:26 Content still empty after HTML reader: https://www.hltv.org/news/36987/ence-furia-imperial-secure-blast-fall-showdown-invites
+2023/09/05 21:29:26 Content still empty after HTML reader: https://www.hltv.org/news/36984/cs2-news-highlights-tips-and-tricks
+2023/09/05 21:29:26 Content still empty after HTML reader: https://www.hltv.org/news/36983/jerry-you-will-find-out-about-my-new-roster-on-september-15
+2023/09/05 21:29:26 Fetched posts from https://www.hltv.org/rss/news, took 500.472107ms
+2023/09/05 21:29:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.085948099s
+2023/09/05 21:29:27 Fetched posts from https://vlr.gg/rss, took 1.464485272s
+2023/09/05 21:29:28 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 2.242325214s
+2023/09/05 21:29:29 Fetched posts from https://blogtienao.com/feed, took 3.077046958s
+2023/09/05 21:29:34 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.075917575s
+2023/09/05 21:29:41 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.480259074s
+2023/09/05 21:29:58 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 32.095285839s
+2023/09/05 21:29:58 Skipping writing post, no content: https://www.hltv.org/news/36992/nertz-i-believe-that-we-can-be-better-than-vitality-in-the-close-future
+2023/09/05 21:29:58 Skipping writing post, no content: https://www.hltv.org/news/36991/torzsi-i-wouldnt-say-that-the-performance-i-had-last-year-was-only-on-dexter
+2023/09/05 21:29:58 Skipping writing post, no content: https://www.hltv.org/news/36990/esl-pro-league-group-b-preview
+2023/09/05 21:29:58 Skipping writing post, no content: https://www.hltv.org/news/36986/cadian-were-not-all-playing-to-our-philosophies-and-principles
+2023/09/05 21:29:58 Skipping writing post, no content: https://www.hltv.org/news/36988/woro2k-im-never-tired-of-playing-officials-i-could-play-three-matches-a-day
+2023/09/05 21:29:58 Skipping writing post, no content: https://www.hltv.org/news/36989/astralis-nip-headline-roobet-cup-2023-invite-list
+2023/09/05 21:29:58 Skipping writing post, no content: https://www.hltv.org/news/36985/krimbo-for-me-it-wasnt-a-problem-to-speak-english
+2023/09/05 21:29:58 Skipping writing post, no content: https://www.hltv.org/news/36987/ence-furia-imperial-secure-blast-fall-showdown-invites
+2023/09/05 21:29:58 Skipping writing post, no content: https://www.hltv.org/news/36984/cs2-news-highlights-tips-and-tricks
+2023/09/05 21:29:58 Skipping writing post, no content: https://www.hltv.org/news/36983/jerry-you-will-find-out-about-my-new-roster-on-september-15
+2023/09/05 21:29:58 Templated 163 posts, took 25.994635ms
