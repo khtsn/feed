@@ -1,30 +1,31 @@
-2023/09/06 17:35:38 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 407.599767ms
-2023/09/06 17:35:39 Content still empty after HTML reader: https://www.hltv.org/news/36996/heroic-trounce-rooster-in-epl-group-b-opener
-2023/09/06 17:35:39 Content still empty after HTML reader: https://www.hltv.org/news/36979/into-the-breach-sign-qikert-as-in-game-leader
-2023/09/06 17:35:39 Content still empty after HTML reader: https://www.hltv.org/news/36994/esl-pro-league-group-b-highlights
-2023/09/06 17:35:39 Content still empty after HTML reader: https://www.hltv.org/news/36984/cs2-news-highlights-tips-and-tricks
-2023/09/06 17:35:39 Content still empty after HTML reader: https://www.hltv.org/news/36993/epl-group-b-fantasy-is-about-to-start
-2023/09/06 17:35:39 Content still empty after HTML reader: https://www.hltv.org/news/36992/nertz-i-believe-that-we-can-be-better-than-vitality-in-the-close-future
-2023/09/06 17:35:39 Content still empty after HTML reader: https://www.hltv.org/news/36991/torzsi-i-wouldnt-say-that-the-performance-i-had-last-year-was-only-on-dexter
-2023/09/06 17:35:39 Content still empty after HTML reader: https://www.hltv.org/news/36990/esl-pro-league-group-b-preview
-2023/09/06 17:35:39 Content still empty after HTML reader: https://www.hltv.org/news/36986/cadian-were-not-all-playing-to-our-philosophies-and-principles
-2023/09/06 17:35:39 Content still empty after HTML reader: https://www.hltv.org/news/36988/woro2k-im-never-tired-of-playing-officials-i-could-play-three-matches-a-day
-2023/09/06 17:35:39 Fetched posts from https://www.hltv.org/rss/news, took 958.108548ms
-2023/09/06 17:35:39 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 1.035602027s
-2023/09/06 17:35:39 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.50586162s
-2023/09/06 17:35:40 Fetched posts from https://vlr.gg/rss, took 2.242261571s
-2023/09/06 17:35:44 Fetched posts from https://blogtienao.com/feed, took 5.784326894s
-2023/09/06 17:35:45 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.39327062s
-2023/09/06 17:35:57 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.143206806s
-2023/09/06 17:36:11 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 33.608106705s
-2023/09/06 17:36:11 Skipping writing post, no content: https://www.hltv.org/news/36996/heroic-trounce-rooster-in-epl-group-b-opener
-2023/09/06 17:36:11 Skipping writing post, no content: https://www.hltv.org/news/36979/into-the-breach-sign-qikert-as-in-game-leader
-2023/09/06 17:36:11 Skipping writing post, no content: https://www.hltv.org/news/36994/esl-pro-league-group-b-highlights
-2023/09/06 17:36:11 Skipping writing post, no content: https://www.hltv.org/news/36984/cs2-news-highlights-tips-and-tricks
-2023/09/06 17:36:11 Skipping writing post, no content: https://www.hltv.org/news/36993/epl-group-b-fantasy-is-about-to-start
-2023/09/06 17:36:11 Skipping writing post, no content: https://www.hltv.org/news/36992/nertz-i-believe-that-we-can-be-better-than-vitality-in-the-close-future
-2023/09/06 17:36:11 Skipping writing post, no content: https://www.hltv.org/news/36991/torzsi-i-wouldnt-say-that-the-performance-i-had-last-year-was-only-on-dexter
-2023/09/06 17:36:11 Skipping writing post, no content: https://www.hltv.org/news/36990/esl-pro-league-group-b-preview
-2023/09/06 17:36:11 Skipping writing post, no content: https://www.hltv.org/news/36986/cadian-were-not-all-playing-to-our-philosophies-and-principles
-2023/09/06 17:36:11 Skipping writing post, no content: https://www.hltv.org/news/36988/woro2k-im-never-tired-of-playing-officials-i-could-play-three-matches-a-day
-2023/09/06 17:36:11 Templated 177 posts, took 25.613894ms
+2023/09/06 17:46:10 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 170.402097ms
+2023/09/06 17:46:10 error parsing https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml: http error: 503 Service Unavailable
+2023/09/06 17:46:10 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 190.221764ms
+2023/09/06 17:46:11 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 598.156162ms
+2023/09/06 17:46:11 Content still empty after HTML reader: https://www.hltv.org/news/36996/heroic-trounce-rooster-in-epl-group-b-opener
+2023/09/06 17:46:11 Content still empty after HTML reader: https://www.hltv.org/news/36979/into-the-breach-sign-qikert-as-in-game-leader
+2023/09/06 17:46:11 Content still empty after HTML reader: https://www.hltv.org/news/36994/esl-pro-league-group-b-highlights
+2023/09/06 17:46:11 Content still empty after HTML reader: https://www.hltv.org/news/36984/cs2-news-highlights-tips-and-tricks
+2023/09/06 17:46:11 Content still empty after HTML reader: https://www.hltv.org/news/36993/epl-group-b-fantasy-is-about-to-start
+2023/09/06 17:46:11 Content still empty after HTML reader: https://www.hltv.org/news/36992/nertz-i-believe-that-we-can-be-better-than-vitality-in-the-close-future
+2023/09/06 17:46:11 Content still empty after HTML reader: https://www.hltv.org/news/36991/torzsi-i-wouldnt-say-that-the-performance-i-had-last-year-was-only-on-dexter
+2023/09/06 17:46:11 Content still empty after HTML reader: https://www.hltv.org/news/36990/esl-pro-league-group-b-preview
+2023/09/06 17:46:11 Content still empty after HTML reader: https://www.hltv.org/news/36986/cadian-were-not-all-playing-to-our-philosophies-and-principles
+2023/09/06 17:46:11 Content still empty after HTML reader: https://www.hltv.org/news/36988/woro2k-im-never-tired-of-playing-officials-i-could-play-three-matches-a-day
+2023/09/06 17:46:11 Fetched posts from https://www.hltv.org/rss/news, took 726.539793ms
+2023/09/06 17:46:11 Fetched posts from https://vlr.gg/rss, took 785.546388ms
+2023/09/06 17:46:12 Fetched posts from https://blogtienao.com/feed, took 2.211097803s
+2023/09/06 17:46:19 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.86472561s
+2023/09/06 17:46:29 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.566196115s
+2023/09/06 17:46:55 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 45.03424581s
+2023/09/06 17:46:55 Skipping writing post, no content: https://www.hltv.org/news/36996/heroic-trounce-rooster-in-epl-group-b-opener
+2023/09/06 17:46:55 Skipping writing post, no content: https://www.hltv.org/news/36979/into-the-breach-sign-qikert-as-in-game-leader
+2023/09/06 17:46:55 Skipping writing post, no content: https://www.hltv.org/news/36994/esl-pro-league-group-b-highlights
+2023/09/06 17:46:55 Skipping writing post, no content: https://www.hltv.org/news/36984/cs2-news-highlights-tips-and-tricks
+2023/09/06 17:46:55 Skipping writing post, no content: https://www.hltv.org/news/36993/epl-group-b-fantasy-is-about-to-start
+2023/09/06 17:46:55 Skipping writing post, no content: https://www.hltv.org/news/36992/nertz-i-believe-that-we-can-be-better-than-vitality-in-the-close-future
+2023/09/06 17:46:55 Skipping writing post, no content: https://www.hltv.org/news/36991/torzsi-i-wouldnt-say-that-the-performance-i-had-last-year-was-only-on-dexter
+2023/09/06 17:46:55 Skipping writing post, no content: https://www.hltv.org/news/36990/esl-pro-league-group-b-preview
+2023/09/06 17:46:55 Skipping writing post, no content: https://www.hltv.org/news/36986/cadian-were-not-all-playing-to-our-philosophies-and-principles
+2023/09/06 17:46:55 Skipping writing post, no content: https://www.hltv.org/news/36988/woro2k-im-never-tired-of-playing-officials-i-could-play-three-matches-a-day
+2023/09/06 17:46:55 Templated 153 posts, took 23.015182ms
