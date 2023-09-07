@@ -1,32 +1,30 @@
-2023/09/07 22:29:48 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 163.354718ms
-2023/09/07 22:29:48 Content still empty after HTML reader: https://www.hltv.org/news/37006/mouz-relegate-eg-to-last-chance-bracket
-2023/09/07 22:29:48 Content still empty after HTML reader: https://www.hltv.org/news/37005/big-shock-heroic-to-qualify-for-epl-playoffs
-2023/09/07 22:29:48 Content still empty after HTML reader: https://www.hltv.org/news/37004/faceit-launch-cs2-limited-access
-2023/09/07 22:29:48 Content still empty after HTML reader: https://www.hltv.org/news/37003/monte-survive-rooster-in-group-b-lower-bracket
-2023/09/07 22:29:48 Content still empty after HTML reader: https://www.hltv.org/news/37002/ence-sign-womens-team
-2023/09/07 22:29:48 Content still empty after HTML reader: https://www.hltv.org/news/37001/themongolz-add-senzu
-2023/09/07 22:29:48 Content still empty after HTML reader: https://www.hltv.org/news/37000/apeks-and-kuben-part-ways-mithr-appointed-as-new-head-coach
-2023/09/07 22:29:48 Content still empty after HTML reader: https://www.hltv.org/news/36999/mibr-upset-mouz-to-earn-first-epl-victory
-2023/09/07 22:29:48 Content still empty after HTML reader: https://www.hltv.org/news/36998/ence-open-epl-campaign-with-win-over-eg
-2023/09/07 22:29:48 Content still empty after HTML reader: https://www.hltv.org/news/36997/big-defeat-monte-in-epl-group-opener
-2023/09/07 22:29:48 Fetched posts from https://www.hltv.org/rss/news, took 510.435368ms
-2023/09/07 22:29:48 Fetched posts from https://vlr.gg/rss, took 736.720082ms
-2023/09/07 22:29:49 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.20426556s
-2023/09/07 22:29:49 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 1.232503109s
-2023/09/07 22:29:50 Fetched posts from https://blogtienao.com/feed, took 2.259922844s
-2023/09/07 22:29:56 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.859975938s
-2023/09/07 22:30:04 failed to parse input: read tcp 10.1.0.124:55106->125.212.247.111:443: read: connection reset by peer
-2023/09/07 22:30:16 failed to parse input: read tcp 10.1.0.124:51164->125.212.247.111:443: read: connection reset by peer
-2023/09/07 22:30:24 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 36.20609086s
-2023/09/07 22:30:28 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 40.619315856s
-2023/09/07 22:30:28 Skipping writing post, no content: https://www.hltv.org/news/37006/mouz-relegate-eg-to-last-chance-bracket
-2023/09/07 22:30:28 Skipping writing post, no content: https://www.hltv.org/news/37005/big-shock-heroic-to-qualify-for-epl-playoffs
-2023/09/07 22:30:28 Skipping writing post, no content: https://www.hltv.org/news/37004/faceit-launch-cs2-limited-access
-2023/09/07 22:30:28 Skipping writing post, no content: https://www.hltv.org/news/37003/monte-survive-rooster-in-group-b-lower-bracket
-2023/09/07 22:30:28 Skipping writing post, no content: https://www.hltv.org/news/37002/ence-sign-womens-team
-2023/09/07 22:30:28 Skipping writing post, no content: https://www.hltv.org/news/37001/themongolz-add-senzu
-2023/09/07 22:30:28 Skipping writing post, no content: https://www.hltv.org/news/37000/apeks-and-kuben-part-ways-mithr-appointed-as-new-head-coach
-2023/09/07 22:30:28 Skipping writing post, no content: https://www.hltv.org/news/36999/mibr-upset-mouz-to-earn-first-epl-victory
-2023/09/07 22:30:28 Skipping writing post, no content: https://www.hltv.org/news/36998/ence-open-epl-campaign-with-win-over-eg
-2023/09/07 22:30:28 Skipping writing post, no content: https://www.hltv.org/news/36997/big-defeat-monte-in-epl-group-opener
-2023/09/07 22:30:28 Templated 173 posts, took 26.908622ms
+2023/09/07 22:40:19 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 189.376922ms
+2023/09/07 22:40:19 Content still empty after HTML reader: https://www.hltv.org/news/37007/ence-survive-mibr-scare-to-clinch-epl-playoff-berth
+2023/09/07 22:40:19 Content still empty after HTML reader: https://www.hltv.org/news/37006/mouz-relegate-eg-to-last-chance-bracket
+2023/09/07 22:40:19 Content still empty after HTML reader: https://www.hltv.org/news/37005/big-shock-heroic-to-qualify-for-epl-playoffs
+2023/09/07 22:40:19 Content still empty after HTML reader: https://www.hltv.org/news/37004/faceit-launch-cs2-limited-access
+2023/09/07 22:40:19 Content still empty after HTML reader: https://www.hltv.org/news/37003/monte-survive-rooster-in-group-b-lower-bracket
+2023/09/07 22:40:19 Content still empty after HTML reader: https://www.hltv.org/news/37002/ence-sign-womens-team
+2023/09/07 22:40:19 Content still empty after HTML reader: https://www.hltv.org/news/37001/themongolz-add-senzu
+2023/09/07 22:40:19 Content still empty after HTML reader: https://www.hltv.org/news/37000/apeks-and-kuben-part-ways-mithr-appointed-as-new-head-coach
+2023/09/07 22:40:19 Content still empty after HTML reader: https://www.hltv.org/news/36999/mibr-upset-mouz-to-earn-first-epl-victory
+2023/09/07 22:40:19 Content still empty after HTML reader: https://www.hltv.org/news/36998/ence-open-epl-campaign-with-win-over-eg
+2023/09/07 22:40:19 Fetched posts from https://www.hltv.org/rss/news, took 512.23285ms
+2023/09/07 22:40:19 Fetched posts from https://vlr.gg/rss, took 1.058199104s
+2023/09/07 22:40:20 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 1.164774533s
+2023/09/07 22:40:20 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.369664753s
+2023/09/07 22:40:21 Fetched posts from https://blogtienao.com/feed, took 2.329035426s
+2023/09/07 22:40:28 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 9.254902284s
+2023/09/07 22:40:51 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 32.888374842s
+2023/09/07 22:40:56 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 37.232403849s
+2023/09/07 22:40:56 Skipping writing post, no content: https://www.hltv.org/news/37007/ence-survive-mibr-scare-to-clinch-epl-playoff-berth
+2023/09/07 22:40:56 Skipping writing post, no content: https://www.hltv.org/news/37006/mouz-relegate-eg-to-last-chance-bracket
+2023/09/07 22:40:56 Skipping writing post, no content: https://www.hltv.org/news/37005/big-shock-heroic-to-qualify-for-epl-playoffs
+2023/09/07 22:40:56 Skipping writing post, no content: https://www.hltv.org/news/37004/faceit-launch-cs2-limited-access
+2023/09/07 22:40:56 Skipping writing post, no content: https://www.hltv.org/news/37003/monte-survive-rooster-in-group-b-lower-bracket
+2023/09/07 22:40:56 Skipping writing post, no content: https://www.hltv.org/news/37002/ence-sign-womens-team
+2023/09/07 22:40:56 Skipping writing post, no content: https://www.hltv.org/news/37001/themongolz-add-senzu
+2023/09/07 22:40:56 Skipping writing post, no content: https://www.hltv.org/news/37000/apeks-and-kuben-part-ways-mithr-appointed-as-new-head-coach
+2023/09/07 22:40:56 Skipping writing post, no content: https://www.hltv.org/news/36999/mibr-upset-mouz-to-earn-first-epl-victory
+2023/09/07 22:40:56 Skipping writing post, no content: https://www.hltv.org/news/36998/ence-open-epl-campaign-with-win-over-eg
+2023/09/07 22:40:56 Templated 175 posts, took 29.753787ms
