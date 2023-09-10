@@ -1,31 +1,32 @@
-2023/09/10 05:10:07 error parsing https://blogtienao.com/feed: http error: 500 Internal Server Error
-2023/09/10 05:10:07 Fetched posts from https://blogtienao.com/feed, took 298.971981ms
-2023/09/10 05:10:07 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 325.81047ms
-2023/09/10 05:10:07 Content still empty after HTML reader: https://www.hltv.org/news/37014/monte-eliminate-heroic-from-epl-group-stage
-2023/09/10 05:10:07 Content still empty after HTML reader: https://www.hltv.org/news/37013/mouz-get-revenge-over-mibr-to-make-epl-playoffs
-2023/09/10 05:10:07 Content still empty after HTML reader: https://www.hltv.org/news/37012/eg-eliminate-rooster-from-epl
-2023/09/10 05:10:07 Content still empty after HTML reader: https://www.hltv.org/news/37011/raptors-ec-win-esl-premiership-autumn
-2023/09/10 05:10:07 Content still empty after HTML reader: https://www.hltv.org/news/37010/mouz-put-heroic-on-brink-of-elimination-at-epl
-2023/09/10 05:10:07 Content still empty after HTML reader: https://www.hltv.org/news/37009/zoree-retires-from-competition
-2023/09/10 05:10:07 Content still empty after HTML reader: https://www.hltv.org/news/37008/mibr-send-monte-to-last-chance-bracket-in-malta
-2023/09/10 05:10:07 Content still empty after HTML reader: https://www.hltv.org/news/37007/ence-survive-mibr-scare-to-clinch-epl-playoff-berth
-2023/09/10 05:10:07 Content still empty after HTML reader: https://www.hltv.org/news/37006/mouz-relegate-eg-to-last-chance-bracket
-2023/09/10 05:10:07 Content still empty after HTML reader: https://www.hltv.org/news/37005/big-shock-heroic-to-qualify-for-epl-playoffs
-2023/09/10 05:10:07 Fetched posts from https://www.hltv.org/rss/news, took 423.413078ms
-2023/09/10 05:10:07 Fetched posts from https://vlr.gg/rss, took 646.56791ms
-2023/09/10 05:10:07 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 663.956558ms
-2023/09/10 05:10:08 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.163749498s
-2023/09/10 05:10:15 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.962794871s
-2023/09/10 05:10:29 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.556836131s
-2023/09/10 05:10:43 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 36.291313233s
-2023/09/10 05:10:43 Skipping writing post, no content: https://www.hltv.org/news/37014/monte-eliminate-heroic-from-epl-group-stage
-2023/09/10 05:10:43 Skipping writing post, no content: https://www.hltv.org/news/37013/mouz-get-revenge-over-mibr-to-make-epl-playoffs
-2023/09/10 05:10:43 Skipping writing post, no content: https://www.hltv.org/news/37012/eg-eliminate-rooster-from-epl
-2023/09/10 05:10:43 Skipping writing post, no content: https://www.hltv.org/news/37011/raptors-ec-win-esl-premiership-autumn
-2023/09/10 05:10:43 Skipping writing post, no content: https://www.hltv.org/news/37010/mouz-put-heroic-on-brink-of-elimination-at-epl
-2023/09/10 05:10:43 Skipping writing post, no content: https://www.hltv.org/news/37009/zoree-retires-from-competition
-2023/09/10 05:10:43 Skipping writing post, no content: https://www.hltv.org/news/37008/mibr-send-monte-to-last-chance-bracket-in-malta
-2023/09/10 05:10:43 Skipping writing post, no content: https://www.hltv.org/news/37007/ence-survive-mibr-scare-to-clinch-epl-playoff-berth
-2023/09/10 05:10:43 Skipping writing post, no content: https://www.hltv.org/news/37006/mouz-relegate-eg-to-last-chance-bracket
-2023/09/10 05:10:43 Skipping writing post, no content: https://www.hltv.org/news/37005/big-shock-heroic-to-qualify-for-epl-playoffs
-2023/09/10 05:10:43 Templated 161 posts, took 23.551479ms
+2023/09/10 05:24:22 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 170.11547ms
+2023/09/10 05:24:22 Content still empty after HTML reader: https://www.hltv.org/news/37014/monte-eliminate-heroic-from-epl-group-stage
+2023/09/10 05:24:22 Content still empty after HTML reader: https://www.hltv.org/news/37013/mouz-get-revenge-over-mibr-to-make-epl-playoffs
+2023/09/10 05:24:22 Content still empty after HTML reader: https://www.hltv.org/news/37012/eg-eliminate-rooster-from-epl
+2023/09/10 05:24:22 Content still empty after HTML reader: https://www.hltv.org/news/37011/raptors-ec-win-esl-premiership-autumn
+2023/09/10 05:24:22 Content still empty after HTML reader: https://www.hltv.org/news/37010/mouz-put-heroic-on-brink-of-elimination-at-epl
+2023/09/10 05:24:22 Content still empty after HTML reader: https://www.hltv.org/news/37009/zoree-retires-from-competition
+2023/09/10 05:24:22 Content still empty after HTML reader: https://www.hltv.org/news/37008/mibr-send-monte-to-last-chance-bracket-in-malta
+2023/09/10 05:24:22 Content still empty after HTML reader: https://www.hltv.org/news/37007/ence-survive-mibr-scare-to-clinch-epl-playoff-berth
+2023/09/10 05:24:22 Content still empty after HTML reader: https://www.hltv.org/news/37006/mouz-relegate-eg-to-last-chance-bracket
+2023/09/10 05:24:22 Content still empty after HTML reader: https://www.hltv.org/news/37005/big-shock-heroic-to-qualify-for-epl-playoffs
+2023/09/10 05:24:22 Fetched posts from https://www.hltv.org/rss/news, took 408.311747ms
+2023/09/10 05:24:22 Content still empty after HTML reader: https://www.vlr.gg/271262/rhyme-retires-to-focus-on-studies
+2023/09/10 05:24:23 Fetched posts from https://vlr.gg/rss, took 729.931165ms
+2023/09/10 05:24:23 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 741.644551ms
+2023/09/10 05:24:24 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.916913589s
+2023/09/10 05:24:24 Fetched posts from https://blogtienao.com/feed, took 2.152026418s
+2023/09/10 05:24:31 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 9.042599451s
+2023/09/10 05:24:41 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.561635879s
+2023/09/10 05:24:59 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 36.773689322s
+2023/09/10 05:24:59 Skipping writing post, no content: https://www.hltv.org/news/37014/monte-eliminate-heroic-from-epl-group-stage
+2023/09/10 05:24:59 Skipping writing post, no content: https://www.hltv.org/news/37013/mouz-get-revenge-over-mibr-to-make-epl-playoffs
+2023/09/10 05:24:59 Skipping writing post, no content: https://www.hltv.org/news/37012/eg-eliminate-rooster-from-epl
+2023/09/10 05:24:59 Skipping writing post, no content: https://www.hltv.org/news/37011/raptors-ec-win-esl-premiership-autumn
+2023/09/10 05:24:59 Skipping writing post, no content: https://www.hltv.org/news/37010/mouz-put-heroic-on-brink-of-elimination-at-epl
+2023/09/10 05:24:59 Skipping writing post, no content: https://www.hltv.org/news/37009/zoree-retires-from-competition
+2023/09/10 05:24:59 Skipping writing post, no content: https://www.hltv.org/news/37008/mibr-send-monte-to-last-chance-bracket-in-malta
+2023/09/10 05:24:59 Skipping writing post, no content: https://www.hltv.org/news/37007/ence-survive-mibr-scare-to-clinch-epl-playoff-berth
+2023/09/10 05:24:59 Skipping writing post, no content: https://www.hltv.org/news/37006/mouz-relegate-eg-to-last-chance-bracket
+2023/09/10 05:24:59 Skipping writing post, no content: https://www.hltv.org/news/37005/big-shock-heroic-to-qualify-for-epl-playoffs
+2023/09/10 05:24:59 Skipping writing post, no content: https://www.vlr.gg/271262/rhyme-retires-to-focus-on-studies
+2023/09/10 05:24:59 Templated 172 posts, took 25.674419ms
