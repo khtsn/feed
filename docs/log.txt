@@ -1,30 +1,32 @@
-2023/09/11 16:18:44 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 448.098778ms
-2023/09/11 16:18:44 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 591.519791ms
-2023/09/11 16:18:45 Content still empty after HTML reader: https://www.hltv.org/news/37023/esl-impact-league-season-4-set-to-start
-2023/09/11 16:18:45 Content still empty after HTML reader: https://www.hltv.org/news/37025/acilion-announces-switch-to-coaching
-2023/09/11 16:18:45 Content still empty after HTML reader: https://www.hltv.org/news/37024/metizport-unveil-new-swedish-lineup
-2023/09/11 16:18:45 Content still empty after HTML reader: https://www.hltv.org/news/37020/hltv-confirmed-with-friberg-cerq-how-to-transition-to-cs2
-2023/09/11 16:18:45 Content still empty after HTML reader: https://www.hltv.org/news/37022/hltv-is-looking-for-new-writers
-2023/09/11 16:18:45 Content still empty after HTML reader: https://www.hltv.org/news/37021/stanislaws-forsaken-qualify-for-blast-showdown
-2023/09/11 16:18:45 Content still empty after HTML reader: https://www.hltv.org/news/37019/monte-maul-mibr-to-grab-epl-playoff-berth
-2023/09/11 16:18:45 Content still empty after HTML reader: https://www.hltv.org/news/36994/esl-pro-league-group-b-highlights
-2023/09/11 16:18:45 Content still empty after HTML reader: https://www.hltv.org/news/37018/9ine-secure-attendance-at-blast-fall-showdown
-2023/09/11 16:18:45 Content still empty after HTML reader: https://www.hltv.org/news/37017/ence-defeat-big-to-claim-top-seed-in-group-b
-2023/09/11 16:18:45 Fetched posts from https://www.hltv.org/rss/news, took 1.595548599s
-2023/09/11 16:18:46 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.700974585s
-2023/09/11 16:18:46 Fetched posts from https://vlr.gg/rss, took 2.26771871s
-2023/09/11 16:18:51 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.443594511s
-2023/09/11 16:18:57 Fetched posts from https://blogtienao.com/feed, took 13.094571519s
-2023/09/11 16:19:02 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.008673605s
-2023/09/11 16:19:21 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 37.387801982s
-2023/09/11 16:19:21 Skipping writing post, no content: https://www.hltv.org/news/37023/esl-impact-league-season-4-set-to-start
-2023/09/11 16:19:21 Skipping writing post, no content: https://www.hltv.org/news/37025/acilion-announces-switch-to-coaching
-2023/09/11 16:19:21 Skipping writing post, no content: https://www.hltv.org/news/37024/metizport-unveil-new-swedish-lineup
-2023/09/11 16:19:21 Skipping writing post, no content: https://www.hltv.org/news/37020/hltv-confirmed-with-friberg-cerq-how-to-transition-to-cs2
-2023/09/11 16:19:21 Skipping writing post, no content: https://www.hltv.org/news/37022/hltv-is-looking-for-new-writers
-2023/09/11 16:19:21 Skipping writing post, no content: https://www.hltv.org/news/37021/stanislaws-forsaken-qualify-for-blast-showdown
-2023/09/11 16:19:21 Skipping writing post, no content: https://www.hltv.org/news/37019/monte-maul-mibr-to-grab-epl-playoff-berth
-2023/09/11 16:19:21 Skipping writing post, no content: https://www.hltv.org/news/36994/esl-pro-league-group-b-highlights
-2023/09/11 16:19:21 Skipping writing post, no content: https://www.hltv.org/news/37018/9ine-secure-attendance-at-blast-fall-showdown
-2023/09/11 16:19:21 Skipping writing post, no content: https://www.hltv.org/news/37017/ence-defeat-big-to-claim-top-seed-in-group-b
-2023/09/11 16:19:21 Templated 175 posts, took 25.089398ms
+2023/09/11 16:35:04 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 412.057933ms
+2023/09/11 16:35:04 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 442.637309ms
+2023/09/11 16:35:05 Content still empty after HTML reader: https://www.hltv.org/news/37023/esl-impact-league-season-4-set-to-start
+2023/09/11 16:35:05 Content still empty after HTML reader: https://www.hltv.org/news/37025/acilion-announces-switch-to-coaching
+2023/09/11 16:35:05 Content still empty after HTML reader: https://www.hltv.org/news/37024/metizport-unveil-new-swedish-lineup
+2023/09/11 16:35:05 Content still empty after HTML reader: https://www.hltv.org/news/37020/hltv-confirmed-with-friberg-cerq-how-to-transition-to-cs2
+2023/09/11 16:35:05 Content still empty after HTML reader: https://www.hltv.org/news/37022/hltv-is-looking-for-new-writers
+2023/09/11 16:35:05 Content still empty after HTML reader: https://www.hltv.org/news/37021/stanislaws-forsaken-qualify-for-blast-showdown
+2023/09/11 16:35:05 Content still empty after HTML reader: https://www.hltv.org/news/37019/monte-maul-mibr-to-grab-epl-playoff-berth
+2023/09/11 16:35:05 Content still empty after HTML reader: https://www.hltv.org/news/36994/esl-pro-league-group-b-highlights
+2023/09/11 16:35:05 Content still empty after HTML reader: https://www.hltv.org/news/37018/9ine-secure-attendance-at-blast-fall-showdown
+2023/09/11 16:35:05 Content still empty after HTML reader: https://www.hltv.org/news/37017/ence-defeat-big-to-claim-top-seed-in-group-b
+2023/09/11 16:35:05 Fetched posts from https://www.hltv.org/rss/news, took 880.671177ms
+2023/09/11 16:35:05 Content still empty after HTML reader: https://www.nytimes.com/2023/09/11/briefing/drug-overdoses-narcan-opioids.html
+2023/09/11 16:35:05 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.087281849s
+2023/09/11 16:35:06 Fetched posts from https://vlr.gg/rss, took 2.29724741s
+2023/09/11 16:35:07 Fetched posts from https://blogtienao.com/feed, took 3.162947152s
+2023/09/11 16:35:11 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.489174269s
+2023/09/11 16:35:21 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.795625455s
+2023/09/11 16:35:43 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 38.717470125s
+2023/09/11 16:35:43 Skipping writing post, no content: https://www.hltv.org/news/37023/esl-impact-league-season-4-set-to-start
+2023/09/11 16:35:43 Skipping writing post, no content: https://www.hltv.org/news/37025/acilion-announces-switch-to-coaching
+2023/09/11 16:35:43 Skipping writing post, no content: https://www.hltv.org/news/37024/metizport-unveil-new-swedish-lineup
+2023/09/11 16:35:43 Skipping writing post, no content: https://www.hltv.org/news/37020/hltv-confirmed-with-friberg-cerq-how-to-transition-to-cs2
+2023/09/11 16:35:43 Skipping writing post, no content: https://www.hltv.org/news/37022/hltv-is-looking-for-new-writers
+2023/09/11 16:35:43 Skipping writing post, no content: https://www.nytimes.com/2023/09/11/briefing/drug-overdoses-narcan-opioids.html
+2023/09/11 16:35:43 Skipping writing post, no content: https://www.hltv.org/news/37021/stanislaws-forsaken-qualify-for-blast-showdown
+2023/09/11 16:35:43 Skipping writing post, no content: https://www.hltv.org/news/37019/monte-maul-mibr-to-grab-epl-playoff-berth
+2023/09/11 16:35:43 Skipping writing post, no content: https://www.hltv.org/news/36994/esl-pro-league-group-b-highlights
+2023/09/11 16:35:43 Skipping writing post, no content: https://www.hltv.org/news/37018/9ine-secure-attendance-at-blast-fall-showdown
+2023/09/11 16:35:43 Skipping writing post, no content: https://www.hltv.org/news/37017/ence-defeat-big-to-claim-top-seed-in-group-b
+2023/09/11 16:35:43 Templated 176 posts, took 35.86644ms
