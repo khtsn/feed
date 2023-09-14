@@ -1,32 +1,30 @@
-2023/09/14 02:26:07 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 267.851837ms
-2023/09/14 02:26:07 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 514.260908ms
-2023/09/14 02:26:07 Content still empty after HTML reader: https://www.hltv.org/news/37040/fnatic-overcome-imperial-in-malta
-2023/09/14 02:26:07 Content still empty after HTML reader: https://www.hltv.org/news/37039/faze-move-past-9z-to-earn-first-epl-win
-2023/09/14 02:26:07 Content still empty after HTML reader: https://www.hltv.org/news/37035/neofrag-replaces-dytor-on-eclot
-2023/09/14 02:26:07 Content still empty after HTML reader: https://www.hltv.org/news/37038/apeks-move-past-m80-in-epl-opener
-2023/09/14 02:26:07 Content still empty after HTML reader: https://www.hltv.org/news/37037/navi-weather-5yclone-in-epl-group-c-opener
-2023/09/14 02:26:07 Content still empty after HTML reader: https://www.hltv.org/news/37036/esl-pro-league-group-c-highlights
-2023/09/14 02:26:07 Content still empty after HTML reader: https://www.hltv.org/news/37034/s1mple-ropz-both-or-neither-the-user-base-is-equally-split-in-epl-group-c-fantasy
-2023/09/14 02:26:07 Content still empty after HTML reader: https://www.hltv.org/news/37033/fluxo-sign-womens-demons-roster
-2023/09/14 02:26:07 Content still empty after HTML reader: https://www.hltv.org/news/37031/epl-group-c-three-facts-and-quotes-from-each-team
-2023/09/14 02:26:07 Content still empty after HTML reader: https://www.hltv.org/news/37030/apeks-prepare-to-tackle-esl-pro-league-with-a-new-coach-and-philosophy
-2023/09/14 02:26:07 Fetched posts from https://www.hltv.org/rss/news, took 745.259273ms
-2023/09/14 02:26:07 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.149506064s
-2023/09/14 02:26:08 Fetched posts from https://vlr.gg/rss, took 1.249793842s
-2023/09/14 02:26:08 Fetched posts from https://blogtienao.com/feed, took 2.184983611s
-2023/09/14 02:26:21 failed to parse input: read tcp 10.1.0.54:44588->125.212.247.111:443: read: connection reset by peer
-2023/09/14 02:26:36 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 29.66152585s
-2023/09/14 02:26:36 error parsing https://tuoitre.vn/rss/thoi-su.rss: Get "https://tuoitre.vn/rss/thoi-su.rss": dial tcp 14.225.199.147:443: i/o timeout
-2023/09/14 02:26:36 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 30.000266761s
-2023/09/14 02:26:47 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 40.771423967s
-2023/09/14 02:26:47 Skipping writing post, no content: https://www.hltv.org/news/37040/fnatic-overcome-imperial-in-malta
-2023/09/14 02:26:47 Skipping writing post, no content: https://www.hltv.org/news/37039/faze-move-past-9z-to-earn-first-epl-win
-2023/09/14 02:26:47 Skipping writing post, no content: https://www.hltv.org/news/37035/neofrag-replaces-dytor-on-eclot
-2023/09/14 02:26:47 Skipping writing post, no content: https://www.hltv.org/news/37038/apeks-move-past-m80-in-epl-opener
-2023/09/14 02:26:47 Skipping writing post, no content: https://www.hltv.org/news/37037/navi-weather-5yclone-in-epl-group-c-opener
-2023/09/14 02:26:47 Skipping writing post, no content: https://www.hltv.org/news/37036/esl-pro-league-group-c-highlights
-2023/09/14 02:26:47 Skipping writing post, no content: https://www.hltv.org/news/37034/s1mple-ropz-both-or-neither-the-user-base-is-equally-split-in-epl-group-c-fantasy
-2023/09/14 02:26:47 Skipping writing post, no content: https://www.hltv.org/news/37033/fluxo-sign-womens-demons-roster
-2023/09/14 02:26:47 Skipping writing post, no content: https://www.hltv.org/news/37031/epl-group-c-three-facts-and-quotes-from-each-team
-2023/09/14 02:26:47 Skipping writing post, no content: https://www.hltv.org/news/37030/apeks-prepare-to-tackle-esl-pro-league-with-a-new-coach-and-philosophy
-2023/09/14 02:26:47 Templated 157 posts, took 22.503675ms
+2023/09/14 02:37:02 Content still empty after HTML reader: https://www.hltv.org/news/37040/fnatic-overcome-imperial-in-malta
+2023/09/14 02:37:02 Content still empty after HTML reader: https://www.hltv.org/news/37039/faze-move-past-9z-to-earn-first-epl-win
+2023/09/14 02:37:02 Content still empty after HTML reader: https://www.hltv.org/news/37035/neofrag-replaces-dytor-on-eclot
+2023/09/14 02:37:02 Content still empty after HTML reader: https://www.hltv.org/news/37038/apeks-move-past-m80-in-epl-opener
+2023/09/14 02:37:02 Content still empty after HTML reader: https://www.hltv.org/news/37037/navi-weather-5yclone-in-epl-group-c-opener
+2023/09/14 02:37:02 Content still empty after HTML reader: https://www.hltv.org/news/37036/esl-pro-league-group-c-highlights
+2023/09/14 02:37:02 Content still empty after HTML reader: https://www.hltv.org/news/37034/s1mple-ropz-both-or-neither-the-user-base-is-equally-split-in-epl-group-c-fantasy
+2023/09/14 02:37:02 Content still empty after HTML reader: https://www.hltv.org/news/37033/fluxo-sign-womens-demons-roster
+2023/09/14 02:37:02 Content still empty after HTML reader: https://www.hltv.org/news/37031/epl-group-c-three-facts-and-quotes-from-each-team
+2023/09/14 02:37:02 Content still empty after HTML reader: https://www.hltv.org/news/37030/apeks-prepare-to-tackle-esl-pro-league-with-a-new-coach-and-philosophy
+2023/09/14 02:37:02 Fetched posts from https://www.hltv.org/rss/news, took 552.290024ms
+2023/09/14 02:37:02 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 586.493393ms
+2023/09/14 02:37:02 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 680.175483ms
+2023/09/14 02:37:03 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.936888741s
+2023/09/14 02:37:04 Fetched posts from https://vlr.gg/rss, took 2.916036541s
+2023/09/14 02:37:04 Fetched posts from https://blogtienao.com/feed, took 3.123873651s
+2023/09/14 02:37:08 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.310422729s
+2023/09/14 02:37:20 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.613502212s
+2023/09/14 02:37:35 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 33.326363274s
+2023/09/14 02:37:35 Skipping writing post, no content: https://www.hltv.org/news/37040/fnatic-overcome-imperial-in-malta
+2023/09/14 02:37:35 Skipping writing post, no content: https://www.hltv.org/news/37039/faze-move-past-9z-to-earn-first-epl-win
+2023/09/14 02:37:35 Skipping writing post, no content: https://www.hltv.org/news/37035/neofrag-replaces-dytor-on-eclot
+2023/09/14 02:37:35 Skipping writing post, no content: https://www.hltv.org/news/37038/apeks-move-past-m80-in-epl-opener
+2023/09/14 02:37:35 Skipping writing post, no content: https://www.hltv.org/news/37037/navi-weather-5yclone-in-epl-group-c-opener
+2023/09/14 02:37:35 Skipping writing post, no content: https://www.hltv.org/news/37036/esl-pro-league-group-c-highlights
+2023/09/14 02:37:35 Skipping writing post, no content: https://www.hltv.org/news/37034/s1mple-ropz-both-or-neither-the-user-base-is-equally-split-in-epl-group-c-fantasy
+2023/09/14 02:37:35 Skipping writing post, no content: https://www.hltv.org/news/37033/fluxo-sign-womens-demons-roster
+2023/09/14 02:37:35 Skipping writing post, no content: https://www.hltv.org/news/37031/epl-group-c-three-facts-and-quotes-from-each-team
+2023/09/14 02:37:35 Skipping writing post, no content: https://www.hltv.org/news/37030/apeks-prepare-to-tackle-esl-pro-league-with-a-new-coach-and-philosophy
+2023/09/14 02:37:35 Templated 188 posts, took 26.813695ms
