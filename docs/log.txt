@@ -1,29 +1,32 @@
-2023/09/15 23:18:01 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 177.117254ms
-2023/09/15 23:18:01 Content still empty after HTML reader: https://www.hltv.org/news/37048/esl-is-closing-national-championships-why-and-what-is-next
-2023/09/15 23:18:01 Content still empty after HTML reader: https://www.hltv.org/news/37051/apeks-relegate-imperial-to-last-chance-bracket
-2023/09/15 23:18:01 Content still empty after HTML reader: https://www.hltv.org/news/37049/fnatic-send-5yclone-to-last-chance-bracket
-2023/09/15 23:18:01 Content still empty after HTML reader: https://www.hltv.org/news/37047/monte-mibr-og-among-teams-taking-part-in-cct-online-finals-3-bestia-snubbed
-2023/09/15 23:18:01 Content still empty after HTML reader: https://www.hltv.org/news/36967/the-logic-behind-valves-move-to-mr12
-2023/09/15 23:18:01 Content still empty after HTML reader: https://www.hltv.org/news/37046/faze-qualify-for-epl-playoffs-thanks-to-late-surge-against-fnatic
-2023/09/15 23:18:01 Content still empty after HTML reader: https://www.hltv.org/news/37045/imperial-relegate-9z-to-last-chance-bracket-in-malta
-2023/09/15 23:18:01 Content still empty after HTML reader: https://www.hltv.org/news/37044/cloud9-mouz-favorites-in-last-blast-showdown-qualifiers
-2023/09/15 23:18:01 Content still empty after HTML reader: https://www.hltv.org/news/37043/navi-breeze-past-apeks-to-qualify-for-epl-playoffs
-2023/09/15 23:18:01 Fetched posts from https://www.hltv.org/rss/news, took 456.448841ms
-2023/09/15 23:18:01 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 542.92514ms
-2023/09/15 23:18:02 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.009411477s
-2023/09/15 23:18:02 Fetched posts from https://vlr.gg/rss, took 1.418820608s
-2023/09/15 23:18:03 Fetched posts from https://blogtienao.com/feed, took 2.313840578s
-2023/09/15 23:18:19 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.576750138s
-2023/09/15 23:18:31 error parsing https://tuoitre.vn/rss/thoi-su.rss: Get "https://tuoitre.vn/rss/thoi-su.rss": dial tcp 14.225.199.147:443: i/o timeout
-2023/09/15 23:18:31 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 30.000218598s
-2023/09/15 23:18:42 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 41.649866309s
-2023/09/15 23:18:42 Skipping writing post, no content: https://www.hltv.org/news/37048/esl-is-closing-national-championships-why-and-what-is-next
-2023/09/15 23:18:42 Skipping writing post, no content: https://www.hltv.org/news/37051/apeks-relegate-imperial-to-last-chance-bracket
-2023/09/15 23:18:42 Skipping writing post, no content: https://www.hltv.org/news/37049/fnatic-send-5yclone-to-last-chance-bracket
-2023/09/15 23:18:42 Skipping writing post, no content: https://www.hltv.org/news/37047/monte-mibr-og-among-teams-taking-part-in-cct-online-finals-3-bestia-snubbed
-2023/09/15 23:18:42 Skipping writing post, no content: https://www.hltv.org/news/36967/the-logic-behind-valves-move-to-mr12
-2023/09/15 23:18:42 Skipping writing post, no content: https://www.hltv.org/news/37046/faze-qualify-for-epl-playoffs-thanks-to-late-surge-against-fnatic
-2023/09/15 23:18:42 Skipping writing post, no content: https://www.hltv.org/news/37045/imperial-relegate-9z-to-last-chance-bracket-in-malta
-2023/09/15 23:18:42 Skipping writing post, no content: https://www.hltv.org/news/37044/cloud9-mouz-favorites-in-last-blast-showdown-qualifiers
-2023/09/15 23:18:42 Skipping writing post, no content: https://www.hltv.org/news/37043/navi-breeze-past-apeks-to-qualify-for-epl-playoffs
-2023/09/15 23:18:42 Templated 157 posts, took 23.854634ms
+2023/09/15 23:28:35 Content still empty after HTML reader: https://www.hltv.org/news/37048/esl-is-closing-national-championships-why-and-what-is-next
+2023/09/15 23:28:35 Content still empty after HTML reader: https://www.hltv.org/news/37051/apeks-relegate-imperial-to-last-chance-bracket
+2023/09/15 23:28:35 Content still empty after HTML reader: https://www.hltv.org/news/37050/mouz-miss-out-on-blast-showdown-after-losses-to-two-sub-top-50-teams
+2023/09/15 23:28:35 Content still empty after HTML reader: https://www.hltv.org/news/37049/fnatic-send-5yclone-to-last-chance-bracket
+2023/09/15 23:28:35 Content still empty after HTML reader: https://www.hltv.org/news/37047/monte-mibr-og-among-teams-taking-part-in-cct-online-finals-3-bestia-snubbed
+2023/09/15 23:28:35 Content still empty after HTML reader: https://www.hltv.org/news/36967/the-logic-behind-valves-move-to-mr12
+2023/09/15 23:28:35 Content still empty after HTML reader: https://www.hltv.org/news/37046/faze-qualify-for-epl-playoffs-thanks-to-late-surge-against-fnatic
+2023/09/15 23:28:35 Content still empty after HTML reader: https://www.nytimes.com/2023/09/15/us/politics/bidens-bad-week.html
+2023/09/15 23:28:35 Content still empty after HTML reader: https://www.hltv.org/news/37045/imperial-relegate-9z-to-last-chance-bracket-in-malta
+2023/09/15 23:28:35 Content still empty after HTML reader: https://www.hltv.org/news/37044/cloud9-mouz-favorites-in-last-blast-showdown-qualifiers
+2023/09/15 23:28:35 Content still empty after HTML reader: https://www.hltv.org/news/37043/navi-breeze-past-apeks-to-qualify-for-epl-playoffs
+2023/09/15 23:28:35 Fetched posts from https://www.hltv.org/rss/news, took 371.831839ms
+2023/09/15 23:28:35 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 483.031731ms
+2023/09/15 23:28:36 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 527.285261ms
+2023/09/15 23:28:36 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.131097451s
+2023/09/15 23:28:38 Fetched posts from https://vlr.gg/rss, took 3.056665393s
+2023/09/15 23:28:38 Fetched posts from https://blogtienao.com/feed, took 3.206237451s
+2023/09/15 23:28:42 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.042484382s
+2023/09/15 23:28:51 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.433169704s
+2023/09/15 23:29:09 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 33.813538633s
+2023/09/15 23:29:09 Skipping writing post, no content: https://www.nytimes.com/2023/09/15/us/politics/bidens-bad-week.html
+2023/09/15 23:29:09 Skipping writing post, no content: https://www.hltv.org/news/37048/esl-is-closing-national-championships-why-and-what-is-next
+2023/09/15 23:29:09 Skipping writing post, no content: https://www.hltv.org/news/37051/apeks-relegate-imperial-to-last-chance-bracket
+2023/09/15 23:29:09 Skipping writing post, no content: https://www.hltv.org/news/37050/mouz-miss-out-on-blast-showdown-after-losses-to-two-sub-top-50-teams
+2023/09/15 23:29:09 Skipping writing post, no content: https://www.hltv.org/news/37049/fnatic-send-5yclone-to-last-chance-bracket
+2023/09/15 23:29:09 Skipping writing post, no content: https://www.hltv.org/news/37047/monte-mibr-og-among-teams-taking-part-in-cct-online-finals-3-bestia-snubbed
+2023/09/15 23:29:09 Skipping writing post, no content: https://www.hltv.org/news/36967/the-logic-behind-valves-move-to-mr12
+2023/09/15 23:29:09 Skipping writing post, no content: https://www.hltv.org/news/37046/faze-qualify-for-epl-playoffs-thanks-to-late-surge-against-fnatic
+2023/09/15 23:29:09 Skipping writing post, no content: https://www.hltv.org/news/37045/imperial-relegate-9z-to-last-chance-bracket-in-malta
+2023/09/15 23:29:09 Skipping writing post, no content: https://www.hltv.org/news/37044/cloud9-mouz-favorites-in-last-blast-showdown-qualifiers
+2023/09/15 23:29:09 Skipping writing post, no content: https://www.hltv.org/news/37043/navi-breeze-past-apeks-to-qualify-for-epl-playoffs
+2023/09/15 23:29:09 Templated 187 posts, took 27.294611ms
