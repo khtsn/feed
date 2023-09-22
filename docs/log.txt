@@ -1,31 +1,30 @@
-2023/09/22 07:16:26 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 243.372516ms
-2023/09/22 07:16:26 Content still empty after HTML reader: https://www.hltv.org/news/37087/msl-announces-retirement
-2023/09/22 07:16:26 Content still empty after HTML reader: https://www.hltv.org/news/37086/g2-move-past-vp-to-earn-epl-playoff-spot
-2023/09/22 07:16:26 Content still empty after HTML reader: https://www.hltv.org/news/37085/eternal-fire-send-9ine-to-last-chance-bracket
-2023/09/22 07:16:26 Content still empty after HTML reader: https://www.hltv.org/news/37084/blast-fall-showdown-schedule-announced
-2023/09/22 07:16:26 Content still empty after HTML reader: https://www.hltv.org/news/37083/complexity-secure-epl-playoff-berth-over-cloud9
-2023/09/22 07:16:26 Content still empty after HTML reader: https://www.hltv.org/news/37082/esl-unveil-2024-calendar-pro-league-shortened
-2023/09/22 07:16:26 Content still empty after HTML reader: https://www.hltv.org/news/37081/ago-returns-with-international-roster
-2023/09/22 07:16:26 Content still empty after HTML reader: https://www.hltv.org/news/37079/joel-sidelined-for-blast-fall-showdown-victory-zigzag-coach-hardwell-to-stand-in
-2023/09/22 07:16:26 Content still empty after HTML reader: https://www.hltv.org/news/37080/liquid-send-lynn-vision-to-last-chance-bracket
-2023/09/22 07:16:26 Content still empty after HTML reader: https://www.hltv.org/news/37078/blamef-signs-contract-extension-with-astralis-through-2025
-2023/09/22 07:16:26 Fetched posts from https://www.hltv.org/rss/news, took 381.467503ms
-2023/09/22 07:16:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 704.99465ms
-2023/09/22 07:16:27 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 786.109488ms
-2023/09/22 07:16:27 Fetched posts from https://vlr.gg/rss, took 1.020138731s
-2023/09/22 07:16:28 Fetched posts from https://blogtienao.com/feed, took 2.080548579s
-2023/09/22 07:16:35 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.830612125s
-2023/09/22 07:17:05 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 38.962700763s
-2023/09/22 07:17:33 failed to parse input: read tcp 10.1.0.59:42804->125.212.247.111:443: read: connection reset by peer
-2023/09/22 07:17:42 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 1m15.941303128s
-2023/09/22 07:17:42 Skipping writing post, no content: https://www.hltv.org/news/37087/msl-announces-retirement
-2023/09/22 07:17:42 Skipping writing post, no content: https://www.hltv.org/news/37086/g2-move-past-vp-to-earn-epl-playoff-spot
-2023/09/22 07:17:42 Skipping writing post, no content: https://www.hltv.org/news/37085/eternal-fire-send-9ine-to-last-chance-bracket
-2023/09/22 07:17:42 Skipping writing post, no content: https://www.hltv.org/news/37084/blast-fall-showdown-schedule-announced
-2023/09/22 07:17:42 Skipping writing post, no content: https://www.hltv.org/news/37083/complexity-secure-epl-playoff-berth-over-cloud9
-2023/09/22 07:17:42 Skipping writing post, no content: https://www.hltv.org/news/37082/esl-unveil-2024-calendar-pro-league-shortened
-2023/09/22 07:17:42 Skipping writing post, no content: https://www.hltv.org/news/37081/ago-returns-with-international-roster
-2023/09/22 07:17:42 Skipping writing post, no content: https://www.hltv.org/news/37079/joel-sidelined-for-blast-fall-showdown-victory-zigzag-coach-hardwell-to-stand-in
-2023/09/22 07:17:42 Skipping writing post, no content: https://www.hltv.org/news/37080/liquid-send-lynn-vision-to-last-chance-bracket
-2023/09/22 07:17:42 Skipping writing post, no content: https://www.hltv.org/news/37078/blamef-signs-contract-extension-with-astralis-through-2025
-2023/09/22 07:17:42 Templated 173 posts, took 23.217277ms
+2023/09/22 07:27:15 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 333.58453ms
+2023/09/22 07:27:16 Content still empty after HTML reader: https://www.hltv.org/news/37087/msl-announces-retirement
+2023/09/22 07:27:16 Content still empty after HTML reader: https://www.hltv.org/news/37086/g2-move-past-vp-to-earn-epl-playoff-spot
+2023/09/22 07:27:16 Content still empty after HTML reader: https://www.hltv.org/news/37085/eternal-fire-send-9ine-to-last-chance-bracket
+2023/09/22 07:27:16 Content still empty after HTML reader: https://www.hltv.org/news/37084/blast-fall-showdown-schedule-announced
+2023/09/22 07:27:16 Content still empty after HTML reader: https://www.hltv.org/news/37083/complexity-secure-epl-playoff-berth-over-cloud9
+2023/09/22 07:27:16 Content still empty after HTML reader: https://www.hltv.org/news/37082/esl-unveil-2024-calendar-pro-league-shortened
+2023/09/22 07:27:16 Content still empty after HTML reader: https://www.hltv.org/news/37081/ago-returns-with-international-roster
+2023/09/22 07:27:16 Content still empty after HTML reader: https://www.hltv.org/news/37079/joel-sidelined-for-blast-fall-showdown-victory-zigzag-coach-hardwell-to-stand-in
+2023/09/22 07:27:16 Content still empty after HTML reader: https://www.hltv.org/news/37080/liquid-send-lynn-vision-to-last-chance-bracket
+2023/09/22 07:27:16 Content still empty after HTML reader: https://www.hltv.org/news/37078/blamef-signs-contract-extension-with-astralis-through-2025
+2023/09/22 07:27:16 Fetched posts from https://www.hltv.org/rss/news, took 759.58194ms
+2023/09/22 07:27:16 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 789.832834ms
+2023/09/22 07:27:16 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.000747349s
+2023/09/22 07:27:16 Fetched posts from https://vlr.gg/rss, took 1.171409587s
+2023/09/22 07:27:17 Fetched posts from https://blogtienao.com/feed, took 2.215534272s
+2023/09/22 07:27:24 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.525991723s
+2023/09/22 07:27:35 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.643064718s
+2023/09/22 07:27:52 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 36.726841593s
+2023/09/22 07:27:52 Skipping writing post, no content: https://www.hltv.org/news/37087/msl-announces-retirement
+2023/09/22 07:27:52 Skipping writing post, no content: https://www.hltv.org/news/37086/g2-move-past-vp-to-earn-epl-playoff-spot
+2023/09/22 07:27:52 Skipping writing post, no content: https://www.hltv.org/news/37085/eternal-fire-send-9ine-to-last-chance-bracket
+2023/09/22 07:27:52 Skipping writing post, no content: https://www.hltv.org/news/37084/blast-fall-showdown-schedule-announced
+2023/09/22 07:27:52 Skipping writing post, no content: https://www.hltv.org/news/37083/complexity-secure-epl-playoff-berth-over-cloud9
+2023/09/22 07:27:52 Skipping writing post, no content: https://www.hltv.org/news/37082/esl-unveil-2024-calendar-pro-league-shortened
+2023/09/22 07:27:52 Skipping writing post, no content: https://www.hltv.org/news/37081/ago-returns-with-international-roster
+2023/09/22 07:27:52 Skipping writing post, no content: https://www.hltv.org/news/37079/joel-sidelined-for-blast-fall-showdown-victory-zigzag-coach-hardwell-to-stand-in
+2023/09/22 07:27:52 Skipping writing post, no content: https://www.hltv.org/news/37080/liquid-send-lynn-vision-to-last-chance-bracket
+2023/09/22 07:27:52 Skipping writing post, no content: https://www.hltv.org/news/37078/blamef-signs-contract-extension-with-astralis-through-2025
+2023/09/22 07:27:52 Templated 173 posts, took 23.897068ms
