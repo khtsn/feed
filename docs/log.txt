@@ -1,28 +1,30 @@
-2023/09/29 06:47:45 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 267.289809ms
-2023/09/29 06:47:45 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 475.241027ms
-2023/09/29 06:47:46 Content still empty after HTML reader: https://www.hltv.org/news/37150/blast-raise-127m-in-latest-funding-round
-2023/09/29 06:47:46 Content still empty after HTML reader: https://www.hltv.org/news/37148/br0-the-culture-in-monte-is-different-from-the-danish-teams
-2023/09/29 06:47:46 Content still empty after HTML reader: https://www.hltv.org/news/37147/monte-end-vitalitys-17-map-nuke-streak-to-eliminate-them-from-epl
-2023/09/29 06:47:46 Content still empty after HTML reader: https://www.hltv.org/news/37145/alliance-signs-counter-strike-team
-2023/09/29 06:47:46 Content still empty after HTML reader: https://www.hltv.org/news/37144/faceit-launches-new-100000-path-to-pro-as-cs2-becomes-playable-on-its-platform
-2023/09/29 06:47:46 Content still empty after HTML reader: https://www.hltv.org/news/37143/gamerlegion-part-ways-with-nealan
-2023/09/29 06:47:46 Content still empty after HTML reader: https://www.hltv.org/news/37139/what-go-features-are-currently-missing-in-cs2
-2023/09/29 06:47:46 Content still empty after HTML reader: https://www.hltv.org/news/37142/esl-pro-league-quarter-finals-day-1-highlights
-2023/09/29 06:47:46 Content still empty after HTML reader: https://www.hltv.org/news/37141/threat-returns-to-nip-as-general-manager
-2023/09/29 06:47:46 Fetched posts from https://www.hltv.org/rss/news, took 866.794668ms
-2023/09/29 06:47:46 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 991.226674ms
-2023/09/29 06:47:47 Fetched posts from https://vlr.gg/rss, took 2.004275592s
-2023/09/29 06:47:48 Fetched posts from https://blogtienao.com/feed, took 3.223297187s
-2023/09/29 06:47:52 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.680717525s
-2023/09/29 06:48:02 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.158884013s
-2023/09/29 06:48:20 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 35.464363902s
-2023/09/29 06:48:20 Skipping writing post, no content: https://www.hltv.org/news/37150/blast-raise-127m-in-latest-funding-round
-2023/09/29 06:48:20 Skipping writing post, no content: https://www.hltv.org/news/37148/br0-the-culture-in-monte-is-different-from-the-danish-teams
-2023/09/29 06:48:20 Skipping writing post, no content: https://www.hltv.org/news/37147/monte-end-vitalitys-17-map-nuke-streak-to-eliminate-them-from-epl
-2023/09/29 06:48:20 Skipping writing post, no content: https://www.hltv.org/news/37145/alliance-signs-counter-strike-team
-2023/09/29 06:48:20 Skipping writing post, no content: https://www.hltv.org/news/37144/faceit-launches-new-100000-path-to-pro-as-cs2-becomes-playable-on-its-platform
-2023/09/29 06:48:20 Skipping writing post, no content: https://www.hltv.org/news/37143/gamerlegion-part-ways-with-nealan
-2023/09/29 06:48:20 Skipping writing post, no content: https://www.hltv.org/news/37139/what-go-features-are-currently-missing-in-cs2
-2023/09/29 06:48:20 Skipping writing post, no content: https://www.hltv.org/news/37142/esl-pro-league-quarter-finals-day-1-highlights
-2023/09/29 06:48:20 Skipping writing post, no content: https://www.hltv.org/news/37141/threat-returns-to-nip-as-general-manager
-2023/09/29 06:48:20 Templated 166 posts, took 36.600135ms
+2023/09/29 06:58:14 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 223.214919ms
+2023/09/29 06:58:14 Content still empty after HTML reader: https://www.hltv.org/news/37150/blast-raise-127m-in-latest-funding-round
+2023/09/29 06:58:14 Content still empty after HTML reader: https://www.hltv.org/news/37149/navi-end-eternal-fires-cinderella-pro-league-run
+2023/09/29 06:58:14 Content still empty after HTML reader: https://www.hltv.org/news/37148/br0-the-culture-in-monte-is-different-from-the-danish-teams
+2023/09/29 06:58:14 Content still empty after HTML reader: https://www.hltv.org/news/37147/monte-end-vitalitys-17-map-nuke-streak-to-eliminate-them-from-epl
+2023/09/29 06:58:14 Content still empty after HTML reader: https://www.hltv.org/news/37145/alliance-signs-counter-strike-team
+2023/09/29 06:58:14 Content still empty after HTML reader: https://www.hltv.org/news/37144/faceit-launches-new-100000-path-to-pro-as-cs2-becomes-playable-on-its-platform
+2023/09/29 06:58:14 Content still empty after HTML reader: https://www.hltv.org/news/37143/gamerlegion-part-ways-with-nealan
+2023/09/29 06:58:15 Content still empty after HTML reader: https://www.hltv.org/news/37139/what-go-features-are-currently-missing-in-cs2
+2023/09/29 06:58:15 Content still empty after HTML reader: https://www.hltv.org/news/37142/esl-pro-league-quarter-finals-day-1-highlights
+2023/09/29 06:58:15 Content still empty after HTML reader: https://www.hltv.org/news/37141/threat-returns-to-nip-as-general-manager
+2023/09/29 06:58:15 Fetched posts from https://www.hltv.org/rss/news, took 492.285642ms
+2023/09/29 06:58:15 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 780.260397ms
+2023/09/29 06:58:15 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.129306124s
+2023/09/29 06:58:15 Fetched posts from https://vlr.gg/rss, took 1.330602158s
+2023/09/29 06:58:17 Fetched posts from https://blogtienao.com/feed, took 2.678309915s
+2023/09/29 06:58:22 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.015837507s
+2023/09/29 06:58:33 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.951204222s
+2023/09/29 06:58:49 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 35.265788285s
+2023/09/29 06:58:49 Skipping writing post, no content: https://www.hltv.org/news/37150/blast-raise-127m-in-latest-funding-round
+2023/09/29 06:58:49 Skipping writing post, no content: https://www.hltv.org/news/37149/navi-end-eternal-fires-cinderella-pro-league-run
+2023/09/29 06:58:49 Skipping writing post, no content: https://www.hltv.org/news/37148/br0-the-culture-in-monte-is-different-from-the-danish-teams
+2023/09/29 06:58:49 Skipping writing post, no content: https://www.hltv.org/news/37147/monte-end-vitalitys-17-map-nuke-streak-to-eliminate-them-from-epl
+2023/09/29 06:58:49 Skipping writing post, no content: https://www.hltv.org/news/37145/alliance-signs-counter-strike-team
+2023/09/29 06:58:49 Skipping writing post, no content: https://www.hltv.org/news/37144/faceit-launches-new-100000-path-to-pro-as-cs2-becomes-playable-on-its-platform
+2023/09/29 06:58:49 Skipping writing post, no content: https://www.hltv.org/news/37143/gamerlegion-part-ways-with-nealan
+2023/09/29 06:58:49 Skipping writing post, no content: https://www.hltv.org/news/37139/what-go-features-are-currently-missing-in-cs2
+2023/09/29 06:58:49 Skipping writing post, no content: https://www.hltv.org/news/37142/esl-pro-league-quarter-finals-day-1-highlights
+2023/09/29 06:58:49 Skipping writing post, no content: https://www.hltv.org/news/37141/threat-returns-to-nip-as-general-manager
+2023/09/29 06:58:49 Templated 165 posts, took 26.960391ms
