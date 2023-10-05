@@ -1,31 +1,30 @@
-2023/10/05 05:36:09 error parsing https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml: http error: 404 Not Found
-2023/10/05 05:36:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 91.127497ms
-2023/10/05 05:36:10 Content still empty after HTML reader: https://www.hltv.org/news/37200/eg-forsaken-make-jnkping-closed-qualifier
-2023/10/05 05:36:10 Content still empty after HTML reader: https://www.hltv.org/news/37198/favorites-falter-in-esls-first-cs2-qualifier
-2023/10/05 05:36:10 Content still empty after HTML reader: https://www.hltv.org/news/37199/party-astronauts-big-ence-pick-up-wins-in-blast-fall-showdown
-2023/10/05 05:36:10 Content still empty after HTML reader: https://www.hltv.org/news/37196/heroic-bench-cadian-due-to-differing-visions-for-the-future
-2023/10/05 05:36:10 Content still empty after HTML reader: https://www.hltv.org/news/37195/wings-up-reveal-european-signings-with-worst-announcement-ever
-2023/10/05 05:36:10 Content still empty after HTML reader: https://www.hltv.org/news/37187/esl-reveals-stance-on-known-cs2-pixel-boosts
-2023/10/05 05:36:10 Content still empty after HTML reader: https://www.hltv.org/news/37194/apeks-bench-styko-trial-sense
-2023/10/05 05:36:10 Content still empty after HTML reader: https://www.hltv.org/news/37193/dav1deus-steps-down-from-9z
-2023/10/05 05:36:10 Content still empty after HTML reader: https://www.hltv.org/news/37190/blast-showdown-fantasy-games-about-to-start
-2023/10/05 05:36:10 Content still empty after HTML reader: https://www.hltv.org/news/37191/media-imperial-reach-agreement-with-noway
-2023/10/05 05:36:10 Fetched posts from https://www.hltv.org/rss/news, took 440.016014ms
-2023/10/05 05:36:10 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 503.761291ms
-2023/10/05 05:36:10 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 520.022162ms
-2023/10/05 05:36:11 Fetched posts from https://vlr.gg/rss, took 1.912412219s
-2023/10/05 05:36:12 Fetched posts from https://blogtienao.com/feed, took 3.344065546s
-2023/10/05 05:36:17 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.406615317s
-2023/10/05 05:36:26 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.274089909s
-2023/10/05 05:36:40 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 30.734625854s
-2023/10/05 05:36:40 Skipping writing post, no content: https://www.hltv.org/news/37200/eg-forsaken-make-jnkping-closed-qualifier
-2023/10/05 05:36:40 Skipping writing post, no content: https://www.hltv.org/news/37198/favorites-falter-in-esls-first-cs2-qualifier
-2023/10/05 05:36:40 Skipping writing post, no content: https://www.hltv.org/news/37199/party-astronauts-big-ence-pick-up-wins-in-blast-fall-showdown
-2023/10/05 05:36:40 Skipping writing post, no content: https://www.hltv.org/news/37196/heroic-bench-cadian-due-to-differing-visions-for-the-future
-2023/10/05 05:36:40 Skipping writing post, no content: https://www.hltv.org/news/37195/wings-up-reveal-european-signings-with-worst-announcement-ever
-2023/10/05 05:36:40 Skipping writing post, no content: https://www.hltv.org/news/37187/esl-reveals-stance-on-known-cs2-pixel-boosts
-2023/10/05 05:36:40 Skipping writing post, no content: https://www.hltv.org/news/37194/apeks-bench-styko-trial-sense
-2023/10/05 05:36:40 Skipping writing post, no content: https://www.hltv.org/news/37193/dav1deus-steps-down-from-9z
-2023/10/05 05:36:40 Skipping writing post, no content: https://www.hltv.org/news/37190/blast-showdown-fantasy-games-about-to-start
-2023/10/05 05:36:40 Skipping writing post, no content: https://www.hltv.org/news/37191/media-imperial-reach-agreement-with-noway
-2023/10/05 05:36:40 Templated 141 posts, took 30.995584ms
+2023/10/05 05:46:49 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 248.257685ms
+2023/10/05 05:46:50 Content still empty after HTML reader: https://www.hltv.org/news/37200/eg-forsaken-make-jnkping-closed-qualifier
+2023/10/05 05:46:50 Content still empty after HTML reader: https://www.hltv.org/news/37198/favorites-falter-in-esls-first-cs2-qualifier
+2023/10/05 05:46:50 Content still empty after HTML reader: https://www.hltv.org/news/37199/party-astronauts-big-ence-pick-up-wins-in-blast-fall-showdown
+2023/10/05 05:46:50 Content still empty after HTML reader: https://www.hltv.org/news/37196/heroic-bench-cadian-due-to-differing-visions-for-the-future
+2023/10/05 05:46:50 Content still empty after HTML reader: https://www.hltv.org/news/37195/wings-up-reveal-european-signings-with-worst-announcement-ever
+2023/10/05 05:46:50 Content still empty after HTML reader: https://www.hltv.org/news/37187/esl-reveals-stance-on-known-cs2-pixel-boosts
+2023/10/05 05:46:50 Content still empty after HTML reader: https://www.hltv.org/news/37194/apeks-bench-styko-trial-sense
+2023/10/05 05:46:50 Content still empty after HTML reader: https://www.hltv.org/news/37193/dav1deus-steps-down-from-9z
+2023/10/05 05:46:50 Content still empty after HTML reader: https://www.hltv.org/news/37190/blast-showdown-fantasy-games-about-to-start
+2023/10/05 05:46:50 Content still empty after HTML reader: https://www.hltv.org/news/37191/media-imperial-reach-agreement-with-noway
+2023/10/05 05:46:50 Fetched posts from https://www.hltv.org/rss/news, took 816.909619ms
+2023/10/05 05:46:50 Fetched posts from https://vlr.gg/rss, took 874.886286ms
+2023/10/05 05:46:50 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 925.165632ms
+2023/10/05 05:46:50 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.105212134s
+2023/10/05 05:46:51 Fetched posts from https://blogtienao.com/feed, took 2.193391611s
+2023/10/05 05:46:58 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 9.229753947s
+2023/10/05 05:47:10 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.547810317s
+2023/10/05 05:47:26 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 37.485543722s
+2023/10/05 05:47:26 Skipping writing post, no content: https://www.hltv.org/news/37200/eg-forsaken-make-jnkping-closed-qualifier
+2023/10/05 05:47:26 Skipping writing post, no content: https://www.hltv.org/news/37198/favorites-falter-in-esls-first-cs2-qualifier
+2023/10/05 05:47:26 Skipping writing post, no content: https://www.hltv.org/news/37199/party-astronauts-big-ence-pick-up-wins-in-blast-fall-showdown
+2023/10/05 05:47:26 Skipping writing post, no content: https://www.hltv.org/news/37196/heroic-bench-cadian-due-to-differing-visions-for-the-future
+2023/10/05 05:47:26 Skipping writing post, no content: https://www.hltv.org/news/37195/wings-up-reveal-european-signings-with-worst-announcement-ever
+2023/10/05 05:47:26 Skipping writing post, no content: https://www.hltv.org/news/37187/esl-reveals-stance-on-known-cs2-pixel-boosts
+2023/10/05 05:47:26 Skipping writing post, no content: https://www.hltv.org/news/37194/apeks-bench-styko-trial-sense
+2023/10/05 05:47:26 Skipping writing post, no content: https://www.hltv.org/news/37193/dav1deus-steps-down-from-9z
+2023/10/05 05:47:26 Skipping writing post, no content: https://www.hltv.org/news/37190/blast-showdown-fantasy-games-about-to-start
+2023/10/05 05:47:26 Skipping writing post, no content: https://www.hltv.org/news/37191/media-imperial-reach-agreement-with-noway
+2023/10/05 05:47:26 Templated 166 posts, took 31.724611ms
