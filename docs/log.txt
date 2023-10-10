@@ -1,29 +1,30 @@
-2023/10/10 19:06:45 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 177.91857ms
-2023/10/10 19:06:45 Content still empty after HTML reader: https://www.hltv.org/news/37146/who-is-csgos-greatest-ever-player
-2023/10/10 19:06:45 Content still empty after HTML reader: https://www.hltv.org/news/37222/elige-leaving-liquid-had-nothing-to-do-with-being-based-in-europe
-2023/10/10 19:06:45 Content still empty after HTML reader: https://www.hltv.org/news/37223/fame-signs-four-year-extension-with-virtuspro
-2023/10/10 19:06:45 Content still empty after HTML reader: https://www.hltv.org/news/37221/csgo-remains-available-on-steam-in-frozen-build
-2023/10/10 19:06:45 Content still empty after HTML reader: https://www.hltv.org/news/37220/rare-atom-signs-new-lineup-with-european-duo
-2023/10/10 19:06:45 Content still empty after HTML reader: https://www.hltv.org/news/37217/how-can-heroic-replace-cadian
-2023/10/10 19:06:45 Content still empty after HTML reader: https://www.hltv.org/news/37219/complexity-withdraw-from-esl-jnkping-na-closed-qualifier
-2023/10/10 19:06:45 Content still empty after HTML reader: https://www.hltv.org/news/37218/elige-on-hltv-confirmed-leaving-liquid-joining-complexity-preparing-for-cs2
-2023/10/10 19:06:45 Content still empty after HTML reader: https://www.hltv.org/news/37215/cloud9-qualify-for-blast-fall-final-over-big
-2023/10/10 19:06:45 Fetched posts from https://www.hltv.org/rss/news, took 550.128133ms
-2023/10/10 19:06:45 Fetched posts from https://vlr.gg/rss, took 658.514687ms
-2023/10/10 19:06:45 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 789.126735ms
-2023/10/10 19:06:46 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.187714329s
-2023/10/10 19:06:47 Fetched posts from https://blogtienao.com/feed, took 2.27764386s
-2023/10/10 19:06:54 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.934109519s
-2023/10/10 19:07:01 error parsing https://cdn.24h.com.vn/upload/rss/bongda.rss: Get "https://cdn.24h.com.vn/upload/rss/bongda.rss": net/http: TLS handshake timeout
-2023/10/10 19:07:01 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.371192169s
-2023/10/10 19:07:27 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 42.509075096s
-2023/10/10 19:07:27 Skipping writing post, no content: https://www.hltv.org/news/37146/who-is-csgos-greatest-ever-player
-2023/10/10 19:07:27 Skipping writing post, no content: https://www.hltv.org/news/37222/elige-leaving-liquid-had-nothing-to-do-with-being-based-in-europe
-2023/10/10 19:07:27 Skipping writing post, no content: https://www.hltv.org/news/37223/fame-signs-four-year-extension-with-virtuspro
-2023/10/10 19:07:27 Skipping writing post, no content: https://www.hltv.org/news/37221/csgo-remains-available-on-steam-in-frozen-build
-2023/10/10 19:07:27 Skipping writing post, no content: https://www.hltv.org/news/37220/rare-atom-signs-new-lineup-with-european-duo
-2023/10/10 19:07:27 Skipping writing post, no content: https://www.hltv.org/news/37217/how-can-heroic-replace-cadian
-2023/10/10 19:07:27 Skipping writing post, no content: https://www.hltv.org/news/37219/complexity-withdraw-from-esl-jnkping-na-closed-qualifier
-2023/10/10 19:07:27 Skipping writing post, no content: https://www.hltv.org/news/37218/elige-on-hltv-confirmed-leaving-liquid-joining-complexity-preparing-for-cs2
-2023/10/10 19:07:27 Skipping writing post, no content: https://www.hltv.org/news/37215/cloud9-qualify-for-blast-fall-final-over-big
-2023/10/10 19:07:27 Templated 145 posts, took 24.061957ms
+2023/10/10 19:17:31 Content still empty after HTML reader: https://www.hltv.org/news/37146/who-is-csgos-greatest-ever-player
+2023/10/10 19:17:31 Content still empty after HTML reader: https://www.hltv.org/news/37222/elige-leaving-liquid-had-nothing-to-do-with-being-based-in-europe
+2023/10/10 19:17:31 Content still empty after HTML reader: https://www.hltv.org/news/37223/fame-signs-four-year-extension-with-virtuspro
+2023/10/10 19:17:31 Content still empty after HTML reader: https://www.hltv.org/news/37221/csgo-remains-available-on-steam-in-frozen-build
+2023/10/10 19:17:31 Content still empty after HTML reader: https://www.hltv.org/news/37220/rare-atom-signs-new-lineup-with-european-duo
+2023/10/10 19:17:31 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 265.426416ms
+2023/10/10 19:17:31 Content still empty after HTML reader: https://www.hltv.org/news/37217/how-can-heroic-replace-cadian
+2023/10/10 19:17:31 Content still empty after HTML reader: https://www.hltv.org/news/37219/complexity-withdraw-from-esl-jnkping-na-closed-qualifier
+2023/10/10 19:17:31 Content still empty after HTML reader: https://www.hltv.org/news/37218/elige-on-hltv-confirmed-leaving-liquid-joining-complexity-preparing-for-cs2
+2023/10/10 19:17:31 Content still empty after HTML reader: https://www.hltv.org/news/37216/complexity-smash-liquid-to-earn-last-blast-fall-final-spot
+2023/10/10 19:17:31 Content still empty after HTML reader: https://www.hltv.org/news/37215/cloud9-qualify-for-blast-fall-final-over-big
+2023/10/10 19:17:31 Fetched posts from https://www.hltv.org/rss/news, took 340.393539ms
+2023/10/10 19:17:31 Fetched posts from https://vlr.gg/rss, took 578.07815ms
+2023/10/10 19:17:31 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 661.111262ms
+2023/10/10 19:17:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.217965979s
+2023/10/10 19:17:33 Fetched posts from https://blogtienao.com/feed, took 2.272659465s
+2023/10/10 19:17:40 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.919490973s
+2023/10/10 19:17:48 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.851058113s
+2023/10/10 19:18:10 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 39.544234386s
+2023/10/10 19:18:10 Skipping writing post, no content: https://www.hltv.org/news/37146/who-is-csgos-greatest-ever-player
+2023/10/10 19:18:10 Skipping writing post, no content: https://www.hltv.org/news/37222/elige-leaving-liquid-had-nothing-to-do-with-being-based-in-europe
+2023/10/10 19:18:10 Skipping writing post, no content: https://www.hltv.org/news/37223/fame-signs-four-year-extension-with-virtuspro
+2023/10/10 19:18:10 Skipping writing post, no content: https://www.hltv.org/news/37221/csgo-remains-available-on-steam-in-frozen-build
+2023/10/10 19:18:10 Skipping writing post, no content: https://www.hltv.org/news/37220/rare-atom-signs-new-lineup-with-european-duo
+2023/10/10 19:18:10 Skipping writing post, no content: https://www.hltv.org/news/37217/how-can-heroic-replace-cadian
+2023/10/10 19:18:10 Skipping writing post, no content: https://www.hltv.org/news/37219/complexity-withdraw-from-esl-jnkping-na-closed-qualifier
+2023/10/10 19:18:10 Skipping writing post, no content: https://www.hltv.org/news/37218/elige-on-hltv-confirmed-leaving-liquid-joining-complexity-preparing-for-cs2
+2023/10/10 19:18:10 Skipping writing post, no content: https://www.hltv.org/news/37216/complexity-smash-liquid-to-earn-last-blast-fall-final-spot
+2023/10/10 19:18:10 Skipping writing post, no content: https://www.hltv.org/news/37215/cloud9-qualify-for-blast-fall-final-over-big
+2023/10/10 19:18:10 Templated 169 posts, took 25.288759ms
