@@ -1,30 +1,32 @@
-2023/10/12 06:46:39 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 248.562211ms
-2023/10/12 06:46:39 Content still empty after HTML reader: https://www.hltv.org/news/37230/nouns-beat-eg-to-qualify-for-esl-jnkping
-2023/10/12 06:46:39 Content still empty after HTML reader: https://www.hltv.org/news/37229/media-huasopeek-to-replace-dav1deus-in-9z
-2023/10/12 06:46:39 Content still empty after HTML reader: https://www.hltv.org/news/37227/looking4org-qualify-for-esl-challenger-jnkping
-2023/10/12 06:46:39 Content still empty after HTML reader: https://www.hltv.org/news/37228/nip-alliance-invited-to-svenska-cupen-2023
-2023/10/12 06:46:39 Content still empty after HTML reader: https://www.hltv.org/news/37226/vitality-bid-farewell-to-zonic-lars-robl
-2023/10/12 06:46:39 Content still empty after HTML reader: https://www.hltv.org/news/37225/thunderpick-world-championship-team-list-finalized
-2023/10/12 06:46:39 Content still empty after HTML reader: https://www.hltv.org/news/37146/who-is-csgos-greatest-ever-player
-2023/10/12 06:46:39 Content still empty after HTML reader: https://www.hltv.org/news/37222/elige-leaving-liquid-had-nothing-to-do-with-being-based-in-europe
-2023/10/12 06:46:39 Content still empty after HTML reader: https://www.hltv.org/news/37223/fame-signs-four-year-extension-with-virtuspro
-2023/10/12 06:46:39 Content still empty after HTML reader: https://www.hltv.org/news/37221/csgo-remains-available-on-steam-in-frozen-build
-2023/10/12 06:46:39 Fetched posts from https://www.hltv.org/rss/news, took 390.950104ms
-2023/10/12 06:46:39 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 933.138319ms
-2023/10/12 06:46:39 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.003204762s
-2023/10/12 06:46:40 Fetched posts from https://vlr.gg/rss, took 1.478213739s
-2023/10/12 06:46:44 Fetched posts from https://blogtienao.com/feed, took 6.028772314s
-2023/10/12 06:46:46 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.870672593s
-2023/10/12 06:46:54 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.286508795s
-2023/10/12 06:47:14 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 35.453767173s
-2023/10/12 06:47:14 Skipping writing post, no content: https://www.hltv.org/news/37230/nouns-beat-eg-to-qualify-for-esl-jnkping
-2023/10/12 06:47:14 Skipping writing post, no content: https://www.hltv.org/news/37229/media-huasopeek-to-replace-dav1deus-in-9z
-2023/10/12 06:47:14 Skipping writing post, no content: https://www.hltv.org/news/37227/looking4org-qualify-for-esl-challenger-jnkping
-2023/10/12 06:47:14 Skipping writing post, no content: https://www.hltv.org/news/37228/nip-alliance-invited-to-svenska-cupen-2023
-2023/10/12 06:47:14 Skipping writing post, no content: https://www.hltv.org/news/37226/vitality-bid-farewell-to-zonic-lars-robl
-2023/10/12 06:47:14 Skipping writing post, no content: https://www.hltv.org/news/37225/thunderpick-world-championship-team-list-finalized
-2023/10/12 06:47:14 Skipping writing post, no content: https://www.hltv.org/news/37146/who-is-csgos-greatest-ever-player
-2023/10/12 06:47:14 Skipping writing post, no content: https://www.hltv.org/news/37222/elige-leaving-liquid-had-nothing-to-do-with-being-based-in-europe
-2023/10/12 06:47:14 Skipping writing post, no content: https://www.hltv.org/news/37223/fame-signs-four-year-extension-with-virtuspro
-2023/10/12 06:47:14 Skipping writing post, no content: https://www.hltv.org/news/37221/csgo-remains-available-on-steam-in-frozen-build
-2023/10/12 06:47:14 Templated 169 posts, took 34.063661ms
+2023/10/12 06:57:12 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 156.727847ms
+2023/10/12 06:57:12 Content still empty after HTML reader: https://www.hltv.org/news/37230/nouns-beat-eg-to-qualify-for-esl-jnkping
+2023/10/12 06:57:12 Content still empty after HTML reader: https://www.hltv.org/news/37229/media-huasopeek-to-replace-dav1deus-in-9z
+2023/10/12 06:57:12 Content still empty after HTML reader: https://www.hltv.org/news/37227/looking4org-qualify-for-esl-challenger-jnkping
+2023/10/12 06:57:12 Content still empty after HTML reader: https://www.hltv.org/news/37228/nip-alliance-invited-to-svenska-cupen-2023
+2023/10/12 06:57:12 Content still empty after HTML reader: https://www.hltv.org/news/37226/vitality-bid-farewell-to-zonic-lars-robl
+2023/10/12 06:57:12 Content still empty after HTML reader: https://www.hltv.org/news/37225/thunderpick-world-championship-team-list-finalized
+2023/10/12 06:57:12 Content still empty after HTML reader: https://www.hltv.org/news/37146/who-is-csgos-greatest-ever-player
+2023/10/12 06:57:12 Content still empty after HTML reader: https://www.hltv.org/news/37222/elige-leaving-liquid-had-nothing-to-do-with-being-based-in-europe
+2023/10/12 06:57:12 Content still empty after HTML reader: https://www.hltv.org/news/37223/fame-signs-four-year-extension-with-virtuspro
+2023/10/12 06:57:12 Content still empty after HTML reader: https://www.nytimes.com/2023/10/11/magazine/usher-rnb.html
+2023/10/12 06:57:12 Content still empty after HTML reader: https://www.hltv.org/news/37221/csgo-remains-available-on-steam-in-frozen-build
+2023/10/12 06:57:12 Fetched posts from https://www.hltv.org/rss/news, took 388.693768ms
+2023/10/12 06:57:13 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 797.019143ms
+2023/10/12 06:57:13 Fetched posts from https://vlr.gg/rss, took 937.173331ms
+2023/10/12 06:57:13 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 1.31181498s
+2023/10/12 06:57:14 Fetched posts from https://blogtienao.com/feed, took 2.185701607s
+2023/10/12 06:57:21 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 8.799479142s
+2023/10/12 06:57:29 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.022875805s
+2023/10/12 06:57:54 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 41.930448522s
+2023/10/12 06:57:54 Skipping writing post, no content: https://www.hltv.org/news/37230/nouns-beat-eg-to-qualify-for-esl-jnkping
+2023/10/12 06:57:54 Skipping writing post, no content: https://www.hltv.org/news/37229/media-huasopeek-to-replace-dav1deus-in-9z
+2023/10/12 06:57:54 Skipping writing post, no content: https://www.hltv.org/news/37227/looking4org-qualify-for-esl-challenger-jnkping
+2023/10/12 06:57:54 Skipping writing post, no content: https://www.hltv.org/news/37228/nip-alliance-invited-to-svenska-cupen-2023
+2023/10/12 06:57:54 Skipping writing post, no content: https://www.nytimes.com/2023/10/11/magazine/usher-rnb.html
+2023/10/12 06:57:54 Skipping writing post, no content: https://www.hltv.org/news/37226/vitality-bid-farewell-to-zonic-lars-robl
+2023/10/12 06:57:54 Skipping writing post, no content: https://www.hltv.org/news/37225/thunderpick-world-championship-team-list-finalized
+2023/10/12 06:57:54 Skipping writing post, no content: https://www.hltv.org/news/37146/who-is-csgos-greatest-ever-player
+2023/10/12 06:57:54 Skipping writing post, no content: https://www.hltv.org/news/37222/elige-leaving-liquid-had-nothing-to-do-with-being-based-in-europe
+2023/10/12 06:57:54 Skipping writing post, no content: https://www.hltv.org/news/37223/fame-signs-four-year-extension-with-virtuspro
+2023/10/12 06:57:54 Skipping writing post, no content: https://www.hltv.org/news/37221/csgo-remains-available-on-steam-in-frozen-build
+2023/10/12 06:57:54 Templated 169 posts, took 24.127808ms
