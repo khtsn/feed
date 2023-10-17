@@ -1,28 +1,30 @@
-2023/10/17 22:07:35 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 242.992637ms
-2023/10/17 22:07:35 Content still empty after HTML reader: https://www.hltv.org/news/37272/video-sense-clutches-1v5-vs-gamerlegion
-2023/10/17 22:07:35 Content still empty after HTML reader: https://www.hltv.org/news/37271/twistzz-i-think-pros-need-to-be-doing-a-way-better-job-at-leading-by-example
-2023/10/17 22:07:35 Content still empty after HTML reader: https://www.hltv.org/news/37270/faze-eliminate-navi-from-iem-sydney
-2023/10/17 22:07:35 Content still empty after HTML reader: https://www.hltv.org/news/37269/gamerlegion-eliminate-apeks-from-iem-sydney
-2023/10/17 22:07:35 Content still empty after HTML reader: https://www.hltv.org/news/37265/niko-i-dont-feel-the-best-individually-right-now-in-cs2
-2023/10/17 22:07:35 Content still empty after HTML reader: https://www.hltv.org/news/37267/ence-secure-playoffs-over-fnatic
-2023/10/17 22:07:35 Content still empty after HTML reader: https://www.hltv.org/news/37266/electronic-stars-as-cloud9-send-lynn-vision-home
-2023/10/17 22:07:35 Content still empty after HTML reader: https://www.hltv.org/news/37264/monte-eliminate-hometown-squad-grayhound
-2023/10/17 22:07:35 Content still empty after HTML reader: https://www.hltv.org/news/37263/g2-move-into-playoffs-over-complexity
-2023/10/17 22:07:35 Fetched posts from https://www.hltv.org/rss/news, took 502.037171ms
-2023/10/17 22:07:35 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 774.841384ms
-2023/10/17 22:07:36 Fetched posts from https://vlr.gg/rss, took 1.434691073s
-2023/10/17 22:07:36 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.515823292s
-2023/10/17 22:07:37 Fetched posts from https://blogtienao.com/feed, took 2.681059216s
-2023/10/17 22:07:43 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 7.970049867s
-2023/10/17 22:07:52 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.862751649s
-2023/10/17 22:08:10 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 35.241206831s
-2023/10/17 22:08:10 Skipping writing post, no content: https://www.hltv.org/news/37272/video-sense-clutches-1v5-vs-gamerlegion
-2023/10/17 22:08:10 Skipping writing post, no content: https://www.hltv.org/news/37271/twistzz-i-think-pros-need-to-be-doing-a-way-better-job-at-leading-by-example
-2023/10/17 22:08:10 Skipping writing post, no content: https://www.hltv.org/news/37270/faze-eliminate-navi-from-iem-sydney
-2023/10/17 22:08:10 Skipping writing post, no content: https://www.hltv.org/news/37269/gamerlegion-eliminate-apeks-from-iem-sydney
-2023/10/17 22:08:10 Skipping writing post, no content: https://www.hltv.org/news/37265/niko-i-dont-feel-the-best-individually-right-now-in-cs2
-2023/10/17 22:08:10 Skipping writing post, no content: https://www.hltv.org/news/37267/ence-secure-playoffs-over-fnatic
-2023/10/17 22:08:10 Skipping writing post, no content: https://www.hltv.org/news/37266/electronic-stars-as-cloud9-send-lynn-vision-home
-2023/10/17 22:08:10 Skipping writing post, no content: https://www.hltv.org/news/37264/monte-eliminate-hometown-squad-grayhound
-2023/10/17 22:08:10 Skipping writing post, no content: https://www.hltv.org/news/37263/g2-move-into-playoffs-over-complexity
-2023/10/17 22:08:10 Templated 174 posts, took 33.926318ms
+2023/10/17 22:25:46 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 147.338028ms
+2023/10/17 22:25:46 Content still empty after HTML reader: https://www.hltv.org/news/37272/video-sense-clutches-1v5-vs-gamerlegion
+2023/10/17 22:25:46 Content still empty after HTML reader: https://www.hltv.org/news/37271/twistzz-i-think-pros-need-to-be-doing-a-way-better-job-at-leading-by-example
+2023/10/17 22:25:46 Content still empty after HTML reader: https://www.hltv.org/news/37268/snappi-mr12-is-a-horrible-tactical-change-and-it-dumbs-down-counter-strike
+2023/10/17 22:25:46 Content still empty after HTML reader: https://www.hltv.org/news/37270/faze-eliminate-navi-from-iem-sydney
+2023/10/17 22:25:46 Content still empty after HTML reader: https://www.hltv.org/news/37269/gamerlegion-eliminate-apeks-from-iem-sydney
+2023/10/17 22:25:46 Content still empty after HTML reader: https://www.hltv.org/news/37265/niko-i-dont-feel-the-best-individually-right-now-in-cs2
+2023/10/17 22:25:46 Content still empty after HTML reader: https://www.hltv.org/news/37267/ence-secure-playoffs-over-fnatic
+2023/10/17 22:25:46 Content still empty after HTML reader: https://www.hltv.org/news/37266/electronic-stars-as-cloud9-send-lynn-vision-home
+2023/10/17 22:25:46 Content still empty after HTML reader: https://www.hltv.org/news/37264/monte-eliminate-hometown-squad-grayhound
+2023/10/17 22:25:46 Content still empty after HTML reader: https://www.hltv.org/news/37263/g2-move-into-playoffs-over-complexity
+2023/10/17 22:25:46 Fetched posts from https://www.hltv.org/rss/news, took 410.783548ms
+2023/10/17 22:25:47 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 564.370783ms
+2023/10/17 22:25:47 Fetched posts from https://vlr.gg/rss, took 744.120667ms
+2023/10/17 22:25:47 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 871.502152ms
+2023/10/17 22:25:48 Fetched posts from https://blogtienao.com/feed, took 2.242870782s
+2023/10/17 22:25:56 Fetched posts from https://tuoitre.vn/rss/thoi-su.rss, took 9.703433201s
+2023/10/17 22:26:02 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.495523313s
+2023/10/17 22:26:25 Fetched posts from https://vnexpress.net/rss/tin-moi-nhat.rss, took 39.353253706s
+2023/10/17 22:26:25 Skipping writing post, no content: https://www.hltv.org/news/37272/video-sense-clutches-1v5-vs-gamerlegion
+2023/10/17 22:26:25 Skipping writing post, no content: https://www.hltv.org/news/37271/twistzz-i-think-pros-need-to-be-doing-a-way-better-job-at-leading-by-example
+2023/10/17 22:26:25 Skipping writing post, no content: https://www.hltv.org/news/37268/snappi-mr12-is-a-horrible-tactical-change-and-it-dumbs-down-counter-strike
+2023/10/17 22:26:25 Skipping writing post, no content: https://www.hltv.org/news/37270/faze-eliminate-navi-from-iem-sydney
+2023/10/17 22:26:25 Skipping writing post, no content: https://www.hltv.org/news/37269/gamerlegion-eliminate-apeks-from-iem-sydney
+2023/10/17 22:26:25 Skipping writing post, no content: https://www.hltv.org/news/37265/niko-i-dont-feel-the-best-individually-right-now-in-cs2
+2023/10/17 22:26:25 Skipping writing post, no content: https://www.hltv.org/news/37267/ence-secure-playoffs-over-fnatic
+2023/10/17 22:26:25 Skipping writing post, no content: https://www.hltv.org/news/37266/electronic-stars-as-cloud9-send-lynn-vision-home
+2023/10/17 22:26:25 Skipping writing post, no content: https://www.hltv.org/news/37264/monte-eliminate-hometown-squad-grayhound
+2023/10/17 22:26:25 Skipping writing post, no content: https://www.hltv.org/news/37263/g2-move-into-playoffs-over-complexity
+2023/10/17 22:26:25 Templated 174 posts, took 25.271983ms
