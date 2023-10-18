@@ -56,14 +56,14 @@ var (
 		"https://blogtienao.com/feed",
 	}
 
-	relevantDuration = 7 * 24 * time.Hour
+	relevantDuration = 3 * 24 * time.Hour
 
 	outputDir  = "docs" // So we can host the site on GitHub Pages
 	outputFile = "index.html"
 	logFile    = path.Join(outputDir, "log.txt")
 
 	// Error out if fetching feeds takes longer than a minute
-	timeout = time.Minute * 10
+	timeout = time.Minute * 5
 )
 
 var blocklist = map[string]bool{
