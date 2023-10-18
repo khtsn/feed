@@ -48,8 +48,6 @@ type Post struct {
 var (
 	feeds = []string{
 		"https://cdn.24h.com.vn/upload/rss/bongda.rss",
-		"https://vnexpress.net/rss/tin-moi-nhat.rss",
-		"https://tuoitre.vn/rss/thoi-su.rss",
 		"https://www.hltv.org/rss/news",
 		"http://rss.cnn.com/rss/cnn_topstories.rss",
 		"https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
