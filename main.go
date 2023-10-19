@@ -47,6 +47,7 @@ type Post struct {
 
 var (
 	feeds = []string{
+		"http://www.bbc.co.uk/vietnamese/index.xml",
 		"https://cdn.24h.com.vn/upload/rss/bongda.rss",
 		"https://www.hltv.org/rss/news",
 		"http://rss.cnn.com/rss/cnn_topstories.rss",
