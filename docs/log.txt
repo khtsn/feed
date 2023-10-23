@@ -1,31 +1,33 @@
-2023/10/23 05:28:41 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 254.819531ms
-2023/10/23 05:28:41 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 542.384579ms
-2023/10/23 05:28:41 Fetched posts from https://vlr.gg/rss, took 670.253158ms
-2023/10/23 05:28:41 Content still empty after HTML reader: https://www.hltv.org/news/37313/media-liquid-set-to-sign-twistzz
-2023/10/23 05:28:41 Content still empty after HTML reader: https://www.hltv.org/news/37311/new-team-announced-featuring-dav1g-xfl0ud
-2023/10/23 05:28:41 Content still empty after HTML reader: https://www.hltv.org/news/37309/rain-cs2-gave-me-a-fresh-perspective-of-the-game
-2023/10/23 05:28:41 Content still empty after HTML reader: https://www.hltv.org/news/37310/rain-clinches-iem-sydney-mvp
-2023/10/23 05:28:41 Content still empty after HTML reader: https://www.hltv.org/news/37308/faze-claim-iem-sydney-trophy-in-thriller-against-complexity
-2023/10/23 05:28:41 Content still empty after HTML reader: https://www.hltv.org/news/37306/live-updates-from-iem-sydney-grand-final
-2023/10/23 05:28:41 Content still empty after HTML reader: https://www.hltv.org/news/37307/media-zews-joins-liquid-agreement-reached-for-skullz
-2023/10/23 05:28:41 Content still empty after HTML reader: https://www.hltv.org/news/37305/media-liquid-to-part-ways-with-daps
-2023/10/23 05:28:41 Content still empty after HTML reader: https://www.hltv.org/news/37304/video-pros-compare-online-vs-lan-in-cs2
-2023/10/23 05:28:41 Content still empty after HTML reader: https://www.hltv.org/news/37303/faze-beat-mouz-to-qualify-for-sydney-grand-final
-2023/10/23 05:28:41 Fetched posts from https://www.hltv.org/rss/news, took 870.313857ms
-2023/10/23 05:28:42 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 953.760791ms
-2023/10/23 05:28:42 Content still empty after HTML reader: https://www.bbc.com/vietnamese/articles/ce7jj2p49y5o
-2023/10/23 05:28:42 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.389400084s
-2023/10/23 05:28:43 Fetched posts from https://blogtienao.com/feed, took 2.829943963s
-2023/10/23 05:28:55 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.117306868s
-2023/10/23 05:28:55 Skipping writing post, no content: https://www.hltv.org/news/37313/media-liquid-set-to-sign-twistzz
-2023/10/23 05:28:55 Skipping writing post, no content: https://www.hltv.org/news/37311/new-team-announced-featuring-dav1g-xfl0ud
-2023/10/23 05:28:55 Skipping writing post, no content: https://www.hltv.org/news/37309/rain-cs2-gave-me-a-fresh-perspective-of-the-game
-2023/10/23 05:28:55 Skipping writing post, no content: https://www.hltv.org/news/37310/rain-clinches-iem-sydney-mvp
-2023/10/23 05:28:55 Skipping writing post, no content: https://www.hltv.org/news/37308/faze-claim-iem-sydney-trophy-in-thriller-against-complexity
-2023/10/23 05:28:55 Skipping writing post, no content: https://www.hltv.org/news/37306/live-updates-from-iem-sydney-grand-final
-2023/10/23 05:28:55 Skipping writing post, no content: https://www.hltv.org/news/37307/media-zews-joins-liquid-agreement-reached-for-skullz
-2023/10/23 05:28:55 Skipping writing post, no content: https://www.hltv.org/news/37305/media-liquid-to-part-ways-with-daps
-2023/10/23 05:28:55 Skipping writing post, no content: https://www.hltv.org/news/37304/video-pros-compare-online-vs-lan-in-cs2
-2023/10/23 05:28:55 Skipping writing post, no content: https://www.hltv.org/news/37303/faze-beat-mouz-to-qualify-for-sydney-grand-final
-2023/10/23 05:28:55 Skipping writing post, no content: https://www.bbc.com/vietnamese/articles/ce7jj2p49y5o
-2023/10/23 05:28:55 Templated 84 posts, took 11.129681ms
+2023/10/23 05:40:27 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 149.785704ms
+2023/10/23 05:40:27 Content still empty after HTML reader: https://www.hltv.org/news/37313/media-liquid-set-to-sign-twistzz
+2023/10/23 05:40:27 Content still empty after HTML reader: https://www.hltv.org/news/37311/new-team-announced-featuring-dav1g-xfl0ud
+2023/10/23 05:40:27 Content still empty after HTML reader: https://www.hltv.org/news/37309/rain-cs2-gave-me-a-fresh-perspective-of-the-game
+2023/10/23 05:40:27 Fetched posts from https://vlr.gg/rss, took 377.028067ms
+2023/10/23 05:40:27 Content still empty after HTML reader: https://www.hltv.org/news/37310/rain-clinches-iem-sydney-mvp
+2023/10/23 05:40:27 Content still empty after HTML reader: https://www.hltv.org/news/37308/faze-claim-iem-sydney-trophy-in-thriller-against-complexity
+2023/10/23 05:40:27 Content still empty after HTML reader: https://www.nytimes.com/2023/10/22/movies/martin-scorsese-killers-of-the-flower-moon-violence.html
+2023/10/23 05:40:27 Content still empty after HTML reader: https://www.hltv.org/news/37306/live-updates-from-iem-sydney-grand-final
+2023/10/23 05:40:27 Content still empty after HTML reader: https://www.hltv.org/news/37307/media-zews-joins-liquid-agreement-reached-for-skullz
+2023/10/23 05:40:27 Content still empty after HTML reader: https://www.hltv.org/news/37305/media-liquid-to-part-ways-with-daps
+2023/10/23 05:40:27 Content still empty after HTML reader: https://www.hltv.org/news/37304/video-pros-compare-online-vs-lan-in-cs2
+2023/10/23 05:40:27 Content still empty after HTML reader: https://www.hltv.org/news/37303/faze-beat-mouz-to-qualify-for-sydney-grand-final
+2023/10/23 05:40:27 Fetched posts from https://www.hltv.org/rss/news, took 431.74021ms
+2023/10/23 05:40:27 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 490.712251ms
+2023/10/23 05:40:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 549.709492ms
+2023/10/23 05:40:28 Content still empty after HTML reader: https://www.bbc.com/vietnamese/articles/ce7jj2p49y5o
+2023/10/23 05:40:28 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.064654393s
+2023/10/23 05:40:29 Fetched posts from https://blogtienao.com/feed, took 2.161228611s
+2023/10/23 05:40:46 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.989403889s
+2023/10/23 05:40:46 Skipping writing post, no content: https://www.hltv.org/news/37313/media-liquid-set-to-sign-twistzz
+2023/10/23 05:40:46 Skipping writing post, no content: https://www.hltv.org/news/37311/new-team-announced-featuring-dav1g-xfl0ud
+2023/10/23 05:40:46 Skipping writing post, no content: https://www.hltv.org/news/37309/rain-cs2-gave-me-a-fresh-perspective-of-the-game
+2023/10/23 05:40:46 Skipping writing post, no content: https://www.hltv.org/news/37310/rain-clinches-iem-sydney-mvp
+2023/10/23 05:40:46 Skipping writing post, no content: https://www.hltv.org/news/37308/faze-claim-iem-sydney-trophy-in-thriller-against-complexity
+2023/10/23 05:40:46 Skipping writing post, no content: https://www.nytimes.com/2023/10/22/movies/martin-scorsese-killers-of-the-flower-moon-violence.html
+2023/10/23 05:40:46 Skipping writing post, no content: https://www.hltv.org/news/37306/live-updates-from-iem-sydney-grand-final
+2023/10/23 05:40:46 Skipping writing post, no content: https://www.hltv.org/news/37307/media-zews-joins-liquid-agreement-reached-for-skullz
+2023/10/23 05:40:46 Skipping writing post, no content: https://www.hltv.org/news/37305/media-liquid-to-part-ways-with-daps
+2023/10/23 05:40:46 Skipping writing post, no content: https://www.hltv.org/news/37304/video-pros-compare-online-vs-lan-in-cs2
+2023/10/23 05:40:46 Skipping writing post, no content: https://www.hltv.org/news/37303/faze-beat-mouz-to-qualify-for-sydney-grand-final
+2023/10/23 05:40:46 Skipping writing post, no content: https://www.bbc.com/vietnamese/articles/ce7jj2p49y5o
+2023/10/23 05:40:46 Templated 85 posts, took 11.396346ms
