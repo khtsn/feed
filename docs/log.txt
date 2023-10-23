@@ -1,29 +1,31 @@
-2023/10/23 22:14:50 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 382.431824ms
-2023/10/23 22:14:50 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 439.296915ms
-2023/10/23 22:14:50 Content still empty after HTML reader: https://www.hltv.org/news/37318/monte-replace-liquid-at-thunderpick-world-championship
-2023/10/23 22:14:50 Content still empty after HTML reader: https://www.hltv.org/news/37197/heroic-sign-dupreeh-until-the-end-of-2023
-2023/10/23 22:14:50 Content still empty after HTML reader: https://www.hltv.org/news/37319/hussar-cup-postponed-again-over-funding-issues
-2023/10/23 22:14:51 Content still empty after HTML reader: https://www.hltv.org/news/37316/hltv-award-show-broadcast-talent-revealed
-2023/10/23 22:14:51 Content still empty after HTML reader: https://www.hltv.org/news/37315/esl-to-review-faze-acquisition-implications
-2023/10/23 22:14:51 Content still empty after HTML reader: https://www.hltv.org/news/37314/roobet-cup-teams-format-schedule-prizes-talent
-2023/10/23 22:14:51 Content still empty after HTML reader: https://www.hltv.org/news/37312/faze-qualify-for-iem-katowice-2024
-2023/10/23 22:14:51 Content still empty after HTML reader: https://www.hltv.org/news/37313/media-liquid-set-to-sign-twistzz
-2023/10/23 22:14:51 Content still empty after HTML reader: https://www.hltv.org/news/37311/new-team-announced-featuring-dav1g-xfl0ud
-2023/10/23 22:14:51 Content still empty after HTML reader: https://www.hltv.org/news/37309/rain-cs2-gave-me-a-fresh-perspective-of-the-game
-2023/10/23 22:14:51 Fetched posts from https://www.hltv.org/rss/news, took 1.014614425s
-2023/10/23 22:14:51 Fetched posts from https://vlr.gg/rss, took 1.117917063s
-2023/10/23 22:14:51 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.325630654s
-2023/10/23 22:14:52 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.987446968s
-2023/10/23 22:14:53 Fetched posts from https://blogtienao.com/feed, took 3.110152697s
-2023/10/23 22:15:03 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.499244572s
-2023/10/23 22:15:03 Skipping writing post, no content: https://www.hltv.org/news/37318/monte-replace-liquid-at-thunderpick-world-championship
-2023/10/23 22:15:03 Skipping writing post, no content: https://www.hltv.org/news/37197/heroic-sign-dupreeh-until-the-end-of-2023
-2023/10/23 22:15:03 Skipping writing post, no content: https://www.hltv.org/news/37319/hussar-cup-postponed-again-over-funding-issues
-2023/10/23 22:15:03 Skipping writing post, no content: https://www.hltv.org/news/37316/hltv-award-show-broadcast-talent-revealed
-2023/10/23 22:15:03 Skipping writing post, no content: https://www.hltv.org/news/37315/esl-to-review-faze-acquisition-implications
-2023/10/23 22:15:03 Skipping writing post, no content: https://www.hltv.org/news/37314/roobet-cup-teams-format-schedule-prizes-talent
-2023/10/23 22:15:03 Skipping writing post, no content: https://www.hltv.org/news/37312/faze-qualify-for-iem-katowice-2024
-2023/10/23 22:15:03 Skipping writing post, no content: https://www.hltv.org/news/37313/media-liquid-set-to-sign-twistzz
-2023/10/23 22:15:03 Skipping writing post, no content: https://www.hltv.org/news/37311/new-team-announced-featuring-dav1g-xfl0ud
-2023/10/23 22:15:03 Skipping writing post, no content: https://www.hltv.org/news/37309/rain-cs2-gave-me-a-fresh-perspective-of-the-game
-2023/10/23 22:15:03 Templated 89 posts, took 14.038482ms
+2023/10/23 22:29:02 Content still empty after HTML reader: https://www.hltv.org/news/37318/monte-replace-liquid-at-thunderpick-world-championship
+2023/10/23 22:29:02 Content still empty after HTML reader: https://www.hltv.org/news/37197/heroic-sign-dupreeh-until-the-end-of-2023
+2023/10/23 22:29:02 Content still empty after HTML reader: https://www.hltv.org/news/37319/hussar-cup-postponed-again-over-funding-issues
+2023/10/23 22:29:02 Content still empty after HTML reader: https://www.hltv.org/news/37316/hltv-award-show-broadcast-talent-revealed
+2023/10/23 22:29:02 Content still empty after HTML reader: https://www.hltv.org/news/37315/esl-to-review-faze-acquisition-implications
+2023/10/23 22:29:02 Content still empty after HTML reader: https://www.hltv.org/news/37314/roobet-cup-teams-format-schedule-prizes-talent
+2023/10/23 22:29:02 Content still empty after HTML reader: https://www.hltv.org/news/37312/faze-qualify-for-iem-katowice-2024
+2023/10/23 22:29:02 Content still empty after HTML reader: https://www.hltv.org/news/37313/media-liquid-set-to-sign-twistzz
+2023/10/23 22:29:02 Content still empty after HTML reader: https://www.hltv.org/news/37311/new-team-announced-featuring-dav1g-xfl0ud
+2023/10/23 22:29:02 Content still empty after HTML reader: https://www.hltv.org/news/37309/rain-cs2-gave-me-a-fresh-perspective-of-the-game
+2023/10/23 22:29:02 Fetched posts from https://www.hltv.org/rss/news, took 254.273221ms
+2023/10/23 22:29:02 Fetched posts from https://vlr.gg/rss, took 417.879675ms
+2023/10/23 22:29:02 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 510.588098ms
+2023/10/23 22:29:02 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 520.15926ms
+2023/10/23 22:29:02 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 749.900813ms
+2023/10/23 22:29:02 Content still empty after HTML reader: https://www.bbc.com/vietnamese/articles/ce7jj2p49y5o
+2023/10/23 22:29:02 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 926.629223ms
+2023/10/23 22:29:04 Fetched posts from https://blogtienao.com/feed, took 2.208049405s
+2023/10/23 22:29:21 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.98385259s
+2023/10/23 22:29:21 Skipping writing post, no content: https://www.hltv.org/news/37318/monte-replace-liquid-at-thunderpick-world-championship
+2023/10/23 22:29:21 Skipping writing post, no content: https://www.hltv.org/news/37197/heroic-sign-dupreeh-until-the-end-of-2023
+2023/10/23 22:29:21 Skipping writing post, no content: https://www.hltv.org/news/37319/hussar-cup-postponed-again-over-funding-issues
+2023/10/23 22:29:21 Skipping writing post, no content: https://www.hltv.org/news/37316/hltv-award-show-broadcast-talent-revealed
+2023/10/23 22:29:21 Skipping writing post, no content: https://www.hltv.org/news/37315/esl-to-review-faze-acquisition-implications
+2023/10/23 22:29:21 Skipping writing post, no content: https://www.hltv.org/news/37314/roobet-cup-teams-format-schedule-prizes-talent
+2023/10/23 22:29:21 Skipping writing post, no content: https://www.hltv.org/news/37312/faze-qualify-for-iem-katowice-2024
+2023/10/23 22:29:21 Skipping writing post, no content: https://www.hltv.org/news/37313/media-liquid-set-to-sign-twistzz
+2023/10/23 22:29:21 Skipping writing post, no content: https://www.hltv.org/news/37311/new-team-announced-featuring-dav1g-xfl0ud
+2023/10/23 22:29:21 Skipping writing post, no content: https://www.hltv.org/news/37309/rain-cs2-gave-me-a-fresh-perspective-of-the-game
+2023/10/23 22:29:21 Skipping writing post, no content: https://www.bbc.com/vietnamese/articles/ce7jj2p49y5o
+2023/10/23 22:29:21 Templated 90 posts, took 13.530679ms
