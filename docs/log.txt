@@ -1,29 +1,30 @@
-2023/10/25 18:19:38 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 146.83527ms
-2023/10/25 18:19:38 Content still empty after HTML reader: https://www.hltv.org/news/37326/thunderpick-world-championship-teams-format-schedule-prizes
-2023/10/25 18:19:38 Fetched posts from https://vlr.gg/rss, took 302.365731ms
-2023/10/25 18:19:38 Content still empty after HTML reader: https://www.hltv.org/news/37325/heroic-temporarily-remove-stavn-and-jabbi-amid-astralis-interest
-2023/10/25 18:19:38 Content still empty after HTML reader: https://www.hltv.org/news/37324/pompa-sign-emi
-2023/10/25 18:19:38 Content still empty after HTML reader: https://www.hltv.org/news/37323/media-pain-to-sign-nqz-legacy-to-recall-b4rtin
-2023/10/25 18:19:38 Content still empty after HTML reader: https://www.hltv.org/news/37322/roobet-thunderpick-fantasy-games-go-live-with-changes
-2023/10/25 18:19:38 Content still empty after HTML reader: https://www.hltv.org/news/37321/media-kscerato-turned-down-liquid
-2023/10/25 18:19:38 Content still empty after HTML reader: https://www.hltv.org/news/37320/nip-bench-hampus-es3tag-returns
-2023/10/25 18:19:38 Content still empty after HTML reader: https://www.hltv.org/news/37317/best-five-iem-sydney-2023
-2023/10/25 18:19:38 Content still empty after HTML reader: https://www.hltv.org/news/37318/monte-replace-liquid-at-thunderpick-world-championship
-2023/10/25 18:19:38 Content still empty after HTML reader: https://www.hltv.org/news/37197/heroic-sign-dupreeh-until-the-end-of-2023
-2023/10/25 18:19:38 Fetched posts from https://www.hltv.org/rss/news, took 387.767541ms
-2023/10/25 18:19:38 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 472.956039ms
-2023/10/25 18:19:38 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 859.879532ms
-2023/10/25 18:19:38 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 920.992774ms
-2023/10/25 18:19:40 Fetched posts from https://blogtienao.com/feed, took 2.219277355s
-2023/10/25 18:20:00 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.165848673s
-2023/10/25 18:20:00 Skipping writing post, no content: https://www.hltv.org/news/37326/thunderpick-world-championship-teams-format-schedule-prizes
-2023/10/25 18:20:00 Skipping writing post, no content: https://www.hltv.org/news/37325/heroic-temporarily-remove-stavn-and-jabbi-amid-astralis-interest
-2023/10/25 18:20:00 Skipping writing post, no content: https://www.hltv.org/news/37324/pompa-sign-emi
-2023/10/25 18:20:00 Skipping writing post, no content: https://www.hltv.org/news/37323/media-pain-to-sign-nqz-legacy-to-recall-b4rtin
-2023/10/25 18:20:00 Skipping writing post, no content: https://www.hltv.org/news/37322/roobet-thunderpick-fantasy-games-go-live-with-changes
-2023/10/25 18:20:00 Skipping writing post, no content: https://www.hltv.org/news/37321/media-kscerato-turned-down-liquid
-2023/10/25 18:20:00 Skipping writing post, no content: https://www.hltv.org/news/37320/nip-bench-hampus-es3tag-returns
-2023/10/25 18:20:00 Skipping writing post, no content: https://www.hltv.org/news/37317/best-five-iem-sydney-2023
-2023/10/25 18:20:00 Skipping writing post, no content: https://www.hltv.org/news/37318/monte-replace-liquid-at-thunderpick-world-championship
-2023/10/25 18:20:00 Skipping writing post, no content: https://www.hltv.org/news/37197/heroic-sign-dupreeh-until-the-end-of-2023
-2023/10/25 18:20:00 Templated 90 posts, took 14.634446ms
+2023/10/25 18:37:54 error parsing https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml: http error: 503 Service Unavailable
+2023/10/25 18:37:54 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 37.427928ms
+2023/10/25 18:37:55 Content still empty after HTML reader: https://www.hltv.org/news/37326/thunderpick-world-championship-teams-format-schedule-prizes
+2023/10/25 18:37:55 Content still empty after HTML reader: https://www.hltv.org/news/37325/heroic-temporarily-remove-stavn-and-jabbi-amid-astralis-interest
+2023/10/25 18:37:55 Content still empty after HTML reader: https://www.hltv.org/news/37324/pompa-sign-emi
+2023/10/25 18:37:55 Content still empty after HTML reader: https://www.hltv.org/news/37323/media-pain-to-sign-nqz-legacy-to-recall-b4rtin
+2023/10/25 18:37:55 Content still empty after HTML reader: https://www.hltv.org/news/37322/roobet-thunderpick-fantasy-games-go-live-with-changes
+2023/10/25 18:37:55 Content still empty after HTML reader: https://www.hltv.org/news/37321/media-kscerato-turned-down-liquid
+2023/10/25 18:37:55 Content still empty after HTML reader: https://www.hltv.org/news/37320/nip-bench-hampus-es3tag-returns
+2023/10/25 18:37:55 Content still empty after HTML reader: https://www.hltv.org/news/37317/best-five-iem-sydney-2023
+2023/10/25 18:37:55 Content still empty after HTML reader: https://www.hltv.org/news/37318/monte-replace-liquid-at-thunderpick-world-championship
+2023/10/25 18:37:55 Content still empty after HTML reader: https://www.hltv.org/news/37197/heroic-sign-dupreeh-until-the-end-of-2023
+2023/10/25 18:37:55 Fetched posts from https://www.hltv.org/rss/news, took 307.101821ms
+2023/10/25 18:37:55 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 422.167886ms
+2023/10/25 18:37:55 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 514.507276ms
+2023/10/25 18:37:55 Fetched posts from https://vlr.gg/rss, took 948.947357ms
+2023/10/25 18:37:57 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.686446567s
+2023/10/25 18:37:58 Fetched posts from https://blogtienao.com/feed, took 3.214684333s
+2023/10/25 18:38:10 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.033658131s
+2023/10/25 18:38:10 Skipping writing post, no content: https://www.hltv.org/news/37326/thunderpick-world-championship-teams-format-schedule-prizes
+2023/10/25 18:38:10 Skipping writing post, no content: https://www.hltv.org/news/37325/heroic-temporarily-remove-stavn-and-jabbi-amid-astralis-interest
+2023/10/25 18:38:10 Skipping writing post, no content: https://www.hltv.org/news/37324/pompa-sign-emi
+2023/10/25 18:38:10 Skipping writing post, no content: https://www.hltv.org/news/37323/media-pain-to-sign-nqz-legacy-to-recall-b4rtin
+2023/10/25 18:38:10 Skipping writing post, no content: https://www.hltv.org/news/37322/roobet-thunderpick-fantasy-games-go-live-with-changes
+2023/10/25 18:38:10 Skipping writing post, no content: https://www.hltv.org/news/37321/media-kscerato-turned-down-liquid
+2023/10/25 18:38:10 Skipping writing post, no content: https://www.hltv.org/news/37320/nip-bench-hampus-es3tag-returns
+2023/10/25 18:38:10 Skipping writing post, no content: https://www.hltv.org/news/37317/best-five-iem-sydney-2023
+2023/10/25 18:38:10 Skipping writing post, no content: https://www.hltv.org/news/37318/monte-replace-liquid-at-thunderpick-world-championship
+2023/10/25 18:38:10 Skipping writing post, no content: https://www.hltv.org/news/37197/heroic-sign-dupreeh-until-the-end-of-2023
+2023/10/25 18:38:10 Templated 66 posts, took 11.199837ms
