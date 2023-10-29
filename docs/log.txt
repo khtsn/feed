@@ -1,29 +1,30 @@
-2023/10/29 18:52:31 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 226.133256ms
-2023/10/29 18:52:31 Content still empty after HTML reader: https://www.hltv.org/news/37368/aurora-beat-heroic-to-qualify-for-roobet-cup-playoffs
-2023/10/29 18:52:31 Content still empty after HTML reader: https://www.hltv.org/news/37367/riders-move-past-9z-into-roobet-cup-playoffs
-2023/10/29 18:52:31 Content still empty after HTML reader: https://www.hltv.org/news/37365/g2-general-manager-we-are-not-looking-to-sell-m0nesy-at-any-price
-2023/10/29 18:52:31 Content still empty after HTML reader: https://www.hltv.org/news/37366/tyloo-qualify-for-esl-challenger-jnkping
-2023/10/29 18:52:31 Content still empty after HTML reader: https://www.hltv.org/news/37364/virtuspro-advance-to-thunderpick-playoffs-over-fnatic
-2023/10/29 18:52:31 Content still empty after HTML reader: https://www.hltv.org/news/37363/fnatic-astralis-eliminated-from-roobet-cup
-2023/10/29 18:52:31 Content still empty after HTML reader: https://www.hltv.org/news/37362/faze-make-thunderpick-playoffs-wildcard-eliminated
-2023/10/29 18:52:31 Content still empty after HTML reader: https://www.hltv.org/news/37361/big-monte-qualify-for-roobet-cup-playoffs
-2023/10/29 18:52:31 Content still empty after HTML reader: https://www.hltv.org/news/37360/cloud9-secure-playoffs-nip-eliminated-in-thunderpick-group-a
-2023/10/29 18:52:31 Content still empty after HTML reader: https://www.hltv.org/news/37359/gla1ve-open-to-offers-im-ready-to-play-the-best-cs-of-my-life-again
-2023/10/29 18:52:31 Fetched posts from https://www.hltv.org/rss/news, took 432.077265ms
-2023/10/29 18:52:31 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 589.198107ms
-2023/10/29 18:52:31 Fetched posts from https://vlr.gg/rss, took 801.807729ms
-2023/10/29 18:52:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.198806369s
-2023/10/29 18:52:32 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.430174293s
-2023/10/29 18:52:33 Fetched posts from https://blogtienao.com/feed, took 2.811397651s
-2023/10/29 18:52:50 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.929477087s
-2023/10/29 18:52:50 Skipping writing post, no content: https://www.hltv.org/news/37368/aurora-beat-heroic-to-qualify-for-roobet-cup-playoffs
-2023/10/29 18:52:50 Skipping writing post, no content: https://www.hltv.org/news/37367/riders-move-past-9z-into-roobet-cup-playoffs
-2023/10/29 18:52:50 Skipping writing post, no content: https://www.hltv.org/news/37365/g2-general-manager-we-are-not-looking-to-sell-m0nesy-at-any-price
-2023/10/29 18:52:50 Skipping writing post, no content: https://www.hltv.org/news/37366/tyloo-qualify-for-esl-challenger-jnkping
-2023/10/29 18:52:50 Skipping writing post, no content: https://www.hltv.org/news/37364/virtuspro-advance-to-thunderpick-playoffs-over-fnatic
-2023/10/29 18:52:50 Skipping writing post, no content: https://www.hltv.org/news/37363/fnatic-astralis-eliminated-from-roobet-cup
-2023/10/29 18:52:50 Skipping writing post, no content: https://www.hltv.org/news/37362/faze-make-thunderpick-playoffs-wildcard-eliminated
-2023/10/29 18:52:50 Skipping writing post, no content: https://www.hltv.org/news/37361/big-monte-qualify-for-roobet-cup-playoffs
-2023/10/29 18:52:50 Skipping writing post, no content: https://www.hltv.org/news/37360/cloud9-secure-playoffs-nip-eliminated-in-thunderpick-group-a
-2023/10/29 18:52:50 Skipping writing post, no content: https://www.hltv.org/news/37359/gla1ve-open-to-offers-im-ready-to-play-the-best-cs-of-my-life-again
-2023/10/29 18:52:50 Templated 91 posts, took 13.529888ms
+2023/10/29 19:12:16 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 218.564848ms
+2023/10/29 19:12:16 Content still empty after HTML reader: https://www.hltv.org/news/37368/aurora-beat-heroic-to-qualify-for-roobet-cup-playoffs
+2023/10/29 19:12:16 Content still empty after HTML reader: https://www.hltv.org/news/37367/riders-move-past-9z-into-roobet-cup-playoffs
+2023/10/29 19:12:16 Content still empty after HTML reader: https://www.hltv.org/news/37365/g2-general-manager-we-are-not-looking-to-sell-m0nesy-at-any-price
+2023/10/29 19:12:16 Content still empty after HTML reader: https://www.hltv.org/news/37366/tyloo-qualify-for-esl-challenger-jnkping
+2023/10/29 19:12:16 Content still empty after HTML reader: https://www.hltv.org/news/37364/virtuspro-advance-to-thunderpick-playoffs-over-fnatic
+2023/10/29 19:12:16 Content still empty after HTML reader: https://www.hltv.org/news/37363/fnatic-astralis-eliminated-from-roobet-cup
+2023/10/29 19:12:16 Content still empty after HTML reader: https://www.hltv.org/news/37362/faze-make-thunderpick-playoffs-wildcard-eliminated
+2023/10/29 19:12:16 error parsing https://www.teamblind.com/rss/Tech/rss: Failed to detect feed type
+2023/10/29 19:12:16 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 409.826053ms
+2023/10/29 19:12:16 Content still empty after HTML reader: https://www.hltv.org/news/37361/big-monte-qualify-for-roobet-cup-playoffs
+2023/10/29 19:12:17 Content still empty after HTML reader: https://www.hltv.org/news/37360/cloud9-secure-playoffs-nip-eliminated-in-thunderpick-group-a
+2023/10/29 19:12:17 Content still empty after HTML reader: https://www.hltv.org/news/37359/gla1ve-open-to-offers-im-ready-to-play-the-best-cs-of-my-life-again
+2023/10/29 19:12:17 Fetched posts from https://www.hltv.org/rss/news, took 472.716475ms
+2023/10/29 19:12:17 Fetched posts from https://vlr.gg/rss, took 841.035535ms
+2023/10/29 19:12:17 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.303439666s
+2023/10/29 19:12:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.334996833s
+2023/10/29 19:12:19 Fetched posts from https://blogtienao.com/feed, took 2.818307502s
+2023/10/29 19:12:34 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.070436061s
+2023/10/29 19:12:34 Skipping writing post, no content: https://www.hltv.org/news/37368/aurora-beat-heroic-to-qualify-for-roobet-cup-playoffs
+2023/10/29 19:12:34 Skipping writing post, no content: https://www.hltv.org/news/37367/riders-move-past-9z-into-roobet-cup-playoffs
+2023/10/29 19:12:34 Skipping writing post, no content: https://www.hltv.org/news/37365/g2-general-manager-we-are-not-looking-to-sell-m0nesy-at-any-price
+2023/10/29 19:12:34 Skipping writing post, no content: https://www.hltv.org/news/37366/tyloo-qualify-for-esl-challenger-jnkping
+2023/10/29 19:12:34 Skipping writing post, no content: https://www.hltv.org/news/37364/virtuspro-advance-to-thunderpick-playoffs-over-fnatic
+2023/10/29 19:12:34 Skipping writing post, no content: https://www.hltv.org/news/37363/fnatic-astralis-eliminated-from-roobet-cup
+2023/10/29 19:12:34 Skipping writing post, no content: https://www.hltv.org/news/37362/faze-make-thunderpick-playoffs-wildcard-eliminated
+2023/10/29 19:12:34 Skipping writing post, no content: https://www.hltv.org/news/37361/big-monte-qualify-for-roobet-cup-playoffs
+2023/10/29 19:12:34 Skipping writing post, no content: https://www.hltv.org/news/37360/cloud9-secure-playoffs-nip-eliminated-in-thunderpick-group-a
+2023/10/29 19:12:34 Skipping writing post, no content: https://www.hltv.org/news/37359/gla1ve-open-to-offers-im-ready-to-play-the-best-cs-of-my-life-again
+2023/10/29 19:12:34 Templated 81 posts, took 15.791932ms
