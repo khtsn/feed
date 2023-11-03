@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>new Java Thread Pool per REST call? | Khanh's feed</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="../styles.css"
+      media="screen"
+    />
+  </head>
+  <body>
+    <a href="/index.html">Back</a>
+    <a href="https://www.teamblind.com/post/new-java-thread-pool-per-rest-call-4ECusJfq">Original</a>
+    <h1>new Java Thread Pool per REST call?</h1>
+    
+    Isn't a thread pool per request a bad idea? Imagine an API getting hundreds of requests:  for example:  @GET @PATH("/id/{ids}") public Response fetchIDs(List<Id> ids) {   ForkJoinPool p = new ForkJoinPool(20);   p.submit(...); // do 100 I/O calls for ids   // make some response   return packResp
+  </body>
+</html>
