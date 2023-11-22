@@ -1,29 +1,31 @@
-2023/11/22 20:37:43 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 267.834503ms
-2023/11/22 20:37:43 Fetched posts from https://vlr.gg/rss, took 303.430679ms
-2023/11/22 20:37:43 Content still empty after HTML reader: https://www.hltv.org/news/37575/rainwaker-released-from-liquid
-2023/11/22 20:37:43 Content still empty after HTML reader: https://www.hltv.org/news/37574/jcobbb-joins-9ine
-2023/11/22 20:37:43 Content still empty after HTML reader: https://www.hltv.org/news/37573/complexity-recover-from-2-12-deficit-to-sweep-astralis-at-blast-fall-final
-2023/11/22 20:37:43 Content still empty after HTML reader: https://www.hltv.org/news/37571/spinx-stars-as-vitality-beat-heroic-at-fall-final
-2023/11/22 20:37:43 Content still empty after HTML reader: https://www.hltv.org/news/37570/electronic-im-probably-not-that-good-with-igling-the-problem-is-that-im-super-emotional
-2023/11/22 20:37:43 Content still empty after HTML reader: https://www.hltv.org/news/37568/betboom-dacha-groups-announced
-2023/11/22 20:37:43 Content still empty after HTML reader: https://www.hltv.org/news/37569/cloud9-triumph-in-grudge-match-with-navi
-2023/11/22 20:37:43 Content still empty after HTML reader: https://www.hltv.org/news/37567/faze-extend-win-streak-to-16-with-opening-win-over-nip
-2023/11/22 20:37:43 Content still empty after HTML reader: https://www.hltv.org/news/37566/gla1ve-departs-astralis-after-reaching-agreement-with-new-organization
-2023/11/22 20:37:43 Content still empty after HTML reader: https://www.hltv.org/news/37565/el1an-leaves-forze
-2023/11/22 20:37:43 Fetched posts from https://www.hltv.org/rss/news, took 446.546972ms
-2023/11/22 20:37:43 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 538.411653ms
-2023/11/22 20:37:43 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 705.515733ms
-2023/11/22 20:37:44 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.211699938s
-2023/11/22 20:37:45 Fetched posts from https://blogtienao.com/feed, took 2.468791101s
-2023/11/22 20:37:58 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.397866116s
-2023/11/22 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/37575/rainwaker-released-from-liquid
-2023/11/22 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/37574/jcobbb-joins-9ine
-2023/11/22 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/37573/complexity-recover-from-2-12-deficit-to-sweep-astralis-at-blast-fall-final
-2023/11/22 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/37571/spinx-stars-as-vitality-beat-heroic-at-fall-final
-2023/11/22 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/37570/electronic-im-probably-not-that-good-with-igling-the-problem-is-that-im-super-emotional
-2023/11/22 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/37568/betboom-dacha-groups-announced
-2023/11/22 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/37569/cloud9-triumph-in-grudge-match-with-navi
-2023/11/22 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/37567/faze-extend-win-streak-to-16-with-opening-win-over-nip
-2023/11/22 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/37566/gla1ve-departs-astralis-after-reaching-agreement-with-new-organization
-2023/11/22 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/37565/el1an-leaves-forze
-2023/11/22 20:37:58 Templated 86 posts, took 14.050918ms
+2023/11/22 20:52:22 Content still empty after HTML reader: https://www.hltv.org/news/37575/rainwaker-released-from-liquid
+2023/11/22 20:52:22 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 290.736799ms
+2023/11/22 20:52:22 Content still empty after HTML reader: https://www.hltv.org/news/37574/jcobbb-joins-9ine
+2023/11/22 20:52:22 Content still empty after HTML reader: https://www.hltv.org/news/37573/complexity-recover-from-2-12-deficit-to-sweep-astralis-at-blast-fall-final
+2023/11/22 20:52:22 Content still empty after HTML reader: https://www.hltv.org/news/37571/spinx-stars-as-vitality-beat-heroic-at-fall-final
+2023/11/22 20:52:23 Content still empty after HTML reader: https://www.bbc.com/vietnamese/articles/cxr1d7nnezqo
+2023/11/22 20:52:23 Content still empty after HTML reader: https://www.hltv.org/news/37570/electronic-im-probably-not-that-good-with-igling-the-problem-is-that-im-super-emotional
+2023/11/22 20:52:23 Content still empty after HTML reader: https://www.hltv.org/news/37568/betboom-dacha-groups-announced
+2023/11/22 20:52:23 Content still empty after HTML reader: https://www.hltv.org/news/37569/cloud9-triumph-in-grudge-match-with-navi
+2023/11/22 20:52:23 Content still empty after HTML reader: https://www.hltv.org/news/37567/faze-extend-win-streak-to-16-with-opening-win-over-nip
+2023/11/22 20:52:23 Content still empty after HTML reader: https://www.hltv.org/news/37566/gla1ve-departs-astralis-after-reaching-agreement-with-new-organization
+2023/11/22 20:52:23 Fetched posts from https://vlr.gg/rss, took 399.277682ms
+2023/11/22 20:52:23 Content still empty after HTML reader: https://www.hltv.org/news/37565/el1an-leaves-forze
+2023/11/22 20:52:23 Fetched posts from https://www.hltv.org/rss/news, took 401.187686ms
+2023/11/22 20:52:23 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 553.29711ms
+2023/11/22 20:52:23 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 738.854109ms
+2023/11/22 20:52:24 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 1.700405231s
+2023/11/22 20:52:25 Fetched posts from https://blogtienao.com/feed, took 2.354961746s
+2023/11/22 20:52:42 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.151077487s
+2023/11/22 20:52:42 Skipping writing post, no content: https://www.hltv.org/news/37575/rainwaker-released-from-liquid
+2023/11/22 20:52:42 Skipping writing post, no content: https://www.hltv.org/news/37574/jcobbb-joins-9ine
+2023/11/22 20:52:42 Skipping writing post, no content: https://www.hltv.org/news/37573/complexity-recover-from-2-12-deficit-to-sweep-astralis-at-blast-fall-final
+2023/11/22 20:52:42 Skipping writing post, no content: https://www.hltv.org/news/37571/spinx-stars-as-vitality-beat-heroic-at-fall-final
+2023/11/22 20:52:42 Skipping writing post, no content: https://www.hltv.org/news/37570/electronic-im-probably-not-that-good-with-igling-the-problem-is-that-im-super-emotional
+2023/11/22 20:52:42 Skipping writing post, no content: https://www.hltv.org/news/37568/betboom-dacha-groups-announced
+2023/11/22 20:52:42 Skipping writing post, no content: https://www.hltv.org/news/37569/cloud9-triumph-in-grudge-match-with-navi
+2023/11/22 20:52:42 Skipping writing post, no content: https://www.bbc.com/vietnamese/articles/cxr1d7nnezqo
+2023/11/22 20:52:42 Skipping writing post, no content: https://www.hltv.org/news/37567/faze-extend-win-streak-to-16-with-opening-win-over-nip
+2023/11/22 20:52:42 Skipping writing post, no content: https://www.hltv.org/news/37566/gla1ve-departs-astralis-after-reaching-agreement-with-new-organization
+2023/11/22 20:52:42 Skipping writing post, no content: https://www.hltv.org/news/37565/el1an-leaves-forze
+2023/11/22 20:52:42 Templated 88 posts, took 13.560623ms
