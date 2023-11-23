@@ -1,29 +1,30 @@
-2023/11/23 09:37:48 Content still empty after HTML reader: https://www.hltv.org/news/37577/live-updates-from-blast-fall-final-day-2
-2023/11/23 09:37:48 Content still empty after HTML reader: https://www.hltv.org/news/37572/apex-replacing-magisk-is-not-going-to-happen-so-the-newcomers-have-to-step-up
-2023/11/23 09:37:48 Content still empty after HTML reader: https://www.hltv.org/news/37575/rainwaker-released-from-liquid
-2023/11/23 09:37:48 Content still empty after HTML reader: https://www.hltv.org/news/37574/jcobbb-joins-9ine
-2023/11/23 09:37:48 Content still empty after HTML reader: https://www.hltv.org/news/37573/complexity-recover-from-2-12-deficit-to-sweep-astralis-at-blast-fall-final
-2023/11/23 09:37:48 Content still empty after HTML reader: https://www.hltv.org/news/37563/live-updates-from-blast-premier-fall-final-day-1
-2023/11/23 09:37:48 Content still empty after HTML reader: https://www.hltv.org/news/37571/spinx-stars-as-vitality-beat-heroic-at-fall-final
-2023/11/23 09:37:48 Content still empty after HTML reader: https://www.hltv.org/news/37570/electronic-im-probably-not-that-good-with-igling-the-problem-is-that-im-super-emotional
-2023/11/23 09:37:48 Content still empty after HTML reader: https://www.hltv.org/news/37568/betboom-dacha-groups-announced
-2023/11/23 09:37:48 Content still empty after HTML reader: https://www.hltv.org/news/37569/cloud9-triumph-in-grudge-match-with-navi
-2023/11/23 09:37:48 Fetched posts from https://www.hltv.org/rss/news, took 386.970557ms
-2023/11/23 09:37:48 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 392.060904ms
-2023/11/23 09:37:48 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 485.980072ms
-2023/11/23 09:37:48 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 648.628567ms
-2023/11/23 09:37:48 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.008199443s
-2023/11/23 09:37:49 Fetched posts from https://vlr.gg/rss, took 1.273748027s
-2023/11/23 09:37:51 Fetched posts from https://blogtienao.com/feed, took 3.862536679s
-2023/11/23 09:38:00 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 12.982216009s
-2023/11/23 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/37577/live-updates-from-blast-fall-final-day-2
-2023/11/23 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/37572/apex-replacing-magisk-is-not-going-to-happen-so-the-newcomers-have-to-step-up
-2023/11/23 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/37575/rainwaker-released-from-liquid
-2023/11/23 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/37574/jcobbb-joins-9ine
-2023/11/23 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/37573/complexity-recover-from-2-12-deficit-to-sweep-astralis-at-blast-fall-final
-2023/11/23 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/37563/live-updates-from-blast-premier-fall-final-day-1
-2023/11/23 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/37571/spinx-stars-as-vitality-beat-heroic-at-fall-final
-2023/11/23 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/37570/electronic-im-probably-not-that-good-with-igling-the-problem-is-that-im-super-emotional
-2023/11/23 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/37568/betboom-dacha-groups-announced
-2023/11/23 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/37569/cloud9-triumph-in-grudge-match-with-navi
-2023/11/23 09:38:00 Templated 89 posts, took 14.193383ms
+2023/11/23 09:52:16 error parsing http://www.bbc.co.uk/vietnamese/index.xml: http error: 404 Not Found
+2023/11/23 09:52:16 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 121.915554ms
+2023/11/23 09:52:16 Content still empty after HTML reader: https://www.hltv.org/news/37577/live-updates-from-blast-fall-final-day-2
+2023/11/23 09:52:16 Content still empty after HTML reader: https://www.hltv.org/news/37572/apex-replacing-magisk-is-not-going-to-happen-so-the-newcomers-have-to-step-up
+2023/11/23 09:52:16 Content still empty after HTML reader: https://www.hltv.org/news/37575/rainwaker-released-from-liquid
+2023/11/23 09:52:16 Content still empty after HTML reader: https://www.hltv.org/news/37574/jcobbb-joins-9ine
+2023/11/23 09:52:16 Content still empty after HTML reader: https://www.hltv.org/news/37573/complexity-recover-from-2-12-deficit-to-sweep-astralis-at-blast-fall-final
+2023/11/23 09:52:16 Content still empty after HTML reader: https://www.hltv.org/news/37563/live-updates-from-blast-premier-fall-final-day-1
+2023/11/23 09:52:16 Content still empty after HTML reader: https://www.hltv.org/news/37571/spinx-stars-as-vitality-beat-heroic-at-fall-final
+2023/11/23 09:52:16 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 474.106966ms
+2023/11/23 09:52:16 Content still empty after HTML reader: https://www.hltv.org/news/37570/electronic-im-probably-not-that-good-with-igling-the-problem-is-that-im-super-emotional
+2023/11/23 09:52:16 Content still empty after HTML reader: https://www.hltv.org/news/37568/betboom-dacha-groups-announced
+2023/11/23 09:52:16 Content still empty after HTML reader: https://www.hltv.org/news/37569/cloud9-triumph-in-grudge-match-with-navi
+2023/11/23 09:52:16 Fetched posts from https://www.hltv.org/rss/news, took 505.485945ms
+2023/11/23 09:52:17 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 667.804907ms
+2023/11/23 09:52:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.211565061s
+2023/11/23 09:52:17 Fetched posts from https://vlr.gg/rss, took 1.261514407s
+2023/11/23 09:52:19 Fetched posts from https://blogtienao.com/feed, took 3.126319831s
+2023/11/23 09:52:33 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.970177983s
+2023/11/23 09:52:33 Skipping writing post, no content: https://www.hltv.org/news/37577/live-updates-from-blast-fall-final-day-2
+2023/11/23 09:52:33 Skipping writing post, no content: https://www.hltv.org/news/37572/apex-replacing-magisk-is-not-going-to-happen-so-the-newcomers-have-to-step-up
+2023/11/23 09:52:33 Skipping writing post, no content: https://www.hltv.org/news/37575/rainwaker-released-from-liquid
+2023/11/23 09:52:33 Skipping writing post, no content: https://www.hltv.org/news/37574/jcobbb-joins-9ine
+2023/11/23 09:52:33 Skipping writing post, no content: https://www.hltv.org/news/37573/complexity-recover-from-2-12-deficit-to-sweep-astralis-at-blast-fall-final
+2023/11/23 09:52:33 Skipping writing post, no content: https://www.hltv.org/news/37563/live-updates-from-blast-premier-fall-final-day-1
+2023/11/23 09:52:33 Skipping writing post, no content: https://www.hltv.org/news/37571/spinx-stars-as-vitality-beat-heroic-at-fall-final
+2023/11/23 09:52:33 Skipping writing post, no content: https://www.hltv.org/news/37570/electronic-im-probably-not-that-good-with-igling-the-problem-is-that-im-super-emotional
+2023/11/23 09:52:33 Skipping writing post, no content: https://www.hltv.org/news/37568/betboom-dacha-groups-announced
+2023/11/23 09:52:33 Skipping writing post, no content: https://www.hltv.org/news/37569/cloud9-triumph-in-grudge-match-with-navi
+2023/11/23 09:52:33 Templated 79 posts, took 12.581466ms
