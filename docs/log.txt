@@ -1,19 +1,21 @@
-2023/12/27 04:52:12 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 158.563908ms
-2023/12/27 04:52:12 Fetched posts from https://vlr.gg/rss, took 214.0405ms
-2023/12/27 04:52:12 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 512.548325ms
-2023/12/27 04:52:12 Content still empty after HTML reader: https://www.hltv.org/news/37852/s1mple-on-b1t-i-think-he-can-be-at-the-level-niko-played-at-in-his-prime
-2023/12/27 04:52:12 Content still empty after HTML reader: https://www.hltv.org/news/37851/award-show-panel-awards-nominees-revealed
-2023/12/27 04:52:12 Content still empty after HTML reader: https://www.hltv.org/news/37850/hltv-award-show-2023-panel-who-voted-and-how-it-works
-2023/12/27 04:52:12 Content still empty after HTML reader: https://www.hltv.org/news/37849/hooxi-interview-g2s-consistency-issues-jks-removal-2024-goals
-2023/12/27 04:52:12 Content still empty after HTML reader: https://www.hltv.org/news/37845/top-20-players-of-2023-ranking-begins-december-27
-2023/12/27 04:52:12 Fetched posts from https://www.hltv.org/rss/news, took 620.276543ms
-2023/12/27 04:52:12 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 745.666104ms
-2023/12/27 04:52:13 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.037333017s
-2023/12/27 04:52:23 Fetched posts from https://blogtienao.com/feed, took 11.232813804s
-2023/12/27 04:52:32 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.069015034s
-2023/12/27 04:52:32 Skipping writing post, no content: https://www.hltv.org/news/37852/s1mple-on-b1t-i-think-he-can-be-at-the-level-niko-played-at-in-his-prime
-2023/12/27 04:52:32 Skipping writing post, no content: https://www.hltv.org/news/37851/award-show-panel-awards-nominees-revealed
-2023/12/27 04:52:32 Skipping writing post, no content: https://www.hltv.org/news/37850/hltv-award-show-2023-panel-who-voted-and-how-it-works
-2023/12/27 04:52:32 Skipping writing post, no content: https://www.hltv.org/news/37849/hooxi-interview-g2s-consistency-issues-jks-removal-2024-goals
-2023/12/27 04:52:32 Skipping writing post, no content: https://www.hltv.org/news/37845/top-20-players-of-2023-ranking-begins-december-27
-2023/12/27 04:52:32 Templated 77 posts, took 12.314473ms
+2023/12/27 05:15:29 Content still empty after HTML reader: https://www.hltv.org/news/37852/s1mple-on-b1t-i-think-he-can-be-at-the-level-niko-played-at-in-his-prime
+2023/12/27 05:15:29 Content still empty after HTML reader: https://www.hltv.org/news/37851/award-show-panel-awards-nominees-revealed
+2023/12/27 05:15:29 Content still empty after HTML reader: https://www.hltv.org/news/37850/hltv-award-show-2023-panel-who-voted-and-how-it-works
+2023/12/27 05:15:29 Content still empty after HTML reader: https://www.nytimes.com/2023/12/25/crosswords/chess-hikaru-vladmir-kramnik-cheating.html
+2023/12/27 05:15:29 Content still empty after HTML reader: https://www.hltv.org/news/37849/hooxi-interview-g2s-consistency-issues-jks-removal-2024-goals
+2023/12/27 05:15:29 Content still empty after HTML reader: https://www.hltv.org/news/37845/top-20-players-of-2023-ranking-begins-december-27
+2023/12/27 05:15:29 Fetched posts from https://www.hltv.org/rss/news, took 340.101924ms
+2023/12/27 05:15:29 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 389.047284ms
+2023/12/27 05:15:29 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 653.093027ms
+2023/12/27 05:15:29 Fetched posts from https://vlr.gg/rss, took 775.561994ms
+2023/12/27 05:15:29 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 799.032641ms
+2023/12/27 05:15:31 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.550221692s
+2023/12/27 05:15:32 Fetched posts from https://blogtienao.com/feed, took 3.234632367s
+2023/12/27 05:15:43 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.570410992s
+2023/12/27 05:15:43 Skipping writing post, no content: https://www.hltv.org/news/37852/s1mple-on-b1t-i-think-he-can-be-at-the-level-niko-played-at-in-his-prime
+2023/12/27 05:15:43 Skipping writing post, no content: https://www.hltv.org/news/37851/award-show-panel-awards-nominees-revealed
+2023/12/27 05:15:43 Skipping writing post, no content: https://www.hltv.org/news/37850/hltv-award-show-2023-panel-who-voted-and-how-it-works
+2023/12/27 05:15:43 Skipping writing post, no content: https://www.hltv.org/news/37849/hooxi-interview-g2s-consistency-issues-jks-removal-2024-goals
+2023/12/27 05:15:43 Skipping writing post, no content: https://www.nytimes.com/2023/12/25/crosswords/chess-hikaru-vladmir-kramnik-cheating.html
+2023/12/27 05:15:43 Skipping writing post, no content: https://www.hltv.org/news/37845/top-20-players-of-2023-ranking-begins-december-27
+2023/12/27 05:15:43 Templated 75 posts, took 12.367539ms
