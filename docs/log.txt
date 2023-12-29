@@ -1,29 +1,27 @@
-2023/12/29 18:37:27 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 246.102737ms
-2023/12/29 18:37:27 Fetched posts from https://vlr.gg/rss, took 259.300399ms
-2023/12/29 18:37:27 Content still empty after HTML reader: https://www.hltv.org/news/37864/bleed-sign-faven
-2023/12/29 18:37:27 Content still empty after HTML reader: https://www.hltv.org/news/37862/pgl-confirm-invites-for-pgl-cs2-major-copenhagen-closed-qualifiers
-2023/12/29 18:37:27 Content still empty after HTML reader: https://www.hltv.org/news/37860/amkal-enter-counter-strike-with-1win-trio
-2023/12/29 18:37:27 Content still empty after HTML reader: https://www.hltv.org/news/37859/top-20-players-of-2023-kscerato-19
-2023/12/29 18:37:27 Content still empty after HTML reader: https://www.hltv.org/news/37843/the-case-for-alternative-events
-2023/12/29 18:37:27 Content still empty after HTML reader: https://www.hltv.org/news/37858/preasy-go-awper-less-with-dupreeh-signing
-2023/12/29 18:37:27 Content still empty after HTML reader: https://www.hltv.org/news/37857/top-20-players-of-2023-twistzz-20
-2023/12/29 18:37:27 Content still empty after HTML reader: https://www.hltv.org/news/37854/faven-parts-ways-with-big
-2023/12/29 18:37:27 Content still empty after HTML reader: https://www.hltv.org/news/37856/styko-returns-to-apeks-on-short-term-deal
-2023/12/29 18:37:27 Content still empty after HTML reader: https://www.hltv.org/news/37853/bleed-announce-hampus-signing
-2023/12/29 18:37:27 Fetched posts from https://www.hltv.org/rss/news, took 430.36273ms
-2023/12/29 18:37:27 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 586.74162ms
-2023/12/29 18:37:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 733.58044ms
-2023/12/29 18:37:27 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 815.38543ms
-2023/12/29 18:37:27 Fetched posts from https://blogtienao.com/feed, took 937.640069ms
-2023/12/29 18:37:41 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.269234502s
-2023/12/29 18:37:41 Skipping writing post, no content: https://www.hltv.org/news/37864/bleed-sign-faven
-2023/12/29 18:37:41 Skipping writing post, no content: https://www.hltv.org/news/37862/pgl-confirm-invites-for-pgl-cs2-major-copenhagen-closed-qualifiers
-2023/12/29 18:37:41 Skipping writing post, no content: https://www.hltv.org/news/37860/amkal-enter-counter-strike-with-1win-trio
-2023/12/29 18:37:41 Skipping writing post, no content: https://www.hltv.org/news/37859/top-20-players-of-2023-kscerato-19
-2023/12/29 18:37:41 Skipping writing post, no content: https://www.hltv.org/news/37843/the-case-for-alternative-events
-2023/12/29 18:37:41 Skipping writing post, no content: https://www.hltv.org/news/37858/preasy-go-awper-less-with-dupreeh-signing
-2023/12/29 18:37:41 Skipping writing post, no content: https://www.hltv.org/news/37857/top-20-players-of-2023-twistzz-20
-2023/12/29 18:37:41 Skipping writing post, no content: https://www.hltv.org/news/37854/faven-parts-ways-with-big
-2023/12/29 18:37:41 Skipping writing post, no content: https://www.hltv.org/news/37856/styko-returns-to-apeks-on-short-term-deal
-2023/12/29 18:37:41 Skipping writing post, no content: https://www.hltv.org/news/37853/bleed-announce-hampus-signing
-2023/12/29 18:37:41 Templated 83 posts, took 13.149699ms
+2023/12/29 18:52:27 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 195.519865ms
+2023/12/29 18:52:27 Fetched posts from https://vlr.gg/rss, took 331.107405ms
+2023/12/29 18:52:27 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 331.51253ms
+2023/12/29 18:52:27 Content still empty after HTML reader: https://www.hltv.org/news/37864/bleed-sign-faven
+2023/12/29 18:52:27 Content still empty after HTML reader: https://www.hltv.org/news/37862/pgl-confirm-invites-for-pgl-cs2-major-copenhagen-closed-qualifiers
+2023/12/29 18:52:27 Content still empty after HTML reader: https://www.hltv.org/news/37860/amkal-enter-counter-strike-with-1win-trio
+2023/12/29 18:52:27 Content still empty after HTML reader: https://www.hltv.org/news/37859/top-20-players-of-2023-kscerato-19
+2023/12/29 18:52:27 Content still empty after HTML reader: https://www.hltv.org/news/37843/the-case-for-alternative-events
+2023/12/29 18:52:27 Content still empty after HTML reader: https://www.hltv.org/news/37858/preasy-go-awper-less-with-dupreeh-signing
+2023/12/29 18:52:27 Content still empty after HTML reader: https://www.hltv.org/news/37857/top-20-players-of-2023-twistzz-20
+2023/12/29 18:52:27 Content still empty after HTML reader: https://www.hltv.org/news/37854/faven-parts-ways-with-big
+2023/12/29 18:52:27 Content still empty after HTML reader: https://www.hltv.org/news/37853/bleed-announce-hampus-signing
+2023/12/29 18:52:27 Fetched posts from https://www.hltv.org/rss/news, took 447.27135ms
+2023/12/29 18:52:27 Fetched posts from https://blogtienao.com/feed, took 654.769167ms
+2023/12/29 18:52:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 684.098847ms
+2023/12/29 18:52:28 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.069525831s
+2023/12/29 18:52:41 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.686622681s
+2023/12/29 18:52:41 Skipping writing post, no content: https://www.hltv.org/news/37864/bleed-sign-faven
+2023/12/29 18:52:41 Skipping writing post, no content: https://www.hltv.org/news/37862/pgl-confirm-invites-for-pgl-cs2-major-copenhagen-closed-qualifiers
+2023/12/29 18:52:41 Skipping writing post, no content: https://www.hltv.org/news/37860/amkal-enter-counter-strike-with-1win-trio
+2023/12/29 18:52:41 Skipping writing post, no content: https://www.hltv.org/news/37859/top-20-players-of-2023-kscerato-19
+2023/12/29 18:52:41 Skipping writing post, no content: https://www.hltv.org/news/37843/the-case-for-alternative-events
+2023/12/29 18:52:41 Skipping writing post, no content: https://www.hltv.org/news/37858/preasy-go-awper-less-with-dupreeh-signing
+2023/12/29 18:52:41 Skipping writing post, no content: https://www.hltv.org/news/37857/top-20-players-of-2023-twistzz-20
+2023/12/29 18:52:41 Skipping writing post, no content: https://www.hltv.org/news/37854/faven-parts-ways-with-big
+2023/12/29 18:52:41 Skipping writing post, no content: https://www.hltv.org/news/37853/bleed-announce-hampus-signing
+2023/12/29 18:52:41 Templated 84 posts, took 13.736938ms
