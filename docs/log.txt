@@ -1,29 +1,30 @@
-2024/01/15 21:37:19 Content still empty after HTML reader: https://www.hltv.org/news/37941/top-10-teams-of-2023
-2024/01/15 21:37:19 Content still empty after HTML reader: https://www.hltv.org/news/37965/sycrone-renews-deal-with-mouz
-2024/01/15 21:37:19 Content still empty after HTML reader: https://www.hltv.org/news/37962/video-top-10-highlights-of-2023
-2024/01/15 21:37:19 Content still empty after HTML reader: https://www.hltv.org/news/37959/chengdu-to-host-iem-china-2024
-2024/01/15 21:37:19 Content still empty after HTML reader: https://www.hltv.org/news/37961/liquid-m80-make-americas-rmr-nrg-eliminated-at-end-of-qualifier
-2024/01/15 21:37:19 Content still empty after HTML reader: https://www.hltv.org/news/37960/video-hltvs-top-20-players-of-2023
-2024/01/15 21:37:19 Content still empty after HTML reader: https://www.hltv.org/news/37957/pgl-major-eu-qualifier-4-notable-results-and-how-to-watch
-2024/01/15 21:37:19 Content still empty after HTML reader: https://www.hltv.org/news/37958/live-updates-from-pgl-major-copenhagen-eu-rmr-qualifier-4
-2024/01/15 21:37:19 Content still empty after HTML reader: https://www.hltv.org/news/37956/complexity-and-wildcard-claim-americas-rmr-spots
-2024/01/15 21:37:19 Content still empty after HTML reader: https://www.hltv.org/news/37943/top-20-players-of-2023-zywoo-1
-2024/01/15 21:37:19 Fetched posts from https://www.hltv.org/rss/news, took 402.367465ms
-2024/01/15 21:37:19 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 435.214485ms
-2024/01/15 21:37:19 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 514.389372ms
-2024/01/15 21:37:19 Fetched posts from https://vlr.gg/rss, took 603.880476ms
-2024/01/15 21:37:20 Fetched posts from https://blogtienao.com/feed, took 690.665862ms
-2024/01/15 21:37:20 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 692.732951ms
-2024/01/15 21:37:20 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.642314979s
-2024/01/15 21:37:36 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.467708195s
-2024/01/15 21:37:36 Skipping writing post, no content: https://www.hltv.org/news/37941/top-10-teams-of-2023
-2024/01/15 21:37:36 Skipping writing post, no content: https://www.hltv.org/news/37965/sycrone-renews-deal-with-mouz
-2024/01/15 21:37:36 Skipping writing post, no content: https://www.hltv.org/news/37962/video-top-10-highlights-of-2023
-2024/01/15 21:37:36 Skipping writing post, no content: https://www.hltv.org/news/37959/chengdu-to-host-iem-china-2024
-2024/01/15 21:37:36 Skipping writing post, no content: https://www.hltv.org/news/37961/liquid-m80-make-americas-rmr-nrg-eliminated-at-end-of-qualifier
-2024/01/15 21:37:36 Skipping writing post, no content: https://www.hltv.org/news/37960/video-hltvs-top-20-players-of-2023
-2024/01/15 21:37:36 Skipping writing post, no content: https://www.hltv.org/news/37957/pgl-major-eu-qualifier-4-notable-results-and-how-to-watch
-2024/01/15 21:37:36 Skipping writing post, no content: https://www.hltv.org/news/37958/live-updates-from-pgl-major-copenhagen-eu-rmr-qualifier-4
-2024/01/15 21:37:36 Skipping writing post, no content: https://www.hltv.org/news/37956/complexity-and-wildcard-claim-americas-rmr-spots
-2024/01/15 21:37:36 Skipping writing post, no content: https://www.hltv.org/news/37943/top-20-players-of-2023-zywoo-1
-2024/01/15 21:37:36 Templated 96 posts, took 15.620124ms
+2024/01/15 21:52:36 error parsing http://rss.cnn.com/rss/cnn_topstories.rss: http error: 500 Internal Server Error
+2024/01/15 21:52:36 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 64.043159ms
+2024/01/15 21:52:36 Fetched posts from https://vlr.gg/rss, took 647.043885ms
+2024/01/15 21:52:36 Content still empty after HTML reader: https://www.hltv.org/news/37963/the-best-photos-from-hltv-award-show-2023
+2024/01/15 21:52:36 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 647.766525ms
+2024/01/15 21:52:36 Content still empty after HTML reader: https://www.hltv.org/news/37941/top-10-teams-of-2023
+2024/01/15 21:52:36 Content still empty after HTML reader: https://www.hltv.org/news/37965/sycrone-renews-deal-with-mouz
+2024/01/15 21:52:36 Content still empty after HTML reader: https://www.hltv.org/news/37962/video-top-10-highlights-of-2023
+2024/01/15 21:52:36 Content still empty after HTML reader: https://www.hltv.org/news/37959/chengdu-to-host-iem-china-2024
+2024/01/15 21:52:36 Content still empty after HTML reader: https://www.hltv.org/news/37961/liquid-m80-make-americas-rmr-nrg-eliminated-at-end-of-qualifier
+2024/01/15 21:52:36 Content still empty after HTML reader: https://www.hltv.org/news/37960/video-hltvs-top-20-players-of-2023
+2024/01/15 21:52:36 Content still empty after HTML reader: https://www.hltv.org/news/37957/pgl-major-eu-qualifier-4-notable-results-and-how-to-watch
+2024/01/15 21:52:36 Content still empty after HTML reader: https://www.hltv.org/news/37958/live-updates-from-pgl-major-copenhagen-eu-rmr-qualifier-4
+2024/01/15 21:52:36 Content still empty after HTML reader: https://www.hltv.org/news/37956/complexity-and-wildcard-claim-americas-rmr-spots
+2024/01/15 21:52:36 Fetched posts from https://www.hltv.org/rss/news, took 714.779371ms
+2024/01/15 21:52:36 Fetched posts from https://blogtienao.com/feed, took 737.608285ms
+2024/01/15 21:52:36 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 801.674928ms
+2024/01/15 21:52:46 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 10.882132873s
+2024/01/15 21:52:49 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.646338002s
+2024/01/15 21:52:49 Skipping writing post, no content: https://www.hltv.org/news/37963/the-best-photos-from-hltv-award-show-2023
+2024/01/15 21:52:49 Skipping writing post, no content: https://www.hltv.org/news/37941/top-10-teams-of-2023
+2024/01/15 21:52:49 Skipping writing post, no content: https://www.hltv.org/news/37965/sycrone-renews-deal-with-mouz
+2024/01/15 21:52:49 Skipping writing post, no content: https://www.hltv.org/news/37962/video-top-10-highlights-of-2023
+2024/01/15 21:52:49 Skipping writing post, no content: https://www.hltv.org/news/37959/chengdu-to-host-iem-china-2024
+2024/01/15 21:52:49 Skipping writing post, no content: https://www.hltv.org/news/37961/liquid-m80-make-americas-rmr-nrg-eliminated-at-end-of-qualifier
+2024/01/15 21:52:49 Skipping writing post, no content: https://www.hltv.org/news/37960/video-hltvs-top-20-players-of-2023
+2024/01/15 21:52:49 Skipping writing post, no content: https://www.hltv.org/news/37957/pgl-major-eu-qualifier-4-notable-results-and-how-to-watch
+2024/01/15 21:52:49 Skipping writing post, no content: https://www.hltv.org/news/37958/live-updates-from-pgl-major-copenhagen-eu-rmr-qualifier-4
+2024/01/15 21:52:49 Skipping writing post, no content: https://www.hltv.org/news/37956/complexity-and-wildcard-claim-americas-rmr-spots
+2024/01/15 21:52:49 Templated 93 posts, took 14.907421ms
