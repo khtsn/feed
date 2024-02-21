@@ -1,28 +1,30 @@
-2024/02/21 07:14:35 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/02/21 07:14:35 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 271.167234ms
-2024/02/21 07:14:36 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 375.662239ms
-2024/02/21 07:14:36 Fetched posts from https://vlr.gg/rss, took 416.405749ms
-2024/02/21 07:14:36 Fetched posts from https://blogtienao.com/feed, took 557.107273ms
-2024/02/21 07:14:36 Content still empty after HTML reader: https://www.hltv.org/news/38294/los-release-team-after-less-than-two-months
-2024/02/21 07:14:36 Content still empty after HTML reader: https://www.hltv.org/news/38293/aaron-i-would-say-fk-you-to-accusations-if-we-at-least-won-one-or-two-matches
-2024/02/21 07:14:36 Content still empty after HTML reader: https://www.hltv.org/news/38287/juanflatroo-were-probably-at-30-of-what-we-can-do
-2024/02/21 07:14:36 Content still empty after HTML reader: https://www.hltv.org/news/38292/esl-challenger-melbourne-invites-revealed
-2024/02/21 07:14:36 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 723.221978ms
-2024/02/21 07:14:36 Content still empty after HTML reader: https://www.hltv.org/news/38291/round-four-matchups-set-for-eu-rmr-b
-2024/02/21 07:14:36 Content still empty after HTML reader: https://www.hltv.org/news/38290/preasy-stay-alive-in-rmr-after-pera-victory
-2024/02/21 07:14:36 Content still empty after HTML reader: https://www.hltv.org/news/38288/mouz-beat-spirit-to-punch-ticket-to-pgl-major
-2024/02/21 07:14:36 Content still empty after HTML reader: https://www.hltv.org/news/38286/electronic-on-boombl4-primary-awping-it-worked-better-than-other-options
-2024/02/21 07:14:36 Content still empty after HTML reader: https://www.hltv.org/news/38285/guild-eagles-send-nexus-packing-from-rmr
-2024/02/21 07:14:36 Fetched posts from https://www.hltv.org/rss/news, took 788.101304ms
-2024/02/21 07:14:36 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.079526337s
-2024/02/21 07:14:48 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.289569545s
-2024/02/21 07:14:48 Skipping writing post, no content: https://www.hltv.org/news/38294/los-release-team-after-less-than-two-months
-2024/02/21 07:14:48 Skipping writing post, no content: https://www.hltv.org/news/38293/aaron-i-would-say-fk-you-to-accusations-if-we-at-least-won-one-or-two-matches
-2024/02/21 07:14:48 Skipping writing post, no content: https://www.hltv.org/news/38287/juanflatroo-were-probably-at-30-of-what-we-can-do
-2024/02/21 07:14:48 Skipping writing post, no content: https://www.hltv.org/news/38292/esl-challenger-melbourne-invites-revealed
-2024/02/21 07:14:48 Skipping writing post, no content: https://www.hltv.org/news/38291/round-four-matchups-set-for-eu-rmr-b
-2024/02/21 07:14:48 Skipping writing post, no content: https://www.hltv.org/news/38290/preasy-stay-alive-in-rmr-after-pera-victory
-2024/02/21 07:14:48 Skipping writing post, no content: https://www.hltv.org/news/38288/mouz-beat-spirit-to-punch-ticket-to-pgl-major
-2024/02/21 07:14:48 Skipping writing post, no content: https://www.hltv.org/news/38286/electronic-on-boombl4-primary-awping-it-worked-better-than-other-options
-2024/02/21 07:14:48 Skipping writing post, no content: https://www.hltv.org/news/38285/guild-eagles-send-nexus-packing-from-rmr
-2024/02/21 07:14:48 Templated 86 posts, took 13.588885ms
+2024/02/21 07:26:34 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/02/21 07:26:34 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 176.725989ms
+2024/02/21 07:26:34 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 237.414689ms
+2024/02/21 07:26:34 Fetched posts from https://blogtienao.com/feed, took 549.0025ms
+2024/02/21 07:26:34 Content still empty after HTML reader: https://www.hltv.org/news/38294/los-release-team-after-less-than-two-months
+2024/02/21 07:26:34 Content still empty after HTML reader: https://www.hltv.org/news/38289/siuhy-we-can-see-brollan-having-a-lot-of-fun-which-maybe-he-previously-didnt
+2024/02/21 07:26:34 Content still empty after HTML reader: https://www.hltv.org/news/38293/aaron-i-would-say-fk-you-to-accusations-if-we-at-least-won-one-or-two-matches
+2024/02/21 07:26:34 Content still empty after HTML reader: https://www.hltv.org/news/38287/juanflatroo-were-probably-at-30-of-what-we-can-do
+2024/02/21 07:26:34 Content still empty after HTML reader: https://www.hltv.org/news/38292/esl-challenger-melbourne-invites-revealed
+2024/02/21 07:26:34 Content still empty after HTML reader: https://www.hltv.org/news/38291/round-four-matchups-set-for-eu-rmr-b
+2024/02/21 07:26:34 Content still empty after HTML reader: https://www.hltv.org/news/38290/preasy-stay-alive-in-rmr-after-pera-victory
+2024/02/21 07:26:34 Content still empty after HTML reader: https://www.hltv.org/news/38288/mouz-beat-spirit-to-punch-ticket-to-pgl-major
+2024/02/21 07:26:34 Fetched posts from https://vlr.gg/rss, took 711.026504ms
+2024/02/21 07:26:34 Content still empty after HTML reader: https://www.hltv.org/news/38286/electronic-on-boombl4-primary-awping-it-worked-better-than-other-options
+2024/02/21 07:26:35 Content still empty after HTML reader: https://www.hltv.org/news/38285/guild-eagles-send-nexus-packing-from-rmr
+2024/02/21 07:26:35 Fetched posts from https://www.hltv.org/rss/news, took 733.015307ms
+2024/02/21 07:26:35 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 924.914963ms
+2024/02/21 07:26:35 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 953.872873ms
+2024/02/21 07:26:47 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 12.775287546s
+2024/02/21 07:26:47 Skipping writing post, no content: https://www.hltv.org/news/38294/los-release-team-after-less-than-two-months
+2024/02/21 07:26:47 Skipping writing post, no content: https://www.hltv.org/news/38289/siuhy-we-can-see-brollan-having-a-lot-of-fun-which-maybe-he-previously-didnt
+2024/02/21 07:26:47 Skipping writing post, no content: https://www.hltv.org/news/38293/aaron-i-would-say-fk-you-to-accusations-if-we-at-least-won-one-or-two-matches
+2024/02/21 07:26:47 Skipping writing post, no content: https://www.hltv.org/news/38287/juanflatroo-were-probably-at-30-of-what-we-can-do
+2024/02/21 07:26:47 Skipping writing post, no content: https://www.hltv.org/news/38292/esl-challenger-melbourne-invites-revealed
+2024/02/21 07:26:47 Skipping writing post, no content: https://www.hltv.org/news/38291/round-four-matchups-set-for-eu-rmr-b
+2024/02/21 07:26:47 Skipping writing post, no content: https://www.hltv.org/news/38290/preasy-stay-alive-in-rmr-after-pera-victory
+2024/02/21 07:26:47 Skipping writing post, no content: https://www.hltv.org/news/38288/mouz-beat-spirit-to-punch-ticket-to-pgl-major
+2024/02/21 07:26:47 Skipping writing post, no content: https://www.hltv.org/news/38286/electronic-on-boombl4-primary-awping-it-worked-better-than-other-options
+2024/02/21 07:26:47 Skipping writing post, no content: https://www.hltv.org/news/38285/guild-eagles-send-nexus-packing-from-rmr
+2024/02/21 07:26:47 Templated 86 posts, took 13.314445ms
