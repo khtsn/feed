@@ -1,30 +1,30 @@
-2024/02/22 09:16:45 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/02/22 09:16:45 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 149.093305ms
-2024/02/22 09:16:45 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 161.430813ms
-2024/02/22 09:16:45 Content still empty after HTML reader: https://www.hltv.org/news/38311/live-updates-from-europe-rmr-b-day-4
-2024/02/22 09:16:45 Content still empty after HTML reader: https://www.hltv.org/news/38302/styko-i-came-to-the-rmr-to-do-one-job-and-that-job-is-done
-2024/02/22 09:16:45 Content still empty after HTML reader: https://www.hltv.org/news/38309/ramziin-joins-nip-impact
-2024/02/22 09:16:45 Content still empty after HTML reader: https://www.hltv.org/news/38307/dupreeh-on-missing-his-first-major-i-guess-im-mortal-after-all
-2024/02/22 09:16:45 Content still empty after HTML reader: https://www.hltv.org/news/38308/ence-vs-astralis-headlines-europe-rmr-round-5
-2024/02/22 09:16:45 Content still empty after HTML reader: https://www.hltv.org/news/38306/spirit-qualify-for-pgl-major-copenhagen
-2024/02/22 09:16:45 Content still empty after HTML reader: https://www.hltv.org/news/38303/dupreehs-major-streak-ends-as-preasy-are-knocked-out-of-europe-rmr
-2024/02/22 09:16:45 Content still empty after HTML reader: https://www.hltv.org/news/38305/into-the-breach-bench-duo-after-rmr-elimination
-2024/02/22 09:16:45 Content still empty after HTML reader: https://www.hltv.org/news/38304/vitality-outclass-ence-to-earn-major-berth
-2024/02/22 09:16:45 Content still empty after HTML reader: https://www.hltv.org/news/38301/og-knocked-out-by-gamerlegion-in-bucharest
-2024/02/22 09:16:45 Fetched posts from https://www.hltv.org/rss/news, took 355.364072ms
-2024/02/22 09:16:45 Fetched posts from https://vlr.gg/rss, took 524.732762ms
-2024/02/22 09:16:45 Fetched posts from https://blogtienao.com/feed, took 670.832559ms
-2024/02/22 09:16:45 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 964.964116ms
-2024/02/22 09:16:45 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.088546904s
-2024/02/22 09:16:59 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.25963549s
-2024/02/22 09:16:59 Skipping writing post, no content: https://www.hltv.org/news/38311/live-updates-from-europe-rmr-b-day-4
-2024/02/22 09:16:59 Skipping writing post, no content: https://www.hltv.org/news/38302/styko-i-came-to-the-rmr-to-do-one-job-and-that-job-is-done
-2024/02/22 09:16:59 Skipping writing post, no content: https://www.hltv.org/news/38309/ramziin-joins-nip-impact
-2024/02/22 09:16:59 Skipping writing post, no content: https://www.hltv.org/news/38307/dupreeh-on-missing-his-first-major-i-guess-im-mortal-after-all
-2024/02/22 09:16:59 Skipping writing post, no content: https://www.hltv.org/news/38308/ence-vs-astralis-headlines-europe-rmr-round-5
-2024/02/22 09:16:59 Skipping writing post, no content: https://www.hltv.org/news/38306/spirit-qualify-for-pgl-major-copenhagen
-2024/02/22 09:16:59 Skipping writing post, no content: https://www.hltv.org/news/38303/dupreehs-major-streak-ends-as-preasy-are-knocked-out-of-europe-rmr
-2024/02/22 09:16:59 Skipping writing post, no content: https://www.hltv.org/news/38305/into-the-breach-bench-duo-after-rmr-elimination
-2024/02/22 09:16:59 Skipping writing post, no content: https://www.hltv.org/news/38304/vitality-outclass-ence-to-earn-major-berth
-2024/02/22 09:16:59 Skipping writing post, no content: https://www.hltv.org/news/38301/og-knocked-out-by-gamerlegion-in-bucharest
-2024/02/22 09:16:59 Templated 86 posts, took 13.04202ms
+2024/02/22 09:37:21 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/02/22 09:37:21 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 113.545527ms
+2024/02/22 09:37:21 Content still empty after HTML reader: https://www.hltv.org/news/38311/live-updates-from-europe-rmr-b-day-4
+2024/02/22 09:37:21 Content still empty after HTML reader: https://www.hltv.org/news/38302/styko-i-came-to-the-rmr-to-do-one-job-and-that-job-is-done
+2024/02/22 09:37:21 Content still empty after HTML reader: https://www.hltv.org/news/38309/ramziin-joins-nip-impact
+2024/02/22 09:37:21 Content still empty after HTML reader: https://www.hltv.org/news/38307/dupreeh-on-missing-his-first-major-i-guess-im-mortal-after-all
+2024/02/22 09:37:21 Content still empty after HTML reader: https://www.hltv.org/news/38308/ence-vs-astralis-headlines-europe-rmr-round-5
+2024/02/22 09:37:21 Content still empty after HTML reader: https://www.hltv.org/news/38306/spirit-qualify-for-pgl-major-copenhagen
+2024/02/22 09:37:21 Content still empty after HTML reader: https://www.hltv.org/news/38303/dupreehs-major-streak-ends-as-preasy-are-knocked-out-of-europe-rmr
+2024/02/22 09:37:21 Content still empty after HTML reader: https://www.hltv.org/news/38305/into-the-breach-bench-duo-after-rmr-elimination
+2024/02/22 09:37:21 Content still empty after HTML reader: https://www.hltv.org/news/38304/vitality-outclass-ence-to-earn-major-berth
+2024/02/22 09:37:21 Content still empty after HTML reader: https://www.hltv.org/news/38301/og-knocked-out-by-gamerlegion-in-bucharest
+2024/02/22 09:37:21 Fetched posts from https://www.hltv.org/rss/news, took 409.599188ms
+2024/02/22 09:37:21 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 444.636039ms
+2024/02/22 09:37:22 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 652.822102ms
+2024/02/22 09:37:22 Fetched posts from https://blogtienao.com/feed, took 901.268666ms
+2024/02/22 09:37:22 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.04345493s
+2024/02/22 09:37:22 Fetched posts from https://vlr.gg/rss, took 1.30680466s
+2024/02/22 09:37:32 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 11.119662757s
+2024/02/22 09:37:32 Skipping writing post, no content: https://www.hltv.org/news/38311/live-updates-from-europe-rmr-b-day-4
+2024/02/22 09:37:32 Skipping writing post, no content: https://www.hltv.org/news/38302/styko-i-came-to-the-rmr-to-do-one-job-and-that-job-is-done
+2024/02/22 09:37:32 Skipping writing post, no content: https://www.hltv.org/news/38309/ramziin-joins-nip-impact
+2024/02/22 09:37:32 Skipping writing post, no content: https://www.hltv.org/news/38307/dupreeh-on-missing-his-first-major-i-guess-im-mortal-after-all
+2024/02/22 09:37:32 Skipping writing post, no content: https://www.hltv.org/news/38308/ence-vs-astralis-headlines-europe-rmr-round-5
+2024/02/22 09:37:32 Skipping writing post, no content: https://www.hltv.org/news/38306/spirit-qualify-for-pgl-major-copenhagen
+2024/02/22 09:37:32 Skipping writing post, no content: https://www.hltv.org/news/38303/dupreehs-major-streak-ends-as-preasy-are-knocked-out-of-europe-rmr
+2024/02/22 09:37:32 Skipping writing post, no content: https://www.hltv.org/news/38305/into-the-breach-bench-duo-after-rmr-elimination
+2024/02/22 09:37:32 Skipping writing post, no content: https://www.hltv.org/news/38304/vitality-outclass-ence-to-earn-major-berth
+2024/02/22 09:37:32 Skipping writing post, no content: https://www.hltv.org/news/38301/og-knocked-out-by-gamerlegion-in-bucharest
+2024/02/22 09:37:32 Templated 86 posts, took 12.832394ms
