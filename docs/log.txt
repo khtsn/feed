@@ -1,30 +1,28 @@
-2024/02/22 16:20:21 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/02/22 16:20:21 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 136.67164ms
-2024/02/22 16:20:21 Content still empty after HTML reader: https://www.hltv.org/news/38315/ecstatic-book-spot-at-home-major
-2024/02/22 16:20:21 Content still empty after HTML reader: https://www.hltv.org/news/38310/sprout-announce-new-academy-lineup
-2024/02/22 16:20:21 Content still empty after HTML reader: https://www.hltv.org/news/38313/gla1ve-and-ence-truimph-over-astralis-again-to-secure-copenhagen-spot
-2024/02/22 16:20:21 Content still empty after HTML reader: https://www.hltv.org/news/38295/nrg-invited-to-replace-rocket-at-americas-rmr
-2024/02/22 16:20:21 Content still empty after HTML reader: https://www.hltv.org/news/38311/live-updates-from-europe-rmr-b-day-4
-2024/02/22 16:20:21 Content still empty after HTML reader: https://www.hltv.org/news/38302/styko-i-came-to-the-rmr-to-do-one-job-and-that-job-is-done
-2024/02/22 16:20:21 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 400.861245ms
-2024/02/22 16:20:21 Content still empty after HTML reader: https://www.hltv.org/news/38309/ramziin-joins-nip-impact
-2024/02/22 16:20:21 Content still empty after HTML reader: https://www.hltv.org/news/38307/dupreeh-on-missing-his-first-major-i-guess-im-mortal-after-all
-2024/02/22 16:20:21 Content still empty after HTML reader: https://www.hltv.org/news/38308/ence-vs-astralis-headlines-europe-rmr-round-5
-2024/02/22 16:20:21 Content still empty after HTML reader: https://www.hltv.org/news/38306/spirit-qualify-for-pgl-major-copenhagen
-2024/02/22 16:20:21 Fetched posts from https://www.hltv.org/rss/news, took 441.097998ms
-2024/02/22 16:20:22 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 792.863048ms
-2024/02/22 16:20:22 Fetched posts from https://blogtienao.com/feed, took 917.899965ms
-2024/02/22 16:20:22 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 998.756727ms
-2024/02/22 16:20:22 Fetched posts from https://vlr.gg/rss, took 1.42457641s
-2024/02/22 16:20:31 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 10.578630269s
-2024/02/22 16:20:31 Skipping writing post, no content: https://www.hltv.org/news/38315/ecstatic-book-spot-at-home-major
-2024/02/22 16:20:31 Skipping writing post, no content: https://www.hltv.org/news/38310/sprout-announce-new-academy-lineup
-2024/02/22 16:20:31 Skipping writing post, no content: https://www.hltv.org/news/38313/gla1ve-and-ence-truimph-over-astralis-again-to-secure-copenhagen-spot
-2024/02/22 16:20:31 Skipping writing post, no content: https://www.hltv.org/news/38295/nrg-invited-to-replace-rocket-at-americas-rmr
-2024/02/22 16:20:31 Skipping writing post, no content: https://www.hltv.org/news/38311/live-updates-from-europe-rmr-b-day-4
-2024/02/22 16:20:31 Skipping writing post, no content: https://www.hltv.org/news/38302/styko-i-came-to-the-rmr-to-do-one-job-and-that-job-is-done
-2024/02/22 16:20:31 Skipping writing post, no content: https://www.hltv.org/news/38309/ramziin-joins-nip-impact
-2024/02/22 16:20:31 Skipping writing post, no content: https://www.hltv.org/news/38307/dupreeh-on-missing-his-first-major-i-guess-im-mortal-after-all
-2024/02/22 16:20:31 Skipping writing post, no content: https://www.hltv.org/news/38308/ence-vs-astralis-headlines-europe-rmr-round-5
-2024/02/22 16:20:31 Skipping writing post, no content: https://www.hltv.org/news/38306/spirit-qualify-for-pgl-major-copenhagen
-2024/02/22 16:20:31 Templated 90 posts, took 14.509856ms
+2024/02/22 16:38:35 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/02/22 16:38:35 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 116.024962ms
+2024/02/22 16:38:35 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 158.664887ms
+2024/02/22 16:38:35 Content still empty after HTML reader: https://www.hltv.org/news/38315/ecstatic-book-spot-at-home-major
+2024/02/22 16:38:35 Content still empty after HTML reader: https://www.hltv.org/news/38310/sprout-announce-new-academy-lineup
+2024/02/22 16:38:35 Content still empty after HTML reader: https://www.hltv.org/news/38313/gla1ve-and-ence-truimph-over-astralis-again-to-secure-copenhagen-spot
+2024/02/22 16:38:35 Content still empty after HTML reader: https://www.hltv.org/news/38295/nrg-invited-to-replace-rocket-at-americas-rmr
+2024/02/22 16:38:35 Content still empty after HTML reader: https://www.hltv.org/news/38311/live-updates-from-europe-rmr-b-day-4
+2024/02/22 16:38:35 Content still empty after HTML reader: https://www.hltv.org/news/38302/styko-i-came-to-the-rmr-to-do-one-job-and-that-job-is-done
+2024/02/22 16:38:35 Content still empty after HTML reader: https://www.hltv.org/news/38309/ramziin-joins-nip-impact
+2024/02/22 16:38:35 Content still empty after HTML reader: https://www.hltv.org/news/38307/dupreeh-on-missing-his-first-major-i-guess-im-mortal-after-all
+2024/02/22 16:38:35 Content still empty after HTML reader: https://www.hltv.org/news/38308/ence-vs-astralis-headlines-europe-rmr-round-5
+2024/02/22 16:38:35 Fetched posts from https://www.hltv.org/rss/news, took 399.729172ms
+2024/02/22 16:38:35 Fetched posts from https://vlr.gg/rss, took 433.659648ms
+2024/02/22 16:38:36 Fetched posts from https://blogtienao.com/feed, took 614.417099ms
+2024/02/22 16:38:36 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 720.762963ms
+2024/02/22 16:38:36 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 873.941166ms
+2024/02/22 16:38:46 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 11.439886987s
+2024/02/22 16:38:46 Skipping writing post, no content: https://www.hltv.org/news/38315/ecstatic-book-spot-at-home-major
+2024/02/22 16:38:46 Skipping writing post, no content: https://www.hltv.org/news/38310/sprout-announce-new-academy-lineup
+2024/02/22 16:38:46 Skipping writing post, no content: https://www.hltv.org/news/38313/gla1ve-and-ence-truimph-over-astralis-again-to-secure-copenhagen-spot
+2024/02/22 16:38:46 Skipping writing post, no content: https://www.hltv.org/news/38295/nrg-invited-to-replace-rocket-at-americas-rmr
+2024/02/22 16:38:46 Skipping writing post, no content: https://www.hltv.org/news/38311/live-updates-from-europe-rmr-b-day-4
+2024/02/22 16:38:46 Skipping writing post, no content: https://www.hltv.org/news/38302/styko-i-came-to-the-rmr-to-do-one-job-and-that-job-is-done
+2024/02/22 16:38:46 Skipping writing post, no content: https://www.hltv.org/news/38309/ramziin-joins-nip-impact
+2024/02/22 16:38:46 Skipping writing post, no content: https://www.hltv.org/news/38307/dupreeh-on-missing-his-first-major-i-guess-im-mortal-after-all
+2024/02/22 16:38:46 Skipping writing post, no content: https://www.hltv.org/news/38308/ence-vs-astralis-headlines-europe-rmr-round-5
+2024/02/22 16:38:47 Templated 91 posts, took 14.964994ms
