@@ -1,28 +1,30 @@
-2024/02/23 10:52:31 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/02/23 10:52:31 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 180.648228ms
-2024/02/23 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/38321/live-updates-from-europe-rmr-last-chance-qualifier-day-1
-2024/02/23 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/38320/nertz-its-just-a-matter-of-time-before-we-are-one-of-the-best-teams-in-the-world
-2024/02/23 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/38314/kylar-i-spend-more-time-with-gla1ve-at-tournaments-than-with-the-polish-guys
-2024/02/23 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/38319/six-teams-fight-for-one-major-spot-in-eu-lcq
-2024/02/23 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/38318/tsm-bench-modo
-2024/02/23 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/38317/heroic-punch-ticket-to-major-over-gamerlegion
-2024/02/23 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/38312/flamez-we-took-katowice-as-a-good-slap-in-the-face
-2024/02/23 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/38315/ecstatic-book-spot-at-home-major
-2024/02/23 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/38310/sprout-announce-new-academy-lineup
-2024/02/23 10:52:31 Fetched posts from https://www.hltv.org/rss/news, took 326.780845ms
-2024/02/23 10:52:31 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 391.205889ms
-2024/02/23 10:52:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 812.900455ms
-2024/02/23 10:52:32 Fetched posts from https://blogtienao.com/feed, took 955.386718ms
-2024/02/23 10:52:32 Fetched posts from https://vlr.gg/rss, took 1.117684767s
-2024/02/23 10:52:33 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.735871184s
-2024/02/23 10:52:44 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.278884326s
-2024/02/23 10:52:44 Skipping writing post, no content: https://www.hltv.org/news/38321/live-updates-from-europe-rmr-last-chance-qualifier-day-1
-2024/02/23 10:52:44 Skipping writing post, no content: https://www.hltv.org/news/38320/nertz-its-just-a-matter-of-time-before-we-are-one-of-the-best-teams-in-the-world
-2024/02/23 10:52:44 Skipping writing post, no content: https://www.hltv.org/news/38314/kylar-i-spend-more-time-with-gla1ve-at-tournaments-than-with-the-polish-guys
-2024/02/23 10:52:44 Skipping writing post, no content: https://www.hltv.org/news/38319/six-teams-fight-for-one-major-spot-in-eu-lcq
-2024/02/23 10:52:44 Skipping writing post, no content: https://www.hltv.org/news/38318/tsm-bench-modo
-2024/02/23 10:52:44 Skipping writing post, no content: https://www.hltv.org/news/38317/heroic-punch-ticket-to-major-over-gamerlegion
-2024/02/23 10:52:44 Skipping writing post, no content: https://www.hltv.org/news/38312/flamez-we-took-katowice-as-a-good-slap-in-the-face
-2024/02/23 10:52:44 Skipping writing post, no content: https://www.hltv.org/news/38315/ecstatic-book-spot-at-home-major
-2024/02/23 10:52:44 Skipping writing post, no content: https://www.hltv.org/news/38310/sprout-announce-new-academy-lineup
-2024/02/23 10:52:44 Templated 85 posts, took 14.020179ms
+2024/02/23 11:13:26 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/02/23 11:13:26 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 163.678847ms
+2024/02/23 11:13:26 Content still empty after HTML reader: https://www.hltv.org/news/38321/live-updates-from-europe-rmr-last-chance-qualifier-day-1
+2024/02/23 11:13:26 Content still empty after HTML reader: https://www.hltv.org/news/38320/nertz-its-just-a-matter-of-time-before-we-are-one-of-the-best-teams-in-the-world
+2024/02/23 11:13:26 Content still empty after HTML reader: https://www.hltv.org/news/38316/salazar-if-you-said-we-might-be-the-only-danish-team-at-the-major-i-wouldnt-believe-you
+2024/02/23 11:13:26 Content still empty after HTML reader: https://www.hltv.org/news/38314/kylar-i-spend-more-time-with-gla1ve-at-tournaments-than-with-the-polish-guys
+2024/02/23 11:13:26 Content still empty after HTML reader: https://www.hltv.org/news/38319/six-teams-fight-for-one-major-spot-in-eu-lcq
+2024/02/23 11:13:26 Content still empty after HTML reader: https://www.hltv.org/news/38318/tsm-bench-modo
+2024/02/23 11:13:26 Content still empty after HTML reader: https://www.hltv.org/news/38317/heroic-punch-ticket-to-major-over-gamerlegion
+2024/02/23 11:13:26 Content still empty after HTML reader: https://www.hltv.org/news/38312/flamez-we-took-katowice-as-a-good-slap-in-the-face
+2024/02/23 11:13:26 Fetched posts from https://vlr.gg/rss, took 373.949091ms
+2024/02/23 11:13:26 Content still empty after HTML reader: https://www.hltv.org/news/38315/ecstatic-book-spot-at-home-major
+2024/02/23 11:13:26 Content still empty after HTML reader: https://www.hltv.org/news/38310/sprout-announce-new-academy-lineup
+2024/02/23 11:13:26 Fetched posts from https://www.hltv.org/rss/news, took 389.437135ms
+2024/02/23 11:13:26 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 528.676776ms
+2024/02/23 11:13:26 Fetched posts from https://blogtienao.com/feed, took 697.597639ms
+2024/02/23 11:13:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 969.371411ms
+2024/02/23 11:13:27 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.414893813s
+2024/02/23 11:13:39 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.282675902s
+2024/02/23 11:13:39 Skipping writing post, no content: https://www.hltv.org/news/38321/live-updates-from-europe-rmr-last-chance-qualifier-day-1
+2024/02/23 11:13:39 Skipping writing post, no content: https://www.hltv.org/news/38320/nertz-its-just-a-matter-of-time-before-we-are-one-of-the-best-teams-in-the-world
+2024/02/23 11:13:39 Skipping writing post, no content: https://www.hltv.org/news/38316/salazar-if-you-said-we-might-be-the-only-danish-team-at-the-major-i-wouldnt-believe-you
+2024/02/23 11:13:39 Skipping writing post, no content: https://www.hltv.org/news/38314/kylar-i-spend-more-time-with-gla1ve-at-tournaments-than-with-the-polish-guys
+2024/02/23 11:13:39 Skipping writing post, no content: https://www.hltv.org/news/38319/six-teams-fight-for-one-major-spot-in-eu-lcq
+2024/02/23 11:13:39 Skipping writing post, no content: https://www.hltv.org/news/38318/tsm-bench-modo
+2024/02/23 11:13:39 Skipping writing post, no content: https://www.hltv.org/news/38317/heroic-punch-ticket-to-major-over-gamerlegion
+2024/02/23 11:13:39 Skipping writing post, no content: https://www.hltv.org/news/38312/flamez-we-took-katowice-as-a-good-slap-in-the-face
+2024/02/23 11:13:39 Skipping writing post, no content: https://www.hltv.org/news/38315/ecstatic-book-spot-at-home-major
+2024/02/23 11:13:39 Skipping writing post, no content: https://www.hltv.org/news/38310/sprout-announce-new-academy-lineup
+2024/02/23 11:13:39 Templated 84 posts, took 14.093193ms
