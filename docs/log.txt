@@ -1,30 +1,30 @@
-2024/02/23 19:52:07 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/02/23 19:52:07 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 85.818005ms
-2024/02/23 19:52:08 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 376.827965ms
-2024/02/23 19:52:08 Content still empty after HTML reader: https://www.hltv.org/news/38330/havu-announce-puuha-signing
-2024/02/23 19:52:08 Content still empty after HTML reader: https://www.hltv.org/news/38328/alternate-attax-secure-big-academy-duo-on-loan
-2024/02/23 19:52:08 Content still empty after HTML reader: https://www.hltv.org/news/38326/gamerlegion-eliminate-fnatic-from-major-contention
-2024/02/23 19:52:08 Content still empty after HTML reader: https://www.hltv.org/news/38327/tsm-finalize-roster-with-poizon-and-kwertzz
-2024/02/23 19:52:08 Content still empty after HTML reader: https://www.hltv.org/news/38324/9ine-part-ways-with-mhl-move-kukubambo-to-academy-roster
-2024/02/23 19:52:08 Content still empty after HTML reader: https://www.hltv.org/news/38325/guild-eagles-eliminate-betboom-from-last-chance-qualifier
-2024/02/23 19:52:08 Content still empty after HTML reader: https://www.hltv.org/news/38323/astralis-dismal-rmr-run-ended-by-9-pandas
-2024/02/23 19:52:08 Content still empty after HTML reader: https://www.hltv.org/news/38322/twisted-minds-replace-15-average-in-asia-rmr
-2024/02/23 19:52:08 Content still empty after HTML reader: https://www.hltv.org/news/38321/live-updates-from-europe-rmr-last-chance-qualifier-day-1
-2024/02/23 19:52:08 Content still empty after HTML reader: https://www.hltv.org/news/38320/nertz-its-just-a-matter-of-time-before-we-are-one-of-the-best-teams-in-the-world
-2024/02/23 19:52:08 Fetched posts from https://www.hltv.org/rss/news, took 466.762569ms
-2024/02/23 19:52:08 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 762.291118ms
-2024/02/23 19:52:08 Fetched posts from https://blogtienao.com/feed, took 920.608051ms
-2024/02/23 19:52:08 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.169602501s
-2024/02/23 19:52:09 Fetched posts from https://vlr.gg/rss, took 1.370017423s
-2024/02/23 19:52:21 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.168485861s
-2024/02/23 19:52:21 Skipping writing post, no content: https://www.hltv.org/news/38330/havu-announce-puuha-signing
-2024/02/23 19:52:21 Skipping writing post, no content: https://www.hltv.org/news/38328/alternate-attax-secure-big-academy-duo-on-loan
-2024/02/23 19:52:21 Skipping writing post, no content: https://www.hltv.org/news/38326/gamerlegion-eliminate-fnatic-from-major-contention
-2024/02/23 19:52:21 Skipping writing post, no content: https://www.hltv.org/news/38327/tsm-finalize-roster-with-poizon-and-kwertzz
-2024/02/23 19:52:21 Skipping writing post, no content: https://www.hltv.org/news/38324/9ine-part-ways-with-mhl-move-kukubambo-to-academy-roster
-2024/02/23 19:52:21 Skipping writing post, no content: https://www.hltv.org/news/38325/guild-eagles-eliminate-betboom-from-last-chance-qualifier
-2024/02/23 19:52:21 Skipping writing post, no content: https://www.hltv.org/news/38323/astralis-dismal-rmr-run-ended-by-9-pandas
-2024/02/23 19:52:21 Skipping writing post, no content: https://www.hltv.org/news/38322/twisted-minds-replace-15-average-in-asia-rmr
-2024/02/23 19:52:21 Skipping writing post, no content: https://www.hltv.org/news/38321/live-updates-from-europe-rmr-last-chance-qualifier-day-1
-2024/02/23 19:52:21 Skipping writing post, no content: https://www.hltv.org/news/38320/nertz-its-just-a-matter-of-time-before-we-are-one-of-the-best-teams-in-the-world
-2024/02/23 19:52:21 Templated 85 posts, took 14.192554ms
+2024/02/23 20:17:57 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/02/23 20:17:57 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 199.20443ms
+2024/02/23 20:17:57 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 223.22494ms
+2024/02/23 20:17:57 Content still empty after HTML reader: https://www.hltv.org/news/38330/havu-announce-puuha-signing
+2024/02/23 20:17:57 Content still empty after HTML reader: https://www.hltv.org/news/38328/alternate-attax-secure-big-academy-duo-on-loan
+2024/02/23 20:17:57 Content still empty after HTML reader: https://www.hltv.org/news/38326/gamerlegion-eliminate-fnatic-from-major-contention
+2024/02/23 20:17:57 Content still empty after HTML reader: https://www.hltv.org/news/38327/tsm-finalize-roster-with-poizon-and-kwertzz
+2024/02/23 20:17:57 Content still empty after HTML reader: https://www.hltv.org/news/38324/9ine-part-ways-with-mhl-move-kukubambo-to-academy-roster
+2024/02/23 20:17:57 Content still empty after HTML reader: https://www.hltv.org/news/38325/guild-eagles-eliminate-betboom-from-last-chance-qualifier
+2024/02/23 20:17:57 Content still empty after HTML reader: https://www.hltv.org/news/38323/astralis-dismal-rmr-run-ended-by-9-pandas
+2024/02/23 20:17:57 Content still empty after HTML reader: https://www.hltv.org/news/38322/twisted-minds-replace-15-average-in-asia-rmr
+2024/02/23 20:17:57 Fetched posts from https://blogtienao.com/feed, took 724.954928ms
+2024/02/23 20:17:57 Content still empty after HTML reader: https://www.hltv.org/news/38321/live-updates-from-europe-rmr-last-chance-qualifier-day-1
+2024/02/23 20:17:57 Fetched posts from https://vlr.gg/rss, took 735.890639ms
+2024/02/23 20:17:57 Content still empty after HTML reader: https://www.hltv.org/news/38320/nertz-its-just-a-matter-of-time-before-we-are-one-of-the-best-teams-in-the-world
+2024/02/23 20:17:57 Fetched posts from https://www.hltv.org/rss/news, took 752.970462ms
+2024/02/23 20:17:58 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 996.307179ms
+2024/02/23 20:17:58 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.075123414s
+2024/02/23 20:18:10 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.517287718s
+2024/02/23 20:18:10 Skipping writing post, no content: https://www.hltv.org/news/38330/havu-announce-puuha-signing
+2024/02/23 20:18:10 Skipping writing post, no content: https://www.hltv.org/news/38328/alternate-attax-secure-big-academy-duo-on-loan
+2024/02/23 20:18:10 Skipping writing post, no content: https://www.hltv.org/news/38326/gamerlegion-eliminate-fnatic-from-major-contention
+2024/02/23 20:18:10 Skipping writing post, no content: https://www.hltv.org/news/38327/tsm-finalize-roster-with-poizon-and-kwertzz
+2024/02/23 20:18:10 Skipping writing post, no content: https://www.hltv.org/news/38324/9ine-part-ways-with-mhl-move-kukubambo-to-academy-roster
+2024/02/23 20:18:10 Skipping writing post, no content: https://www.hltv.org/news/38325/guild-eagles-eliminate-betboom-from-last-chance-qualifier
+2024/02/23 20:18:10 Skipping writing post, no content: https://www.hltv.org/news/38323/astralis-dismal-rmr-run-ended-by-9-pandas
+2024/02/23 20:18:10 Skipping writing post, no content: https://www.hltv.org/news/38322/twisted-minds-replace-15-average-in-asia-rmr
+2024/02/23 20:18:10 Skipping writing post, no content: https://www.hltv.org/news/38321/live-updates-from-europe-rmr-last-chance-qualifier-day-1
+2024/02/23 20:18:10 Skipping writing post, no content: https://www.hltv.org/news/38320/nertz-its-just-a-matter-of-time-before-we-are-one-of-the-best-teams-in-the-world
+2024/02/23 20:18:10 Templated 86 posts, took 14.117106ms
