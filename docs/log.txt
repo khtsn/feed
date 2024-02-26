@@ -1,30 +1,30 @@
-2024/02/26 16:20:09 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/02/26 16:20:09 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 152.767018ms
-2024/02/26 16:20:09 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 397.772291ms
-2024/02/26 16:20:10 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 712.254038ms
-2024/02/26 16:20:10 Fetched posts from https://blogtienao.com/feed, took 944.394564ms
-2024/02/26 16:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38347/g2-part-ways-with-jks
-2024/02/26 16:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38348/sdy-departs-monte-by-mutual-agreement
-2024/02/26 16:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38346/themongolz-and-lynn-vision-one-win-away-from-pgl-major
-2024/02/26 16:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38345/live-updates-from-asia-rmr-day-1
-2024/02/26 16:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38344/skyesports-to-run-350000-lan-event-in-april
-2024/02/26 16:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38343/techno-in-asia-any-team-can-win-against-any-team
-2024/02/26 16:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38342/best-photos-from-the-pgl-major-copenhagen-europe-rmrs
-2024/02/26 16:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38341/rmr-winners-and-losers-discussed-on-hltv-confirmed-with-kyxsan
-2024/02/26 16:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38340/dexter-i-dont-think-people-really-believed-in-me-in-fnatic
-2024/02/26 16:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38339/seized-on-major-return-in-other-teams-i-doubted-it-but-with-this-team-i-believed
-2024/02/26 16:20:10 Fetched posts from https://www.hltv.org/rss/news, took 1.407348796s
-2024/02/26 16:20:10 Fetched posts from https://vlr.gg/rss, took 1.647018506s
-2024/02/26 16:20:11 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.493266414s
-2024/02/26 16:20:22 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.057779391s
-2024/02/26 16:20:22 Skipping writing post, no content: https://www.hltv.org/news/38347/g2-part-ways-with-jks
-2024/02/26 16:20:22 Skipping writing post, no content: https://www.hltv.org/news/38348/sdy-departs-monte-by-mutual-agreement
-2024/02/26 16:20:22 Skipping writing post, no content: https://www.hltv.org/news/38346/themongolz-and-lynn-vision-one-win-away-from-pgl-major
-2024/02/26 16:20:22 Skipping writing post, no content: https://www.hltv.org/news/38345/live-updates-from-asia-rmr-day-1
-2024/02/26 16:20:22 Skipping writing post, no content: https://www.hltv.org/news/38344/skyesports-to-run-350000-lan-event-in-april
-2024/02/26 16:20:22 Skipping writing post, no content: https://www.hltv.org/news/38343/techno-in-asia-any-team-can-win-against-any-team
-2024/02/26 16:20:22 Skipping writing post, no content: https://www.hltv.org/news/38342/best-photos-from-the-pgl-major-copenhagen-europe-rmrs
-2024/02/26 16:20:22 Skipping writing post, no content: https://www.hltv.org/news/38341/rmr-winners-and-losers-discussed-on-hltv-confirmed-with-kyxsan
-2024/02/26 16:20:22 Skipping writing post, no content: https://www.hltv.org/news/38340/dexter-i-dont-think-people-really-believed-in-me-in-fnatic
-2024/02/26 16:20:22 Skipping writing post, no content: https://www.hltv.org/news/38339/seized-on-major-return-in-other-teams-i-doubted-it-but-with-this-team-i-believed
-2024/02/26 16:20:22 Templated 91 posts, took 14.588527ms
+2024/02/26 16:38:33 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/02/26 16:38:33 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 190.321439ms
+2024/02/26 16:38:33 Content still empty after HTML reader: https://www.hltv.org/news/38347/g2-part-ways-with-jks
+2024/02/26 16:38:33 Content still empty after HTML reader: https://www.hltv.org/news/38348/sdy-departs-monte-by-mutual-agreement
+2024/02/26 16:38:33 Content still empty after HTML reader: https://www.hltv.org/news/38346/themongolz-and-lynn-vision-one-win-away-from-pgl-major
+2024/02/26 16:38:33 Content still empty after HTML reader: https://www.hltv.org/news/38345/live-updates-from-asia-rmr-day-1
+2024/02/26 16:38:33 Content still empty after HTML reader: https://www.hltv.org/news/38344/skyesports-to-run-350000-lan-event-in-april
+2024/02/26 16:38:33 Content still empty after HTML reader: https://www.hltv.org/news/38343/techno-in-asia-any-team-can-win-against-any-team
+2024/02/26 16:38:33 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 466.519444ms
+2024/02/26 16:38:33 Content still empty after HTML reader: https://www.hltv.org/news/38342/best-photos-from-the-pgl-major-copenhagen-europe-rmrs
+2024/02/26 16:38:33 Content still empty after HTML reader: https://www.hltv.org/news/38341/rmr-winners-and-losers-discussed-on-hltv-confirmed-with-kyxsan
+2024/02/26 16:38:33 Content still empty after HTML reader: https://www.hltv.org/news/38340/dexter-i-dont-think-people-really-believed-in-me-in-fnatic
+2024/02/26 16:38:33 Content still empty after HTML reader: https://www.hltv.org/news/38339/seized-on-major-return-in-other-teams-i-doubted-it-but-with-this-team-i-believed
+2024/02/26 16:38:33 Fetched posts from https://www.hltv.org/rss/news, took 517.810573ms
+2024/02/26 16:38:33 Fetched posts from https://blogtienao.com/feed, took 911.849252ms
+2024/02/26 16:38:34 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.183051985s
+2024/02/26 16:38:34 Fetched posts from https://vlr.gg/rss, took 1.9247941s
+2024/02/26 16:38:34 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.009757396s
+2024/02/26 16:38:43 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 11.148090674s
+2024/02/26 16:38:43 Skipping writing post, no content: https://www.hltv.org/news/38347/g2-part-ways-with-jks
+2024/02/26 16:38:43 Skipping writing post, no content: https://www.hltv.org/news/38348/sdy-departs-monte-by-mutual-agreement
+2024/02/26 16:38:43 Skipping writing post, no content: https://www.hltv.org/news/38346/themongolz-and-lynn-vision-one-win-away-from-pgl-major
+2024/02/26 16:38:43 Skipping writing post, no content: https://www.hltv.org/news/38345/live-updates-from-asia-rmr-day-1
+2024/02/26 16:38:43 Skipping writing post, no content: https://www.hltv.org/news/38344/skyesports-to-run-350000-lan-event-in-april
+2024/02/26 16:38:43 Skipping writing post, no content: https://www.hltv.org/news/38343/techno-in-asia-any-team-can-win-against-any-team
+2024/02/26 16:38:43 Skipping writing post, no content: https://www.hltv.org/news/38342/best-photos-from-the-pgl-major-copenhagen-europe-rmrs
+2024/02/26 16:38:43 Skipping writing post, no content: https://www.hltv.org/news/38341/rmr-winners-and-losers-discussed-on-hltv-confirmed-with-kyxsan
+2024/02/26 16:38:43 Skipping writing post, no content: https://www.hltv.org/news/38340/dexter-i-dont-think-people-really-believed-in-me-in-fnatic
+2024/02/26 16:38:43 Skipping writing post, no content: https://www.hltv.org/news/38339/seized-on-major-return-in-other-teams-i-doubted-it-but-with-this-team-i-believed
+2024/02/26 16:38:43 Templated 92 posts, took 14.560614ms
