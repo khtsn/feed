@@ -1,30 +1,30 @@
-2024/02/27 10:37:19 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/02/27 10:37:19 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 136.440625ms
-2024/02/27 10:37:19 Content still empty after HTML reader: https://www.hltv.org/news/38354/atox-eliminate-tyloo-from-asia-rmr
-2024/02/27 10:37:19 Content still empty after HTML reader: https://www.hltv.org/news/38353/mag-twisted-minds-eliminated-from-asia-rmr
-2024/02/27 10:37:19 Content still empty after HTML reader: https://www.hltv.org/news/38352/liquid-qualify-for-iem-dallas
-2024/02/27 10:37:19 Content still empty after HTML reader: https://www.hltv.org/news/38351/live-updates-from-asia-rmr-day-2
-2024/02/27 10:37:19 Content still empty after HTML reader: https://www.hltv.org/news/38350/kyxsan-on-his-rapid-ascent-i-still-cant-believe-it-sometimes
-2024/02/27 10:37:19 Content still empty after HTML reader: https://www.hltv.org/news/38349/jumpy-named-new-sangal-coach
-2024/02/27 10:37:19 Content still empty after HTML reader: https://www.hltv.org/news/38347/g2-part-ways-with-jks
-2024/02/27 10:37:19 Content still empty after HTML reader: https://www.hltv.org/news/38348/sdy-departs-monte-by-mutual-agreement
-2024/02/27 10:37:19 Content still empty after HTML reader: https://www.hltv.org/news/38346/themongolz-and-lynn-vision-one-win-away-from-pgl-major
-2024/02/27 10:37:19 Content still empty after HTML reader: https://www.hltv.org/news/38345/live-updates-from-asia-rmr-day-1
-2024/02/27 10:37:19 Fetched posts from https://www.hltv.org/rss/news, took 225.04453ms
-2024/02/27 10:37:20 Fetched posts from https://vlr.gg/rss, took 663.511677ms
-2024/02/27 10:37:20 Fetched posts from https://blogtienao.com/feed, took 678.907017ms
-2024/02/27 10:37:20 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 797.695833ms
-2024/02/27 10:37:20 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 813.95788ms
-2024/02/27 10:37:20 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 1.123432878s
-2024/02/27 10:37:32 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.201744829s
-2024/02/27 10:37:32 Skipping writing post, no content: https://www.hltv.org/news/38354/atox-eliminate-tyloo-from-asia-rmr
-2024/02/27 10:37:32 Skipping writing post, no content: https://www.hltv.org/news/38353/mag-twisted-minds-eliminated-from-asia-rmr
-2024/02/27 10:37:32 Skipping writing post, no content: https://www.hltv.org/news/38352/liquid-qualify-for-iem-dallas
-2024/02/27 10:37:32 Skipping writing post, no content: https://www.hltv.org/news/38351/live-updates-from-asia-rmr-day-2
-2024/02/27 10:37:32 Skipping writing post, no content: https://www.hltv.org/news/38350/kyxsan-on-his-rapid-ascent-i-still-cant-believe-it-sometimes
-2024/02/27 10:37:32 Skipping writing post, no content: https://www.hltv.org/news/38349/jumpy-named-new-sangal-coach
-2024/02/27 10:37:32 Skipping writing post, no content: https://www.hltv.org/news/38347/g2-part-ways-with-jks
-2024/02/27 10:37:32 Skipping writing post, no content: https://www.hltv.org/news/38348/sdy-departs-monte-by-mutual-agreement
-2024/02/27 10:37:32 Skipping writing post, no content: https://www.hltv.org/news/38346/themongolz-and-lynn-vision-one-win-away-from-pgl-major
-2024/02/27 10:37:32 Skipping writing post, no content: https://www.hltv.org/news/38345/live-updates-from-asia-rmr-day-1
-2024/02/27 10:37:32 Templated 83 posts, took 12.276552ms
+2024/02/27 10:52:18 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/02/27 10:52:18 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 188.052214ms
+2024/02/27 10:52:18 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 229.434858ms
+2024/02/27 10:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38354/atox-eliminate-tyloo-from-asia-rmr
+2024/02/27 10:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38353/mag-twisted-minds-eliminated-from-asia-rmr
+2024/02/27 10:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38352/liquid-qualify-for-iem-dallas
+2024/02/27 10:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38351/live-updates-from-asia-rmr-day-2
+2024/02/27 10:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38350/kyxsan-on-his-rapid-ascent-i-still-cant-believe-it-sometimes
+2024/02/27 10:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38349/jumpy-named-new-sangal-coach
+2024/02/27 10:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38347/g2-part-ways-with-jks
+2024/02/27 10:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38348/sdy-departs-monte-by-mutual-agreement
+2024/02/27 10:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38346/themongolz-and-lynn-vision-one-win-away-from-pgl-major
+2024/02/27 10:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38345/live-updates-from-asia-rmr-day-1
+2024/02/27 10:52:18 Fetched posts from https://www.hltv.org/rss/news, took 360.250508ms
+2024/02/27 10:52:18 Fetched posts from https://vlr.gg/rss, took 536.488446ms
+2024/02/27 10:52:19 Fetched posts from https://blogtienao.com/feed, took 650.064722ms
+2024/02/27 10:52:19 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 767.192358ms
+2024/02/27 10:52:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 795.758598ms
+2024/02/27 10:52:31 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.592537867s
+2024/02/27 10:52:31 Skipping writing post, no content: https://www.hltv.org/news/38354/atox-eliminate-tyloo-from-asia-rmr
+2024/02/27 10:52:31 Skipping writing post, no content: https://www.hltv.org/news/38353/mag-twisted-minds-eliminated-from-asia-rmr
+2024/02/27 10:52:31 Skipping writing post, no content: https://www.hltv.org/news/38352/liquid-qualify-for-iem-dallas
+2024/02/27 10:52:31 Skipping writing post, no content: https://www.hltv.org/news/38351/live-updates-from-asia-rmr-day-2
+2024/02/27 10:52:31 Skipping writing post, no content: https://www.hltv.org/news/38350/kyxsan-on-his-rapid-ascent-i-still-cant-believe-it-sometimes
+2024/02/27 10:52:31 Skipping writing post, no content: https://www.hltv.org/news/38349/jumpy-named-new-sangal-coach
+2024/02/27 10:52:31 Skipping writing post, no content: https://www.hltv.org/news/38347/g2-part-ways-with-jks
+2024/02/27 10:52:31 Skipping writing post, no content: https://www.hltv.org/news/38348/sdy-departs-monte-by-mutual-agreement
+2024/02/27 10:52:31 Skipping writing post, no content: https://www.hltv.org/news/38346/themongolz-and-lynn-vision-one-win-away-from-pgl-major
+2024/02/27 10:52:32 Skipping writing post, no content: https://www.hltv.org/news/38345/live-updates-from-asia-rmr-day-1
+2024/02/27 10:52:32 Templated 84 posts, took 12.668575ms
