@@ -1,30 +1,30 @@
-2024/02/27 19:13:29 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/02/27 19:13:29 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 153.304261ms
-2024/02/27 19:13:29 Content still empty after HTML reader: https://www.hltv.org/news/38357/blast-spring-showdown-opening-matchups-announced
-2024/02/27 19:13:29 Content still empty after HTML reader: https://www.hltv.org/news/38355/grayhound-ease-past-jijiehao-in-lower-bracket
-2024/02/27 19:13:29 Content still empty after HTML reader: https://www.hltv.org/news/38354/atox-eliminate-tyloo-from-asia-rmr
-2024/02/27 19:13:29 Content still empty after HTML reader: https://www.hltv.org/news/38353/mag-twisted-minds-eliminated-from-asia-rmr
-2024/02/27 19:13:29 Content still empty after HTML reader: https://www.hltv.org/news/38352/liquid-qualify-for-iem-dallas
-2024/02/27 19:13:29 Content still empty after HTML reader: https://www.hltv.org/news/38351/live-updates-from-asia-rmr-day-2
-2024/02/27 19:13:29 Content still empty after HTML reader: https://www.hltv.org/news/38350/kyxsan-on-his-rapid-ascent-i-still-cant-believe-it-sometimes
-2024/02/27 19:13:29 Content still empty after HTML reader: https://www.hltv.org/news/38349/jumpy-named-new-sangal-coach
-2024/02/27 19:13:29 Content still empty after HTML reader: https://www.hltv.org/news/38347/g2-part-ways-with-jks
-2024/02/27 19:13:29 Content still empty after HTML reader: https://www.hltv.org/news/38348/sdy-departs-monte-by-mutual-agreement
-2024/02/27 19:13:29 Fetched posts from https://www.hltv.org/rss/news, took 435.335406ms
-2024/02/27 19:13:29 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 536.872223ms
-2024/02/27 19:13:29 Fetched posts from https://vlr.gg/rss, took 584.131927ms
-2024/02/27 19:13:29 Fetched posts from https://blogtienao.com/feed, took 680.783065ms
-2024/02/27 19:13:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.018707515s
-2024/02/27 19:13:30 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.68445549s
-2024/02/27 19:13:43 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.081893766s
-2024/02/27 19:13:43 Skipping writing post, no content: https://www.hltv.org/news/38357/blast-spring-showdown-opening-matchups-announced
-2024/02/27 19:13:43 Skipping writing post, no content: https://www.hltv.org/news/38355/grayhound-ease-past-jijiehao-in-lower-bracket
-2024/02/27 19:13:43 Skipping writing post, no content: https://www.hltv.org/news/38354/atox-eliminate-tyloo-from-asia-rmr
-2024/02/27 19:13:43 Skipping writing post, no content: https://www.hltv.org/news/38353/mag-twisted-minds-eliminated-from-asia-rmr
-2024/02/27 19:13:43 Skipping writing post, no content: https://www.hltv.org/news/38352/liquid-qualify-for-iem-dallas
-2024/02/27 19:13:43 Skipping writing post, no content: https://www.hltv.org/news/38351/live-updates-from-asia-rmr-day-2
-2024/02/27 19:13:43 Skipping writing post, no content: https://www.hltv.org/news/38350/kyxsan-on-his-rapid-ascent-i-still-cant-believe-it-sometimes
-2024/02/27 19:13:43 Skipping writing post, no content: https://www.hltv.org/news/38349/jumpy-named-new-sangal-coach
-2024/02/27 19:13:43 Skipping writing post, no content: https://www.hltv.org/news/38347/g2-part-ways-with-jks
-2024/02/27 19:13:43 Skipping writing post, no content: https://www.hltv.org/news/38348/sdy-departs-monte-by-mutual-agreement
-2024/02/27 19:13:43 Templated 91 posts, took 13.957524ms
+2024/02/27 19:25:04 Content still empty after HTML reader: https://www.hltv.org/news/38357/blast-spring-showdown-opening-matchups-announced
+2024/02/27 19:25:04 Content still empty after HTML reader: https://www.hltv.org/news/38355/grayhound-ease-past-jijiehao-in-lower-bracket
+2024/02/27 19:25:04 Content still empty after HTML reader: https://www.hltv.org/news/38354/atox-eliminate-tyloo-from-asia-rmr
+2024/02/27 19:25:04 Content still empty after HTML reader: https://www.hltv.org/news/38353/mag-twisted-minds-eliminated-from-asia-rmr
+2024/02/27 19:25:04 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 201.223601ms
+2024/02/27 19:25:04 Content still empty after HTML reader: https://www.hltv.org/news/38352/liquid-qualify-for-iem-dallas
+2024/02/27 19:25:04 Content still empty after HTML reader: https://www.hltv.org/news/38351/live-updates-from-asia-rmr-day-2
+2024/02/27 19:25:04 Content still empty after HTML reader: https://www.hltv.org/news/38350/kyxsan-on-his-rapid-ascent-i-still-cant-believe-it-sometimes
+2024/02/27 19:25:04 Content still empty after HTML reader: https://www.hltv.org/news/38349/jumpy-named-new-sangal-coach
+2024/02/27 19:25:04 Content still empty after HTML reader: https://www.hltv.org/news/38347/g2-part-ways-with-jks
+2024/02/27 19:25:04 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/02/27 19:25:04 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 263.0868ms
+2024/02/27 19:25:04 Content still empty after HTML reader: https://www.hltv.org/news/38348/sdy-departs-monte-by-mutual-agreement
+2024/02/27 19:25:04 Fetched posts from https://www.hltv.org/rss/news, took 264.466971ms
+2024/02/27 19:25:05 Fetched posts from https://vlr.gg/rss, took 580.488848ms
+2024/02/27 19:25:05 Fetched posts from https://blogtienao.com/feed, took 683.954745ms
+2024/02/27 19:25:05 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 791.919031ms
+2024/02/27 19:25:06 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.670247829s
+2024/02/27 19:25:20 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.977198096s
+2024/02/27 19:25:20 Skipping writing post, no content: https://www.hltv.org/news/38357/blast-spring-showdown-opening-matchups-announced
+2024/02/27 19:25:20 Skipping writing post, no content: https://www.hltv.org/news/38355/grayhound-ease-past-jijiehao-in-lower-bracket
+2024/02/27 19:25:20 Skipping writing post, no content: https://www.hltv.org/news/38354/atox-eliminate-tyloo-from-asia-rmr
+2024/02/27 19:25:20 Skipping writing post, no content: https://www.hltv.org/news/38353/mag-twisted-minds-eliminated-from-asia-rmr
+2024/02/27 19:25:20 Skipping writing post, no content: https://www.hltv.org/news/38352/liquid-qualify-for-iem-dallas
+2024/02/27 19:25:20 Skipping writing post, no content: https://www.hltv.org/news/38351/live-updates-from-asia-rmr-day-2
+2024/02/27 19:25:20 Skipping writing post, no content: https://www.hltv.org/news/38350/kyxsan-on-his-rapid-ascent-i-still-cant-believe-it-sometimes
+2024/02/27 19:25:20 Skipping writing post, no content: https://www.hltv.org/news/38349/jumpy-named-new-sangal-coach
+2024/02/27 19:25:20 Skipping writing post, no content: https://www.hltv.org/news/38347/g2-part-ways-with-jks
+2024/02/27 19:25:20 Skipping writing post, no content: https://www.hltv.org/news/38348/sdy-departs-monte-by-mutual-agreement
+2024/02/27 19:25:20 Templated 90 posts, took 14.100376ms
