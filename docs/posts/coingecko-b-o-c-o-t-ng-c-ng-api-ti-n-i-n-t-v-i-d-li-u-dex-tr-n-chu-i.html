@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CoinGecko báo cáo: Tăng cường API tiền điện tử với dữ liệu DEX trên chuỗi | Khanh's feed</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="../styles.css"
+      media="screen"
+    />
+  </head>
+  <body>
+    <a href="/index.html">Back</a>
+    <a href="https://blogtienao.com/coingecko-tang-cuong-api-tien-dien-tu-voi-du-lieu-dex-tren-chuoi/">Original</a>
+    <h1>CoinGecko báo cáo: Tăng cường API tiền điện tử với dữ liệu DEX trên chuỗi</h1>
+    
+    <p><a href="https://blogtienao.com" data-wpel-link="internal">Blog Tiền Ảo</a><br />
+<a href="https://blogtienao.com/coingecko-tang-cuong-api-tien-dien-tu-voi-du-lieu-dex-tren-chuoi/" data-wpel-link="internal">CoinGecko báo cáo: Tăng cường API tiền điện tử với dữ liệu DEX trên chuỗi</a></p>
+<p><img  decoding="async" class="alignnone size-full wp-image-162683"  src="https://cdn.blogtienao.com/wp-content/uploads/2024/02/content_CoinGecko_API_-_On-chain_DEX_Data.webp"  alt="" width="950" height="950" srcset="https://cdn.blogtienao.com/wp-content/uploads/2024/02/content_CoinGecko_API_-_On-chain_DEX_Data.webp 950w, https://cdn.blogtienao.com/wp-content/uploads/2024/02/content_CoinGecko_API_-_On-chain_DEX_Data-768x768.webp 768w, https://cdn.blogtienao.com/wp-content/uploads/2024/02/content_CoinGecko_API_-_On-chain_DEX_Data-696x696.webp 696w" sizes="(max-width: 950px) 100vw, 950px" /></p>
+<p>Trong 1 báo cáo của CoinGecko, chúng tôi luôn cam kết cung cấp cho người dùng dữ liệu thị trường và giá tiền điện tử toàn diện, đáng tin cậy và chính xác, đồng thời trao quyền cho cộng đồng tiền điện tử. Với dữ liệu DEX trên chuỗi hiện có thể truy cập được thông qua API CoinGecko, người dùng có thể khai thác thông tin mà không cần phải hợp nhất từ ​​nhiều nguồn, tìm hiểu sâu hơn về hệ sinh thái phi tập trung và mở ra những con đường mới để tạo ra sản phẩm.</p>
+<p>Bài báo cáo này được thực hiện bởi <em>Bobby Ong, COO và đồng sáng lập của CoinGecko.</em></p>
+<h2 id="access-on-chain-data-from-coingecko-api" data-pm-slice="1 5 []"><strong>Truy cập dữ liệu trên chuỗi từ API CoinGecko</strong></h2>
+<p data-pm-slice="1 5 []"><strong>Dữ liệu sàn giao dịch phi tập trung (DEX) trên chuỗi có thể truy cập trực tiếp thông qua <a href="https://www.coingecko.com/en/api?utm_campaign=learn&amp;utm_content=api-onchain-dex-data" target="_blank" rel="noopener nofollow external noreferrer" data-wpel-link="external">API CoinGecko</a> , có hiệu lực từ hôm nay. </strong>Các dự án, nhà phát triển và người dùng tiền điện tử giờ đây có thể tận dụng một API hợp nhất để truy xuất giá tiền điện tử, dữ liệu thị trường và siêu dữ liệu, cũng như dữ liệu nhóm thanh khoản và token trên chuỗi cho các tiền điện tử không được liệt kê trên CoinGecko.</p>
+<h2 data-pm-slice="1 5 []"><strong>Tăng phạm vi phủ sóng thông qua 20 điểm cuối mới</strong></h2>
+<p data-pm-slice="1 5 []">Việc mở rộng dữ liệu trên chuỗi này giúp tăng cường đáng kể việc cung cấp API CoinGecko, vì nó tăng mức độ bao phủ lên <strong>2,2 triệu mã thông báo trên chuỗi trên 2,5 triệu nhóm thanh khoản tiền điện tử. </strong>Dữ liệu này được cung cấp bởi sản phẩm chị em của CoinGecko,  <a href="https://www.geckoterminal.com/?utm_campaign=learn&amp;utm_content=api-onchain-dex-data" target="_blank" rel="noopener nofollow external noreferrer" data-wpel-link="external">GeckoTerminal</a> , theo dõi giá tiền điện tử theo thời gian thực, khối lượng giao dịch, giao dịch, tính thanh khoản, v.v., trên hơn <strong>900 DEX trên 120 mạng blockchain</strong> &#8211; bao gồm các nền tảng phổ biến như Uniswap, PancakeSwap, Orca, Curve và Cân bằng.</p>
+<p data-pm-slice="1 5 []">Dữ liệu trên chuỗi ngay lập tức có sẵn cho những người đăng ký API trả phí thông qua <strong>20 điểm cuối mới</strong> . Các bộ dữ liệu chính bao gồm nhóm thanh khoản tiền điện tử, dữ liệu mã thông báo theo địa chỉ hợp đồng và dữ liệu biểu đồ OHLCV:</p>
+<p data-pm-slice="1 5 []"><strong>Bể bơi</strong></p>
+<ul>
+<li><strong>Nhóm xu hướng theo mạng</strong><br />
+/onchain/networks/{network}/trending_pools</li>
+<li><strong>Nhóm cụ thể theo địa chỉ hợp đồng</strong><br />
+/onchain/networks/{network}/pools/{address}</li>
+<li><strong>Nhóm tìm kiếm</strong><br />
+/onchain/search/pools</li>
+</ul>
+<p><strong>Mã thông báo</strong></p>
+<ul>
+<li><strong>Nhóm hàng đầu theo địa chỉ hợp đồng</strong><br />
+/onchain/networks/{network}/tokens/{token_address}/pools</li>
+<li><strong>Dữ liệu mã thông báo theo địa chỉ hợp đồng</strong><br />
+/onchain/networks/{network}/tokens/{address}</li>
+<li><strong>Thông tin mã thông báo theo địa chỉ hợp đồng</strong><br />
+/onchain/networks/{network}/tokens/{address}/info</li>
+</ul>
+<p><strong>Mở, Cao, Thấp, Đóng, Khối lượng (OHLCV)</strong></p>
+<ul>
+<li><strong>Biểu đồ Pool OHLCV theo địa chỉ hợp đồng</strong><br />
+/onchain/networks/{network}/pools/{pool_address}/ohlcv/{timeframe}</li>
+</ul>
+<p><strong>Để biết danh sách đầy đủ các điểm cuối, hãy điều hướng đến  <a href="https://docs.coingecko.com/reference/endpoint-overview#onchain-dex-endpoints-geckoterminal?utm_campaign=learn&amp;utm_content=api-onchain-dex-data" target="_blank" rel="noopener nofollow external noreferrer" data-wpel-link="external">tài liệu API</a> được cải tiến của chúng tôi .</strong></p>
+<p>Bản cập nhật sản phẩm này xuất hiện ngay sau khi <a href="https://www.coingecko.com/learn/zash-acquisition" target="_blank" rel="noopener nofollow external noreferrer" data-wpel-link="external">CoinGecko mua lại Zash</a> , công ty tình báo và cơ sở hạ tầng dữ liệu mã thông báo không thể thay thế (NFT) hàng đầu, vào tháng 11 năm 2023.</p>
+<p><img  decoding="async" class="alignnone size-medium wp-image-162687"  src="https://cdn.blogtienao.com/wp-content/uploads/2024/02/content_CoinGecko_Sign_Up_CTA_-_updated_Feb_2026.webp"  alt="" width="950" height="446" srcset="https://cdn.blogtienao.com/wp-content/uploads/2024/02/content_CoinGecko_Sign_Up_CTA_-_updated_Feb_2026.webp 950w, https://cdn.blogtienao.com/wp-content/uploads/2024/02/content_CoinGecko_Sign_Up_CTA_-_updated_Feb_2026-768x361.webp 768w, https://cdn.blogtienao.com/wp-content/uploads/2024/02/content_CoinGecko_Sign_Up_CTA_-_updated_Feb_2026-696x327.webp 696w" sizes="(max-width: 950px) 100vw, 950px" /></p>
+
+
+<div class="kk-star-ratings kksr-auto kksr-align-right kksr-valign-bottom"
+    data-payload='{&quot;align&quot;:&quot;right&quot;,&quot;id&quot;:&quot;162682&quot;,&quot;slug&quot;:&quot;default&quot;,&quot;valign&quot;:&quot;bottom&quot;,&quot;ignore&quot;:&quot;&quot;,&quot;reference&quot;:&quot;auto&quot;,&quot;class&quot;:&quot;&quot;,&quot;count&quot;:&quot;1&quot;,&quot;legendonly&quot;:&quot;&quot;,&quot;readonly&quot;:&quot;&quot;,&quot;score&quot;:&quot;5&quot;,&quot;starsonly&quot;:&quot;&quot;,&quot;best&quot;:&quot;5&quot;,&quot;gap&quot;:&quot;4&quot;,&quot;greet&quot;:&quot;Rate this post&quot;,&quot;legend&quot;:&quot;5\/5 - (1 b\u00ecnh ch\u1ecdn)&quot;,&quot;size&quot;:&quot;24&quot;,&quot;title&quot;:&quot;CoinGecko b\u00e1o c\u00e1o: T\u0103ng c\u01b0\u1eddng API ti\u1ec1n \u0111i\u1ec7n t\u1eed v\u1edbi d\u1eef li\u1ec7u DEX tr\u00ean chu\u1ed7i&quot;,&quot;width&quot;:&quot;138&quot;,&quot;_legend&quot;:&quot;{score}\/{best} - ({count} {votes})&quot;,&quot;font_factor&quot;:&quot;1.25&quot;}'>
+            
+<div class="kksr-stars">
+    
+<div class="kksr-stars-inactive">
+            <div class="kksr-star" data-star="1" style="padding-right: 4px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" data-star="2" style="padding-right: 4px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" data-star="3" style="padding-right: 4px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" data-star="4" style="padding-right: 4px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" data-star="5" style="padding-right: 4px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+    </div>
+    
+<div class="kksr-stars-active" style="width: 138px;">
+            <div class="kksr-star" style="padding-right: 4px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" style="padding-right: 4px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" style="padding-right: 4px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" style="padding-right: 4px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" style="padding-right: 4px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+    </div>
+</div>
+                
+
+<div class="kksr-legend" style="font-size: 19.2px;">
+            5/5 - (1 bình chọn)    </div>
+    </div>
+<p><a href="https://blogtienao.com/coingecko-tang-cuong-api-tien-dien-tu-voi-du-lieu-dex-tren-chuoi/" data-wpel-link="internal">CoinGecko báo cáo: Tăng cường API tiền điện tử với dữ liệu DEX trên chuỗi</a><br />
+<a href="https://blogtienao.com" data-wpel-link="internal">Blog Tiền Ảo</a>.</p>
+
+  </body>
+</html>
