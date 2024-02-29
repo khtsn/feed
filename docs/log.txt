@@ -1,30 +1,30 @@
-2024/02/29 16:52:18 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 195.516274ms
-2024/02/29 16:52:18 Fetched posts from https://vlr.gg/rss, took 276.94062ms
-2024/02/29 16:52:18 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/02/29 16:52:18 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 282.23591ms
-2024/02/29 16:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38372/community-reacts-to-device-taking-over-in-game-leadership-in-astralis
-2024/02/29 16:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38375/americas-rmr-fantasy-goes-live-with-cadian-the-highest-owned
-2024/02/29 16:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38374/xertion-signs-new-mouz-contract
-2024/02/29 16:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38373/liquid-nip-ence-big-invited-to-350000-lan-in-india
-2024/02/29 16:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38370/astralis-sign-br0-as-device-takes-over-as-igl
-2024/02/29 16:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38369/spawn-changes-headline-new-cs2-update
-2024/02/29 16:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38368/espiranto-targets-return-this-time-i-aint-stopping-halfway
-2024/02/29 16:52:19 Content still empty after HTML reader: https://www.hltv.org/news/38356/pgl-major-copenhagen-americas-rmr-teams-format-schedule-prizes-talent
-2024/02/29 16:52:19 Content still empty after HTML reader: https://www.hltv.org/news/38367/z4kr-on-major-qualification-it-feels-like-a-dream
-2024/02/29 16:52:19 Content still empty after HTML reader: https://www.hltv.org/news/38363/astralis-bench-blamef-after-rmr-fiasco
-2024/02/29 16:52:19 Fetched posts from https://www.hltv.org/rss/news, took 439.043501ms
-2024/02/29 16:52:19 Fetched posts from https://blogtienao.com/feed, took 668.107592ms
-2024/02/29 16:52:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.112382383s
-2024/02/29 16:52:20 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.409610232s
-2024/02/29 16:52:32 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.652089072s
-2024/02/29 16:52:32 Skipping writing post, no content: https://www.hltv.org/news/38372/community-reacts-to-device-taking-over-in-game-leadership-in-astralis
-2024/02/29 16:52:32 Skipping writing post, no content: https://www.hltv.org/news/38375/americas-rmr-fantasy-goes-live-with-cadian-the-highest-owned
-2024/02/29 16:52:32 Skipping writing post, no content: https://www.hltv.org/news/38374/xertion-signs-new-mouz-contract
-2024/02/29 16:52:32 Skipping writing post, no content: https://www.hltv.org/news/38373/liquid-nip-ence-big-invited-to-350000-lan-in-india
-2024/02/29 16:52:32 Skipping writing post, no content: https://www.hltv.org/news/38370/astralis-sign-br0-as-device-takes-over-as-igl
-2024/02/29 16:52:32 Skipping writing post, no content: https://www.hltv.org/news/38369/spawn-changes-headline-new-cs2-update
-2024/02/29 16:52:32 Skipping writing post, no content: https://www.hltv.org/news/38368/espiranto-targets-return-this-time-i-aint-stopping-halfway
-2024/02/29 16:52:32 Skipping writing post, no content: https://www.hltv.org/news/38356/pgl-major-copenhagen-americas-rmr-teams-format-schedule-prizes-talent
-2024/02/29 16:52:32 Skipping writing post, no content: https://www.hltv.org/news/38367/z4kr-on-major-qualification-it-feels-like-a-dream
-2024/02/29 16:52:32 Skipping writing post, no content: https://www.hltv.org/news/38363/astralis-bench-blamef-after-rmr-fiasco
-2024/02/29 16:52:32 Templated 87 posts, took 13.876899ms
+2024/02/29 17:14:12 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/02/29 17:14:12 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 140.221392ms
+2024/02/29 17:14:12 Content still empty after HTML reader: https://www.hltv.org/news/38372/community-reacts-to-device-taking-over-in-game-leadership-in-astralis
+2024/02/29 17:14:12 Content still empty after HTML reader: https://www.hltv.org/news/38375/americas-rmr-fantasy-goes-live-with-cadian-the-highest-owned
+2024/02/29 17:14:12 Content still empty after HTML reader: https://www.hltv.org/news/38374/xertion-signs-new-mouz-contract
+2024/02/29 17:14:12 Content still empty after HTML reader: https://www.hltv.org/news/38373/liquid-nip-ence-big-invited-to-350000-lan-in-india
+2024/02/29 17:14:12 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 376.030575ms
+2024/02/29 17:14:12 Content still empty after HTML reader: https://www.hltv.org/news/38370/astralis-sign-br0-as-device-takes-over-as-igl
+2024/02/29 17:14:12 Content still empty after HTML reader: https://www.hltv.org/news/38369/spawn-changes-headline-new-cs2-update
+2024/02/29 17:14:12 Content still empty after HTML reader: https://www.hltv.org/news/38368/espiranto-targets-return-this-time-i-aint-stopping-halfway
+2024/02/29 17:14:12 Content still empty after HTML reader: https://www.hltv.org/news/38356/pgl-major-copenhagen-americas-rmr-teams-format-schedule-prizes-talent
+2024/02/29 17:14:12 Content still empty after HTML reader: https://www.hltv.org/news/38367/z4kr-on-major-qualification-it-feels-like-a-dream
+2024/02/29 17:14:12 Content still empty after HTML reader: https://www.hltv.org/news/38363/astralis-bench-blamef-after-rmr-fiasco
+2024/02/29 17:14:12 Fetched posts from https://www.hltv.org/rss/news, took 428.984573ms
+2024/02/29 17:14:13 Fetched posts from https://vlr.gg/rss, took 801.587126ms
+2024/02/29 17:14:13 Fetched posts from https://blogtienao.com/feed, took 886.559051ms
+2024/02/29 17:14:13 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 974.215603ms
+2024/02/29 17:14:15 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 3.376350189s
+2024/02/29 17:14:28 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.332226436s
+2024/02/29 17:14:28 Skipping writing post, no content: https://www.hltv.org/news/38372/community-reacts-to-device-taking-over-in-game-leadership-in-astralis
+2024/02/29 17:14:28 Skipping writing post, no content: https://www.hltv.org/news/38375/americas-rmr-fantasy-goes-live-with-cadian-the-highest-owned
+2024/02/29 17:14:28 Skipping writing post, no content: https://www.hltv.org/news/38374/xertion-signs-new-mouz-contract
+2024/02/29 17:14:28 Skipping writing post, no content: https://www.hltv.org/news/38373/liquid-nip-ence-big-invited-to-350000-lan-in-india
+2024/02/29 17:14:28 Skipping writing post, no content: https://www.hltv.org/news/38370/astralis-sign-br0-as-device-takes-over-as-igl
+2024/02/29 17:14:28 Skipping writing post, no content: https://www.hltv.org/news/38369/spawn-changes-headline-new-cs2-update
+2024/02/29 17:14:28 Skipping writing post, no content: https://www.hltv.org/news/38368/espiranto-targets-return-this-time-i-aint-stopping-halfway
+2024/02/29 17:14:28 Skipping writing post, no content: https://www.hltv.org/news/38356/pgl-major-copenhagen-americas-rmr-teams-format-schedule-prizes-talent
+2024/02/29 17:14:28 Skipping writing post, no content: https://www.hltv.org/news/38367/z4kr-on-major-qualification-it-feels-like-a-dream
+2024/02/29 17:14:28 Skipping writing post, no content: https://www.hltv.org/news/38363/astralis-bench-blamef-after-rmr-fiasco
+2024/02/29 17:14:28 Templated 88 posts, took 16.224539ms
