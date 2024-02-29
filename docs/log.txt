@@ -1,30 +1,32 @@
-2024/02/29 04:37:15 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/02/29 04:37:15 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 143.368012ms
-2024/02/29 04:37:15 Content still empty after HTML reader: https://www.hltv.org/news/38369/spawn-changes-headline-new-cs2-update
-2024/02/29 04:37:15 Content still empty after HTML reader: https://www.hltv.org/news/38368/espiranto-targets-return-this-time-i-aint-stopping-halfway
-2024/02/29 04:37:15 Content still empty after HTML reader: https://www.hltv.org/news/38356/pgl-major-copenhagen-americas-rmr-teams-format-schedule-prizes-talent
-2024/02/29 04:37:15 Content still empty after HTML reader: https://www.hltv.org/news/38367/z4kr-on-major-qualification-it-feels-like-a-dream
-2024/02/29 04:37:15 Content still empty after HTML reader: https://www.hltv.org/news/38363/astralis-bench-blamef-after-rmr-fiasco
-2024/02/29 04:37:15 Content still empty after HTML reader: https://www.hltv.org/news/38365/ruggah-completes-move-to-astralis
-2024/02/29 04:37:15 Fetched posts from https://vlr.gg/rss, took 341.392986ms
-2024/02/29 04:37:15 Content still empty after HTML reader: https://www.hltv.org/news/38364/lynn-vision-qualify-for-the-major-over-grayhound
-2024/02/29 04:37:15 Content still empty after HTML reader: https://www.hltv.org/news/38362/techno-we-want-our-region-to-have-three-slots-at-the-major
-2024/02/29 04:37:15 Content still empty after HTML reader: https://www.hltv.org/news/38361/themongolz-crush-lynn-vision-to-qualify-for-pgl-major-copenhagen
-2024/02/29 04:37:15 Content still empty after HTML reader: https://www.hltv.org/news/38360/live-updates-from-asia-rmr-day-3
-2024/02/29 04:37:15 Fetched posts from https://www.hltv.org/rss/news, took 384.706139ms
-2024/02/29 04:37:15 Fetched posts from https://blogtienao.com/feed, took 639.104002ms
-2024/02/29 04:37:15 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 717.454988ms
-2024/02/29 04:37:16 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.444298739s
-2024/02/29 04:37:17 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.837914267s
-2024/02/29 04:37:28 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.300898972s
-2024/02/29 04:37:28 Skipping writing post, no content: https://www.hltv.org/news/38369/spawn-changes-headline-new-cs2-update
-2024/02/29 04:37:28 Skipping writing post, no content: https://www.hltv.org/news/38368/espiranto-targets-return-this-time-i-aint-stopping-halfway
-2024/02/29 04:37:28 Skipping writing post, no content: https://www.hltv.org/news/38356/pgl-major-copenhagen-americas-rmr-teams-format-schedule-prizes-talent
-2024/02/29 04:37:28 Skipping writing post, no content: https://www.hltv.org/news/38367/z4kr-on-major-qualification-it-feels-like-a-dream
-2024/02/29 04:37:28 Skipping writing post, no content: https://www.hltv.org/news/38363/astralis-bench-blamef-after-rmr-fiasco
-2024/02/29 04:37:28 Skipping writing post, no content: https://www.hltv.org/news/38365/ruggah-completes-move-to-astralis
-2024/02/29 04:37:28 Skipping writing post, no content: https://www.hltv.org/news/38364/lynn-vision-qualify-for-the-major-over-grayhound
-2024/02/29 04:37:28 Skipping writing post, no content: https://www.hltv.org/news/38362/techno-we-want-our-region-to-have-three-slots-at-the-major
-2024/02/29 04:37:28 Skipping writing post, no content: https://www.hltv.org/news/38361/themongolz-crush-lynn-vision-to-qualify-for-pgl-major-copenhagen
-2024/02/29 04:37:28 Skipping writing post, no content: https://www.hltv.org/news/38360/live-updates-from-asia-rmr-day-3
-2024/02/29 04:37:28 Templated 90 posts, took 13.467695ms
+2024/02/29 04:52:07 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/02/29 04:52:07 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 204.829166ms
+2024/02/29 04:52:07 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 218.723421ms
+2024/02/29 04:52:07 Content still empty after HTML reader: https://www.hltv.org/news/38369/spawn-changes-headline-new-cs2-update
+2024/02/29 04:52:07 Content still empty after HTML reader: https://www.hltv.org/news/38368/espiranto-targets-return-this-time-i-aint-stopping-halfway
+2024/02/29 04:52:07 Content still empty after HTML reader: https://www.hltv.org/news/38356/pgl-major-copenhagen-americas-rmr-teams-format-schedule-prizes-talent
+2024/02/29 04:52:07 Content still empty after HTML reader: https://www.hltv.org/news/38367/z4kr-on-major-qualification-it-feels-like-a-dream
+2024/02/29 04:52:07 Content still empty after HTML reader: https://www.hltv.org/news/38363/astralis-bench-blamef-after-rmr-fiasco
+2024/02/29 04:52:07 Content still empty after HTML reader: https://www.hltv.org/news/38365/ruggah-completes-move-to-astralis
+2024/02/29 04:52:07 Content still empty after HTML reader: https://www.hltv.org/news/38364/lynn-vision-qualify-for-the-major-over-grayhound
+2024/02/29 04:52:07 Content still empty after HTML reader: https://www.hltv.org/news/38362/techno-we-want-our-region-to-have-three-slots-at-the-major
+2024/02/29 04:52:07 Content still empty after HTML reader: https://www.hltv.org/news/38361/themongolz-crush-lynn-vision-to-qualify-for-pgl-major-copenhagen
+2024/02/29 04:52:07 Content still empty after HTML reader: https://www.nytimes.com/2024/02/28/us/politics/bump-stock-ban-supreme-court-trump.html
+2024/02/29 04:52:07 Content still empty after HTML reader: https://www.hltv.org/news/38360/live-updates-from-asia-rmr-day-3
+2024/02/29 04:52:07 Fetched posts from https://www.hltv.org/rss/news, took 531.751517ms
+2024/02/29 04:52:08 Fetched posts from https://blogtienao.com/feed, took 930.688896ms
+2024/02/29 04:52:08 Fetched posts from https://vlr.gg/rss, took 1.052446627s
+2024/02/29 04:52:09 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.987763153s
+2024/02/29 04:52:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.830355716s
+2024/02/29 04:52:19 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 12.019717449s
+2024/02/29 04:52:19 Skipping writing post, no content: https://www.hltv.org/news/38369/spawn-changes-headline-new-cs2-update
+2024/02/29 04:52:19 Skipping writing post, no content: https://www.nytimes.com/2024/02/28/us/politics/bump-stock-ban-supreme-court-trump.html
+2024/02/29 04:52:19 Skipping writing post, no content: https://www.hltv.org/news/38368/espiranto-targets-return-this-time-i-aint-stopping-halfway
+2024/02/29 04:52:19 Skipping writing post, no content: https://www.hltv.org/news/38356/pgl-major-copenhagen-americas-rmr-teams-format-schedule-prizes-talent
+2024/02/29 04:52:19 Skipping writing post, no content: https://www.hltv.org/news/38367/z4kr-on-major-qualification-it-feels-like-a-dream
+2024/02/29 04:52:19 Skipping writing post, no content: https://www.hltv.org/news/38363/astralis-bench-blamef-after-rmr-fiasco
+2024/02/29 04:52:19 Skipping writing post, no content: https://www.hltv.org/news/38365/ruggah-completes-move-to-astralis
+2024/02/29 04:52:19 Skipping writing post, no content: https://www.hltv.org/news/38364/lynn-vision-qualify-for-the-major-over-grayhound
+2024/02/29 04:52:19 Skipping writing post, no content: https://www.hltv.org/news/38362/techno-we-want-our-region-to-have-three-slots-at-the-major
+2024/02/29 04:52:19 Skipping writing post, no content: https://www.hltv.org/news/38361/themongolz-crush-lynn-vision-to-qualify-for-pgl-major-copenhagen
+2024/02/29 04:52:19 Skipping writing post, no content: https://www.hltv.org/news/38360/live-updates-from-asia-rmr-day-3
+2024/02/29 04:52:19 Templated 90 posts, took 14.076261ms
