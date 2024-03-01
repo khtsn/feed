@@ -1,28 +1,30 @@
-2024/03/01 03:20:10 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/01 03:20:10 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 112.295709ms
-2024/03/01 03:20:10 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 237.637178ms
-2024/03/01 03:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38371/astralis-kasper-straube-device-has-a-huge-desire-to-become-the-igl
-2024/03/01 03:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38379/flyquest-red-finalize-roster-ahead-of-esl-impact
-2024/03/01 03:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38378/heroic-leave-the-louvre-agreement
-2024/03/01 03:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38376/americas-rmr-will-not-use-latest-update-following-team-feedback
-2024/03/01 03:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38377/kakafu-returns-to-big-coaching-staff
-2024/03/01 03:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38375/americas-rmr-fantasy-goes-live-with-cadian-the-highest-owned
-2024/03/01 03:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38374/xertion-signs-new-mouz-contract
-2024/03/01 03:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38373/liquid-nip-ence-big-invited-to-350000-lan-in-india
-2024/03/01 03:20:10 Content still empty after HTML reader: https://www.hltv.org/news/38370/astralis-sign-br0-as-device-takes-over-as-igl
-2024/03/01 03:20:10 Fetched posts from https://www.hltv.org/rss/news, took 506.305826ms
-2024/03/01 03:20:10 Fetched posts from https://vlr.gg/rss, took 529.20204ms
-2024/03/01 03:20:11 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.011037821s
-2024/03/01 03:20:11 Fetched posts from https://blogtienao.com/feed, took 1.043040854s
-2024/03/01 03:20:12 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.85211233s
-2024/03/01 03:20:27 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.009951409s
-2024/03/01 03:20:27 Skipping writing post, no content: https://www.hltv.org/news/38371/astralis-kasper-straube-device-has-a-huge-desire-to-become-the-igl
-2024/03/01 03:20:27 Skipping writing post, no content: https://www.hltv.org/news/38379/flyquest-red-finalize-roster-ahead-of-esl-impact
-2024/03/01 03:20:27 Skipping writing post, no content: https://www.hltv.org/news/38378/heroic-leave-the-louvre-agreement
-2024/03/01 03:20:27 Skipping writing post, no content: https://www.hltv.org/news/38376/americas-rmr-will-not-use-latest-update-following-team-feedback
-2024/03/01 03:20:27 Skipping writing post, no content: https://www.hltv.org/news/38377/kakafu-returns-to-big-coaching-staff
-2024/03/01 03:20:27 Skipping writing post, no content: https://www.hltv.org/news/38375/americas-rmr-fantasy-goes-live-with-cadian-the-highest-owned
-2024/03/01 03:20:27 Skipping writing post, no content: https://www.hltv.org/news/38374/xertion-signs-new-mouz-contract
-2024/03/01 03:20:27 Skipping writing post, no content: https://www.hltv.org/news/38373/liquid-nip-ence-big-invited-to-350000-lan-in-india
-2024/03/01 03:20:27 Skipping writing post, no content: https://www.hltv.org/news/38370/astralis-sign-br0-as-device-takes-over-as-igl
-2024/03/01 03:20:27 Templated 82 posts, took 13.6521ms
+2024/03/01 03:38:48 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/01 03:38:48 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 146.141805ms
+2024/03/01 03:38:48 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 179.116023ms
+2024/03/01 03:38:49 Content still empty after HTML reader: https://www.hltv.org/news/38371/astralis-kasper-straube-device-has-a-huge-desire-to-become-the-igl
+2024/03/01 03:38:49 Content still empty after HTML reader: https://www.hltv.org/news/38379/flyquest-red-finalize-roster-ahead-of-esl-impact
+2024/03/01 03:38:49 Content still empty after HTML reader: https://www.hltv.org/news/38378/heroic-leave-the-louvre-agreement
+2024/03/01 03:38:49 Content still empty after HTML reader: https://www.hltv.org/news/38376/americas-rmr-will-not-use-latest-update-following-team-feedback
+2024/03/01 03:38:49 Content still empty after HTML reader: https://www.hltv.org/news/38377/kakafu-returns-to-big-coaching-staff
+2024/03/01 03:38:49 Content still empty after HTML reader: https://www.hltv.org/news/38372/community-reacts-to-device-taking-over-in-game-leadership-in-astralis
+2024/03/01 03:38:49 Content still empty after HTML reader: https://www.hltv.org/news/38375/americas-rmr-fantasy-goes-live-with-cadian-the-highest-owned
+2024/03/01 03:38:49 Content still empty after HTML reader: https://www.hltv.org/news/38374/xertion-signs-new-mouz-contract
+2024/03/01 03:38:49 Content still empty after HTML reader: https://www.hltv.org/news/38373/liquid-nip-ence-big-invited-to-350000-lan-in-india
+2024/03/01 03:38:49 Content still empty after HTML reader: https://www.hltv.org/news/38370/astralis-sign-br0-as-device-takes-over-as-igl
+2024/03/01 03:38:49 Fetched posts from https://www.hltv.org/rss/news, took 409.613851ms
+2024/03/01 03:38:49 Fetched posts from https://vlr.gg/rss, took 454.394095ms
+2024/03/01 03:38:49 Fetched posts from https://blogtienao.com/feed, took 715.020001ms
+2024/03/01 03:38:49 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.062035768s
+2024/03/01 03:38:49 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.102181082s
+2024/03/01 03:39:04 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.089507672s
+2024/03/01 03:39:04 Skipping writing post, no content: https://www.hltv.org/news/38371/astralis-kasper-straube-device-has-a-huge-desire-to-become-the-igl
+2024/03/01 03:39:04 Skipping writing post, no content: https://www.hltv.org/news/38379/flyquest-red-finalize-roster-ahead-of-esl-impact
+2024/03/01 03:39:04 Skipping writing post, no content: https://www.hltv.org/news/38378/heroic-leave-the-louvre-agreement
+2024/03/01 03:39:04 Skipping writing post, no content: https://www.hltv.org/news/38376/americas-rmr-will-not-use-latest-update-following-team-feedback
+2024/03/01 03:39:04 Skipping writing post, no content: https://www.hltv.org/news/38377/kakafu-returns-to-big-coaching-staff
+2024/03/01 03:39:04 Skipping writing post, no content: https://www.hltv.org/news/38372/community-reacts-to-device-taking-over-in-game-leadership-in-astralis
+2024/03/01 03:39:04 Skipping writing post, no content: https://www.hltv.org/news/38375/americas-rmr-fantasy-goes-live-with-cadian-the-highest-owned
+2024/03/01 03:39:04 Skipping writing post, no content: https://www.hltv.org/news/38374/xertion-signs-new-mouz-contract
+2024/03/01 03:39:04 Skipping writing post, no content: https://www.hltv.org/news/38373/liquid-nip-ence-big-invited-to-350000-lan-in-india
+2024/03/01 03:39:04 Skipping writing post, no content: https://www.hltv.org/news/38370/astralis-sign-br0-as-device-takes-over-as-igl
+2024/03/01 03:39:04 Templated 82 posts, took 12.43119ms
