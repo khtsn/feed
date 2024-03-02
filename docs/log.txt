@@ -1,30 +1,32 @@
-2024/03/02 11:52:23 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/02 11:52:23 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 176.404633ms
-2024/03/02 11:52:23 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 373.107151ms
-2024/03/02 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38393/twistzz-on-liquids-development-it-definitely-hasnt-been-sunshine-and-rainbows
-2024/03/02 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38390/d4rty-without-axed-and-cynic-i-dont-think-wed-be-able-to-do-any-of-this
-2024/03/02 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38389/jeorge-it-was-cynics-dream-to-make-the-major-it-would-be-really-nice-if-i-could-make-it-for-him
-2024/03/02 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38392/furia-vs-liquid-headlines-americas-rmr-day-2
-2024/03/02 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38391/liquid-survive-bestia-scare-imperial-demolish-nrg-in-mexico
-2024/03/02 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38388/aurora-qualify-for-esl-challenger-melbourne
-2024/03/02 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38387/pain-outclass-legacy-red-canids-trounce-wildcard
-2024/03/02 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38386/boss-upset-mibr-m80-edge-out-oddik-in-americas-rmr
-2024/03/02 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38385/furia-complexity-enter-1-0-pool-in-monterrey
-2024/03/02 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38383/live-updates-from-americas-rmr-day-1
-2024/03/02 11:52:23 Fetched posts from https://www.hltv.org/rss/news, took 610.275074ms
-2024/03/02 11:52:23 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 618.219248ms
-2024/03/02 11:52:23 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 749.15872ms
-2024/03/02 11:52:24 Fetched posts from https://blogtienao.com/feed, took 918.078363ms
-2024/03/02 11:52:24 Fetched posts from https://vlr.gg/rss, took 1.037840986s
-2024/03/02 11:52:38 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.620995404s
-2024/03/02 11:52:38 Skipping writing post, no content: https://www.hltv.org/news/38393/twistzz-on-liquids-development-it-definitely-hasnt-been-sunshine-and-rainbows
-2024/03/02 11:52:38 Skipping writing post, no content: https://www.hltv.org/news/38390/d4rty-without-axed-and-cynic-i-dont-think-wed-be-able-to-do-any-of-this
-2024/03/02 11:52:38 Skipping writing post, no content: https://www.hltv.org/news/38389/jeorge-it-was-cynics-dream-to-make-the-major-it-would-be-really-nice-if-i-could-make-it-for-him
-2024/03/02 11:52:38 Skipping writing post, no content: https://www.hltv.org/news/38392/furia-vs-liquid-headlines-americas-rmr-day-2
-2024/03/02 11:52:38 Skipping writing post, no content: https://www.hltv.org/news/38391/liquid-survive-bestia-scare-imperial-demolish-nrg-in-mexico
-2024/03/02 11:52:38 Skipping writing post, no content: https://www.hltv.org/news/38388/aurora-qualify-for-esl-challenger-melbourne
-2024/03/02 11:52:38 Skipping writing post, no content: https://www.hltv.org/news/38387/pain-outclass-legacy-red-canids-trounce-wildcard
-2024/03/02 11:52:38 Skipping writing post, no content: https://www.hltv.org/news/38386/boss-upset-mibr-m80-edge-out-oddik-in-americas-rmr
-2024/03/02 11:52:38 Skipping writing post, no content: https://www.hltv.org/news/38385/furia-complexity-enter-1-0-pool-in-monterrey
-2024/03/02 11:52:38 Skipping writing post, no content: https://www.hltv.org/news/38383/live-updates-from-americas-rmr-day-1
-2024/03/02 11:52:38 Templated 82 posts, took 12.835162ms
+2024/03/02 12:26:52 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 186.604186ms
+2024/03/02 12:26:52 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/02 12:26:52 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 198.543653ms
+2024/03/02 12:26:52 Content still empty after HTML reader: https://www.vlr.gg/310385/karmine-corp-claim-kickoff-crown-first-emea-seed-at-madrid
+2024/03/02 12:26:52 Content still empty after HTML reader: https://www.hltv.org/news/38393/twistzz-on-liquids-development-it-definitely-hasnt-been-sunshine-and-rainbows
+2024/03/02 12:26:52 Content still empty after HTML reader: https://www.hltv.org/news/38390/d4rty-without-axed-and-cynic-i-dont-think-wed-be-able-to-do-any-of-this
+2024/03/02 12:26:52 Content still empty after HTML reader: https://www.hltv.org/news/38389/jeorge-it-was-cynics-dream-to-make-the-major-it-would-be-really-nice-if-i-could-make-it-for-him
+2024/03/02 12:26:52 Content still empty after HTML reader: https://www.hltv.org/news/38392/furia-vs-liquid-headlines-americas-rmr-day-2
+2024/03/02 12:26:52 Content still empty after HTML reader: https://www.hltv.org/news/38391/liquid-survive-bestia-scare-imperial-demolish-nrg-in-mexico
+2024/03/02 12:26:52 Content still empty after HTML reader: https://www.hltv.org/news/38388/aurora-qualify-for-esl-challenger-melbourne
+2024/03/02 12:26:52 Content still empty after HTML reader: https://www.hltv.org/news/38387/pain-outclass-legacy-red-canids-trounce-wildcard
+2024/03/02 12:26:52 Content still empty after HTML reader: https://www.hltv.org/news/38386/boss-upset-mibr-m80-edge-out-oddik-in-americas-rmr
+2024/03/02 12:26:52 Fetched posts from https://vlr.gg/rss, took 423.935421ms
+2024/03/02 12:26:52 Content still empty after HTML reader: https://www.hltv.org/news/38385/furia-complexity-enter-1-0-pool-in-monterrey
+2024/03/02 12:26:52 Content still empty after HTML reader: https://www.hltv.org/news/38383/live-updates-from-americas-rmr-day-1
+2024/03/02 12:26:52 Fetched posts from https://www.hltv.org/rss/news, took 442.543053ms
+2024/03/02 12:26:53 Fetched posts from https://blogtienao.com/feed, took 700.961757ms
+2024/03/02 12:26:53 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 804.448811ms
+2024/03/02 12:26:53 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 919.256845ms
+2024/03/02 12:27:10 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.954607439s
+2024/03/02 12:27:10 Skipping writing post, no content: https://www.hltv.org/news/38393/twistzz-on-liquids-development-it-definitely-hasnt-been-sunshine-and-rainbows
+2024/03/02 12:27:10 Skipping writing post, no content: https://www.hltv.org/news/38390/d4rty-without-axed-and-cynic-i-dont-think-wed-be-able-to-do-any-of-this
+2024/03/02 12:27:10 Skipping writing post, no content: https://www.hltv.org/news/38389/jeorge-it-was-cynics-dream-to-make-the-major-it-would-be-really-nice-if-i-could-make-it-for-him
+2024/03/02 12:27:10 Skipping writing post, no content: https://www.hltv.org/news/38392/furia-vs-liquid-headlines-americas-rmr-day-2
+2024/03/02 12:27:10 Skipping writing post, no content: https://www.hltv.org/news/38391/liquid-survive-bestia-scare-imperial-demolish-nrg-in-mexico
+2024/03/02 12:27:10 Skipping writing post, no content: https://www.hltv.org/news/38388/aurora-qualify-for-esl-challenger-melbourne
+2024/03/02 12:27:10 Skipping writing post, no content: https://www.hltv.org/news/38387/pain-outclass-legacy-red-canids-trounce-wildcard
+2024/03/02 12:27:10 Skipping writing post, no content: https://www.hltv.org/news/38386/boss-upset-mibr-m80-edge-out-oddik-in-americas-rmr
+2024/03/02 12:27:10 Skipping writing post, no content: https://www.hltv.org/news/38385/furia-complexity-enter-1-0-pool-in-monterrey
+2024/03/02 12:27:10 Skipping writing post, no content: https://www.hltv.org/news/38383/live-updates-from-americas-rmr-day-1
+2024/03/02 12:27:10 Skipping writing post, no content: https://www.vlr.gg/310385/karmine-corp-claim-kickoff-crown-first-emea-seed-at-madrid
+2024/03/02 12:27:10 Templated 83 posts, took 12.302398ms
