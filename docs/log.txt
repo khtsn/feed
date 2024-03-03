@@ -1,32 +1,30 @@
-2024/03/03 13:52:20 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 304.10982ms
-2024/03/03 13:52:20 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/03 13:52:20 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 306.039019ms
-2024/03/03 13:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38404/live-updates-from-americas-rmr-day-3
-2024/03/03 13:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38402/nekiz-brazilian-teams-try-to-be-the-best-in-brazil-not-in-the-world-it-doesnt-help-the-scene
-2024/03/03 13:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38403/grayhound-cease-operations-after-major-failure
-2024/03/03 13:52:20 Content still empty after HTML reader: https://www.nytimes.com/2024/03/03/magazine/fetal-personhood-alabama-ivf.html
-2024/03/03 13:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38401/sonic-once-m80-came-to-fruition-a-lot-of-teams-in-na-popped-up-and-put-in-the-work
-2024/03/03 13:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38400/furia-and-complexity-to-square-off-for-major-spot-on-day-3
-2024/03/03 13:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38399/nouns-and-elevate-sent-packing-as-legacy-and-oddik-enter-1-1-pool
-2024/03/03 13:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38398/fallen-teams-in-brazil-have-been-playing-some-strong-cs
-2024/03/03 13:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38397/mibr-and-wildcard-stay-alive-nrg-and-bestia-eliminated
-2024/03/03 13:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38396/furia-beat-liquid-imperial-trounce-m80-in-monterrey
-2024/03/03 13:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38395/complexity-and-pain-go-2-0-in-americas-rmr
-2024/03/03 13:52:20 Fetched posts from https://www.hltv.org/rss/news, took 396.515838ms
-2024/03/03 13:52:20 Fetched posts from https://vlr.gg/rss, took 436.436583ms
-2024/03/03 13:52:20 Fetched posts from https://blogtienao.com/feed, took 694.763927ms
-2024/03/03 13:52:21 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 749.222405ms
-2024/03/03 13:52:21 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.212817369s
-2024/03/03 13:52:38 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.216788522s
-2024/03/03 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38404/live-updates-from-americas-rmr-day-3
-2024/03/03 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38402/nekiz-brazilian-teams-try-to-be-the-best-in-brazil-not-in-the-world-it-doesnt-help-the-scene
-2024/03/03 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38403/grayhound-cease-operations-after-major-failure
-2024/03/03 13:52:38 Skipping writing post, no content: https://www.nytimes.com/2024/03/03/magazine/fetal-personhood-alabama-ivf.html
-2024/03/03 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38401/sonic-once-m80-came-to-fruition-a-lot-of-teams-in-na-popped-up-and-put-in-the-work
-2024/03/03 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38400/furia-and-complexity-to-square-off-for-major-spot-on-day-3
-2024/03/03 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38399/nouns-and-elevate-sent-packing-as-legacy-and-oddik-enter-1-1-pool
-2024/03/03 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38398/fallen-teams-in-brazil-have-been-playing-some-strong-cs
-2024/03/03 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38397/mibr-and-wildcard-stay-alive-nrg-and-bestia-eliminated
-2024/03/03 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38396/furia-beat-liquid-imperial-trounce-m80-in-monterrey
-2024/03/03 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38395/complexity-and-pain-go-2-0-in-americas-rmr
-2024/03/03 13:52:38 Templated 81 posts, took 13.209844ms
+2024/03/03 14:13:49 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/03 14:13:49 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 213.813665ms
+2024/03/03 14:13:49 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 326.387924ms
+2024/03/03 14:13:49 Content still empty after HTML reader: https://www.hltv.org/news/38404/live-updates-from-americas-rmr-day-3
+2024/03/03 14:13:49 Content still empty after HTML reader: https://www.hltv.org/news/38402/nekiz-brazilian-teams-try-to-be-the-best-in-brazil-not-in-the-world-it-doesnt-help-the-scene
+2024/03/03 14:13:49 Content still empty after HTML reader: https://www.hltv.org/news/38403/grayhound-cease-operations-after-major-failure
+2024/03/03 14:13:49 Content still empty after HTML reader: https://www.hltv.org/news/38401/sonic-once-m80-came-to-fruition-a-lot-of-teams-in-na-popped-up-and-put-in-the-work
+2024/03/03 14:13:49 Content still empty after HTML reader: https://www.hltv.org/news/38400/furia-and-complexity-to-square-off-for-major-spot-on-day-3
+2024/03/03 14:13:49 Content still empty after HTML reader: https://www.hltv.org/news/38399/nouns-and-elevate-sent-packing-as-legacy-and-oddik-enter-1-1-pool
+2024/03/03 14:13:49 Content still empty after HTML reader: https://www.hltv.org/news/38398/fallen-teams-in-brazil-have-been-playing-some-strong-cs
+2024/03/03 14:13:49 Fetched posts from https://vlr.gg/rss, took 426.858706ms
+2024/03/03 14:13:49 Content still empty after HTML reader: https://www.hltv.org/news/38397/mibr-and-wildcard-stay-alive-nrg-and-bestia-eliminated
+2024/03/03 14:13:49 Content still empty after HTML reader: https://www.hltv.org/news/38396/furia-beat-liquid-imperial-trounce-m80-in-monterrey
+2024/03/03 14:13:49 Content still empty after HTML reader: https://www.hltv.org/news/38395/complexity-and-pain-go-2-0-in-americas-rmr
+2024/03/03 14:13:49 Fetched posts from https://www.hltv.org/rss/news, took 471.745978ms
+2024/03/03 14:13:49 Fetched posts from https://blogtienao.com/feed, took 713.758755ms
+2024/03/03 14:13:50 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 986.192165ms
+2024/03/03 14:13:50 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.341501872s
+2024/03/03 14:14:06 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.857642121s
+2024/03/03 14:14:06 Skipping writing post, no content: https://www.hltv.org/news/38404/live-updates-from-americas-rmr-day-3
+2024/03/03 14:14:06 Skipping writing post, no content: https://www.hltv.org/news/38402/nekiz-brazilian-teams-try-to-be-the-best-in-brazil-not-in-the-world-it-doesnt-help-the-scene
+2024/03/03 14:14:06 Skipping writing post, no content: https://www.hltv.org/news/38403/grayhound-cease-operations-after-major-failure
+2024/03/03 14:14:06 Skipping writing post, no content: https://www.hltv.org/news/38401/sonic-once-m80-came-to-fruition-a-lot-of-teams-in-na-popped-up-and-put-in-the-work
+2024/03/03 14:14:06 Skipping writing post, no content: https://www.hltv.org/news/38400/furia-and-complexity-to-square-off-for-major-spot-on-day-3
+2024/03/03 14:14:06 Skipping writing post, no content: https://www.hltv.org/news/38399/nouns-and-elevate-sent-packing-as-legacy-and-oddik-enter-1-1-pool
+2024/03/03 14:14:06 Skipping writing post, no content: https://www.hltv.org/news/38398/fallen-teams-in-brazil-have-been-playing-some-strong-cs
+2024/03/03 14:14:06 Skipping writing post, no content: https://www.hltv.org/news/38397/mibr-and-wildcard-stay-alive-nrg-and-bestia-eliminated
+2024/03/03 14:14:06 Skipping writing post, no content: https://www.hltv.org/news/38396/furia-beat-liquid-imperial-trounce-m80-in-monterrey
+2024/03/03 14:14:06 Skipping writing post, no content: https://www.hltv.org/news/38395/complexity-and-pain-go-2-0-in-americas-rmr
+2024/03/03 14:14:06 Templated 82 posts, took 12.897836ms
