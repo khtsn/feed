@@ -1,30 +1,30 @@
-2024/03/04 13:23:53 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/04 13:23:53 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 200.228589ms
-2024/03/04 13:23:53 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 262.309819ms
-2024/03/04 13:23:53 Content still empty after HTML reader: https://www.hltv.org/news/38417/live-updates-from-americas-rmr-day-4
-2024/03/04 13:23:53 Content still empty after HTML reader: https://www.hltv.org/news/38415/art-its-expected-to-have-pressure-when-you-are-one-of-the-biggest-teams-in-brazil
-2024/03/04 13:23:53 Content still empty after HTML reader: https://www.hltv.org/news/38416/preasy-and-metizport-make-iem-dallas-closed-qualifier
-2024/03/04 13:23:53 Content still empty after HTML reader: https://www.hltv.org/news/38410/vini-we-made-the-right-call-picking-up-noway-and-decenty-they-are-incredible
-2024/03/04 13:23:53 Content still empty after HTML reader: https://www.hltv.org/news/38413/liquid-complexity-to-fight-for-major-spot-with-loser-eliminated
-2024/03/04 13:23:53 Content still empty after HTML reader: https://www.hltv.org/news/38414/coldzera-powers-legacy-to-win-over-mibr
-2024/03/04 13:23:53 Content still empty after HTML reader: https://www.hltv.org/news/38409/furia-qualify-for-copenhagen-over-complexity
-2024/03/04 13:23:53 Content still empty after HTML reader: https://www.hltv.org/news/38411/yekindar-i-learned-the-hard-way-after-igling-that-social-media-kills-your-vibe-in-a-way
-2024/03/04 13:23:54 Content still empty after HTML reader: https://www.hltv.org/news/38412/oddik-eliminate-red-canids-from-americas-rmr
-2024/03/04 13:23:54 Content still empty after HTML reader: https://www.hltv.org/news/38408/dephh-i-didnt-want-to-retire-from-playing-and-then-be-that-guy-thats-playing-still
-2024/03/04 13:23:54 Fetched posts from https://www.hltv.org/rss/news, took 511.137704ms
-2024/03/04 13:23:54 Fetched posts from https://blogtienao.com/feed, took 938.584779ms
-2024/03/04 13:23:54 Fetched posts from https://vlr.gg/rss, took 995.641263ms
-2024/03/04 13:23:55 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.617611959s
-2024/03/04 13:23:56 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.904474385s
-2024/03/04 13:24:06 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.462469282s
-2024/03/04 13:24:06 Skipping writing post, no content: https://www.hltv.org/news/38417/live-updates-from-americas-rmr-day-4
-2024/03/04 13:24:06 Skipping writing post, no content: https://www.hltv.org/news/38415/art-its-expected-to-have-pressure-when-you-are-one-of-the-biggest-teams-in-brazil
-2024/03/04 13:24:06 Skipping writing post, no content: https://www.hltv.org/news/38416/preasy-and-metizport-make-iem-dallas-closed-qualifier
-2024/03/04 13:24:06 Skipping writing post, no content: https://www.hltv.org/news/38410/vini-we-made-the-right-call-picking-up-noway-and-decenty-they-are-incredible
-2024/03/04 13:24:06 Skipping writing post, no content: https://www.hltv.org/news/38413/liquid-complexity-to-fight-for-major-spot-with-loser-eliminated
-2024/03/04 13:24:06 Skipping writing post, no content: https://www.hltv.org/news/38414/coldzera-powers-legacy-to-win-over-mibr
-2024/03/04 13:24:06 Skipping writing post, no content: https://www.hltv.org/news/38409/furia-qualify-for-copenhagen-over-complexity
-2024/03/04 13:24:06 Skipping writing post, no content: https://www.hltv.org/news/38411/yekindar-i-learned-the-hard-way-after-igling-that-social-media-kills-your-vibe-in-a-way
-2024/03/04 13:24:06 Skipping writing post, no content: https://www.hltv.org/news/38412/oddik-eliminate-red-canids-from-americas-rmr
-2024/03/04 13:24:06 Skipping writing post, no content: https://www.hltv.org/news/38408/dephh-i-didnt-want-to-retire-from-playing-and-then-be-that-guy-thats-playing-still
-2024/03/04 13:24:06 Templated 83 posts, took 13.354764ms
+2024/03/04 13:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38417/live-updates-from-americas-rmr-day-4
+2024/03/04 13:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38415/art-its-expected-to-have-pressure-when-you-are-one-of-the-biggest-teams-in-brazil
+2024/03/04 13:37:20 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/04 13:37:20 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 295.646497ms
+2024/03/04 13:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38416/preasy-and-metizport-make-iem-dallas-closed-qualifier
+2024/03/04 13:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38410/vini-we-made-the-right-call-picking-up-noway-and-decenty-they-are-incredible
+2024/03/04 13:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38413/liquid-complexity-to-fight-for-major-spot-with-loser-eliminated
+2024/03/04 13:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38414/coldzera-powers-legacy-to-win-over-mibr
+2024/03/04 13:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38409/furia-qualify-for-copenhagen-over-complexity
+2024/03/04 13:37:20 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 371.395697ms
+2024/03/04 13:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38411/yekindar-i-learned-the-hard-way-after-igling-that-social-media-kills-your-vibe-in-a-way
+2024/03/04 13:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38412/oddik-eliminate-red-canids-from-americas-rmr
+2024/03/04 13:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38408/dephh-i-didnt-want-to-retire-from-playing-and-then-be-that-guy-thats-playing-still
+2024/03/04 13:37:20 Fetched posts from https://www.hltv.org/rss/news, took 416.679568ms
+2024/03/04 13:37:21 Fetched posts from https://blogtienao.com/feed, took 922.783995ms
+2024/03/04 13:37:21 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 960.271442ms
+2024/03/04 13:37:21 Fetched posts from https://vlr.gg/rss, took 1.002038767s
+2024/03/04 13:37:22 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.911344774s
+2024/03/04 13:37:34 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.28285817s
+2024/03/04 13:37:34 Skipping writing post, no content: https://www.hltv.org/news/38417/live-updates-from-americas-rmr-day-4
+2024/03/04 13:37:34 Skipping writing post, no content: https://www.hltv.org/news/38415/art-its-expected-to-have-pressure-when-you-are-one-of-the-biggest-teams-in-brazil
+2024/03/04 13:37:34 Skipping writing post, no content: https://www.hltv.org/news/38416/preasy-and-metizport-make-iem-dallas-closed-qualifier
+2024/03/04 13:37:34 Skipping writing post, no content: https://www.hltv.org/news/38410/vini-we-made-the-right-call-picking-up-noway-and-decenty-they-are-incredible
+2024/03/04 13:37:34 Skipping writing post, no content: https://www.hltv.org/news/38413/liquid-complexity-to-fight-for-major-spot-with-loser-eliminated
+2024/03/04 13:37:34 Skipping writing post, no content: https://www.hltv.org/news/38414/coldzera-powers-legacy-to-win-over-mibr
+2024/03/04 13:37:34 Skipping writing post, no content: https://www.hltv.org/news/38409/furia-qualify-for-copenhagen-over-complexity
+2024/03/04 13:37:34 Skipping writing post, no content: https://www.hltv.org/news/38411/yekindar-i-learned-the-hard-way-after-igling-that-social-media-kills-your-vibe-in-a-way
+2024/03/04 13:37:34 Skipping writing post, no content: https://www.hltv.org/news/38412/oddik-eliminate-red-canids-from-americas-rmr
+2024/03/04 13:37:34 Skipping writing post, no content: https://www.hltv.org/news/38408/dephh-i-didnt-want-to-retire-from-playing-and-then-be-that-guy-thats-playing-still
+2024/03/04 13:37:34 Templated 83 posts, took 12.755582ms
