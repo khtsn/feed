@@ -1,30 +1,30 @@
-2024/03/05 12:29:29 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/05 12:29:29 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 112.541204ms
-2024/03/05 12:29:30 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 258.435214ms
-2024/03/05 12:29:30 Fetched posts from https://vlr.gg/rss, took 468.383965ms
-2024/03/05 12:29:30 Content still empty after HTML reader: https://www.hltv.org/news/38428/frozen-on-hltv-confirmed-five-years-in-mouz-reunion-with-karrigan-copenhagen-major
-2024/03/05 12:29:30 Content still empty after HTML reader: https://www.hltv.org/news/38427/esl-impact-season-5-set-to-start
-2024/03/05 12:29:30 Content still empty after HTML reader: https://www.hltv.org/news/38425/elige-this-could-have-been-a-sad-ending-the-sad-storyline-thankfully-we-got-the-good-one
-2024/03/05 12:29:30 Content still empty after HTML reader: https://www.hltv.org/news/38424/pgl-major-copenhagen-attendees-finalized
-2024/03/05 12:29:30 Content still empty after HTML reader: https://www.hltv.org/news/38423/elige-drives-complexity-to-copenhagen-over-liquid
-2024/03/05 12:29:30 Content still empty after HTML reader: https://www.hltv.org/news/38422/b4rtin-a-year-ago-i-was-playing-valorant-i-was-dreaming-about-the-place-i-am-now
-2024/03/05 12:29:30 Content still empty after HTML reader: https://www.hltv.org/news/38421/legacy-outlast-m80-to-earn-major-berth
-2024/03/05 12:29:30 Content still empty after HTML reader: https://www.hltv.org/news/38420/biguzera-you-know-when-you-have-a-piano-on-your-back-and-you-take-off-this-piano-its-my-feeling
-2024/03/05 12:29:30 Content still empty after HTML reader: https://www.hltv.org/news/38419/pain-book-pgl-major-copenhagen-tickets-over-oddik
-2024/03/05 12:29:30 Content still empty after HTML reader: https://www.hltv.org/news/38418/thomas-benched-on-into-the-breach
-2024/03/05 12:29:30 Fetched posts from https://www.hltv.org/rss/news, took 792.427131ms
-2024/03/05 12:29:30 Fetched posts from https://blogtienao.com/feed, took 800.457766ms
-2024/03/05 12:29:30 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 805.363726ms
-2024/03/05 12:29:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.034351875s
-2024/03/05 12:29:44 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.178184356s
-2024/03/05 12:29:44 Skipping writing post, no content: https://www.hltv.org/news/38428/frozen-on-hltv-confirmed-five-years-in-mouz-reunion-with-karrigan-copenhagen-major
-2024/03/05 12:29:44 Skipping writing post, no content: https://www.hltv.org/news/38427/esl-impact-season-5-set-to-start
-2024/03/05 12:29:44 Skipping writing post, no content: https://www.hltv.org/news/38425/elige-this-could-have-been-a-sad-ending-the-sad-storyline-thankfully-we-got-the-good-one
-2024/03/05 12:29:44 Skipping writing post, no content: https://www.hltv.org/news/38424/pgl-major-copenhagen-attendees-finalized
-2024/03/05 12:29:44 Skipping writing post, no content: https://www.hltv.org/news/38423/elige-drives-complexity-to-copenhagen-over-liquid
-2024/03/05 12:29:44 Skipping writing post, no content: https://www.hltv.org/news/38422/b4rtin-a-year-ago-i-was-playing-valorant-i-was-dreaming-about-the-place-i-am-now
-2024/03/05 12:29:44 Skipping writing post, no content: https://www.hltv.org/news/38421/legacy-outlast-m80-to-earn-major-berth
-2024/03/05 12:29:44 Skipping writing post, no content: https://www.hltv.org/news/38420/biguzera-you-know-when-you-have-a-piano-on-your-back-and-you-take-off-this-piano-its-my-feeling
-2024/03/05 12:29:44 Skipping writing post, no content: https://www.hltv.org/news/38419/pain-book-pgl-major-copenhagen-tickets-over-oddik
-2024/03/05 12:29:44 Skipping writing post, no content: https://www.hltv.org/news/38418/thomas-benched-on-into-the-breach
-2024/03/05 12:29:44 Templated 84 posts, took 12.676906ms
+2024/03/05 12:50:31 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 181.031013ms
+2024/03/05 12:50:31 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/05 12:50:31 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 220.954043ms
+2024/03/05 12:50:31 Content still empty after HTML reader: https://www.hltv.org/news/38428/frozen-on-hltv-confirmed-five-years-in-mouz-reunion-with-karrigan-copenhagen-major
+2024/03/05 12:50:31 Content still empty after HTML reader: https://www.hltv.org/news/38427/esl-impact-season-5-set-to-start
+2024/03/05 12:50:31 Content still empty after HTML reader: https://www.hltv.org/news/38425/elige-this-could-have-been-a-sad-ending-the-sad-storyline-thankfully-we-got-the-good-one
+2024/03/05 12:50:31 Content still empty after HTML reader: https://www.hltv.org/news/38424/pgl-major-copenhagen-attendees-finalized
+2024/03/05 12:50:31 Fetched posts from https://vlr.gg/rss, took 358.403104ms
+2024/03/05 12:50:31 Content still empty after HTML reader: https://www.hltv.org/news/38423/elige-drives-complexity-to-copenhagen-over-liquid
+2024/03/05 12:50:31 Content still empty after HTML reader: https://www.hltv.org/news/38422/b4rtin-a-year-ago-i-was-playing-valorant-i-was-dreaming-about-the-place-i-am-now
+2024/03/05 12:50:31 Content still empty after HTML reader: https://www.hltv.org/news/38421/legacy-outlast-m80-to-earn-major-berth
+2024/03/05 12:50:31 Content still empty after HTML reader: https://www.hltv.org/news/38420/biguzera-you-know-when-you-have-a-piano-on-your-back-and-you-take-off-this-piano-its-my-feeling
+2024/03/05 12:50:31 Content still empty after HTML reader: https://www.hltv.org/news/38419/pain-book-pgl-major-copenhagen-tickets-over-oddik
+2024/03/05 12:50:31 Content still empty after HTML reader: https://www.hltv.org/news/38418/thomas-benched-on-into-the-breach
+2024/03/05 12:50:31 Fetched posts from https://www.hltv.org/rss/news, took 424.471411ms
+2024/03/05 12:50:32 Fetched posts from https://blogtienao.com/feed, took 715.726608ms
+2024/03/05 12:50:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.079687711s
+2024/03/05 12:50:32 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.147132761s
+2024/03/05 12:50:46 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.796779101s
+2024/03/05 12:50:46 Skipping writing post, no content: https://www.hltv.org/news/38428/frozen-on-hltv-confirmed-five-years-in-mouz-reunion-with-karrigan-copenhagen-major
+2024/03/05 12:50:46 Skipping writing post, no content: https://www.hltv.org/news/38427/esl-impact-season-5-set-to-start
+2024/03/05 12:50:46 Skipping writing post, no content: https://www.hltv.org/news/38425/elige-this-could-have-been-a-sad-ending-the-sad-storyline-thankfully-we-got-the-good-one
+2024/03/05 12:50:46 Skipping writing post, no content: https://www.hltv.org/news/38424/pgl-major-copenhagen-attendees-finalized
+2024/03/05 12:50:46 Skipping writing post, no content: https://www.hltv.org/news/38423/elige-drives-complexity-to-copenhagen-over-liquid
+2024/03/05 12:50:46 Skipping writing post, no content: https://www.hltv.org/news/38422/b4rtin-a-year-ago-i-was-playing-valorant-i-was-dreaming-about-the-place-i-am-now
+2024/03/05 12:50:46 Skipping writing post, no content: https://www.hltv.org/news/38421/legacy-outlast-m80-to-earn-major-berth
+2024/03/05 12:50:46 Skipping writing post, no content: https://www.hltv.org/news/38420/biguzera-you-know-when-you-have-a-piano-on-your-back-and-you-take-off-this-piano-its-my-feeling
+2024/03/05 12:50:46 Skipping writing post, no content: https://www.hltv.org/news/38419/pain-book-pgl-major-copenhagen-tickets-over-oddik
+2024/03/05 12:50:46 Skipping writing post, no content: https://www.hltv.org/news/38418/thomas-benched-on-into-the-breach
+2024/03/05 12:50:46 Templated 84 posts, took 12.332045ms
