@@ -1,30 +1,28 @@
-2024/03/06 11:25:48 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/06 11:25:48 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 146.641358ms
-2024/03/06 11:25:48 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 171.03265ms
-2024/03/06 11:25:48 Fetched posts from https://vlr.gg/rss, took 300.123295ms
-2024/03/06 11:25:48 Content still empty after HTML reader: https://www.hltv.org/news/38432/snappi-on-playing-with-s1mple-the-stuff-he-does-gets-more-crazy-by-the-day
-2024/03/06 11:25:48 Content still empty after HTML reader: https://www.hltv.org/news/38431/38-of-fantasy-players-go-with-s1mple-for-blast-spring-showdown
-2024/03/06 11:25:48 Content still empty after HTML reader: https://www.hltv.org/news/38430/grashog-joins-as-permanent-fifth-for-patrick-in-500-pop0v-takes-over-coaching-duties
-2024/03/06 11:25:48 Content still empty after HTML reader: https://www.hltv.org/news/38429/blast-spring-showdown-teams-format-schedule-prizes-talent
-2024/03/06 11:25:48 Content still empty after HTML reader: https://www.hltv.org/news/38426/team-ranking-february-2024
-2024/03/06 11:25:48 Content still empty after HTML reader: https://www.hltv.org/news/38428/frozen-on-hltv-confirmed-five-years-in-mouz-reunion-with-karrigan-copenhagen-major
-2024/03/06 11:25:48 Content still empty after HTML reader: https://www.hltv.org/news/38427/esl-impact-season-5-set-to-start
-2024/03/06 11:25:48 Content still empty after HTML reader: https://www.hltv.org/news/38425/elige-this-could-have-been-a-sad-ending-the-sad-storyline-thankfully-we-got-the-good-one
-2024/03/06 11:25:48 Content still empty after HTML reader: https://www.hltv.org/news/38424/pgl-major-copenhagen-attendees-finalized
-2024/03/06 11:25:48 Content still empty after HTML reader: https://www.hltv.org/news/38423/elige-drives-complexity-to-copenhagen-over-liquid
-2024/03/06 11:25:48 Fetched posts from https://www.hltv.org/rss/news, took 410.781547ms
-2024/03/06 11:25:48 Fetched posts from https://blogtienao.com/feed, took 717.442616ms
-2024/03/06 11:25:48 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 726.101008ms
-2024/03/06 11:25:48 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 874.97069ms
-2024/03/06 11:26:04 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.219295503s
-2024/03/06 11:26:04 Skipping writing post, no content: https://www.hltv.org/news/38432/snappi-on-playing-with-s1mple-the-stuff-he-does-gets-more-crazy-by-the-day
-2024/03/06 11:26:04 Skipping writing post, no content: https://www.hltv.org/news/38431/38-of-fantasy-players-go-with-s1mple-for-blast-spring-showdown
-2024/03/06 11:26:04 Skipping writing post, no content: https://www.hltv.org/news/38430/grashog-joins-as-permanent-fifth-for-patrick-in-500-pop0v-takes-over-coaching-duties
-2024/03/06 11:26:04 Skipping writing post, no content: https://www.hltv.org/news/38429/blast-spring-showdown-teams-format-schedule-prizes-talent
-2024/03/06 11:26:04 Skipping writing post, no content: https://www.hltv.org/news/38426/team-ranking-february-2024
-2024/03/06 11:26:04 Skipping writing post, no content: https://www.hltv.org/news/38428/frozen-on-hltv-confirmed-five-years-in-mouz-reunion-with-karrigan-copenhagen-major
-2024/03/06 11:26:04 Skipping writing post, no content: https://www.hltv.org/news/38427/esl-impact-season-5-set-to-start
-2024/03/06 11:26:04 Skipping writing post, no content: https://www.hltv.org/news/38425/elige-this-could-have-been-a-sad-ending-the-sad-storyline-thankfully-we-got-the-good-one
-2024/03/06 11:26:04 Skipping writing post, no content: https://www.hltv.org/news/38424/pgl-major-copenhagen-attendees-finalized
-2024/03/06 11:26:04 Skipping writing post, no content: https://www.hltv.org/news/38423/elige-drives-complexity-to-copenhagen-over-liquid
-2024/03/06 11:26:04 Templated 76 posts, took 11.360246ms
+2024/03/06 11:37:35 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/06 11:37:35 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 113.835778ms
+2024/03/06 11:37:35 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 204.231952ms
+2024/03/06 11:37:35 Content still empty after HTML reader: https://www.hltv.org/news/38432/snappi-on-playing-with-s1mple-the-stuff-he-does-gets-more-crazy-by-the-day
+2024/03/06 11:37:35 Content still empty after HTML reader: https://www.hltv.org/news/38431/38-of-fantasy-players-go-with-s1mple-for-blast-spring-showdown
+2024/03/06 11:37:35 Content still empty after HTML reader: https://www.hltv.org/news/38430/grashog-joins-as-permanent-fifth-for-patrick-in-500-pop0v-takes-over-coaching-duties
+2024/03/06 11:37:35 Content still empty after HTML reader: https://www.hltv.org/news/38429/blast-spring-showdown-teams-format-schedule-prizes-talent
+2024/03/06 11:37:35 Content still empty after HTML reader: https://www.hltv.org/news/38426/team-ranking-february-2024
+2024/03/06 11:37:35 Content still empty after HTML reader: https://www.hltv.org/news/38428/frozen-on-hltv-confirmed-five-years-in-mouz-reunion-with-karrigan-copenhagen-major
+2024/03/06 11:37:35 Content still empty after HTML reader: https://www.hltv.org/news/38427/esl-impact-season-5-set-to-start
+2024/03/06 11:37:35 Content still empty after HTML reader: https://www.hltv.org/news/38425/elige-this-could-have-been-a-sad-ending-the-sad-storyline-thankfully-we-got-the-good-one
+2024/03/06 11:37:35 Content still empty after HTML reader: https://www.hltv.org/news/38424/pgl-major-copenhagen-attendees-finalized
+2024/03/06 11:37:35 Fetched posts from https://www.hltv.org/rss/news, took 445.183668ms
+2024/03/06 11:37:35 Fetched posts from https://vlr.gg/rss, took 867.104565ms
+2024/03/06 11:37:35 Fetched posts from https://blogtienao.com/feed, took 923.074894ms
+2024/03/06 11:37:35 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.056936282s
+2024/03/06 11:37:38 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 3.521857359s
+2024/03/06 11:37:49 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.826968079s
+2024/03/06 11:37:49 Skipping writing post, no content: https://www.hltv.org/news/38432/snappi-on-playing-with-s1mple-the-stuff-he-does-gets-more-crazy-by-the-day
+2024/03/06 11:37:49 Skipping writing post, no content: https://www.hltv.org/news/38431/38-of-fantasy-players-go-with-s1mple-for-blast-spring-showdown
+2024/03/06 11:37:49 Skipping writing post, no content: https://www.hltv.org/news/38430/grashog-joins-as-permanent-fifth-for-patrick-in-500-pop0v-takes-over-coaching-duties
+2024/03/06 11:37:49 Skipping writing post, no content: https://www.hltv.org/news/38429/blast-spring-showdown-teams-format-schedule-prizes-talent
+2024/03/06 11:37:49 Skipping writing post, no content: https://www.hltv.org/news/38426/team-ranking-february-2024
+2024/03/06 11:37:49 Skipping writing post, no content: https://www.hltv.org/news/38428/frozen-on-hltv-confirmed-five-years-in-mouz-reunion-with-karrigan-copenhagen-major
+2024/03/06 11:37:49 Skipping writing post, no content: https://www.hltv.org/news/38427/esl-impact-season-5-set-to-start
+2024/03/06 11:37:49 Skipping writing post, no content: https://www.hltv.org/news/38425/elige-this-could-have-been-a-sad-ending-the-sad-storyline-thankfully-we-got-the-good-one
+2024/03/06 11:37:49 Skipping writing post, no content: https://www.hltv.org/news/38424/pgl-major-copenhagen-attendees-finalized
+2024/03/06 11:37:49 Templated 76 posts, took 12.405749ms
