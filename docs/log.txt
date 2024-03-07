@@ -1,30 +1,32 @@
-2024/03/07 03:14:32 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 137.953719ms
-2024/03/07 03:14:32 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/07 03:14:32 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 147.746889ms
-2024/03/07 03:14:32 Content still empty after HTML reader: https://www.hltv.org/news/38440/metizport-eliminate-falcons-in-s1mple-cs2-debut
-2024/03/07 03:14:32 Fetched posts from https://vlr.gg/rss, took 277.158124ms
-2024/03/07 03:14:32 Content still empty after HTML reader: https://www.hltv.org/news/38439/media-nrg-sign-walco-as-daps-transitions-to-coaching-role
-2024/03/07 03:14:32 Content still empty after HTML reader: https://www.hltv.org/news/38437/esports-world-cup-cs-qualifiers-announced
-2024/03/07 03:14:32 Content still empty after HTML reader: https://www.hltv.org/news/38438/fnatic-claim-res-series-1-title-over-bleed
-2024/03/07 03:14:32 Content still empty after HTML reader: https://www.hltv.org/news/38435/live-updates-from-blast-premier-spring-showdown-day-1
-2024/03/07 03:14:32 Content still empty after HTML reader: https://www.hltv.org/news/38434/try-im-ready-to-compete-again
-2024/03/07 03:14:32 Content still empty after HTML reader: https://www.hltv.org/news/38433/frozen-i-would-have-considered-vitality-if-fazes-offer-wasnt-on-the-table
-2024/03/07 03:14:32 Content still empty after HTML reader: https://www.hltv.org/news/38432/snappi-on-playing-with-s1mple-the-stuff-he-does-gets-more-crazy-by-the-day
-2024/03/07 03:14:32 Content still empty after HTML reader: https://www.hltv.org/news/38431/38-of-fantasy-players-go-with-s1mple-for-blast-spring-showdown
-2024/03/07 03:14:32 Content still empty after HTML reader: https://www.hltv.org/news/38430/grashog-joins-as-permanent-fifth-for-patrick-in-500-pop0v-takes-over-coaching-duties
-2024/03/07 03:14:32 Fetched posts from https://www.hltv.org/rss/news, took 352.065406ms
-2024/03/07 03:14:32 Fetched posts from https://blogtienao.com/feed, took 690.986029ms
-2024/03/07 03:14:32 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 952.68902ms
-2024/03/07 03:14:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.010771046s
-2024/03/07 03:14:47 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.508955486s
-2024/03/07 03:14:47 Skipping writing post, no content: https://www.hltv.org/news/38440/metizport-eliminate-falcons-in-s1mple-cs2-debut
-2024/03/07 03:14:47 Skipping writing post, no content: https://www.hltv.org/news/38439/media-nrg-sign-walco-as-daps-transitions-to-coaching-role
-2024/03/07 03:14:47 Skipping writing post, no content: https://www.hltv.org/news/38437/esports-world-cup-cs-qualifiers-announced
-2024/03/07 03:14:47 Skipping writing post, no content: https://www.hltv.org/news/38438/fnatic-claim-res-series-1-title-over-bleed
-2024/03/07 03:14:47 Skipping writing post, no content: https://www.hltv.org/news/38435/live-updates-from-blast-premier-spring-showdown-day-1
-2024/03/07 03:14:47 Skipping writing post, no content: https://www.hltv.org/news/38434/try-im-ready-to-compete-again
-2024/03/07 03:14:47 Skipping writing post, no content: https://www.hltv.org/news/38433/frozen-i-would-have-considered-vitality-if-fazes-offer-wasnt-on-the-table
-2024/03/07 03:14:47 Skipping writing post, no content: https://www.hltv.org/news/38432/snappi-on-playing-with-s1mple-the-stuff-he-does-gets-more-crazy-by-the-day
-2024/03/07 03:14:47 Skipping writing post, no content: https://www.hltv.org/news/38431/38-of-fantasy-players-go-with-s1mple-for-blast-spring-showdown
-2024/03/07 03:14:47 Skipping writing post, no content: https://www.hltv.org/news/38430/grashog-joins-as-permanent-fifth-for-patrick-in-500-pop0v-takes-over-coaching-duties
-2024/03/07 03:14:47 Templated 88 posts, took 14.972918ms
+2024/03/07 03:26:21 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/07 03:26:21 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 145.243256ms
+2024/03/07 03:26:21 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 233.001852ms
+2024/03/07 03:26:22 Content still empty after HTML reader: https://www.hltv.org/news/38440/metizport-eliminate-falcons-in-s1mple-cs2-debut
+2024/03/07 03:26:22 Content still empty after HTML reader: https://www.hltv.org/news/38439/media-nrg-sign-walco-as-daps-transitions-to-coaching-role
+2024/03/07 03:26:22 Content still empty after HTML reader: https://www.nytimes.com/2024/03/06/us/politics/israel-hamas-hostages.html
+2024/03/07 03:26:22 Content still empty after HTML reader: https://www.hltv.org/news/38437/esports-world-cup-cs-qualifiers-announced
+2024/03/07 03:26:22 Content still empty after HTML reader: https://www.hltv.org/news/38438/fnatic-claim-res-series-1-title-over-bleed
+2024/03/07 03:26:22 Content still empty after HTML reader: https://www.hltv.org/news/38435/live-updates-from-blast-premier-spring-showdown-day-1
+2024/03/07 03:26:22 Content still empty after HTML reader: https://www.hltv.org/news/38434/try-im-ready-to-compete-again
+2024/03/07 03:26:22 Content still empty after HTML reader: https://www.hltv.org/news/38433/frozen-i-would-have-considered-vitality-if-fazes-offer-wasnt-on-the-table
+2024/03/07 03:26:22 Content still empty after HTML reader: https://www.hltv.org/news/38432/snappi-on-playing-with-s1mple-the-stuff-he-does-gets-more-crazy-by-the-day
+2024/03/07 03:26:22 Content still empty after HTML reader: https://www.hltv.org/news/38431/38-of-fantasy-players-go-with-s1mple-for-blast-spring-showdown
+2024/03/07 03:26:22 Content still empty after HTML reader: https://www.hltv.org/news/38430/grashog-joins-as-permanent-fifth-for-patrick-in-500-pop0v-takes-over-coaching-duties
+2024/03/07 03:26:22 Fetched posts from https://www.hltv.org/rss/news, took 721.425801ms
+2024/03/07 03:26:22 Fetched posts from https://blogtienao.com/feed, took 783.534939ms
+2024/03/07 03:26:22 Fetched posts from https://vlr.gg/rss, took 790.77498ms
+2024/03/07 03:26:22 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.23365116s
+2024/03/07 03:26:23 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.423742756s
+2024/03/07 03:26:34 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.246658858s
+2024/03/07 03:26:34 Skipping writing post, no content: https://www.nytimes.com/2024/03/06/us/politics/israel-hamas-hostages.html
+2024/03/07 03:26:34 Skipping writing post, no content: https://www.hltv.org/news/38440/metizport-eliminate-falcons-in-s1mple-cs2-debut
+2024/03/07 03:26:34 Skipping writing post, no content: https://www.hltv.org/news/38439/media-nrg-sign-walco-as-daps-transitions-to-coaching-role
+2024/03/07 03:26:34 Skipping writing post, no content: https://www.hltv.org/news/38437/esports-world-cup-cs-qualifiers-announced
+2024/03/07 03:26:34 Skipping writing post, no content: https://www.hltv.org/news/38438/fnatic-claim-res-series-1-title-over-bleed
+2024/03/07 03:26:34 Skipping writing post, no content: https://www.hltv.org/news/38435/live-updates-from-blast-premier-spring-showdown-day-1
+2024/03/07 03:26:34 Skipping writing post, no content: https://www.hltv.org/news/38434/try-im-ready-to-compete-again
+2024/03/07 03:26:34 Skipping writing post, no content: https://www.hltv.org/news/38433/frozen-i-would-have-considered-vitality-if-fazes-offer-wasnt-on-the-table
+2024/03/07 03:26:34 Skipping writing post, no content: https://www.hltv.org/news/38432/snappi-on-playing-with-s1mple-the-stuff-he-does-gets-more-crazy-by-the-day
+2024/03/07 03:26:34 Skipping writing post, no content: https://www.hltv.org/news/38431/38-of-fantasy-players-go-with-s1mple-for-blast-spring-showdown
+2024/03/07 03:26:34 Skipping writing post, no content: https://www.hltv.org/news/38430/grashog-joins-as-permanent-fifth-for-patrick-in-500-pop0v-takes-over-coaching-duties
+2024/03/07 03:26:34 Templated 85 posts, took 12.993846ms
