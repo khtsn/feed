@@ -1,32 +1,30 @@
-2024/03/08 17:38:27 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/08 17:38:27 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 181.594095ms
-2024/03/08 17:38:27 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 220.326654ms
-2024/03/08 17:38:27 Content still empty after HTML reader: https://www.hltv.org/news/38449/launx-departs-bleed-vldn-joins-on-trial
-2024/03/08 17:38:27 Content still empty after HTML reader: https://www.vlr.gg/313703/vct-emea-2024-format-revealed
-2024/03/08 17:38:27 Content still empty after HTML reader: https://www.hltv.org/news/38448/og-knock-complexity-out-of-showdown
-2024/03/08 17:38:27 Content still empty after HTML reader: https://www.hltv.org/news/38447/nrg-parts-ways-with-fang
-2024/03/08 17:38:27 Content still empty after HTML reader: https://www.hltv.org/news/38446/nrg-confirm-walco-signing
-2024/03/08 17:38:27 Content still empty after HTML reader: https://www.hltv.org/news/38445/saw-deal-liquids-season-another-heavy-blow-with-showdown-elimination
-2024/03/08 17:38:27 Content still empty after HTML reader: https://www.hltv.org/news/38444/skyesports-masters-eu-closed-qualifier-invites-revealed
-2024/03/08 17:38:28 Content still empty after HTML reader: https://www.hltv.org/news/38443/natosaphix-joins-nip-impact-as-head-coach
-2024/03/08 17:38:28 Content still empty after HTML reader: https://www.hltv.org/news/38442/kr-enter-counter-strike-with-argentine-team
-2024/03/08 17:38:28 Content still empty after HTML reader: https://www.hltv.org/news/38440/metizport-eliminate-falcons-in-s1mple-cs2-debut
-2024/03/08 17:38:28 Content still empty after HTML reader: https://www.hltv.org/news/38439/media-nrg-sign-walco-as-daps-transitions-to-coaching-role
-2024/03/08 17:38:28 Fetched posts from https://www.hltv.org/rss/news, took 482.152677ms
-2024/03/08 17:38:28 Fetched posts from https://vlr.gg/rss, took 628.423653ms
-2024/03/08 17:38:28 Fetched posts from https://blogtienao.com/feed, took 692.891352ms
-2024/03/08 17:38:28 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.063399561s
-2024/03/08 17:38:29 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.099662046s
-2024/03/08 17:38:42 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.210368828s
-2024/03/08 17:38:42 Skipping writing post, no content: https://www.hltv.org/news/38449/launx-departs-bleed-vldn-joins-on-trial
-2024/03/08 17:38:42 Skipping writing post, no content: https://www.vlr.gg/313703/vct-emea-2024-format-revealed
-2024/03/08 17:38:42 Skipping writing post, no content: https://www.hltv.org/news/38448/og-knock-complexity-out-of-showdown
-2024/03/08 17:38:42 Skipping writing post, no content: https://www.hltv.org/news/38447/nrg-parts-ways-with-fang
-2024/03/08 17:38:42 Skipping writing post, no content: https://www.hltv.org/news/38446/nrg-confirm-walco-signing
-2024/03/08 17:38:42 Skipping writing post, no content: https://www.hltv.org/news/38445/saw-deal-liquids-season-another-heavy-blow-with-showdown-elimination
-2024/03/08 17:38:42 Skipping writing post, no content: https://www.hltv.org/news/38444/skyesports-masters-eu-closed-qualifier-invites-revealed
-2024/03/08 17:38:42 Skipping writing post, no content: https://www.hltv.org/news/38443/natosaphix-joins-nip-impact-as-head-coach
-2024/03/08 17:38:42 Skipping writing post, no content: https://www.hltv.org/news/38442/kr-enter-counter-strike-with-argentine-team
-2024/03/08 17:38:42 Skipping writing post, no content: https://www.hltv.org/news/38440/metizport-eliminate-falcons-in-s1mple-cs2-debut
-2024/03/08 17:38:42 Skipping writing post, no content: https://www.hltv.org/news/38439/media-nrg-sign-walco-as-daps-transitions-to-coaching-role
-2024/03/08 17:38:42 Templated 82 posts, took 12.52529ms
+2024/03/08 17:52:28 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 148.815926ms
+2024/03/08 17:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38449/launx-departs-bleed-vldn-joins-on-trial
+2024/03/08 17:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38448/og-knock-complexity-out-of-showdown
+2024/03/08 17:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38447/nrg-parts-ways-with-fang
+2024/03/08 17:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38446/nrg-confirm-walco-signing
+2024/03/08 17:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38445/saw-deal-liquids-season-another-heavy-blow-with-showdown-elimination
+2024/03/08 17:52:28 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/08 17:52:28 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 218.968338ms
+2024/03/08 17:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38444/skyesports-masters-eu-closed-qualifier-invites-revealed
+2024/03/08 17:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38443/natosaphix-joins-nip-impact-as-head-coach
+2024/03/08 17:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38442/kr-enter-counter-strike-with-argentine-team
+2024/03/08 17:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38440/metizport-eliminate-falcons-in-s1mple-cs2-debut
+2024/03/08 17:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38439/media-nrg-sign-walco-as-daps-transitions-to-coaching-role
+2024/03/08 17:52:28 Fetched posts from https://www.hltv.org/rss/news, took 297.751878ms
+2024/03/08 17:52:28 Fetched posts from https://vlr.gg/rss, took 421.310925ms
+2024/03/08 17:52:28 Fetched posts from https://blogtienao.com/feed, took 590.328587ms
+2024/03/08 17:52:29 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 883.995644ms
+2024/03/08 17:52:29 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.226958382s
+2024/03/08 17:52:44 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.968149438s
+2024/03/08 17:52:44 Skipping writing post, no content: https://www.hltv.org/news/38449/launx-departs-bleed-vldn-joins-on-trial
+2024/03/08 17:52:44 Skipping writing post, no content: https://www.hltv.org/news/38448/og-knock-complexity-out-of-showdown
+2024/03/08 17:52:44 Skipping writing post, no content: https://www.hltv.org/news/38447/nrg-parts-ways-with-fang
+2024/03/08 17:52:44 Skipping writing post, no content: https://www.hltv.org/news/38446/nrg-confirm-walco-signing
+2024/03/08 17:52:44 Skipping writing post, no content: https://www.hltv.org/news/38445/saw-deal-liquids-season-another-heavy-blow-with-showdown-elimination
+2024/03/08 17:52:44 Skipping writing post, no content: https://www.hltv.org/news/38444/skyesports-masters-eu-closed-qualifier-invites-revealed
+2024/03/08 17:52:44 Skipping writing post, no content: https://www.hltv.org/news/38443/natosaphix-joins-nip-impact-as-head-coach
+2024/03/08 17:52:44 Skipping writing post, no content: https://www.hltv.org/news/38442/kr-enter-counter-strike-with-argentine-team
+2024/03/08 17:52:44 Skipping writing post, no content: https://www.hltv.org/news/38440/metizport-eliminate-falcons-in-s1mple-cs2-debut
+2024/03/08 17:52:44 Skipping writing post, no content: https://www.hltv.org/news/38439/media-nrg-sign-walco-as-daps-transitions-to-coaching-role
+2024/03/08 17:52:44 Templated 82 posts, took 12.724389ms
