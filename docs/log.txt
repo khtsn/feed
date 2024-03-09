@@ -1,30 +1,30 @@
-2024/03/09 20:26:51 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 105.286137ms
-2024/03/09 20:26:51 Content still empty after HTML reader: https://www.hltv.org/news/38455/metizport-ease-past-monte-in-showdown
-2024/03/09 20:26:51 Content still empty after HTML reader: https://www.hltv.org/news/38453/og-one-win-away-from-spring-final-after-heroic-demolition
-2024/03/09 20:26:51 Content still empty after HTML reader: https://www.hltv.org/news/38452/gamesquare-completes-faze-acquisition
-2024/03/09 20:26:51 Content still empty after HTML reader: https://www.hltv.org/news/38451/saw-eliminate-cloud9-from-showdown
-2024/03/09 20:26:51 Content still empty after HTML reader: https://www.hltv.org/news/38436/advent-benched-as-tyloo-ring-the-changes
-2024/03/09 20:26:51 Content still empty after HTML reader: https://www.hltv.org/news/38450/nip-unveil-xizt-as-new-head-coach
-2024/03/09 20:26:51 Content still empty after HTML reader: https://www.hltv.org/news/38449/launx-departs-bleed-vldn-joins-on-trial
-2024/03/09 20:26:51 Content still empty after HTML reader: https://www.hltv.org/news/38435/live-updates-from-blast-premier-spring-showdown
-2024/03/09 20:26:51 Content still empty after HTML reader: https://www.hltv.org/news/38448/og-knock-complexity-out-of-showdown
-2024/03/09 20:26:51 Content still empty after HTML reader: https://www.hltv.org/news/38447/nrg-parts-ways-with-fang
-2024/03/09 20:26:51 Fetched posts from https://www.hltv.org/rss/news, took 247.077714ms
-2024/03/09 20:26:51 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/09 20:26:51 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 303.021429ms
-2024/03/09 20:26:51 Fetched posts from https://vlr.gg/rss, took 396.33947ms
-2024/03/09 20:26:52 Fetched posts from https://blogtienao.com/feed, took 665.472672ms
-2024/03/09 20:26:52 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 865.198922ms
-2024/03/09 20:26:52 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.020293592s
-2024/03/09 20:27:10 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.406357227s
-2024/03/09 20:27:11 Skipping writing post, no content: https://www.hltv.org/news/38455/metizport-ease-past-monte-in-showdown
-2024/03/09 20:27:11 Skipping writing post, no content: https://www.hltv.org/news/38453/og-one-win-away-from-spring-final-after-heroic-demolition
-2024/03/09 20:27:11 Skipping writing post, no content: https://www.hltv.org/news/38452/gamesquare-completes-faze-acquisition
-2024/03/09 20:27:11 Skipping writing post, no content: https://www.hltv.org/news/38451/saw-eliminate-cloud9-from-showdown
-2024/03/09 20:27:11 Skipping writing post, no content: https://www.hltv.org/news/38436/advent-benched-as-tyloo-ring-the-changes
-2024/03/09 20:27:11 Skipping writing post, no content: https://www.hltv.org/news/38450/nip-unveil-xizt-as-new-head-coach
-2024/03/09 20:27:11 Skipping writing post, no content: https://www.hltv.org/news/38449/launx-departs-bleed-vldn-joins-on-trial
-2024/03/09 20:27:11 Skipping writing post, no content: https://www.hltv.org/news/38435/live-updates-from-blast-premier-spring-showdown
-2024/03/09 20:27:11 Skipping writing post, no content: https://www.hltv.org/news/38448/og-knock-complexity-out-of-showdown
-2024/03/09 20:27:11 Skipping writing post, no content: https://www.hltv.org/news/38447/nrg-parts-ways-with-fang
-2024/03/09 20:27:11 Templated 80 posts, took 298.940089ms
+2024/03/09 20:38:39 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/09 20:38:39 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 124.891271ms
+2024/03/09 20:38:39 Content still empty after HTML reader: https://www.hltv.org/news/38455/metizport-ease-past-monte-in-showdown
+2024/03/09 20:38:39 Content still empty after HTML reader: https://www.hltv.org/news/38453/og-one-win-away-from-spring-final-after-heroic-demolition
+2024/03/09 20:38:39 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 301.080273ms
+2024/03/09 20:38:39 Content still empty after HTML reader: https://www.hltv.org/news/38452/gamesquare-completes-faze-acquisition
+2024/03/09 20:38:39 Content still empty after HTML reader: https://www.hltv.org/news/38451/saw-eliminate-cloud9-from-showdown
+2024/03/09 20:38:39 Content still empty after HTML reader: https://www.hltv.org/news/38436/advent-benched-as-tyloo-ring-the-changes
+2024/03/09 20:38:39 Content still empty after HTML reader: https://www.hltv.org/news/38450/nip-unveil-xizt-as-new-head-coach
+2024/03/09 20:38:39 Content still empty after HTML reader: https://www.hltv.org/news/38449/launx-departs-bleed-vldn-joins-on-trial
+2024/03/09 20:38:39 Content still empty after HTML reader: https://www.hltv.org/news/38435/live-updates-from-blast-premier-spring-showdown
+2024/03/09 20:38:39 Content still empty after HTML reader: https://www.hltv.org/news/38448/og-knock-complexity-out-of-showdown
+2024/03/09 20:38:39 Content still empty after HTML reader: https://www.hltv.org/news/38447/nrg-parts-ways-with-fang
+2024/03/09 20:38:39 Fetched posts from https://www.hltv.org/rss/news, took 382.061209ms
+2024/03/09 20:38:39 Fetched posts from https://vlr.gg/rss, took 535.595062ms
+2024/03/09 20:38:39 Fetched posts from https://blogtienao.com/feed, took 697.008202ms
+2024/03/09 20:38:39 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 780.856233ms
+2024/03/09 20:38:40 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.315246703s
+2024/03/09 20:38:57 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.273879307s
+2024/03/09 20:38:57 Skipping writing post, no content: https://www.hltv.org/news/38455/metizport-ease-past-monte-in-showdown
+2024/03/09 20:38:57 Skipping writing post, no content: https://www.hltv.org/news/38453/og-one-win-away-from-spring-final-after-heroic-demolition
+2024/03/09 20:38:57 Skipping writing post, no content: https://www.hltv.org/news/38452/gamesquare-completes-faze-acquisition
+2024/03/09 20:38:57 Skipping writing post, no content: https://www.hltv.org/news/38451/saw-eliminate-cloud9-from-showdown
+2024/03/09 20:38:57 Skipping writing post, no content: https://www.hltv.org/news/38436/advent-benched-as-tyloo-ring-the-changes
+2024/03/09 20:38:57 Skipping writing post, no content: https://www.hltv.org/news/38450/nip-unveil-xizt-as-new-head-coach
+2024/03/09 20:38:57 Skipping writing post, no content: https://www.hltv.org/news/38449/launx-departs-bleed-vldn-joins-on-trial
+2024/03/09 20:38:57 Skipping writing post, no content: https://www.hltv.org/news/38435/live-updates-from-blast-premier-spring-showdown
+2024/03/09 20:38:57 Skipping writing post, no content: https://www.hltv.org/news/38448/og-knock-complexity-out-of-showdown
+2024/03/09 20:38:57 Skipping writing post, no content: https://www.hltv.org/news/38447/nrg-parts-ways-with-fang
+2024/03/09 20:38:57 Templated 80 posts, took 13.566904ms
