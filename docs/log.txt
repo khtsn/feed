@@ -1,30 +1,30 @@
-2024/03/11 11:26:30 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 101.771069ms
-2024/03/11 11:26:31 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/11 11:26:31 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 307.951361ms
-2024/03/11 11:26:31 Content still empty after HTML reader: https://www.hltv.org/news/38462/alliance-qualify-for-esl-challenger-jnkping
-2024/03/11 11:26:31 Content still empty after HTML reader: https://www.hltv.org/news/38460/spirit-complete-blast-spring-final-team-list
-2024/03/11 11:26:31 Content still empty after HTML reader: https://www.hltv.org/news/38459/esl-and-blast-announce-2025-event-dates
-2024/03/11 11:26:31 Content still empty after HTML reader: https://www.hltv.org/news/38458/saw-beat-heavygod-less-og-to-qualify-for-blast-spring-final
-2024/03/11 11:26:31 Content still empty after HTML reader: https://www.hltv.org/news/38457/nrg-sign-autimatic
-2024/03/11 11:26:31 Content still empty after HTML reader: https://www.hltv.org/news/38456/hsg-qualify-for-esl-impact-league-season-5-finals
-2024/03/11 11:26:31 Content still empty after HTML reader: https://www.hltv.org/news/38455/metizport-ease-past-monte-in-showdown
-2024/03/11 11:26:31 Content still empty after HTML reader: https://www.hltv.org/news/38453/og-one-win-away-from-spring-final-after-heroic-demolition
-2024/03/11 11:26:31 Content still empty after HTML reader: https://www.hltv.org/news/38435/live-updates-from-blast-premier-spring-showdown
-2024/03/11 11:26:31 Content still empty after HTML reader: https://www.hltv.org/news/38452/gamesquare-completes-faze-acquisition
-2024/03/11 11:26:31 Fetched posts from https://www.hltv.org/rss/news, took 413.625732ms
-2024/03/11 11:26:31 Fetched posts from https://blogtienao.com/feed, took 622.918739ms
-2024/03/11 11:26:31 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 879.090788ms
-2024/03/11 11:26:31 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.015307177s
-2024/03/11 11:26:33 Fetched posts from https://vlr.gg/rss, took 2.704915159s
-2024/03/11 11:26:45 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.698168055s
-2024/03/11 11:26:45 Skipping writing post, no content: https://www.hltv.org/news/38462/alliance-qualify-for-esl-challenger-jnkping
-2024/03/11 11:26:45 Skipping writing post, no content: https://www.hltv.org/news/38460/spirit-complete-blast-spring-final-team-list
-2024/03/11 11:26:45 Skipping writing post, no content: https://www.hltv.org/news/38459/esl-and-blast-announce-2025-event-dates
-2024/03/11 11:26:45 Skipping writing post, no content: https://www.hltv.org/news/38458/saw-beat-heavygod-less-og-to-qualify-for-blast-spring-final
-2024/03/11 11:26:45 Skipping writing post, no content: https://www.hltv.org/news/38457/nrg-sign-autimatic
-2024/03/11 11:26:45 Skipping writing post, no content: https://www.hltv.org/news/38456/hsg-qualify-for-esl-impact-league-season-5-finals
-2024/03/11 11:26:45 Skipping writing post, no content: https://www.hltv.org/news/38455/metizport-ease-past-monte-in-showdown
-2024/03/11 11:26:45 Skipping writing post, no content: https://www.hltv.org/news/38453/og-one-win-away-from-spring-final-after-heroic-demolition
-2024/03/11 11:26:45 Skipping writing post, no content: https://www.hltv.org/news/38435/live-updates-from-blast-premier-spring-showdown
-2024/03/11 11:26:45 Skipping writing post, no content: https://www.hltv.org/news/38452/gamesquare-completes-faze-acquisition
-2024/03/11 11:26:45 Templated 86 posts, took 13.608197ms
+2024/03/11 11:38:23 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 192.563583ms
+2024/03/11 11:38:23 Fetched posts from https://vlr.gg/rss, took 281.468555ms
+2024/03/11 11:38:23 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/11 11:38:23 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 318.338006ms
+2024/03/11 11:38:23 Content still empty after HTML reader: https://www.hltv.org/news/38462/alliance-qualify-for-esl-challenger-jnkping
+2024/03/11 11:38:23 Content still empty after HTML reader: https://www.hltv.org/news/38460/spirit-complete-blast-spring-final-team-list
+2024/03/11 11:38:23 Content still empty after HTML reader: https://www.hltv.org/news/38459/esl-and-blast-announce-2025-event-dates
+2024/03/11 11:38:23 Content still empty after HTML reader: https://www.hltv.org/news/38458/saw-beat-heavygod-less-og-to-qualify-for-blast-spring-final
+2024/03/11 11:38:23 Content still empty after HTML reader: https://www.hltv.org/news/38457/nrg-sign-autimatic
+2024/03/11 11:38:23 Content still empty after HTML reader: https://www.hltv.org/news/38456/hsg-qualify-for-esl-impact-league-season-5-finals
+2024/03/11 11:38:23 Content still empty after HTML reader: https://www.hltv.org/news/38455/metizport-ease-past-monte-in-showdown
+2024/03/11 11:38:23 Content still empty after HTML reader: https://www.hltv.org/news/38453/og-one-win-away-from-spring-final-after-heroic-demolition
+2024/03/11 11:38:23 Content still empty after HTML reader: https://www.hltv.org/news/38435/live-updates-from-blast-premier-spring-showdown
+2024/03/11 11:38:23 Content still empty after HTML reader: https://www.hltv.org/news/38452/gamesquare-completes-faze-acquisition
+2024/03/11 11:38:23 Fetched posts from https://www.hltv.org/rss/news, took 464.48967ms
+2024/03/11 11:38:24 Fetched posts from https://blogtienao.com/feed, took 705.425103ms
+2024/03/11 11:38:24 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.214104105s
+2024/03/11 11:38:24 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.532791194s
+2024/03/11 11:38:40 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.445464662s
+2024/03/11 11:38:40 Skipping writing post, no content: https://www.hltv.org/news/38462/alliance-qualify-for-esl-challenger-jnkping
+2024/03/11 11:38:40 Skipping writing post, no content: https://www.hltv.org/news/38460/spirit-complete-blast-spring-final-team-list
+2024/03/11 11:38:40 Skipping writing post, no content: https://www.hltv.org/news/38459/esl-and-blast-announce-2025-event-dates
+2024/03/11 11:38:40 Skipping writing post, no content: https://www.hltv.org/news/38458/saw-beat-heavygod-less-og-to-qualify-for-blast-spring-final
+2024/03/11 11:38:40 Skipping writing post, no content: https://www.hltv.org/news/38457/nrg-sign-autimatic
+2024/03/11 11:38:40 Skipping writing post, no content: https://www.hltv.org/news/38456/hsg-qualify-for-esl-impact-league-season-5-finals
+2024/03/11 11:38:40 Skipping writing post, no content: https://www.hltv.org/news/38455/metizport-ease-past-monte-in-showdown
+2024/03/11 11:38:40 Skipping writing post, no content: https://www.hltv.org/news/38453/og-one-win-away-from-spring-final-after-heroic-demolition
+2024/03/11 11:38:40 Skipping writing post, no content: https://www.hltv.org/news/38435/live-updates-from-blast-premier-spring-showdown
+2024/03/11 11:38:40 Skipping writing post, no content: https://www.hltv.org/news/38452/gamesquare-completes-faze-acquisition
+2024/03/11 11:38:40 Templated 86 posts, took 13.221201ms
