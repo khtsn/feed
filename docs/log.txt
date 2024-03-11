@@ -1,30 +1,30 @@
-2024/03/11 17:52:22 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/11 17:52:22 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 97.552489ms
-2024/03/11 17:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38454/editorial-the-psychology-of-donking
-2024/03/11 17:52:22 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 369.0499ms
-2024/03/11 17:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38466/pgl-major-copenhagen-schedule-announced
-2024/03/11 17:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38465/xyp9x-departs-astralis
-2024/03/11 17:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38462/alliance-qualify-for-esl-challenger-jnkping
-2024/03/11 17:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38460/spirit-complete-blast-spring-final-team-list
-2024/03/11 17:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38459/esl-and-blast-announce-2025-event-dates
-2024/03/11 17:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38458/saw-beat-heavygod-less-og-to-qualify-for-blast-spring-final
-2024/03/11 17:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38457/nrg-sign-autimatic
-2024/03/11 17:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38456/hsg-qualify-for-esl-impact-league-season-5-finals
-2024/03/11 17:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38455/metizport-ease-past-monte-in-showdown
-2024/03/11 17:52:22 Fetched posts from https://www.hltv.org/rss/news, took 446.732524ms
-2024/03/11 17:52:22 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 585.706094ms
-2024/03/11 17:52:22 Fetched posts from https://vlr.gg/rss, took 659.932345ms
-2024/03/11 17:52:22 Fetched posts from https://blogtienao.com/feed, took 838.377858ms
-2024/03/11 17:52:23 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.65159649s
-2024/03/11 17:52:37 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.648635832s
-2024/03/11 17:52:37 Skipping writing post, no content: https://www.hltv.org/news/38454/editorial-the-psychology-of-donking
-2024/03/11 17:52:37 Skipping writing post, no content: https://www.hltv.org/news/38466/pgl-major-copenhagen-schedule-announced
-2024/03/11 17:52:37 Skipping writing post, no content: https://www.hltv.org/news/38465/xyp9x-departs-astralis
-2024/03/11 17:52:37 Skipping writing post, no content: https://www.hltv.org/news/38462/alliance-qualify-for-esl-challenger-jnkping
-2024/03/11 17:52:37 Skipping writing post, no content: https://www.hltv.org/news/38460/spirit-complete-blast-spring-final-team-list
-2024/03/11 17:52:37 Skipping writing post, no content: https://www.hltv.org/news/38459/esl-and-blast-announce-2025-event-dates
-2024/03/11 17:52:37 Skipping writing post, no content: https://www.hltv.org/news/38458/saw-beat-heavygod-less-og-to-qualify-for-blast-spring-final
-2024/03/11 17:52:37 Skipping writing post, no content: https://www.hltv.org/news/38457/nrg-sign-autimatic
-2024/03/11 17:52:37 Skipping writing post, no content: https://www.hltv.org/news/38456/hsg-qualify-for-esl-impact-league-season-5-finals
-2024/03/11 17:52:37 Skipping writing post, no content: https://www.hltv.org/news/38455/metizport-ease-past-monte-in-showdown
-2024/03/11 17:52:37 Templated 80 posts, took 13.194639ms
+2024/03/11 18:19:46 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 142.080258ms
+2024/03/11 18:19:46 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/11 18:19:46 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 195.957081ms
+2024/03/11 18:19:46 Content still empty after HTML reader: https://www.hltv.org/news/38454/editorial-the-psychology-of-donking
+2024/03/11 18:19:46 Fetched posts from https://vlr.gg/rss, took 290.220238ms
+2024/03/11 18:19:46 Content still empty after HTML reader: https://www.hltv.org/news/38466/pgl-major-copenhagen-schedule-announced
+2024/03/11 18:19:46 Content still empty after HTML reader: https://www.hltv.org/news/38465/xyp9x-departs-astralis
+2024/03/11 18:19:46 Content still empty after HTML reader: https://www.hltv.org/news/38462/alliance-qualify-for-esl-challenger-jnkping
+2024/03/11 18:19:46 Content still empty after HTML reader: https://www.hltv.org/news/38460/spirit-complete-blast-spring-final-team-list
+2024/03/11 18:19:46 Content still empty after HTML reader: https://www.hltv.org/news/38459/esl-and-blast-announce-2025-event-dates
+2024/03/11 18:19:46 Content still empty after HTML reader: https://www.hltv.org/news/38458/saw-beat-heavygod-less-og-to-qualify-for-blast-spring-final
+2024/03/11 18:19:46 Content still empty after HTML reader: https://www.hltv.org/news/38457/nrg-sign-autimatic
+2024/03/11 18:19:46 Content still empty after HTML reader: https://www.hltv.org/news/38456/hsg-qualify-for-esl-impact-league-season-5-finals
+2024/03/11 18:19:46 Content still empty after HTML reader: https://www.hltv.org/news/38455/metizport-ease-past-monte-in-showdown
+2024/03/11 18:19:46 Fetched posts from https://www.hltv.org/rss/news, took 414.93031ms
+2024/03/11 18:19:46 Fetched posts from https://blogtienao.com/feed, took 661.610568ms
+2024/03/11 18:19:47 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 947.880656ms
+2024/03/11 18:19:47 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.841243042s
+2024/03/11 18:20:01 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.455591539s
+2024/03/11 18:20:01 Skipping writing post, no content: https://www.hltv.org/news/38454/editorial-the-psychology-of-donking
+2024/03/11 18:20:01 Skipping writing post, no content: https://www.hltv.org/news/38466/pgl-major-copenhagen-schedule-announced
+2024/03/11 18:20:01 Skipping writing post, no content: https://www.hltv.org/news/38465/xyp9x-departs-astralis
+2024/03/11 18:20:01 Skipping writing post, no content: https://www.hltv.org/news/38462/alliance-qualify-for-esl-challenger-jnkping
+2024/03/11 18:20:01 Skipping writing post, no content: https://www.hltv.org/news/38460/spirit-complete-blast-spring-final-team-list
+2024/03/11 18:20:01 Skipping writing post, no content: https://www.hltv.org/news/38459/esl-and-blast-announce-2025-event-dates
+2024/03/11 18:20:01 Skipping writing post, no content: https://www.hltv.org/news/38458/saw-beat-heavygod-less-og-to-qualify-for-blast-spring-final
+2024/03/11 18:20:01 Skipping writing post, no content: https://www.hltv.org/news/38457/nrg-sign-autimatic
+2024/03/11 18:20:01 Skipping writing post, no content: https://www.hltv.org/news/38456/hsg-qualify-for-esl-impact-league-season-5-finals
+2024/03/11 18:20:01 Skipping writing post, no content: https://www.hltv.org/news/38455/metizport-ease-past-monte-in-showdown
+2024/03/11 18:20:01 Templated 80 posts, took 12.351024ms
