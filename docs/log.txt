@@ -1,30 +1,30 @@
-2024/03/13 05:52:30 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/13 05:52:30 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 187.297195ms
-2024/03/13 05:52:30 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 196.81727ms
-2024/03/13 05:52:30 Content still empty after HTML reader: https://www.hltv.org/news/38470/virtuspro-qualify-for-iem-dallas
-2024/03/13 05:52:30 Content still empty after HTML reader: https://www.hltv.org/news/38463/meet-pgl-copenhagen-majors-38-rookies
-2024/03/13 05:52:30 Content still empty after HTML reader: https://www.hltv.org/news/38468/og-invited-to-skyesports-masters
-2024/03/13 05:52:30 Content still empty after HTML reader: https://www.hltv.org/news/38467/hltv-confirmed-pgl-major-copenhagen-preview-with-smooya
-2024/03/13 05:52:30 Content still empty after HTML reader: https://www.hltv.org/news/38464/zywoo-signs-new-vitality-contract-until-2026-since-the-beginning-its-been-vitality-forever
-2024/03/13 05:52:30 Content still empty after HTML reader: https://www.hltv.org/news/38461/infographic-10-things-to-know-about-pgl-major-copenhagen
-2024/03/13 05:52:30 Content still empty after HTML reader: https://www.hltv.org/news/38454/editorial-the-psychology-of-donking
-2024/03/13 05:52:30 Content still empty after HTML reader: https://www.hltv.org/news/38466/pgl-major-copenhagen-schedule-announced
-2024/03/13 05:52:30 Content still empty after HTML reader: https://www.hltv.org/news/38465/xyp9x-departs-astralis
-2024/03/13 05:52:30 Content still empty after HTML reader: https://www.hltv.org/news/38462/alliance-qualify-for-esl-challenger-jnkping
-2024/03/13 05:52:30 Fetched posts from https://www.hltv.org/rss/news, took 294.97963ms
-2024/03/13 05:52:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 842.639415ms
-2024/03/13 05:52:30 Fetched posts from https://vlr.gg/rss, took 843.334705ms
-2024/03/13 05:52:31 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.684653235s
-2024/03/13 05:52:33 Fetched posts from https://blogtienao.com/feed, took 3.233779162s
-2024/03/13 05:52:43 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.616302615s
-2024/03/13 05:52:43 Skipping writing post, no content: https://www.hltv.org/news/38470/virtuspro-qualify-for-iem-dallas
-2024/03/13 05:52:43 Skipping writing post, no content: https://www.hltv.org/news/38463/meet-pgl-copenhagen-majors-38-rookies
-2024/03/13 05:52:43 Skipping writing post, no content: https://www.hltv.org/news/38468/og-invited-to-skyesports-masters
-2024/03/13 05:52:43 Skipping writing post, no content: https://www.hltv.org/news/38467/hltv-confirmed-pgl-major-copenhagen-preview-with-smooya
-2024/03/13 05:52:43 Skipping writing post, no content: https://www.hltv.org/news/38464/zywoo-signs-new-vitality-contract-until-2026-since-the-beginning-its-been-vitality-forever
-2024/03/13 05:52:43 Skipping writing post, no content: https://www.hltv.org/news/38461/infographic-10-things-to-know-about-pgl-major-copenhagen
-2024/03/13 05:52:43 Skipping writing post, no content: https://www.hltv.org/news/38454/editorial-the-psychology-of-donking
-2024/03/13 05:52:43 Skipping writing post, no content: https://www.hltv.org/news/38466/pgl-major-copenhagen-schedule-announced
-2024/03/13 05:52:43 Skipping writing post, no content: https://www.hltv.org/news/38465/xyp9x-departs-astralis
-2024/03/13 05:52:43 Skipping writing post, no content: https://www.hltv.org/news/38462/alliance-qualify-for-esl-challenger-jnkping
-2024/03/13 05:52:43 Templated 78 posts, took 11.660352ms
+2024/03/13 06:20:40 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 185.323573ms
+2024/03/13 06:20:40 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/13 06:20:40 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 186.758733ms
+2024/03/13 06:20:40 Fetched posts from https://vlr.gg/rss, took 280.594541ms
+2024/03/13 06:20:40 Content still empty after HTML reader: https://www.hltv.org/news/38470/virtuspro-qualify-for-iem-dallas
+2024/03/13 06:20:40 Content still empty after HTML reader: https://www.hltv.org/news/38463/meet-pgl-copenhagen-majors-38-rookies
+2024/03/13 06:20:40 Content still empty after HTML reader: https://www.hltv.org/news/38468/og-invited-to-skyesports-masters
+2024/03/13 06:20:40 Content still empty after HTML reader: https://www.hltv.org/news/38467/hltv-confirmed-pgl-major-copenhagen-preview-with-smooya
+2024/03/13 06:20:40 Content still empty after HTML reader: https://www.hltv.org/news/38464/zywoo-signs-new-vitality-contract-until-2026-since-the-beginning-its-been-vitality-forever
+2024/03/13 06:20:40 Content still empty after HTML reader: https://www.hltv.org/news/38461/infographic-10-things-to-know-about-pgl-major-copenhagen
+2024/03/13 06:20:40 Content still empty after HTML reader: https://www.hltv.org/news/38454/editorial-the-psychology-of-donking
+2024/03/13 06:20:40 Content still empty after HTML reader: https://www.hltv.org/news/38466/pgl-major-copenhagen-schedule-announced
+2024/03/13 06:20:40 Content still empty after HTML reader: https://www.hltv.org/news/38465/xyp9x-departs-astralis
+2024/03/13 06:20:40 Content still empty after HTML reader: https://www.hltv.org/news/38462/alliance-qualify-for-esl-challenger-jnkping
+2024/03/13 06:20:40 Fetched posts from https://www.hltv.org/rss/news, took 404.831801ms
+2024/03/13 06:20:41 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.170414944s
+2024/03/13 06:20:42 Fetched posts from https://blogtienao.com/feed, took 2.250936419s
+2024/03/13 06:20:44 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 4.431283252s
+2024/03/13 06:20:58 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.8534136s
+2024/03/13 06:20:58 Skipping writing post, no content: https://www.hltv.org/news/38470/virtuspro-qualify-for-iem-dallas
+2024/03/13 06:20:59 Skipping writing post, no content: https://www.hltv.org/news/38463/meet-pgl-copenhagen-majors-38-rookies
+2024/03/13 06:20:59 Skipping writing post, no content: https://www.hltv.org/news/38468/og-invited-to-skyesports-masters
+2024/03/13 06:20:59 Skipping writing post, no content: https://www.hltv.org/news/38467/hltv-confirmed-pgl-major-copenhagen-preview-with-smooya
+2024/03/13 06:20:59 Skipping writing post, no content: https://www.hltv.org/news/38464/zywoo-signs-new-vitality-contract-until-2026-since-the-beginning-its-been-vitality-forever
+2024/03/13 06:20:59 Skipping writing post, no content: https://www.hltv.org/news/38461/infographic-10-things-to-know-about-pgl-major-copenhagen
+2024/03/13 06:20:59 Skipping writing post, no content: https://www.hltv.org/news/38454/editorial-the-psychology-of-donking
+2024/03/13 06:20:59 Skipping writing post, no content: https://www.hltv.org/news/38466/pgl-major-copenhagen-schedule-announced
+2024/03/13 06:20:59 Skipping writing post, no content: https://www.hltv.org/news/38465/xyp9x-departs-astralis
+2024/03/13 06:20:59 Skipping writing post, no content: https://www.hltv.org/news/38462/alliance-qualify-for-esl-challenger-jnkping
+2024/03/13 06:20:59 Templated 79 posts, took 11.439096ms
