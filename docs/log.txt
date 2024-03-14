@@ -1,30 +1,30 @@
-2024/03/14 11:13:47 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/14 11:13:47 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 141.802328ms
-2024/03/14 11:13:47 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 247.398623ms
-2024/03/14 11:13:48 Content still empty after HTML reader: https://www.hltv.org/news/38478/update-brings-all-new-major-hub-and-pickems
-2024/03/14 11:13:48 Content still empty after HTML reader: https://www.hltv.org/news/38469/glowiing-in-his-30s-who-is-9-pandas-star-rifler
-2024/03/14 11:13:48 Content still empty after HTML reader: https://www.hltv.org/news/38477/mithr-extends-contract-with-apeks-until-2027
-2024/03/14 11:13:48 Content still empty after HTML reader: https://www.hltv.org/news/38476/godsent-release-team-after-loss-of-sponsor
-2024/03/14 11:13:48 Content still empty after HTML reader: https://www.hltv.org/news/38475/eyeballers-bench-shine-flusha-to-stand-in
-2024/03/14 11:13:48 Content still empty after HTML reader: https://www.hltv.org/news/38474/heroic-round-out-iem-dallas-list
-2024/03/14 11:13:48 Content still empty after HTML reader: https://www.hltv.org/news/38473/into-the-breach-transfer-list-rallen-and-cruc1al
-2024/03/14 11:13:48 Content still empty after HTML reader: https://www.hltv.org/news/38472/casle-to-attend-copenhagen-major-with-ecstatic-after-ban-reduced-by-esic
-2024/03/14 11:13:48 Content still empty after HTML reader: https://www.hltv.org/news/38471/richard-lewis-returns-among-pgl-major-copenhagen-talent
-2024/03/14 11:13:48 Content still empty after HTML reader: https://www.hltv.org/news/38470/virtuspro-qualify-for-iem-dallas
-2024/03/14 11:13:48 Fetched posts from https://www.hltv.org/rss/news, took 386.501146ms
-2024/03/14 11:13:48 Fetched posts from https://vlr.gg/rss, took 568.383002ms
-2024/03/14 11:13:48 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.09842409s
-2024/03/14 11:13:48 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.220928978s
-2024/03/14 11:13:49 Fetched posts from https://blogtienao.com/feed, took 2.25460666s
-2024/03/14 11:14:02 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.952380862s
-2024/03/14 11:14:02 Skipping writing post, no content: https://www.hltv.org/news/38478/update-brings-all-new-major-hub-and-pickems
-2024/03/14 11:14:02 Skipping writing post, no content: https://www.hltv.org/news/38469/glowiing-in-his-30s-who-is-9-pandas-star-rifler
-2024/03/14 11:14:02 Skipping writing post, no content: https://www.hltv.org/news/38477/mithr-extends-contract-with-apeks-until-2027
-2024/03/14 11:14:02 Skipping writing post, no content: https://www.hltv.org/news/38476/godsent-release-team-after-loss-of-sponsor
-2024/03/14 11:14:02 Skipping writing post, no content: https://www.hltv.org/news/38475/eyeballers-bench-shine-flusha-to-stand-in
-2024/03/14 11:14:02 Skipping writing post, no content: https://www.hltv.org/news/38474/heroic-round-out-iem-dallas-list
-2024/03/14 11:14:02 Skipping writing post, no content: https://www.hltv.org/news/38473/into-the-breach-transfer-list-rallen-and-cruc1al
-2024/03/14 11:14:02 Skipping writing post, no content: https://www.hltv.org/news/38472/casle-to-attend-copenhagen-major-with-ecstatic-after-ban-reduced-by-esic
-2024/03/14 11:14:02 Skipping writing post, no content: https://www.hltv.org/news/38471/richard-lewis-returns-among-pgl-major-copenhagen-talent
-2024/03/14 11:14:02 Skipping writing post, no content: https://www.hltv.org/news/38470/virtuspro-qualify-for-iem-dallas
-2024/03/14 11:14:02 Templated 83 posts, took 13.763726ms
+2024/03/14 11:25:37 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 201.179165ms
+2024/03/14 11:25:37 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/14 11:25:37 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 531.536477ms
+2024/03/14 11:25:37 Fetched posts from https://vlr.gg/rss, took 556.700883ms
+2024/03/14 11:25:38 Content still empty after HTML reader: https://www.hltv.org/news/38479/pgl-and-perfect-world-announce-partnership
+2024/03/14 11:25:38 Content still empty after HTML reader: https://www.hltv.org/news/38478/update-brings-all-new-major-hub-and-pickems
+2024/03/14 11:25:38 Content still empty after HTML reader: https://www.hltv.org/news/38469/glowiing-in-his-30s-who-is-9-pandas-star-rifler
+2024/03/14 11:25:38 Content still empty after HTML reader: https://www.hltv.org/news/38477/mithr-extends-contract-with-apeks-until-2027
+2024/03/14 11:25:38 Content still empty after HTML reader: https://www.hltv.org/news/38476/godsent-release-team-after-loss-of-sponsor
+2024/03/14 11:25:38 Content still empty after HTML reader: https://www.hltv.org/news/38475/eyeballers-bench-shine-flusha-to-stand-in
+2024/03/14 11:25:38 Content still empty after HTML reader: https://www.hltv.org/news/38474/heroic-round-out-iem-dallas-list
+2024/03/14 11:25:38 Content still empty after HTML reader: https://www.hltv.org/news/38473/into-the-breach-transfer-list-rallen-and-cruc1al
+2024/03/14 11:25:38 Content still empty after HTML reader: https://www.hltv.org/news/38472/casle-to-attend-copenhagen-major-with-ecstatic-after-ban-reduced-by-esic
+2024/03/14 11:25:38 Content still empty after HTML reader: https://www.hltv.org/news/38471/richard-lewis-returns-among-pgl-major-copenhagen-talent
+2024/03/14 11:25:38 Fetched posts from https://www.hltv.org/rss/news, took 767.323613ms
+2024/03/14 11:25:38 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.060183359s
+2024/03/14 11:25:38 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.093469926s
+2024/03/14 11:25:39 Fetched posts from https://blogtienao.com/feed, took 2.30257336s
+2024/03/14 11:25:52 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.185294182s
+2024/03/14 11:25:52 Skipping writing post, no content: https://www.hltv.org/news/38479/pgl-and-perfect-world-announce-partnership
+2024/03/14 11:25:52 Skipping writing post, no content: https://www.hltv.org/news/38478/update-brings-all-new-major-hub-and-pickems
+2024/03/14 11:25:52 Skipping writing post, no content: https://www.hltv.org/news/38469/glowiing-in-his-30s-who-is-9-pandas-star-rifler
+2024/03/14 11:25:52 Skipping writing post, no content: https://www.hltv.org/news/38477/mithr-extends-contract-with-apeks-until-2027
+2024/03/14 11:25:52 Skipping writing post, no content: https://www.hltv.org/news/38476/godsent-release-team-after-loss-of-sponsor
+2024/03/14 11:25:52 Skipping writing post, no content: https://www.hltv.org/news/38475/eyeballers-bench-shine-flusha-to-stand-in
+2024/03/14 11:25:52 Skipping writing post, no content: https://www.hltv.org/news/38474/heroic-round-out-iem-dallas-list
+2024/03/14 11:25:52 Skipping writing post, no content: https://www.hltv.org/news/38473/into-the-breach-transfer-list-rallen-and-cruc1al
+2024/03/14 11:25:52 Skipping writing post, no content: https://www.hltv.org/news/38472/casle-to-attend-copenhagen-major-with-ecstatic-after-ban-reduced-by-esic
+2024/03/14 11:25:52 Skipping writing post, no content: https://www.hltv.org/news/38471/richard-lewis-returns-among-pgl-major-copenhagen-talent
+2024/03/14 11:25:52 Templated 83 posts, took 12.847849ms
