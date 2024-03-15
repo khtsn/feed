@@ -1,30 +1,30 @@
-2024/03/15 02:52:14 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/15 02:52:14 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 128.868227ms
-2024/03/15 02:52:14 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 238.006805ms
-2024/03/15 02:52:15 Fetched posts from https://vlr.gg/rss, took 467.047026ms
-2024/03/15 02:52:15 Content still empty after HTML reader: https://www.hltv.org/news/38485/hadji-steps-down-from-3dmax
-2024/03/15 02:52:15 Content still empty after HTML reader: https://www.hltv.org/news/38480/how-to-watch-counter-strike
-2024/03/15 02:52:15 Content still empty after HTML reader: https://www.hltv.org/news/38481/how-portugal-went-from-antwerp-heartbreak-to-fielding-seven-players-at-a-major
-2024/03/15 02:52:15 Content still empty after HTML reader: https://www.hltv.org/news/38483/f0rest-and-s1mple-among-registered-subs-as-rosters-lock-for-pgl-major-copenhagen
-2024/03/15 02:52:15 Content still empty after HTML reader: https://www.hltv.org/news/38482/nivera-announces-cs-comeback-i-want-to-leave-my-mark-on-this-game
-2024/03/15 02:52:15 Content still empty after HTML reader: https://www.hltv.org/news/38479/pgl-and-perfect-world-announce-partnership
-2024/03/15 02:52:15 Content still empty after HTML reader: https://www.hltv.org/news/38478/update-brings-all-new-major-hub-and-pickems
-2024/03/15 02:52:15 Content still empty after HTML reader: https://www.hltv.org/news/38469/glowiing-in-his-30s-who-is-9-pandas-star-rifler
-2024/03/15 02:52:15 Content still empty after HTML reader: https://www.hltv.org/news/38477/mithr-extends-contract-with-apeks-until-2027
-2024/03/15 02:52:15 Content still empty after HTML reader: https://www.hltv.org/news/38476/godsent-release-team-after-loss-of-sponsor
-2024/03/15 02:52:15 Fetched posts from https://www.hltv.org/rss/news, took 559.784969ms
-2024/03/15 02:52:15 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.147903816s
-2024/03/15 02:52:16 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.575584706s
-2024/03/15 02:52:17 Fetched posts from https://blogtienao.com/feed, took 2.570872126s
-2024/03/15 02:52:28 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.287392592s
-2024/03/15 02:52:28 Skipping writing post, no content: https://www.hltv.org/news/38485/hadji-steps-down-from-3dmax
-2024/03/15 02:52:28 Skipping writing post, no content: https://www.hltv.org/news/38480/how-to-watch-counter-strike
-2024/03/15 02:52:28 Skipping writing post, no content: https://www.hltv.org/news/38481/how-portugal-went-from-antwerp-heartbreak-to-fielding-seven-players-at-a-major
-2024/03/15 02:52:28 Skipping writing post, no content: https://www.hltv.org/news/38483/f0rest-and-s1mple-among-registered-subs-as-rosters-lock-for-pgl-major-copenhagen
-2024/03/15 02:52:28 Skipping writing post, no content: https://www.hltv.org/news/38482/nivera-announces-cs-comeback-i-want-to-leave-my-mark-on-this-game
-2024/03/15 02:52:28 Skipping writing post, no content: https://www.hltv.org/news/38479/pgl-and-perfect-world-announce-partnership
-2024/03/15 02:52:28 Skipping writing post, no content: https://www.hltv.org/news/38478/update-brings-all-new-major-hub-and-pickems
-2024/03/15 02:52:28 Skipping writing post, no content: https://www.hltv.org/news/38469/glowiing-in-his-30s-who-is-9-pandas-star-rifler
-2024/03/15 02:52:28 Skipping writing post, no content: https://www.hltv.org/news/38477/mithr-extends-contract-with-apeks-until-2027
-2024/03/15 02:52:28 Skipping writing post, no content: https://www.hltv.org/news/38476/godsent-release-team-after-loss-of-sponsor
-2024/03/15 02:52:28 Templated 87 posts, took 15.428508ms
+2024/03/15 03:18:19 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 115.769289ms
+2024/03/15 03:18:19 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/15 03:18:19 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 138.257345ms
+2024/03/15 03:18:19 Content still empty after HTML reader: https://www.hltv.org/news/38485/hadji-steps-down-from-3dmax
+2024/03/15 03:18:19 Content still empty after HTML reader: https://www.hltv.org/news/38480/how-to-watch-counter-strike
+2024/03/15 03:18:19 Content still empty after HTML reader: https://www.hltv.org/news/38481/how-portugal-went-from-antwerp-heartbreak-to-fielding-seven-players-at-a-major
+2024/03/15 03:18:19 Content still empty after HTML reader: https://www.hltv.org/news/38483/f0rest-and-s1mple-among-registered-subs-as-rosters-lock-for-pgl-major-copenhagen
+2024/03/15 03:18:19 Content still empty after HTML reader: https://www.hltv.org/news/38482/nivera-announces-cs-comeback-i-want-to-leave-my-mark-on-this-game
+2024/03/15 03:18:19 Content still empty after HTML reader: https://www.hltv.org/news/38479/pgl-and-perfect-world-announce-partnership
+2024/03/15 03:18:19 Content still empty after HTML reader: https://www.hltv.org/news/38478/update-brings-all-new-major-hub-and-pickems
+2024/03/15 03:18:20 Content still empty after HTML reader: https://www.hltv.org/news/38469/glowiing-in-his-30s-who-is-9-pandas-star-rifler
+2024/03/15 03:18:20 Content still empty after HTML reader: https://www.hltv.org/news/38477/mithr-extends-contract-with-apeks-until-2027
+2024/03/15 03:18:20 Content still empty after HTML reader: https://www.hltv.org/news/38476/godsent-release-team-after-loss-of-sponsor
+2024/03/15 03:18:20 Fetched posts from https://www.hltv.org/rss/news, took 303.878988ms
+2024/03/15 03:18:20 Fetched posts from https://vlr.gg/rss, took 414.863727ms
+2024/03/15 03:18:20 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 979.344747ms
+2024/03/15 03:18:21 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.359764483s
+2024/03/15 03:18:22 Fetched posts from https://blogtienao.com/feed, took 2.314837704s
+2024/03/15 03:18:35 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.654039949s
+2024/03/15 03:18:35 Skipping writing post, no content: https://www.hltv.org/news/38485/hadji-steps-down-from-3dmax
+2024/03/15 03:18:35 Skipping writing post, no content: https://www.hltv.org/news/38480/how-to-watch-counter-strike
+2024/03/15 03:18:35 Skipping writing post, no content: https://www.hltv.org/news/38481/how-portugal-went-from-antwerp-heartbreak-to-fielding-seven-players-at-a-major
+2024/03/15 03:18:35 Skipping writing post, no content: https://www.hltv.org/news/38483/f0rest-and-s1mple-among-registered-subs-as-rosters-lock-for-pgl-major-copenhagen
+2024/03/15 03:18:35 Skipping writing post, no content: https://www.hltv.org/news/38482/nivera-announces-cs-comeback-i-want-to-leave-my-mark-on-this-game
+2024/03/15 03:18:35 Skipping writing post, no content: https://www.hltv.org/news/38479/pgl-and-perfect-world-announce-partnership
+2024/03/15 03:18:35 Skipping writing post, no content: https://www.hltv.org/news/38478/update-brings-all-new-major-hub-and-pickems
+2024/03/15 03:18:35 Skipping writing post, no content: https://www.hltv.org/news/38469/glowiing-in-his-30s-who-is-9-pandas-star-rifler
+2024/03/15 03:18:35 Skipping writing post, no content: https://www.hltv.org/news/38477/mithr-extends-contract-with-apeks-until-2027
+2024/03/15 03:18:35 Skipping writing post, no content: https://www.hltv.org/news/38476/godsent-release-team-after-loss-of-sponsor
+2024/03/15 03:18:35 Templated 87 posts, took 13.802294ms
