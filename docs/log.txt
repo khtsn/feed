@@ -1,30 +1,30 @@
-2024/03/15 17:52:05 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 210.687793ms
-2024/03/15 17:52:05 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/15 17:52:05 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 219.750317ms
-2024/03/15 17:52:05 Content still empty after HTML reader: https://www.hltv.org/news/38489/world-esports-championship-2024-to-feature-400000-cs2-prize-pool
-2024/03/15 17:52:05 Content still empty after HTML reader: https://www.hltv.org/news/38490/saw-renew-player-contracts-ahead-of-copenhagen-major
-2024/03/15 17:52:05 Content still empty after HTML reader: https://www.hltv.org/news/38488/visualized-all-24-teams-at-pgl-major-copenhagen
-2024/03/15 17:52:05 Content still empty after HTML reader: https://www.hltv.org/news/38486/pgl-major-copenhagen-teams-format-schedule-prizes-talent
-2024/03/15 17:52:05 Content still empty after HTML reader: https://www.hltv.org/news/38485/hadji-steps-down-from-3dmax
-2024/03/15 17:52:05 Content still empty after HTML reader: https://www.hltv.org/news/38480/how-to-watch-counter-strike
-2024/03/15 17:52:05 Content still empty after HTML reader: https://www.hltv.org/news/38481/how-portugal-went-from-antwerp-heartbreak-to-fielding-seven-players-at-a-major
-2024/03/15 17:52:05 Content still empty after HTML reader: https://www.hltv.org/news/38483/f0rest-and-s1mple-among-registered-subs-as-rosters-lock-for-pgl-major-copenhagen
-2024/03/15 17:52:05 Content still empty after HTML reader: https://www.hltv.org/news/38482/nivera-announces-cs-comeback-i-want-to-leave-my-mark-on-this-game
-2024/03/15 17:52:05 Content still empty after HTML reader: https://www.hltv.org/news/38479/pgl-and-perfect-world-announce-partnership
-2024/03/15 17:52:05 Fetched posts from https://www.hltv.org/rss/news, took 1.02808357s
-2024/03/15 17:52:06 Fetched posts from https://vlr.gg/rss, took 1.174202896s
-2024/03/15 17:52:06 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.267551429s
-2024/03/15 17:52:06 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.417389844s
-2024/03/15 17:52:08 Fetched posts from https://blogtienao.com/feed, took 3.237383803s
-2024/03/15 17:52:21 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.945692427s
-2024/03/15 17:52:21 Skipping writing post, no content: https://www.hltv.org/news/38489/world-esports-championship-2024-to-feature-400000-cs2-prize-pool
-2024/03/15 17:52:21 Skipping writing post, no content: https://www.hltv.org/news/38490/saw-renew-player-contracts-ahead-of-copenhagen-major
-2024/03/15 17:52:21 Skipping writing post, no content: https://www.hltv.org/news/38488/visualized-all-24-teams-at-pgl-major-copenhagen
-2024/03/15 17:52:21 Skipping writing post, no content: https://www.hltv.org/news/38486/pgl-major-copenhagen-teams-format-schedule-prizes-talent
-2024/03/15 17:52:21 Skipping writing post, no content: https://www.hltv.org/news/38485/hadji-steps-down-from-3dmax
-2024/03/15 17:52:21 Skipping writing post, no content: https://www.hltv.org/news/38480/how-to-watch-counter-strike
-2024/03/15 17:52:21 Skipping writing post, no content: https://www.hltv.org/news/38481/how-portugal-went-from-antwerp-heartbreak-to-fielding-seven-players-at-a-major
-2024/03/15 17:52:21 Skipping writing post, no content: https://www.hltv.org/news/38483/f0rest-and-s1mple-among-registered-subs-as-rosters-lock-for-pgl-major-copenhagen
-2024/03/15 17:52:21 Skipping writing post, no content: https://www.hltv.org/news/38482/nivera-announces-cs-comeback-i-want-to-leave-my-mark-on-this-game
-2024/03/15 17:52:21 Skipping writing post, no content: https://www.hltv.org/news/38479/pgl-and-perfect-world-announce-partnership
-2024/03/15 17:52:21 Templated 89 posts, took 14.554558ms
+2024/03/15 18:20:31 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 141.559869ms
+2024/03/15 18:20:31 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/15 18:20:31 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 193.112592ms
+2024/03/15 18:20:31 Content still empty after HTML reader: https://www.hltv.org/news/38489/world-esports-championship-2024-to-feature-400000-cs2-prize-pool
+2024/03/15 18:20:31 Content still empty after HTML reader: https://www.hltv.org/news/38490/saw-renew-player-contracts-ahead-of-copenhagen-major
+2024/03/15 18:20:31 Content still empty after HTML reader: https://www.hltv.org/news/38488/visualized-all-24-teams-at-pgl-major-copenhagen
+2024/03/15 18:20:31 Content still empty after HTML reader: https://www.hltv.org/news/38486/pgl-major-copenhagen-teams-format-schedule-prizes-talent
+2024/03/15 18:20:31 Content still empty after HTML reader: https://www.hltv.org/news/38485/hadji-steps-down-from-3dmax
+2024/03/15 18:20:31 Content still empty after HTML reader: https://www.hltv.org/news/38480/how-to-watch-counter-strike
+2024/03/15 18:20:31 Content still empty after HTML reader: https://www.hltv.org/news/38481/how-portugal-went-from-antwerp-heartbreak-to-fielding-seven-players-at-a-major
+2024/03/15 18:20:32 Content still empty after HTML reader: https://www.hltv.org/news/38483/f0rest-and-s1mple-among-registered-subs-as-rosters-lock-for-pgl-major-copenhagen
+2024/03/15 18:20:32 Content still empty after HTML reader: https://www.hltv.org/news/38482/nivera-announces-cs-comeback-i-want-to-leave-my-mark-on-this-game
+2024/03/15 18:20:32 Content still empty after HTML reader: https://www.hltv.org/news/38479/pgl-and-perfect-world-announce-partnership
+2024/03/15 18:20:32 Fetched posts from https://www.hltv.org/rss/news, took 481.292765ms
+2024/03/15 18:20:32 Fetched posts from https://vlr.gg/rss, took 511.888056ms
+2024/03/15 18:20:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.074488943s
+2024/03/15 18:20:33 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.525963736s
+2024/03/15 18:20:33 Fetched posts from https://blogtienao.com/feed, took 2.324046764s
+2024/03/15 18:20:52 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.615773784s
+2024/03/15 18:20:52 Skipping writing post, no content: https://www.hltv.org/news/38489/world-esports-championship-2024-to-feature-400000-cs2-prize-pool
+2024/03/15 18:20:52 Skipping writing post, no content: https://www.hltv.org/news/38490/saw-renew-player-contracts-ahead-of-copenhagen-major
+2024/03/15 18:20:52 Skipping writing post, no content: https://www.hltv.org/news/38488/visualized-all-24-teams-at-pgl-major-copenhagen
+2024/03/15 18:20:52 Skipping writing post, no content: https://www.hltv.org/news/38486/pgl-major-copenhagen-teams-format-schedule-prizes-talent
+2024/03/15 18:20:52 Skipping writing post, no content: https://www.hltv.org/news/38485/hadji-steps-down-from-3dmax
+2024/03/15 18:20:52 Skipping writing post, no content: https://www.hltv.org/news/38480/how-to-watch-counter-strike
+2024/03/15 18:20:52 Skipping writing post, no content: https://www.hltv.org/news/38481/how-portugal-went-from-antwerp-heartbreak-to-fielding-seven-players-at-a-major
+2024/03/15 18:20:52 Skipping writing post, no content: https://www.hltv.org/news/38483/f0rest-and-s1mple-among-registered-subs-as-rosters-lock-for-pgl-major-copenhagen
+2024/03/15 18:20:52 Skipping writing post, no content: https://www.hltv.org/news/38482/nivera-announces-cs-comeback-i-want-to-leave-my-mark-on-this-game
+2024/03/15 18:20:52 Skipping writing post, no content: https://www.hltv.org/news/38479/pgl-and-perfect-world-announce-partnership
+2024/03/15 18:20:52 Templated 91 posts, took 15.438386ms
