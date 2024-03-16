@@ -1,30 +1,30 @@
-2024/03/16 14:26:41 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 183.063129ms
-2024/03/16 14:26:41 Content still empty after HTML reader: https://www.hltv.org/news/38496/sprout-sign-trio-including-podi
-2024/03/16 14:26:41 Content still empty after HTML reader: https://www.hltv.org/news/38495/xyp9x-joins-mouz-as-assistant-coach
-2024/03/16 14:26:41 Content still empty after HTML reader: https://www.hltv.org/news/38493/official-gamerlegion-replace-9-pandas-at-copenhagen-major
-2024/03/16 14:26:41 Content still empty after HTML reader: https://www.hltv.org/news/38484/editorial-the-schadenfreude-major
-2024/03/16 14:26:41 Content still empty after HTML reader: https://www.hltv.org/news/38492/sprout-release-anlelele-bench-sl1m3
-2024/03/16 14:26:41 Content still empty after HTML reader: https://www.hltv.org/news/38491/sources-9-pandas-at-risk-of-missing-copenhagen-major-gamerlegion-on-standby
-2024/03/16 14:26:41 Content still empty after HTML reader: https://www.hltv.org/news/38489/world-esports-championship-2024-to-feature-400000-cs2-prize-pool
-2024/03/16 14:26:41 Content still empty after HTML reader: https://www.hltv.org/news/38490/saw-renew-player-contracts-ahead-of-copenhagen-major
-2024/03/16 14:26:41 Content still empty after HTML reader: https://www.hltv.org/news/38488/visualized-all-24-teams-at-pgl-major-copenhagen
-2024/03/16 14:26:41 Content still empty after HTML reader: https://www.hltv.org/news/38486/pgl-major-copenhagen-teams-format-schedule-prizes-talent
-2024/03/16 14:26:41 Fetched posts from https://www.hltv.org/rss/news, took 387.003287ms
-2024/03/16 14:26:41 Fetched posts from https://vlr.gg/rss, took 404.538605ms
-2024/03/16 14:26:42 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/16 14:26:42 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 546.683964ms
-2024/03/16 14:26:42 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 981.104867ms
-2024/03/16 14:26:43 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.530503239s
-2024/03/16 14:26:43 Fetched posts from https://blogtienao.com/feed, took 2.228073645s
-2024/03/16 14:26:58 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.979182507s
-2024/03/16 14:26:58 Skipping writing post, no content: https://www.hltv.org/news/38496/sprout-sign-trio-including-podi
-2024/03/16 14:26:58 Skipping writing post, no content: https://www.hltv.org/news/38495/xyp9x-joins-mouz-as-assistant-coach
-2024/03/16 14:26:58 Skipping writing post, no content: https://www.hltv.org/news/38493/official-gamerlegion-replace-9-pandas-at-copenhagen-major
-2024/03/16 14:26:58 Skipping writing post, no content: https://www.hltv.org/news/38484/editorial-the-schadenfreude-major
-2024/03/16 14:26:58 Skipping writing post, no content: https://www.hltv.org/news/38492/sprout-release-anlelele-bench-sl1m3
-2024/03/16 14:26:58 Skipping writing post, no content: https://www.hltv.org/news/38491/sources-9-pandas-at-risk-of-missing-copenhagen-major-gamerlegion-on-standby
-2024/03/16 14:26:58 Skipping writing post, no content: https://www.hltv.org/news/38489/world-esports-championship-2024-to-feature-400000-cs2-prize-pool
-2024/03/16 14:26:58 Skipping writing post, no content: https://www.hltv.org/news/38490/saw-renew-player-contracts-ahead-of-copenhagen-major
-2024/03/16 14:26:58 Skipping writing post, no content: https://www.hltv.org/news/38488/visualized-all-24-teams-at-pgl-major-copenhagen
-2024/03/16 14:26:58 Skipping writing post, no content: https://www.hltv.org/news/38486/pgl-major-copenhagen-teams-format-schedule-prizes-talent
-2024/03/16 14:26:58 Templated 86 posts, took 14.06884ms
+2024/03/16 14:38:29 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/16 14:38:29 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 170.166004ms
+2024/03/16 14:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38496/sprout-sign-trio-including-podi
+2024/03/16 14:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38495/xyp9x-joins-mouz-as-assistant-coach
+2024/03/16 14:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38493/official-gamerlegion-replace-9-pandas-at-copenhagen-major
+2024/03/16 14:38:29 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 228.525359ms
+2024/03/16 14:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38484/editorial-the-schadenfreude-major
+2024/03/16 14:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38492/sprout-release-anlelele-bench-sl1m3
+2024/03/16 14:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38491/sources-9-pandas-at-risk-of-missing-copenhagen-major-gamerlegion-on-standby
+2024/03/16 14:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38489/world-esports-championship-2024-to-feature-400000-cs2-prize-pool
+2024/03/16 14:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38490/saw-renew-player-contracts-ahead-of-copenhagen-major
+2024/03/16 14:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38488/visualized-all-24-teams-at-pgl-major-copenhagen
+2024/03/16 14:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38486/pgl-major-copenhagen-teams-format-schedule-prizes-talent
+2024/03/16 14:38:29 Fetched posts from https://www.hltv.org/rss/news, took 284.382081ms
+2024/03/16 14:38:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.085840791s
+2024/03/16 14:38:30 Fetched posts from https://vlr.gg/rss, took 1.097237236s
+2024/03/16 14:38:30 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.58747142s
+2024/03/16 14:38:32 Fetched posts from https://blogtienao.com/feed, took 3.212712827s
+2024/03/16 14:38:42 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.712591661s
+2024/03/16 14:38:42 Skipping writing post, no content: https://www.hltv.org/news/38496/sprout-sign-trio-including-podi
+2024/03/16 14:38:42 Skipping writing post, no content: https://www.hltv.org/news/38495/xyp9x-joins-mouz-as-assistant-coach
+2024/03/16 14:38:42 Skipping writing post, no content: https://www.hltv.org/news/38493/official-gamerlegion-replace-9-pandas-at-copenhagen-major
+2024/03/16 14:38:42 Skipping writing post, no content: https://www.hltv.org/news/38484/editorial-the-schadenfreude-major
+2024/03/16 14:38:42 Skipping writing post, no content: https://www.hltv.org/news/38492/sprout-release-anlelele-bench-sl1m3
+2024/03/16 14:38:42 Skipping writing post, no content: https://www.hltv.org/news/38491/sources-9-pandas-at-risk-of-missing-copenhagen-major-gamerlegion-on-standby
+2024/03/16 14:38:42 Skipping writing post, no content: https://www.hltv.org/news/38489/world-esports-championship-2024-to-feature-400000-cs2-prize-pool
+2024/03/16 14:38:42 Skipping writing post, no content: https://www.hltv.org/news/38490/saw-renew-player-contracts-ahead-of-copenhagen-major
+2024/03/16 14:38:42 Skipping writing post, no content: https://www.hltv.org/news/38488/visualized-all-24-teams-at-pgl-major-copenhagen
+2024/03/16 14:38:42 Skipping writing post, no content: https://www.hltv.org/news/38486/pgl-major-copenhagen-teams-format-schedule-prizes-talent
+2024/03/16 14:38:42 Templated 86 posts, took 13.018631ms
