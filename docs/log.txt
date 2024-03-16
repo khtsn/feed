@@ -1,30 +1,30 @@
-2024/03/16 06:37:53 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 162.576241ms
-2024/03/16 06:37:53 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/16 06:37:53 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 320.781899ms
-2024/03/16 06:37:53 Content still empty after HTML reader: https://www.hltv.org/news/38484/editorial-the-schadenfreude-major
-2024/03/16 06:37:53 Content still empty after HTML reader: https://www.hltv.org/news/38492/sprout-release-anlelele-bench-sl1m3
-2024/03/16 06:37:53 Content still empty after HTML reader: https://www.hltv.org/news/38491/sources-9-pandas-at-risk-of-missing-copenhagen-major-gamerlegion-on-standby
-2024/03/16 06:37:53 Fetched posts from https://vlr.gg/rss, took 355.978307ms
-2024/03/16 06:37:53 Content still empty after HTML reader: https://www.hltv.org/news/38489/world-esports-championship-2024-to-feature-400000-cs2-prize-pool
-2024/03/16 06:37:53 Content still empty after HTML reader: https://www.hltv.org/news/38490/saw-renew-player-contracts-ahead-of-copenhagen-major
-2024/03/16 06:37:53 Content still empty after HTML reader: https://www.hltv.org/news/38488/visualized-all-24-teams-at-pgl-major-copenhagen
-2024/03/16 06:37:53 Content still empty after HTML reader: https://www.hltv.org/news/38486/pgl-major-copenhagen-teams-format-schedule-prizes-talent
-2024/03/16 06:37:53 Content still empty after HTML reader: https://www.hltv.org/news/38485/hadji-steps-down-from-3dmax
-2024/03/16 06:37:53 Content still empty after HTML reader: https://www.hltv.org/news/38480/how-to-watch-counter-strike
-2024/03/16 06:37:53 Content still empty after HTML reader: https://www.hltv.org/news/38481/how-portugal-went-from-antwerp-heartbreak-to-fielding-seven-players-at-a-major
-2024/03/16 06:37:53 Fetched posts from https://www.hltv.org/rss/news, took 447.327568ms
-2024/03/16 06:37:54 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 975.305987ms
-2024/03/16 06:37:54 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.626243152s
-2024/03/16 06:37:55 Fetched posts from https://blogtienao.com/feed, took 2.255474063s
-2024/03/16 06:38:09 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.383500546s
-2024/03/16 06:38:09 Skipping writing post, no content: https://www.hltv.org/news/38484/editorial-the-schadenfreude-major
-2024/03/16 06:38:09 Skipping writing post, no content: https://www.hltv.org/news/38492/sprout-release-anlelele-bench-sl1m3
-2024/03/16 06:38:09 Skipping writing post, no content: https://www.hltv.org/news/38491/sources-9-pandas-at-risk-of-missing-copenhagen-major-gamerlegion-on-standby
-2024/03/16 06:38:09 Skipping writing post, no content: https://www.hltv.org/news/38489/world-esports-championship-2024-to-feature-400000-cs2-prize-pool
-2024/03/16 06:38:09 Skipping writing post, no content: https://www.hltv.org/news/38490/saw-renew-player-contracts-ahead-of-copenhagen-major
-2024/03/16 06:38:09 Skipping writing post, no content: https://www.hltv.org/news/38488/visualized-all-24-teams-at-pgl-major-copenhagen
-2024/03/16 06:38:09 Skipping writing post, no content: https://www.hltv.org/news/38486/pgl-major-copenhagen-teams-format-schedule-prizes-talent
-2024/03/16 06:38:09 Skipping writing post, no content: https://www.hltv.org/news/38485/hadji-steps-down-from-3dmax
-2024/03/16 06:38:09 Skipping writing post, no content: https://www.hltv.org/news/38480/how-to-watch-counter-strike
-2024/03/16 06:38:09 Skipping writing post, no content: https://www.hltv.org/news/38481/how-portugal-went-from-antwerp-heartbreak-to-fielding-seven-players-at-a-major
-2024/03/16 06:38:09 Templated 85 posts, took 13.550432ms
+2024/03/16 06:52:22 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/16 06:52:22 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 130.404583ms
+2024/03/16 06:52:22 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 263.88864ms
+2024/03/16 06:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38484/editorial-the-schadenfreude-major
+2024/03/16 06:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38492/sprout-release-anlelele-bench-sl1m3
+2024/03/16 06:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38491/sources-9-pandas-at-risk-of-missing-copenhagen-major-gamerlegion-on-standby
+2024/03/16 06:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38489/world-esports-championship-2024-to-feature-400000-cs2-prize-pool
+2024/03/16 06:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38490/saw-renew-player-contracts-ahead-of-copenhagen-major
+2024/03/16 06:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38488/visualized-all-24-teams-at-pgl-major-copenhagen
+2024/03/16 06:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38486/pgl-major-copenhagen-teams-format-schedule-prizes-talent
+2024/03/16 06:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38485/hadji-steps-down-from-3dmax
+2024/03/16 06:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38480/how-to-watch-counter-strike
+2024/03/16 06:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38481/how-portugal-went-from-antwerp-heartbreak-to-fielding-seven-players-at-a-major
+2024/03/16 06:52:22 Fetched posts from https://www.hltv.org/rss/news, took 459.333835ms
+2024/03/16 06:52:22 Fetched posts from https://vlr.gg/rss, took 591.036965ms
+2024/03/16 06:52:23 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 977.294913ms
+2024/03/16 06:52:23 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.076214704s
+2024/03/16 06:52:24 Fetched posts from https://blogtienao.com/feed, took 2.213570045s
+2024/03/16 06:52:38 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.124004692s
+2024/03/16 06:52:38 Skipping writing post, no content: https://www.hltv.org/news/38484/editorial-the-schadenfreude-major
+2024/03/16 06:52:38 Skipping writing post, no content: https://www.hltv.org/news/38492/sprout-release-anlelele-bench-sl1m3
+2024/03/16 06:52:38 Skipping writing post, no content: https://www.hltv.org/news/38491/sources-9-pandas-at-risk-of-missing-copenhagen-major-gamerlegion-on-standby
+2024/03/16 06:52:38 Skipping writing post, no content: https://www.hltv.org/news/38489/world-esports-championship-2024-to-feature-400000-cs2-prize-pool
+2024/03/16 06:52:38 Skipping writing post, no content: https://www.hltv.org/news/38490/saw-renew-player-contracts-ahead-of-copenhagen-major
+2024/03/16 06:52:38 Skipping writing post, no content: https://www.hltv.org/news/38488/visualized-all-24-teams-at-pgl-major-copenhagen
+2024/03/16 06:52:38 Skipping writing post, no content: https://www.hltv.org/news/38486/pgl-major-copenhagen-teams-format-schedule-prizes-talent
+2024/03/16 06:52:38 Skipping writing post, no content: https://www.hltv.org/news/38485/hadji-steps-down-from-3dmax
+2024/03/16 06:52:38 Skipping writing post, no content: https://www.hltv.org/news/38480/how-to-watch-counter-strike
+2024/03/16 06:52:38 Skipping writing post, no content: https://www.hltv.org/news/38481/how-portugal-went-from-antwerp-heartbreak-to-fielding-seven-players-at-a-major
+2024/03/16 06:52:38 Templated 86 posts, took 14.318119ms
