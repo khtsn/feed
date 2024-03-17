@@ -1,30 +1,32 @@
-2024/03/17 22:52:17 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/17 22:52:17 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 155.718486ms
-2024/03/17 22:52:17 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 269.959104ms
-2024/03/17 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38509/sense-on-the-major-versus-the-rmr-theres-less-pressure-playing-here
-2024/03/17 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38510/cloud9-and-ence-claim-comeback-wins-over-legacy-and-koi
-2024/03/17 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38508/heroic-and-apeks-pick-up-ot-wins-in-copenhagen
-2024/03/17 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38507/eternal-fire-and-ecstatic-prevail-in-round-2
-2024/03/17 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38506/coldzera-people-are-underestimating-us-theyre-going-to-see-a-great-version-of-us
-2024/03/17 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38505/major-round-1-ends-with-legacy-beating-furia
-2024/03/17 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38504/heroic-gamerlegion-join-1-0-pool-in-copenhagen
-2024/03/17 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38502/lux-biguzera-is-like-a-father-he-shows-great-numbers-and-great-calls
-2024/03/17 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38503/brazil-on-top-as-imperial-and-pain-emerge-victorious-in-copenhagen
-2024/03/17 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38501/eternal-fire-cloud9-in-1-0-pool-after-first-round-of-play
-2024/03/17 22:52:17 Fetched posts from https://www.hltv.org/rss/news, took 427.403026ms
-2024/03/17 22:52:17 Fetched posts from https://vlr.gg/rss, took 626.89369ms
-2024/03/17 22:52:18 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 677.309804ms
-2024/03/17 22:52:18 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 954.960797ms
-2024/03/17 22:52:19 Fetched posts from https://blogtienao.com/feed, took 2.329349146s
-2024/03/17 22:52:35 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.921459663s
-2024/03/17 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/38509/sense-on-the-major-versus-the-rmr-theres-less-pressure-playing-here
-2024/03/17 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/38510/cloud9-and-ence-claim-comeback-wins-over-legacy-and-koi
-2024/03/17 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/38508/heroic-and-apeks-pick-up-ot-wins-in-copenhagen
-2024/03/17 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/38507/eternal-fire-and-ecstatic-prevail-in-round-2
-2024/03/17 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/38506/coldzera-people-are-underestimating-us-theyre-going-to-see-a-great-version-of-us
-2024/03/17 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/38505/major-round-1-ends-with-legacy-beating-furia
-2024/03/17 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/38504/heroic-gamerlegion-join-1-0-pool-in-copenhagen
-2024/03/17 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/38502/lux-biguzera-is-like-a-father-he-shows-great-numbers-and-great-calls
-2024/03/17 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/38503/brazil-on-top-as-imperial-and-pain-emerge-victorious-in-copenhagen
-2024/03/17 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/38501/eternal-fire-cloud9-in-1-0-pool-after-first-round-of-play
-2024/03/17 22:52:35 Templated 78 posts, took 12.281156ms
+2024/03/17 23:16:56 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 176.091645ms
+2024/03/17 23:16:56 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/17 23:16:56 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 216.350409ms
+2024/03/17 23:16:56 Content still empty after HTML reader: https://www.hltv.org/news/38512/furia-on-the-brink-of-elimination-as-day-1-reaches-end
+2024/03/17 23:16:56 Content still empty after HTML reader: https://www.hltv.org/news/38509/sense-on-the-major-versus-the-rmr-theres-less-pressure-playing-here
+2024/03/17 23:16:56 Content still empty after HTML reader: https://www.hltv.org/news/38510/cloud9-and-ence-claim-comeback-wins-over-legacy-and-koi
+2024/03/17 23:16:56 Content still empty after HTML reader: https://www.hltv.org/news/38508/heroic-and-apeks-pick-up-ot-wins-in-copenhagen
+2024/03/17 23:16:56 Content still empty after HTML reader: https://www.hltv.org/news/38507/eternal-fire-and-ecstatic-prevail-in-round-2
+2024/03/17 23:16:56 Content still empty after HTML reader: https://www.hltv.org/news/38506/coldzera-people-are-underestimating-us-theyre-going-to-see-a-great-version-of-us
+2024/03/17 23:16:56 Content still empty after HTML reader: https://www.hltv.org/news/38505/major-round-1-ends-with-legacy-beating-furia
+2024/03/17 23:16:56 Content still empty after HTML reader: https://www.vlr.gg/316180/sentinels-outlast-team-heretics-in-madrid-with-2-1-win
+2024/03/17 23:16:56 Content still empty after HTML reader: https://www.hltv.org/news/38504/heroic-gamerlegion-join-1-0-pool-in-copenhagen
+2024/03/17 23:16:56 Content still empty after HTML reader: https://www.hltv.org/news/38502/lux-biguzera-is-like-a-father-he-shows-great-numbers-and-great-calls
+2024/03/17 23:16:56 Content still empty after HTML reader: https://www.hltv.org/news/38503/brazil-on-top-as-imperial-and-pain-emerge-victorious-in-copenhagen
+2024/03/17 23:16:56 Fetched posts from https://www.hltv.org/rss/news, took 469.021603ms
+2024/03/17 23:16:56 Fetched posts from https://vlr.gg/rss, took 485.033792ms
+2024/03/17 23:16:56 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 849.704001ms
+2024/03/17 23:16:57 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.818394305s
+2024/03/17 23:16:58 Fetched posts from https://blogtienao.com/feed, took 2.422376099s
+2024/03/17 23:17:15 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.934008392s
+2024/03/17 23:17:15 Skipping writing post, no content: https://www.hltv.org/news/38512/furia-on-the-brink-of-elimination-as-day-1-reaches-end
+2024/03/17 23:17:15 Skipping writing post, no content: https://www.hltv.org/news/38509/sense-on-the-major-versus-the-rmr-theres-less-pressure-playing-here
+2024/03/17 23:17:15 Skipping writing post, no content: https://www.hltv.org/news/38510/cloud9-and-ence-claim-comeback-wins-over-legacy-and-koi
+2024/03/17 23:17:15 Skipping writing post, no content: https://www.hltv.org/news/38508/heroic-and-apeks-pick-up-ot-wins-in-copenhagen
+2024/03/17 23:17:15 Skipping writing post, no content: https://www.hltv.org/news/38507/eternal-fire-and-ecstatic-prevail-in-round-2
+2024/03/17 23:17:15 Skipping writing post, no content: https://www.hltv.org/news/38506/coldzera-people-are-underestimating-us-theyre-going-to-see-a-great-version-of-us
+2024/03/17 23:17:15 Skipping writing post, no content: https://www.hltv.org/news/38505/major-round-1-ends-with-legacy-beating-furia
+2024/03/17 23:17:15 Skipping writing post, no content: https://www.hltv.org/news/38504/heroic-gamerlegion-join-1-0-pool-in-copenhagen
+2024/03/17 23:17:15 Skipping writing post, no content: https://www.hltv.org/news/38502/lux-biguzera-is-like-a-father-he-shows-great-numbers-and-great-calls
+2024/03/17 23:17:15 Skipping writing post, no content: https://www.hltv.org/news/38503/brazil-on-top-as-imperial-and-pain-emerge-victorious-in-copenhagen
+2024/03/17 23:17:15 Skipping writing post, no content: https://www.vlr.gg/316180/sentinels-outlast-team-heretics-in-madrid-with-2-1-win
+2024/03/17 23:17:15 Templated 79 posts, took 13.519805ms
