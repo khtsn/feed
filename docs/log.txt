@@ -1,30 +1,30 @@
-2024/03/17 10:52:34 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/17 10:52:34 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 212.223505ms
-2024/03/17 10:52:34 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 252.307917ms
-2024/03/17 10:52:35 Content still empty after HTML reader: https://www.hltv.org/news/38500/video-how-to-win-a-cs-major
-2024/03/17 10:52:35 Content still empty after HTML reader: https://www.hltv.org/news/38499/pgl-major-copenhagen-live-updates-day-1
-2024/03/17 10:52:35 Content still empty after HTML reader: https://www.hltv.org/news/38497/maj3rs-hopes-of-captaining-the-turkish-ship-to-the-high-seas-of-tier-one-cs
-2024/03/17 10:52:35 Content still empty after HTML reader: https://www.hltv.org/news/38498/what-to-know-about-the-pgl-major-opening-stage-fantasy-game
-2024/03/17 10:52:35 Content still empty after HTML reader: https://www.hltv.org/news/38487/from-paris-to-copenhagen-whats-changed
-2024/03/17 10:52:35 Content still empty after HTML reader: https://www.hltv.org/news/38496/sprout-sign-trio-including-podi
-2024/03/17 10:52:35 Content still empty after HTML reader: https://www.hltv.org/news/38495/xyp9x-joins-mouz-as-assistant-coach
-2024/03/17 10:52:35 Content still empty after HTML reader: https://www.hltv.org/news/38493/official-gamerlegion-replace-9-pandas-at-copenhagen-major
-2024/03/17 10:52:35 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 888.333885ms
-2024/03/17 10:52:35 Content still empty after HTML reader: https://www.hltv.org/news/38484/editorial-the-schadenfreude-major
-2024/03/17 10:52:35 Content still empty after HTML reader: https://www.hltv.org/news/38492/sprout-release-anlelele-bench-sl1m3
-2024/03/17 10:52:35 Fetched posts from https://www.hltv.org/rss/news, took 910.525665ms
-2024/03/17 10:52:35 Fetched posts from https://vlr.gg/rss, took 1.13960397s
-2024/03/17 10:52:36 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.00130682s
-2024/03/17 10:52:37 Fetched posts from https://blogtienao.com/feed, took 3.114785082s
-2024/03/17 10:52:48 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.961556801s
-2024/03/17 10:52:48 Skipping writing post, no content: https://www.hltv.org/news/38500/video-how-to-win-a-cs-major
-2024/03/17 10:52:48 Skipping writing post, no content: https://www.hltv.org/news/38499/pgl-major-copenhagen-live-updates-day-1
-2024/03/17 10:52:48 Skipping writing post, no content: https://www.hltv.org/news/38497/maj3rs-hopes-of-captaining-the-turkish-ship-to-the-high-seas-of-tier-one-cs
-2024/03/17 10:52:48 Skipping writing post, no content: https://www.hltv.org/news/38498/what-to-know-about-the-pgl-major-opening-stage-fantasy-game
-2024/03/17 10:52:48 Skipping writing post, no content: https://www.hltv.org/news/38487/from-paris-to-copenhagen-whats-changed
-2024/03/17 10:52:48 Skipping writing post, no content: https://www.hltv.org/news/38496/sprout-sign-trio-including-podi
-2024/03/17 10:52:48 Skipping writing post, no content: https://www.hltv.org/news/38495/xyp9x-joins-mouz-as-assistant-coach
-2024/03/17 10:52:48 Skipping writing post, no content: https://www.hltv.org/news/38493/official-gamerlegion-replace-9-pandas-at-copenhagen-major
-2024/03/17 10:52:48 Skipping writing post, no content: https://www.hltv.org/news/38484/editorial-the-schadenfreude-major
-2024/03/17 10:52:48 Skipping writing post, no content: https://www.hltv.org/news/38492/sprout-release-anlelele-bench-sl1m3
-2024/03/17 10:52:48 Templated 78 posts, took 12.421238ms
+2024/03/17 11:13:50 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 184.064679ms
+2024/03/17 11:13:50 Content still empty after HTML reader: https://www.hltv.org/news/38500/video-how-to-win-a-cs-major
+2024/03/17 11:13:50 Content still empty after HTML reader: https://www.hltv.org/news/38499/pgl-major-copenhagen-live-updates-day-1
+2024/03/17 11:13:50 Content still empty after HTML reader: https://www.hltv.org/news/38497/maj3rs-hopes-of-captaining-the-turkish-ship-to-the-high-seas-of-tier-one-cs
+2024/03/17 11:13:50 Content still empty after HTML reader: https://www.hltv.org/news/38498/what-to-know-about-the-pgl-major-opening-stage-fantasy-game
+2024/03/17 11:13:50 Content still empty after HTML reader: https://www.hltv.org/news/38487/from-paris-to-copenhagen-whats-changed
+2024/03/17 11:13:50 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/17 11:13:50 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 359.002518ms
+2024/03/17 11:13:51 Content still empty after HTML reader: https://www.hltv.org/news/38496/sprout-sign-trio-including-podi
+2024/03/17 11:13:51 Content still empty after HTML reader: https://www.hltv.org/news/38495/xyp9x-joins-mouz-as-assistant-coach
+2024/03/17 11:13:51 Content still empty after HTML reader: https://www.hltv.org/news/38493/official-gamerlegion-replace-9-pandas-at-copenhagen-major
+2024/03/17 11:13:51 Content still empty after HTML reader: https://www.hltv.org/news/38484/editorial-the-schadenfreude-major
+2024/03/17 11:13:51 Content still empty after HTML reader: https://www.hltv.org/news/38492/sprout-release-anlelele-bench-sl1m3
+2024/03/17 11:13:51 Fetched posts from https://www.hltv.org/rss/news, took 393.403571ms
+2024/03/17 11:13:51 Fetched posts from https://vlr.gg/rss, took 572.439106ms
+2024/03/17 11:13:51 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 906.834776ms
+2024/03/17 11:13:51 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.211908603s
+2024/03/17 11:13:53 Fetched posts from https://blogtienao.com/feed, took 2.51685985s
+2024/03/17 11:14:08 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.586696797s
+2024/03/17 11:14:08 Skipping writing post, no content: https://www.hltv.org/news/38500/video-how-to-win-a-cs-major
+2024/03/17 11:14:08 Skipping writing post, no content: https://www.hltv.org/news/38499/pgl-major-copenhagen-live-updates-day-1
+2024/03/17 11:14:08 Skipping writing post, no content: https://www.hltv.org/news/38497/maj3rs-hopes-of-captaining-the-turkish-ship-to-the-high-seas-of-tier-one-cs
+2024/03/17 11:14:08 Skipping writing post, no content: https://www.hltv.org/news/38498/what-to-know-about-the-pgl-major-opening-stage-fantasy-game
+2024/03/17 11:14:08 Skipping writing post, no content: https://www.hltv.org/news/38487/from-paris-to-copenhagen-whats-changed
+2024/03/17 11:14:08 Skipping writing post, no content: https://www.hltv.org/news/38496/sprout-sign-trio-including-podi
+2024/03/17 11:14:08 Skipping writing post, no content: https://www.hltv.org/news/38495/xyp9x-joins-mouz-as-assistant-coach
+2024/03/17 11:14:08 Skipping writing post, no content: https://www.hltv.org/news/38493/official-gamerlegion-replace-9-pandas-at-copenhagen-major
+2024/03/17 11:14:08 Skipping writing post, no content: https://www.hltv.org/news/38484/editorial-the-schadenfreude-major
+2024/03/17 11:14:08 Skipping writing post, no content: https://www.hltv.org/news/38492/sprout-release-anlelele-bench-sl1m3
+2024/03/17 11:14:08 Templated 80 posts, took 12.553835ms
