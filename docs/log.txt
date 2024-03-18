@@ -1,28 +1,30 @@
-2024/03/18 12:28:52 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/18 12:28:52 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 148.448006ms
-2024/03/18 12:28:52 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 211.30975ms
-2024/03/18 12:28:53 Fetched posts from https://vlr.gg/rss, took 632.035318ms
-2024/03/18 12:28:53 Content still empty after HTML reader: https://www.hltv.org/news/38513/pgl-major-copenhagen-live-updates-day-2
-2024/03/18 12:28:53 Content still empty after HTML reader: https://www.hltv.org/news/38511/saw-i-like-the-way-kyxsan-thinks-about-the-game
-2024/03/18 12:28:53 Content still empty after HTML reader: https://www.hltv.org/news/38512/furia-on-the-brink-of-elimination-as-day-1-reaches-end
-2024/03/18 12:28:53 Content still empty after HTML reader: https://www.hltv.org/news/38509/sense-on-the-major-versus-the-rmr-theres-less-pressure-playing-here
-2024/03/18 12:28:53 Content still empty after HTML reader: https://www.hltv.org/news/38510/cloud9-and-ence-claim-comeback-wins-over-legacy-and-koi
-2024/03/18 12:28:53 Content still empty after HTML reader: https://www.hltv.org/news/38508/heroic-and-apeks-pick-up-ot-wins-in-copenhagen
-2024/03/18 12:28:53 Content still empty after HTML reader: https://www.hltv.org/news/38507/eternal-fire-and-ecstatic-prevail-in-round-2
-2024/03/18 12:28:53 Content still empty after HTML reader: https://www.hltv.org/news/38506/coldzera-people-are-underestimating-us-theyre-going-to-see-a-great-version-of-us
-2024/03/18 12:28:53 Content still empty after HTML reader: https://www.hltv.org/news/38505/major-round-1-ends-with-legacy-beating-furia
-2024/03/18 12:28:53 Fetched posts from https://www.hltv.org/rss/news, took 772.907735ms
-2024/03/18 12:28:53 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.117081278s
-2024/03/18 12:28:53 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.199892817s
-2024/03/18 12:28:54 Fetched posts from https://blogtienao.com/feed, took 2.286475027s
-2024/03/18 12:29:07 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.458093054s
-2024/03/18 12:29:07 Skipping writing post, no content: https://www.hltv.org/news/38513/pgl-major-copenhagen-live-updates-day-2
-2024/03/18 12:29:07 Skipping writing post, no content: https://www.hltv.org/news/38511/saw-i-like-the-way-kyxsan-thinks-about-the-game
-2024/03/18 12:29:07 Skipping writing post, no content: https://www.hltv.org/news/38512/furia-on-the-brink-of-elimination-as-day-1-reaches-end
-2024/03/18 12:29:07 Skipping writing post, no content: https://www.hltv.org/news/38509/sense-on-the-major-versus-the-rmr-theres-less-pressure-playing-here
-2024/03/18 12:29:07 Skipping writing post, no content: https://www.hltv.org/news/38510/cloud9-and-ence-claim-comeback-wins-over-legacy-and-koi
-2024/03/18 12:29:07 Skipping writing post, no content: https://www.hltv.org/news/38508/heroic-and-apeks-pick-up-ot-wins-in-copenhagen
-2024/03/18 12:29:07 Skipping writing post, no content: https://www.hltv.org/news/38507/eternal-fire-and-ecstatic-prevail-in-round-2
-2024/03/18 12:29:07 Skipping writing post, no content: https://www.hltv.org/news/38506/coldzera-people-are-underestimating-us-theyre-going-to-see-a-great-version-of-us
-2024/03/18 12:29:07 Skipping writing post, no content: https://www.hltv.org/news/38505/major-round-1-ends-with-legacy-beating-furia
-2024/03/18 12:29:07 Templated 88 posts, took 13.725061ms
+2024/03/18 12:51:44 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/18 12:51:44 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 142.290939ms
+2024/03/18 12:51:44 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 231.741279ms
+2024/03/18 12:51:45 Content still empty after HTML reader: https://www.hltv.org/news/38514/media-falcons-in-early-talks-over-dupreeh
+2024/03/18 12:51:45 Content still empty after HTML reader: https://www.hltv.org/news/38513/pgl-major-copenhagen-live-updates-day-2
+2024/03/18 12:51:45 Content still empty after HTML reader: https://www.hltv.org/news/38511/saw-i-like-the-way-kyxsan-thinks-about-the-game
+2024/03/18 12:51:45 Content still empty after HTML reader: https://www.hltv.org/news/38512/furia-on-the-brink-of-elimination-as-day-1-reaches-end
+2024/03/18 12:51:45 Content still empty after HTML reader: https://www.hltv.org/news/38509/sense-on-the-major-versus-the-rmr-theres-less-pressure-playing-here
+2024/03/18 12:51:45 Content still empty after HTML reader: https://www.hltv.org/news/38510/cloud9-and-ence-claim-comeback-wins-over-legacy-and-koi
+2024/03/18 12:51:45 Content still empty after HTML reader: https://www.hltv.org/news/38508/heroic-and-apeks-pick-up-ot-wins-in-copenhagen
+2024/03/18 12:51:45 Content still empty after HTML reader: https://www.hltv.org/news/38507/eternal-fire-and-ecstatic-prevail-in-round-2
+2024/03/18 12:51:45 Content still empty after HTML reader: https://www.hltv.org/news/38506/coldzera-people-are-underestimating-us-theyre-going-to-see-a-great-version-of-us
+2024/03/18 12:51:45 Content still empty after HTML reader: https://www.hltv.org/news/38505/major-round-1-ends-with-legacy-beating-furia
+2024/03/18 12:51:45 Fetched posts from https://www.hltv.org/rss/news, took 421.435062ms
+2024/03/18 12:51:45 Fetched posts from https://vlr.gg/rss, took 743.455245ms
+2024/03/18 12:51:45 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 816.663254ms
+2024/03/18 12:51:45 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.101188851s
+2024/03/18 12:51:46 Fetched posts from https://blogtienao.com/feed, took 2.275145012s
+2024/03/18 12:51:59 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.712916974s
+2024/03/18 12:51:59 Skipping writing post, no content: https://www.hltv.org/news/38514/media-falcons-in-early-talks-over-dupreeh
+2024/03/18 12:51:59 Skipping writing post, no content: https://www.hltv.org/news/38513/pgl-major-copenhagen-live-updates-day-2
+2024/03/18 12:51:59 Skipping writing post, no content: https://www.hltv.org/news/38511/saw-i-like-the-way-kyxsan-thinks-about-the-game
+2024/03/18 12:51:59 Skipping writing post, no content: https://www.hltv.org/news/38512/furia-on-the-brink-of-elimination-as-day-1-reaches-end
+2024/03/18 12:51:59 Skipping writing post, no content: https://www.hltv.org/news/38509/sense-on-the-major-versus-the-rmr-theres-less-pressure-playing-here
+2024/03/18 12:51:59 Skipping writing post, no content: https://www.hltv.org/news/38510/cloud9-and-ence-claim-comeback-wins-over-legacy-and-koi
+2024/03/18 12:51:59 Skipping writing post, no content: https://www.hltv.org/news/38508/heroic-and-apeks-pick-up-ot-wins-in-copenhagen
+2024/03/18 12:51:59 Skipping writing post, no content: https://www.hltv.org/news/38507/eternal-fire-and-ecstatic-prevail-in-round-2
+2024/03/18 12:51:59 Skipping writing post, no content: https://www.hltv.org/news/38506/coldzera-people-are-underestimating-us-theyre-going-to-see-a-great-version-of-us
+2024/03/18 12:51:59 Skipping writing post, no content: https://www.hltv.org/news/38505/major-round-1-ends-with-legacy-beating-furia
+2024/03/18 12:51:59 Templated 89 posts, took 14.32642ms
