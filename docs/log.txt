@@ -1,28 +1,30 @@
-2024/03/18 21:39:38 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/18 21:39:38 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 147.714728ms
-2024/03/18 21:39:38 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 181.639136ms
-2024/03/18 21:39:39 Content still empty after HTML reader: https://www.hltv.org/news/38525/monte-promote-gizmy-and-ryu-from-academy-squad
-2024/03/18 21:39:39 Content still empty after HTML reader: https://www.hltv.org/news/38520/esl-challenger-jnkping-closed-qualifier-invites-revealed
-2024/03/18 21:39:39 Content still empty after HTML reader: https://www.hltv.org/news/38526/fallen-vs-gla1ve-headlines-day-3-matches-of-copenhagen-opening-stage
-2024/03/18 21:39:39 Content still empty after HTML reader: https://www.hltv.org/news/38524/furia-keep-major-dreams-alive-at-expense-of-koi
-2024/03/18 21:39:39 Content still empty after HTML reader: https://www.hltv.org/news/38523/cloud9-complete-3-0-run-through-opening-stage
-2024/03/18 21:39:39 Content still empty after HTML reader: https://www.hltv.org/news/38522/svyat-icys-really-good-individually-but-makes-a-lot-of-mistakes
-2024/03/18 21:39:39 Content still empty after HTML reader: https://www.hltv.org/news/38521/themongolz-eliminate-amkal-to-stay-alive-at-the-major
-2024/03/18 21:39:39 Content still empty after HTML reader: https://www.hltv.org/news/38519/heroic-beat-eternal-fire-to-go-3-0-in-copenhagen
-2024/03/18 21:39:39 Content still empty after HTML reader: https://www.hltv.org/news/38518/keoz-on-major-invite-i-was-chilling-with-my-girlfriend-in-dubai-getting-a-bubble-tea
-2024/03/18 21:39:39 Fetched posts from https://www.hltv.org/rss/news, took 464.538268ms
-2024/03/18 21:39:39 Fetched posts from https://vlr.gg/rss, took 668.75843ms
-2024/03/18 21:39:39 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 926.656168ms
-2024/03/18 21:39:39 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.058902151s
-2024/03/18 21:39:41 Fetched posts from https://blogtienao.com/feed, took 2.568359792s
-2024/03/18 21:39:54 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.699084241s
-2024/03/18 21:39:54 Skipping writing post, no content: https://www.hltv.org/news/38525/monte-promote-gizmy-and-ryu-from-academy-squad
-2024/03/18 21:39:54 Skipping writing post, no content: https://www.hltv.org/news/38520/esl-challenger-jnkping-closed-qualifier-invites-revealed
-2024/03/18 21:39:54 Skipping writing post, no content: https://www.hltv.org/news/38526/fallen-vs-gla1ve-headlines-day-3-matches-of-copenhagen-opening-stage
-2024/03/18 21:39:54 Skipping writing post, no content: https://www.hltv.org/news/38524/furia-keep-major-dreams-alive-at-expense-of-koi
-2024/03/18 21:39:54 Skipping writing post, no content: https://www.hltv.org/news/38523/cloud9-complete-3-0-run-through-opening-stage
-2024/03/18 21:39:54 Skipping writing post, no content: https://www.hltv.org/news/38522/svyat-icys-really-good-individually-but-makes-a-lot-of-mistakes
-2024/03/18 21:39:54 Skipping writing post, no content: https://www.hltv.org/news/38521/themongolz-eliminate-amkal-to-stay-alive-at-the-major
-2024/03/18 21:39:54 Skipping writing post, no content: https://www.hltv.org/news/38519/heroic-beat-eternal-fire-to-go-3-0-in-copenhagen
-2024/03/18 21:39:54 Skipping writing post, no content: https://www.hltv.org/news/38518/keoz-on-major-invite-i-was-chilling-with-my-girlfriend-in-dubai-getting-a-bubble-tea
-2024/03/18 21:39:54 Templated 82 posts, took 12.395285ms
+2024/03/18 21:52:22 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/18 21:52:22 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 265.646256ms
+2024/03/18 21:52:22 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 314.854097ms
+2024/03/18 21:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38527/mopoz-our-attitude-was-good-but-it-wasnt-enough-to-win-games
+2024/03/18 21:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38525/monte-promote-gizmy-and-ryu-from-academy-squad
+2024/03/18 21:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38520/esl-challenger-jnkping-closed-qualifier-invites-revealed
+2024/03/18 21:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38526/fallen-vs-gla1ve-headlines-day-3-matches-of-copenhagen-opening-stage
+2024/03/18 21:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38524/furia-keep-major-dreams-alive-at-expense-of-koi
+2024/03/18 21:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38523/cloud9-complete-3-0-run-through-opening-stage
+2024/03/18 21:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38522/svyat-icys-really-good-individually-but-makes-a-lot-of-mistakes
+2024/03/18 21:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38521/themongolz-eliminate-amkal-to-stay-alive-at-the-major
+2024/03/18 21:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38519/heroic-beat-eternal-fire-to-go-3-0-in-copenhagen
+2024/03/18 21:52:22 Content still empty after HTML reader: https://www.hltv.org/news/38518/keoz-on-major-invite-i-was-chilling-with-my-girlfriend-in-dubai-getting-a-bubble-tea
+2024/03/18 21:52:22 Fetched posts from https://www.hltv.org/rss/news, took 464.309104ms
+2024/03/18 21:52:22 Fetched posts from https://vlr.gg/rss, took 722.610276ms
+2024/03/18 21:52:22 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 787.012098ms
+2024/03/18 21:52:22 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.164429444s
+2024/03/18 21:52:24 Fetched posts from https://blogtienao.com/feed, took 2.516826891s
+2024/03/18 21:52:38 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.719997857s
+2024/03/18 21:52:38 Skipping writing post, no content: https://www.hltv.org/news/38527/mopoz-our-attitude-was-good-but-it-wasnt-enough-to-win-games
+2024/03/18 21:52:38 Skipping writing post, no content: https://www.hltv.org/news/38525/monte-promote-gizmy-and-ryu-from-academy-squad
+2024/03/18 21:52:38 Skipping writing post, no content: https://www.hltv.org/news/38520/esl-challenger-jnkping-closed-qualifier-invites-revealed
+2024/03/18 21:52:38 Skipping writing post, no content: https://www.hltv.org/news/38526/fallen-vs-gla1ve-headlines-day-3-matches-of-copenhagen-opening-stage
+2024/03/18 21:52:38 Skipping writing post, no content: https://www.hltv.org/news/38524/furia-keep-major-dreams-alive-at-expense-of-koi
+2024/03/18 21:52:38 Skipping writing post, no content: https://www.hltv.org/news/38523/cloud9-complete-3-0-run-through-opening-stage
+2024/03/18 21:52:38 Skipping writing post, no content: https://www.hltv.org/news/38522/svyat-icys-really-good-individually-but-makes-a-lot-of-mistakes
+2024/03/18 21:52:38 Skipping writing post, no content: https://www.hltv.org/news/38521/themongolz-eliminate-amkal-to-stay-alive-at-the-major
+2024/03/18 21:52:38 Skipping writing post, no content: https://www.hltv.org/news/38519/heroic-beat-eternal-fire-to-go-3-0-in-copenhagen
+2024/03/18 21:52:38 Skipping writing post, no content: https://www.hltv.org/news/38518/keoz-on-major-invite-i-was-chilling-with-my-girlfriend-in-dubai-getting-a-bubble-tea
+2024/03/18 21:52:38 Templated 83 posts, took 12.724581ms
