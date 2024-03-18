@@ -1,32 +1,30 @@
-2024/03/18 19:24:50 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/18 19:24:50 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 326.791455ms
-2024/03/18 19:24:50 Content still empty after HTML reader: https://www.hltv.org/news/38523/cloud9-complete-3-0-run-through-opening-stage
-2024/03/18 19:24:50 Content still empty after HTML reader: https://www.hltv.org/news/38522/svyat-icys-really-good-individually-but-makes-a-lot-of-mistakes
-2024/03/18 19:24:50 Content still empty after HTML reader: https://www.hltv.org/news/38521/themongolz-eliminate-amkal-to-stay-alive-at-the-major
-2024/03/18 19:24:50 Content still empty after HTML reader: https://www.hltv.org/news/38519/heroic-beat-eternal-fire-to-go-3-0-in-copenhagen
-2024/03/18 19:24:50 Content still empty after HTML reader: https://www.hltv.org/news/38518/keoz-on-major-invite-i-was-chilling-with-my-girlfriend-in-dubai-getting-a-bubble-tea
-2024/03/18 19:24:50 Content still empty after HTML reader: https://www.vlr.gg/317226/loud-knock-fpx-out-of-madrid
-2024/03/18 19:24:50 Content still empty after HTML reader: https://www.hltv.org/news/38516/biguzera-on-his-clutches-i-told-the-team-today-im-going-to-bait
-2024/03/18 19:24:50 Content still empty after HTML reader: https://www.hltv.org/news/38517/gamerlegion-and-ecstatic-join-majors-2-1-pool
-2024/03/18 19:24:50 Content still empty after HTML reader: https://www.hltv.org/news/38515/imperial-and-pain-go-2-1-in-copenhagen
-2024/03/18 19:24:50 Content still empty after HTML reader: https://www.hltv.org/news/38514/media-falcons-in-early-talks-over-dupreeh
-2024/03/18 19:24:50 Content still empty after HTML reader: https://www.hltv.org/news/38513/pgl-major-copenhagen-live-updates-day-2
-2024/03/18 19:24:50 Fetched posts from https://www.hltv.org/rss/news, took 469.394387ms
-2024/03/18 19:24:50 Fetched posts from https://vlr.gg/rss, took 476.280495ms
-2024/03/18 19:24:51 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 834.64318ms
-2024/03/18 19:24:51 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.16646592s
-2024/03/18 19:24:52 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 1.624242544s
-2024/03/18 19:24:52 Fetched posts from https://blogtienao.com/feed, took 2.496421419s
-2024/03/18 19:25:05 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.096593286s
-2024/03/18 19:25:05 Skipping writing post, no content: https://www.hltv.org/news/38523/cloud9-complete-3-0-run-through-opening-stage
-2024/03/18 19:25:05 Skipping writing post, no content: https://www.hltv.org/news/38522/svyat-icys-really-good-individually-but-makes-a-lot-of-mistakes
-2024/03/18 19:25:05 Skipping writing post, no content: https://www.hltv.org/news/38521/themongolz-eliminate-amkal-to-stay-alive-at-the-major
-2024/03/18 19:25:05 Skipping writing post, no content: https://www.hltv.org/news/38519/heroic-beat-eternal-fire-to-go-3-0-in-copenhagen
-2024/03/18 19:25:05 Skipping writing post, no content: https://www.hltv.org/news/38518/keoz-on-major-invite-i-was-chilling-with-my-girlfriend-in-dubai-getting-a-bubble-tea
-2024/03/18 19:25:05 Skipping writing post, no content: https://www.hltv.org/news/38516/biguzera-on-his-clutches-i-told-the-team-today-im-going-to-bait
-2024/03/18 19:25:05 Skipping writing post, no content: https://www.hltv.org/news/38517/gamerlegion-and-ecstatic-join-majors-2-1-pool
-2024/03/18 19:25:05 Skipping writing post, no content: https://www.hltv.org/news/38515/imperial-and-pain-go-2-1-in-copenhagen
-2024/03/18 19:25:05 Skipping writing post, no content: https://www.hltv.org/news/38514/media-falcons-in-early-talks-over-dupreeh
-2024/03/18 19:25:05 Skipping writing post, no content: https://www.hltv.org/news/38513/pgl-major-copenhagen-live-updates-day-2
-2024/03/18 19:25:05 Skipping writing post, no content: https://www.vlr.gg/317226/loud-knock-fpx-out-of-madrid
-2024/03/18 19:25:05 Templated 83 posts, took 12.307922ms
+2024/03/18 19:37:20 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 157.729545ms
+2024/03/18 19:37:20 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/18 19:37:20 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 175.724601ms
+2024/03/18 19:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38523/cloud9-complete-3-0-run-through-opening-stage
+2024/03/18 19:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38522/svyat-icys-really-good-individually-but-makes-a-lot-of-mistakes
+2024/03/18 19:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38521/themongolz-eliminate-amkal-to-stay-alive-at-the-major
+2024/03/18 19:37:20 Fetched posts from https://vlr.gg/rss, took 384.130294ms
+2024/03/18 19:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38519/heroic-beat-eternal-fire-to-go-3-0-in-copenhagen
+2024/03/18 19:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38518/keoz-on-major-invite-i-was-chilling-with-my-girlfriend-in-dubai-getting-a-bubble-tea
+2024/03/18 19:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38516/biguzera-on-his-clutches-i-told-the-team-today-im-going-to-bait
+2024/03/18 19:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38517/gamerlegion-and-ecstatic-join-majors-2-1-pool
+2024/03/18 19:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38515/imperial-and-pain-go-2-1-in-copenhagen
+2024/03/18 19:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38514/media-falcons-in-early-talks-over-dupreeh
+2024/03/18 19:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38513/pgl-major-copenhagen-live-updates-day-2
+2024/03/18 19:37:20 Fetched posts from https://www.hltv.org/rss/news, took 483.303106ms
+2024/03/18 19:37:20 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 724.957308ms
+2024/03/18 19:37:21 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.380496107s
+2024/03/18 19:37:22 Fetched posts from https://blogtienao.com/feed, took 2.416383996s
+2024/03/18 19:37:35 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.327001844s
+2024/03/18 19:37:35 Skipping writing post, no content: https://www.hltv.org/news/38523/cloud9-complete-3-0-run-through-opening-stage
+2024/03/18 19:37:35 Skipping writing post, no content: https://www.hltv.org/news/38522/svyat-icys-really-good-individually-but-makes-a-lot-of-mistakes
+2024/03/18 19:37:35 Skipping writing post, no content: https://www.hltv.org/news/38521/themongolz-eliminate-amkal-to-stay-alive-at-the-major
+2024/03/18 19:37:35 Skipping writing post, no content: https://www.hltv.org/news/38519/heroic-beat-eternal-fire-to-go-3-0-in-copenhagen
+2024/03/18 19:37:35 Skipping writing post, no content: https://www.hltv.org/news/38518/keoz-on-major-invite-i-was-chilling-with-my-girlfriend-in-dubai-getting-a-bubble-tea
+2024/03/18 19:37:35 Skipping writing post, no content: https://www.hltv.org/news/38516/biguzera-on-his-clutches-i-told-the-team-today-im-going-to-bait
+2024/03/18 19:37:35 Skipping writing post, no content: https://www.hltv.org/news/38517/gamerlegion-and-ecstatic-join-majors-2-1-pool
+2024/03/18 19:37:35 Skipping writing post, no content: https://www.hltv.org/news/38515/imperial-and-pain-go-2-1-in-copenhagen
+2024/03/18 19:37:35 Skipping writing post, no content: https://www.hltv.org/news/38514/media-falcons-in-early-talks-over-dupreeh
+2024/03/18 19:37:35 Skipping writing post, no content: https://www.hltv.org/news/38513/pgl-major-copenhagen-live-updates-day-2
+2024/03/18 19:37:35 Templated 80 posts, took 13.048003ms
