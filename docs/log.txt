@@ -1,28 +1,30 @@
-2024/03/19 15:37:22 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/19 15:37:22 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 208.876031ms
-2024/03/19 15:37:22 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 222.353666ms
-2024/03/19 15:37:22 Content still empty after HTML reader: https://www.hltv.org/news/38531/eternal-fire-defeat-gamerlegion-to-qualify-for-elimination-stage
-2024/03/19 15:37:22 Content still empty after HTML reader: https://www.hltv.org/news/38530/themongolz-move-into-2-2-pool-at-lynn-visions-expense
-2024/03/19 15:37:22 Content still empty after HTML reader: https://www.hltv.org/news/38529/pgl-major-copenhagen-live-updates-day-3
-2024/03/19 15:37:22 Content still empty after HTML reader: https://www.hltv.org/news/38527/mopoz-our-attitude-was-good-but-it-wasnt-enough-to-win-games
-2024/03/19 15:37:22 Content still empty after HTML reader: https://www.hltv.org/news/38525/monte-promote-gizmy-and-ryu-from-academy
-2024/03/19 15:37:22 Content still empty after HTML reader: https://www.hltv.org/news/38520/esl-challenger-jnkping-closed-qualifier-invites-revealed
-2024/03/19 15:37:22 Content still empty after HTML reader: https://www.hltv.org/news/38526/fallen-vs-gla1ve-headlines-day-3-matches-of-copenhagen-opening-stage
-2024/03/19 15:37:22 Content still empty after HTML reader: https://www.hltv.org/news/38524/furia-keep-major-dreams-alive-at-expense-of-koi
-2024/03/19 15:37:22 Content still empty after HTML reader: https://www.hltv.org/news/38523/cloud9-complete-3-0-run-through-opening-stage
-2024/03/19 15:37:22 Fetched posts from https://www.hltv.org/rss/news, took 617.766996ms
-2024/03/19 15:37:23 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 935.821286ms
-2024/03/19 15:37:23 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.313417134s
-2024/03/19 15:37:23 Fetched posts from https://vlr.gg/rss, took 1.350710477s
-2024/03/19 15:37:25 Fetched posts from https://blogtienao.com/feed, took 3.470991531s
-2024/03/19 15:37:36 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.765995461s
-2024/03/19 15:37:36 Skipping writing post, no content: https://www.hltv.org/news/38531/eternal-fire-defeat-gamerlegion-to-qualify-for-elimination-stage
-2024/03/19 15:37:36 Skipping writing post, no content: https://www.hltv.org/news/38530/themongolz-move-into-2-2-pool-at-lynn-visions-expense
-2024/03/19 15:37:36 Skipping writing post, no content: https://www.hltv.org/news/38529/pgl-major-copenhagen-live-updates-day-3
-2024/03/19 15:37:36 Skipping writing post, no content: https://www.hltv.org/news/38527/mopoz-our-attitude-was-good-but-it-wasnt-enough-to-win-games
-2024/03/19 15:37:36 Skipping writing post, no content: https://www.hltv.org/news/38525/monte-promote-gizmy-and-ryu-from-academy
-2024/03/19 15:37:36 Skipping writing post, no content: https://www.hltv.org/news/38520/esl-challenger-jnkping-closed-qualifier-invites-revealed
-2024/03/19 15:37:36 Skipping writing post, no content: https://www.hltv.org/news/38526/fallen-vs-gla1ve-headlines-day-3-matches-of-copenhagen-opening-stage
-2024/03/19 15:37:36 Skipping writing post, no content: https://www.hltv.org/news/38524/furia-keep-major-dreams-alive-at-expense-of-koi
-2024/03/19 15:37:36 Skipping writing post, no content: https://www.hltv.org/news/38523/cloud9-complete-3-0-run-through-opening-stage
-2024/03/19 15:37:36 Templated 83 posts, took 12.549167ms
+2024/03/19 15:52:24 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/19 15:52:24 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 151.453742ms
+2024/03/19 15:52:24 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 207.462755ms
+2024/03/19 15:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38531/eternal-fire-defeat-gamerlegion-to-qualify-for-elimination-stage
+2024/03/19 15:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38530/themongolz-move-into-2-2-pool-at-lynn-visions-expense
+2024/03/19 15:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38529/pgl-major-copenhagen-live-updates-day-3
+2024/03/19 15:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38528/boombl4-i-dont-think-i-can-be-stable-as-the-awper
+2024/03/19 15:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38527/mopoz-our-attitude-was-good-but-it-wasnt-enough-to-win-games
+2024/03/19 15:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38525/monte-promote-gizmy-and-ryu-from-academy
+2024/03/19 15:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38520/esl-challenger-jnkping-closed-qualifier-invites-revealed
+2024/03/19 15:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38526/fallen-vs-gla1ve-headlines-day-3-matches-of-copenhagen-opening-stage
+2024/03/19 15:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38524/furia-keep-major-dreams-alive-at-expense-of-koi
+2024/03/19 15:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38523/cloud9-complete-3-0-run-through-opening-stage
+2024/03/19 15:52:24 Fetched posts from https://www.hltv.org/rss/news, took 440.084888ms
+2024/03/19 15:52:25 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.055314161s
+2024/03/19 15:52:25 Fetched posts from https://vlr.gg/rss, took 1.284374213s
+2024/03/19 15:52:25 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.701365284s
+2024/03/19 15:52:27 Fetched posts from https://blogtienao.com/feed, took 3.32600178s
+2024/03/19 15:52:37 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.089952477s
+2024/03/19 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/38531/eternal-fire-defeat-gamerlegion-to-qualify-for-elimination-stage
+2024/03/19 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/38530/themongolz-move-into-2-2-pool-at-lynn-visions-expense
+2024/03/19 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/38529/pgl-major-copenhagen-live-updates-day-3
+2024/03/19 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/38528/boombl4-i-dont-think-i-can-be-stable-as-the-awper
+2024/03/19 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/38527/mopoz-our-attitude-was-good-but-it-wasnt-enough-to-win-games
+2024/03/19 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/38525/monte-promote-gizmy-and-ryu-from-academy
+2024/03/19 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/38520/esl-challenger-jnkping-closed-qualifier-invites-revealed
+2024/03/19 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/38526/fallen-vs-gla1ve-headlines-day-3-matches-of-copenhagen-opening-stage
+2024/03/19 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/38524/furia-keep-major-dreams-alive-at-expense-of-koi
+2024/03/19 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/38523/cloud9-complete-3-0-run-through-opening-stage
+2024/03/19 15:52:37 Templated 83 posts, took 13.12364ms
