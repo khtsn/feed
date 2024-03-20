@@ -1,32 +1,30 @@
-2024/03/20 05:16:51 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 199.727808ms
-2024/03/20 05:16:51 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/20 05:16:51 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 217.401035ms
-2024/03/20 05:16:51 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 709.614782ms
-2024/03/20 05:16:51 Content still empty after HTML reader: https://www.hltv.org/news/38542/rush-joins-party-astronauts
-2024/03/20 05:16:51 Content still empty after HTML reader: https://www.hltv.org/news/38538/jkaem-maybe-we-were-too-satisfied-with-just-taking-part
-2024/03/20 05:16:51 Content still empty after HTML reader: https://www.hltv.org/news/38541/final-opening-stage-matchups-revealed
-2024/03/20 05:16:51 Content still empty after HTML reader: https://www.hltv.org/news/38529/pgl-major-copenhagen-live-updates-day-3
-2024/03/20 05:16:51 Content still empty after HTML reader: https://www.hltv.org/news/38540/ecstatic-head-to-elimination-stage-over-imperial
-2024/03/20 05:16:51 Content still empty after HTML reader: https://www.hltv.org/news/38539/furia-eliminate-ence-from-pgl-major
-2024/03/20 05:16:51 Content still empty after HTML reader: https://www.hltv.org/news/38537/nqz-joining-pain-was-the-best-decision-that-i-have-made-in-my-life
-2024/03/20 05:16:51 Content still empty after HTML reader: https://www.bbc.com/vietnamese/articles/c25lv58pr7do
-2024/03/20 05:16:51 Content still empty after HTML reader: https://www.hltv.org/news/38532/xantares-right-now-were-not-our-best-if-we-can-play-at-100-its-impossible-to-lose-games
-2024/03/20 05:16:51 Content still empty after HTML reader: https://www.hltv.org/news/38536/pain-claim-elimination-stage-berth-over-saw
-2024/03/20 05:16:51 Content still empty after HTML reader: https://www.hltv.org/news/38533/techno-on-eliminating-lynn-vision-were-so-friendly-in-game-and-in-life-its-sad-to-see
-2024/03/20 05:16:51 Fetched posts from https://www.hltv.org/rss/news, took 940.522874ms
-2024/03/20 05:16:52 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.008943968s
-2024/03/20 05:16:52 Fetched posts from https://vlr.gg/rss, took 1.243029946s
-2024/03/20 05:16:54 Fetched posts from https://blogtienao.com/feed, took 3.146425184s
-2024/03/20 05:17:07 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.481027774s
-2024/03/20 05:17:07 Skipping writing post, no content: https://www.hltv.org/news/38542/rush-joins-party-astronauts
-2024/03/20 05:17:07 Skipping writing post, no content: https://www.hltv.org/news/38538/jkaem-maybe-we-were-too-satisfied-with-just-taking-part
-2024/03/20 05:17:07 Skipping writing post, no content: https://www.hltv.org/news/38541/final-opening-stage-matchups-revealed
-2024/03/20 05:17:07 Skipping writing post, no content: https://www.hltv.org/news/38529/pgl-major-copenhagen-live-updates-day-3
-2024/03/20 05:17:07 Skipping writing post, no content: https://www.hltv.org/news/38540/ecstatic-head-to-elimination-stage-over-imperial
-2024/03/20 05:17:07 Skipping writing post, no content: https://www.hltv.org/news/38539/furia-eliminate-ence-from-pgl-major
-2024/03/20 05:17:07 Skipping writing post, no content: https://www.hltv.org/news/38537/nqz-joining-pain-was-the-best-decision-that-i-have-made-in-my-life
-2024/03/20 05:17:07 Skipping writing post, no content: https://www.hltv.org/news/38532/xantares-right-now-were-not-our-best-if-we-can-play-at-100-its-impossible-to-lose-games
-2024/03/20 05:17:07 Skipping writing post, no content: https://www.hltv.org/news/38536/pain-claim-elimination-stage-berth-over-saw
-2024/03/20 05:17:07 Skipping writing post, no content: https://www.hltv.org/news/38533/techno-on-eliminating-lynn-vision-were-so-friendly-in-game-and-in-life-its-sad-to-see
-2024/03/20 05:17:07 Skipping writing post, no content: https://www.bbc.com/vietnamese/articles/c25lv58pr7do
-2024/03/20 05:17:07 Templated 81 posts, took 12.393764ms
+2024/03/20 05:37:24 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/20 05:37:24 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 201.552625ms
+2024/03/20 05:37:24 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 210.352556ms
+2024/03/20 05:37:24 Content still empty after HTML reader: https://www.hltv.org/news/38542/rush-joins-party-astronauts
+2024/03/20 05:37:24 Content still empty after HTML reader: https://www.hltv.org/news/38538/jkaem-maybe-we-were-too-satisfied-with-just-taking-part
+2024/03/20 05:37:24 Content still empty after HTML reader: https://www.hltv.org/news/38541/final-opening-stage-matchups-revealed
+2024/03/20 05:37:24 Content still empty after HTML reader: https://www.hltv.org/news/38529/pgl-major-copenhagen-live-updates-day-3
+2024/03/20 05:37:24 Content still empty after HTML reader: https://www.hltv.org/news/38540/ecstatic-head-to-elimination-stage-over-imperial
+2024/03/20 05:37:24 Content still empty after HTML reader: https://www.hltv.org/news/38539/furia-eliminate-ence-from-pgl-major
+2024/03/20 05:37:24 Content still empty after HTML reader: https://www.hltv.org/news/38537/nqz-joining-pain-was-the-best-decision-that-i-have-made-in-my-life
+2024/03/20 05:37:24 Content still empty after HTML reader: https://www.hltv.org/news/38532/xantares-right-now-were-not-our-best-if-we-can-play-at-100-its-impossible-to-lose-games
+2024/03/20 05:37:24 Content still empty after HTML reader: https://www.hltv.org/news/38536/pain-claim-elimination-stage-berth-over-saw
+2024/03/20 05:37:24 Content still empty after HTML reader: https://www.hltv.org/news/38533/techno-on-eliminating-lynn-vision-were-so-friendly-in-game-and-in-life-its-sad-to-see
+2024/03/20 05:37:24 Fetched posts from https://www.hltv.org/rss/news, took 544.821687ms
+2024/03/20 05:37:24 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 952.716106ms
+2024/03/20 05:37:25 Fetched posts from https://vlr.gg/rss, took 1.2801918s
+2024/03/20 05:37:25 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.386583178s
+2024/03/20 05:37:27 Fetched posts from https://blogtienao.com/feed, took 3.159610676s
+2024/03/20 05:37:38 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.810278671s
+2024/03/20 05:37:38 Skipping writing post, no content: https://www.hltv.org/news/38542/rush-joins-party-astronauts
+2024/03/20 05:37:38 Skipping writing post, no content: https://www.hltv.org/news/38538/jkaem-maybe-we-were-too-satisfied-with-just-taking-part
+2024/03/20 05:37:38 Skipping writing post, no content: https://www.hltv.org/news/38541/final-opening-stage-matchups-revealed
+2024/03/20 05:37:38 Skipping writing post, no content: https://www.hltv.org/news/38529/pgl-major-copenhagen-live-updates-day-3
+2024/03/20 05:37:38 Skipping writing post, no content: https://www.hltv.org/news/38540/ecstatic-head-to-elimination-stage-over-imperial
+2024/03/20 05:37:38 Skipping writing post, no content: https://www.hltv.org/news/38539/furia-eliminate-ence-from-pgl-major
+2024/03/20 05:37:38 Skipping writing post, no content: https://www.hltv.org/news/38537/nqz-joining-pain-was-the-best-decision-that-i-have-made-in-my-life
+2024/03/20 05:37:38 Skipping writing post, no content: https://www.hltv.org/news/38532/xantares-right-now-were-not-our-best-if-we-can-play-at-100-its-impossible-to-lose-games
+2024/03/20 05:37:38 Skipping writing post, no content: https://www.hltv.org/news/38536/pain-claim-elimination-stage-berth-over-saw
+2024/03/20 05:37:38 Skipping writing post, no content: https://www.hltv.org/news/38533/techno-on-eliminating-lynn-vision-were-so-friendly-in-game-and-in-life-its-sad-to-see
+2024/03/20 05:37:38 Templated 81 posts, took 12.495006ms
