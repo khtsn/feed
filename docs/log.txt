@@ -1,30 +1,32 @@
-2024/03/20 22:27:17 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/20 22:27:17 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 172.843619ms
-2024/03/20 22:27:17 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 218.099035ms
-2024/03/20 22:27:18 Content still empty after HTML reader: https://www.hltv.org/news/38553/kscerato-i-love-this-game-its-the-best-valve-has-released-since-16
-2024/03/20 22:27:18 Content still empty after HTML reader: https://www.hltv.org/news/38551/asia-and-americas-gain-spots-for-shanghai-major
-2024/03/20 22:27:18 Content still empty after HTML reader: https://www.hltv.org/news/38543/pgl-major-copenhagen-live-updates-day-4
-2024/03/20 22:27:18 Content still empty after HTML reader: https://www.hltv.org/news/38552/spirit-vs-cloud9-headlines-elimination-stage-round-1
-2024/03/20 22:27:18 Content still empty after HTML reader: https://www.hltv.org/news/38550/furia-beat-saw-to-last-elimination-stage-spot
-2024/03/20 22:27:18 Content still empty after HTML reader: https://www.hltv.org/news/38549/volt-when-it-came-to-the-bo3s-our-map-pool-lacked-a-lot
-2024/03/20 22:27:18 Content still empty after HTML reader: https://www.hltv.org/news/38548/imperial-best-gamerlegion-to-reach-elimination-stage
-2024/03/20 22:27:18 Content still empty after HTML reader: https://www.hltv.org/news/38547/nekiz-maybe-brazil-can-get-back-the-respect-we-dont-have-right-now
-2024/03/20 22:27:18 Content still empty after HTML reader: https://www.hltv.org/news/38546/themongolz-through-to-elimination-stage-at-the-expense-of-legacy
-2024/03/20 22:27:18 Content still empty after HTML reader: https://www.hltv.org/news/38544/kraghen-were-not-meant-to-get-this-far-but-were-proving-that-its-possible
-2024/03/20 22:27:18 Fetched posts from https://www.hltv.org/rss/news, took 498.738882ms
-2024/03/20 22:27:18 Fetched posts from https://vlr.gg/rss, took 637.566129ms
-2024/03/20 22:27:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.326164055s
-2024/03/20 22:27:19 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.414985275s
-2024/03/20 22:27:20 Fetched posts from https://blogtienao.com/feed, took 2.701214037s
-2024/03/20 22:27:35 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.160108854s
-2024/03/20 22:27:35 Skipping writing post, no content: https://www.hltv.org/news/38553/kscerato-i-love-this-game-its-the-best-valve-has-released-since-16
-2024/03/20 22:27:35 Skipping writing post, no content: https://www.hltv.org/news/38551/asia-and-americas-gain-spots-for-shanghai-major
-2024/03/20 22:27:35 Skipping writing post, no content: https://www.hltv.org/news/38543/pgl-major-copenhagen-live-updates-day-4
-2024/03/20 22:27:35 Skipping writing post, no content: https://www.hltv.org/news/38552/spirit-vs-cloud9-headlines-elimination-stage-round-1
-2024/03/20 22:27:35 Skipping writing post, no content: https://www.hltv.org/news/38550/furia-beat-saw-to-last-elimination-stage-spot
-2024/03/20 22:27:35 Skipping writing post, no content: https://www.hltv.org/news/38549/volt-when-it-came-to-the-bo3s-our-map-pool-lacked-a-lot
-2024/03/20 22:27:35 Skipping writing post, no content: https://www.hltv.org/news/38548/imperial-best-gamerlegion-to-reach-elimination-stage
-2024/03/20 22:27:35 Skipping writing post, no content: https://www.hltv.org/news/38547/nekiz-maybe-brazil-can-get-back-the-respect-we-dont-have-right-now
-2024/03/20 22:27:35 Skipping writing post, no content: https://www.hltv.org/news/38546/themongolz-through-to-elimination-stage-at-the-expense-of-legacy
-2024/03/20 22:27:35 Skipping writing post, no content: https://www.hltv.org/news/38544/kraghen-were-not-meant-to-get-this-far-but-were-proving-that-its-possible
-2024/03/20 22:27:35 Templated 87 posts, took 18.60189ms
+2024/03/20 22:38:56 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 114.4953ms
+2024/03/20 22:38:57 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/20 22:38:57 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 186.888185ms
+2024/03/20 22:38:57 Content still empty after HTML reader: https://www.hltv.org/news/38554/arrozdoce-we-conquered-something-that-portugal-never-had
+2024/03/20 22:38:57 Content still empty after HTML reader: https://www.hltv.org/news/38553/kscerato-i-love-this-game-its-the-best-valve-has-released-since-16
+2024/03/20 22:38:57 Content still empty after HTML reader: https://www.hltv.org/news/38551/asia-and-americas-gain-spots-for-shanghai-major
+2024/03/20 22:38:57 Content still empty after HTML reader: https://www.hltv.org/news/38543/pgl-major-copenhagen-live-updates-day-4
+2024/03/20 22:38:57 Content still empty after HTML reader: https://www.hltv.org/news/38552/spirit-vs-cloud9-headlines-elimination-stage-round-1
+2024/03/20 22:38:57 Fetched posts from https://vlr.gg/rss, took 364.778131ms
+2024/03/20 22:38:57 Content still empty after HTML reader: https://www.hltv.org/news/38550/furia-beat-saw-to-last-elimination-stage-spot
+2024/03/20 22:38:57 Content still empty after HTML reader: https://www.hltv.org/news/38549/volt-when-it-came-to-the-bo3s-our-map-pool-lacked-a-lot
+2024/03/20 22:38:57 Content still empty after HTML reader: https://www.hltv.org/news/38548/imperial-best-gamerlegion-to-reach-elimination-stage
+2024/03/20 22:38:57 Content still empty after HTML reader: https://www.hltv.org/news/38547/nekiz-maybe-brazil-can-get-back-the-respect-we-dont-have-right-now
+2024/03/20 22:38:57 Content still empty after HTML reader: https://www.hltv.org/news/38546/themongolz-through-to-elimination-stage-at-the-expense-of-legacy
+2024/03/20 22:38:57 Fetched posts from https://www.hltv.org/rss/news, took 407.874227ms
+2024/03/20 22:38:57 Content still empty after HTML reader: https://www.nytimes.com/2024/03/20/us/politics/trump-15-week-federal-abortion-ban.html
+2024/03/20 22:38:58 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.14928095s
+2024/03/20 22:38:58 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.317070613s
+2024/03/20 22:38:59 Fetched posts from https://blogtienao.com/feed, took 2.265579021s
+2024/03/20 22:39:14 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.572255274s
+2024/03/20 22:39:14 Skipping writing post, no content: https://www.hltv.org/news/38554/arrozdoce-we-conquered-something-that-portugal-never-had
+2024/03/20 22:39:14 Skipping writing post, no content: https://www.hltv.org/news/38553/kscerato-i-love-this-game-its-the-best-valve-has-released-since-16
+2024/03/20 22:39:14 Skipping writing post, no content: https://www.hltv.org/news/38551/asia-and-americas-gain-spots-for-shanghai-major
+2024/03/20 22:39:14 Skipping writing post, no content: https://www.nytimes.com/2024/03/20/us/politics/trump-15-week-federal-abortion-ban.html
+2024/03/20 22:39:14 Skipping writing post, no content: https://www.hltv.org/news/38543/pgl-major-copenhagen-live-updates-day-4
+2024/03/20 22:39:14 Skipping writing post, no content: https://www.hltv.org/news/38552/spirit-vs-cloud9-headlines-elimination-stage-round-1
+2024/03/20 22:39:14 Skipping writing post, no content: https://www.hltv.org/news/38550/furia-beat-saw-to-last-elimination-stage-spot
+2024/03/20 22:39:14 Skipping writing post, no content: https://www.hltv.org/news/38549/volt-when-it-came-to-the-bo3s-our-map-pool-lacked-a-lot
+2024/03/20 22:39:14 Skipping writing post, no content: https://www.hltv.org/news/38548/imperial-best-gamerlegion-to-reach-elimination-stage
+2024/03/20 22:39:14 Skipping writing post, no content: https://www.hltv.org/news/38547/nekiz-maybe-brazil-can-get-back-the-respect-we-dont-have-right-now
+2024/03/20 22:39:14 Skipping writing post, no content: https://www.hltv.org/news/38546/themongolz-through-to-elimination-stage-at-the-expense-of-legacy
+2024/03/20 22:39:14 Templated 88 posts, took 13.592632ms
