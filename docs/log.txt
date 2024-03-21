@@ -1,30 +1,30 @@
-2024/03/21 08:52:28 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/21 08:52:28 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 203.408868ms
-2024/03/21 08:52:28 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 258.941444ms
-2024/03/21 08:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38494/valve-release-copenhagen-major-stickers
-2024/03/21 08:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38555/elimination-stage-fantasy-goes-live-with-16-teams-and-increased-points
-2024/03/21 08:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38554/arrozdoce-we-conquered-something-that-portugal-never-had
-2024/03/21 08:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38553/kscerato-i-love-this-game-its-the-best-valve-has-released-since-16
-2024/03/21 08:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38551/asia-and-americas-gain-spots-for-shanghai-major
-2024/03/21 08:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38543/pgl-major-copenhagen-live-updates-day-4
-2024/03/21 08:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38552/spirit-vs-cloud9-headlines-elimination-stage-round-1
-2024/03/21 08:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38550/furia-beat-saw-to-last-elimination-stage-spot
-2024/03/21 08:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38549/volt-when-it-came-to-the-bo3s-our-map-pool-lacked-a-lot
-2024/03/21 08:52:28 Content still empty after HTML reader: https://www.hltv.org/news/38548/imperial-best-gamerlegion-to-reach-elimination-stage
-2024/03/21 08:52:28 Fetched posts from https://www.hltv.org/rss/news, took 523.784111ms
-2024/03/21 08:52:29 Fetched posts from https://vlr.gg/rss, took 999.190298ms
-2024/03/21 08:52:29 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.130302737s
-2024/03/21 08:52:29 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.142556554s
-2024/03/21 08:52:31 Fetched posts from https://blogtienao.com/feed, took 3.122885267s
-2024/03/21 08:52:42 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.206327236s
-2024/03/21 08:52:42 Skipping writing post, no content: https://www.hltv.org/news/38494/valve-release-copenhagen-major-stickers
-2024/03/21 08:52:42 Skipping writing post, no content: https://www.hltv.org/news/38555/elimination-stage-fantasy-goes-live-with-16-teams-and-increased-points
-2024/03/21 08:52:42 Skipping writing post, no content: https://www.hltv.org/news/38554/arrozdoce-we-conquered-something-that-portugal-never-had
-2024/03/21 08:52:42 Skipping writing post, no content: https://www.hltv.org/news/38553/kscerato-i-love-this-game-its-the-best-valve-has-released-since-16
-2024/03/21 08:52:42 Skipping writing post, no content: https://www.hltv.org/news/38551/asia-and-americas-gain-spots-for-shanghai-major
-2024/03/21 08:52:42 Skipping writing post, no content: https://www.hltv.org/news/38543/pgl-major-copenhagen-live-updates-day-4
-2024/03/21 08:52:42 Skipping writing post, no content: https://www.hltv.org/news/38552/spirit-vs-cloud9-headlines-elimination-stage-round-1
-2024/03/21 08:52:42 Skipping writing post, no content: https://www.hltv.org/news/38550/furia-beat-saw-to-last-elimination-stage-spot
-2024/03/21 08:52:42 Skipping writing post, no content: https://www.hltv.org/news/38549/volt-when-it-came-to-the-bo3s-our-map-pool-lacked-a-lot
-2024/03/21 08:52:42 Skipping writing post, no content: https://www.hltv.org/news/38548/imperial-best-gamerlegion-to-reach-elimination-stage
-2024/03/21 08:52:42 Templated 83 posts, took 12.280688ms
+2024/03/21 09:15:15 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 101.692231ms
+2024/03/21 09:15:15 Content still empty after HTML reader: https://www.hltv.org/news/38494/valve-release-copenhagen-major-stickers
+2024/03/21 09:15:15 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/21 09:15:15 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 270.903638ms
+2024/03/21 09:15:15 Content still empty after HTML reader: https://www.hltv.org/news/38555/elimination-stage-fantasy-goes-live-with-16-teams-and-increased-points
+2024/03/21 09:15:15 Content still empty after HTML reader: https://www.hltv.org/news/38554/arrozdoce-we-conquered-something-that-portugal-never-had
+2024/03/21 09:15:15 Content still empty after HTML reader: https://www.hltv.org/news/38553/kscerato-i-love-this-game-its-the-best-valve-has-released-since-16
+2024/03/21 09:15:15 Content still empty after HTML reader: https://www.hltv.org/news/38551/asia-and-americas-gain-spots-for-shanghai-major
+2024/03/21 09:15:15 Content still empty after HTML reader: https://www.hltv.org/news/38543/pgl-major-copenhagen-live-updates-day-4
+2024/03/21 09:15:15 Content still empty after HTML reader: https://www.hltv.org/news/38552/spirit-vs-cloud9-headlines-elimination-stage-round-1
+2024/03/21 09:15:15 Content still empty after HTML reader: https://www.hltv.org/news/38550/furia-beat-saw-to-last-elimination-stage-spot
+2024/03/21 09:15:15 Content still empty after HTML reader: https://www.hltv.org/news/38549/volt-when-it-came-to-the-bo3s-our-map-pool-lacked-a-lot
+2024/03/21 09:15:15 Content still empty after HTML reader: https://www.hltv.org/news/38548/imperial-best-gamerlegion-to-reach-elimination-stage
+2024/03/21 09:15:15 Fetched posts from https://www.hltv.org/rss/news, took 397.688742ms
+2024/03/21 09:15:15 Fetched posts from https://vlr.gg/rss, took 468.500951ms
+2024/03/21 09:15:16 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 990.065511ms
+2024/03/21 09:15:16 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.14598666s
+2024/03/21 09:15:20 Fetched posts from https://blogtienao.com/feed, took 5.357113356s
+2024/03/21 09:15:33 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.563999937s
+2024/03/21 09:15:33 Skipping writing post, no content: https://www.hltv.org/news/38494/valve-release-copenhagen-major-stickers
+2024/03/21 09:15:33 Skipping writing post, no content: https://www.hltv.org/news/38555/elimination-stage-fantasy-goes-live-with-16-teams-and-increased-points
+2024/03/21 09:15:33 Skipping writing post, no content: https://www.hltv.org/news/38554/arrozdoce-we-conquered-something-that-portugal-never-had
+2024/03/21 09:15:33 Skipping writing post, no content: https://www.hltv.org/news/38553/kscerato-i-love-this-game-its-the-best-valve-has-released-since-16
+2024/03/21 09:15:33 Skipping writing post, no content: https://www.hltv.org/news/38551/asia-and-americas-gain-spots-for-shanghai-major
+2024/03/21 09:15:33 Skipping writing post, no content: https://www.hltv.org/news/38543/pgl-major-copenhagen-live-updates-day-4
+2024/03/21 09:15:33 Skipping writing post, no content: https://www.hltv.org/news/38552/spirit-vs-cloud9-headlines-elimination-stage-round-1
+2024/03/21 09:15:33 Skipping writing post, no content: https://www.hltv.org/news/38550/furia-beat-saw-to-last-elimination-stage-spot
+2024/03/21 09:15:33 Skipping writing post, no content: https://www.hltv.org/news/38549/volt-when-it-came-to-the-bo3s-our-map-pool-lacked-a-lot
+2024/03/21 09:15:33 Skipping writing post, no content: https://www.hltv.org/news/38548/imperial-best-gamerlegion-to-reach-elimination-stage
+2024/03/21 09:15:33 Templated 84 posts, took 13.396514ms
