@@ -1,28 +1,30 @@
-2024/03/23 11:52:25 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 191.376186ms
-2024/03/23 11:52:25 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/23 11:52:25 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 260.762268ms
-2024/03/23 11:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38584/chopper-many-top-cis-teams-invited-me-and-i-always-denied-thinking-i-should-do-something-myself
-2024/03/23 11:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38585/g2-and-faze-avoid-each-other-in-round-4-with-ecstatic-win
-2024/03/23 11:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38575/pgl-major-copenhagen-live-updates-day-6
-2024/03/23 11:52:25 Fetched posts from https://vlr.gg/rss, took 380.16052ms
-2024/03/23 11:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38583/ecstatic-stay-alive-in-copenhagen-at-furias-expense
-2024/03/23 11:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38582/spirit-roll-into-major-playoffs-after-beating-navi
-2024/03/23 11:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38581/siuhy-on-returning-to-major-playoffs-im-on-a-completely-different-journey-now
-2024/03/23 11:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38580/pain-send-themongolz-packing-after-chaotic-inferno-game
-2024/03/23 11:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38579/mouz-romp-to-the-major-playoffs-after-crushing-complexity
-2024/03/23 11:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38578/spinx-after-131-adr-game-zywoo-was-not-feeling-well-so-i-told-him-to-support-me-fully
-2024/03/23 11:52:25 Fetched posts from https://www.hltv.org/rss/news, took 458.369079ms
-2024/03/23 11:52:26 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.019480367s
-2024/03/23 11:52:26 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.208073193s
-2024/03/23 11:52:28 Fetched posts from https://blogtienao.com/feed, took 2.97052844s
-2024/03/23 11:52:42 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.592920849s
-2024/03/23 11:52:42 Skipping writing post, no content: https://www.hltv.org/news/38584/chopper-many-top-cis-teams-invited-me-and-i-always-denied-thinking-i-should-do-something-myself
-2024/03/23 11:52:42 Skipping writing post, no content: https://www.hltv.org/news/38585/g2-and-faze-avoid-each-other-in-round-4-with-ecstatic-win
-2024/03/23 11:52:42 Skipping writing post, no content: https://www.hltv.org/news/38575/pgl-major-copenhagen-live-updates-day-6
-2024/03/23 11:52:42 Skipping writing post, no content: https://www.hltv.org/news/38583/ecstatic-stay-alive-in-copenhagen-at-furias-expense
-2024/03/23 11:52:42 Skipping writing post, no content: https://www.hltv.org/news/38582/spirit-roll-into-major-playoffs-after-beating-navi
-2024/03/23 11:52:42 Skipping writing post, no content: https://www.hltv.org/news/38581/siuhy-on-returning-to-major-playoffs-im-on-a-completely-different-journey-now
-2024/03/23 11:52:42 Skipping writing post, no content: https://www.hltv.org/news/38580/pain-send-themongolz-packing-after-chaotic-inferno-game
-2024/03/23 11:52:42 Skipping writing post, no content: https://www.hltv.org/news/38579/mouz-romp-to-the-major-playoffs-after-crushing-complexity
-2024/03/23 11:52:42 Skipping writing post, no content: https://www.hltv.org/news/38578/spinx-after-131-adr-game-zywoo-was-not-feeling-well-so-i-told-him-to-support-me-fully
-2024/03/23 11:52:42 Templated 85 posts, took 13.2234ms
+2024/03/23 12:29:50 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/23 12:29:50 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 203.956491ms
+2024/03/23 12:29:50 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 255.52166ms
+2024/03/23 12:29:50 Content still empty after HTML reader: https://www.hltv.org/news/38584/chopper-many-top-cis-teams-invited-me-and-i-always-denied-thinking-i-should-do-something-myself
+2024/03/23 12:29:50 Content still empty after HTML reader: https://www.hltv.org/news/38586/pgl-major-copenhagen-live-updates-day-7
+2024/03/23 12:29:50 Content still empty after HTML reader: https://www.hltv.org/news/38585/g2-and-faze-avoid-each-other-in-round-4-with-ecstatic-win
+2024/03/23 12:29:50 Content still empty after HTML reader: https://www.hltv.org/news/38575/pgl-major-copenhagen-live-updates-day-6
+2024/03/23 12:29:50 Content still empty after HTML reader: https://www.hltv.org/news/38583/ecstatic-stay-alive-in-copenhagen-at-furias-expense
+2024/03/23 12:29:50 Content still empty after HTML reader: https://www.hltv.org/news/38582/spirit-roll-into-major-playoffs-after-beating-navi
+2024/03/23 12:29:50 Content still empty after HTML reader: https://www.hltv.org/news/38581/siuhy-on-returning-to-major-playoffs-im-on-a-completely-different-journey-now
+2024/03/23 12:29:50 Content still empty after HTML reader: https://www.hltv.org/news/38580/pain-send-themongolz-packing-after-chaotic-inferno-game
+2024/03/23 12:29:50 Content still empty after HTML reader: https://www.hltv.org/news/38579/mouz-romp-to-the-major-playoffs-after-crushing-complexity
+2024/03/23 12:29:50 Content still empty after HTML reader: https://www.hltv.org/news/38578/spinx-after-131-adr-game-zywoo-was-not-feeling-well-so-i-told-him-to-support-me-fully
+2024/03/23 12:29:50 Fetched posts from https://www.hltv.org/rss/news, took 520.301192ms
+2024/03/23 12:29:51 Fetched posts from https://vlr.gg/rss, took 1.04620334s
+2024/03/23 12:29:51 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.236373963s
+2024/03/23 12:29:51 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.264330005s
+2024/03/23 12:29:53 Fetched posts from https://blogtienao.com/feed, took 3.498577414s
+2024/03/23 12:30:08 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.197835925s
+2024/03/23 12:30:08 Skipping writing post, no content: https://www.hltv.org/news/38584/chopper-many-top-cis-teams-invited-me-and-i-always-denied-thinking-i-should-do-something-myself
+2024/03/23 12:30:08 Skipping writing post, no content: https://www.hltv.org/news/38586/pgl-major-copenhagen-live-updates-day-7
+2024/03/23 12:30:08 Skipping writing post, no content: https://www.hltv.org/news/38585/g2-and-faze-avoid-each-other-in-round-4-with-ecstatic-win
+2024/03/23 12:30:08 Skipping writing post, no content: https://www.hltv.org/news/38575/pgl-major-copenhagen-live-updates-day-6
+2024/03/23 12:30:08 Skipping writing post, no content: https://www.hltv.org/news/38583/ecstatic-stay-alive-in-copenhagen-at-furias-expense
+2024/03/23 12:30:08 Skipping writing post, no content: https://www.hltv.org/news/38582/spirit-roll-into-major-playoffs-after-beating-navi
+2024/03/23 12:30:08 Skipping writing post, no content: https://www.hltv.org/news/38581/siuhy-on-returning-to-major-playoffs-im-on-a-completely-different-journey-now
+2024/03/23 12:30:08 Skipping writing post, no content: https://www.hltv.org/news/38580/pain-send-themongolz-packing-after-chaotic-inferno-game
+2024/03/23 12:30:08 Skipping writing post, no content: https://www.hltv.org/news/38579/mouz-romp-to-the-major-playoffs-after-crushing-complexity
+2024/03/23 12:30:08 Skipping writing post, no content: https://www.hltv.org/news/38578/spinx-after-131-adr-game-zywoo-was-not-feeling-well-so-i-told-him-to-support-me-fully
+2024/03/23 12:30:08 Templated 85 posts, took 13.356711ms
