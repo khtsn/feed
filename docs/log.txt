@@ -1,30 +1,28 @@
-2024/03/23 15:17:23 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/23 15:17:23 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 156.713739ms
-2024/03/23 15:17:23 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 182.58489ms
-2024/03/23 15:17:23 Content still empty after HTML reader: https://www.hltv.org/news/38587/skyesports-masters-to-be-held-online
-2024/03/23 15:17:23 Content still empty after HTML reader: https://www.hltv.org/news/38584/chopper-many-top-cis-teams-invited-me-and-i-always-denied-thinking-i-should-do-something-myself
-2024/03/23 15:17:23 Content still empty after HTML reader: https://www.hltv.org/news/38586/pgl-major-copenhagen-live-updates-day-7
-2024/03/23 15:17:23 Content still empty after HTML reader: https://www.hltv.org/news/38585/g2-and-faze-avoid-each-other-in-round-4-with-ecstatic-win
-2024/03/23 15:17:23 Content still empty after HTML reader: https://www.hltv.org/news/38575/pgl-major-copenhagen-live-updates-day-6
-2024/03/23 15:17:23 Content still empty after HTML reader: https://www.hltv.org/news/38583/ecstatic-stay-alive-in-copenhagen-at-furias-expense
-2024/03/23 15:17:23 Content still empty after HTML reader: https://www.hltv.org/news/38582/spirit-roll-into-major-playoffs-after-beating-navi
-2024/03/23 15:17:23 Content still empty after HTML reader: https://www.hltv.org/news/38581/siuhy-on-returning-to-major-playoffs-im-on-a-completely-different-journey-now
-2024/03/23 15:17:23 Content still empty after HTML reader: https://www.hltv.org/news/38580/pain-send-themongolz-packing-after-chaotic-inferno-game
-2024/03/23 15:17:23 Content still empty after HTML reader: https://www.hltv.org/news/38579/mouz-romp-to-the-major-playoffs-after-crushing-complexity
-2024/03/23 15:17:23 Fetched posts from https://www.hltv.org/rss/news, took 350.982726ms
-2024/03/23 15:17:23 Fetched posts from https://vlr.gg/rss, took 573.108471ms
-2024/03/23 15:17:24 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.235081745s
-2024/03/23 15:17:24 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.273946836s
-2024/03/23 15:17:27 Fetched posts from https://blogtienao.com/feed, took 4.923446852s
-2024/03/23 15:17:41 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.706104853s
-2024/03/23 15:17:41 Skipping writing post, no content: https://www.hltv.org/news/38587/skyesports-masters-to-be-held-online
-2024/03/23 15:17:41 Skipping writing post, no content: https://www.hltv.org/news/38584/chopper-many-top-cis-teams-invited-me-and-i-always-denied-thinking-i-should-do-something-myself
-2024/03/23 15:17:41 Skipping writing post, no content: https://www.hltv.org/news/38586/pgl-major-copenhagen-live-updates-day-7
-2024/03/23 15:17:41 Skipping writing post, no content: https://www.hltv.org/news/38585/g2-and-faze-avoid-each-other-in-round-4-with-ecstatic-win
-2024/03/23 15:17:41 Skipping writing post, no content: https://www.hltv.org/news/38575/pgl-major-copenhagen-live-updates-day-6
-2024/03/23 15:17:41 Skipping writing post, no content: https://www.hltv.org/news/38583/ecstatic-stay-alive-in-copenhagen-at-furias-expense
-2024/03/23 15:17:41 Skipping writing post, no content: https://www.hltv.org/news/38582/spirit-roll-into-major-playoffs-after-beating-navi
-2024/03/23 15:17:41 Skipping writing post, no content: https://www.hltv.org/news/38581/siuhy-on-returning-to-major-playoffs-im-on-a-completely-different-journey-now
-2024/03/23 15:17:41 Skipping writing post, no content: https://www.hltv.org/news/38580/pain-send-themongolz-packing-after-chaotic-inferno-game
-2024/03/23 15:17:41 Skipping writing post, no content: https://www.hltv.org/news/38579/mouz-romp-to-the-major-playoffs-after-crushing-complexity
-2024/03/23 15:17:41 Templated 86 posts, took 14.218322ms
+2024/03/23 15:37:27 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 116.80408ms
+2024/03/23 15:37:27 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/23 15:37:27 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 156.928673ms
+2024/03/23 15:37:27 Content still empty after HTML reader: https://www.hltv.org/news/38587/skyesports-masters-to-be-held-online
+2024/03/23 15:37:27 Content still empty after HTML reader: https://www.hltv.org/news/38584/chopper-many-top-cis-teams-invited-me-and-i-always-denied-thinking-i-should-do-something-myself
+2024/03/23 15:37:27 Content still empty after HTML reader: https://www.hltv.org/news/38585/g2-and-faze-avoid-each-other-in-round-4-with-ecstatic-win
+2024/03/23 15:37:27 Content still empty after HTML reader: https://www.hltv.org/news/38575/pgl-major-copenhagen-live-updates-day-6
+2024/03/23 15:37:27 Content still empty after HTML reader: https://www.hltv.org/news/38583/ecstatic-stay-alive-in-copenhagen-at-furias-expense
+2024/03/23 15:37:28 Content still empty after HTML reader: https://www.hltv.org/news/38582/spirit-roll-into-major-playoffs-after-beating-navi
+2024/03/23 15:37:28 Content still empty after HTML reader: https://www.hltv.org/news/38581/siuhy-on-returning-to-major-playoffs-im-on-a-completely-different-journey-now
+2024/03/23 15:37:28 Content still empty after HTML reader: https://www.hltv.org/news/38580/pain-send-themongolz-packing-after-chaotic-inferno-game
+2024/03/23 15:37:28 Content still empty after HTML reader: https://www.hltv.org/news/38579/mouz-romp-to-the-major-playoffs-after-crushing-complexity
+2024/03/23 15:37:28 Fetched posts from https://www.hltv.org/rss/news, took 320.031182ms
+2024/03/23 15:37:28 Fetched posts from https://vlr.gg/rss, took 412.700864ms
+2024/03/23 15:37:28 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.018867087s
+2024/03/23 15:37:29 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.584337279s
+2024/03/23 15:37:30 Fetched posts from https://blogtienao.com/feed, took 2.35962595s
+2024/03/23 15:37:42 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.221055391s
+2024/03/23 15:37:42 Skipping writing post, no content: https://www.hltv.org/news/38587/skyesports-masters-to-be-held-online
+2024/03/23 15:37:42 Skipping writing post, no content: https://www.hltv.org/news/38584/chopper-many-top-cis-teams-invited-me-and-i-always-denied-thinking-i-should-do-something-myself
+2024/03/23 15:37:42 Skipping writing post, no content: https://www.hltv.org/news/38585/g2-and-faze-avoid-each-other-in-round-4-with-ecstatic-win
+2024/03/23 15:37:42 Skipping writing post, no content: https://www.hltv.org/news/38575/pgl-major-copenhagen-live-updates-day-6
+2024/03/23 15:37:42 Skipping writing post, no content: https://www.hltv.org/news/38583/ecstatic-stay-alive-in-copenhagen-at-furias-expense
+2024/03/23 15:37:42 Skipping writing post, no content: https://www.hltv.org/news/38582/spirit-roll-into-major-playoffs-after-beating-navi
+2024/03/23 15:37:42 Skipping writing post, no content: https://www.hltv.org/news/38581/siuhy-on-returning-to-major-playoffs-im-on-a-completely-different-journey-now
+2024/03/23 15:37:42 Skipping writing post, no content: https://www.hltv.org/news/38580/pain-send-themongolz-packing-after-chaotic-inferno-game
+2024/03/23 15:37:42 Skipping writing post, no content: https://www.hltv.org/news/38579/mouz-romp-to-the-major-playoffs-after-crushing-complexity
+2024/03/23 15:37:42 Templated 86 posts, took 13.968526ms
