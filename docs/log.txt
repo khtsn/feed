@@ -1,30 +1,30 @@
-2024/03/23 17:13:39 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/23 17:13:39 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 91.054884ms
-2024/03/23 17:13:39 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 232.885961ms
-2024/03/23 17:13:39 Content still empty after HTML reader: https://www.hltv.org/news/38589/maj3r-stars-as-eternal-fire-qualify-for-major-playoffs
-2024/03/23 17:13:39 Content still empty after HTML reader: https://www.hltv.org/news/38588/faze-barely-scrape-by-imperial-with-b-game
-2024/03/23 17:13:39 Content still empty after HTML reader: https://www.hltv.org/news/38587/skyesports-masters-to-be-held-online
-2024/03/23 17:13:39 Content still empty after HTML reader: https://www.hltv.org/news/38584/chopper-many-top-cis-teams-invited-me-and-i-always-denied-thinking-i-should-do-something-myself
-2024/03/23 17:13:39 Content still empty after HTML reader: https://www.hltv.org/news/38586/pgl-major-copenhagen-live-updates-day-7
-2024/03/23 17:13:39 Content still empty after HTML reader: https://www.hltv.org/news/38585/g2-and-faze-avoid-each-other-in-round-4-with-ecstatic-win
-2024/03/23 17:13:39 Content still empty after HTML reader: https://www.hltv.org/news/38575/pgl-major-copenhagen-live-updates-day-6
-2024/03/23 17:13:39 Content still empty after HTML reader: https://www.hltv.org/news/38583/ecstatic-stay-alive-in-copenhagen-at-furias-expense
-2024/03/23 17:13:39 Content still empty after HTML reader: https://www.hltv.org/news/38582/spirit-roll-into-major-playoffs-after-beating-navi
-2024/03/23 17:13:39 Content still empty after HTML reader: https://www.hltv.org/news/38581/siuhy-on-returning-to-major-playoffs-im-on-a-completely-different-journey-now
-2024/03/23 17:13:39 Fetched posts from https://www.hltv.org/rss/news, took 440.169869ms
-2024/03/23 17:13:40 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 755.012389ms
-2024/03/23 17:13:40 Fetched posts from https://vlr.gg/rss, took 1.085331971s
-2024/03/23 17:13:41 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.749715055s
-2024/03/23 17:13:42 Fetched posts from https://blogtienao.com/feed, took 3.054372715s
-2024/03/23 17:13:53 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.525036145s
-2024/03/23 17:13:53 Skipping writing post, no content: https://www.hltv.org/news/38589/maj3r-stars-as-eternal-fire-qualify-for-major-playoffs
-2024/03/23 17:13:53 Skipping writing post, no content: https://www.hltv.org/news/38588/faze-barely-scrape-by-imperial-with-b-game
-2024/03/23 17:13:53 Skipping writing post, no content: https://www.hltv.org/news/38587/skyesports-masters-to-be-held-online
-2024/03/23 17:13:53 Skipping writing post, no content: https://www.hltv.org/news/38584/chopper-many-top-cis-teams-invited-me-and-i-always-denied-thinking-i-should-do-something-myself
-2024/03/23 17:13:53 Skipping writing post, no content: https://www.hltv.org/news/38586/pgl-major-copenhagen-live-updates-day-7
-2024/03/23 17:13:53 Skipping writing post, no content: https://www.hltv.org/news/38585/g2-and-faze-avoid-each-other-in-round-4-with-ecstatic-win
-2024/03/23 17:13:53 Skipping writing post, no content: https://www.hltv.org/news/38575/pgl-major-copenhagen-live-updates-day-6
-2024/03/23 17:13:53 Skipping writing post, no content: https://www.hltv.org/news/38583/ecstatic-stay-alive-in-copenhagen-at-furias-expense
-2024/03/23 17:13:53 Skipping writing post, no content: https://www.hltv.org/news/38582/spirit-roll-into-major-playoffs-after-beating-navi
-2024/03/23 17:13:53 Skipping writing post, no content: https://www.hltv.org/news/38581/siuhy-on-returning-to-major-playoffs-im-on-a-completely-different-journey-now
-2024/03/23 17:13:53 Templated 85 posts, took 13.514065ms
+2024/03/23 17:27:04 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 118.690541ms
+2024/03/23 17:27:04 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/23 17:27:04 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 152.943836ms
+2024/03/23 17:27:04 Content still empty after HTML reader: https://www.hltv.org/news/38589/maj3r-stars-as-eternal-fire-qualify-for-major-playoffs
+2024/03/23 17:27:04 Content still empty after HTML reader: https://www.hltv.org/news/38588/faze-barely-scrape-by-imperial-with-b-game
+2024/03/23 17:27:04 Content still empty after HTML reader: https://www.hltv.org/news/38587/skyesports-masters-to-be-held-online
+2024/03/23 17:27:04 Content still empty after HTML reader: https://www.hltv.org/news/38584/chopper-many-top-cis-teams-invited-me-and-i-always-denied-thinking-i-should-do-something-myself
+2024/03/23 17:27:04 Content still empty after HTML reader: https://www.hltv.org/news/38586/pgl-major-copenhagen-live-updates-day-7
+2024/03/23 17:27:04 Content still empty after HTML reader: https://www.hltv.org/news/38585/g2-and-faze-avoid-each-other-in-round-4-with-ecstatic-win
+2024/03/23 17:27:04 Content still empty after HTML reader: https://www.hltv.org/news/38575/pgl-major-copenhagen-live-updates-day-6
+2024/03/23 17:27:04 Content still empty after HTML reader: https://www.hltv.org/news/38583/ecstatic-stay-alive-in-copenhagen-at-furias-expense
+2024/03/23 17:27:04 Fetched posts from https://vlr.gg/rss, took 461.705224ms
+2024/03/23 17:27:04 Content still empty after HTML reader: https://www.hltv.org/news/38582/spirit-roll-into-major-playoffs-after-beating-navi
+2024/03/23 17:27:04 Content still empty after HTML reader: https://www.hltv.org/news/38581/siuhy-on-returning-to-major-playoffs-im-on-a-completely-different-journey-now
+2024/03/23 17:27:04 Fetched posts from https://www.hltv.org/rss/news, took 477.5431ms
+2024/03/23 17:27:05 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 959.154419ms
+2024/03/23 17:27:05 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.018624609s
+2024/03/23 17:27:06 Fetched posts from https://blogtienao.com/feed, took 2.241979179s
+2024/03/23 17:27:22 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.334947683s
+2024/03/23 17:27:22 Skipping writing post, no content: https://www.hltv.org/news/38589/maj3r-stars-as-eternal-fire-qualify-for-major-playoffs
+2024/03/23 17:27:22 Skipping writing post, no content: https://www.hltv.org/news/38588/faze-barely-scrape-by-imperial-with-b-game
+2024/03/23 17:27:22 Skipping writing post, no content: https://www.hltv.org/news/38587/skyesports-masters-to-be-held-online
+2024/03/23 17:27:22 Skipping writing post, no content: https://www.hltv.org/news/38584/chopper-many-top-cis-teams-invited-me-and-i-always-denied-thinking-i-should-do-something-myself
+2024/03/23 17:27:22 Skipping writing post, no content: https://www.hltv.org/news/38586/pgl-major-copenhagen-live-updates-day-7
+2024/03/23 17:27:22 Skipping writing post, no content: https://www.hltv.org/news/38585/g2-and-faze-avoid-each-other-in-round-4-with-ecstatic-win
+2024/03/23 17:27:22 Skipping writing post, no content: https://www.hltv.org/news/38575/pgl-major-copenhagen-live-updates-day-6
+2024/03/23 17:27:22 Skipping writing post, no content: https://www.hltv.org/news/38583/ecstatic-stay-alive-in-copenhagen-at-furias-expense
+2024/03/23 17:27:22 Skipping writing post, no content: https://www.hltv.org/news/38582/spirit-roll-into-major-playoffs-after-beating-navi
+2024/03/23 17:27:22 Skipping writing post, no content: https://www.hltv.org/news/38581/siuhy-on-returning-to-major-playoffs-im-on-a-completely-different-journey-now
+2024/03/23 17:27:22 Templated 85 posts, took 12.230104ms
