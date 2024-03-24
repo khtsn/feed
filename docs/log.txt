@@ -1,32 +1,30 @@
-2024/03/24 21:12:53 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 221.254763ms
-2024/03/24 21:12:53 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/24 21:12:53 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 221.160573ms
-2024/03/24 21:12:54 Content still empty after HTML reader: https://www.hltv.org/news/38610/stacked-pgl-major-playoffs-bracket-set
-2024/03/24 21:12:54 Content still empty after HTML reader: https://www.hltv.org/news/38601/pgl-major-copenhagen-live-updates-day-8
-2024/03/24 21:12:54 Content still empty after HTML reader: https://www.nytimes.com/2024/03/24/world/middleeast/al-shifa-hospital-gaza-israel.html
-2024/03/24 21:12:54 Content still empty after HTML reader: https://www.hltv.org/news/38611/navi-secure-final-major-playoff-spot-over-pain
-2024/03/24 21:12:54 Content still empty after HTML reader: https://www.hltv.org/news/38608/m0nesy-i-dont-want-to-wait-for-my-teammates-to-die-i-want-to-make-a-difference
-2024/03/24 21:12:54 Content still empty after HTML reader: https://www.hltv.org/news/38607/g2-edge-out-virtuspro-after-crucial-jame-crash-in-major-playoffs-decider
-2024/03/24 21:12:54 Content still empty after HTML reader: https://www.hltv.org/news/38602/ax1le-you-play-your-entire-career-in-one-style-now-i-had-to-adapt-and-it-wasnt-easy
-2024/03/24 21:12:54 Content still empty after HTML reader: https://www.hltv.org/news/38606/nip-promote-maxster-to-main-team
-2024/03/24 21:12:54 Content still empty after HTML reader: https://www.hltv.org/news/38604/floppy-the-roles-are-hard-but-its-no-excuse-for-dropping-single-digit-kills
-2024/03/24 21:12:54 Content still empty after HTML reader: https://www.hltv.org/news/38605/faze-cruise-past-complexity-to-earn-playoff-berth
-2024/03/24 21:12:54 Content still empty after HTML reader: https://www.hltv.org/news/38594/casle-i-still-have-a-lot-of-love-for-astralis-but-to-take-ecstatic-this-far-is-a-huge-win-personally
-2024/03/24 21:12:54 Fetched posts from https://www.hltv.org/rss/news, took 546.735723ms
-2024/03/24 21:12:54 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 823.834346ms
-2024/03/24 21:12:54 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 992.629344ms
-2024/03/24 21:12:54 Fetched posts from https://vlr.gg/rss, took 1.279968529s
-2024/03/24 21:12:56 Fetched posts from https://blogtienao.com/feed, took 3.202638311s
-2024/03/24 21:13:07 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.277172222s
-2024/03/24 21:13:07 Skipping writing post, no content: https://www.nytimes.com/2024/03/24/world/middleeast/al-shifa-hospital-gaza-israel.html
-2024/03/24 21:13:07 Skipping writing post, no content: https://www.hltv.org/news/38610/stacked-pgl-major-playoffs-bracket-set
-2024/03/24 21:13:07 Skipping writing post, no content: https://www.hltv.org/news/38601/pgl-major-copenhagen-live-updates-day-8
-2024/03/24 21:13:07 Skipping writing post, no content: https://www.hltv.org/news/38611/navi-secure-final-major-playoff-spot-over-pain
-2024/03/24 21:13:07 Skipping writing post, no content: https://www.hltv.org/news/38608/m0nesy-i-dont-want-to-wait-for-my-teammates-to-die-i-want-to-make-a-difference
-2024/03/24 21:13:07 Skipping writing post, no content: https://www.hltv.org/news/38607/g2-edge-out-virtuspro-after-crucial-jame-crash-in-major-playoffs-decider
-2024/03/24 21:13:07 Skipping writing post, no content: https://www.hltv.org/news/38602/ax1le-you-play-your-entire-career-in-one-style-now-i-had-to-adapt-and-it-wasnt-easy
-2024/03/24 21:13:07 Skipping writing post, no content: https://www.hltv.org/news/38606/nip-promote-maxster-to-main-team
-2024/03/24 21:13:07 Skipping writing post, no content: https://www.hltv.org/news/38604/floppy-the-roles-are-hard-but-its-no-excuse-for-dropping-single-digit-kills
-2024/03/24 21:13:07 Skipping writing post, no content: https://www.hltv.org/news/38605/faze-cruise-past-complexity-to-earn-playoff-berth
-2024/03/24 21:13:07 Skipping writing post, no content: https://www.hltv.org/news/38594/casle-i-still-have-a-lot-of-love-for-astralis-but-to-take-ecstatic-this-far-is-a-huge-win-personally
-2024/03/24 21:13:07 Templated 75 posts, took 11.443807ms
+2024/03/24 21:24:40 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/24 21:24:40 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 109.264372ms
+2024/03/24 21:24:40 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 220.398757ms
+2024/03/24 21:24:40 Content still empty after HTML reader: https://www.hltv.org/news/38612/jame-on-crucial-crash-we-had-to-accept-it-as-is-and-move-on
+2024/03/24 21:24:40 Content still empty after HTML reader: https://www.hltv.org/news/38610/stacked-pgl-major-playoffs-bracket-set
+2024/03/24 21:24:40 Content still empty after HTML reader: https://www.hltv.org/news/38601/pgl-major-copenhagen-live-updates-day-8
+2024/03/24 21:24:40 Content still empty after HTML reader: https://www.hltv.org/news/38611/navi-secure-final-major-playoff-spot-over-pain
+2024/03/24 21:24:40 Content still empty after HTML reader: https://www.hltv.org/news/38608/m0nesy-i-dont-want-to-wait-for-my-teammates-to-die-i-want-to-make-a-difference
+2024/03/24 21:24:40 Content still empty after HTML reader: https://www.hltv.org/news/38607/g2-edge-out-virtuspro-after-crucial-jame-crash-in-major-playoffs-decider
+2024/03/24 21:24:40 Content still empty after HTML reader: https://www.hltv.org/news/38602/ax1le-you-play-your-entire-career-in-one-style-now-i-had-to-adapt-and-it-wasnt-easy
+2024/03/24 21:24:40 Content still empty after HTML reader: https://www.hltv.org/news/38606/nip-promote-maxster-to-main-team
+2024/03/24 21:24:40 Content still empty after HTML reader: https://www.hltv.org/news/38604/floppy-the-roles-are-hard-but-its-no-excuse-for-dropping-single-digit-kills
+2024/03/24 21:24:40 Content still empty after HTML reader: https://www.hltv.org/news/38605/faze-cruise-past-complexity-to-earn-playoff-berth
+2024/03/24 21:24:40 Fetched posts from https://www.hltv.org/rss/news, took 303.242867ms
+2024/03/24 21:24:41 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 687.747435ms
+2024/03/24 21:24:41 Fetched posts from https://vlr.gg/rss, took 1.21539041s
+2024/03/24 21:24:42 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.057785602s
+2024/03/24 21:24:43 Fetched posts from https://blogtienao.com/feed, took 3.188863986s
+2024/03/24 21:24:55 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.950261109s
+2024/03/24 21:24:55 Skipping writing post, no content: https://www.hltv.org/news/38612/jame-on-crucial-crash-we-had-to-accept-it-as-is-and-move-on
+2024/03/24 21:24:55 Skipping writing post, no content: https://www.hltv.org/news/38610/stacked-pgl-major-playoffs-bracket-set
+2024/03/24 21:24:55 Skipping writing post, no content: https://www.hltv.org/news/38601/pgl-major-copenhagen-live-updates-day-8
+2024/03/24 21:24:55 Skipping writing post, no content: https://www.hltv.org/news/38611/navi-secure-final-major-playoff-spot-over-pain
+2024/03/24 21:24:55 Skipping writing post, no content: https://www.hltv.org/news/38608/m0nesy-i-dont-want-to-wait-for-my-teammates-to-die-i-want-to-make-a-difference
+2024/03/24 21:24:55 Skipping writing post, no content: https://www.hltv.org/news/38607/g2-edge-out-virtuspro-after-crucial-jame-crash-in-major-playoffs-decider
+2024/03/24 21:24:55 Skipping writing post, no content: https://www.hltv.org/news/38602/ax1le-you-play-your-entire-career-in-one-style-now-i-had-to-adapt-and-it-wasnt-easy
+2024/03/24 21:24:55 Skipping writing post, no content: https://www.hltv.org/news/38606/nip-promote-maxster-to-main-team
+2024/03/24 21:24:55 Skipping writing post, no content: https://www.hltv.org/news/38604/floppy-the-roles-are-hard-but-its-no-excuse-for-dropping-single-digit-kills
+2024/03/24 21:24:55 Skipping writing post, no content: https://www.hltv.org/news/38605/faze-cruise-past-complexity-to-earn-playoff-berth
+2024/03/24 21:24:55 Templated 76 posts, took 11.895744ms
