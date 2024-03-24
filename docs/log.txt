@@ -1,30 +1,30 @@
-2024/03/24 07:13:37 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/24 07:13:37 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 83.95252ms
-2024/03/24 07:13:37 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 213.425861ms
-2024/03/24 07:13:37 Content still empty after HTML reader: https://www.hltv.org/news/38597/sjuush-the-biggest-thing-is-the-mental-side
-2024/03/24 07:13:37 Content still empty after HTML reader: https://www.hltv.org/news/38598/vp-vs-g2-faze-vs-col-headline-final-elimination-stage-round
-2024/03/24 07:13:37 Content still empty after HTML reader: https://www.hltv.org/news/38600/cloud9-brush-aside-navi-to-book-playoff-spot
-2024/03/24 07:13:37 Content still empty after HTML reader: https://www.hltv.org/news/38586/pgl-major-copenhagen-live-updates-day-7
-2024/03/24 07:13:37 Content still empty after HTML reader: https://www.hltv.org/news/38595/hooxi-on-struggling-to-close-games-something-with-the-major-is-getting-into-our-heads
-2024/03/24 07:13:37 Content still empty after HTML reader: https://www.hltv.org/news/38596/pain-send-heroic-packing-with-1-3-record
-2024/03/24 07:13:37 Content still empty after HTML reader: https://www.hltv.org/news/38590/woxic-winning-the-major-feels-more-possible-than-ever
-2024/03/24 07:13:37 Content still empty after HTML reader: https://www.hltv.org/news/38593/vitality-beat-complexity-to-sneak-into-major-playoffs
-2024/03/24 07:13:37 Content still empty after HTML reader: https://www.hltv.org/news/38592/g2-eliminate-hometown-heroes-ecstatic-from-copenhagen
-2024/03/24 07:13:37 Content still empty after HTML reader: https://www.hltv.org/news/38591/rain-i-feel-some-nerves
-2024/03/24 07:13:37 Fetched posts from https://www.hltv.org/rss/news, took 305.11253ms
-2024/03/24 07:13:38 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 859.58782ms
-2024/03/24 07:13:39 Fetched posts from https://vlr.gg/rss, took 1.506094586s
-2024/03/24 07:13:39 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.550989078s
-2024/03/24 07:13:40 Fetched posts from https://blogtienao.com/feed, took 3.252267828s
-2024/03/24 07:13:53 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.64772398s
-2024/03/24 07:13:53 Skipping writing post, no content: https://www.hltv.org/news/38597/sjuush-the-biggest-thing-is-the-mental-side
-2024/03/24 07:13:53 Skipping writing post, no content: https://www.hltv.org/news/38598/vp-vs-g2-faze-vs-col-headline-final-elimination-stage-round
-2024/03/24 07:13:53 Skipping writing post, no content: https://www.hltv.org/news/38600/cloud9-brush-aside-navi-to-book-playoff-spot
-2024/03/24 07:13:53 Skipping writing post, no content: https://www.hltv.org/news/38586/pgl-major-copenhagen-live-updates-day-7
-2024/03/24 07:13:53 Skipping writing post, no content: https://www.hltv.org/news/38595/hooxi-on-struggling-to-close-games-something-with-the-major-is-getting-into-our-heads
-2024/03/24 07:13:53 Skipping writing post, no content: https://www.hltv.org/news/38596/pain-send-heroic-packing-with-1-3-record
-2024/03/24 07:13:53 Skipping writing post, no content: https://www.hltv.org/news/38590/woxic-winning-the-major-feels-more-possible-than-ever
-2024/03/24 07:13:53 Skipping writing post, no content: https://www.hltv.org/news/38593/vitality-beat-complexity-to-sneak-into-major-playoffs
-2024/03/24 07:13:53 Skipping writing post, no content: https://www.hltv.org/news/38592/g2-eliminate-hometown-heroes-ecstatic-from-copenhagen
-2024/03/24 07:13:53 Skipping writing post, no content: https://www.hltv.org/news/38591/rain-i-feel-some-nerves
-2024/03/24 07:13:53 Templated 78 posts, took 12.104447ms
+2024/03/24 07:25:18 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 119.480025ms
+2024/03/24 07:25:18 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/24 07:25:18 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 154.210749ms
+2024/03/24 07:25:18 Content still empty after HTML reader: https://www.hltv.org/news/38597/sjuush-the-biggest-thing-is-the-mental-side
+2024/03/24 07:25:19 Content still empty after HTML reader: https://www.hltv.org/news/38598/vp-vs-g2-faze-vs-col-headline-final-elimination-stage-round
+2024/03/24 07:25:19 Content still empty after HTML reader: https://www.hltv.org/news/38600/cloud9-brush-aside-navi-to-book-playoff-spot
+2024/03/24 07:25:19 Content still empty after HTML reader: https://www.hltv.org/news/38586/pgl-major-copenhagen-live-updates-day-7
+2024/03/24 07:25:19 Content still empty after HTML reader: https://www.hltv.org/news/38595/hooxi-on-struggling-to-close-games-something-with-the-major-is-getting-into-our-heads
+2024/03/24 07:25:19 Content still empty after HTML reader: https://www.hltv.org/news/38596/pain-send-heroic-packing-with-1-3-record
+2024/03/24 07:25:19 Content still empty after HTML reader: https://www.hltv.org/news/38590/woxic-winning-the-major-feels-more-possible-than-ever
+2024/03/24 07:25:19 Fetched posts from https://vlr.gg/rss, took 418.69533ms
+2024/03/24 07:25:19 Content still empty after HTML reader: https://www.hltv.org/news/38593/vitality-beat-complexity-to-sneak-into-major-playoffs
+2024/03/24 07:25:19 Content still empty after HTML reader: https://www.hltv.org/news/38592/g2-eliminate-hometown-heroes-ecstatic-from-copenhagen
+2024/03/24 07:25:19 Content still empty after HTML reader: https://www.hltv.org/news/38591/rain-i-feel-some-nerves
+2024/03/24 07:25:19 Fetched posts from https://www.hltv.org/rss/news, took 444.605435ms
+2024/03/24 07:25:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 990.261424ms
+2024/03/24 07:25:19 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.326071939s
+2024/03/24 07:25:20 Fetched posts from https://blogtienao.com/feed, took 2.225548498s
+2024/03/24 07:25:36 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.43332215s
+2024/03/24 07:25:36 Skipping writing post, no content: https://www.hltv.org/news/38597/sjuush-the-biggest-thing-is-the-mental-side
+2024/03/24 07:25:36 Skipping writing post, no content: https://www.hltv.org/news/38598/vp-vs-g2-faze-vs-col-headline-final-elimination-stage-round
+2024/03/24 07:25:36 Skipping writing post, no content: https://www.hltv.org/news/38600/cloud9-brush-aside-navi-to-book-playoff-spot
+2024/03/24 07:25:36 Skipping writing post, no content: https://www.hltv.org/news/38586/pgl-major-copenhagen-live-updates-day-7
+2024/03/24 07:25:36 Skipping writing post, no content: https://www.hltv.org/news/38595/hooxi-on-struggling-to-close-games-something-with-the-major-is-getting-into-our-heads
+2024/03/24 07:25:36 Skipping writing post, no content: https://www.hltv.org/news/38596/pain-send-heroic-packing-with-1-3-record
+2024/03/24 07:25:36 Skipping writing post, no content: https://www.hltv.org/news/38590/woxic-winning-the-major-feels-more-possible-than-ever
+2024/03/24 07:25:36 Skipping writing post, no content: https://www.hltv.org/news/38593/vitality-beat-complexity-to-sneak-into-major-playoffs
+2024/03/24 07:25:36 Skipping writing post, no content: https://www.hltv.org/news/38592/g2-eliminate-hometown-heroes-ecstatic-from-copenhagen
+2024/03/24 07:25:36 Skipping writing post, no content: https://www.hltv.org/news/38591/rain-i-feel-some-nerves
+2024/03/24 07:25:36 Templated 78 posts, took 12.618124ms
