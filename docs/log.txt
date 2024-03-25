@@ -1,30 +1,30 @@
-2024/03/25 18:52:14 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 128.167948ms
-2024/03/25 18:52:14 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/25 18:52:14 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 158.253282ms
-2024/03/25 18:52:14 Content still empty after HTML reader: https://www.hltv.org/news/38618/sprout-cease-operations
-2024/03/25 18:52:14 Content still empty after HTML reader: https://www.hltv.org/news/38617/rebels-sign-innocent-on-trial
-2024/03/25 18:52:14 Content still empty after HTML reader: https://www.hltv.org/news/38609/karrigan-i-dont-care-if-im-second-or-eighth-why-should-it-matter-who-we-meet-first
-2024/03/25 18:52:14 Fetched posts from https://vlr.gg/rss, took 381.431106ms
-2024/03/25 18:52:14 Content still empty after HTML reader: https://www.hltv.org/news/38615/official-coldzera-set-to-leave-legacy
-2024/03/25 18:52:14 Content still empty after HTML reader: https://www.hltv.org/news/38614/falcons-complexity-ence-invited-to-esl-challenger-jnkping
-2024/03/25 18:52:14 Content still empty after HTML reader: https://www.hltv.org/news/38613/forze-qualify-for-skyesports-masters-liquid-withdraw
-2024/03/25 18:52:14 Content still empty after HTML reader: https://www.hltv.org/news/38612/jame-on-crucial-crash-we-had-to-accept-it-as-is-and-move-on
-2024/03/25 18:52:14 Content still empty after HTML reader: https://www.hltv.org/news/38610/stacked-pgl-major-playoffs-bracket-set
-2024/03/25 18:52:14 Content still empty after HTML reader: https://www.hltv.org/news/38601/pgl-major-copenhagen-live-updates-day-8
-2024/03/25 18:52:14 Content still empty after HTML reader: https://www.hltv.org/news/38611/navi-secure-final-major-playoff-spot-over-pain
-2024/03/25 18:52:14 Fetched posts from https://www.hltv.org/rss/news, took 473.254429ms
-2024/03/25 18:52:15 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 983.858012ms
-2024/03/25 18:52:15 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.190093985s
-2024/03/25 18:52:16 Fetched posts from https://blogtienao.com/feed, took 2.309096565s
-2024/03/25 18:52:31 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.680454036s
-2024/03/25 18:52:31 Skipping writing post, no content: https://www.hltv.org/news/38618/sprout-cease-operations
-2024/03/25 18:52:31 Skipping writing post, no content: https://www.hltv.org/news/38617/rebels-sign-innocent-on-trial
-2024/03/25 18:52:31 Skipping writing post, no content: https://www.hltv.org/news/38609/karrigan-i-dont-care-if-im-second-or-eighth-why-should-it-matter-who-we-meet-first
-2024/03/25 18:52:31 Skipping writing post, no content: https://www.hltv.org/news/38615/official-coldzera-set-to-leave-legacy
-2024/03/25 18:52:31 Skipping writing post, no content: https://www.hltv.org/news/38614/falcons-complexity-ence-invited-to-esl-challenger-jnkping
-2024/03/25 18:52:31 Skipping writing post, no content: https://www.hltv.org/news/38613/forze-qualify-for-skyesports-masters-liquid-withdraw
-2024/03/25 18:52:31 Skipping writing post, no content: https://www.hltv.org/news/38612/jame-on-crucial-crash-we-had-to-accept-it-as-is-and-move-on
-2024/03/25 18:52:31 Skipping writing post, no content: https://www.hltv.org/news/38610/stacked-pgl-major-playoffs-bracket-set
-2024/03/25 18:52:31 Skipping writing post, no content: https://www.hltv.org/news/38601/pgl-major-copenhagen-live-updates-day-8
-2024/03/25 18:52:31 Skipping writing post, no content: https://www.hltv.org/news/38611/navi-secure-final-major-playoff-spot-over-pain
-2024/03/25 18:52:31 Templated 84 posts, took 13.539513ms
+2024/03/25 19:13:18 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 103.349995ms
+2024/03/25 19:13:18 Fetched posts from https://vlr.gg/rss, took 334.236595ms
+2024/03/25 19:13:18 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/25 19:13:18 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 417.271888ms
+2024/03/25 19:13:19 Content still empty after HTML reader: https://www.hltv.org/news/38620/liquid-and-wildcard-to-replace-complexity-and-m80-at-iem-chengdu
+2024/03/25 19:13:19 Content still empty after HTML reader: https://www.hltv.org/news/38618/sprout-cease-operations
+2024/03/25 19:13:19 Content still empty after HTML reader: https://www.hltv.org/news/38617/rebels-sign-innocent-on-trial
+2024/03/25 19:13:19 Content still empty after HTML reader: https://www.hltv.org/news/38609/karrigan-i-dont-care-if-im-second-or-eighth-why-should-it-matter-who-we-meet-first
+2024/03/25 19:13:19 Content still empty after HTML reader: https://www.hltv.org/news/38615/official-coldzera-set-to-leave-legacy
+2024/03/25 19:13:19 Content still empty after HTML reader: https://www.hltv.org/news/38614/falcons-complexity-ence-invited-to-esl-challenger-jnkping
+2024/03/25 19:13:19 Content still empty after HTML reader: https://www.hltv.org/news/38613/forze-qualify-for-skyesports-masters-liquid-withdraw
+2024/03/25 19:13:19 Content still empty after HTML reader: https://www.hltv.org/news/38612/jame-on-crucial-crash-we-had-to-accept-it-as-is-and-move-on
+2024/03/25 19:13:19 Content still empty after HTML reader: https://www.hltv.org/news/38610/stacked-pgl-major-playoffs-bracket-set
+2024/03/25 19:13:19 Content still empty after HTML reader: https://www.hltv.org/news/38601/pgl-major-copenhagen-live-updates-day-8
+2024/03/25 19:13:19 Fetched posts from https://www.hltv.org/rss/news, took 741.251436ms
+2024/03/25 19:13:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 843.038466ms
+2024/03/25 19:13:19 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.133623725s
+2024/03/25 19:13:20 Fetched posts from https://blogtienao.com/feed, took 2.247301064s
+2024/03/25 19:13:37 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.198930648s
+2024/03/25 19:13:37 Skipping writing post, no content: https://www.hltv.org/news/38620/liquid-and-wildcard-to-replace-complexity-and-m80-at-iem-chengdu
+2024/03/25 19:13:37 Skipping writing post, no content: https://www.hltv.org/news/38618/sprout-cease-operations
+2024/03/25 19:13:37 Skipping writing post, no content: https://www.hltv.org/news/38617/rebels-sign-innocent-on-trial
+2024/03/25 19:13:37 Skipping writing post, no content: https://www.hltv.org/news/38609/karrigan-i-dont-care-if-im-second-or-eighth-why-should-it-matter-who-we-meet-first
+2024/03/25 19:13:37 Skipping writing post, no content: https://www.hltv.org/news/38615/official-coldzera-set-to-leave-legacy
+2024/03/25 19:13:37 Skipping writing post, no content: https://www.hltv.org/news/38614/falcons-complexity-ence-invited-to-esl-challenger-jnkping
+2024/03/25 19:13:37 Skipping writing post, no content: https://www.hltv.org/news/38613/forze-qualify-for-skyesports-masters-liquid-withdraw
+2024/03/25 19:13:37 Skipping writing post, no content: https://www.hltv.org/news/38612/jame-on-crucial-crash-we-had-to-accept-it-as-is-and-move-on
+2024/03/25 19:13:37 Skipping writing post, no content: https://www.hltv.org/news/38610/stacked-pgl-major-playoffs-bracket-set
+2024/03/25 19:13:37 Skipping writing post, no content: https://www.hltv.org/news/38601/pgl-major-copenhagen-live-updates-day-8
+2024/03/25 19:13:37 Templated 80 posts, took 13.540414ms
