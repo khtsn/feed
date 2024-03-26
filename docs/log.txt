@@ -1,30 +1,32 @@
-2024/03/26 13:52:17 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/26 13:52:17 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 192.76661ms
-2024/03/26 13:52:17 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 210.286779ms
-2024/03/26 13:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38625/betboom-invited-to-skyesports-masters-as-liquid-replacement
-2024/03/26 13:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38626/el1an-open-to-eu-and-cis-offers-after-asia-sojourn
-2024/03/26 13:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38623/yel-retires-from-playing-open-to-coaching-offers
-2024/03/26 13:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38622/red-canids-bench-destiny
-2024/03/26 13:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38616/b1ad3-jl-has-this-instant-mindset-to-destroy-the-other-team
-2024/03/26 13:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38621/media-m80-target-s1n-as-new-igl
-2024/03/26 13:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38620/liquid-and-wildcard-to-replace-complexity-and-m80-at-iem-chengdu
-2024/03/26 13:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38618/sprout-cease-operations
-2024/03/26 13:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38617/rebels-sign-innocent-on-trial
-2024/03/26 13:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38609/karrigan-i-dont-care-if-im-second-or-eighth-why-should-it-matter-who-we-meet-first
-2024/03/26 13:52:17 Fetched posts from https://www.hltv.org/rss/news, took 317.995527ms
-2024/03/26 13:52:17 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 568.722886ms
-2024/03/26 13:52:18 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 798.323594ms
-2024/03/26 13:52:18 Fetched posts from https://vlr.gg/rss, took 1.085273634s
-2024/03/26 13:52:20 Fetched posts from https://blogtienao.com/feed, took 3.243334018s
-2024/03/26 13:52:38 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.328617494s
-2024/03/26 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38625/betboom-invited-to-skyesports-masters-as-liquid-replacement
-2024/03/26 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38626/el1an-open-to-eu-and-cis-offers-after-asia-sojourn
-2024/03/26 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38623/yel-retires-from-playing-open-to-coaching-offers
-2024/03/26 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38622/red-canids-bench-destiny
-2024/03/26 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38616/b1ad3-jl-has-this-instant-mindset-to-destroy-the-other-team
-2024/03/26 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38621/media-m80-target-s1n-as-new-igl
-2024/03/26 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38620/liquid-and-wildcard-to-replace-complexity-and-m80-at-iem-chengdu
-2024/03/26 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38618/sprout-cease-operations
-2024/03/26 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38617/rebels-sign-innocent-on-trial
-2024/03/26 13:52:38 Skipping writing post, no content: https://www.hltv.org/news/38609/karrigan-i-dont-care-if-im-second-or-eighth-why-should-it-matter-who-we-meet-first
-2024/03/26 13:52:38 Templated 84 posts, took 13.472672ms
+2024/03/26 14:16:33 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 246.202272ms
+2024/03/26 14:16:33 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/26 14:16:33 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 268.593526ms
+2024/03/26 14:16:33 Content still empty after HTML reader: https://www.hltv.org/news/38625/betboom-invited-to-skyesports-masters-as-liquid-replacement
+2024/03/26 14:16:33 Content still empty after HTML reader: https://www.hltv.org/news/38626/el1an-open-to-eu-and-cis-offers-after-asia-sojourn
+2024/03/26 14:16:33 Content still empty after HTML reader: https://www.hltv.org/news/38623/yel-retires-from-playing-open-to-coaching-offers
+2024/03/26 14:16:33 Content still empty after HTML reader: https://www.hltv.org/news/38622/red-canids-bench-destiny
+2024/03/26 14:16:33 Content still empty after HTML reader: https://www.hltv.org/news/38616/b1ad3-jl-has-this-instant-mindset-to-destroy-the-other-team
+2024/03/26 14:16:33 Content still empty after HTML reader: https://www.hltv.org/news/38621/media-m80-target-s1n-as-new-igl
+2024/03/26 14:16:33 Content still empty after HTML reader: https://www.hltv.org/news/38620/liquid-and-wildcard-to-replace-complexity-and-m80-at-iem-chengdu
+2024/03/26 14:16:33 Content still empty after HTML reader: https://www.vlr.gg/322779/luok1ng-coach-yiyee-leave-tyloo
+2024/03/26 14:16:33 Content still empty after HTML reader: https://www.hltv.org/news/38618/sprout-cease-operations
+2024/03/26 14:16:33 Content still empty after HTML reader: https://www.hltv.org/news/38617/rebels-sign-innocent-on-trial
+2024/03/26 14:16:33 Content still empty after HTML reader: https://www.hltv.org/news/38609/karrigan-i-dont-care-if-im-second-or-eighth-why-should-it-matter-who-we-meet-first
+2024/03/26 14:16:33 Fetched posts from https://www.hltv.org/rss/news, took 503.348255ms
+2024/03/26 14:16:33 Fetched posts from https://vlr.gg/rss, took 535.01391ms
+2024/03/26 14:16:33 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 962.899793ms
+2024/03/26 14:16:34 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.425344185s
+2024/03/26 14:16:35 Fetched posts from https://blogtienao.com/feed, took 2.594929857s
+2024/03/26 14:16:51 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.938046287s
+2024/03/26 14:16:51 Skipping writing post, no content: https://www.hltv.org/news/38625/betboom-invited-to-skyesports-masters-as-liquid-replacement
+2024/03/26 14:16:51 Skipping writing post, no content: https://www.hltv.org/news/38626/el1an-open-to-eu-and-cis-offers-after-asia-sojourn
+2024/03/26 14:16:51 Skipping writing post, no content: https://www.hltv.org/news/38623/yel-retires-from-playing-open-to-coaching-offers
+2024/03/26 14:16:51 Skipping writing post, no content: https://www.hltv.org/news/38622/red-canids-bench-destiny
+2024/03/26 14:16:51 Skipping writing post, no content: https://www.hltv.org/news/38616/b1ad3-jl-has-this-instant-mindset-to-destroy-the-other-team
+2024/03/26 14:16:51 Skipping writing post, no content: https://www.hltv.org/news/38621/media-m80-target-s1n-as-new-igl
+2024/03/26 14:16:51 Skipping writing post, no content: https://www.hltv.org/news/38620/liquid-and-wildcard-to-replace-complexity-and-m80-at-iem-chengdu
+2024/03/26 14:16:51 Skipping writing post, no content: https://www.hltv.org/news/38618/sprout-cease-operations
+2024/03/26 14:16:51 Skipping writing post, no content: https://www.hltv.org/news/38617/rebels-sign-innocent-on-trial
+2024/03/26 14:16:51 Skipping writing post, no content: https://www.hltv.org/news/38609/karrigan-i-dont-care-if-im-second-or-eighth-why-should-it-matter-who-we-meet-first
+2024/03/26 14:16:51 Skipping writing post, no content: https://www.vlr.gg/322779/luok1ng-coach-yiyee-leave-tyloo
+2024/03/26 14:16:51 Templated 84 posts, took 12.957239ms
