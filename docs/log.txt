@@ -1,28 +1,30 @@
-2024/03/26 18:20:18 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/26 18:20:18 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 204.404739ms
-2024/03/26 18:20:18 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 387.80095ms
-2024/03/26 18:20:18 Content still empty after HTML reader: https://www.hltv.org/news/38629/media-legacy-set-to-trial-stewie2k
-2024/03/26 18:20:19 Content still empty after HTML reader: https://www.hltv.org/news/38624/csgoempire-announces-50000-online-tournament
-2024/03/26 18:20:19 Content still empty after HTML reader: https://www.hltv.org/news/38627/boltz-set-to-return-to-competition
-2024/03/26 18:20:19 Content still empty after HTML reader: https://www.hltv.org/news/38625/betboom-invited-to-skyesports-masters-as-liquid-replacement
-2024/03/26 18:20:19 Content still empty after HTML reader: https://www.hltv.org/news/38626/el1an-open-to-eu-and-cis-offers-after-asia-sojourn
-2024/03/26 18:20:19 Content still empty after HTML reader: https://www.hltv.org/news/38623/yel-retires-from-playing-open-to-coaching-offers
-2024/03/26 18:20:19 Content still empty after HTML reader: https://www.hltv.org/news/38622/red-canids-bench-destiny
-2024/03/26 18:20:19 Content still empty after HTML reader: https://www.hltv.org/news/38616/b1ad3-jl-has-this-instant-mindset-to-destroy-the-other-team
-2024/03/26 18:20:19 Content still empty after HTML reader: https://www.hltv.org/news/38621/media-m80-target-s1n-as-new-igl
-2024/03/26 18:20:19 Fetched posts from https://www.hltv.org/rss/news, took 515.972391ms
-2024/03/26 18:20:19 Fetched posts from https://vlr.gg/rss, took 619.598705ms
-2024/03/26 18:20:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 948.999708ms
-2024/03/26 18:20:19 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.004410613s
-2024/03/26 18:20:20 Fetched posts from https://blogtienao.com/feed, took 2.339806608s
-2024/03/26 18:20:42 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 24.131340675s
-2024/03/26 18:20:42 Skipping writing post, no content: https://www.hltv.org/news/38629/media-legacy-set-to-trial-stewie2k
-2024/03/26 18:20:42 Skipping writing post, no content: https://www.hltv.org/news/38624/csgoempire-announces-50000-online-tournament
-2024/03/26 18:20:42 Skipping writing post, no content: https://www.hltv.org/news/38627/boltz-set-to-return-to-competition
-2024/03/26 18:20:42 Skipping writing post, no content: https://www.hltv.org/news/38625/betboom-invited-to-skyesports-masters-as-liquid-replacement
-2024/03/26 18:20:42 Skipping writing post, no content: https://www.hltv.org/news/38626/el1an-open-to-eu-and-cis-offers-after-asia-sojourn
-2024/03/26 18:20:42 Skipping writing post, no content: https://www.hltv.org/news/38623/yel-retires-from-playing-open-to-coaching-offers
-2024/03/26 18:20:42 Skipping writing post, no content: https://www.hltv.org/news/38622/red-canids-bench-destiny
-2024/03/26 18:20:42 Skipping writing post, no content: https://www.hltv.org/news/38616/b1ad3-jl-has-this-instant-mindset-to-destroy-the-other-team
-2024/03/26 18:20:42 Skipping writing post, no content: https://www.hltv.org/news/38621/media-m80-target-s1n-as-new-igl
-2024/03/26 18:20:42 Templated 81 posts, took 15.379767ms
+2024/03/26 18:37:48 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 231.825402ms
+2024/03/26 18:37:48 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/26 18:37:48 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 329.183057ms
+2024/03/26 18:37:48 Content still empty after HTML reader: https://www.hltv.org/news/38631/m80-confirm-s1n-signing
+2024/03/26 18:37:48 Content still empty after HTML reader: https://www.hltv.org/news/38628/red-bull-set-to-release-memories-of-csgo-documentary
+2024/03/26 18:37:48 Content still empty after HTML reader: https://www.hltv.org/news/38629/media-legacy-set-to-trial-stewie2k
+2024/03/26 18:37:48 Content still empty after HTML reader: https://www.hltv.org/news/38624/csgoempire-announces-50000-online-tournament
+2024/03/26 18:37:48 Content still empty after HTML reader: https://www.hltv.org/news/38627/boltz-set-to-return-to-competition
+2024/03/26 18:37:48 Content still empty after HTML reader: https://www.hltv.org/news/38625/betboom-invited-to-skyesports-masters-as-liquid-replacement
+2024/03/26 18:37:48 Content still empty after HTML reader: https://www.hltv.org/news/38626/el1an-open-to-eu-and-cis-offers-after-asia-sojourn
+2024/03/26 18:37:48 Content still empty after HTML reader: https://www.hltv.org/news/38623/yel-retires-from-playing-open-to-coaching-offers
+2024/03/26 18:37:48 Content still empty after HTML reader: https://www.hltv.org/news/38622/red-canids-bench-destiny
+2024/03/26 18:37:48 Content still empty after HTML reader: https://www.hltv.org/news/38616/b1ad3-jl-has-this-instant-mindset-to-destroy-the-other-team
+2024/03/26 18:37:48 Fetched posts from https://www.hltv.org/rss/news, took 461.116701ms
+2024/03/26 18:37:48 Fetched posts from https://vlr.gg/rss, took 528.204205ms
+2024/03/26 18:37:48 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.006947378s
+2024/03/26 18:37:48 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.024404901s
+2024/03/26 18:37:50 Fetched posts from https://blogtienao.com/feed, took 2.225922327s
+2024/03/26 18:38:05 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.70223985s
+2024/03/26 18:38:05 Skipping writing post, no content: https://www.hltv.org/news/38631/m80-confirm-s1n-signing
+2024/03/26 18:38:05 Skipping writing post, no content: https://www.hltv.org/news/38628/red-bull-set-to-release-memories-of-csgo-documentary
+2024/03/26 18:38:05 Skipping writing post, no content: https://www.hltv.org/news/38629/media-legacy-set-to-trial-stewie2k
+2024/03/26 18:38:05 Skipping writing post, no content: https://www.hltv.org/news/38624/csgoempire-announces-50000-online-tournament
+2024/03/26 18:38:05 Skipping writing post, no content: https://www.hltv.org/news/38627/boltz-set-to-return-to-competition
+2024/03/26 18:38:05 Skipping writing post, no content: https://www.hltv.org/news/38625/betboom-invited-to-skyesports-masters-as-liquid-replacement
+2024/03/26 18:38:05 Skipping writing post, no content: https://www.hltv.org/news/38626/el1an-open-to-eu-and-cis-offers-after-asia-sojourn
+2024/03/26 18:38:05 Skipping writing post, no content: https://www.hltv.org/news/38623/yel-retires-from-playing-open-to-coaching-offers
+2024/03/26 18:38:05 Skipping writing post, no content: https://www.hltv.org/news/38622/red-canids-bench-destiny
+2024/03/26 18:38:05 Skipping writing post, no content: https://www.hltv.org/news/38616/b1ad3-jl-has-this-instant-mindset-to-destroy-the-other-team
+2024/03/26 18:38:05 Templated 81 posts, took 12.664054ms
