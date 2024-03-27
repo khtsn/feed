@@ -1,32 +1,30 @@
-2024/03/27 14:15:27 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 127.538936ms
-2024/03/27 14:15:27 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/27 14:15:27 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 285.742655ms
-2024/03/27 14:15:27 Fetched posts from https://vlr.gg/rss, took 458.102148ms
-2024/03/27 14:15:27 Content still empty after HTML reader: https://www.hltv.org/news/38635/device-woxic-xertion-and-more-on-hltv-confirmed-live-from-copenhagen
-2024/03/27 14:15:27 Content still empty after HTML reader: https://www.hltv.org/news/38619/zipel-i-think-we-are-the-org-that-has-made-it-to-a-major-with-by-far-the-least-resources
-2024/03/27 14:15:27 Content still empty after HTML reader: https://www.hltv.org/news/38633/iem-chengdu-groups-and-opening-matchups-revealed
-2024/03/27 14:15:27 Content still empty after HTML reader: https://www.hltv.org/news/38632/official-dupreeh-joins-falcons
-2024/03/27 14:15:27 Content still empty after HTML reader: https://www.hltv.org/news/38630/eyeballers-sign-golden
-2024/03/27 14:15:27 Content still empty after HTML reader: https://www.hltv.org/news/38631/m80-confirm-s1n-signing
-2024/03/27 14:15:27 Content still empty after HTML reader: https://www.hltv.org/news/38628/red-bull-release-memories-of-csgo-documentary
-2024/03/27 14:15:27 Content still empty after HTML reader: https://www.hltv.org/news/38629/media-legacy-set-to-trial-stewie2k
-2024/03/27 14:15:27 Content still empty after HTML reader: https://www.hltv.org/news/38624/csgoempire-announces-50000-online-tournament
-2024/03/27 14:15:27 Content still empty after HTML reader: https://www.nytimes.com/2024/03/27/opinion/biden-ireland-gaza-varadkar.html
-2024/03/27 14:15:27 Content still empty after HTML reader: https://www.hltv.org/news/38627/boltz-set-to-return-to-competition
-2024/03/27 14:15:27 Fetched posts from https://www.hltv.org/rss/news, took 793.72698ms
-2024/03/27 14:15:28 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.230829381s
-2024/03/27 14:15:28 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.280294401s
-2024/03/27 14:15:29 Fetched posts from https://blogtienao.com/feed, took 2.154386708s
-2024/03/27 14:15:41 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.214675824s
-2024/03/27 14:15:41 Skipping writing post, no content: https://www.nytimes.com/2024/03/27/opinion/biden-ireland-gaza-varadkar.html
-2024/03/27 14:15:41 Skipping writing post, no content: https://www.hltv.org/news/38635/device-woxic-xertion-and-more-on-hltv-confirmed-live-from-copenhagen
-2024/03/27 14:15:41 Skipping writing post, no content: https://www.hltv.org/news/38619/zipel-i-think-we-are-the-org-that-has-made-it-to-a-major-with-by-far-the-least-resources
-2024/03/27 14:15:41 Skipping writing post, no content: https://www.hltv.org/news/38633/iem-chengdu-groups-and-opening-matchups-revealed
-2024/03/27 14:15:41 Skipping writing post, no content: https://www.hltv.org/news/38632/official-dupreeh-joins-falcons
-2024/03/27 14:15:41 Skipping writing post, no content: https://www.hltv.org/news/38630/eyeballers-sign-golden
-2024/03/27 14:15:41 Skipping writing post, no content: https://www.hltv.org/news/38631/m80-confirm-s1n-signing
-2024/03/27 14:15:41 Skipping writing post, no content: https://www.hltv.org/news/38628/red-bull-release-memories-of-csgo-documentary
-2024/03/27 14:15:41 Skipping writing post, no content: https://www.hltv.org/news/38629/media-legacy-set-to-trial-stewie2k
-2024/03/27 14:15:41 Skipping writing post, no content: https://www.hltv.org/news/38624/csgoempire-announces-50000-online-tournament
-2024/03/27 14:15:41 Skipping writing post, no content: https://www.hltv.org/news/38627/boltz-set-to-return-to-competition
-2024/03/27 14:15:41 Templated 84 posts, took 12.636005ms
+2024/03/27 14:37:32 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 170.77769ms
+2024/03/27 14:37:32 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/27 14:37:32 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 174.849392ms
+2024/03/27 14:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38635/device-woxic-xertion-and-more-on-hltv-confirmed-live-from-copenhagen
+2024/03/27 14:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38619/zipel-i-think-we-are-the-org-that-has-made-it-to-a-major-with-by-far-the-least-resources
+2024/03/27 14:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38633/iem-chengdu-groups-and-opening-matchups-revealed
+2024/03/27 14:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38632/official-dupreeh-joins-falcons
+2024/03/27 14:37:32 Fetched posts from https://vlr.gg/rss, took 301.753534ms
+2024/03/27 14:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38630/eyeballers-sign-golden
+2024/03/27 14:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38631/m80-confirm-s1n-signing
+2024/03/27 14:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38628/red-bull-release-memories-of-csgo-documentary
+2024/03/27 14:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38629/media-legacy-set-to-trial-stewie2k
+2024/03/27 14:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38624/csgoempire-announces-50000-online-tournament
+2024/03/27 14:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38627/boltz-set-to-return-to-competition
+2024/03/27 14:37:32 Fetched posts from https://www.hltv.org/rss/news, took 347.719801ms
+2024/03/27 14:37:33 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 657.484507ms
+2024/03/27 14:37:33 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.129682579s
+2024/03/27 14:37:37 Fetched posts from https://blogtienao.com/feed, took 4.423241562s
+2024/03/27 14:37:49 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.586493752s
+2024/03/27 14:37:49 Skipping writing post, no content: https://www.hltv.org/news/38635/device-woxic-xertion-and-more-on-hltv-confirmed-live-from-copenhagen
+2024/03/27 14:37:49 Skipping writing post, no content: https://www.hltv.org/news/38619/zipel-i-think-we-are-the-org-that-has-made-it-to-a-major-with-by-far-the-least-resources
+2024/03/27 14:37:49 Skipping writing post, no content: https://www.hltv.org/news/38633/iem-chengdu-groups-and-opening-matchups-revealed
+2024/03/27 14:37:49 Skipping writing post, no content: https://www.hltv.org/news/38632/official-dupreeh-joins-falcons
+2024/03/27 14:37:49 Skipping writing post, no content: https://www.hltv.org/news/38630/eyeballers-sign-golden
+2024/03/27 14:37:49 Skipping writing post, no content: https://www.hltv.org/news/38631/m80-confirm-s1n-signing
+2024/03/27 14:37:49 Skipping writing post, no content: https://www.hltv.org/news/38628/red-bull-release-memories-of-csgo-documentary
+2024/03/27 14:37:49 Skipping writing post, no content: https://www.hltv.org/news/38629/media-legacy-set-to-trial-stewie2k
+2024/03/27 14:37:49 Skipping writing post, no content: https://www.hltv.org/news/38624/csgoempire-announces-50000-online-tournament
+2024/03/27 14:37:49 Skipping writing post, no content: https://www.hltv.org/news/38627/boltz-set-to-return-to-competition
+2024/03/27 14:37:49 Templated 82 posts, took 12.814667ms
