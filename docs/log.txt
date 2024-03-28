@@ -1,30 +1,30 @@
-2024/03/28 23:16:07 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 111.973791ms
-2024/03/28 23:16:08 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/28 23:16:08 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 172.295765ms
-2024/03/28 23:16:08 Content still empty after HTML reader: https://www.hltv.org/news/38646/faze-outlast-spirit-in-instant-classic-in-copenhagen
-2024/03/28 23:16:08 Content still empty after HTML reader: https://www.hltv.org/news/38645/flyquest-sign-ex-grayhound-roster
-2024/03/28 23:16:08 Content still empty after HTML reader: https://www.hltv.org/news/38644/vitality-demolish-cloud9-to-secure-semi-final-berth
-2024/03/28 23:16:08 Content still empty after HTML reader: https://www.hltv.org/news/38642/pgl-reveals-details-on-major-ticket-sales
-2024/03/28 23:16:08 Content still empty after HTML reader: https://www.hltv.org/news/38639/gamerlegion-announce-keoz-benching
-2024/03/28 23:16:08 Content still empty after HTML reader: https://www.hltv.org/news/38641/live-updates-from-pgl-major-copenhagen-quarter-finals-day-1
-2024/03/28 23:16:08 Content still empty after HTML reader: https://www.hltv.org/news/38640/device-i-was-annoyed-a-lot-of-times-i-didnt-feel-like-we-were-playing-the-way-i-wanted-to-play
-2024/03/28 23:16:08 Content still empty after HTML reader: https://www.hltv.org/news/38638/is-the-new-generation-large-and-in-charge-or-are-the-old-guard-still-kings
-2024/03/28 23:16:08 Content still empty after HTML reader: https://www.hltv.org/news/38637/major-playoffs-fantasy-starts-soon-with-increased-points
-2024/03/28 23:16:08 Content still empty after HTML reader: https://www.hltv.org/news/38636/thunderpick-wc-eu-qualifier-teams-revealed
-2024/03/28 23:16:08 Fetched posts from https://www.hltv.org/rss/news, took 476.32985ms
-2024/03/28 23:16:08 Fetched posts from https://vlr.gg/rss, took 551.757487ms
-2024/03/28 23:16:08 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.057341761s
-2024/03/28 23:16:09 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.542220783s
-2024/03/28 23:16:10 Fetched posts from https://blogtienao.com/feed, took 2.290912846s
-2024/03/28 23:16:25 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.384266816s
-2024/03/28 23:16:25 Skipping writing post, no content: https://www.hltv.org/news/38646/faze-outlast-spirit-in-instant-classic-in-copenhagen
-2024/03/28 23:16:25 Skipping writing post, no content: https://www.hltv.org/news/38645/flyquest-sign-ex-grayhound-roster
-2024/03/28 23:16:25 Skipping writing post, no content: https://www.hltv.org/news/38644/vitality-demolish-cloud9-to-secure-semi-final-berth
-2024/03/28 23:16:25 Skipping writing post, no content: https://www.hltv.org/news/38642/pgl-reveals-details-on-major-ticket-sales
-2024/03/28 23:16:25 Skipping writing post, no content: https://www.hltv.org/news/38639/gamerlegion-announce-keoz-benching
-2024/03/28 23:16:25 Skipping writing post, no content: https://www.hltv.org/news/38641/live-updates-from-pgl-major-copenhagen-quarter-finals-day-1
-2024/03/28 23:16:25 Skipping writing post, no content: https://www.hltv.org/news/38640/device-i-was-annoyed-a-lot-of-times-i-didnt-feel-like-we-were-playing-the-way-i-wanted-to-play
-2024/03/28 23:16:25 Skipping writing post, no content: https://www.hltv.org/news/38638/is-the-new-generation-large-and-in-charge-or-are-the-old-guard-still-kings
-2024/03/28 23:16:25 Skipping writing post, no content: https://www.hltv.org/news/38637/major-playoffs-fantasy-starts-soon-with-increased-points
-2024/03/28 23:16:25 Skipping writing post, no content: https://www.hltv.org/news/38636/thunderpick-wc-eu-qualifier-teams-revealed
-2024/03/28 23:16:25 Templated 88 posts, took 14.626792ms
+2024/03/28 23:38:29 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/28 23:38:29 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 186.305004ms
+2024/03/28 23:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38646/faze-outlast-spirit-in-instant-classic-in-copenhagen
+2024/03/28 23:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38645/flyquest-sign-ex-grayhound-roster
+2024/03/28 23:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38644/vitality-demolish-cloud9-to-secure-semi-final-berth
+2024/03/28 23:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38642/pgl-reveals-details-on-major-ticket-sales
+2024/03/28 23:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38639/gamerlegion-announce-keoz-benching
+2024/03/28 23:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38641/live-updates-from-pgl-major-copenhagen-quarter-finals-day-1
+2024/03/28 23:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38640/device-i-was-annoyed-a-lot-of-times-i-didnt-feel-like-we-were-playing-the-way-i-wanted-to-play
+2024/03/28 23:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38638/is-the-new-generation-large-and-in-charge-or-are-the-old-guard-still-kings
+2024/03/28 23:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38637/major-playoffs-fantasy-starts-soon-with-increased-points
+2024/03/28 23:38:29 Content still empty after HTML reader: https://www.hltv.org/news/38636/thunderpick-wc-eu-qualifier-teams-revealed
+2024/03/28 23:38:29 Fetched posts from https://www.hltv.org/rss/news, took 364.455599ms
+2024/03/28 23:38:29 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 376.838195ms
+2024/03/28 23:38:30 Fetched posts from https://vlr.gg/rss, took 1.361372486s
+2024/03/28 23:38:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.698404814s
+2024/03/28 23:38:30 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.861993455s
+2024/03/28 23:38:32 Fetched posts from https://blogtienao.com/feed, took 3.235421527s
+2024/03/28 23:38:45 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.199493059s
+2024/03/28 23:38:45 Skipping writing post, no content: https://www.hltv.org/news/38646/faze-outlast-spirit-in-instant-classic-in-copenhagen
+2024/03/28 23:38:45 Skipping writing post, no content: https://www.hltv.org/news/38645/flyquest-sign-ex-grayhound-roster
+2024/03/28 23:38:45 Skipping writing post, no content: https://www.hltv.org/news/38644/vitality-demolish-cloud9-to-secure-semi-final-berth
+2024/03/28 23:38:45 Skipping writing post, no content: https://www.hltv.org/news/38642/pgl-reveals-details-on-major-ticket-sales
+2024/03/28 23:38:45 Skipping writing post, no content: https://www.hltv.org/news/38639/gamerlegion-announce-keoz-benching
+2024/03/28 23:38:45 Skipping writing post, no content: https://www.hltv.org/news/38641/live-updates-from-pgl-major-copenhagen-quarter-finals-day-1
+2024/03/28 23:38:45 Skipping writing post, no content: https://www.hltv.org/news/38640/device-i-was-annoyed-a-lot-of-times-i-didnt-feel-like-we-were-playing-the-way-i-wanted-to-play
+2024/03/28 23:38:45 Skipping writing post, no content: https://www.hltv.org/news/38638/is-the-new-generation-large-and-in-charge-or-are-the-old-guard-still-kings
+2024/03/28 23:38:45 Skipping writing post, no content: https://www.hltv.org/news/38637/major-playoffs-fantasy-starts-soon-with-increased-points
+2024/03/28 23:38:45 Skipping writing post, no content: https://www.hltv.org/news/38636/thunderpick-wc-eu-qualifier-teams-revealed
+2024/03/28 23:38:45 Templated 88 posts, took 14.257651ms
