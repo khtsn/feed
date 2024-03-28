@@ -1,28 +1,30 @@
-2024/03/28 02:27:28 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 119.474181ms
-2024/03/28 02:27:28 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/28 02:27:28 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 144.138972ms
-2024/03/28 02:27:28 Content still empty after HTML reader: https://www.hltv.org/news/38638/is-the-new-generation-large-and-in-charge-or-are-the-old-guard-still-kings
-2024/03/28 02:27:28 Content still empty after HTML reader: https://www.hltv.org/news/38637/major-playoffs-fantasy-starts-soon-with-increased-points
-2024/03/28 02:27:28 Content still empty after HTML reader: https://www.hltv.org/news/38636/thunderpick-wc-eu-qualifier-teams-revealed
-2024/03/28 02:27:28 Content still empty after HTML reader: https://www.hltv.org/news/38634/can-faze-level-up-in-the-arena-and-stop-spirit
-2024/03/28 02:27:28 Content still empty after HTML reader: https://www.hltv.org/news/38635/device-woxic-xertion-and-more-on-hltv-confirmed-live-from-copenhagen
-2024/03/28 02:27:28 Content still empty after HTML reader: https://www.hltv.org/news/38619/zipel-i-think-we-are-the-org-that-has-made-it-to-a-major-with-by-far-the-least-resources
-2024/03/28 02:27:28 Content still empty after HTML reader: https://www.hltv.org/news/38633/iem-chengdu-groups-and-opening-matchups-revealed
-2024/03/28 02:27:28 Content still empty after HTML reader: https://www.hltv.org/news/38630/eyeballers-sign-golden
-2024/03/28 02:27:28 Content still empty after HTML reader: https://www.hltv.org/news/38631/m80-confirm-s1n-signing
-2024/03/28 02:27:28 Fetched posts from https://www.hltv.org/rss/news, took 400.680591ms
-2024/03/28 02:27:28 Fetched posts from https://vlr.gg/rss, took 428.97537ms
-2024/03/28 02:27:28 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 844.307871ms
-2024/03/28 02:27:29 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.786028594s
-2024/03/28 02:27:30 Fetched posts from https://blogtienao.com/feed, took 2.230776466s
-2024/03/28 02:27:45 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.117314367s
-2024/03/28 02:27:45 Skipping writing post, no content: https://www.hltv.org/news/38638/is-the-new-generation-large-and-in-charge-or-are-the-old-guard-still-kings
-2024/03/28 02:27:45 Skipping writing post, no content: https://www.hltv.org/news/38637/major-playoffs-fantasy-starts-soon-with-increased-points
-2024/03/28 02:27:45 Skipping writing post, no content: https://www.hltv.org/news/38636/thunderpick-wc-eu-qualifier-teams-revealed
-2024/03/28 02:27:45 Skipping writing post, no content: https://www.hltv.org/news/38634/can-faze-level-up-in-the-arena-and-stop-spirit
-2024/03/28 02:27:45 Skipping writing post, no content: https://www.hltv.org/news/38635/device-woxic-xertion-and-more-on-hltv-confirmed-live-from-copenhagen
-2024/03/28 02:27:45 Skipping writing post, no content: https://www.hltv.org/news/38619/zipel-i-think-we-are-the-org-that-has-made-it-to-a-major-with-by-far-the-least-resources
-2024/03/28 02:27:45 Skipping writing post, no content: https://www.hltv.org/news/38633/iem-chengdu-groups-and-opening-matchups-revealed
-2024/03/28 02:27:45 Skipping writing post, no content: https://www.hltv.org/news/38630/eyeballers-sign-golden
-2024/03/28 02:27:45 Skipping writing post, no content: https://www.hltv.org/news/38631/m80-confirm-s1n-signing
-2024/03/28 02:27:45 Templated 92 posts, took 40.175186ms
+2024/03/28 02:40:21 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/28 02:40:21 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 189.613452ms
+2024/03/28 02:40:21 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 205.439363ms
+2024/03/28 02:40:21 Content still empty after HTML reader: https://www.hltv.org/news/38638/is-the-new-generation-large-and-in-charge-or-are-the-old-guard-still-kings
+2024/03/28 02:40:21 Content still empty after HTML reader: https://www.hltv.org/news/38637/major-playoffs-fantasy-starts-soon-with-increased-points
+2024/03/28 02:40:21 Content still empty after HTML reader: https://www.hltv.org/news/38636/thunderpick-wc-eu-qualifier-teams-revealed
+2024/03/28 02:40:21 Content still empty after HTML reader: https://www.hltv.org/news/38634/can-faze-level-up-in-the-arena-and-stop-spirit
+2024/03/28 02:40:21 Content still empty after HTML reader: https://www.hltv.org/news/38635/device-woxic-xertion-and-more-on-hltv-confirmed-live-from-copenhagen
+2024/03/28 02:40:21 Content still empty after HTML reader: https://www.hltv.org/news/38619/zipel-i-think-we-are-the-org-that-has-made-it-to-a-major-with-by-far-the-least-resources
+2024/03/28 02:40:21 Content still empty after HTML reader: https://www.hltv.org/news/38633/iem-chengdu-groups-and-opening-matchups-revealed
+2024/03/28 02:40:21 Content still empty after HTML reader: https://www.hltv.org/news/38632/official-dupreeh-joins-falcons
+2024/03/28 02:40:21 Content still empty after HTML reader: https://www.hltv.org/news/38630/eyeballers-sign-golden
+2024/03/28 02:40:21 Content still empty after HTML reader: https://www.hltv.org/news/38631/m80-confirm-s1n-signing
+2024/03/28 02:40:21 Fetched posts from https://www.hltv.org/rss/news, took 436.890458ms
+2024/03/28 02:40:22 Fetched posts from https://vlr.gg/rss, took 1.554244384s
+2024/03/28 02:40:23 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.373800937s
+2024/03/28 02:40:23 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.73583002s
+2024/03/28 02:40:24 Fetched posts from https://blogtienao.com/feed, took 3.271800497s
+2024/03/28 02:40:36 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.316241913s
+2024/03/28 02:40:36 Skipping writing post, no content: https://www.hltv.org/news/38638/is-the-new-generation-large-and-in-charge-or-are-the-old-guard-still-kings
+2024/03/28 02:40:36 Skipping writing post, no content: https://www.hltv.org/news/38637/major-playoffs-fantasy-starts-soon-with-increased-points
+2024/03/28 02:40:36 Skipping writing post, no content: https://www.hltv.org/news/38636/thunderpick-wc-eu-qualifier-teams-revealed
+2024/03/28 02:40:36 Skipping writing post, no content: https://www.hltv.org/news/38634/can-faze-level-up-in-the-arena-and-stop-spirit
+2024/03/28 02:40:36 Skipping writing post, no content: https://www.hltv.org/news/38635/device-woxic-xertion-and-more-on-hltv-confirmed-live-from-copenhagen
+2024/03/28 02:40:36 Skipping writing post, no content: https://www.hltv.org/news/38619/zipel-i-think-we-are-the-org-that-has-made-it-to-a-major-with-by-far-the-least-resources
+2024/03/28 02:40:36 Skipping writing post, no content: https://www.hltv.org/news/38633/iem-chengdu-groups-and-opening-matchups-revealed
+2024/03/28 02:40:36 Skipping writing post, no content: https://www.hltv.org/news/38632/official-dupreeh-joins-falcons
+2024/03/28 02:40:36 Skipping writing post, no content: https://www.hltv.org/news/38630/eyeballers-sign-golden
+2024/03/28 02:40:36 Skipping writing post, no content: https://www.hltv.org/news/38631/m80-confirm-s1n-signing
+2024/03/28 02:40:36 Templated 92 posts, took 14.96328ms
