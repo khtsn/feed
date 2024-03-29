@@ -1,28 +1,32 @@
-2024/03/29 13:52:24 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/29 13:52:24 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 149.69096ms
-2024/03/29 13:52:24 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 178.454122ms
-2024/03/29 13:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38648/hally-interview-faze-defeat-lack-of-practice-due-to-illness-vertigo-decision
-2024/03/29 13:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38647/live-updates-from-pgl-major-copenhagen-quarter-finals-day-2
-2024/03/29 13:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38651/jottaaa-joins-sangal
-2024/03/29 13:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38649/rare-atom-down-to-two-as-european-contingent-leaves
-2024/03/29 13:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38646/faze-outlast-spirit-in-instant-classic-in-copenhagen
-2024/03/29 13:52:25 Fetched posts from https://vlr.gg/rss, took 791.437862ms
-2024/03/29 13:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38645/flyquest-sign-ex-grayhound-roster
-2024/03/29 13:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38644/vitality-demolish-cloud9-to-secure-semi-final-berth
-2024/03/29 13:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38642/pgl-reveals-details-on-major-ticket-sales
-2024/03/29 13:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38639/gamerlegion-announce-keoz-benching
-2024/03/29 13:52:25 Fetched posts from https://www.hltv.org/rss/news, took 822.828674ms
-2024/03/29 13:52:26 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.517503679s
-2024/03/29 13:52:26 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.580649564s
-2024/03/29 13:52:27 Fetched posts from https://blogtienao.com/feed, took 2.485344678s
-2024/03/29 13:52:44 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.796759671s
-2024/03/29 13:52:44 Skipping writing post, no content: https://www.hltv.org/news/38648/hally-interview-faze-defeat-lack-of-practice-due-to-illness-vertigo-decision
-2024/03/29 13:52:44 Skipping writing post, no content: https://www.hltv.org/news/38647/live-updates-from-pgl-major-copenhagen-quarter-finals-day-2
-2024/03/29 13:52:44 Skipping writing post, no content: https://www.hltv.org/news/38651/jottaaa-joins-sangal
-2024/03/29 13:52:44 Skipping writing post, no content: https://www.hltv.org/news/38649/rare-atom-down-to-two-as-european-contingent-leaves
-2024/03/29 13:52:44 Skipping writing post, no content: https://www.hltv.org/news/38646/faze-outlast-spirit-in-instant-classic-in-copenhagen
-2024/03/29 13:52:44 Skipping writing post, no content: https://www.hltv.org/news/38645/flyquest-sign-ex-grayhound-roster
-2024/03/29 13:52:44 Skipping writing post, no content: https://www.hltv.org/news/38644/vitality-demolish-cloud9-to-secure-semi-final-berth
-2024/03/29 13:52:44 Skipping writing post, no content: https://www.hltv.org/news/38642/pgl-reveals-details-on-major-ticket-sales
-2024/03/29 13:52:44 Skipping writing post, no content: https://www.hltv.org/news/38639/gamerlegion-announce-keoz-benching
-2024/03/29 13:52:44 Templated 89 posts, took 14.254508ms
+2024/03/29 14:14:08 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/29 14:14:08 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 113.573483ms
+2024/03/29 14:14:08 Content still empty after HTML reader: https://www.hltv.org/news/38648/hally-interview-faze-defeat-lack-of-practice-due-to-illness-vertigo-decision
+2024/03/29 14:14:08 Content still empty after HTML reader: https://www.hltv.org/news/38647/live-updates-from-pgl-major-copenhagen-quarter-finals-day-2
+2024/03/29 14:14:08 Content still empty after HTML reader: https://www.hltv.org/news/38651/jottaaa-joins-sangal
+2024/03/29 14:14:08 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 206.974627ms
+2024/03/29 14:14:08 Content still empty after HTML reader: https://www.hltv.org/news/38649/rare-atom-down-to-two-as-european-contingent-leaves
+2024/03/29 14:14:08 Content still empty after HTML reader: https://www.hltv.org/news/38643/we-want-to-show-the-power-of-esports-eternal-fires-watch-parties-will-get-bigger-and-bigger
+2024/03/29 14:14:08 Content still empty after HTML reader: https://www.hltv.org/news/38646/faze-outlast-spirit-in-instant-classic-in-copenhagen
+2024/03/29 14:14:08 Content still empty after HTML reader: https://www.nytimes.com/2024/03/26/us/key-bridge-collapse-baltimore-what-to-know.html
+2024/03/29 14:14:08 Content still empty after HTML reader: https://www.hltv.org/news/38645/flyquest-sign-ex-grayhound-roster
+2024/03/29 14:14:08 Content still empty after HTML reader: https://www.hltv.org/news/38644/vitality-demolish-cloud9-to-secure-semi-final-berth
+2024/03/29 14:14:08 Content still empty after HTML reader: https://www.hltv.org/news/38642/pgl-reveals-details-on-major-ticket-sales
+2024/03/29 14:14:08 Content still empty after HTML reader: https://www.hltv.org/news/38639/gamerlegion-announce-keoz-benching
+2024/03/29 14:14:08 Fetched posts from https://www.hltv.org/rss/news, took 285.64971ms
+2024/03/29 14:14:09 Fetched posts from https://vlr.gg/rss, took 842.646068ms
+2024/03/29 14:14:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.03171465s
+2024/03/29 14:14:09 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.200005451s
+2024/03/29 14:14:11 Fetched posts from https://blogtienao.com/feed, took 3.023882023s
+2024/03/29 14:14:23 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.218918257s
+2024/03/29 14:14:23 Skipping writing post, no content: https://www.hltv.org/news/38648/hally-interview-faze-defeat-lack-of-practice-due-to-illness-vertigo-decision
+2024/03/29 14:14:23 Skipping writing post, no content: https://www.hltv.org/news/38647/live-updates-from-pgl-major-copenhagen-quarter-finals-day-2
+2024/03/29 14:14:23 Skipping writing post, no content: https://www.hltv.org/news/38651/jottaaa-joins-sangal
+2024/03/29 14:14:23 Skipping writing post, no content: https://www.hltv.org/news/38649/rare-atom-down-to-two-as-european-contingent-leaves
+2024/03/29 14:14:23 Skipping writing post, no content: https://www.hltv.org/news/38643/we-want-to-show-the-power-of-esports-eternal-fires-watch-parties-will-get-bigger-and-bigger
+2024/03/29 14:14:23 Skipping writing post, no content: https://www.nytimes.com/2024/03/26/us/key-bridge-collapse-baltimore-what-to-know.html
+2024/03/29 14:14:23 Skipping writing post, no content: https://www.hltv.org/news/38646/faze-outlast-spirit-in-instant-classic-in-copenhagen
+2024/03/29 14:14:23 Skipping writing post, no content: https://www.hltv.org/news/38645/flyquest-sign-ex-grayhound-roster
+2024/03/29 14:14:23 Skipping writing post, no content: https://www.hltv.org/news/38644/vitality-demolish-cloud9-to-secure-semi-final-berth
+2024/03/29 14:14:23 Skipping writing post, no content: https://www.hltv.org/news/38642/pgl-reveals-details-on-major-ticket-sales
+2024/03/29 14:14:23 Skipping writing post, no content: https://www.hltv.org/news/38639/gamerlegion-announce-keoz-benching
+2024/03/29 14:14:23 Templated 89 posts, took 13.837026ms
