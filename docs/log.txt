@@ -1,28 +1,30 @@
-2024/03/30 09:37:42 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/30 09:37:42 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 126.268445ms
-2024/03/30 09:37:42 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 184.973679ms
-2024/03/30 09:37:43 Content still empty after HTML reader: https://www.hltv.org/news/38656/official-stewie2k-joins-legacy-as-stand-in
-2024/03/30 09:37:43 Content still empty after HTML reader: https://www.hltv.org/news/38653/im-if-we-win-the-major-and-im-last-on-the-scoreboard-no-one-cares
-2024/03/30 09:37:43 Content still empty after HTML reader: https://www.hltv.org/news/38655/g2-brush-aside-mouz-to-reach-semi-finals-in-copenhagen
-2024/03/30 09:37:43 Content still empty after HTML reader: https://www.hltv.org/news/38647/live-updates-from-pgl-major-copenhagen-quarter-finals-day-2
-2024/03/30 09:37:43 Content still empty after HTML reader: https://www.hltv.org/news/38654/audience-members-storm-major-stage-during-g2-vs-mouz-match
-2024/03/30 09:37:43 Content still empty after HTML reader: https://www.hltv.org/news/38652/w0nderful-stars-as-navi-secure-semi-final-spot-over-eternal-fire
-2024/03/30 09:37:43 Content still empty after HTML reader: https://www.hltv.org/news/38650/frozen-on-floating-vertigo-it-was-a-good-chance-to-put-our-balls-on-the-table
-2024/03/30 09:37:43 Content still empty after HTML reader: https://www.hltv.org/news/38651/jottaaa-joins-sangal
-2024/03/30 09:37:43 Content still empty after HTML reader: https://www.hltv.org/news/38649/rare-atom-down-to-two-as-european-contingent-leaves
-2024/03/30 09:37:43 Fetched posts from https://www.hltv.org/rss/news, took 401.582972ms
-2024/03/30 09:37:43 Fetched posts from https://vlr.gg/rss, took 601.573029ms
-2024/03/30 09:37:43 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.123134939s
-2024/03/30 09:37:43 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.229582347s
-2024/03/30 09:37:48 Fetched posts from https://blogtienao.com/feed, took 5.271694879s
-2024/03/30 09:38:00 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.998202933s
-2024/03/30 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/38656/official-stewie2k-joins-legacy-as-stand-in
-2024/03/30 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/38653/im-if-we-win-the-major-and-im-last-on-the-scoreboard-no-one-cares
-2024/03/30 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/38655/g2-brush-aside-mouz-to-reach-semi-finals-in-copenhagen
-2024/03/30 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/38647/live-updates-from-pgl-major-copenhagen-quarter-finals-day-2
-2024/03/30 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/38654/audience-members-storm-major-stage-during-g2-vs-mouz-match
-2024/03/30 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/38652/w0nderful-stars-as-navi-secure-semi-final-spot-over-eternal-fire
-2024/03/30 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/38650/frozen-on-floating-vertigo-it-was-a-good-chance-to-put-our-balls-on-the-table
-2024/03/30 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/38651/jottaaa-joins-sangal
-2024/03/30 09:38:00 Skipping writing post, no content: https://www.hltv.org/news/38649/rare-atom-down-to-two-as-european-contingent-leaves
-2024/03/30 09:38:00 Templated 91 posts, took 13.940797ms
+2024/03/30 09:52:10 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/30 09:52:10 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 155.159183ms
+2024/03/30 09:52:10 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 198.286214ms
+2024/03/30 09:52:10 Content still empty after HTML reader: https://www.hltv.org/news/38656/official-stewie2k-joins-legacy-as-stand-in
+2024/03/30 09:52:10 Content still empty after HTML reader: https://www.hltv.org/news/38653/im-if-we-win-the-major-and-im-last-on-the-scoreboard-no-one-cares
+2024/03/30 09:52:10 Content still empty after HTML reader: https://www.hltv.org/news/38655/g2-brush-aside-mouz-to-reach-semi-finals-in-copenhagen
+2024/03/30 09:52:10 Content still empty after HTML reader: https://www.hltv.org/news/38647/live-updates-from-pgl-major-copenhagen-quarter-finals-day-2
+2024/03/30 09:52:10 Content still empty after HTML reader: https://www.hltv.org/news/38654/audience-members-storm-major-stage-during-g2-vs-mouz-match
+2024/03/30 09:52:10 Content still empty after HTML reader: https://www.hltv.org/news/38652/w0nderful-stars-as-navi-secure-semi-final-spot-over-eternal-fire
+2024/03/30 09:52:10 Content still empty after HTML reader: https://www.hltv.org/news/38650/frozen-on-floating-vertigo-it-was-a-good-chance-to-put-our-balls-on-the-table
+2024/03/30 09:52:10 Content still empty after HTML reader: https://www.hltv.org/news/38648/hally-interview-faze-defeat-lack-of-practice-due-to-illness-vertigo-decision
+2024/03/30 09:52:10 Content still empty after HTML reader: https://www.hltv.org/news/38651/jottaaa-joins-sangal
+2024/03/30 09:52:10 Content still empty after HTML reader: https://www.hltv.org/news/38649/rare-atom-down-to-two-as-european-contingent-leaves
+2024/03/30 09:52:10 Fetched posts from https://www.hltv.org/rss/news, took 396.958032ms
+2024/03/30 09:52:10 Fetched posts from https://vlr.gg/rss, took 479.394325ms
+2024/03/30 09:52:11 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 953.122317ms
+2024/03/30 09:52:11 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.008465567s
+2024/03/30 09:52:12 Fetched posts from https://blogtienao.com/feed, took 2.163969042s
+2024/03/30 09:52:28 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.870153974s
+2024/03/30 09:52:28 Skipping writing post, no content: https://www.hltv.org/news/38656/official-stewie2k-joins-legacy-as-stand-in
+2024/03/30 09:52:28 Skipping writing post, no content: https://www.hltv.org/news/38653/im-if-we-win-the-major-and-im-last-on-the-scoreboard-no-one-cares
+2024/03/30 09:52:28 Skipping writing post, no content: https://www.hltv.org/news/38655/g2-brush-aside-mouz-to-reach-semi-finals-in-copenhagen
+2024/03/30 09:52:28 Skipping writing post, no content: https://www.hltv.org/news/38647/live-updates-from-pgl-major-copenhagen-quarter-finals-day-2
+2024/03/30 09:52:28 Skipping writing post, no content: https://www.hltv.org/news/38654/audience-members-storm-major-stage-during-g2-vs-mouz-match
+2024/03/30 09:52:28 Skipping writing post, no content: https://www.hltv.org/news/38652/w0nderful-stars-as-navi-secure-semi-final-spot-over-eternal-fire
+2024/03/30 09:52:28 Skipping writing post, no content: https://www.hltv.org/news/38650/frozen-on-floating-vertigo-it-was-a-good-chance-to-put-our-balls-on-the-table
+2024/03/30 09:52:28 Skipping writing post, no content: https://www.hltv.org/news/38648/hally-interview-faze-defeat-lack-of-practice-due-to-illness-vertigo-decision
+2024/03/30 09:52:28 Skipping writing post, no content: https://www.hltv.org/news/38651/jottaaa-joins-sangal
+2024/03/30 09:52:28 Skipping writing post, no content: https://www.hltv.org/news/38649/rare-atom-down-to-two-as-european-contingent-leaves
+2024/03/30 09:52:28 Templated 90 posts, took 16.104812ms
