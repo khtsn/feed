@@ -1,28 +1,30 @@
-2024/03/31 17:27:20 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/31 17:27:20 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 219.773397ms
-2024/03/31 17:27:20 Content still empty after HTML reader: https://www.hltv.org/news/38664/pgl-announces-11-tier-one-events-for-2025-2026
-2024/03/31 17:27:20 Content still empty after HTML reader: https://www.hltv.org/news/38663/live-updates-from-pgl-major-copenhagen-grand-final
-2024/03/31 17:27:20 Content still empty after HTML reader: https://www.hltv.org/news/38662/aleksib-i-feel-like-we-could-be-unstoppable
-2024/03/31 17:27:20 Content still empty after HTML reader: https://www.hltv.org/news/38661/navi-move-on-to-copenhagen-major-final-over-g2
-2024/03/31 17:27:20 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 427.676222ms
-2024/03/31 17:27:20 Content still empty after HTML reader: https://www.hltv.org/news/38658/live-updates-from-pgl-major-copenhagen-semi-finals
-2024/03/31 17:27:20 Content still empty after HTML reader: https://www.hltv.org/news/38659/faze-beat-vitality-to-book-major-final-spot
-2024/03/31 17:27:20 Content still empty after HTML reader: https://www.hltv.org/news/38657/participants-withdraw-from-csgoempire-cup-after-major-disruption
-2024/03/31 17:27:20 Content still empty after HTML reader: https://www.hltv.org/news/38656/official-stewie2k-joins-legacy-as-stand-in
-2024/03/31 17:27:20 Content still empty after HTML reader: https://www.hltv.org/news/38653/im-if-we-win-the-major-and-im-last-on-the-scoreboard-no-one-cares
-2024/03/31 17:27:20 Fetched posts from https://www.hltv.org/rss/news, took 522.005035ms
-2024/03/31 17:27:20 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 999.307175ms
-2024/03/31 17:27:21 Fetched posts from https://vlr.gg/rss, took 1.215050773s
-2024/03/31 17:27:21 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.263179386s
-2024/03/31 17:27:23 Fetched posts from https://blogtienao.com/feed, took 3.222387444s
-2024/03/31 17:27:33 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.577386908s
-2024/03/31 17:27:33 Skipping writing post, no content: https://www.hltv.org/news/38664/pgl-announces-11-tier-one-events-for-2025-2026
-2024/03/31 17:27:33 Skipping writing post, no content: https://www.hltv.org/news/38663/live-updates-from-pgl-major-copenhagen-grand-final
-2024/03/31 17:27:33 Skipping writing post, no content: https://www.hltv.org/news/38662/aleksib-i-feel-like-we-could-be-unstoppable
-2024/03/31 17:27:33 Skipping writing post, no content: https://www.hltv.org/news/38661/navi-move-on-to-copenhagen-major-final-over-g2
-2024/03/31 17:27:33 Skipping writing post, no content: https://www.hltv.org/news/38658/live-updates-from-pgl-major-copenhagen-semi-finals
-2024/03/31 17:27:33 Skipping writing post, no content: https://www.hltv.org/news/38659/faze-beat-vitality-to-book-major-final-spot
-2024/03/31 17:27:33 Skipping writing post, no content: https://www.hltv.org/news/38657/participants-withdraw-from-csgoempire-cup-after-major-disruption
-2024/03/31 17:27:33 Skipping writing post, no content: https://www.hltv.org/news/38656/official-stewie2k-joins-legacy-as-stand-in
-2024/03/31 17:27:33 Skipping writing post, no content: https://www.hltv.org/news/38653/im-if-we-win-the-major-and-im-last-on-the-scoreboard-no-one-cares
-2024/03/31 17:27:33 Templated 77 posts, took 12.994673ms
+2024/03/31 17:39:24 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 188.328391ms
+2024/03/31 17:39:24 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/31 17:39:24 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 237.795296ms
+2024/03/31 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38664/pgl-announces-11-tier-one-events-for-2025-2026
+2024/03/31 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38663/live-updates-from-pgl-major-copenhagen-grand-final
+2024/03/31 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38662/aleksib-i-feel-like-we-could-be-unstoppable
+2024/03/31 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38661/navi-move-on-to-copenhagen-major-final-over-g2
+2024/03/31 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38658/live-updates-from-pgl-major-copenhagen-semi-finals
+2024/03/31 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38660/neo-weve-had-close-to-20-practices-on-vertigo-after-katowice
+2024/03/31 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38659/faze-beat-vitality-to-book-major-final-spot
+2024/03/31 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38657/participants-withdraw-from-csgoempire-cup-after-major-disruption
+2024/03/31 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38656/official-stewie2k-joins-legacy-as-stand-in
+2024/03/31 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38653/im-if-we-win-the-major-and-im-last-on-the-scoreboard-no-one-cares
+2024/03/31 17:39:24 Fetched posts from https://www.hltv.org/rss/news, took 422.563246ms
+2024/03/31 17:39:24 Fetched posts from https://vlr.gg/rss, took 622.629445ms
+2024/03/31 17:39:24 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 849.174719ms
+2024/03/31 17:39:25 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.742445208s
+2024/03/31 17:39:26 Fetched posts from https://blogtienao.com/feed, took 2.51285144s
+2024/03/31 17:39:39 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.20411828s
+2024/03/31 17:39:39 Skipping writing post, no content: https://www.hltv.org/news/38664/pgl-announces-11-tier-one-events-for-2025-2026
+2024/03/31 17:39:39 Skipping writing post, no content: https://www.hltv.org/news/38663/live-updates-from-pgl-major-copenhagen-grand-final
+2024/03/31 17:39:39 Skipping writing post, no content: https://www.hltv.org/news/38662/aleksib-i-feel-like-we-could-be-unstoppable
+2024/03/31 17:39:39 Skipping writing post, no content: https://www.hltv.org/news/38661/navi-move-on-to-copenhagen-major-final-over-g2
+2024/03/31 17:39:39 Skipping writing post, no content: https://www.hltv.org/news/38658/live-updates-from-pgl-major-copenhagen-semi-finals
+2024/03/31 17:39:39 Skipping writing post, no content: https://www.hltv.org/news/38660/neo-weve-had-close-to-20-practices-on-vertigo-after-katowice
+2024/03/31 17:39:39 Skipping writing post, no content: https://www.hltv.org/news/38659/faze-beat-vitality-to-book-major-final-spot
+2024/03/31 17:39:39 Skipping writing post, no content: https://www.hltv.org/news/38657/participants-withdraw-from-csgoempire-cup-after-major-disruption
+2024/03/31 17:39:39 Skipping writing post, no content: https://www.hltv.org/news/38656/official-stewie2k-joins-legacy-as-stand-in
+2024/03/31 17:39:39 Skipping writing post, no content: https://www.hltv.org/news/38653/im-if-we-win-the-major-and-im-last-on-the-scoreboard-no-one-cares
+2024/03/31 17:39:39 Templated 77 posts, took 12.178446ms
