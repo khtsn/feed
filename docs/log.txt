@@ -1,30 +1,32 @@
-2024/03/31 08:38:51 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/03/31 08:38:51 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 112.509326ms
-2024/03/31 08:38:51 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 187.562665ms
-2024/03/31 08:38:51 Content still empty after HTML reader: https://www.hltv.org/news/38661/navi-move-on-to-copenhagen-major-final-over-g2
-2024/03/31 08:38:51 Content still empty after HTML reader: https://www.hltv.org/news/38658/live-updates-from-pgl-major-copenhagen-semi-finals
-2024/03/31 08:38:51 Content still empty after HTML reader: https://www.hltv.org/news/38660/neo-weve-had-close-to-20-practices-on-vertigo-after-katowice
-2024/03/31 08:38:51 Content still empty after HTML reader: https://www.hltv.org/news/38659/faze-beat-vitality-to-book-major-final-spot
-2024/03/31 08:38:51 Content still empty after HTML reader: https://www.hltv.org/news/38657/participants-withdraw-from-csgoempire-cup-after-major-disruption
-2024/03/31 08:38:51 Content still empty after HTML reader: https://www.hltv.org/news/38656/official-stewie2k-joins-legacy-as-stand-in
-2024/03/31 08:38:51 Content still empty after HTML reader: https://www.hltv.org/news/38653/im-if-we-win-the-major-and-im-last-on-the-scoreboard-no-one-cares
-2024/03/31 08:38:51 Content still empty after HTML reader: https://www.hltv.org/news/38655/g2-brush-aside-mouz-to-reach-semi-finals-in-copenhagen
-2024/03/31 08:38:51 Content still empty after HTML reader: https://www.hltv.org/news/38647/live-updates-from-pgl-major-copenhagen-quarter-finals-day-2
-2024/03/31 08:38:51 Content still empty after HTML reader: https://www.hltv.org/news/38654/audience-members-storm-major-stage-during-g2-vs-mouz-match
-2024/03/31 08:38:51 Fetched posts from https://www.hltv.org/rss/news, took 345.511874ms
-2024/03/31 08:38:52 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 653.978817ms
-2024/03/31 08:38:52 Fetched posts from https://vlr.gg/rss, took 802.716418ms
-2024/03/31 08:38:53 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.51765256s
-2024/03/31 08:38:53 Fetched posts from https://blogtienao.com/feed, took 2.200207207s
-2024/03/31 08:39:09 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.600639508s
-2024/03/31 08:39:09 Skipping writing post, no content: https://www.hltv.org/news/38661/navi-move-on-to-copenhagen-major-final-over-g2
-2024/03/31 08:39:09 Skipping writing post, no content: https://www.hltv.org/news/38658/live-updates-from-pgl-major-copenhagen-semi-finals
-2024/03/31 08:39:09 Skipping writing post, no content: https://www.hltv.org/news/38660/neo-weve-had-close-to-20-practices-on-vertigo-after-katowice
-2024/03/31 08:39:09 Skipping writing post, no content: https://www.hltv.org/news/38659/faze-beat-vitality-to-book-major-final-spot
-2024/03/31 08:39:09 Skipping writing post, no content: https://www.hltv.org/news/38657/participants-withdraw-from-csgoempire-cup-after-major-disruption
-2024/03/31 08:39:09 Skipping writing post, no content: https://www.hltv.org/news/38656/official-stewie2k-joins-legacy-as-stand-in
-2024/03/31 08:39:09 Skipping writing post, no content: https://www.hltv.org/news/38653/im-if-we-win-the-major-and-im-last-on-the-scoreboard-no-one-cares
-2024/03/31 08:39:09 Skipping writing post, no content: https://www.hltv.org/news/38655/g2-brush-aside-mouz-to-reach-semi-finals-in-copenhagen
-2024/03/31 08:39:09 Skipping writing post, no content: https://www.hltv.org/news/38647/live-updates-from-pgl-major-copenhagen-quarter-finals-day-2
-2024/03/31 08:39:09 Skipping writing post, no content: https://www.hltv.org/news/38654/audience-members-storm-major-stage-during-g2-vs-mouz-match
-2024/03/31 08:39:09 Templated 82 posts, took 12.663816ms
+2024/03/31 08:52:12 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 243.618283ms
+2024/03/31 08:52:12 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/03/31 08:52:12 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 248.494158ms
+2024/03/31 08:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38661/navi-move-on-to-copenhagen-major-final-over-g2
+2024/03/31 08:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38658/live-updates-from-pgl-major-copenhagen-semi-finals
+2024/03/31 08:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38660/neo-weve-had-close-to-20-practices-on-vertigo-after-katowice
+2024/03/31 08:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38659/faze-beat-vitality-to-book-major-final-spot
+2024/03/31 08:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38657/participants-withdraw-from-csgoempire-cup-after-major-disruption
+2024/03/31 08:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38656/official-stewie2k-joins-legacy-as-stand-in
+2024/03/31 08:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38653/im-if-we-win-the-major-and-im-last-on-the-scoreboard-no-one-cares
+2024/03/31 08:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38655/g2-brush-aside-mouz-to-reach-semi-finals-in-copenhagen
+2024/03/31 08:52:12 Content still empty after HTML reader: https://www.nytimes.com/2024/03/30/opinion/trump-god-religion-easter.html
+2024/03/31 08:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38647/live-updates-from-pgl-major-copenhagen-quarter-finals-day-2
+2024/03/31 08:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38654/audience-members-storm-major-stage-during-g2-vs-mouz-match
+2024/03/31 08:52:12 Fetched posts from https://www.hltv.org/rss/news, took 421.189482ms
+2024/03/31 08:52:12 Fetched posts from https://vlr.gg/rss, took 433.39074ms
+2024/03/31 08:52:13 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 832.664837ms
+2024/03/31 08:52:13 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 906.430035ms
+2024/03/31 08:52:14 Fetched posts from https://blogtienao.com/feed, took 2.171642108s
+2024/03/31 08:52:30 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.765393367s
+2024/03/31 08:52:30 Skipping writing post, no content: https://www.hltv.org/news/38661/navi-move-on-to-copenhagen-major-final-over-g2
+2024/03/31 08:52:30 Skipping writing post, no content: https://www.hltv.org/news/38658/live-updates-from-pgl-major-copenhagen-semi-finals
+2024/03/31 08:52:30 Skipping writing post, no content: https://www.hltv.org/news/38660/neo-weve-had-close-to-20-practices-on-vertigo-after-katowice
+2024/03/31 08:52:30 Skipping writing post, no content: https://www.hltv.org/news/38659/faze-beat-vitality-to-book-major-final-spot
+2024/03/31 08:52:30 Skipping writing post, no content: https://www.nytimes.com/2024/03/30/opinion/trump-god-religion-easter.html
+2024/03/31 08:52:30 Skipping writing post, no content: https://www.hltv.org/news/38657/participants-withdraw-from-csgoempire-cup-after-major-disruption
+2024/03/31 08:52:30 Skipping writing post, no content: https://www.hltv.org/news/38656/official-stewie2k-joins-legacy-as-stand-in
+2024/03/31 08:52:30 Skipping writing post, no content: https://www.hltv.org/news/38653/im-if-we-win-the-major-and-im-last-on-the-scoreboard-no-one-cares
+2024/03/31 08:52:30 Skipping writing post, no content: https://www.hltv.org/news/38655/g2-brush-aside-mouz-to-reach-semi-finals-in-copenhagen
+2024/03/31 08:52:30 Skipping writing post, no content: https://www.hltv.org/news/38647/live-updates-from-pgl-major-copenhagen-quarter-finals-day-2
+2024/03/31 08:52:30 Skipping writing post, no content: https://www.hltv.org/news/38654/audience-members-storm-major-stage-during-g2-vs-mouz-match
+2024/03/31 08:52:30 Templated 82 posts, took 13.399904ms
