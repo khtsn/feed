@@ -1,30 +1,30 @@
-2024/04/01 11:52:23 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 116.123643ms
-2024/04/01 11:52:23 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/01 11:52:23 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 267.939699ms
-2024/04/01 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38672/endpoint-transfer-sl3nd
-2024/04/01 11:52:23 Fetched posts from https://vlr.gg/rss, took 337.2556ms
-2024/04/01 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38671/entropiq-bench-trio
-2024/04/01 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38670/navi-qualify-for-ewc-and-blast-world-final
-2024/04/01 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38669/jl-fk-aleksib-haters
-2024/04/01 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38668/pgl-major-copenhagen-had-third-highest-peak-viewership-in-cs-history
-2024/04/01 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38667/jl-claims-pgl-major-copenhagen-mvp-award
-2024/04/01 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38663/live-updates-from-pgl-major-copenhagen-grand-final
-2024/04/01 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38666/navi-beat-faze-to-win-pgl-major-copenhagen
-2024/04/01 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38665/belgrade-to-host-500000-betboom-dacha-event
-2024/04/01 11:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38664/pgl-announces-11-tier-one-events-for-2025-2026
-2024/04/01 11:52:23 Fetched posts from https://www.hltv.org/rss/news, took 453.848478ms
-2024/04/01 11:52:24 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.122448188s
-2024/04/01 11:52:24 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.165285984s
-2024/04/01 11:52:25 Fetched posts from https://blogtienao.com/feed, took 2.134865984s
-2024/04/01 11:52:39 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.914991533s
-2024/04/01 11:52:39 Skipping writing post, no content: https://www.hltv.org/news/38672/endpoint-transfer-sl3nd
-2024/04/01 11:52:39 Skipping writing post, no content: https://www.hltv.org/news/38671/entropiq-bench-trio
-2024/04/01 11:52:39 Skipping writing post, no content: https://www.hltv.org/news/38670/navi-qualify-for-ewc-and-blast-world-final
-2024/04/01 11:52:39 Skipping writing post, no content: https://www.hltv.org/news/38669/jl-fk-aleksib-haters
-2024/04/01 11:52:39 Skipping writing post, no content: https://www.hltv.org/news/38668/pgl-major-copenhagen-had-third-highest-peak-viewership-in-cs-history
-2024/04/01 11:52:39 Skipping writing post, no content: https://www.hltv.org/news/38667/jl-claims-pgl-major-copenhagen-mvp-award
-2024/04/01 11:52:39 Skipping writing post, no content: https://www.hltv.org/news/38663/live-updates-from-pgl-major-copenhagen-grand-final
-2024/04/01 11:52:39 Skipping writing post, no content: https://www.hltv.org/news/38666/navi-beat-faze-to-win-pgl-major-copenhagen
-2024/04/01 11:52:39 Skipping writing post, no content: https://www.hltv.org/news/38665/belgrade-to-host-500000-betboom-dacha-event
-2024/04/01 11:52:39 Skipping writing post, no content: https://www.hltv.org/news/38664/pgl-announces-11-tier-one-events-for-2025-2026
-2024/04/01 11:52:39 Templated 78 posts, took 12.006017ms
+2024/04/01 12:32:05 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/01 12:32:05 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 133.134241ms
+2024/04/01 12:32:05 Fetched posts from https://vlr.gg/rss, took 279.275688ms
+2024/04/01 12:32:05 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 310.669607ms
+2024/04/01 12:32:05 Content still empty after HTML reader: https://www.hltv.org/news/38672/endpoint-transfer-sl3nd
+2024/04/01 12:32:05 Content still empty after HTML reader: https://www.hltv.org/news/38671/entropiq-bench-trio
+2024/04/01 12:32:05 Content still empty after HTML reader: https://www.hltv.org/news/38670/navi-qualify-for-ewc-and-blast-world-final
+2024/04/01 12:32:05 Content still empty after HTML reader: https://www.hltv.org/news/38669/jl-fk-aleksib-haters
+2024/04/01 12:32:05 Content still empty after HTML reader: https://www.hltv.org/news/38668/pgl-major-copenhagen-had-third-highest-peak-viewership-in-cs-history
+2024/04/01 12:32:05 Content still empty after HTML reader: https://www.hltv.org/news/38667/jl-claims-pgl-major-copenhagen-mvp-award
+2024/04/01 12:32:05 Content still empty after HTML reader: https://www.hltv.org/news/38663/live-updates-from-pgl-major-copenhagen-grand-final
+2024/04/01 12:32:05 Content still empty after HTML reader: https://www.hltv.org/news/38666/navi-beat-faze-to-win-pgl-major-copenhagen
+2024/04/01 12:32:05 Content still empty after HTML reader: https://www.hltv.org/news/38665/belgrade-to-host-500000-betboom-dacha-event
+2024/04/01 12:32:05 Content still empty after HTML reader: https://www.hltv.org/news/38664/pgl-announces-11-tier-one-events-for-2025-2026
+2024/04/01 12:32:05 Fetched posts from https://www.hltv.org/rss/news, took 427.801635ms
+2024/04/01 12:32:06 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 699.718322ms
+2024/04/01 12:32:06 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 908.673715ms
+2024/04/01 12:32:07 Fetched posts from https://blogtienao.com/feed, took 2.18907064s
+2024/04/01 12:32:19 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.375718541s
+2024/04/01 12:32:19 Skipping writing post, no content: https://www.hltv.org/news/38672/endpoint-transfer-sl3nd
+2024/04/01 12:32:19 Skipping writing post, no content: https://www.hltv.org/news/38671/entropiq-bench-trio
+2024/04/01 12:32:19 Skipping writing post, no content: https://www.hltv.org/news/38670/navi-qualify-for-ewc-and-blast-world-final
+2024/04/01 12:32:19 Skipping writing post, no content: https://www.hltv.org/news/38669/jl-fk-aleksib-haters
+2024/04/01 12:32:19 Skipping writing post, no content: https://www.hltv.org/news/38668/pgl-major-copenhagen-had-third-highest-peak-viewership-in-cs-history
+2024/04/01 12:32:19 Skipping writing post, no content: https://www.hltv.org/news/38667/jl-claims-pgl-major-copenhagen-mvp-award
+2024/04/01 12:32:19 Skipping writing post, no content: https://www.hltv.org/news/38663/live-updates-from-pgl-major-copenhagen-grand-final
+2024/04/01 12:32:19 Skipping writing post, no content: https://www.hltv.org/news/38666/navi-beat-faze-to-win-pgl-major-copenhagen
+2024/04/01 12:32:19 Skipping writing post, no content: https://www.hltv.org/news/38665/belgrade-to-host-500000-betboom-dacha-event
+2024/04/01 12:32:19 Skipping writing post, no content: https://www.hltv.org/news/38664/pgl-announces-11-tier-one-events-for-2025-2026
+2024/04/01 12:32:19 Templated 78 posts, took 12.896031ms
