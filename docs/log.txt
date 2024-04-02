@@ -1,30 +1,32 @@
-2024/04/02 22:17:57 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/02 22:17:57 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 173.382478ms
-2024/04/02 22:17:57 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 229.979082ms
-2024/04/02 22:17:57 Fetched posts from https://vlr.gg/rss, took 799.192612ms
-2024/04/02 22:17:57 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 864.5281ms
-2024/04/02 22:17:57 Content still empty after HTML reader: https://www.hltv.org/news/38691/pain-replace-preasy-at-global-esports-tour-rio
-2024/04/02 22:17:57 Content still empty after HTML reader: https://www.hltv.org/news/38685/rounds-add-slowi-p3kko
-2024/04/02 22:17:57 Content still empty after HTML reader: https://www.hltv.org/news/38690/n1ssim-returns-to-sharks-after-pain-loan-deal-expires
-2024/04/02 22:17:57 Content still empty after HTML reader: https://www.hltv.org/news/38688/hooch-leaves-aurora
-2024/04/02 22:17:57 Content still empty after HTML reader: https://www.hltv.org/news/38687/fang-to-play-for-boss-whilst-searching-for-new-team
-2024/04/02 22:17:57 Content still empty after HTML reader: https://www.hltv.org/news/38686/rio-de-janeiro-to-host-iem-fall-2024
-2024/04/02 22:17:58 Content still empty after HTML reader: https://www.hltv.org/news/38684/discussing-navis-major-win-on-hltv-confirmed-with-semphis
-2024/04/02 22:17:58 Content still empty after HTML reader: https://www.hltv.org/news/38683/forze-bench-roster-r3salt-joins-aurora
-2024/04/02 22:17:58 Content still empty after HTML reader: https://www.hltv.org/news/38682/nip-confirm-r1nkle-signing
-2024/04/02 22:17:58 Content still empty after HTML reader: https://www.hltv.org/news/38674/bravado-to-move-to-europe-in-project-destiny-20
-2024/04/02 22:17:58 Fetched posts from https://www.hltv.org/rss/news, took 943.945314ms
-2024/04/02 22:17:58 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.011990236s
-2024/04/02 22:18:04 Fetched posts from https://blogtienao.com/feed, took 7.393992875s
-2024/04/02 22:18:09 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 12.85447187s
-2024/04/02 22:18:09 Skipping writing post, no content: https://www.hltv.org/news/38691/pain-replace-preasy-at-global-esports-tour-rio
-2024/04/02 22:18:09 Skipping writing post, no content: https://www.hltv.org/news/38685/rounds-add-slowi-p3kko
-2024/04/02 22:18:09 Skipping writing post, no content: https://www.hltv.org/news/38690/n1ssim-returns-to-sharks-after-pain-loan-deal-expires
-2024/04/02 22:18:09 Skipping writing post, no content: https://www.hltv.org/news/38688/hooch-leaves-aurora
-2024/04/02 22:18:09 Skipping writing post, no content: https://www.hltv.org/news/38687/fang-to-play-for-boss-whilst-searching-for-new-team
-2024/04/02 22:18:09 Skipping writing post, no content: https://www.hltv.org/news/38686/rio-de-janeiro-to-host-iem-fall-2024
-2024/04/02 22:18:09 Skipping writing post, no content: https://www.hltv.org/news/38684/discussing-navis-major-win-on-hltv-confirmed-with-semphis
-2024/04/02 22:18:09 Skipping writing post, no content: https://www.hltv.org/news/38683/forze-bench-roster-r3salt-joins-aurora
-2024/04/02 22:18:09 Skipping writing post, no content: https://www.hltv.org/news/38682/nip-confirm-r1nkle-signing
-2024/04/02 22:18:09 Skipping writing post, no content: https://www.hltv.org/news/38674/bravado-to-move-to-europe-in-project-destiny-20
-2024/04/02 22:18:09 Templated 81 posts, took 13.453441ms
+2024/04/02 22:37:20 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/02 22:37:20 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 168.036957ms
+2024/04/02 22:37:20 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 200.573383ms
+2024/04/02 22:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38691/pain-replace-preasy-at-global-esports-tour-rio
+2024/04/02 22:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38685/rounds-add-slowi-p3kko
+2024/04/02 22:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38690/n1ssim-returns-to-sharks-after-pain-loan-deal-expires
+2024/04/02 22:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38688/hooch-leaves-aurora
+2024/04/02 22:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38687/fang-to-play-for-boss-whilst-searching-for-new-team
+2024/04/02 22:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38686/rio-de-janeiro-to-host-iem-fall-2024
+2024/04/02 22:37:20 Content still empty after HTML reader: https://www.nytimes.com/2024/04/02/us/politics/biden-florida-abortion-ruling.html
+2024/04/02 22:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38684/discussing-navis-major-win-on-hltv-confirmed-with-semphis
+2024/04/02 22:37:20 Fetched posts from https://vlr.gg/rss, took 389.12172ms
+2024/04/02 22:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38683/forze-bench-roster-r3salt-joins-aurora
+2024/04/02 22:37:20 Content still empty after HTML reader: https://www.hltv.org/news/38682/nip-confirm-r1nkle-signing
+2024/04/02 22:37:21 Content still empty after HTML reader: https://www.hltv.org/news/38674/bravado-to-move-to-europe-in-project-destiny-20
+2024/04/02 22:37:21 Fetched posts from https://www.hltv.org/rss/news, took 417.917299ms
+2024/04/02 22:37:21 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 997.639318ms
+2024/04/02 22:37:22 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.523736976s
+2024/04/02 22:37:23 Fetched posts from https://blogtienao.com/feed, took 2.843253618s
+2024/04/02 22:37:34 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.067754623s
+2024/04/02 22:37:34 Skipping writing post, no content: https://www.nytimes.com/2024/04/02/us/politics/biden-florida-abortion-ruling.html
+2024/04/02 22:37:34 Skipping writing post, no content: https://www.hltv.org/news/38691/pain-replace-preasy-at-global-esports-tour-rio
+2024/04/02 22:37:34 Skipping writing post, no content: https://www.hltv.org/news/38685/rounds-add-slowi-p3kko
+2024/04/02 22:37:34 Skipping writing post, no content: https://www.hltv.org/news/38690/n1ssim-returns-to-sharks-after-pain-loan-deal-expires
+2024/04/02 22:37:34 Skipping writing post, no content: https://www.hltv.org/news/38688/hooch-leaves-aurora
+2024/04/02 22:37:34 Skipping writing post, no content: https://www.hltv.org/news/38687/fang-to-play-for-boss-whilst-searching-for-new-team
+2024/04/02 22:37:34 Skipping writing post, no content: https://www.hltv.org/news/38686/rio-de-janeiro-to-host-iem-fall-2024
+2024/04/02 22:37:34 Skipping writing post, no content: https://www.hltv.org/news/38684/discussing-navis-major-win-on-hltv-confirmed-with-semphis
+2024/04/02 22:37:34 Skipping writing post, no content: https://www.hltv.org/news/38683/forze-bench-roster-r3salt-joins-aurora
+2024/04/02 22:37:34 Skipping writing post, no content: https://www.hltv.org/news/38682/nip-confirm-r1nkle-signing
+2024/04/02 22:37:34 Skipping writing post, no content: https://www.hltv.org/news/38674/bravado-to-move-to-europe-in-project-destiny-20
+2024/04/02 22:37:34 Templated 79 posts, took 12.993379ms
