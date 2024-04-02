@@ -1,30 +1,34 @@
-2024/04/02 03:18:50 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 256.274933ms
-2024/04/02 03:18:50 Content still empty after HTML reader: https://www.hltv.org/news/38677/preasy-release-team
-2024/04/02 03:18:50 Content still empty after HTML reader: https://www.hltv.org/news/38675/team-ranking-march-2024
-2024/04/02 03:18:50 Content still empty after HTML reader: https://www.hltv.org/news/38676/starladder-announces-plans-to-return-to-cs-circuit
-2024/04/02 03:18:50 Content still empty after HTML reader: https://www.hltv.org/news/38673/niko-departs-sashi-as-loan-expires
-2024/04/02 03:18:50 Content still empty after HTML reader: https://www.hltv.org/news/38672/endpoint-transfer-sl3nd
-2024/04/02 03:18:50 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/02 03:18:50 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 444.452955ms
-2024/04/02 03:18:50 Content still empty after HTML reader: https://www.hltv.org/news/38671/entropiq-bench-trio
-2024/04/02 03:18:50 Content still empty after HTML reader: https://www.hltv.org/news/38670/navi-qualify-for-ewc-and-blast-world-final
-2024/04/02 03:18:50 Content still empty after HTML reader: https://www.hltv.org/news/38669/jl-fk-aleksib-haters
-2024/04/02 03:18:50 Content still empty after HTML reader: https://www.hltv.org/news/38668/pgl-major-copenhagen-had-third-highest-peak-viewership-in-cs-history
-2024/04/02 03:18:50 Content still empty after HTML reader: https://www.hltv.org/news/38667/jl-claims-pgl-major-copenhagen-mvp-award
-2024/04/02 03:18:50 Fetched posts from https://www.hltv.org/rss/news, took 494.084639ms
-2024/04/02 03:18:51 Fetched posts from https://vlr.gg/rss, took 794.210264ms
-2024/04/02 03:18:52 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.985925247s
-2024/04/02 03:18:52 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.572451812s
-2024/04/02 03:18:53 Fetched posts from https://blogtienao.com/feed, took 3.274079996s
-2024/04/02 03:19:05 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.883131678s
-2024/04/02 03:19:05 Skipping writing post, no content: https://www.hltv.org/news/38677/preasy-release-team
-2024/04/02 03:19:05 Skipping writing post, no content: https://www.hltv.org/news/38675/team-ranking-march-2024
-2024/04/02 03:19:05 Skipping writing post, no content: https://www.hltv.org/news/38676/starladder-announces-plans-to-return-to-cs-circuit
-2024/04/02 03:19:05 Skipping writing post, no content: https://www.hltv.org/news/38673/niko-departs-sashi-as-loan-expires
-2024/04/02 03:19:05 Skipping writing post, no content: https://www.hltv.org/news/38672/endpoint-transfer-sl3nd
-2024/04/02 03:19:05 Skipping writing post, no content: https://www.hltv.org/news/38671/entropiq-bench-trio
-2024/04/02 03:19:05 Skipping writing post, no content: https://www.hltv.org/news/38670/navi-qualify-for-ewc-and-blast-world-final
-2024/04/02 03:19:05 Skipping writing post, no content: https://www.hltv.org/news/38669/jl-fk-aleksib-haters
-2024/04/02 03:19:05 Skipping writing post, no content: https://www.hltv.org/news/38668/pgl-major-copenhagen-had-third-highest-peak-viewership-in-cs-history
-2024/04/02 03:19:05 Skipping writing post, no content: https://www.hltv.org/news/38667/jl-claims-pgl-major-copenhagen-mvp-award
-2024/04/02 03:19:05 Templated 74 posts, took 10.809791ms
+2024/04/02 03:38:08 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/02 03:38:08 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 150.493053ms
+2024/04/02 03:38:08 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 216.04215ms
+2024/04/02 03:38:08 Content still empty after HTML reader: https://www.hltv.org/news/38677/preasy-release-team
+2024/04/02 03:38:08 Content still empty after HTML reader: https://www.nytimes.com/2024/04/01/business/economy/artificial-intelligence-productivity.html
+2024/04/02 03:38:08 Content still empty after HTML reader: https://www.hltv.org/news/38675/team-ranking-march-2024
+2024/04/02 03:38:08 Content still empty after HTML reader: https://www.hltv.org/news/38676/starladder-announces-plans-to-return-to-cs-circuit
+2024/04/02 03:38:08 Content still empty after HTML reader: https://www.hltv.org/news/38673/niko-departs-sashi-as-loan-expires
+2024/04/02 03:38:08 Content still empty after HTML reader: https://www.hltv.org/news/38672/endpoint-transfer-sl3nd
+2024/04/02 03:38:08 Content still empty after HTML reader: https://www.hltv.org/news/38671/entropiq-bench-trio
+2024/04/02 03:38:08 Content still empty after HTML reader: https://www.hltv.org/news/38670/navi-qualify-for-ewc-and-blast-world-final
+2024/04/02 03:38:08 Content still empty after HTML reader: https://www.hltv.org/news/38669/jl-fk-aleksib-haters
+2024/04/02 03:38:08 Content still empty after HTML reader: https://www.hltv.org/news/38668/pgl-major-copenhagen-had-third-highest-peak-viewership-in-cs-history
+2024/04/02 03:38:08 Content still empty after HTML reader: https://www.vlr.gg/324022/runi-returns-to-cloud9-moose-to-make-franchising-debut
+2024/04/02 03:38:08 Fetched posts from https://vlr.gg/rss, took 455.456836ms
+2024/04/02 03:38:08 Content still empty after HTML reader: https://www.hltv.org/news/38667/jl-claims-pgl-major-copenhagen-mvp-award
+2024/04/02 03:38:08 Fetched posts from https://www.hltv.org/rss/news, took 463.185872ms
+2024/04/02 03:38:09 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.132941347s
+2024/04/02 03:38:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.14243564s
+2024/04/02 03:38:10 Fetched posts from https://blogtienao.com/feed, took 2.272742622s
+2024/04/02 03:38:25 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.591283672s
+2024/04/02 03:38:25 Skipping writing post, no content: https://www.hltv.org/news/38677/preasy-release-team
+2024/04/02 03:38:25 Skipping writing post, no content: https://www.nytimes.com/2024/04/01/business/economy/artificial-intelligence-productivity.html
+2024/04/02 03:38:25 Skipping writing post, no content: https://www.hltv.org/news/38675/team-ranking-march-2024
+2024/04/02 03:38:25 Skipping writing post, no content: https://www.hltv.org/news/38676/starladder-announces-plans-to-return-to-cs-circuit
+2024/04/02 03:38:25 Skipping writing post, no content: https://www.hltv.org/news/38673/niko-departs-sashi-as-loan-expires
+2024/04/02 03:38:25 Skipping writing post, no content: https://www.hltv.org/news/38672/endpoint-transfer-sl3nd
+2024/04/02 03:38:25 Skipping writing post, no content: https://www.hltv.org/news/38671/entropiq-bench-trio
+2024/04/02 03:38:25 Skipping writing post, no content: https://www.hltv.org/news/38670/navi-qualify-for-ewc-and-blast-world-final
+2024/04/02 03:38:25 Skipping writing post, no content: https://www.hltv.org/news/38669/jl-fk-aleksib-haters
+2024/04/02 03:38:25 Skipping writing post, no content: https://www.hltv.org/news/38668/pgl-major-copenhagen-had-third-highest-peak-viewership-in-cs-history
+2024/04/02 03:38:25 Skipping writing post, no content: https://www.hltv.org/news/38667/jl-claims-pgl-major-copenhagen-mvp-award
+2024/04/02 03:38:25 Skipping writing post, no content: https://www.vlr.gg/324022/runi-returns-to-cloud9-moose-to-make-franchising-debut
+2024/04/02 03:38:25 Templated 74 posts, took 11.779551ms
