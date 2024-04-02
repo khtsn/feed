@@ -1,30 +1,30 @@
-2024/04/02 14:14:34 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 135.097648ms
-2024/04/02 14:14:34 Fetched posts from https://vlr.gg/rss, took 282.99532ms
-2024/04/02 14:14:34 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/02 14:14:34 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 297.410569ms
-2024/04/02 14:14:35 Content still empty after HTML reader: https://www.hltv.org/news/38683/forze-bench-roster-r3salt-joins-aurora
-2024/04/02 14:14:35 Content still empty after HTML reader: https://www.hltv.org/news/38682/nip-confirm-r1nkle-signing
-2024/04/02 14:14:35 Content still empty after HTML reader: https://www.hltv.org/news/38674/bravado-to-move-to-europe-in-project-destiny-20
-2024/04/02 14:14:35 Content still empty after HTML reader: https://www.hltv.org/news/38681/tyloo-reveal-six-man-roster-for-iem-chengdu
-2024/04/02 14:14:35 Content still empty after HTML reader: https://www.hltv.org/news/38680/amkal-bench-nickelback-sdaim-joins-as-stand-in
-2024/04/02 14:14:35 Content still empty after HTML reader: https://www.hltv.org/news/38679/banjo-departs-havu
-2024/04/02 14:14:35 Content still empty after HTML reader: https://www.hltv.org/news/38678/esl-challenger-jnkping-qualifiers-set-to-start
-2024/04/02 14:14:35 Content still empty after HTML reader: https://www.hltv.org/news/38677/preasy-release-team
-2024/04/02 14:14:35 Content still empty after HTML reader: https://www.hltv.org/news/38675/team-ranking-march-2024
-2024/04/02 14:14:35 Content still empty after HTML reader: https://www.hltv.org/news/38676/starladder-announces-plans-to-return-to-cs
-2024/04/02 14:14:35 Fetched posts from https://www.hltv.org/rss/news, took 446.751783ms
-2024/04/02 14:14:35 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 818.28961ms
-2024/04/02 14:14:35 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 875.601788ms
-2024/04/02 14:14:37 Fetched posts from https://blogtienao.com/feed, took 2.321683316s
-2024/04/02 14:14:50 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.615894086s
-2024/04/02 14:14:50 Skipping writing post, no content: https://www.hltv.org/news/38683/forze-bench-roster-r3salt-joins-aurora
-2024/04/02 14:14:50 Skipping writing post, no content: https://www.hltv.org/news/38682/nip-confirm-r1nkle-signing
-2024/04/02 14:14:50 Skipping writing post, no content: https://www.hltv.org/news/38674/bravado-to-move-to-europe-in-project-destiny-20
-2024/04/02 14:14:50 Skipping writing post, no content: https://www.hltv.org/news/38681/tyloo-reveal-six-man-roster-for-iem-chengdu
-2024/04/02 14:14:50 Skipping writing post, no content: https://www.hltv.org/news/38680/amkal-bench-nickelback-sdaim-joins-as-stand-in
-2024/04/02 14:14:50 Skipping writing post, no content: https://www.hltv.org/news/38679/banjo-departs-havu
-2024/04/02 14:14:50 Skipping writing post, no content: https://www.hltv.org/news/38678/esl-challenger-jnkping-qualifiers-set-to-start
-2024/04/02 14:14:50 Skipping writing post, no content: https://www.hltv.org/news/38677/preasy-release-team
-2024/04/02 14:14:50 Skipping writing post, no content: https://www.hltv.org/news/38675/team-ranking-march-2024
-2024/04/02 14:14:50 Skipping writing post, no content: https://www.hltv.org/news/38676/starladder-announces-plans-to-return-to-cs
-2024/04/02 14:14:50 Templated 76 posts, took 11.833364ms
+2024/04/02 14:28:50 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/02 14:28:50 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 197.166989ms
+2024/04/02 14:28:50 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 220.221045ms
+2024/04/02 14:28:50 Content still empty after HTML reader: https://www.hltv.org/news/38684/discussing-navis-major-win-on-hltv-confirmed-with-semphis
+2024/04/02 14:28:50 Content still empty after HTML reader: https://www.hltv.org/news/38683/forze-bench-roster-r3salt-joins-aurora
+2024/04/02 14:28:50 Content still empty after HTML reader: https://www.hltv.org/news/38682/nip-confirm-r1nkle-signing
+2024/04/02 14:28:50 Content still empty after HTML reader: https://www.hltv.org/news/38674/bravado-to-move-to-europe-in-project-destiny-20
+2024/04/02 14:28:50 Content still empty after HTML reader: https://www.hltv.org/news/38681/tyloo-reveal-six-man-roster-for-iem-chengdu
+2024/04/02 14:28:50 Content still empty after HTML reader: https://www.hltv.org/news/38680/amkal-bench-nickelback-sdaim-joins-as-stand-in
+2024/04/02 14:28:50 Content still empty after HTML reader: https://www.hltv.org/news/38679/banjo-departs-havu
+2024/04/02 14:28:50 Content still empty after HTML reader: https://www.hltv.org/news/38678/esl-challenger-jnkping-qualifiers-set-to-start
+2024/04/02 14:28:50 Content still empty after HTML reader: https://www.hltv.org/news/38677/preasy-release-team
+2024/04/02 14:28:50 Content still empty after HTML reader: https://www.hltv.org/news/38675/team-ranking-march-2024
+2024/04/02 14:28:50 Fetched posts from https://www.hltv.org/rss/news, took 652.44679ms
+2024/04/02 14:28:51 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.188004144s
+2024/04/02 14:28:51 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.192433404s
+2024/04/02 14:28:53 Fetched posts from https://blogtienao.com/feed, took 3.787269181s
+2024/04/02 14:28:54 Fetched posts from https://vlr.gg/rss, took 4.777951169s
+2024/04/02 14:29:04 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.052848723s
+2024/04/02 14:29:04 Skipping writing post, no content: https://www.hltv.org/news/38684/discussing-navis-major-win-on-hltv-confirmed-with-semphis
+2024/04/02 14:29:04 Skipping writing post, no content: https://www.hltv.org/news/38683/forze-bench-roster-r3salt-joins-aurora
+2024/04/02 14:29:04 Skipping writing post, no content: https://www.hltv.org/news/38682/nip-confirm-r1nkle-signing
+2024/04/02 14:29:04 Skipping writing post, no content: https://www.hltv.org/news/38674/bravado-to-move-to-europe-in-project-destiny-20
+2024/04/02 14:29:04 Skipping writing post, no content: https://www.hltv.org/news/38681/tyloo-reveal-six-man-roster-for-iem-chengdu
+2024/04/02 14:29:04 Skipping writing post, no content: https://www.hltv.org/news/38680/amkal-bench-nickelback-sdaim-joins-as-stand-in
+2024/04/02 14:29:04 Skipping writing post, no content: https://www.hltv.org/news/38679/banjo-departs-havu
+2024/04/02 14:29:04 Skipping writing post, no content: https://www.hltv.org/news/38678/esl-challenger-jnkping-qualifiers-set-to-start
+2024/04/02 14:29:04 Skipping writing post, no content: https://www.hltv.org/news/38677/preasy-release-team
+2024/04/02 14:29:04 Skipping writing post, no content: https://www.hltv.org/news/38675/team-ranking-march-2024
+2024/04/02 14:29:04 Templated 75 posts, took 12.548015ms
