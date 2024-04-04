@@ -1,30 +1,30 @@
-2024/04/04 02:00:01 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 134.714845ms
-2024/04/04 02:00:01 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/04 02:00:01 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 141.538527ms
-2024/04/04 02:00:01 Fetched posts from https://vlr.gg/rss, took 302.899783ms
-2024/04/04 02:00:01 Content still empty after HTML reader: https://www.hltv.org/news/38698/vorborg-on-preasy-uncertainty-it-took-away-energy-time-and-motivation
-2024/04/04 02:00:01 Content still empty after HTML reader: https://www.hltv.org/news/38697/swani-retires-from-counter-strike-i-have-gradually-lost-passion-for-the-game
-2024/04/04 02:00:01 Content still empty after HTML reader: https://www.hltv.org/news/38696/themongolz-qualify-for-esl-challenger-jnkping
-2024/04/04 02:00:01 Content still empty after HTML reader: https://www.hltv.org/news/38694/bleed-sign-vldn-after-a-successful-trial-period
-2024/04/04 02:00:01 Content still empty after HTML reader: https://www.hltv.org/news/38692/crouch-jump-bug-fixed-navi-champions-stickers-released-in-new-update
-2024/04/04 02:00:01 Content still empty after HTML reader: https://www.hltv.org/news/38693/havu-add-jelo
-2024/04/04 02:00:01 Content still empty after HTML reader: https://www.hltv.org/news/38691/pain-replace-preasy-at-global-esports-tour-rio
-2024/04/04 02:00:01 Content still empty after HTML reader: https://www.hltv.org/news/38685/rounds-add-slowi-p3kko
-2024/04/04 02:00:01 Content still empty after HTML reader: https://www.hltv.org/news/38690/n1ssim-returns-to-sharks-after-pain-loan-deal-expires
-2024/04/04 02:00:01 Content still empty after HTML reader: https://www.hltv.org/news/38688/hooch-leaves-aurora
-2024/04/04 02:00:01 Fetched posts from https://www.hltv.org/rss/news, took 429.96347ms
-2024/04/04 02:00:02 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.030271829s
-2024/04/04 02:00:02 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.348758261s
-2024/04/04 02:00:04 Fetched posts from https://blogtienao.com/feed, took 3.469671929s
-2024/04/04 02:00:20 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.175769108s
-2024/04/04 02:00:20 Skipping writing post, no content: https://www.hltv.org/news/38698/vorborg-on-preasy-uncertainty-it-took-away-energy-time-and-motivation
-2024/04/04 02:00:20 Skipping writing post, no content: https://www.hltv.org/news/38697/swani-retires-from-counter-strike-i-have-gradually-lost-passion-for-the-game
-2024/04/04 02:00:20 Skipping writing post, no content: https://www.hltv.org/news/38696/themongolz-qualify-for-esl-challenger-jnkping
-2024/04/04 02:00:20 Skipping writing post, no content: https://www.hltv.org/news/38694/bleed-sign-vldn-after-a-successful-trial-period
-2024/04/04 02:00:20 Skipping writing post, no content: https://www.hltv.org/news/38692/crouch-jump-bug-fixed-navi-champions-stickers-released-in-new-update
-2024/04/04 02:00:20 Skipping writing post, no content: https://www.hltv.org/news/38693/havu-add-jelo
-2024/04/04 02:00:20 Skipping writing post, no content: https://www.hltv.org/news/38691/pain-replace-preasy-at-global-esports-tour-rio
-2024/04/04 02:00:20 Skipping writing post, no content: https://www.hltv.org/news/38685/rounds-add-slowi-p3kko
-2024/04/04 02:00:20 Skipping writing post, no content: https://www.hltv.org/news/38690/n1ssim-returns-to-sharks-after-pain-loan-deal-expires
-2024/04/04 02:00:20 Skipping writing post, no content: https://www.hltv.org/news/38688/hooch-leaves-aurora
-2024/04/04 02:00:20 Templated 80 posts, took 13.238059ms
+2024/04/04 02:27:57 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/04 02:27:57 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 96.650533ms
+2024/04/04 02:27:57 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 219.452031ms
+2024/04/04 02:27:57 Content still empty after HTML reader: https://www.hltv.org/news/38698/vorborg-on-preasy-uncertainty-it-took-away-energy-time-and-motivation
+2024/04/04 02:27:57 Content still empty after HTML reader: https://www.hltv.org/news/38697/swani-retires-from-counter-strike-i-have-gradually-lost-passion-for-the-game
+2024/04/04 02:27:57 Content still empty after HTML reader: https://www.hltv.org/news/38696/themongolz-qualify-for-esl-challenger-jnkping
+2024/04/04 02:27:57 Content still empty after HTML reader: https://www.hltv.org/news/38694/bleed-sign-vldn-after-a-successful-trial-period
+2024/04/04 02:27:57 Content still empty after HTML reader: https://www.hltv.org/news/38692/crouch-jump-bug-fixed-navi-champions-stickers-released-in-new-update
+2024/04/04 02:27:57 Content still empty after HTML reader: https://www.hltv.org/news/38693/havu-add-jelo
+2024/04/04 02:27:57 Content still empty after HTML reader: https://www.hltv.org/news/38691/pain-replace-preasy-at-global-esports-tour-rio
+2024/04/04 02:27:57 Content still empty after HTML reader: https://www.hltv.org/news/38685/rounds-add-slowi-p3kko
+2024/04/04 02:27:57 Content still empty after HTML reader: https://www.hltv.org/news/38690/n1ssim-returns-to-sharks-after-pain-loan-deal-expires
+2024/04/04 02:27:57 Content still empty after HTML reader: https://www.hltv.org/news/38688/hooch-leaves-aurora
+2024/04/04 02:27:57 Fetched posts from https://www.hltv.org/rss/news, took 857.232522ms
+2024/04/04 02:27:57 Fetched posts from https://vlr.gg/rss, took 880.835786ms
+2024/04/04 02:27:58 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.415200419s
+2024/04/04 02:28:01 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 4.787486877s
+2024/04/04 02:28:07 Fetched posts from https://blogtienao.com/feed, took 10.016460848s
+2024/04/04 02:28:13 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.072880928s
+2024/04/04 02:28:13 Skipping writing post, no content: https://www.hltv.org/news/38698/vorborg-on-preasy-uncertainty-it-took-away-energy-time-and-motivation
+2024/04/04 02:28:13 Skipping writing post, no content: https://www.hltv.org/news/38697/swani-retires-from-counter-strike-i-have-gradually-lost-passion-for-the-game
+2024/04/04 02:28:13 Skipping writing post, no content: https://www.hltv.org/news/38696/themongolz-qualify-for-esl-challenger-jnkping
+2024/04/04 02:28:13 Skipping writing post, no content: https://www.hltv.org/news/38694/bleed-sign-vldn-after-a-successful-trial-period
+2024/04/04 02:28:13 Skipping writing post, no content: https://www.hltv.org/news/38692/crouch-jump-bug-fixed-navi-champions-stickers-released-in-new-update
+2024/04/04 02:28:13 Skipping writing post, no content: https://www.hltv.org/news/38693/havu-add-jelo
+2024/04/04 02:28:13 Skipping writing post, no content: https://www.hltv.org/news/38691/pain-replace-preasy-at-global-esports-tour-rio
+2024/04/04 02:28:13 Skipping writing post, no content: https://www.hltv.org/news/38685/rounds-add-slowi-p3kko
+2024/04/04 02:28:13 Skipping writing post, no content: https://www.hltv.org/news/38690/n1ssim-returns-to-sharks-after-pain-loan-deal-expires
+2024/04/04 02:28:13 Skipping writing post, no content: https://www.hltv.org/news/38688/hooch-leaves-aurora
+2024/04/04 02:28:13 Templated 80 posts, took 13.279426ms
