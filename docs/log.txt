@@ -1,30 +1,32 @@
-2024/04/06 09:26:57 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/06 09:26:57 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 215.741001ms
-2024/04/06 09:26:57 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 231.368792ms
-2024/04/06 09:26:57 Content still empty after HTML reader: https://www.hltv.org/news/38708/apeks-to-continue-with-styko-we-dont-give-up-when-it-gets-rough
-2024/04/06 09:26:57 Content still empty after HTML reader: https://www.hltv.org/news/38706/headtr1ck-set-on-b8-move
-2024/04/06 09:26:57 Content still empty after HTML reader: https://www.hltv.org/news/38707/nilo-to-miss-global-esports-tour-rio
-2024/04/06 09:26:57 Content still empty after HTML reader: https://www.hltv.org/news/38705/1win-announce-new-roster-with-buster-nealan
-2024/04/06 09:26:58 Content still empty after HTML reader: https://www.hltv.org/news/38704/iem-chengdu-teams-format-schedule-prizes
-2024/04/06 09:26:58 Content still empty after HTML reader: https://www.hltv.org/news/38689/best-photos-from-pgl-major-copenhagen
-2024/04/06 09:26:58 Content still empty after HTML reader: https://www.hltv.org/news/38703/aurora-secure-final-esl-challenger-jnkping-spot
-2024/04/06 09:26:58 Content still empty after HTML reader: https://www.hltv.org/news/38702/sl1m3-joins-sashi-n1xen-benched
-2024/04/06 09:26:58 Content still empty after HTML reader: https://www.hltv.org/news/38701/secret-add-juve-nopeej
-2024/04/06 09:26:58 Content still empty after HTML reader: https://www.hltv.org/news/38695/the-evps-and-best-five-of-pgl-major-copenhagen
-2024/04/06 09:26:58 Fetched posts from https://www.hltv.org/rss/news, took 418.875093ms
-2024/04/06 09:26:58 Fetched posts from https://vlr.gg/rss, took 606.263126ms
-2024/04/06 09:26:58 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.220584714s
-2024/04/06 09:26:58 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.275641804s
-2024/04/06 09:26:59 Fetched posts from https://blogtienao.com/feed, took 2.155954689s
-2024/04/06 09:27:12 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.297224473s
-2024/04/06 09:27:12 Skipping writing post, no content: https://www.hltv.org/news/38708/apeks-to-continue-with-styko-we-dont-give-up-when-it-gets-rough
-2024/04/06 09:27:12 Skipping writing post, no content: https://www.hltv.org/news/38706/headtr1ck-set-on-b8-move
-2024/04/06 09:27:12 Skipping writing post, no content: https://www.hltv.org/news/38707/nilo-to-miss-global-esports-tour-rio
-2024/04/06 09:27:12 Skipping writing post, no content: https://www.hltv.org/news/38705/1win-announce-new-roster-with-buster-nealan
-2024/04/06 09:27:12 Skipping writing post, no content: https://www.hltv.org/news/38704/iem-chengdu-teams-format-schedule-prizes
-2024/04/06 09:27:12 Skipping writing post, no content: https://www.hltv.org/news/38689/best-photos-from-pgl-major-copenhagen
-2024/04/06 09:27:12 Skipping writing post, no content: https://www.hltv.org/news/38703/aurora-secure-final-esl-challenger-jnkping-spot
-2024/04/06 09:27:12 Skipping writing post, no content: https://www.hltv.org/news/38702/sl1m3-joins-sashi-n1xen-benched
-2024/04/06 09:27:12 Skipping writing post, no content: https://www.hltv.org/news/38701/secret-add-juve-nopeej
-2024/04/06 09:27:12 Skipping writing post, no content: https://www.hltv.org/news/38695/the-evps-and-best-five-of-pgl-major-copenhagen
-2024/04/06 09:27:12 Templated 79 posts, took 14.871319ms
+2024/04/06 09:38:52 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 217.580019ms
+2024/04/06 09:38:52 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/06 09:38:52 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 239.574407ms
+2024/04/06 09:38:53 Content still empty after HTML reader: https://www.hltv.org/news/38708/apeks-to-continue-with-styko-we-dont-give-up-when-it-gets-rough
+2024/04/06 09:38:53 Content still empty after HTML reader: https://www.hltv.org/news/38706/headtr1ck-set-on-b8-move
+2024/04/06 09:38:53 Content still empty after HTML reader: https://www.hltv.org/news/38707/nilo-to-miss-global-esports-tour-rio
+2024/04/06 09:38:53 Content still empty after HTML reader: https://www.hltv.org/news/38705/1win-announce-new-roster-with-buster-nealan
+2024/04/06 09:38:53 Content still empty after HTML reader: https://www.hltv.org/news/38704/iem-chengdu-teams-format-schedule-prizes
+2024/04/06 09:38:53 Content still empty after HTML reader: https://www.hltv.org/news/38689/best-photos-from-pgl-major-copenhagen
+2024/04/06 09:38:53 Content still empty after HTML reader: https://www.vlr.gg/325082/g2-esports-part-ways-with-net
+2024/04/06 09:38:53 Fetched posts from https://vlr.gg/rss, took 947.892378ms
+2024/04/06 09:38:53 Content still empty after HTML reader: https://www.hltv.org/news/38703/aurora-secure-final-esl-challenger-jnkping-spot
+2024/04/06 09:38:53 Content still empty after HTML reader: https://www.hltv.org/news/38702/sl1m3-joins-sashi-n1xen-benched
+2024/04/06 09:38:53 Content still empty after HTML reader: https://www.hltv.org/news/38701/secret-add-juve-nopeej
+2024/04/06 09:38:53 Content still empty after HTML reader: https://www.hltv.org/news/38695/the-evps-and-best-five-of-pgl-major-copenhagen
+2024/04/06 09:38:53 Fetched posts from https://www.hltv.org/rss/news, took 1.009463926s
+2024/04/06 09:38:53 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.157571089s
+2024/04/06 09:38:54 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.636608184s
+2024/04/06 09:38:55 Fetched posts from https://blogtienao.com/feed, took 3.115648811s
+2024/04/06 09:39:06 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.332363866s
+2024/04/06 09:39:06 Skipping writing post, no content: https://www.hltv.org/news/38708/apeks-to-continue-with-styko-we-dont-give-up-when-it-gets-rough
+2024/04/06 09:39:06 Skipping writing post, no content: https://www.hltv.org/news/38706/headtr1ck-set-on-b8-move
+2024/04/06 09:39:06 Skipping writing post, no content: https://www.hltv.org/news/38707/nilo-to-miss-global-esports-tour-rio
+2024/04/06 09:39:06 Skipping writing post, no content: https://www.hltv.org/news/38705/1win-announce-new-roster-with-buster-nealan
+2024/04/06 09:39:06 Skipping writing post, no content: https://www.hltv.org/news/38704/iem-chengdu-teams-format-schedule-prizes
+2024/04/06 09:39:06 Skipping writing post, no content: https://www.hltv.org/news/38689/best-photos-from-pgl-major-copenhagen
+2024/04/06 09:39:06 Skipping writing post, no content: https://www.hltv.org/news/38703/aurora-secure-final-esl-challenger-jnkping-spot
+2024/04/06 09:39:06 Skipping writing post, no content: https://www.hltv.org/news/38702/sl1m3-joins-sashi-n1xen-benched
+2024/04/06 09:39:06 Skipping writing post, no content: https://www.hltv.org/news/38701/secret-add-juve-nopeej
+2024/04/06 09:39:06 Skipping writing post, no content: https://www.hltv.org/news/38695/the-evps-and-best-five-of-pgl-major-copenhagen
+2024/04/06 09:39:06 Skipping writing post, no content: https://www.vlr.gg/325082/g2-esports-part-ways-with-net
+2024/04/06 09:39:06 Templated 79 posts, took 12.58882ms
