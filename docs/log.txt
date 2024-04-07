@@ -1,30 +1,30 @@
-2024/04/07 17:27:42 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 206.272905ms
-2024/04/07 17:27:42 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/07 17:27:42 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 320.750151ms
-2024/04/07 17:27:42 Fetched posts from https://vlr.gg/rss, took 339.214141ms
-2024/04/07 17:27:43 Content still empty after HTML reader: https://www.hltv.org/news/38715/horvy-to-play-for-wildcard-in-place-of-jba-at-iem-chengdu
-2024/04/07 17:27:43 Content still empty after HTML reader: https://www.hltv.org/news/38714/steel-helmet-replace-monte-at-iem-chengdu
-2024/04/07 17:27:43 Content still empty after HTML reader: https://www.hltv.org/news/38713/everything-you-need-to-know-about-the-iem-chengdu-skyesports-fantasy-games
-2024/04/07 17:27:43 Content still empty after HTML reader: https://www.hltv.org/news/38712/video-copenhagen-major-as-we-saw-it
-2024/04/07 17:27:43 Content still empty after HTML reader: https://www.hltv.org/news/38711/esports-world-cup-invites-revealed
-2024/04/07 17:27:43 Content still empty after HTML reader: https://www.hltv.org/news/38710/plopski-to-stand-in-for-metizport-at-get-rio
-2024/04/07 17:27:43 Content still empty after HTML reader: https://www.hltv.org/news/38709/iem-chengdu-talent-announced
-2024/04/07 17:27:43 Content still empty after HTML reader: https://www.hltv.org/news/38708/apeks-to-continue-with-styko-we-dont-give-up-when-it-gets-rough
-2024/04/07 17:27:43 Content still empty after HTML reader: https://www.hltv.org/news/38706/headtr1ck-set-on-b8-move
-2024/04/07 17:27:43 Content still empty after HTML reader: https://www.hltv.org/news/38707/nilo-to-miss-global-esports-tour-rio
-2024/04/07 17:27:43 Fetched posts from https://www.hltv.org/rss/news, took 734.369679ms
-2024/04/07 17:27:43 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 843.739267ms
-2024/04/07 17:27:43 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.389945421s
-2024/04/07 17:27:45 Fetched posts from https://blogtienao.com/feed, took 2.904045342s
-2024/04/07 17:27:59 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.634701238s
-2024/04/07 17:27:59 Skipping writing post, no content: https://www.hltv.org/news/38715/horvy-to-play-for-wildcard-in-place-of-jba-at-iem-chengdu
-2024/04/07 17:27:59 Skipping writing post, no content: https://www.hltv.org/news/38714/steel-helmet-replace-monte-at-iem-chengdu
-2024/04/07 17:27:59 Skipping writing post, no content: https://www.hltv.org/news/38713/everything-you-need-to-know-about-the-iem-chengdu-skyesports-fantasy-games
-2024/04/07 17:27:59 Skipping writing post, no content: https://www.hltv.org/news/38712/video-copenhagen-major-as-we-saw-it
-2024/04/07 17:27:59 Skipping writing post, no content: https://www.hltv.org/news/38711/esports-world-cup-invites-revealed
-2024/04/07 17:27:59 Skipping writing post, no content: https://www.hltv.org/news/38710/plopski-to-stand-in-for-metizport-at-get-rio
-2024/04/07 17:27:59 Skipping writing post, no content: https://www.hltv.org/news/38709/iem-chengdu-talent-announced
-2024/04/07 17:27:59 Skipping writing post, no content: https://www.hltv.org/news/38708/apeks-to-continue-with-styko-we-dont-give-up-when-it-gets-rough
-2024/04/07 17:27:59 Skipping writing post, no content: https://www.hltv.org/news/38706/headtr1ck-set-on-b8-move
-2024/04/07 17:27:59 Skipping writing post, no content: https://www.hltv.org/news/38707/nilo-to-miss-global-esports-tour-rio
-2024/04/07 17:27:59 Templated 71 posts, took 11.85097ms
+2024/04/07 17:39:25 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/07 17:39:25 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 129.456802ms
+2024/04/07 17:39:25 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 188.490641ms
+2024/04/07 17:39:25 Content still empty after HTML reader: https://www.hltv.org/news/38715/horvy-to-play-for-wildcard-in-place-of-jba-at-iem-chengdu
+2024/04/07 17:39:25 Content still empty after HTML reader: https://www.hltv.org/news/38714/steel-helmet-replace-monte-at-iem-chengdu
+2024/04/07 17:39:25 Content still empty after HTML reader: https://www.hltv.org/news/38713/everything-you-need-to-know-about-the-iem-chengdu-skyesports-fantasy-games
+2024/04/07 17:39:25 Content still empty after HTML reader: https://www.hltv.org/news/38712/video-copenhagen-major-as-we-saw-it
+2024/04/07 17:39:25 Content still empty after HTML reader: https://www.hltv.org/news/38711/esports-world-cup-invites-revealed
+2024/04/07 17:39:25 Content still empty after HTML reader: https://www.hltv.org/news/38710/plopski-to-stand-in-for-metizport-at-get-rio
+2024/04/07 17:39:25 Content still empty after HTML reader: https://www.hltv.org/news/38709/iem-chengdu-talent-announced
+2024/04/07 17:39:25 Content still empty after HTML reader: https://www.hltv.org/news/38708/apeks-to-continue-with-styko-we-dont-give-up-when-it-gets-rough
+2024/04/07 17:39:25 Content still empty after HTML reader: https://www.hltv.org/news/38706/headtr1ck-set-on-b8-move
+2024/04/07 17:39:25 Content still empty after HTML reader: https://www.hltv.org/news/38707/nilo-to-miss-global-esports-tour-rio
+2024/04/07 17:39:25 Fetched posts from https://www.hltv.org/rss/news, took 300.769331ms
+2024/04/07 17:39:26 Fetched posts from https://vlr.gg/rss, took 814.595518ms
+2024/04/07 17:39:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.323900341s
+2024/04/07 17:39:27 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.789971423s
+2024/04/07 17:39:28 Fetched posts from https://blogtienao.com/feed, took 3.312470593s
+2024/04/07 17:39:44 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.29534961s
+2024/04/07 17:39:44 Skipping writing post, no content: https://www.hltv.org/news/38715/horvy-to-play-for-wildcard-in-place-of-jba-at-iem-chengdu
+2024/04/07 17:39:44 Skipping writing post, no content: https://www.hltv.org/news/38714/steel-helmet-replace-monte-at-iem-chengdu
+2024/04/07 17:39:44 Skipping writing post, no content: https://www.hltv.org/news/38713/everything-you-need-to-know-about-the-iem-chengdu-skyesports-fantasy-games
+2024/04/07 17:39:44 Skipping writing post, no content: https://www.hltv.org/news/38712/video-copenhagen-major-as-we-saw-it
+2024/04/07 17:39:44 Skipping writing post, no content: https://www.hltv.org/news/38711/esports-world-cup-invites-revealed
+2024/04/07 17:39:44 Skipping writing post, no content: https://www.hltv.org/news/38710/plopski-to-stand-in-for-metizport-at-get-rio
+2024/04/07 17:39:44 Skipping writing post, no content: https://www.hltv.org/news/38709/iem-chengdu-talent-announced
+2024/04/07 17:39:44 Skipping writing post, no content: https://www.hltv.org/news/38708/apeks-to-continue-with-styko-we-dont-give-up-when-it-gets-rough
+2024/04/07 17:39:44 Skipping writing post, no content: https://www.hltv.org/news/38706/headtr1ck-set-on-b8-move
+2024/04/07 17:39:44 Skipping writing post, no content: https://www.hltv.org/news/38707/nilo-to-miss-global-esports-tour-rio
+2024/04/07 17:39:44 Templated 71 posts, took 12.751761ms
