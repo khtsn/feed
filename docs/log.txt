@@ -1,30 +1,30 @@
-2024/04/08 19:25:08 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/08 19:25:08 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 175.608018ms
-2024/04/08 19:25:08 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 255.813358ms
-2024/04/08 19:25:09 Fetched posts from https://vlr.gg/rss, took 566.31021ms
-2024/04/08 19:25:09 Content still empty after HTML reader: https://www.hltv.org/news/38728/champion-of-champions-tour-season-2-announced-with-streamlined-format
-2024/04/08 19:25:09 Content still empty after HTML reader: https://www.hltv.org/news/38727/ence-lose-skyesports-masters-opener-to-benched-forze-roster
-2024/04/08 19:25:09 Content still empty after HTML reader: https://www.hltv.org/news/38717/live-updates-from-iem-chengdu-day-1
-2024/04/08 19:25:09 Content still empty after HTML reader: https://www.hltv.org/news/38726/mouz-beat-furia-to-make-iem-chengdu-playoffs
-2024/04/08 19:25:09 Content still empty after HTML reader: https://www.hltv.org/news/38724/og-bench-regali-modo-to-stand-in
-2024/04/08 19:25:09 Content still empty after HTML reader: https://www.hltv.org/news/38725/liquids-new-lineup-earn-first-playoff-berth-over-g2
-2024/04/08 19:25:09 Content still empty after HTML reader: https://www.hltv.org/news/38721/flyquest-stun-cloud9-in-organizational-debut
-2024/04/08 19:25:09 Content still empty after HTML reader: https://www.hltv.org/news/38722/art-we-know-the-pressure-were-under
-2024/04/08 19:25:09 Content still empty after HTML reader: https://www.hltv.org/news/38720/mouz-deny-tyloo-upset-in-chengdu
-2024/04/08 19:25:09 Content still empty after HTML reader: https://www.hltv.org/news/38719/twistzz-yekindar-took-it-very-personally-that-he-had-a-bad-performance-in-the-rmr
-2024/04/08 19:25:09 Fetched posts from https://www.hltv.org/rss/news, took 777.809742ms
-2024/04/08 19:25:09 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 916.932665ms
-2024/04/08 19:25:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.119041679s
-2024/04/08 19:25:10 Fetched posts from https://blogtienao.com/feed, took 2.408023386s
-2024/04/08 19:25:23 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.526433988s
-2024/04/08 19:25:23 Skipping writing post, no content: https://www.hltv.org/news/38728/champion-of-champions-tour-season-2-announced-with-streamlined-format
-2024/04/08 19:25:23 Skipping writing post, no content: https://www.hltv.org/news/38727/ence-lose-skyesports-masters-opener-to-benched-forze-roster
-2024/04/08 19:25:23 Skipping writing post, no content: https://www.hltv.org/news/38717/live-updates-from-iem-chengdu-day-1
-2024/04/08 19:25:23 Skipping writing post, no content: https://www.hltv.org/news/38726/mouz-beat-furia-to-make-iem-chengdu-playoffs
-2024/04/08 19:25:23 Skipping writing post, no content: https://www.hltv.org/news/38724/og-bench-regali-modo-to-stand-in
-2024/04/08 19:25:23 Skipping writing post, no content: https://www.hltv.org/news/38725/liquids-new-lineup-earn-first-playoff-berth-over-g2
-2024/04/08 19:25:23 Skipping writing post, no content: https://www.hltv.org/news/38721/flyquest-stun-cloud9-in-organizational-debut
-2024/04/08 19:25:23 Skipping writing post, no content: https://www.hltv.org/news/38722/art-we-know-the-pressure-were-under
-2024/04/08 19:25:23 Skipping writing post, no content: https://www.hltv.org/news/38720/mouz-deny-tyloo-upset-in-chengdu
-2024/04/08 19:25:23 Skipping writing post, no content: https://www.hltv.org/news/38719/twistzz-yekindar-took-it-very-personally-that-he-had-a-bad-performance-in-the-rmr
-2024/04/08 19:25:23 Templated 76 posts, took 19.656405ms
+2024/04/08 19:37:26 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 194.953731ms
+2024/04/08 19:37:26 Fetched posts from https://vlr.gg/rss, took 212.138625ms
+2024/04/08 19:37:26 Content still empty after HTML reader: https://www.hltv.org/news/38728/champion-of-champions-tour-season-2-announced-with-streamlined-format
+2024/04/08 19:37:26 Content still empty after HTML reader: https://www.hltv.org/news/38727/ence-lose-skyesports-masters-opener-to-benched-forze-roster
+2024/04/08 19:37:26 Content still empty after HTML reader: https://www.hltv.org/news/38717/live-updates-from-iem-chengdu-day-1
+2024/04/08 19:37:26 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/08 19:37:26 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 357.747627ms
+2024/04/08 19:37:26 Content still empty after HTML reader: https://www.hltv.org/news/38726/mouz-beat-furia-to-make-iem-chengdu-playoffs
+2024/04/08 19:37:26 Content still empty after HTML reader: https://www.hltv.org/news/38724/og-bench-regali-modo-to-stand-in
+2024/04/08 19:37:26 Content still empty after HTML reader: https://www.hltv.org/news/38725/liquids-new-lineup-earn-first-playoff-berth-over-g2
+2024/04/08 19:37:26 Content still empty after HTML reader: https://www.hltv.org/news/38721/flyquest-stun-cloud9-in-organizational-debut
+2024/04/08 19:37:27 Content still empty after HTML reader: https://www.hltv.org/news/38722/art-we-know-the-pressure-were-under
+2024/04/08 19:37:27 Content still empty after HTML reader: https://www.hltv.org/news/38720/mouz-deny-tyloo-upset-in-chengdu
+2024/04/08 19:37:27 Content still empty after HTML reader: https://www.hltv.org/news/38719/twistzz-yekindar-took-it-very-personally-that-he-had-a-bad-performance-in-the-rmr
+2024/04/08 19:37:27 Fetched posts from https://www.hltv.org/rss/news, took 435.122905ms
+2024/04/08 19:37:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 672.777081ms
+2024/04/08 19:37:27 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.249140117s
+2024/04/08 19:37:29 Fetched posts from https://blogtienao.com/feed, took 2.504066166s
+2024/04/08 19:37:45 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.742927728s
+2024/04/08 19:37:45 Skipping writing post, no content: https://www.hltv.org/news/38728/champion-of-champions-tour-season-2-announced-with-streamlined-format
+2024/04/08 19:37:45 Skipping writing post, no content: https://www.hltv.org/news/38727/ence-lose-skyesports-masters-opener-to-benched-forze-roster
+2024/04/08 19:37:45 Skipping writing post, no content: https://www.hltv.org/news/38717/live-updates-from-iem-chengdu-day-1
+2024/04/08 19:37:45 Skipping writing post, no content: https://www.hltv.org/news/38726/mouz-beat-furia-to-make-iem-chengdu-playoffs
+2024/04/08 19:37:45 Skipping writing post, no content: https://www.hltv.org/news/38724/og-bench-regali-modo-to-stand-in
+2024/04/08 19:37:45 Skipping writing post, no content: https://www.hltv.org/news/38725/liquids-new-lineup-earn-first-playoff-berth-over-g2
+2024/04/08 19:37:45 Skipping writing post, no content: https://www.hltv.org/news/38721/flyquest-stun-cloud9-in-organizational-debut
+2024/04/08 19:37:45 Skipping writing post, no content: https://www.hltv.org/news/38722/art-we-know-the-pressure-were-under
+2024/04/08 19:37:45 Skipping writing post, no content: https://www.hltv.org/news/38720/mouz-deny-tyloo-upset-in-chengdu
+2024/04/08 19:37:45 Skipping writing post, no content: https://www.hltv.org/news/38719/twistzz-yekindar-took-it-very-personally-that-he-had-a-bad-performance-in-the-rmr
+2024/04/08 19:37:45 Templated 76 posts, took 11.672671ms
