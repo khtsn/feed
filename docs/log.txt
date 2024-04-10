@@ -1,30 +1,30 @@
-2024/04/10 15:37:59 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/10 15:37:59 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 194.982577ms
-2024/04/10 15:37:59 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 222.370734ms
-2024/04/10 15:37:59 Fetched posts from https://vlr.gg/rss, took 251.387517ms
-2024/04/10 15:37:59 Content still empty after HTML reader: https://www.hltv.org/news/38746/g2-book-vp-rematch-as-they-complete-iem-chengdu-playoff-bracket
-2024/04/10 15:37:59 Content still empty after HTML reader: https://www.hltv.org/news/38745/faze-set-up-liquid-clash-at-iem-chengdu
-2024/04/10 15:37:59 Content still empty after HTML reader: https://www.hltv.org/news/38743/astralis-and-mouz-sail-into-chengdu-semis
-2024/04/10 15:37:59 Content still empty after HTML reader: https://www.hltv.org/news/38742/faze-and-flyquest-set-to-clash-for-iem-chengdu-playoff-berth
-2024/04/10 15:37:59 Content still empty after HTML reader: https://www.hltv.org/news/38741/nouns-name-adren-gm-and-head-coach
-2024/04/10 15:37:59 Content still empty after HTML reader: https://www.hltv.org/news/38740/live-updates-from-iem-chengdu-day-3
-2024/04/10 15:37:59 Content still empty after HTML reader: https://www.hltv.org/news/38738/hooxi-the-post-major-blues-are-hitting-us-a-bit
-2024/04/10 15:37:59 Content still empty after HTML reader: https://www.hltv.org/news/38739/furia-co-owner-akkari-the-moment-requires-changes-and-they-will-be-done
-2024/04/10 15:37:59 Content still empty after HTML reader: https://www.hltv.org/news/38730/live-updates-from-iem-chengdu-day-2
-2024/04/10 15:37:59 Content still empty after HTML reader: https://www.hltv.org/news/38737/heroic-eliminate-furia-in-chengdu
-2024/04/10 15:37:59 Fetched posts from https://www.hltv.org/rss/news, took 417.945255ms
-2024/04/10 15:38:00 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.197586109s
-2024/04/10 15:38:00 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.349887632s
-2024/04/10 15:38:01 Fetched posts from https://blogtienao.com/feed, took 2.357448077s
-2024/04/10 15:38:13 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.749955395s
-2024/04/10 15:38:13 Skipping writing post, no content: https://www.hltv.org/news/38746/g2-book-vp-rematch-as-they-complete-iem-chengdu-playoff-bracket
-2024/04/10 15:38:13 Skipping writing post, no content: https://www.hltv.org/news/38745/faze-set-up-liquid-clash-at-iem-chengdu
-2024/04/10 15:38:13 Skipping writing post, no content: https://www.hltv.org/news/38743/astralis-and-mouz-sail-into-chengdu-semis
-2024/04/10 15:38:13 Skipping writing post, no content: https://www.hltv.org/news/38742/faze-and-flyquest-set-to-clash-for-iem-chengdu-playoff-berth
-2024/04/10 15:38:13 Skipping writing post, no content: https://www.hltv.org/news/38741/nouns-name-adren-gm-and-head-coach
-2024/04/10 15:38:13 Skipping writing post, no content: https://www.hltv.org/news/38740/live-updates-from-iem-chengdu-day-3
-2024/04/10 15:38:13 Skipping writing post, no content: https://www.hltv.org/news/38738/hooxi-the-post-major-blues-are-hitting-us-a-bit
-2024/04/10 15:38:13 Skipping writing post, no content: https://www.hltv.org/news/38739/furia-co-owner-akkari-the-moment-requires-changes-and-they-will-be-done
-2024/04/10 15:38:13 Skipping writing post, no content: https://www.hltv.org/news/38730/live-updates-from-iem-chengdu-day-2
-2024/04/10 15:38:13 Skipping writing post, no content: https://www.hltv.org/news/38737/heroic-eliminate-furia-in-chengdu
-2024/04/10 15:38:13 Templated 80 posts, took 12.169135ms
+2024/04/10 15:52:09 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 100.670374ms
+2024/04/10 15:52:09 Fetched posts from https://vlr.gg/rss, took 248.19659ms
+2024/04/10 15:52:09 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/10 15:52:09 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 330.514721ms
+2024/04/10 15:52:09 Content still empty after HTML reader: https://www.hltv.org/news/38746/g2-book-vp-rematch-as-they-complete-iem-chengdu-playoff-bracket
+2024/04/10 15:52:09 Content still empty after HTML reader: https://www.hltv.org/news/38740/live-updates-from-iem-chengdu-day-3
+2024/04/10 15:52:09 Content still empty after HTML reader: https://www.hltv.org/news/38745/faze-set-up-liquid-clash-at-iem-chengdu
+2024/04/10 15:52:09 Content still empty after HTML reader: https://www.hltv.org/news/38743/astralis-and-mouz-sail-into-chengdu-semis
+2024/04/10 15:52:09 Content still empty after HTML reader: https://www.hltv.org/news/38742/faze-and-flyquest-set-to-clash-for-iem-chengdu-playoff-berth
+2024/04/10 15:52:09 Content still empty after HTML reader: https://www.hltv.org/news/38741/nouns-name-adren-gm-and-head-coach
+2024/04/10 15:52:09 Content still empty after HTML reader: https://www.hltv.org/news/38738/hooxi-the-post-major-blues-are-hitting-us-a-bit
+2024/04/10 15:52:09 Content still empty after HTML reader: https://www.hltv.org/news/38739/furia-co-owner-akkari-the-moment-requires-changes-and-they-will-be-done
+2024/04/10 15:52:09 Content still empty after HTML reader: https://www.hltv.org/news/38730/live-updates-from-iem-chengdu-day-2
+2024/04/10 15:52:09 Content still empty after HTML reader: https://www.hltv.org/news/38737/heroic-eliminate-furia-in-chengdu
+2024/04/10 15:52:09 Fetched posts from https://www.hltv.org/rss/news, took 444.306316ms
+2024/04/10 15:52:10 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 730.291903ms
+2024/04/10 15:52:10 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.306761163s
+2024/04/10 15:52:11 Fetched posts from https://blogtienao.com/feed, took 2.255026726s
+2024/04/10 15:52:28 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.226367169s
+2024/04/10 15:52:28 Skipping writing post, no content: https://www.hltv.org/news/38746/g2-book-vp-rematch-as-they-complete-iem-chengdu-playoff-bracket
+2024/04/10 15:52:28 Skipping writing post, no content: https://www.hltv.org/news/38740/live-updates-from-iem-chengdu-day-3
+2024/04/10 15:52:28 Skipping writing post, no content: https://www.hltv.org/news/38745/faze-set-up-liquid-clash-at-iem-chengdu
+2024/04/10 15:52:28 Skipping writing post, no content: https://www.hltv.org/news/38743/astralis-and-mouz-sail-into-chengdu-semis
+2024/04/10 15:52:28 Skipping writing post, no content: https://www.hltv.org/news/38742/faze-and-flyquest-set-to-clash-for-iem-chengdu-playoff-berth
+2024/04/10 15:52:28 Skipping writing post, no content: https://www.hltv.org/news/38741/nouns-name-adren-gm-and-head-coach
+2024/04/10 15:52:28 Skipping writing post, no content: https://www.hltv.org/news/38738/hooxi-the-post-major-blues-are-hitting-us-a-bit
+2024/04/10 15:52:28 Skipping writing post, no content: https://www.hltv.org/news/38739/furia-co-owner-akkari-the-moment-requires-changes-and-they-will-be-done
+2024/04/10 15:52:28 Skipping writing post, no content: https://www.hltv.org/news/38730/live-updates-from-iem-chengdu-day-2
+2024/04/10 15:52:28 Skipping writing post, no content: https://www.hltv.org/news/38737/heroic-eliminate-furia-in-chengdu
+2024/04/10 15:52:28 Templated 82 posts, took 13.013241ms
