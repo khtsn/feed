@@ -1,30 +1,30 @@
-2024/04/11 22:52:35 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/11 22:52:35 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 179.027795ms
-2024/04/11 22:52:35 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 200.466591ms
-2024/04/11 22:52:36 Fetched posts from https://vlr.gg/rss, took 693.839272ms
-2024/04/11 22:52:36 Content still empty after HTML reader: https://www.hltv.org/news/38755/doto-leaves-jano-the-talent-pool-in-finland-right-now-is-quite-small
-2024/04/11 22:52:36 Content still empty after HTML reader: https://www.hltv.org/news/38754/we-refuse-to-die-jason-lake-on-reclaiming-complexity-once-again
-2024/04/11 22:52:36 Content still empty after HTML reader: https://www.hltv.org/news/38753/kabum-set-to-make-cs-return
-2024/04/11 22:52:36 Content still empty after HTML reader: https://www.hltv.org/news/38752/what-to-know-about-the-iem-chengdu-playoffs-fantasy-game
-2024/04/11 22:52:36 Content still empty after HTML reader: https://www.hltv.org/news/38751/gokushima-receives-two-year-match-fixing-ban
-2024/04/11 22:52:36 Content still empty after HTML reader: https://www.hltv.org/news/38750/liazz-i-dont-know-if-australian-cs-is-back-yet-i-think-were-on-the-right-track-though
-2024/04/11 22:52:36 Content still empty after HTML reader: https://www.hltv.org/news/38749/mapcore-launch-15000-mapping-contest
-2024/04/11 22:52:36 Content still empty after HTML reader: https://www.hltv.org/news/38748/frozen-on-fatigue-we-have-to-perform-under-these-circumstances-as-well
-2024/04/11 22:52:36 Content still empty after HTML reader: https://www.hltv.org/news/38744/siuhy-every-game-is-just-a-really-good-game-for-jimpphat
-2024/04/11 22:52:36 Content still empty after HTML reader: https://www.hltv.org/news/38746/g2-book-vp-rematch-as-they-complete-iem-chengdu-playoff-bracket
-2024/04/11 22:52:36 Fetched posts from https://www.hltv.org/rss/news, took 929.189011ms
-2024/04/11 22:52:37 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.708781522s
-2024/04/11 22:52:37 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.76317639s
-2024/04/11 22:52:38 Fetched posts from https://blogtienao.com/feed, took 3.298828393s
-2024/04/11 22:52:57 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.771698966s
-2024/04/11 22:52:57 Skipping writing post, no content: https://www.hltv.org/news/38755/doto-leaves-jano-the-talent-pool-in-finland-right-now-is-quite-small
-2024/04/11 22:52:57 Skipping writing post, no content: https://www.hltv.org/news/38754/we-refuse-to-die-jason-lake-on-reclaiming-complexity-once-again
-2024/04/11 22:52:57 Skipping writing post, no content: https://www.hltv.org/news/38753/kabum-set-to-make-cs-return
-2024/04/11 22:52:57 Skipping writing post, no content: https://www.hltv.org/news/38752/what-to-know-about-the-iem-chengdu-playoffs-fantasy-game
-2024/04/11 22:52:57 Skipping writing post, no content: https://www.hltv.org/news/38751/gokushima-receives-two-year-match-fixing-ban
-2024/04/11 22:52:57 Skipping writing post, no content: https://www.hltv.org/news/38750/liazz-i-dont-know-if-australian-cs-is-back-yet-i-think-were-on-the-right-track-though
-2024/04/11 22:52:57 Skipping writing post, no content: https://www.hltv.org/news/38749/mapcore-launch-15000-mapping-contest
-2024/04/11 22:52:57 Skipping writing post, no content: https://www.hltv.org/news/38748/frozen-on-fatigue-we-have-to-perform-under-these-circumstances-as-well
-2024/04/11 22:52:57 Skipping writing post, no content: https://www.hltv.org/news/38744/siuhy-every-game-is-just-a-really-good-game-for-jimpphat
-2024/04/11 22:52:57 Skipping writing post, no content: https://www.hltv.org/news/38746/g2-book-vp-rematch-as-they-complete-iem-chengdu-playoff-bracket
-2024/04/11 22:52:57 Templated 79 posts, took 12.67507ms
+2024/04/11 23:17:32 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 207.435354ms
+2024/04/11 23:17:32 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/11 23:17:32 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 298.732911ms
+2024/04/11 23:17:32 Fetched posts from https://vlr.gg/rss, took 411.880453ms
+2024/04/11 23:17:33 Content still empty after HTML reader: https://www.hltv.org/news/38755/doto-leaves-jano-the-talent-pool-in-finland-right-now-is-quite-small
+2024/04/11 23:17:33 Content still empty after HTML reader: https://www.hltv.org/news/38754/we-refuse-to-die-jason-lake-on-reclaiming-complexity-once-again
+2024/04/11 23:17:33 Content still empty after HTML reader: https://www.hltv.org/news/38753/kabum-set-to-make-cs-return
+2024/04/11 23:17:33 Content still empty after HTML reader: https://www.hltv.org/news/38752/what-to-know-about-the-iem-chengdu-playoffs-fantasy-game
+2024/04/11 23:17:33 Content still empty after HTML reader: https://www.hltv.org/news/38751/gokushima-receives-two-year-match-fixing-ban
+2024/04/11 23:17:33 Content still empty after HTML reader: https://www.hltv.org/news/38750/liazz-i-dont-know-if-australian-cs-is-back-yet-i-think-were-on-the-right-track-though
+2024/04/11 23:17:33 Content still empty after HTML reader: https://www.hltv.org/news/38749/mapcore-launch-15000-mapping-contest
+2024/04/11 23:17:33 Content still empty after HTML reader: https://www.hltv.org/news/38748/frozen-on-fatigue-we-have-to-perform-under-these-circumstances-as-well
+2024/04/11 23:17:33 Content still empty after HTML reader: https://www.hltv.org/news/38744/siuhy-every-game-is-just-a-really-good-game-for-jimpphat
+2024/04/11 23:17:33 Content still empty after HTML reader: https://www.hltv.org/news/38746/g2-book-vp-rematch-as-they-complete-iem-chengdu-playoff-bracket
+2024/04/11 23:17:33 Fetched posts from https://www.hltv.org/rss/news, took 783.383134ms
+2024/04/11 23:17:33 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 862.709695ms
+2024/04/11 23:17:33 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.331208233s
+2024/04/11 23:17:35 Fetched posts from https://blogtienao.com/feed, took 2.997500807s
+2024/04/11 23:17:48 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.091142905s
+2024/04/11 23:17:48 Skipping writing post, no content: https://www.hltv.org/news/38755/doto-leaves-jano-the-talent-pool-in-finland-right-now-is-quite-small
+2024/04/11 23:17:48 Skipping writing post, no content: https://www.hltv.org/news/38754/we-refuse-to-die-jason-lake-on-reclaiming-complexity-once-again
+2024/04/11 23:17:48 Skipping writing post, no content: https://www.hltv.org/news/38753/kabum-set-to-make-cs-return
+2024/04/11 23:17:48 Skipping writing post, no content: https://www.hltv.org/news/38752/what-to-know-about-the-iem-chengdu-playoffs-fantasy-game
+2024/04/11 23:17:48 Skipping writing post, no content: https://www.hltv.org/news/38751/gokushima-receives-two-year-match-fixing-ban
+2024/04/11 23:17:48 Skipping writing post, no content: https://www.hltv.org/news/38750/liazz-i-dont-know-if-australian-cs-is-back-yet-i-think-were-on-the-right-track-though
+2024/04/11 23:17:48 Skipping writing post, no content: https://www.hltv.org/news/38749/mapcore-launch-15000-mapping-contest
+2024/04/11 23:17:48 Skipping writing post, no content: https://www.hltv.org/news/38748/frozen-on-fatigue-we-have-to-perform-under-these-circumstances-as-well
+2024/04/11 23:17:48 Skipping writing post, no content: https://www.hltv.org/news/38744/siuhy-every-game-is-just-a-really-good-game-for-jimpphat
+2024/04/11 23:17:48 Skipping writing post, no content: https://www.hltv.org/news/38746/g2-book-vp-rematch-as-they-complete-iem-chengdu-playoff-bracket
+2024/04/11 23:17:48 Templated 77 posts, took 13.229108ms
