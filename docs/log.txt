@@ -1,30 +1,30 @@
-2024/04/13 19:22:50 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/13 19:22:50 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 222.836358ms
-2024/04/13 19:22:50 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 256.949876ms
-2024/04/13 19:22:50 Fetched posts from https://vlr.gg/rss, took 323.788743ms
-2024/04/13 19:22:50 Content still empty after HTML reader: https://www.hltv.org/news/38769/karrigan-this-is-the-first-time-in-my-career-where-im-really-drained
-2024/04/13 19:22:50 Content still empty after HTML reader: https://www.hltv.org/news/38765/live-updates-from-iem-chengdu-day-5
-2024/04/13 19:22:50 Content still empty after HTML reader: https://www.hltv.org/news/38768/faze-beat-astralis-to-make-eighth-consecutive-grand-final
-2024/04/13 19:22:50 Content still empty after HTML reader: https://www.hltv.org/news/38767/torzsi-on-stage-win-we-showed-that-we-belong-here
-2024/04/13 19:22:50 Content still empty after HTML reader: https://www.hltv.org/news/38766/mouz-secure-revenge-on-g2-for-the-chengdu-grand-final
-2024/04/13 19:22:50 Content still empty after HTML reader: https://www.hltv.org/news/38764/aurora-qualify-for-betboom-dacha-belgrade
-2024/04/13 19:22:50 Content still empty after HTML reader: https://www.hltv.org/news/38763/device-on-being-an-igl-it-has-given-me-the-passion-and-happiness-back
-2024/04/13 19:22:50 Content still empty after HTML reader: https://www.hltv.org/news/38762/esports-world-cup-qualifier-invites-announced
-2024/04/13 19:22:50 Content still empty after HTML reader: https://www.hltv.org/news/38760/mouz-invited-to-betboom-dacha-belgrade
-2024/04/13 19:22:50 Content still empty after HTML reader: https://www.hltv.org/news/38761/young-ninjas-sign-xkacpersky
-2024/04/13 19:22:50 Fetched posts from https://www.hltv.org/rss/news, took 418.31273ms
-2024/04/13 19:22:51 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.608774487s
-2024/04/13 19:22:51 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.754410846s
-2024/04/13 19:22:52 Fetched posts from https://blogtienao.com/feed, took 2.42577432s
-2024/04/13 19:23:07 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.376691543s
-2024/04/13 19:23:07 Skipping writing post, no content: https://www.hltv.org/news/38769/karrigan-this-is-the-first-time-in-my-career-where-im-really-drained
-2024/04/13 19:23:07 Skipping writing post, no content: https://www.hltv.org/news/38765/live-updates-from-iem-chengdu-day-5
-2024/04/13 19:23:07 Skipping writing post, no content: https://www.hltv.org/news/38768/faze-beat-astralis-to-make-eighth-consecutive-grand-final
-2024/04/13 19:23:07 Skipping writing post, no content: https://www.hltv.org/news/38767/torzsi-on-stage-win-we-showed-that-we-belong-here
-2024/04/13 19:23:07 Skipping writing post, no content: https://www.hltv.org/news/38766/mouz-secure-revenge-on-g2-for-the-chengdu-grand-final
-2024/04/13 19:23:07 Skipping writing post, no content: https://www.hltv.org/news/38764/aurora-qualify-for-betboom-dacha-belgrade
-2024/04/13 19:23:07 Skipping writing post, no content: https://www.hltv.org/news/38763/device-on-being-an-igl-it-has-given-me-the-passion-and-happiness-back
-2024/04/13 19:23:07 Skipping writing post, no content: https://www.hltv.org/news/38762/esports-world-cup-qualifier-invites-announced
-2024/04/13 19:23:07 Skipping writing post, no content: https://www.hltv.org/news/38760/mouz-invited-to-betboom-dacha-belgrade
-2024/04/13 19:23:07 Skipping writing post, no content: https://www.hltv.org/news/38761/young-ninjas-sign-xkacpersky
-2024/04/13 19:23:07 Templated 78 posts, took 12.60091ms
+2024/04/13 19:37:31 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 205.790878ms
+2024/04/13 19:37:31 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/13 19:37:31 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 238.731853ms
+2024/04/13 19:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38769/karrigan-this-is-the-first-time-in-my-career-where-im-really-drained
+2024/04/13 19:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38765/live-updates-from-iem-chengdu-day-5
+2024/04/13 19:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38768/faze-beat-astralis-to-make-eighth-consecutive-grand-final
+2024/04/13 19:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38767/torzsi-on-stage-win-we-showed-that-we-belong-here
+2024/04/13 19:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38766/mouz-secure-revenge-on-g2-for-the-chengdu-grand-final
+2024/04/13 19:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38764/aurora-qualify-for-betboom-dacha-belgrade
+2024/04/13 19:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38763/device-on-being-an-igl-it-has-given-me-the-passion-and-happiness-back
+2024/04/13 19:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38762/esports-world-cup-qualifier-invites-announced
+2024/04/13 19:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38760/mouz-invited-to-betboom-dacha-belgrade
+2024/04/13 19:37:32 Content still empty after HTML reader: https://www.hltv.org/news/38761/young-ninjas-sign-xkacpersky
+2024/04/13 19:37:32 Fetched posts from https://www.hltv.org/rss/news, took 540.109134ms
+2024/04/13 19:37:32 Fetched posts from https://vlr.gg/rss, took 651.212266ms
+2024/04/13 19:37:32 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 793.846911ms
+2024/04/13 19:37:33 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.208953882s
+2024/04/13 19:37:34 Fetched posts from https://blogtienao.com/feed, took 3.218441042s
+2024/04/13 19:37:48 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.51759627s
+2024/04/13 19:37:48 Skipping writing post, no content: https://www.hltv.org/news/38769/karrigan-this-is-the-first-time-in-my-career-where-im-really-drained
+2024/04/13 19:37:48 Skipping writing post, no content: https://www.hltv.org/news/38765/live-updates-from-iem-chengdu-day-5
+2024/04/13 19:37:48 Skipping writing post, no content: https://www.hltv.org/news/38768/faze-beat-astralis-to-make-eighth-consecutive-grand-final
+2024/04/13 19:37:48 Skipping writing post, no content: https://www.hltv.org/news/38767/torzsi-on-stage-win-we-showed-that-we-belong-here
+2024/04/13 19:37:48 Skipping writing post, no content: https://www.hltv.org/news/38766/mouz-secure-revenge-on-g2-for-the-chengdu-grand-final
+2024/04/13 19:37:48 Skipping writing post, no content: https://www.hltv.org/news/38764/aurora-qualify-for-betboom-dacha-belgrade
+2024/04/13 19:37:48 Skipping writing post, no content: https://www.hltv.org/news/38763/device-on-being-an-igl-it-has-given-me-the-passion-and-happiness-back
+2024/04/13 19:37:48 Skipping writing post, no content: https://www.hltv.org/news/38762/esports-world-cup-qualifier-invites-announced
+2024/04/13 19:37:48 Skipping writing post, no content: https://www.hltv.org/news/38760/mouz-invited-to-betboom-dacha-belgrade
+2024/04/13 19:37:48 Skipping writing post, no content: https://www.hltv.org/news/38761/young-ninjas-sign-xkacpersky
+2024/04/13 19:37:48 Templated 78 posts, took 12.005781ms
