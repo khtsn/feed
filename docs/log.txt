@@ -1,30 +1,28 @@
-2024/04/13 03:14:03 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 110.342551ms
-2024/04/13 03:14:03 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/13 03:14:03 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 207.141662ms
-2024/04/13 03:14:03 Fetched posts from https://vlr.gg/rss, took 232.489849ms
-2024/04/13 03:14:03 Content still empty after HTML reader: https://www.hltv.org/news/38764/aurora-qualify-for-betboom-dacha-belgrade
-2024/04/13 03:14:03 Content still empty after HTML reader: https://www.hltv.org/news/38763/device-on-being-an-igl-it-has-given-me-the-passion-and-happiness-back
-2024/04/13 03:14:03 Content still empty after HTML reader: https://www.hltv.org/news/38762/esports-world-cup-qualifier-invites-announced
-2024/04/13 03:14:03 Content still empty after HTML reader: https://www.hltv.org/news/38760/mouz-invited-to-betboom-dacha-belgrade
-2024/04/13 03:14:03 Content still empty after HTML reader: https://www.hltv.org/news/38761/young-ninjas-sign-xkacpersky
-2024/04/13 03:14:03 Content still empty after HTML reader: https://www.hltv.org/news/38759/faze-outlast-much-improved-liquid-in-chengdu
-2024/04/13 03:14:03 Content still empty after HTML reader: https://www.hltv.org/news/38757/live-updates-from-iem-chengdu-day-4
-2024/04/13 03:14:03 Content still empty after HTML reader: https://www.hltv.org/news/38758/g2-advance-to-iem-chengdu-semi-finals-over-vp
-2024/04/13 03:14:03 Content still empty after HTML reader: https://www.hltv.org/news/38756/mibr-qualify-for-betboom-dacha-belgrade
-2024/04/13 03:14:03 Content still empty after HTML reader: https://www.hltv.org/news/38755/doto-leaves-jano-the-talent-pool-in-finland-right-now-is-quite-small
-2024/04/13 03:14:03 Fetched posts from https://www.hltv.org/rss/news, took 363.413878ms
-2024/04/13 03:14:03 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 723.072104ms
-2024/04/13 03:14:04 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.409028208s
-2024/04/13 03:14:05 Fetched posts from https://blogtienao.com/feed, took 2.252831156s
-2024/04/13 03:14:22 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.193099897s
-2024/04/13 03:14:22 Skipping writing post, no content: https://www.hltv.org/news/38764/aurora-qualify-for-betboom-dacha-belgrade
-2024/04/13 03:14:22 Skipping writing post, no content: https://www.hltv.org/news/38763/device-on-being-an-igl-it-has-given-me-the-passion-and-happiness-back
-2024/04/13 03:14:22 Skipping writing post, no content: https://www.hltv.org/news/38762/esports-world-cup-qualifier-invites-announced
-2024/04/13 03:14:22 Skipping writing post, no content: https://www.hltv.org/news/38760/mouz-invited-to-betboom-dacha-belgrade
-2024/04/13 03:14:22 Skipping writing post, no content: https://www.hltv.org/news/38761/young-ninjas-sign-xkacpersky
-2024/04/13 03:14:22 Skipping writing post, no content: https://www.hltv.org/news/38759/faze-outlast-much-improved-liquid-in-chengdu
-2024/04/13 03:14:22 Skipping writing post, no content: https://www.hltv.org/news/38757/live-updates-from-iem-chengdu-day-4
-2024/04/13 03:14:22 Skipping writing post, no content: https://www.hltv.org/news/38758/g2-advance-to-iem-chengdu-semi-finals-over-vp
-2024/04/13 03:14:22 Skipping writing post, no content: https://www.hltv.org/news/38756/mibr-qualify-for-betboom-dacha-belgrade
-2024/04/13 03:14:22 Skipping writing post, no content: https://www.hltv.org/news/38755/doto-leaves-jano-the-talent-pool-in-finland-right-now-is-quite-small
-2024/04/13 03:14:22 Templated 81 posts, took 13.542193ms
+2024/04/13 03:25:44 Fetched posts from https://vlr.gg/rss, took 207.876572ms
+2024/04/13 03:25:44 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/13 03:25:44 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 245.926951ms
+2024/04/13 03:25:44 Content still empty after HTML reader: https://www.hltv.org/news/38764/aurora-qualify-for-betboom-dacha-belgrade
+2024/04/13 03:25:44 Content still empty after HTML reader: https://www.hltv.org/news/38763/device-on-being-an-igl-it-has-given-me-the-passion-and-happiness-back
+2024/04/13 03:25:44 Content still empty after HTML reader: https://www.hltv.org/news/38760/mouz-invited-to-betboom-dacha-belgrade
+2024/04/13 03:25:44 Content still empty after HTML reader: https://www.hltv.org/news/38761/young-ninjas-sign-xkacpersky
+2024/04/13 03:25:44 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 338.346206ms
+2024/04/13 03:25:44 Content still empty after HTML reader: https://www.hltv.org/news/38759/faze-outlast-much-improved-liquid-in-chengdu
+2024/04/13 03:25:44 Content still empty after HTML reader: https://www.hltv.org/news/38757/live-updates-from-iem-chengdu-day-4
+2024/04/13 03:25:44 Content still empty after HTML reader: https://www.hltv.org/news/38758/g2-advance-to-iem-chengdu-semi-finals-over-vp
+2024/04/13 03:25:44 Content still empty after HTML reader: https://www.hltv.org/news/38756/mibr-qualify-for-betboom-dacha-belgrade
+2024/04/13 03:25:44 Content still empty after HTML reader: https://www.hltv.org/news/38755/doto-leaves-jano-the-talent-pool-in-finland-right-now-is-quite-small
+2024/04/13 03:25:44 Fetched posts from https://www.hltv.org/rss/news, took 389.910891ms
+2024/04/13 03:25:44 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 877.04523ms
+2024/04/13 03:25:45 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 999.990839ms
+2024/04/13 03:25:46 Fetched posts from https://blogtienao.com/feed, took 2.120556287s
+2024/04/13 03:26:02 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.910478214s
+2024/04/13 03:26:02 Skipping writing post, no content: https://www.hltv.org/news/38764/aurora-qualify-for-betboom-dacha-belgrade
+2024/04/13 03:26:02 Skipping writing post, no content: https://www.hltv.org/news/38763/device-on-being-an-igl-it-has-given-me-the-passion-and-happiness-back
+2024/04/13 03:26:02 Skipping writing post, no content: https://www.hltv.org/news/38760/mouz-invited-to-betboom-dacha-belgrade
+2024/04/13 03:26:02 Skipping writing post, no content: https://www.hltv.org/news/38761/young-ninjas-sign-xkacpersky
+2024/04/13 03:26:02 Skipping writing post, no content: https://www.hltv.org/news/38759/faze-outlast-much-improved-liquid-in-chengdu
+2024/04/13 03:26:02 Skipping writing post, no content: https://www.hltv.org/news/38757/live-updates-from-iem-chengdu-day-4
+2024/04/13 03:26:02 Skipping writing post, no content: https://www.hltv.org/news/38758/g2-advance-to-iem-chengdu-semi-finals-over-vp
+2024/04/13 03:26:02 Skipping writing post, no content: https://www.hltv.org/news/38756/mibr-qualify-for-betboom-dacha-belgrade
+2024/04/13 03:26:02 Skipping writing post, no content: https://www.hltv.org/news/38755/doto-leaves-jano-the-talent-pool-in-finland-right-now-is-quite-small
+2024/04/13 03:26:02 Templated 81 posts, took 12.92277ms
