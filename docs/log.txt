@@ -1,30 +1,32 @@
-2024/04/15 21:16:06 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/15 21:16:06 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 187.712323ms
-2024/04/15 21:16:06 Fetched posts from https://vlr.gg/rss, took 240.853403ms
-2024/04/15 21:16:06 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 271.567978ms
-2024/04/15 21:16:06 Content still empty after HTML reader: https://www.hltv.org/news/38784/media-furia-practicing-with-kye-in-place-of-art
-2024/04/15 21:16:06 Content still empty after HTML reader: https://www.hltv.org/news/38783/electronic-to-play-for-virtuspro-at-esl-pro-league-s19
-2024/04/15 21:16:06 Content still empty after HTML reader: https://www.hltv.org/news/38781/the-evps-and-best-five-of-iem-chengdu
-2024/04/15 21:16:06 Content still empty after HTML reader: https://www.hltv.org/news/38780/cloud9-withdraw-from-esl-pro-league-saw-invited-as-replacement
-2024/04/15 21:16:06 Content still empty after HTML reader: https://www.hltv.org/news/38778/karrigan-retirement-is-not-on-the-horizon-for-me
-2024/04/15 21:16:06 Content still empty after HTML reader: https://www.hltv.org/news/38779/virtuspro-sign-electronic
-2024/04/15 21:16:06 Content still empty after HTML reader: https://www.hltv.org/news/38777/aurora-complete-dominant-run-to-claim-skyesports-masters-title
-2024/04/15 21:16:06 Content still empty after HTML reader: https://www.hltv.org/news/38776/sashi-pick-up-full-espionage-lineup
-2024/04/15 21:16:06 Content still empty after HTML reader: https://www.hltv.org/news/38772/gaimin-gladiators-sign-ecstatics-roster-in-return-to-cs
-2024/04/15 21:16:06 Content still empty after HTML reader: https://www.hltv.org/news/38775/broky-i-used-this-tournament-as-a-kind-of-vacation
-2024/04/15 21:16:06 Fetched posts from https://www.hltv.org/rss/news, took 401.032722ms
-2024/04/15 21:16:07 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.177600933s
-2024/04/15 21:16:07 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.638472436s
-2024/04/15 21:16:08 Fetched posts from https://blogtienao.com/feed, took 2.151726146s
-2024/04/15 21:16:23 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.899629279s
-2024/04/15 21:16:23 Skipping writing post, no content: https://www.hltv.org/news/38784/media-furia-practicing-with-kye-in-place-of-art
-2024/04/15 21:16:23 Skipping writing post, no content: https://www.hltv.org/news/38783/electronic-to-play-for-virtuspro-at-esl-pro-league-s19
-2024/04/15 21:16:23 Skipping writing post, no content: https://www.hltv.org/news/38781/the-evps-and-best-five-of-iem-chengdu
-2024/04/15 21:16:23 Skipping writing post, no content: https://www.hltv.org/news/38780/cloud9-withdraw-from-esl-pro-league-saw-invited-as-replacement
-2024/04/15 21:16:23 Skipping writing post, no content: https://www.hltv.org/news/38778/karrigan-retirement-is-not-on-the-horizon-for-me
-2024/04/15 21:16:23 Skipping writing post, no content: https://www.hltv.org/news/38779/virtuspro-sign-electronic
-2024/04/15 21:16:23 Skipping writing post, no content: https://www.hltv.org/news/38777/aurora-complete-dominant-run-to-claim-skyesports-masters-title
-2024/04/15 21:16:23 Skipping writing post, no content: https://www.hltv.org/news/38776/sashi-pick-up-full-espionage-lineup
-2024/04/15 21:16:23 Skipping writing post, no content: https://www.hltv.org/news/38772/gaimin-gladiators-sign-ecstatics-roster-in-return-to-cs
-2024/04/15 21:16:23 Skipping writing post, no content: https://www.hltv.org/news/38775/broky-i-used-this-tournament-as-a-kind-of-vacation
-2024/04/15 21:16:23 Templated 72 posts, took 11.814657ms
+2024/04/15 21:38:44 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 99.574091ms
+2024/04/15 21:38:44 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/15 21:38:44 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 193.425932ms
+2024/04/15 21:38:44 Fetched posts from https://vlr.gg/rss, took 239.221016ms
+2024/04/15 21:38:44 Content still empty after HTML reader: https://www.hltv.org/news/38784/media-furia-practicing-with-kye-in-place-of-art
+2024/04/15 21:38:44 Content still empty after HTML reader: https://www.hltv.org/news/38783/electronic-to-play-for-virtuspro-at-esl-pro-league-s19
+2024/04/15 21:38:44 Content still empty after HTML reader: https://www.hltv.org/news/38781/the-evps-and-best-five-of-iem-chengdu
+2024/04/15 21:38:44 Content still empty after HTML reader: https://www.hltv.org/news/38780/cloud9-withdraw-from-esl-pro-league-saw-invited-as-replacement
+2024/04/15 21:38:44 Content still empty after HTML reader: https://www.hltv.org/news/38778/karrigan-retirement-is-not-on-the-horizon-for-me
+2024/04/15 21:38:44 Content still empty after HTML reader: https://www.hltv.org/news/38779/virtuspro-sign-electronic
+2024/04/15 21:38:44 Content still empty after HTML reader: https://www.hltv.org/news/38777/aurora-complete-dominant-run-to-claim-skyesports-masters-title
+2024/04/15 21:38:44 Content still empty after HTML reader: https://www.hltv.org/news/38776/sashi-pick-up-full-espionage-lineup
+2024/04/15 21:38:44 Content still empty after HTML reader: https://www.nytimes.com/2024/04/15/arts/hannah-gutierrez-reed-rust.html
+2024/04/15 21:38:44 Content still empty after HTML reader: https://www.hltv.org/news/38772/gaimin-gladiators-sign-ecstatics-roster-in-return-to-cs
+2024/04/15 21:38:44 Content still empty after HTML reader: https://www.hltv.org/news/38775/broky-i-used-this-tournament-as-a-kind-of-vacation
+2024/04/15 21:38:44 Fetched posts from https://www.hltv.org/rss/news, took 430.640305ms
+2024/04/15 21:38:45 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.414965686s
+2024/04/15 21:38:45 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.483876946s
+2024/04/15 21:38:46 Fetched posts from https://blogtienao.com/feed, took 2.160095673s
+2024/04/15 21:39:01 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.640180909s
+2024/04/15 21:39:01 Skipping writing post, no content: https://www.nytimes.com/2024/04/15/arts/hannah-gutierrez-reed-rust.html
+2024/04/15 21:39:01 Skipping writing post, no content: https://www.hltv.org/news/38784/media-furia-practicing-with-kye-in-place-of-art
+2024/04/15 21:39:01 Skipping writing post, no content: https://www.hltv.org/news/38783/electronic-to-play-for-virtuspro-at-esl-pro-league-s19
+2024/04/15 21:39:01 Skipping writing post, no content: https://www.hltv.org/news/38781/the-evps-and-best-five-of-iem-chengdu
+2024/04/15 21:39:01 Skipping writing post, no content: https://www.hltv.org/news/38780/cloud9-withdraw-from-esl-pro-league-saw-invited-as-replacement
+2024/04/15 21:39:01 Skipping writing post, no content: https://www.hltv.org/news/38778/karrigan-retirement-is-not-on-the-horizon-for-me
+2024/04/15 21:39:01 Skipping writing post, no content: https://www.hltv.org/news/38779/virtuspro-sign-electronic
+2024/04/15 21:39:01 Skipping writing post, no content: https://www.hltv.org/news/38777/aurora-complete-dominant-run-to-claim-skyesports-masters-title
+2024/04/15 21:39:01 Skipping writing post, no content: https://www.hltv.org/news/38776/sashi-pick-up-full-espionage-lineup
+2024/04/15 21:39:01 Skipping writing post, no content: https://www.hltv.org/news/38772/gaimin-gladiators-sign-ecstatics-roster-in-return-to-cs
+2024/04/15 21:39:01 Skipping writing post, no content: https://www.hltv.org/news/38775/broky-i-used-this-tournament-as-a-kind-of-vacation
+2024/04/15 21:39:01 Templated 71 posts, took 11.460268ms
