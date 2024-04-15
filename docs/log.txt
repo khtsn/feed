@@ -1,30 +1,32 @@
-2024/04/15 15:16:24 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 209.334112ms
-2024/04/15 15:16:24 Fetched posts from https://vlr.gg/rss, took 290.141584ms
-2024/04/15 15:16:24 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/15 15:16:24 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 334.380225ms
-2024/04/15 15:16:24 Content still empty after HTML reader: https://www.hltv.org/news/38781/the-evps-and-best-five-of-iem-chengdu
-2024/04/15 15:16:24 Content still empty after HTML reader: https://www.hltv.org/news/38780/cloud9-withdraw-from-esl-pro-league-saw-invited-as-replacement
-2024/04/15 15:16:24 Content still empty after HTML reader: https://www.hltv.org/news/38778/karrigan-retirement-is-not-on-the-horizon-for-me
-2024/04/15 15:16:24 Content still empty after HTML reader: https://www.hltv.org/news/38779/virtuspro-sign-electronic
-2024/04/15 15:16:24 Content still empty after HTML reader: https://www.hltv.org/news/38777/aurora-complete-dominant-run-to-claim-skyesports-masters-title
-2024/04/15 15:16:24 Content still empty after HTML reader: https://www.hltv.org/news/38776/sashi-pick-up-full-espionage-lineup
-2024/04/15 15:16:24 Content still empty after HTML reader: https://www.hltv.org/news/38772/gaimin-gladiators-sign-ecstatics-roster-in-return-to-cs
-2024/04/15 15:16:24 Content still empty after HTML reader: https://www.hltv.org/news/38775/broky-i-used-this-tournament-as-a-kind-of-vacation
-2024/04/15 15:16:24 Content still empty after HTML reader: https://www.hltv.org/news/38774/broky-named-iem-chengdu-mvp
-2024/04/15 15:16:24 Content still empty after HTML reader: https://www.hltv.org/news/38773/faze-defeat-mouz-2-0-to-lift-trophy-in-chengdu
-2024/04/15 15:16:24 Fetched posts from https://www.hltv.org/rss/news, took 463.177179ms
-2024/04/15 15:16:26 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.712020737s
-2024/04/15 15:16:26 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.939011109s
-2024/04/15 15:16:26 Fetched posts from https://blogtienao.com/feed, took 2.356452757s
-2024/04/15 15:16:39 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.588869034s
-2024/04/15 15:16:39 Skipping writing post, no content: https://www.hltv.org/news/38781/the-evps-and-best-five-of-iem-chengdu
-2024/04/15 15:16:39 Skipping writing post, no content: https://www.hltv.org/news/38780/cloud9-withdraw-from-esl-pro-league-saw-invited-as-replacement
-2024/04/15 15:16:39 Skipping writing post, no content: https://www.hltv.org/news/38778/karrigan-retirement-is-not-on-the-horizon-for-me
-2024/04/15 15:16:39 Skipping writing post, no content: https://www.hltv.org/news/38779/virtuspro-sign-electronic
-2024/04/15 15:16:39 Skipping writing post, no content: https://www.hltv.org/news/38777/aurora-complete-dominant-run-to-claim-skyesports-masters-title
-2024/04/15 15:16:39 Skipping writing post, no content: https://www.hltv.org/news/38776/sashi-pick-up-full-espionage-lineup
-2024/04/15 15:16:39 Skipping writing post, no content: https://www.hltv.org/news/38772/gaimin-gladiators-sign-ecstatics-roster-in-return-to-cs
-2024/04/15 15:16:39 Skipping writing post, no content: https://www.hltv.org/news/38775/broky-i-used-this-tournament-as-a-kind-of-vacation
-2024/04/15 15:16:39 Skipping writing post, no content: https://www.hltv.org/news/38774/broky-named-iem-chengdu-mvp
-2024/04/15 15:16:39 Skipping writing post, no content: https://www.hltv.org/news/38773/faze-defeat-mouz-2-0-to-lift-trophy-in-chengdu
-2024/04/15 15:16:39 Templated 77 posts, took 12.435776ms
+2024/04/15 15:37:13 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 238.966167ms
+2024/04/15 15:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38781/the-evps-and-best-five-of-iem-chengdu
+2024/04/15 15:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38780/cloud9-withdraw-from-esl-pro-league-saw-invited-as-replacement
+2024/04/15 15:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38778/karrigan-retirement-is-not-on-the-horizon-for-me
+2024/04/15 15:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38779/virtuspro-sign-electronic
+2024/04/15 15:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38777/aurora-complete-dominant-run-to-claim-skyesports-masters-title
+2024/04/15 15:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38776/sashi-pick-up-full-espionage-lineup
+2024/04/15 15:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38772/gaimin-gladiators-sign-ecstatics-roster-in-return-to-cs
+2024/04/15 15:37:14 Fetched posts from https://vlr.gg/rss, took 428.460363ms
+2024/04/15 15:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38775/broky-i-used-this-tournament-as-a-kind-of-vacation
+2024/04/15 15:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38774/broky-named-iem-chengdu-mvp
+2024/04/15 15:37:14 Content still empty after HTML reader: https://www.nytimes.com/2024/04/15/business/tesla-layoff-elon-musk.html
+2024/04/15 15:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38773/faze-defeat-mouz-2-0-to-lift-trophy-in-chengdu
+2024/04/15 15:37:14 Fetched posts from https://www.hltv.org/rss/news, took 452.110462ms
+2024/04/15 15:37:14 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/15 15:37:14 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 786.254366ms
+2024/04/15 15:37:14 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.02175483s
+2024/04/15 15:37:14 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.063874816s
+2024/04/15 15:37:19 Fetched posts from https://blogtienao.com/feed, took 5.985729035s
+2024/04/15 15:37:28 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.917398587s
+2024/04/15 15:37:28 Skipping writing post, no content: https://www.nytimes.com/2024/04/15/business/tesla-layoff-elon-musk.html
+2024/04/15 15:37:28 Skipping writing post, no content: https://www.hltv.org/news/38781/the-evps-and-best-five-of-iem-chengdu
+2024/04/15 15:37:28 Skipping writing post, no content: https://www.hltv.org/news/38780/cloud9-withdraw-from-esl-pro-league-saw-invited-as-replacement
+2024/04/15 15:37:28 Skipping writing post, no content: https://www.hltv.org/news/38778/karrigan-retirement-is-not-on-the-horizon-for-me
+2024/04/15 15:37:28 Skipping writing post, no content: https://www.hltv.org/news/38779/virtuspro-sign-electronic
+2024/04/15 15:37:28 Skipping writing post, no content: https://www.hltv.org/news/38777/aurora-complete-dominant-run-to-claim-skyesports-masters-title
+2024/04/15 15:37:28 Skipping writing post, no content: https://www.hltv.org/news/38776/sashi-pick-up-full-espionage-lineup
+2024/04/15 15:37:28 Skipping writing post, no content: https://www.hltv.org/news/38772/gaimin-gladiators-sign-ecstatics-roster-in-return-to-cs
+2024/04/15 15:37:28 Skipping writing post, no content: https://www.hltv.org/news/38775/broky-i-used-this-tournament-as-a-kind-of-vacation
+2024/04/15 15:37:28 Skipping writing post, no content: https://www.hltv.org/news/38774/broky-named-iem-chengdu-mvp
+2024/04/15 15:37:28 Skipping writing post, no content: https://www.hltv.org/news/38773/faze-defeat-mouz-2-0-to-lift-trophy-in-chengdu
+2024/04/15 15:37:28 Templated 77 posts, took 12.777894ms
