@@ -1,30 +1,28 @@
-2024/04/17 21:37:31 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/17 21:37:31 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 130.532404ms
-2024/04/17 21:37:31 Content still empty after HTML reader: https://www.hltv.org/news/38799/epl-groups-a-b-go-live-in-a-single-fantasy-game
-2024/04/17 21:37:31 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 218.984869ms
-2024/04/17 21:37:31 Content still empty after HTML reader: https://www.hltv.org/news/38798/roej-and-refrezh-exploring-options-as-ex-preasys-future-remains-unclear
-2024/04/17 21:37:31 Content still empty after HTML reader: https://www.hltv.org/news/38797/furias-akkari-an-international-coach-is-the-priority
-2024/04/17 21:37:31 Content still empty after HTML reader: https://www.hltv.org/news/38796/esl-pro-league-season-19-talent-announced
-2024/04/17 21:37:31 Content still empty after HTML reader: https://www.hltv.org/news/38795/b1ad3-on-hltv-confirmed-second-major-win-international-roster-and-future
-2024/04/17 21:37:31 Content still empty after HTML reader: https://www.hltv.org/news/38794/mesa-to-hold-100000-lan-in-mongolia
-2024/04/17 21:37:31 Content still empty after HTML reader: https://www.hltv.org/news/38788/virtuspro-ceo-the-sky-is-the-limit-for-us-in-terms-of-ambitions-on-the-transfer-market
-2024/04/17 21:37:31 Content still empty after HTML reader: https://www.hltv.org/news/38792/nouns-bench-marke-add-clasia-on-trial
-2024/04/17 21:37:31 Content still empty after HTML reader: https://www.hltv.org/news/38791/art-at-this-moment-strangely-enough-i-find-myself-happy
-2024/04/17 21:37:31 Content still empty after HTML reader: https://www.hltv.org/news/38790/international-footballer-simon-kjr-launches-wopa
-2024/04/17 21:37:31 Fetched posts from https://www.hltv.org/rss/news, took 288.016225ms
-2024/04/17 21:37:31 Fetched posts from https://vlr.gg/rss, took 626.78149ms
-2024/04/17 21:37:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.286289541s
-2024/04/17 21:37:33 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.271434444s
-2024/04/17 21:37:34 Fetched posts from https://blogtienao.com/feed, took 3.23339597s
-2024/04/17 21:37:49 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.326778999s
-2024/04/17 21:37:49 Skipping writing post, no content: https://www.hltv.org/news/38799/epl-groups-a-b-go-live-in-a-single-fantasy-game
-2024/04/17 21:37:49 Skipping writing post, no content: https://www.hltv.org/news/38798/roej-and-refrezh-exploring-options-as-ex-preasys-future-remains-unclear
-2024/04/17 21:37:49 Skipping writing post, no content: https://www.hltv.org/news/38797/furias-akkari-an-international-coach-is-the-priority
-2024/04/17 21:37:49 Skipping writing post, no content: https://www.hltv.org/news/38796/esl-pro-league-season-19-talent-announced
-2024/04/17 21:37:49 Skipping writing post, no content: https://www.hltv.org/news/38795/b1ad3-on-hltv-confirmed-second-major-win-international-roster-and-future
-2024/04/17 21:37:49 Skipping writing post, no content: https://www.hltv.org/news/38794/mesa-to-hold-100000-lan-in-mongolia
-2024/04/17 21:37:49 Skipping writing post, no content: https://www.hltv.org/news/38788/virtuspro-ceo-the-sky-is-the-limit-for-us-in-terms-of-ambitions-on-the-transfer-market
-2024/04/17 21:37:49 Skipping writing post, no content: https://www.hltv.org/news/38792/nouns-bench-marke-add-clasia-on-trial
-2024/04/17 21:37:49 Skipping writing post, no content: https://www.hltv.org/news/38791/art-at-this-moment-strangely-enough-i-find-myself-happy
-2024/04/17 21:37:49 Skipping writing post, no content: https://www.hltv.org/news/38790/international-footballer-simon-kjr-launches-wopa
-2024/04/17 21:37:49 Templated 75 posts, took 12.004433ms
+2024/04/17 21:52:11 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 183.944708ms
+2024/04/17 21:52:12 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/17 21:52:12 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 305.196774ms
+2024/04/17 21:52:12 Fetched posts from https://vlr.gg/rss, took 335.323845ms
+2024/04/17 21:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38799/epl-groups-a-b-go-live-in-a-single-fantasy-game
+2024/04/17 21:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38798/roej-and-refrezh-exploring-options-as-ex-preasys-future-remains-unclear
+2024/04/17 21:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38797/furias-akkari-an-international-coach-is-the-priority
+2024/04/17 21:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38796/esl-pro-league-season-19-talent-announced
+2024/04/17 21:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38795/b1ad3-on-hltv-confirmed-second-major-win-international-roster-and-future
+2024/04/17 21:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38794/mesa-to-hold-100000-lan-in-mongolia
+2024/04/17 21:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38792/nouns-bench-marke-add-clasia-on-trial
+2024/04/17 21:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38791/art-at-this-moment-strangely-enough-i-find-myself-happy
+2024/04/17 21:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38790/international-footballer-simon-kjr-launches-wopa
+2024/04/17 21:52:12 Fetched posts from https://www.hltv.org/rss/news, took 461.011225ms
+2024/04/17 21:52:12 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 779.862366ms
+2024/04/17 21:52:12 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 946.862071ms
+2024/04/17 21:52:14 Fetched posts from https://blogtienao.com/feed, took 2.522618382s
+2024/04/17 21:52:27 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.120152216s
+2024/04/17 21:52:27 Skipping writing post, no content: https://www.hltv.org/news/38799/epl-groups-a-b-go-live-in-a-single-fantasy-game
+2024/04/17 21:52:27 Skipping writing post, no content: https://www.hltv.org/news/38798/roej-and-refrezh-exploring-options-as-ex-preasys-future-remains-unclear
+2024/04/17 21:52:27 Skipping writing post, no content: https://www.hltv.org/news/38797/furias-akkari-an-international-coach-is-the-priority
+2024/04/17 21:52:27 Skipping writing post, no content: https://www.hltv.org/news/38796/esl-pro-league-season-19-talent-announced
+2024/04/17 21:52:27 Skipping writing post, no content: https://www.hltv.org/news/38795/b1ad3-on-hltv-confirmed-second-major-win-international-roster-and-future
+2024/04/17 21:52:27 Skipping writing post, no content: https://www.hltv.org/news/38794/mesa-to-hold-100000-lan-in-mongolia
+2024/04/17 21:52:27 Skipping writing post, no content: https://www.hltv.org/news/38792/nouns-bench-marke-add-clasia-on-trial
+2024/04/17 21:52:27 Skipping writing post, no content: https://www.hltv.org/news/38791/art-at-this-moment-strangely-enough-i-find-myself-happy
+2024/04/17 21:52:27 Skipping writing post, no content: https://www.hltv.org/news/38790/international-footballer-simon-kjr-launches-wopa
+2024/04/17 21:52:27 Templated 76 posts, took 12.770908ms
