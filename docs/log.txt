@@ -1,30 +1,30 @@
-2024/04/18 17:39:24 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/18 17:39:24 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 92.282991ms
-2024/04/18 17:39:24 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 251.553643ms
-2024/04/18 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38804/blast-premier-grand-finals-to-feature-bo5-format
-2024/04/18 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38801/b1ad3-i-didnt-expect-to-win-a-major-so-fast
-2024/04/18 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38803/og-promote-lambert-to-head-coach
-2024/04/18 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38802/global-esports-tour-rio-set-to-start
-2024/04/18 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38747/why-more-and-more-igls-are-taking-up-the-supportive-rotator-role
-2024/04/18 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38800/four-americas-teams-earn-esports-world-cup-closed-qualifier-spots
-2024/04/18 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38799/epl-groups-a-b-go-live-in-a-single-fantasy-game
-2024/04/18 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38798/roej-and-refrezh-exploring-options-as-ex-preasys-future-remains-unclear
-2024/04/18 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38797/furias-akkari-an-international-coach-is-the-priority
-2024/04/18 17:39:24 Content still empty after HTML reader: https://www.hltv.org/news/38796/esl-pro-league-season-19-talent-announced
-2024/04/18 17:39:24 Fetched posts from https://www.hltv.org/rss/news, took 437.723936ms
-2024/04/18 17:39:24 Fetched posts from https://vlr.gg/rss, took 746.939725ms
-2024/04/18 17:39:24 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 789.573393ms
-2024/04/18 17:39:25 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.263113153s
-2024/04/18 17:39:27 Fetched posts from https://blogtienao.com/feed, took 3.175327773s
-2024/04/18 17:39:38 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.470577465s
-2024/04/18 17:39:38 Skipping writing post, no content: https://www.hltv.org/news/38804/blast-premier-grand-finals-to-feature-bo5-format
-2024/04/18 17:39:38 Skipping writing post, no content: https://www.hltv.org/news/38801/b1ad3-i-didnt-expect-to-win-a-major-so-fast
-2024/04/18 17:39:38 Skipping writing post, no content: https://www.hltv.org/news/38803/og-promote-lambert-to-head-coach
-2024/04/18 17:39:38 Skipping writing post, no content: https://www.hltv.org/news/38802/global-esports-tour-rio-set-to-start
-2024/04/18 17:39:38 Skipping writing post, no content: https://www.hltv.org/news/38747/why-more-and-more-igls-are-taking-up-the-supportive-rotator-role
-2024/04/18 17:39:38 Skipping writing post, no content: https://www.hltv.org/news/38800/four-americas-teams-earn-esports-world-cup-closed-qualifier-spots
-2024/04/18 17:39:38 Skipping writing post, no content: https://www.hltv.org/news/38799/epl-groups-a-b-go-live-in-a-single-fantasy-game
-2024/04/18 17:39:38 Skipping writing post, no content: https://www.hltv.org/news/38798/roej-and-refrezh-exploring-options-as-ex-preasys-future-remains-unclear
-2024/04/18 17:39:38 Skipping writing post, no content: https://www.hltv.org/news/38797/furias-akkari-an-international-coach-is-the-priority
-2024/04/18 17:39:38 Skipping writing post, no content: https://www.hltv.org/news/38796/esl-pro-league-season-19-talent-announced
-2024/04/18 17:39:38 Templated 80 posts, took 12.590486ms
+2024/04/18 17:52:12 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 128.46458ms
+2024/04/18 17:52:12 Fetched posts from https://vlr.gg/rss, took 243.068337ms
+2024/04/18 17:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38804/blast-premier-grand-finals-to-feature-bo5-format
+2024/04/18 17:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38801/b1ad3-i-didnt-expect-to-win-a-major-so-fast
+2024/04/18 17:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38803/og-promote-lambert-to-head-coach
+2024/04/18 17:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38802/global-esports-tour-rio-set-to-start
+2024/04/18 17:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38747/why-more-and-more-igls-are-taking-up-the-supportive-rotator-role
+2024/04/18 17:52:12 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/18 17:52:12 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 347.692154ms
+2024/04/18 17:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38800/four-americas-teams-earn-esports-world-cup-closed-qualifier-spots
+2024/04/18 17:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38799/epl-groups-a-b-go-live-in-a-single-fantasy-game
+2024/04/18 17:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38798/roej-and-refrezh-exploring-options-as-ex-preasys-future-remains-unclear
+2024/04/18 17:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38797/furias-akkari-an-international-coach-is-the-priority
+2024/04/18 17:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38796/esl-pro-league-season-19-talent-announced
+2024/04/18 17:52:12 Fetched posts from https://www.hltv.org/rss/news, took 416.672172ms
+2024/04/18 17:52:13 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 939.308222ms
+2024/04/18 17:52:13 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 939.763087ms
+2024/04/18 17:52:14 Fetched posts from https://blogtienao.com/feed, took 2.242095984s
+2024/04/18 17:52:28 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.740678502s
+2024/04/18 17:52:28 Skipping writing post, no content: https://www.hltv.org/news/38804/blast-premier-grand-finals-to-feature-bo5-format
+2024/04/18 17:52:28 Skipping writing post, no content: https://www.hltv.org/news/38801/b1ad3-i-didnt-expect-to-win-a-major-so-fast
+2024/04/18 17:52:28 Skipping writing post, no content: https://www.hltv.org/news/38803/og-promote-lambert-to-head-coach
+2024/04/18 17:52:28 Skipping writing post, no content: https://www.hltv.org/news/38802/global-esports-tour-rio-set-to-start
+2024/04/18 17:52:28 Skipping writing post, no content: https://www.hltv.org/news/38747/why-more-and-more-igls-are-taking-up-the-supportive-rotator-role
+2024/04/18 17:52:28 Skipping writing post, no content: https://www.hltv.org/news/38800/four-americas-teams-earn-esports-world-cup-closed-qualifier-spots
+2024/04/18 17:52:28 Skipping writing post, no content: https://www.hltv.org/news/38799/epl-groups-a-b-go-live-in-a-single-fantasy-game
+2024/04/18 17:52:28 Skipping writing post, no content: https://www.hltv.org/news/38798/roej-and-refrezh-exploring-options-as-ex-preasys-future-remains-unclear
+2024/04/18 17:52:28 Skipping writing post, no content: https://www.hltv.org/news/38797/furias-akkari-an-international-coach-is-the-priority
+2024/04/18 17:52:28 Skipping writing post, no content: https://www.hltv.org/news/38796/esl-pro-league-season-19-talent-announced
+2024/04/18 17:52:28 Templated 79 posts, took 13.268881ms
