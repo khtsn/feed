@@ -1,30 +1,30 @@
-2024/04/19 09:37:38 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/19 09:37:38 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 157.243753ms
-2024/04/19 09:37:38 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 194.2261ms
-2024/04/19 09:37:38 Fetched posts from https://vlr.gg/rss, took 284.173944ms
-2024/04/19 09:37:38 Content still empty after HTML reader: https://www.hltv.org/news/38808/tech-delays-printer-issues-and-european-struggles-on-day-one-at-get-rio
-2024/04/19 09:37:38 Content still empty after HTML reader: https://www.hltv.org/news/38807/coldzera-departs-legacy
-2024/04/19 09:37:38 Content still empty after HTML reader: https://www.hltv.org/news/38806/falcons-heroic-miss-out-on-esports-world-cup-as-betboom-sashi-pass-open-qualifiers
-2024/04/19 09:37:38 Content still empty after HTML reader: https://www.hltv.org/news/38805/cloud9-to-field-alpha-as-stand-in-for-esports-world-cup-qualifier
-2024/04/19 09:37:38 Content still empty after HTML reader: https://www.hltv.org/news/38804/blast-premier-grand-finals-to-feature-bo5-format
-2024/04/19 09:37:38 Content still empty after HTML reader: https://www.hltv.org/news/38801/b1ad3-i-didnt-expect-to-win-a-major-so-fast
-2024/04/19 09:37:38 Content still empty after HTML reader: https://www.hltv.org/news/38803/og-promote-lambert-to-head-coach
-2024/04/19 09:37:38 Content still empty after HTML reader: https://www.hltv.org/news/38802/global-esports-tour-rio-set-to-start
-2024/04/19 09:37:38 Content still empty after HTML reader: https://www.hltv.org/news/38747/why-more-and-more-igls-are-taking-up-the-supportive-rotator-role
-2024/04/19 09:37:38 Content still empty after HTML reader: https://www.hltv.org/news/38800/four-americas-teams-earn-esports-world-cup-closed-qualifier-spots
-2024/04/19 09:37:38 Fetched posts from https://www.hltv.org/rss/news, took 465.727366ms
-2024/04/19 09:37:39 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.062493959s
-2024/04/19 09:37:39 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.502602454s
-2024/04/19 09:37:40 Fetched posts from https://blogtienao.com/feed, took 2.281324921s
-2024/04/19 09:37:55 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.448598178s
-2024/04/19 09:37:55 Skipping writing post, no content: https://www.hltv.org/news/38808/tech-delays-printer-issues-and-european-struggles-on-day-one-at-get-rio
-2024/04/19 09:37:55 Skipping writing post, no content: https://www.hltv.org/news/38807/coldzera-departs-legacy
-2024/04/19 09:37:55 Skipping writing post, no content: https://www.hltv.org/news/38806/falcons-heroic-miss-out-on-esports-world-cup-as-betboom-sashi-pass-open-qualifiers
-2024/04/19 09:37:55 Skipping writing post, no content: https://www.hltv.org/news/38805/cloud9-to-field-alpha-as-stand-in-for-esports-world-cup-qualifier
-2024/04/19 09:37:55 Skipping writing post, no content: https://www.hltv.org/news/38804/blast-premier-grand-finals-to-feature-bo5-format
-2024/04/19 09:37:55 Skipping writing post, no content: https://www.hltv.org/news/38801/b1ad3-i-didnt-expect-to-win-a-major-so-fast
-2024/04/19 09:37:55 Skipping writing post, no content: https://www.hltv.org/news/38803/og-promote-lambert-to-head-coach
-2024/04/19 09:37:55 Skipping writing post, no content: https://www.hltv.org/news/38802/global-esports-tour-rio-set-to-start
-2024/04/19 09:37:55 Skipping writing post, no content: https://www.hltv.org/news/38747/why-more-and-more-igls-are-taking-up-the-supportive-rotator-role
-2024/04/19 09:37:55 Skipping writing post, no content: https://www.hltv.org/news/38800/four-americas-teams-earn-esports-world-cup-closed-qualifier-spots
-2024/04/19 09:37:55 Templated 81 posts, took 13.155288ms
+2024/04/19 09:52:23 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 204.005507ms
+2024/04/19 09:52:23 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/19 09:52:23 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 210.851531ms
+2024/04/19 09:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38808/tech-delays-printer-issues-and-european-struggles-on-day-one-at-get-rio
+2024/04/19 09:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38807/coldzera-departs-legacy
+2024/04/19 09:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38806/falcons-heroic-miss-out-on-esports-world-cup-as-betboom-sashi-pass-open-qualifiers
+2024/04/19 09:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38805/cloud9-to-field-alpha-as-stand-in-for-esports-world-cup-qualifier
+2024/04/19 09:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38804/blast-premier-grand-finals-to-feature-bo5-format
+2024/04/19 09:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38801/b1ad3-i-didnt-expect-to-win-a-major-so-fast
+2024/04/19 09:52:23 Fetched posts from https://vlr.gg/rss, took 397.628097ms
+2024/04/19 09:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38803/og-promote-lambert-to-head-coach
+2024/04/19 09:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38802/global-esports-tour-rio-set-to-start
+2024/04/19 09:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38747/why-more-and-more-igls-are-taking-up-the-supportive-rotator-role
+2024/04/19 09:52:23 Content still empty after HTML reader: https://www.hltv.org/news/38800/four-americas-teams-earn-esports-world-cup-closed-qualifier-spots
+2024/04/19 09:52:23 Fetched posts from https://www.hltv.org/rss/news, took 447.549124ms
+2024/04/19 09:52:24 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.057925091s
+2024/04/19 09:52:24 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.52065527s
+2024/04/19 09:52:25 Fetched posts from https://blogtienao.com/feed, took 2.348882449s
+2024/04/19 09:52:42 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.141061464s
+2024/04/19 09:52:42 Skipping writing post, no content: https://www.hltv.org/news/38808/tech-delays-printer-issues-and-european-struggles-on-day-one-at-get-rio
+2024/04/19 09:52:42 Skipping writing post, no content: https://www.hltv.org/news/38807/coldzera-departs-legacy
+2024/04/19 09:52:42 Skipping writing post, no content: https://www.hltv.org/news/38806/falcons-heroic-miss-out-on-esports-world-cup-as-betboom-sashi-pass-open-qualifiers
+2024/04/19 09:52:42 Skipping writing post, no content: https://www.hltv.org/news/38805/cloud9-to-field-alpha-as-stand-in-for-esports-world-cup-qualifier
+2024/04/19 09:52:42 Skipping writing post, no content: https://www.hltv.org/news/38804/blast-premier-grand-finals-to-feature-bo5-format
+2024/04/19 09:52:42 Skipping writing post, no content: https://www.hltv.org/news/38801/b1ad3-i-didnt-expect-to-win-a-major-so-fast
+2024/04/19 09:52:42 Skipping writing post, no content: https://www.hltv.org/news/38803/og-promote-lambert-to-head-coach
+2024/04/19 09:52:42 Skipping writing post, no content: https://www.hltv.org/news/38802/global-esports-tour-rio-set-to-start
+2024/04/19 09:52:42 Skipping writing post, no content: https://www.hltv.org/news/38747/why-more-and-more-igls-are-taking-up-the-supportive-rotator-role
+2024/04/19 09:52:42 Skipping writing post, no content: https://www.hltv.org/news/38800/four-americas-teams-earn-esports-world-cup-closed-qualifier-spots
+2024/04/19 09:52:42 Templated 81 posts, took 12.641535ms
