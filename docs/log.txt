@@ -1,30 +1,30 @@
-2024/04/19 14:53:33 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 129.97427ms
-2024/04/19 14:53:33 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/19 14:53:33 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 150.963013ms
-2024/04/19 14:53:33 Fetched posts from https://vlr.gg/rss, took 285.839272ms
-2024/04/19 14:53:33 Content still empty after HTML reader: https://www.hltv.org/news/38809/tacitus-named-new-fluxo-head-coach
-2024/04/19 14:53:33 Content still empty after HTML reader: https://www.hltv.org/news/38808/tech-delays-printer-issues-and-european-struggles-on-day-one-at-get-rio
-2024/04/19 14:53:33 Content still empty after HTML reader: https://www.hltv.org/news/38807/coldzera-departs-legacy
-2024/04/19 14:53:33 Content still empty after HTML reader: https://www.hltv.org/news/38806/falcons-heroic-miss-out-on-esports-world-cup-as-betboom-sashi-pass-open-qualifiers
-2024/04/19 14:53:33 Content still empty after HTML reader: https://www.hltv.org/news/38805/cloud9-to-field-alpha-as-stand-in-for-esports-world-cup-qualifier
-2024/04/19 14:53:34 Content still empty after HTML reader: https://www.hltv.org/news/38804/blast-premier-grand-finals-to-feature-bo5-format
-2024/04/19 14:53:34 Content still empty after HTML reader: https://www.hltv.org/news/38801/b1ad3-i-didnt-expect-to-win-a-major-so-fast
-2024/04/19 14:53:34 Content still empty after HTML reader: https://www.hltv.org/news/38803/og-promote-lambert-to-head-coach
-2024/04/19 14:53:34 Content still empty after HTML reader: https://www.hltv.org/news/38802/global-esports-tour-rio-set-to-start
-2024/04/19 14:53:34 Content still empty after HTML reader: https://www.hltv.org/news/38747/why-more-and-more-igls-are-taking-up-the-supportive-rotator-role
-2024/04/19 14:53:34 Fetched posts from https://www.hltv.org/rss/news, took 544.089406ms
-2024/04/19 14:53:34 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.002606333s
-2024/04/19 14:53:35 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.755772087s
-2024/04/19 14:53:35 Fetched posts from https://blogtienao.com/feed, took 2.317199428s
-2024/04/19 14:53:53 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.742276786s
-2024/04/19 14:53:53 Skipping writing post, no content: https://www.hltv.org/news/38809/tacitus-named-new-fluxo-head-coach
-2024/04/19 14:53:53 Skipping writing post, no content: https://www.hltv.org/news/38808/tech-delays-printer-issues-and-european-struggles-on-day-one-at-get-rio
-2024/04/19 14:53:53 Skipping writing post, no content: https://www.hltv.org/news/38807/coldzera-departs-legacy
-2024/04/19 14:53:53 Skipping writing post, no content: https://www.hltv.org/news/38806/falcons-heroic-miss-out-on-esports-world-cup-as-betboom-sashi-pass-open-qualifiers
-2024/04/19 14:53:53 Skipping writing post, no content: https://www.hltv.org/news/38805/cloud9-to-field-alpha-as-stand-in-for-esports-world-cup-qualifier
-2024/04/19 14:53:53 Skipping writing post, no content: https://www.hltv.org/news/38804/blast-premier-grand-finals-to-feature-bo5-format
-2024/04/19 14:53:53 Skipping writing post, no content: https://www.hltv.org/news/38801/b1ad3-i-didnt-expect-to-win-a-major-so-fast
-2024/04/19 14:53:53 Skipping writing post, no content: https://www.hltv.org/news/38803/og-promote-lambert-to-head-coach
-2024/04/19 14:53:53 Skipping writing post, no content: https://www.hltv.org/news/38802/global-esports-tour-rio-set-to-start
-2024/04/19 14:53:53 Skipping writing post, no content: https://www.hltv.org/news/38747/why-more-and-more-igls-are-taking-up-the-supportive-rotator-role
-2024/04/19 14:53:53 Templated 84 posts, took 13.14172ms
+2024/04/19 15:16:54 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/19 15:16:54 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 127.059987ms
+2024/04/19 15:16:54 Content still empty after HTML reader: https://www.hltv.org/news/38810/cct-europe-series-1-group-teams-announced
+2024/04/19 15:16:54 Content still empty after HTML reader: https://www.hltv.org/news/38809/tacitus-named-new-fluxo-head-coach
+2024/04/19 15:16:54 Content still empty after HTML reader: https://www.hltv.org/news/38808/tech-delays-printer-issues-and-european-struggles-on-day-one-at-get-rio
+2024/04/19 15:16:54 Content still empty after HTML reader: https://www.hltv.org/news/38807/coldzera-departs-legacy
+2024/04/19 15:16:54 Content still empty after HTML reader: https://www.hltv.org/news/38806/falcons-heroic-miss-out-on-esports-world-cup-as-betboom-sashi-pass-open-qualifiers
+2024/04/19 15:16:54 Content still empty after HTML reader: https://www.hltv.org/news/38805/cloud9-to-field-alpha-as-stand-in-for-esports-world-cup-qualifier
+2024/04/19 15:16:54 Content still empty after HTML reader: https://www.hltv.org/news/38804/blast-premier-grand-finals-to-feature-bo5-format
+2024/04/19 15:16:54 Content still empty after HTML reader: https://www.hltv.org/news/38801/b1ad3-i-didnt-expect-to-win-a-major-so-fast
+2024/04/19 15:16:54 Content still empty after HTML reader: https://www.hltv.org/news/38803/og-promote-lambert-to-head-coach
+2024/04/19 15:16:54 Content still empty after HTML reader: https://www.hltv.org/news/38802/global-esports-tour-rio-set-to-start
+2024/04/19 15:16:54 Fetched posts from https://www.hltv.org/rss/news, took 309.296724ms
+2024/04/19 15:16:54 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 499.779661ms
+2024/04/19 15:16:55 Fetched posts from https://vlr.gg/rss, took 686.279459ms
+2024/04/19 15:16:55 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 699.210144ms
+2024/04/19 15:16:56 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.262603637s
+2024/04/19 15:17:01 Fetched posts from https://blogtienao.com/feed, took 7.324643481s
+2024/04/19 15:17:11 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.455613311s
+2024/04/19 15:17:11 Skipping writing post, no content: https://www.hltv.org/news/38810/cct-europe-series-1-group-teams-announced
+2024/04/19 15:17:11 Skipping writing post, no content: https://www.hltv.org/news/38809/tacitus-named-new-fluxo-head-coach
+2024/04/19 15:17:11 Skipping writing post, no content: https://www.hltv.org/news/38808/tech-delays-printer-issues-and-european-struggles-on-day-one-at-get-rio
+2024/04/19 15:17:11 Skipping writing post, no content: https://www.hltv.org/news/38807/coldzera-departs-legacy
+2024/04/19 15:17:11 Skipping writing post, no content: https://www.hltv.org/news/38806/falcons-heroic-miss-out-on-esports-world-cup-as-betboom-sashi-pass-open-qualifiers
+2024/04/19 15:17:11 Skipping writing post, no content: https://www.hltv.org/news/38805/cloud9-to-field-alpha-as-stand-in-for-esports-world-cup-qualifier
+2024/04/19 15:17:11 Skipping writing post, no content: https://www.hltv.org/news/38804/blast-premier-grand-finals-to-feature-bo5-format
+2024/04/19 15:17:11 Skipping writing post, no content: https://www.hltv.org/news/38801/b1ad3-i-didnt-expect-to-win-a-major-so-fast
+2024/04/19 15:17:11 Skipping writing post, no content: https://www.hltv.org/news/38803/og-promote-lambert-to-head-coach
+2024/04/19 15:17:11 Skipping writing post, no content: https://www.hltv.org/news/38802/global-esports-tour-rio-set-to-start
+2024/04/19 15:17:11 Templated 84 posts, took 13.049477ms
