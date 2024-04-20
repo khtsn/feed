@@ -1,30 +1,32 @@
-2024/04/20 21:37:45 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/20 21:37:45 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 94.926862ms
-2024/04/20 21:37:46 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 183.339615ms
-2024/04/20 21:37:46 Content still empty after HTML reader: https://www.hltv.org/news/38821/esl-impact-season-5-finals-team-list-complete
-2024/04/20 21:37:46 Content still empty after HTML reader: https://www.hltv.org/news/38820/sashi-defeat-cloud9-and-eternal-fire-in-shock-ewc-qualification-run
-2024/04/20 21:37:46 Content still empty after HTML reader: https://www.hltv.org/news/38819/flyquest-qualify-for-esports-world-cup
-2024/04/20 21:37:46 Content still empty after HTML reader: https://www.hltv.org/news/38816/esl-pro-league-season-19-teams-format-schedule-talent-prizes-fantasy
-2024/04/20 21:37:46 Content still empty after HTML reader: https://www.hltv.org/news/38815/imperial-through-to-get-rio-grand-final-as-day-2-ends-after-19-hours-of-cs
-2024/04/20 21:37:46 Content still empty after HTML reader: https://www.hltv.org/news/38814/m80-beat-liquid-to-qualify-for-ewc-mibr-through-from-south-america
-2024/04/20 21:37:46 Content still empty after HTML reader: https://www.hltv.org/news/38793/editorial-ageing-and-to-call-upon-a-falling-star-devices-journey-to-igl
-2024/04/20 21:37:46 Content still empty after HTML reader: https://www.hltv.org/news/38813/issaa-set-to-play-first-big-event-since-2019-as-jijiehao-qualify-for-esports-world-cup
-2024/04/20 21:37:46 Content still empty after HTML reader: https://www.hltv.org/news/38812/themongolz-qualify-for-esports-world-cup-2024
-2024/04/20 21:37:46 Content still empty after HTML reader: https://www.hltv.org/news/38811/newhappy-dispute-melbourne-replacement-esl-responds
-2024/04/20 21:37:46 Fetched posts from https://www.hltv.org/rss/news, took 382.940124ms
-2024/04/20 21:37:46 Fetched posts from https://vlr.gg/rss, took 785.184841ms
-2024/04/20 21:37:46 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.118304687s
-2024/04/20 21:37:47 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.719529332s
-2024/04/20 21:37:49 Fetched posts from https://blogtienao.com/feed, took 3.184476455s
-2024/04/20 21:38:03 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.110533196s
-2024/04/20 21:38:03 Skipping writing post, no content: https://www.hltv.org/news/38821/esl-impact-season-5-finals-team-list-complete
-2024/04/20 21:38:03 Skipping writing post, no content: https://www.hltv.org/news/38820/sashi-defeat-cloud9-and-eternal-fire-in-shock-ewc-qualification-run
-2024/04/20 21:38:03 Skipping writing post, no content: https://www.hltv.org/news/38819/flyquest-qualify-for-esports-world-cup
-2024/04/20 21:38:03 Skipping writing post, no content: https://www.hltv.org/news/38816/esl-pro-league-season-19-teams-format-schedule-talent-prizes-fantasy
-2024/04/20 21:38:03 Skipping writing post, no content: https://www.hltv.org/news/38815/imperial-through-to-get-rio-grand-final-as-day-2-ends-after-19-hours-of-cs
-2024/04/20 21:38:03 Skipping writing post, no content: https://www.hltv.org/news/38814/m80-beat-liquid-to-qualify-for-ewc-mibr-through-from-south-america
-2024/04/20 21:38:03 Skipping writing post, no content: https://www.hltv.org/news/38793/editorial-ageing-and-to-call-upon-a-falling-star-devices-journey-to-igl
-2024/04/20 21:38:03 Skipping writing post, no content: https://www.hltv.org/news/38813/issaa-set-to-play-first-big-event-since-2019-as-jijiehao-qualify-for-esports-world-cup
-2024/04/20 21:38:03 Skipping writing post, no content: https://www.hltv.org/news/38812/themongolz-qualify-for-esports-world-cup-2024
-2024/04/20 21:38:03 Skipping writing post, no content: https://www.hltv.org/news/38811/newhappy-dispute-melbourne-replacement-esl-responds
-2024/04/20 21:38:03 Templated 82 posts, took 12.700252ms
+2024/04/20 21:52:19 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 191.831665ms
+2024/04/20 21:52:19 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/20 21:52:19 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 213.649719ms
+2024/04/20 21:52:19 Content still empty after HTML reader: https://www.hltv.org/news/38821/esl-impact-season-5-finals-team-list-complete
+2024/04/20 21:52:19 Content still empty after HTML reader: https://www.hltv.org/news/38820/sashi-defeat-cloud9-and-eternal-fire-in-shock-ewc-qualification-run
+2024/04/20 21:52:19 Content still empty after HTML reader: https://www.hltv.org/news/38819/flyquest-qualify-for-esports-world-cup
+2024/04/20 21:52:19 Fetched posts from https://vlr.gg/rss, took 318.448888ms
+2024/04/20 21:52:19 Content still empty after HTML reader: https://www.hltv.org/news/38816/esl-pro-league-season-19-teams-format-schedule-talent-prizes-fantasy
+2024/04/20 21:52:19 Content still empty after HTML reader: https://www.hltv.org/news/38815/imperial-through-to-get-rio-grand-final-as-day-2-ends-after-19-hours-of-cs
+2024/04/20 21:52:19 Content still empty after HTML reader: https://www.hltv.org/news/38814/m80-beat-liquid-to-qualify-for-ewc-mibr-through-from-south-america
+2024/04/20 21:52:19 Content still empty after HTML reader: https://www.nytimes.com/2024/04/20/world/middleeast/israel-netanyahu-gaza-iran.html
+2024/04/20 21:52:19 Content still empty after HTML reader: https://www.hltv.org/news/38793/editorial-ageing-and-to-call-upon-a-falling-star-devices-journey-to-igl
+2024/04/20 21:52:19 Content still empty after HTML reader: https://www.hltv.org/news/38813/issaa-set-to-play-first-big-event-since-2019-as-jijiehao-qualify-for-esports-world-cup
+2024/04/20 21:52:19 Content still empty after HTML reader: https://www.hltv.org/news/38812/themongolz-qualify-for-esports-world-cup-2024
+2024/04/20 21:52:19 Content still empty after HTML reader: https://www.hltv.org/news/38811/newhappy-dispute-melbourne-replacement-esl-responds
+2024/04/20 21:52:19 Fetched posts from https://www.hltv.org/rss/news, took 419.72272ms
+2024/04/20 21:52:20 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 673.814146ms
+2024/04/20 21:52:21 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.679419676s
+2024/04/20 21:52:21 Fetched posts from https://blogtienao.com/feed, took 2.244089605s
+2024/04/20 21:52:36 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.499641509s
+2024/04/20 21:52:36 Skipping writing post, no content: https://www.hltv.org/news/38821/esl-impact-season-5-finals-team-list-complete
+2024/04/20 21:52:36 Skipping writing post, no content: https://www.hltv.org/news/38820/sashi-defeat-cloud9-and-eternal-fire-in-shock-ewc-qualification-run
+2024/04/20 21:52:36 Skipping writing post, no content: https://www.hltv.org/news/38819/flyquest-qualify-for-esports-world-cup
+2024/04/20 21:52:36 Skipping writing post, no content: https://www.nytimes.com/2024/04/20/world/middleeast/israel-netanyahu-gaza-iran.html
+2024/04/20 21:52:36 Skipping writing post, no content: https://www.hltv.org/news/38816/esl-pro-league-season-19-teams-format-schedule-talent-prizes-fantasy
+2024/04/20 21:52:36 Skipping writing post, no content: https://www.hltv.org/news/38815/imperial-through-to-get-rio-grand-final-as-day-2-ends-after-19-hours-of-cs
+2024/04/20 21:52:36 Skipping writing post, no content: https://www.hltv.org/news/38814/m80-beat-liquid-to-qualify-for-ewc-mibr-through-from-south-america
+2024/04/20 21:52:36 Skipping writing post, no content: https://www.hltv.org/news/38793/editorial-ageing-and-to-call-upon-a-falling-star-devices-journey-to-igl
+2024/04/20 21:52:36 Skipping writing post, no content: https://www.hltv.org/news/38813/issaa-set-to-play-first-big-event-since-2019-as-jijiehao-qualify-for-esports-world-cup
+2024/04/20 21:52:36 Skipping writing post, no content: https://www.hltv.org/news/38812/themongolz-qualify-for-esports-world-cup-2024
+2024/04/20 21:52:36 Skipping writing post, no content: https://www.hltv.org/news/38811/newhappy-dispute-melbourne-replacement-esl-responds
+2024/04/20 21:52:36 Templated 83 posts, took 14.061171ms
