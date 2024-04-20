@@ -1,28 +1,30 @@
-2024/04/20 07:13:43 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 110.24795ms
-2024/04/20 07:13:43 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/20 07:13:43 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 185.449712ms
-2024/04/20 07:13:43 Fetched posts from https://vlr.gg/rss, took 236.851189ms
-2024/04/20 07:13:44 Content still empty after HTML reader: https://www.hltv.org/news/38793/editorial-ageing-and-to-call-upon-a-falling-star-devices-journey-to-igl
-2024/04/20 07:13:44 Content still empty after HTML reader: https://www.hltv.org/news/38813/issaa-set-to-play-first-big-event-since-2019-as-jijiehao-qualify-for-esports-world-cup
-2024/04/20 07:13:44 Content still empty after HTML reader: https://www.hltv.org/news/38812/themongolz-qualify-for-esports-world-cup-2024
-2024/04/20 07:13:44 Content still empty after HTML reader: https://www.hltv.org/news/38811/newhappy-dispute-melbourne-replacement-esl-responds
-2024/04/20 07:13:44 Content still empty after HTML reader: https://www.hltv.org/news/38810/cct-europe-series-1-group-teams-announced
-2024/04/20 07:13:44 Content still empty after HTML reader: https://www.hltv.org/news/38808/tech-delays-printer-issues-and-european-struggles-on-day-one-at-get-rio
-2024/04/20 07:13:44 Content still empty after HTML reader: https://www.hltv.org/news/38807/coldzera-departs-legacy
-2024/04/20 07:13:44 Content still empty after HTML reader: https://www.hltv.org/news/38806/falcons-heroic-miss-out-on-esports-world-cup-as-betboom-sashi-pass-open-qualifiers
-2024/04/20 07:13:44 Content still empty after HTML reader: https://www.hltv.org/news/38805/cloud9-to-field-alpha-as-stand-in-for-esports-world-cup-qualifier
-2024/04/20 07:13:44 Fetched posts from https://www.hltv.org/rss/news, took 731.981211ms
-2024/04/20 07:13:44 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.091515117s
-2024/04/20 07:13:45 Fetched posts from https://blogtienao.com/feed, took 2.090413435s
-2024/04/20 07:13:46 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.378985926s
-2024/04/20 07:14:04 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.906287917s
-2024/04/20 07:14:04 Skipping writing post, no content: https://www.hltv.org/news/38793/editorial-ageing-and-to-call-upon-a-falling-star-devices-journey-to-igl
-2024/04/20 07:14:04 Skipping writing post, no content: https://www.hltv.org/news/38813/issaa-set-to-play-first-big-event-since-2019-as-jijiehao-qualify-for-esports-world-cup
-2024/04/20 07:14:04 Skipping writing post, no content: https://www.hltv.org/news/38812/themongolz-qualify-for-esports-world-cup-2024
-2024/04/20 07:14:04 Skipping writing post, no content: https://www.hltv.org/news/38811/newhappy-dispute-melbourne-replacement-esl-responds
-2024/04/20 07:14:04 Skipping writing post, no content: https://www.hltv.org/news/38810/cct-europe-series-1-group-teams-announced
-2024/04/20 07:14:04 Skipping writing post, no content: https://www.hltv.org/news/38808/tech-delays-printer-issues-and-european-struggles-on-day-one-at-get-rio
-2024/04/20 07:14:04 Skipping writing post, no content: https://www.hltv.org/news/38807/coldzera-departs-legacy
-2024/04/20 07:14:04 Skipping writing post, no content: https://www.hltv.org/news/38806/falcons-heroic-miss-out-on-esports-world-cup-as-betboom-sashi-pass-open-qualifiers
-2024/04/20 07:14:04 Skipping writing post, no content: https://www.hltv.org/news/38805/cloud9-to-field-alpha-as-stand-in-for-esports-world-cup-qualifier
-2024/04/20 07:14:04 Templated 84 posts, took 13.632654ms
+2024/04/20 07:25:14 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/20 07:25:14 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 140.29813ms
+2024/04/20 07:25:14 Content still empty after HTML reader: https://www.hltv.org/news/38793/editorial-ageing-and-to-call-upon-a-falling-star-devices-journey-to-igl
+2024/04/20 07:25:14 Content still empty after HTML reader: https://www.hltv.org/news/38813/issaa-set-to-play-first-big-event-since-2019-as-jijiehao-qualify-for-esports-world-cup
+2024/04/20 07:25:14 Content still empty after HTML reader: https://www.hltv.org/news/38812/themongolz-qualify-for-esports-world-cup-2024
+2024/04/20 07:25:14 Content still empty after HTML reader: https://www.hltv.org/news/38811/newhappy-dispute-melbourne-replacement-esl-responds
+2024/04/20 07:25:14 Content still empty after HTML reader: https://www.hltv.org/news/38810/cct-europe-series-1-group-teams-announced
+2024/04/20 07:25:14 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 344.778335ms
+2024/04/20 07:25:14 Content still empty after HTML reader: https://www.hltv.org/news/38809/tacitus-named-new-fluxo-head-coach
+2024/04/20 07:25:14 Content still empty after HTML reader: https://www.hltv.org/news/38808/tech-delays-printer-issues-and-european-struggles-on-day-one-at-get-rio
+2024/04/20 07:25:14 Content still empty after HTML reader: https://www.hltv.org/news/38807/coldzera-departs-legacy
+2024/04/20 07:25:14 Content still empty after HTML reader: https://www.hltv.org/news/38806/falcons-heroic-miss-out-on-esports-world-cup-as-betboom-sashi-pass-open-qualifiers
+2024/04/20 07:25:14 Content still empty after HTML reader: https://www.hltv.org/news/38805/cloud9-to-field-alpha-as-stand-in-for-esports-world-cup-qualifier
+2024/04/20 07:25:14 Fetched posts from https://www.hltv.org/rss/news, took 381.841937ms
+2024/04/20 07:25:14 Fetched posts from https://vlr.gg/rss, took 757.471023ms
+2024/04/20 07:25:16 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.992882435s
+2024/04/20 07:25:16 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.540488834s
+2024/04/20 07:25:17 Fetched posts from https://blogtienao.com/feed, took 3.292299554s
+2024/04/20 07:25:32 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.056203774s
+2024/04/20 07:25:32 Skipping writing post, no content: https://www.hltv.org/news/38793/editorial-ageing-and-to-call-upon-a-falling-star-devices-journey-to-igl
+2024/04/20 07:25:32 Skipping writing post, no content: https://www.hltv.org/news/38813/issaa-set-to-play-first-big-event-since-2019-as-jijiehao-qualify-for-esports-world-cup
+2024/04/20 07:25:32 Skipping writing post, no content: https://www.hltv.org/news/38812/themongolz-qualify-for-esports-world-cup-2024
+2024/04/20 07:25:32 Skipping writing post, no content: https://www.hltv.org/news/38811/newhappy-dispute-melbourne-replacement-esl-responds
+2024/04/20 07:25:32 Skipping writing post, no content: https://www.hltv.org/news/38810/cct-europe-series-1-group-teams-announced
+2024/04/20 07:25:32 Skipping writing post, no content: https://www.hltv.org/news/38809/tacitus-named-new-fluxo-head-coach
+2024/04/20 07:25:32 Skipping writing post, no content: https://www.hltv.org/news/38808/tech-delays-printer-issues-and-european-struggles-on-day-one-at-get-rio
+2024/04/20 07:25:32 Skipping writing post, no content: https://www.hltv.org/news/38807/coldzera-departs-legacy
+2024/04/20 07:25:32 Skipping writing post, no content: https://www.hltv.org/news/38806/falcons-heroic-miss-out-on-esports-world-cup-as-betboom-sashi-pass-open-qualifiers
+2024/04/20 07:25:32 Skipping writing post, no content: https://www.hltv.org/news/38805/cloud9-to-field-alpha-as-stand-in-for-esports-world-cup-qualifier
+2024/04/20 07:25:32 Templated 84 posts, took 14.625832ms
