@@ -1,34 +1,30 @@
-2024/04/22 17:27:34 Content still empty after HTML reader: https://www.nytimes.com/2024/04/22/us/columbia-university-protests.html
-2024/04/22 17:27:34 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/22 17:27:34 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 272.554641ms
-2024/04/22 17:27:34 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 315.628515ms
-2024/04/22 17:27:34 Content still empty after HTML reader: https://www.hltv.org/news/38827/bleed-qualify-for-thunderpick-world-championship
-2024/04/22 17:27:34 Content still empty after HTML reader: https://www.hltv.org/news/38825/rains-faze-stint-becomes-longest-since-start-of-csgo
-2024/04/22 17:27:34 Content still empty after HTML reader: https://www.hltv.org/news/38817/perfect-world-director-when-we-ran-ti-chinese-dota-2-fans-and-players-increased-a-lot-i-think-the-same-will-happen-with-counter-strike
-2024/04/22 17:27:34 Content still empty after HTML reader: https://www.hltv.org/news/38824/virtuspro-drop-womens-roster
-2024/04/22 17:27:34 Content still empty after HTML reader: https://www.hltv.org/news/38823/media-wildcard-in-talks-with-case-over-snow
-2024/04/22 17:27:34 Content still empty after HTML reader: https://www.hltv.org/news/38785/target-rating-identifying-over-and-under-performers-on-ct-side
-2024/04/22 17:27:34 Content still empty after HTML reader: https://www.hltv.org/news/38818/pain-win-get-rio-2024-over-imperial
-2024/04/22 17:27:34 Content still empty after HTML reader: https://www.hltv.org/news/38821/esl-impact-season-5-finals-team-list-complete
-2024/04/22 17:27:34 Content still empty after HTML reader: https://www.hltv.org/news/38820/sashi-defeat-cloud9-and-eternal-fire-in-shock-ewc-qualification-run
-2024/04/22 17:27:34 Fetched posts from https://vlr.gg/rss, took 474.171864ms
-2024/04/22 17:27:34 Content still empty after HTML reader: https://www.hltv.org/news/38819/flyquest-qualify-for-esports-world-cup
-2024/04/22 17:27:34 Fetched posts from https://www.hltv.org/rss/news, took 480.792181ms
-2024/04/22 17:27:35 Content still empty after HTML reader: https://www.nytimes.com/2024/04/21/arts/television/catfish-tv-show-season-9.html
-2024/04/22 17:27:35 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 908.747082ms
-2024/04/22 17:27:35 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 959.047412ms
-2024/04/22 17:27:37 Fetched posts from https://blogtienao.com/feed, took 3.337440789s
-2024/04/22 17:27:49 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.238547898s
-2024/04/22 17:27:49 Skipping writing post, no content: https://www.hltv.org/news/38827/bleed-qualify-for-thunderpick-world-championship
-2024/04/22 17:27:49 Skipping writing post, no content: https://www.nytimes.com/2024/04/22/us/columbia-university-protests.html
-2024/04/22 17:27:49 Skipping writing post, no content: https://www.hltv.org/news/38825/rains-faze-stint-becomes-longest-since-start-of-csgo
-2024/04/22 17:27:49 Skipping writing post, no content: https://www.hltv.org/news/38817/perfect-world-director-when-we-ran-ti-chinese-dota-2-fans-and-players-increased-a-lot-i-think-the-same-will-happen-with-counter-strike
-2024/04/22 17:27:49 Skipping writing post, no content: https://www.hltv.org/news/38824/virtuspro-drop-womens-roster
-2024/04/22 17:27:49 Skipping writing post, no content: https://www.hltv.org/news/38823/media-wildcard-in-talks-with-case-over-snow
-2024/04/22 17:27:49 Skipping writing post, no content: https://www.hltv.org/news/38785/target-rating-identifying-over-and-under-performers-on-ct-side
-2024/04/22 17:27:49 Skipping writing post, no content: https://www.nytimes.com/2024/04/21/arts/television/catfish-tv-show-season-9.html
-2024/04/22 17:27:49 Skipping writing post, no content: https://www.hltv.org/news/38818/pain-win-get-rio-2024-over-imperial
-2024/04/22 17:27:49 Skipping writing post, no content: https://www.hltv.org/news/38821/esl-impact-season-5-finals-team-list-complete
-2024/04/22 17:27:49 Skipping writing post, no content: https://www.hltv.org/news/38820/sashi-defeat-cloud9-and-eternal-fire-in-shock-ewc-qualification-run
-2024/04/22 17:27:49 Skipping writing post, no content: https://www.hltv.org/news/38819/flyquest-qualify-for-esports-world-cup
-2024/04/22 17:27:49 Templated 79 posts, took 12.546603ms
+2024/04/22 17:39:19 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 173.088338ms
+2024/04/22 17:39:19 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/22 17:39:19 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 278.513907ms
+2024/04/22 17:39:19 Fetched posts from https://vlr.gg/rss, took 336.568315ms
+2024/04/22 17:39:19 Content still empty after HTML reader: https://www.hltv.org/news/38827/bleed-qualify-for-thunderpick-world-championship
+2024/04/22 17:39:19 Content still empty after HTML reader: https://www.hltv.org/news/38825/rains-faze-stint-becomes-longest-since-start-of-csgo
+2024/04/22 17:39:19 Content still empty after HTML reader: https://www.hltv.org/news/38817/perfect-world-director-when-we-ran-ti-chinese-dota-2-fans-and-players-increased-a-lot-i-think-the-same-will-happen-with-counter-strike
+2024/04/22 17:39:19 Content still empty after HTML reader: https://www.hltv.org/news/38824/virtuspro-drop-womens-roster
+2024/04/22 17:39:19 Content still empty after HTML reader: https://www.hltv.org/news/38823/media-wildcard-in-talks-with-case-over-snow
+2024/04/22 17:39:19 Content still empty after HTML reader: https://www.hltv.org/news/38785/target-rating-identifying-over-and-under-performers-on-ct-side
+2024/04/22 17:39:19 Content still empty after HTML reader: https://www.hltv.org/news/38818/pain-win-get-rio-2024-over-imperial
+2024/04/22 17:39:19 Content still empty after HTML reader: https://www.hltv.org/news/38821/esl-impact-season-5-finals-team-list-complete
+2024/04/22 17:39:19 Content still empty after HTML reader: https://www.hltv.org/news/38820/sashi-defeat-cloud9-and-eternal-fire-in-shock-ewc-qualification-run
+2024/04/22 17:39:19 Content still empty after HTML reader: https://www.hltv.org/news/38819/flyquest-qualify-for-esports-world-cup
+2024/04/22 17:39:19 Fetched posts from https://www.hltv.org/rss/news, took 480.891047ms
+2024/04/22 17:39:19 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 643.176011ms
+2024/04/22 17:39:20 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.08343012s
+2024/04/22 17:39:21 Fetched posts from https://blogtienao.com/feed, took 2.425812682s
+2024/04/22 17:39:35 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.757025302s
+2024/04/22 17:39:35 Skipping writing post, no content: https://www.hltv.org/news/38827/bleed-qualify-for-thunderpick-world-championship
+2024/04/22 17:39:35 Skipping writing post, no content: https://www.hltv.org/news/38825/rains-faze-stint-becomes-longest-since-start-of-csgo
+2024/04/22 17:39:35 Skipping writing post, no content: https://www.hltv.org/news/38817/perfect-world-director-when-we-ran-ti-chinese-dota-2-fans-and-players-increased-a-lot-i-think-the-same-will-happen-with-counter-strike
+2024/04/22 17:39:35 Skipping writing post, no content: https://www.hltv.org/news/38824/virtuspro-drop-womens-roster
+2024/04/22 17:39:35 Skipping writing post, no content: https://www.hltv.org/news/38823/media-wildcard-in-talks-with-case-over-snow
+2024/04/22 17:39:35 Skipping writing post, no content: https://www.hltv.org/news/38785/target-rating-identifying-over-and-under-performers-on-ct-side
+2024/04/22 17:39:35 Skipping writing post, no content: https://www.hltv.org/news/38818/pain-win-get-rio-2024-over-imperial
+2024/04/22 17:39:35 Skipping writing post, no content: https://www.hltv.org/news/38821/esl-impact-season-5-finals-team-list-complete
+2024/04/22 17:39:35 Skipping writing post, no content: https://www.hltv.org/news/38820/sashi-defeat-cloud9-and-eternal-fire-in-shock-ewc-qualification-run
+2024/04/22 17:39:35 Skipping writing post, no content: https://www.hltv.org/news/38819/flyquest-qualify-for-esports-world-cup
+2024/04/22 17:39:35 Templated 79 posts, took 12.573735ms
