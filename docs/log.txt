@@ -1,31 +1,31 @@
-2024/04/23 19:25:48 error parsing https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml: http error: 503 Service Unavailable
-2024/04/23 19:25:48 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 125.700574ms
-2024/04/23 19:25:48 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 126.651612ms
-2024/04/23 19:25:48 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/23 19:25:48 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 203.871629ms
-2024/04/23 19:25:48 Content still empty after HTML reader: https://www.hltv.org/news/38831/astralis-move-past-eternal-fire-in-epl-opener
-2024/04/23 19:25:48 Fetched posts from https://vlr.gg/rss, took 359.921577ms
-2024/04/23 19:25:48 Content still empty after HTML reader: https://www.hltv.org/news/38830/fnatic-spoil-electronics-vp-debut-in-malta
-2024/04/23 19:25:48 Content still empty after HTML reader: https://www.hltv.org/news/38829/live-updates-from-esl-pro-league-season-19-day-1
-2024/04/23 19:25:48 Content still empty after HTML reader: https://www.hltv.org/news/38826/snappi-on-having-no-star-player-theres-a-world-where-we-can-do-it-by-committee
-2024/04/23 19:25:48 Content still empty after HTML reader: https://www.hltv.org/news/38828/cloud9-bench-perfecto-hobbit
-2024/04/23 19:25:48 Content still empty after HTML reader: https://www.hltv.org/news/38827/bleed-qualify-for-thunderpick-world-championship
-2024/04/23 19:25:49 Content still empty after HTML reader: https://www.hltv.org/news/38825/rains-faze-stint-becomes-longest-since-start-of-csgo
-2024/04/23 19:25:49 Content still empty after HTML reader: https://www.hltv.org/news/38817/perfect-world-director-when-we-ran-ti-chinese-dota-2-fans-and-players-increased-a-lot-i-think-the-same-will-happen-with-counter-strike
-2024/04/23 19:25:49 Content still empty after HTML reader: https://www.hltv.org/news/38824/virtuspro-drop-womens-roster
-2024/04/23 19:25:49 Content still empty after HTML reader: https://www.hltv.org/news/38823/media-wildcard-in-talks-with-case-over-snow
-2024/04/23 19:25:49 Fetched posts from https://www.hltv.org/rss/news, took 499.7163ms
-2024/04/23 19:25:50 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.711793647s
-2024/04/23 19:25:51 Fetched posts from https://blogtienao.com/feed, took 2.445929755s
-2024/04/23 19:26:08 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.620166398s
-2024/04/23 19:26:08 Skipping writing post, no content: https://www.hltv.org/news/38831/astralis-move-past-eternal-fire-in-epl-opener
-2024/04/23 19:26:08 Skipping writing post, no content: https://www.hltv.org/news/38830/fnatic-spoil-electronics-vp-debut-in-malta
-2024/04/23 19:26:08 Skipping writing post, no content: https://www.hltv.org/news/38829/live-updates-from-esl-pro-league-season-19-day-1
-2024/04/23 19:26:08 Skipping writing post, no content: https://www.hltv.org/news/38826/snappi-on-having-no-star-player-theres-a-world-where-we-can-do-it-by-committee
-2024/04/23 19:26:08 Skipping writing post, no content: https://www.hltv.org/news/38828/cloud9-bench-perfecto-hobbit
-2024/04/23 19:26:08 Skipping writing post, no content: https://www.hltv.org/news/38827/bleed-qualify-for-thunderpick-world-championship
-2024/04/23 19:26:08 Skipping writing post, no content: https://www.hltv.org/news/38825/rains-faze-stint-becomes-longest-since-start-of-csgo
-2024/04/23 19:26:08 Skipping writing post, no content: https://www.hltv.org/news/38817/perfect-world-director-when-we-ran-ti-chinese-dota-2-fans-and-players-increased-a-lot-i-think-the-same-will-happen-with-counter-strike
-2024/04/23 19:26:08 Skipping writing post, no content: https://www.hltv.org/news/38824/virtuspro-drop-womens-roster
-2024/04/23 19:26:08 Skipping writing post, no content: https://www.hltv.org/news/38823/media-wildcard-in-talks-with-case-over-snow
-2024/04/23 19:26:08 Templated 51 posts, took 8.400604ms
+2024/04/23 19:38:48 error parsing https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml: http error: 503 Service Unavailable
+2024/04/23 19:38:48 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 89.596713ms
+2024/04/23 19:38:48 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 173.664545ms
+2024/04/23 19:38:48 Content still empty after HTML reader: https://www.hltv.org/news/38831/astralis-move-past-eternal-fire-in-epl-opener
+2024/04/23 19:38:48 Content still empty after HTML reader: https://www.hltv.org/news/38830/fnatic-spoil-electronics-vp-debut-in-malta
+2024/04/23 19:38:48 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/23 19:38:48 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 394.465405ms
+2024/04/23 19:38:48 Content still empty after HTML reader: https://www.hltv.org/news/38829/live-updates-from-esl-pro-league-season-19-day-1
+2024/04/23 19:38:48 Content still empty after HTML reader: https://www.hltv.org/news/38826/snappi-on-having-no-star-player-theres-a-world-where-we-can-do-it-by-committee
+2024/04/23 19:38:48 Content still empty after HTML reader: https://www.hltv.org/news/38828/cloud9-bench-perfecto-hobbit
+2024/04/23 19:38:48 Content still empty after HTML reader: https://www.hltv.org/news/38827/bleed-qualify-for-thunderpick-world-championship
+2024/04/23 19:38:48 Content still empty after HTML reader: https://www.hltv.org/news/38825/rains-faze-stint-becomes-longest-since-start-of-csgo
+2024/04/23 19:38:48 Content still empty after HTML reader: https://www.hltv.org/news/38817/perfect-world-director-when-we-ran-ti-chinese-dota-2-fans-and-players-increased-a-lot-i-think-the-same-will-happen-with-counter-strike
+2024/04/23 19:38:48 Content still empty after HTML reader: https://www.hltv.org/news/38824/virtuspro-drop-womens-roster
+2024/04/23 19:38:48 Content still empty after HTML reader: https://www.hltv.org/news/38823/media-wildcard-in-talks-with-case-over-snow
+2024/04/23 19:38:48 Fetched posts from https://www.hltv.org/rss/news, took 482.797641ms
+2024/04/23 19:38:49 Fetched posts from https://vlr.gg/rss, took 632.16953ms
+2024/04/23 19:38:49 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 703.357565ms
+2024/04/23 19:38:50 Fetched posts from https://blogtienao.com/feed, took 2.378398197s
+2024/04/23 19:39:05 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.467017748s
+2024/04/23 19:39:05 Skipping writing post, no content: https://www.hltv.org/news/38831/astralis-move-past-eternal-fire-in-epl-opener
+2024/04/23 19:39:05 Skipping writing post, no content: https://www.hltv.org/news/38830/fnatic-spoil-electronics-vp-debut-in-malta
+2024/04/23 19:39:05 Skipping writing post, no content: https://www.hltv.org/news/38829/live-updates-from-esl-pro-league-season-19-day-1
+2024/04/23 19:39:05 Skipping writing post, no content: https://www.hltv.org/news/38826/snappi-on-having-no-star-player-theres-a-world-where-we-can-do-it-by-committee
+2024/04/23 19:39:05 Skipping writing post, no content: https://www.hltv.org/news/38828/cloud9-bench-perfecto-hobbit
+2024/04/23 19:39:05 Skipping writing post, no content: https://www.hltv.org/news/38827/bleed-qualify-for-thunderpick-world-championship
+2024/04/23 19:39:05 Skipping writing post, no content: https://www.hltv.org/news/38825/rains-faze-stint-becomes-longest-since-start-of-csgo
+2024/04/23 19:39:05 Skipping writing post, no content: https://www.hltv.org/news/38817/perfect-world-director-when-we-ran-ti-chinese-dota-2-fans-and-players-increased-a-lot-i-think-the-same-will-happen-with-counter-strike
+2024/04/23 19:39:05 Skipping writing post, no content: https://www.hltv.org/news/38824/virtuspro-drop-womens-roster
+2024/04/23 19:39:05 Skipping writing post, no content: https://www.hltv.org/news/38823/media-wildcard-in-talks-with-case-over-snow
+2024/04/23 19:39:05 Templated 51 posts, took 8.00389ms
