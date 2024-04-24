@@ -1,30 +1,28 @@
-2024/04/24 17:16:20 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 113.473247ms
-2024/04/24 17:16:20 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/24 17:16:20 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 169.437323ms
-2024/04/24 17:16:20 Fetched posts from https://vlr.gg/rss, took 281.730538ms
-2024/04/24 17:16:20 Content still empty after HTML reader: https://www.hltv.org/news/38838/ination-announce-return-with-new-team
-2024/04/24 17:16:20 Content still empty after HTML reader: https://www.hltv.org/news/38836/wonderful-y-handed-faceit-ban-for-cheating
-2024/04/24 17:16:20 Content still empty after HTML reader: https://www.hltv.org/news/38837/media-pain-hijack-snow-deal
-2024/04/24 17:16:20 Content still empty after HTML reader: https://www.hltv.org/news/38835/themongolz-spoil-dupreehs-debut-with-falcons
-2024/04/24 17:16:20 Content still empty after HTML reader: https://www.hltv.org/news/38833/live-updates-from-esl-pro-league-season-19-day-2
-2024/04/24 17:16:20 Content still empty after HTML reader: https://www.hltv.org/news/38834/media-coldzera-set-to-join-red-canids
-2024/04/24 17:16:20 Content still empty after HTML reader: https://www.hltv.org/news/38832/faze-astralis-set-for-chengdu-rematch-after-day-one-of-epl-s19
-2024/04/24 17:16:20 Content still empty after HTML reader: https://www.hltv.org/news/38829/live-updates-from-esl-pro-league-season-19-day-1
-2024/04/24 17:16:21 Content still empty after HTML reader: https://www.hltv.org/news/38831/astralis-move-past-eternal-fire-in-epl-opener
-2024/04/24 17:16:21 Content still empty after HTML reader: https://www.hltv.org/news/38830/fnatic-spoil-electronics-vp-debut-in-malta
-2024/04/24 17:16:21 Fetched posts from https://www.hltv.org/rss/news, took 449.62371ms
-2024/04/24 17:16:21 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 721.457274ms
-2024/04/24 17:16:21 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.057360054s
-2024/04/24 17:16:23 Fetched posts from https://blogtienao.com/feed, took 2.607338229s
-2024/04/24 17:16:41 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.418412436s
-2024/04/24 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/38838/ination-announce-return-with-new-team
-2024/04/24 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/38836/wonderful-y-handed-faceit-ban-for-cheating
-2024/04/24 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/38837/media-pain-hijack-snow-deal
-2024/04/24 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/38835/themongolz-spoil-dupreehs-debut-with-falcons
-2024/04/24 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/38833/live-updates-from-esl-pro-league-season-19-day-2
-2024/04/24 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/38834/media-coldzera-set-to-join-red-canids
-2024/04/24 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/38832/faze-astralis-set-for-chengdu-rematch-after-day-one-of-epl-s19
-2024/04/24 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/38829/live-updates-from-esl-pro-league-season-19-day-1
-2024/04/24 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/38831/astralis-move-past-eternal-fire-in-epl-opener
-2024/04/24 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/38830/fnatic-spoil-electronics-vp-debut-in-malta
-2024/04/24 17:16:41 Templated 78 posts, took 12.120072ms
+2024/04/24 17:37:25 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/24 17:37:25 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 182.474678ms
+2024/04/24 17:37:25 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 188.894487ms
+2024/04/24 17:37:25 Fetched posts from https://vlr.gg/rss, took 360.589455ms
+2024/04/24 17:37:25 Content still empty after HTML reader: https://www.hltv.org/news/38838/ination-announce-return-with-new-team
+2024/04/24 17:37:25 Content still empty after HTML reader: https://www.hltv.org/news/38836/wonderful-y-handed-faceit-ban-for-cheating
+2024/04/24 17:37:25 Content still empty after HTML reader: https://www.hltv.org/news/38837/media-pain-hijack-snow-deal
+2024/04/24 17:37:25 Content still empty after HTML reader: https://www.hltv.org/news/38835/themongolz-spoil-dupreehs-debut-with-falcons
+2024/04/24 17:37:25 Content still empty after HTML reader: https://www.hltv.org/news/38833/live-updates-from-esl-pro-league-season-19-day-2
+2024/04/24 17:37:25 Content still empty after HTML reader: https://www.hltv.org/news/38834/media-coldzera-set-to-join-red-canids
+2024/04/24 17:37:25 Content still empty after HTML reader: https://www.hltv.org/news/38832/faze-astralis-set-for-chengdu-rematch-after-day-one-of-epl-s19
+2024/04/24 17:37:25 Content still empty after HTML reader: https://www.hltv.org/news/38829/live-updates-from-esl-pro-league-season-19-day-1
+2024/04/24 17:37:25 Content still empty after HTML reader: https://www.hltv.org/news/38831/astralis-move-past-eternal-fire-in-epl-opener
+2024/04/24 17:37:25 Fetched posts from https://www.hltv.org/rss/news, took 738.561907ms
+2024/04/24 17:37:25 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 941.472993ms
+2024/04/24 17:37:26 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.06993474s
+2024/04/24 17:37:28 Fetched posts from https://blogtienao.com/feed, took 3.907241491s
+2024/04/24 17:37:44 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.571674516s
+2024/04/24 17:37:44 Skipping writing post, no content: https://www.hltv.org/news/38838/ination-announce-return-with-new-team
+2024/04/24 17:37:44 Skipping writing post, no content: https://www.hltv.org/news/38836/wonderful-y-handed-faceit-ban-for-cheating
+2024/04/24 17:37:44 Skipping writing post, no content: https://www.hltv.org/news/38837/media-pain-hijack-snow-deal
+2024/04/24 17:37:44 Skipping writing post, no content: https://www.hltv.org/news/38835/themongolz-spoil-dupreehs-debut-with-falcons
+2024/04/24 17:37:44 Skipping writing post, no content: https://www.hltv.org/news/38833/live-updates-from-esl-pro-league-season-19-day-2
+2024/04/24 17:37:44 Skipping writing post, no content: https://www.hltv.org/news/38834/media-coldzera-set-to-join-red-canids
+2024/04/24 17:37:44 Skipping writing post, no content: https://www.hltv.org/news/38832/faze-astralis-set-for-chengdu-rematch-after-day-one-of-epl-s19
+2024/04/24 17:37:44 Skipping writing post, no content: https://www.hltv.org/news/38829/live-updates-from-esl-pro-league-season-19-day-1
+2024/04/24 17:37:44 Skipping writing post, no content: https://www.hltv.org/news/38831/astralis-move-past-eternal-fire-in-epl-opener
+2024/04/24 17:37:44 Templated 77 posts, took 12.996607ms
