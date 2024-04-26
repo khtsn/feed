@@ -1,30 +1,30 @@
-2024/04/26 07:37:14 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 204.18295ms
-2024/04/26 07:37:14 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/26 07:37:14 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 266.214193ms
-2024/04/26 07:37:14 Fetched posts from https://vlr.gg/rss, took 290.801144ms
-2024/04/26 07:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38848/dust2-replaces-overpass-in-map-pool-inferno-gets-changes-in-big-post-major-update
-2024/04/26 07:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38841/live-updates-from-esl-pro-league-season-19-day-3
-2024/04/26 07:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38847/official-coldzera-joins-red-canids
-2024/04/26 07:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38846/faze-relegate-vp-to-group-a-last-chance-stage
-2024/04/26 07:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38845/rez-to-miss-esl-pro-league-season-19
-2024/04/26 07:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38844/zywoo-carries-vitality-past-betboom-to-claim-epl-playoff-berth
-2024/04/26 07:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38843/themongolz-secure-playoffs-spot-with-dominant-victory-over-g2
-2024/04/26 07:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38842/gaimin-gladiators-invited-to-mesa-nomadic-masters-spring-2024
-2024/04/26 07:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38840/astralis-advance-to-epl-playoffs-faze-to-face-virtuspro-in-lower-bracket
-2024/04/26 07:37:14 Content still empty after HTML reader: https://www.hltv.org/news/38833/live-updates-from-esl-pro-league-season-19-day-2
-2024/04/26 07:37:14 Fetched posts from https://www.hltv.org/rss/news, took 429.1487ms
-2024/04/26 07:37:14 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 620.938085ms
-2024/04/26 07:37:15 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 926.38941ms
-2024/04/26 07:37:16 Fetched posts from https://blogtienao.com/feed, took 2.310649382s
-2024/04/26 07:37:28 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.834683451s
-2024/04/26 07:37:28 Skipping writing post, no content: https://www.hltv.org/news/38848/dust2-replaces-overpass-in-map-pool-inferno-gets-changes-in-big-post-major-update
-2024/04/26 07:37:28 Skipping writing post, no content: https://www.hltv.org/news/38841/live-updates-from-esl-pro-league-season-19-day-3
-2024/04/26 07:37:28 Skipping writing post, no content: https://www.hltv.org/news/38847/official-coldzera-joins-red-canids
-2024/04/26 07:37:28 Skipping writing post, no content: https://www.hltv.org/news/38846/faze-relegate-vp-to-group-a-last-chance-stage
-2024/04/26 07:37:28 Skipping writing post, no content: https://www.hltv.org/news/38845/rez-to-miss-esl-pro-league-season-19
-2024/04/26 07:37:28 Skipping writing post, no content: https://www.hltv.org/news/38844/zywoo-carries-vitality-past-betboom-to-claim-epl-playoff-berth
-2024/04/26 07:37:28 Skipping writing post, no content: https://www.hltv.org/news/38843/themongolz-secure-playoffs-spot-with-dominant-victory-over-g2
-2024/04/26 07:37:28 Skipping writing post, no content: https://www.hltv.org/news/38842/gaimin-gladiators-invited-to-mesa-nomadic-masters-spring-2024
-2024/04/26 07:37:28 Skipping writing post, no content: https://www.hltv.org/news/38840/astralis-advance-to-epl-playoffs-faze-to-face-virtuspro-in-lower-bracket
-2024/04/26 07:37:28 Skipping writing post, no content: https://www.hltv.org/news/38833/live-updates-from-esl-pro-league-season-19-day-2
-2024/04/26 07:37:28 Templated 73 posts, took 11.569368ms
+2024/04/26 07:52:20 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 184.700519ms
+2024/04/26 07:52:20 Fetched posts from https://vlr.gg/rss, took 202.165846ms
+2024/04/26 07:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38848/dust2-replaces-overpass-in-map-pool-inferno-gets-changes-in-big-post-major-update
+2024/04/26 07:52:20 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/26 07:52:20 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 334.173618ms
+2024/04/26 07:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38841/live-updates-from-esl-pro-league-season-19-day-3
+2024/04/26 07:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38847/official-coldzera-joins-red-canids
+2024/04/26 07:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38846/faze-relegate-vp-to-group-a-last-chance-stage
+2024/04/26 07:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38845/rez-to-miss-esl-pro-league-season-19
+2024/04/26 07:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38844/zywoo-carries-vitality-past-betboom-to-claim-epl-playoff-berth
+2024/04/26 07:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38843/themongolz-secure-playoffs-spot-with-dominant-victory-over-g2
+2024/04/26 07:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38842/gaimin-gladiators-invited-to-mesa-nomadic-masters-spring-2024
+2024/04/26 07:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38840/astralis-advance-to-epl-playoffs-faze-to-face-virtuspro-in-lower-bracket
+2024/04/26 07:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38833/live-updates-from-esl-pro-league-season-19-day-2
+2024/04/26 07:52:20 Fetched posts from https://www.hltv.org/rss/news, took 485.501648ms
+2024/04/26 07:52:21 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.082095734s
+2024/04/26 07:52:21 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.570549091s
+2024/04/26 07:52:22 Fetched posts from https://blogtienao.com/feed, took 2.072562528s
+2024/04/26 07:52:37 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.418330645s
+2024/04/26 07:52:37 Skipping writing post, no content: https://www.hltv.org/news/38848/dust2-replaces-overpass-in-map-pool-inferno-gets-changes-in-big-post-major-update
+2024/04/26 07:52:37 Skipping writing post, no content: https://www.hltv.org/news/38841/live-updates-from-esl-pro-league-season-19-day-3
+2024/04/26 07:52:37 Skipping writing post, no content: https://www.hltv.org/news/38847/official-coldzera-joins-red-canids
+2024/04/26 07:52:37 Skipping writing post, no content: https://www.hltv.org/news/38846/faze-relegate-vp-to-group-a-last-chance-stage
+2024/04/26 07:52:37 Skipping writing post, no content: https://www.hltv.org/news/38845/rez-to-miss-esl-pro-league-season-19
+2024/04/26 07:52:37 Skipping writing post, no content: https://www.hltv.org/news/38844/zywoo-carries-vitality-past-betboom-to-claim-epl-playoff-berth
+2024/04/26 07:52:37 Skipping writing post, no content: https://www.hltv.org/news/38843/themongolz-secure-playoffs-spot-with-dominant-victory-over-g2
+2024/04/26 07:52:37 Skipping writing post, no content: https://www.hltv.org/news/38842/gaimin-gladiators-invited-to-mesa-nomadic-masters-spring-2024
+2024/04/26 07:52:37 Skipping writing post, no content: https://www.hltv.org/news/38840/astralis-advance-to-epl-playoffs-faze-to-face-virtuspro-in-lower-bracket
+2024/04/26 07:52:37 Skipping writing post, no content: https://www.hltv.org/news/38833/live-updates-from-esl-pro-league-season-19-day-2
+2024/04/26 07:52:37 Templated 74 posts, took 11.706516ms
