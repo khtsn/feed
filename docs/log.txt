@@ -1,30 +1,32 @@
-2024/04/27 07:52:04 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 199.280256ms
-2024/04/27 07:52:04 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/27 07:52:04 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 203.479304ms
-2024/04/27 07:52:04 Fetched posts from https://vlr.gg/rss, took 213.54289ms
-2024/04/27 07:52:04 Content still empty after HTML reader: https://www.hltv.org/news/38858/community-reacts-dust2-replaces-overpass-in-map-pool
-2024/04/27 07:52:04 Content still empty after HTML reader: https://www.hltv.org/news/38859/betboom-edge-past-m80-to-reach-epl-s19-playoffs
-2024/04/27 07:52:04 Content still empty after HTML reader: https://www.hltv.org/news/38850/live-updates-from-esl-pro-league-season-19-day-4
-2024/04/27 07:52:04 Content still empty after HTML reader: https://www.hltv.org/news/38857/faze-make-pro-league-playoffs-over-eternal-fire
-2024/04/27 07:52:04 Content still empty after HTML reader: https://www.hltv.org/news/38855/g2-to-face-falcons-in-elimination-match-after-m80-upset
-2024/04/27 07:52:04 Content still empty after HTML reader: https://www.hltv.org/news/38856/cct-europe-series-2-group-teams-revealed
-2024/04/27 07:52:04 Content still empty after HTML reader: https://www.hltv.org/news/38854/betboom-banish-falcons-to-last-chance-stage
-2024/04/27 07:52:04 Content still empty after HTML reader: https://www.hltv.org/news/38852/endpoint-sign-cruc1al-cej0t
-2024/04/27 07:52:04 Content still empty after HTML reader: https://www.hltv.org/news/38853/esl-pro-league-to-use-previous-patch-for-now
-2024/04/27 07:52:04 Content still empty after HTML reader: https://www.hltv.org/news/38851/apeks-rebels-through-to-playoffs-in-melbourne
-2024/04/27 07:52:04 Fetched posts from https://www.hltv.org/rss/news, took 449.273638ms
-2024/04/27 07:52:05 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 939.459956ms
-2024/04/27 07:52:05 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.413361664s
-2024/04/27 07:52:06 Fetched posts from https://blogtienao.com/feed, took 2.293828065s
-2024/04/27 07:52:23 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.248919918s
-2024/04/27 07:52:23 Skipping writing post, no content: https://www.hltv.org/news/38858/community-reacts-dust2-replaces-overpass-in-map-pool
-2024/04/27 07:52:23 Skipping writing post, no content: https://www.hltv.org/news/38859/betboom-edge-past-m80-to-reach-epl-s19-playoffs
-2024/04/27 07:52:23 Skipping writing post, no content: https://www.hltv.org/news/38850/live-updates-from-esl-pro-league-season-19-day-4
-2024/04/27 07:52:23 Skipping writing post, no content: https://www.hltv.org/news/38857/faze-make-pro-league-playoffs-over-eternal-fire
-2024/04/27 07:52:23 Skipping writing post, no content: https://www.hltv.org/news/38855/g2-to-face-falcons-in-elimination-match-after-m80-upset
-2024/04/27 07:52:23 Skipping writing post, no content: https://www.hltv.org/news/38856/cct-europe-series-2-group-teams-revealed
-2024/04/27 07:52:23 Skipping writing post, no content: https://www.hltv.org/news/38854/betboom-banish-falcons-to-last-chance-stage
-2024/04/27 07:52:23 Skipping writing post, no content: https://www.hltv.org/news/38852/endpoint-sign-cruc1al-cej0t
-2024/04/27 07:52:23 Skipping writing post, no content: https://www.hltv.org/news/38853/esl-pro-league-to-use-previous-patch-for-now
-2024/04/27 07:52:23 Skipping writing post, no content: https://www.hltv.org/news/38851/apeks-rebels-through-to-playoffs-in-melbourne
-2024/04/27 07:52:23 Templated 79 posts, took 13.141564ms
+2024/04/27 08:20:00 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 102.620715ms
+2024/04/27 08:20:00 Fetched posts from https://vlr.gg/rss, took 179.206724ms
+2024/04/27 08:20:00 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/27 08:20:00 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 187.303297ms
+2024/04/27 08:20:00 Content still empty after HTML reader: https://www.hltv.org/news/38858/community-reacts-dust2-replaces-overpass-in-map-pool
+2024/04/27 08:20:00 Content still empty after HTML reader: https://www.nytimes.com/2024/04/26/nyregion/trump-pecker-hush-money-trial.html
+2024/04/27 08:20:00 Content still empty after HTML reader: https://www.hltv.org/news/38859/betboom-edge-past-m80-to-reach-epl-s19-playoffs
+2024/04/27 08:20:00 Content still empty after HTML reader: https://www.hltv.org/news/38850/live-updates-from-esl-pro-league-season-19-day-4
+2024/04/27 08:20:00 Content still empty after HTML reader: https://www.hltv.org/news/38857/faze-make-pro-league-playoffs-over-eternal-fire
+2024/04/27 08:20:00 Content still empty after HTML reader: https://www.hltv.org/news/38855/g2-to-face-falcons-in-elimination-match-after-m80-upset
+2024/04/27 08:20:00 Content still empty after HTML reader: https://www.hltv.org/news/38856/cct-europe-series-2-group-teams-revealed
+2024/04/27 08:20:00 Content still empty after HTML reader: https://www.hltv.org/news/38854/betboom-banish-falcons-to-last-chance-stage
+2024/04/27 08:20:00 Content still empty after HTML reader: https://www.hltv.org/news/38852/endpoint-sign-cruc1al-cej0t
+2024/04/27 08:20:00 Content still empty after HTML reader: https://www.hltv.org/news/38853/esl-pro-league-to-use-previous-patch-for-now
+2024/04/27 08:20:01 Content still empty after HTML reader: https://www.hltv.org/news/38851/apeks-rebels-through-to-playoffs-in-melbourne
+2024/04/27 08:20:01 Fetched posts from https://www.hltv.org/rss/news, took 411.657219ms
+2024/04/27 08:20:01 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 747.575577ms
+2024/04/27 08:20:01 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.148545136s
+2024/04/27 08:20:02 Fetched posts from https://blogtienao.com/feed, took 2.222338207s
+2024/04/27 08:20:21 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.846099576s
+2024/04/27 08:20:21 Skipping writing post, no content: https://www.nytimes.com/2024/04/26/nyregion/trump-pecker-hush-money-trial.html
+2024/04/27 08:20:21 Skipping writing post, no content: https://www.hltv.org/news/38858/community-reacts-dust2-replaces-overpass-in-map-pool
+2024/04/27 08:20:21 Skipping writing post, no content: https://www.hltv.org/news/38859/betboom-edge-past-m80-to-reach-epl-s19-playoffs
+2024/04/27 08:20:21 Skipping writing post, no content: https://www.hltv.org/news/38850/live-updates-from-esl-pro-league-season-19-day-4
+2024/04/27 08:20:21 Skipping writing post, no content: https://www.hltv.org/news/38857/faze-make-pro-league-playoffs-over-eternal-fire
+2024/04/27 08:20:21 Skipping writing post, no content: https://www.hltv.org/news/38855/g2-to-face-falcons-in-elimination-match-after-m80-upset
+2024/04/27 08:20:21 Skipping writing post, no content: https://www.hltv.org/news/38856/cct-europe-series-2-group-teams-revealed
+2024/04/27 08:20:21 Skipping writing post, no content: https://www.hltv.org/news/38854/betboom-banish-falcons-to-last-chance-stage
+2024/04/27 08:20:21 Skipping writing post, no content: https://www.hltv.org/news/38852/endpoint-sign-cruc1al-cej0t
+2024/04/27 08:20:21 Skipping writing post, no content: https://www.hltv.org/news/38853/esl-pro-league-to-use-previous-patch-for-now
+2024/04/27 08:20:21 Skipping writing post, no content: https://www.hltv.org/news/38851/apeks-rebels-through-to-playoffs-in-melbourne
+2024/04/27 08:20:21 Templated 79 posts, took 13.131816ms
