@@ -1,30 +1,28 @@
-2024/04/28 18:38:25 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 104.797838ms
-2024/04/28 18:38:26 Fetched posts from https://vlr.gg/rss, took 199.366066ms
-2024/04/28 18:38:26 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/28 18:38:26 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 220.086773ms
-2024/04/28 18:38:26 Content still empty after HTML reader: https://www.hltv.org/news/38868/vp-best-saw-again-to-clinch-group-as-last-playoff-spot
-2024/04/28 18:38:26 Content still empty after HTML reader: https://www.hltv.org/news/38867/jls-golden-card-among-most-picked-as-epl-groups-c-and-d-fantasy-goes-live
-2024/04/28 18:38:26 Content still empty after HTML reader: https://www.hltv.org/news/38866/mibr-win-esl-challenger-melbourne-qualify-for-esl-pro-league-season-20
-2024/04/28 18:38:26 Content still empty after HTML reader: https://www.hltv.org/news/38865/live-updates-from-esl-pro-league-season-19-day-6
-2024/04/28 18:38:26 Content still empty after HTML reader: https://www.hltv.org/news/38822/cadian-interview-major-blow-chengdu-improvements-2024-goals
-2024/04/28 18:38:26 Content still empty after HTML reader: https://www.hltv.org/news/38864/eternal-fire-fnatic-tyloo-eliminated-at-epl
-2024/04/28 18:38:26 Content still empty after HTML reader: https://www.hltv.org/news/38862/c9-eternal-fire-among-yalla-compass-invites
-2024/04/28 18:38:26 Content still empty after HTML reader: https://www.hltv.org/news/38863/g2-survive-elimination-match-against-falcons
-2024/04/28 18:38:26 Content still empty after HTML reader: https://www.hltv.org/news/38860/live-updates-from-esl-pro-league-season-19-day-5
-2024/04/28 18:38:26 Content still empty after HTML reader: https://www.hltv.org/news/38861/aurora-mibr-qualify-for-esl-challenger-melbourne-playoffs
-2024/04/28 18:38:26 Fetched posts from https://www.hltv.org/rss/news, took 423.272298ms
-2024/04/28 18:38:26 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 540.123669ms
-2024/04/28 18:38:26 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 591.375533ms
-2024/04/28 18:38:28 Fetched posts from https://blogtienao.com/feed, took 2.167921034s
-2024/04/28 18:38:44 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.130238278s
-2024/04/28 18:38:44 Skipping writing post, no content: https://www.hltv.org/news/38868/vp-best-saw-again-to-clinch-group-as-last-playoff-spot
-2024/04/28 18:38:44 Skipping writing post, no content: https://www.hltv.org/news/38867/jls-golden-card-among-most-picked-as-epl-groups-c-and-d-fantasy-goes-live
-2024/04/28 18:38:44 Skipping writing post, no content: https://www.hltv.org/news/38866/mibr-win-esl-challenger-melbourne-qualify-for-esl-pro-league-season-20
-2024/04/28 18:38:44 Skipping writing post, no content: https://www.hltv.org/news/38865/live-updates-from-esl-pro-league-season-19-day-6
-2024/04/28 18:38:44 Skipping writing post, no content: https://www.hltv.org/news/38822/cadian-interview-major-blow-chengdu-improvements-2024-goals
-2024/04/28 18:38:44 Skipping writing post, no content: https://www.hltv.org/news/38864/eternal-fire-fnatic-tyloo-eliminated-at-epl
-2024/04/28 18:38:44 Skipping writing post, no content: https://www.hltv.org/news/38862/c9-eternal-fire-among-yalla-compass-invites
-2024/04/28 18:38:44 Skipping writing post, no content: https://www.hltv.org/news/38863/g2-survive-elimination-match-against-falcons
-2024/04/28 18:38:44 Skipping writing post, no content: https://www.hltv.org/news/38860/live-updates-from-esl-pro-league-season-19-day-5
-2024/04/28 18:38:44 Skipping writing post, no content: https://www.hltv.org/news/38861/aurora-mibr-qualify-for-esl-challenger-melbourne-playoffs
-2024/04/28 18:38:44 Templated 71 posts, took 12.441795ms
+2024/04/28 18:52:19 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 79.664993ms
+2024/04/28 18:52:19 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/28 18:52:19 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 132.299236ms
+2024/04/28 18:52:19 Fetched posts from https://vlr.gg/rss, took 216.011665ms
+2024/04/28 18:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38868/vp-best-saw-again-to-clinch-group-as-last-playoff-spot
+2024/04/28 18:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38867/jls-golden-card-among-most-picked-as-epl-groups-c-and-d-fantasy-goes-live
+2024/04/28 18:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38866/mibr-win-esl-challenger-melbourne-qualify-for-esl-pro-league-season-20
+2024/04/28 18:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38865/live-updates-from-esl-pro-league-season-19-day-6
+2024/04/28 18:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38822/cadian-interview-major-blow-chengdu-improvements-2024-goals
+2024/04/28 18:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38864/eternal-fire-fnatic-tyloo-eliminated-at-epl
+2024/04/28 18:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38862/c9-eternal-fire-among-yalla-compass-invites
+2024/04/28 18:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38863/g2-survive-elimination-match-against-falcons
+2024/04/28 18:52:20 Content still empty after HTML reader: https://www.hltv.org/news/38861/aurora-mibr-qualify-for-esl-challenger-melbourne-playoffs
+2024/04/28 18:52:20 Fetched posts from https://www.hltv.org/rss/news, took 390.374452ms
+2024/04/28 18:52:20 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 644.471778ms
+2024/04/28 18:52:20 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 661.412611ms
+2024/04/28 18:52:21 Fetched posts from https://blogtienao.com/feed, took 2.196504488s
+2024/04/28 18:52:40 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.791929761s
+2024/04/28 18:52:40 Skipping writing post, no content: https://www.hltv.org/news/38868/vp-best-saw-again-to-clinch-group-as-last-playoff-spot
+2024/04/28 18:52:40 Skipping writing post, no content: https://www.hltv.org/news/38867/jls-golden-card-among-most-picked-as-epl-groups-c-and-d-fantasy-goes-live
+2024/04/28 18:52:40 Skipping writing post, no content: https://www.hltv.org/news/38866/mibr-win-esl-challenger-melbourne-qualify-for-esl-pro-league-season-20
+2024/04/28 18:52:40 Skipping writing post, no content: https://www.hltv.org/news/38865/live-updates-from-esl-pro-league-season-19-day-6
+2024/04/28 18:52:40 Skipping writing post, no content: https://www.hltv.org/news/38822/cadian-interview-major-blow-chengdu-improvements-2024-goals
+2024/04/28 18:52:40 Skipping writing post, no content: https://www.hltv.org/news/38864/eternal-fire-fnatic-tyloo-eliminated-at-epl
+2024/04/28 18:52:40 Skipping writing post, no content: https://www.hltv.org/news/38862/c9-eternal-fire-among-yalla-compass-invites
+2024/04/28 18:52:40 Skipping writing post, no content: https://www.hltv.org/news/38863/g2-survive-elimination-match-against-falcons
+2024/04/28 18:52:40 Skipping writing post, no content: https://www.hltv.org/news/38861/aurora-mibr-qualify-for-esl-challenger-melbourne-playoffs
+2024/04/28 18:52:40 Templated 71 posts, took 12.658446ms
