@@ -1,30 +1,28 @@
-2024/04/28 07:52:12 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/28 07:52:12 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 176.694843ms
-2024/04/28 07:52:12 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 248.25508ms
-2024/04/28 07:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38822/cadian-interview-major-blow-chengdu-improvements-2024-goals
-2024/04/28 07:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38864/eternal-fire-fnatic-tyloo-eliminated-after-epl-day-5
-2024/04/28 07:52:12 Content still empty after HTML reader: https://www.hltv.org/news/38862/cloud9-eternal-fire-among-yalla-compass-invites
-2024/04/28 07:52:13 Content still empty after HTML reader: https://www.hltv.org/news/38863/g2-survive-elimination-match-against-falcons-in-malta
-2024/04/28 07:52:13 Content still empty after HTML reader: https://www.hltv.org/news/38860/live-updates-from-esl-pro-league-season-19-day-5
-2024/04/28 07:52:13 Content still empty after HTML reader: https://www.hltv.org/news/38861/aurora-mibr-qualify-for-esl-challenger-melbourne-playoffs
-2024/04/28 07:52:13 Content still empty after HTML reader: https://www.hltv.org/news/38858/community-reacts-dust2-replaces-overpass-in-map-pool
-2024/04/28 07:52:13 Content still empty after HTML reader: https://www.hltv.org/news/38859/betboom-edge-past-m80-to-reach-epl-s19-playoffs
-2024/04/28 07:52:13 Content still empty after HTML reader: https://www.hltv.org/news/38850/live-updates-from-esl-pro-league-season-19-day-4
-2024/04/28 07:52:13 Content still empty after HTML reader: https://www.hltv.org/news/38857/faze-make-pro-league-playoffs-over-eternal-fire
-2024/04/28 07:52:13 Fetched posts from https://www.hltv.org/rss/news, took 523.255584ms
-2024/04/28 07:52:13 Fetched posts from https://vlr.gg/rss, took 753.861139ms
-2024/04/28 07:52:13 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 864.475759ms
-2024/04/28 07:52:14 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.790873016s
-2024/04/28 07:52:15 Fetched posts from https://blogtienao.com/feed, took 3.1206601s
-2024/04/28 07:52:26 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.014851974s
-2024/04/28 07:52:26 Skipping writing post, no content: https://www.hltv.org/news/38822/cadian-interview-major-blow-chengdu-improvements-2024-goals
-2024/04/28 07:52:26 Skipping writing post, no content: https://www.hltv.org/news/38864/eternal-fire-fnatic-tyloo-eliminated-after-epl-day-5
-2024/04/28 07:52:26 Skipping writing post, no content: https://www.hltv.org/news/38862/cloud9-eternal-fire-among-yalla-compass-invites
-2024/04/28 07:52:26 Skipping writing post, no content: https://www.hltv.org/news/38863/g2-survive-elimination-match-against-falcons-in-malta
-2024/04/28 07:52:26 Skipping writing post, no content: https://www.hltv.org/news/38860/live-updates-from-esl-pro-league-season-19-day-5
-2024/04/28 07:52:26 Skipping writing post, no content: https://www.hltv.org/news/38861/aurora-mibr-qualify-for-esl-challenger-melbourne-playoffs
-2024/04/28 07:52:26 Skipping writing post, no content: https://www.hltv.org/news/38858/community-reacts-dust2-replaces-overpass-in-map-pool
-2024/04/28 07:52:26 Skipping writing post, no content: https://www.hltv.org/news/38859/betboom-edge-past-m80-to-reach-epl-s19-playoffs
-2024/04/28 07:52:26 Skipping writing post, no content: https://www.hltv.org/news/38850/live-updates-from-esl-pro-league-season-19-day-4
-2024/04/28 07:52:26 Skipping writing post, no content: https://www.hltv.org/news/38857/faze-make-pro-league-playoffs-over-eternal-fire
-2024/04/28 07:52:26 Templated 80 posts, took 12.836085ms
+2024/04/28 08:20:32 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 96.065622ms
+2024/04/28 08:20:32 Fetched posts from https://vlr.gg/rss, took 172.443429ms
+2024/04/28 08:20:32 Content still empty after HTML reader: https://www.hltv.org/news/38822/cadian-interview-major-blow-chengdu-improvements-2024-goals
+2024/04/28 08:20:32 Content still empty after HTML reader: https://www.hltv.org/news/38864/eternal-fire-fnatic-tyloo-eliminated-after-epl-day-5
+2024/04/28 08:20:32 Content still empty after HTML reader: https://www.hltv.org/news/38862/cloud9-eternal-fire-among-yalla-compass-invites
+2024/04/28 08:20:33 Content still empty after HTML reader: https://www.hltv.org/news/38863/g2-survive-elimination-match-against-falcons-in-malta
+2024/04/28 08:20:33 Content still empty after HTML reader: https://www.hltv.org/news/38860/live-updates-from-esl-pro-league-season-19-day-5
+2024/04/28 08:20:33 Content still empty after HTML reader: https://www.hltv.org/news/38861/aurora-mibr-qualify-for-esl-challenger-melbourne-playoffs
+2024/04/28 08:20:33 Content still empty after HTML reader: https://www.hltv.org/news/38858/community-reacts-dust2-replaces-overpass-in-map-pool
+2024/04/28 08:20:33 Content still empty after HTML reader: https://www.hltv.org/news/38850/live-updates-from-esl-pro-league-season-19-day-4
+2024/04/28 08:20:33 Content still empty after HTML reader: https://www.hltv.org/news/38857/faze-make-pro-league-playoffs-over-eternal-fire
+2024/04/28 08:20:33 Fetched posts from https://www.hltv.org/rss/news, took 390.295649ms
+2024/04/28 08:20:33 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/28 08:20:33 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 621.423154ms
+2024/04/28 08:20:33 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 624.942279ms
+2024/04/28 08:20:33 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.250380155s
+2024/04/28 08:20:34 Fetched posts from https://blogtienao.com/feed, took 2.249705687s
+2024/04/28 08:20:50 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.436767919s
+2024/04/28 08:20:50 Skipping writing post, no content: https://www.hltv.org/news/38822/cadian-interview-major-blow-chengdu-improvements-2024-goals
+2024/04/28 08:20:50 Skipping writing post, no content: https://www.hltv.org/news/38864/eternal-fire-fnatic-tyloo-eliminated-after-epl-day-5
+2024/04/28 08:20:50 Skipping writing post, no content: https://www.hltv.org/news/38862/cloud9-eternal-fire-among-yalla-compass-invites
+2024/04/28 08:20:50 Skipping writing post, no content: https://www.hltv.org/news/38863/g2-survive-elimination-match-against-falcons-in-malta
+2024/04/28 08:20:50 Skipping writing post, no content: https://www.hltv.org/news/38860/live-updates-from-esl-pro-league-season-19-day-5
+2024/04/28 08:20:50 Skipping writing post, no content: https://www.hltv.org/news/38861/aurora-mibr-qualify-for-esl-challenger-melbourne-playoffs
+2024/04/28 08:20:50 Skipping writing post, no content: https://www.hltv.org/news/38858/community-reacts-dust2-replaces-overpass-in-map-pool
+2024/04/28 08:20:50 Skipping writing post, no content: https://www.hltv.org/news/38850/live-updates-from-esl-pro-league-season-19-day-4
+2024/04/28 08:20:50 Skipping writing post, no content: https://www.hltv.org/news/38857/faze-make-pro-league-playoffs-over-eternal-fire
+2024/04/28 08:20:50 Templated 80 posts, took 13.067351ms
