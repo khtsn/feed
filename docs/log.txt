@@ -1,30 +1,32 @@
-2024/04/30 06:52:17 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/04/30 06:52:17 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 201.542145ms
-2024/04/30 06:52:17 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 268.537671ms
-2024/04/30 06:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38877/fallen-with-more-autonomy-and-responsibility-i-really-want-to-leave-my-mark-here-during-the-next-year
-2024/04/30 06:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38879/vilgas-fearless-cheetahs-disbands
-2024/04/30 06:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38875/nicoodoz-im-not-satisfied-or-happy-at-all-with-my-performance-so-far
-2024/04/30 06:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38878/sl3nd-completes-move-to-gamerlegion
-2024/04/30 06:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38874/dycha-initiates-role-shift-its-disgusting-when-we-lose-matches-because-of-me
-2024/04/30 06:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38876/fnatic-og-more-to-play-in-cct-series-1-playoffs
-2024/04/30 06:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38873/betboom-dacha-belgrade-and-iem-dallas-to-feature-new-map-pool
-2024/04/30 06:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38872/apeks-invited-to-mesa-nomadic-masters-spring
-2024/04/30 06:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38870/dust2-new-map-pool-epl-results-roster-changes-on-hltv-confirmed-with-hooch-and-nart
-2024/04/30 06:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38869/g2-make-epl-playoffs-after-thriller-revenge-series-against-m80
-2024/04/30 06:52:17 Fetched posts from https://www.hltv.org/rss/news, took 564.772778ms
-2024/04/30 06:52:17 Fetched posts from https://vlr.gg/rss, took 762.032121ms
-2024/04/30 06:52:18 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.002950075s
-2024/04/30 06:52:18 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.161684497s
-2024/04/30 06:52:20 Fetched posts from https://blogtienao.com/feed, took 3.199505348s
-2024/04/30 06:52:32 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.703941563s
-2024/04/30 06:52:32 Skipping writing post, no content: https://www.hltv.org/news/38877/fallen-with-more-autonomy-and-responsibility-i-really-want-to-leave-my-mark-here-during-the-next-year
-2024/04/30 06:52:32 Skipping writing post, no content: https://www.hltv.org/news/38879/vilgas-fearless-cheetahs-disbands
-2024/04/30 06:52:32 Skipping writing post, no content: https://www.hltv.org/news/38875/nicoodoz-im-not-satisfied-or-happy-at-all-with-my-performance-so-far
-2024/04/30 06:52:32 Skipping writing post, no content: https://www.hltv.org/news/38878/sl3nd-completes-move-to-gamerlegion
-2024/04/30 06:52:32 Skipping writing post, no content: https://www.hltv.org/news/38874/dycha-initiates-role-shift-its-disgusting-when-we-lose-matches-because-of-me
-2024/04/30 06:52:32 Skipping writing post, no content: https://www.hltv.org/news/38876/fnatic-og-more-to-play-in-cct-series-1-playoffs
-2024/04/30 06:52:32 Skipping writing post, no content: https://www.hltv.org/news/38873/betboom-dacha-belgrade-and-iem-dallas-to-feature-new-map-pool
-2024/04/30 06:52:32 Skipping writing post, no content: https://www.hltv.org/news/38872/apeks-invited-to-mesa-nomadic-masters-spring
-2024/04/30 06:52:32 Skipping writing post, no content: https://www.hltv.org/news/38870/dust2-new-map-pool-epl-results-roster-changes-on-hltv-confirmed-with-hooch-and-nart
-2024/04/30 06:52:32 Skipping writing post, no content: https://www.hltv.org/news/38869/g2-make-epl-playoffs-after-thriller-revenge-series-against-m80
-2024/04/30 06:52:32 Templated 78 posts, took 13.097043ms
+2024/04/30 07:15:58 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 195.88787ms
+2024/04/30 07:15:58 Fetched posts from https://vlr.gg/rss, took 221.485443ms
+2024/04/30 07:15:58 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/04/30 07:15:58 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 267.267175ms
+2024/04/30 07:15:58 Content still empty after HTML reader: https://www.hltv.org/news/38877/fallen-with-more-autonomy-and-responsibility-i-really-want-to-leave-my-mark-here-during-the-next-year
+2024/04/30 07:15:58 Content still empty after HTML reader: https://www.nytimes.com/2024/04/29/well/mind/super-agers-study.html
+2024/04/30 07:15:58 Content still empty after HTML reader: https://www.hltv.org/news/38879/vilgas-fearless-cheetahs-disbands
+2024/04/30 07:15:58 Content still empty after HTML reader: https://www.hltv.org/news/38875/nicoodoz-im-not-satisfied-or-happy-at-all-with-my-performance-so-far
+2024/04/30 07:15:58 Content still empty after HTML reader: https://www.hltv.org/news/38878/sl3nd-completes-move-to-gamerlegion
+2024/04/30 07:15:58 Content still empty after HTML reader: https://www.hltv.org/news/38874/dycha-initiates-role-shift-its-disgusting-when-we-lose-matches-because-of-me
+2024/04/30 07:15:58 Content still empty after HTML reader: https://www.hltv.org/news/38876/fnatic-og-more-to-play-in-cct-series-1-playoffs
+2024/04/30 07:15:58 Content still empty after HTML reader: https://www.hltv.org/news/38873/betboom-dacha-belgrade-and-iem-dallas-to-feature-new-map-pool
+2024/04/30 07:15:58 Content still empty after HTML reader: https://www.hltv.org/news/38872/apeks-invited-to-mesa-nomadic-masters-spring
+2024/04/30 07:15:58 Content still empty after HTML reader: https://www.hltv.org/news/38870/dust2-new-map-pool-epl-results-roster-changes-on-hltv-confirmed-with-hooch-and-nart
+2024/04/30 07:15:58 Content still empty after HTML reader: https://www.hltv.org/news/38869/g2-make-epl-playoffs-after-thriller-revenge-series-against-m80
+2024/04/30 07:15:58 Fetched posts from https://www.hltv.org/rss/news, took 406.399111ms
+2024/04/30 07:15:58 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 521.126017ms
+2024/04/30 07:15:58 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 735.159893ms
+2024/04/30 07:16:00 Fetched posts from https://blogtienao.com/feed, took 2.194809586s
+2024/04/30 07:16:16 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.926716202s
+2024/04/30 07:16:16 Skipping writing post, no content: https://www.hltv.org/news/38877/fallen-with-more-autonomy-and-responsibility-i-really-want-to-leave-my-mark-here-during-the-next-year
+2024/04/30 07:16:16 Skipping writing post, no content: https://www.hltv.org/news/38879/vilgas-fearless-cheetahs-disbands
+2024/04/30 07:16:16 Skipping writing post, no content: https://www.hltv.org/news/38875/nicoodoz-im-not-satisfied-or-happy-at-all-with-my-performance-so-far
+2024/04/30 07:16:16 Skipping writing post, no content: https://www.hltv.org/news/38878/sl3nd-completes-move-to-gamerlegion
+2024/04/30 07:16:16 Skipping writing post, no content: https://www.nytimes.com/2024/04/29/well/mind/super-agers-study.html
+2024/04/30 07:16:16 Skipping writing post, no content: https://www.hltv.org/news/38874/dycha-initiates-role-shift-its-disgusting-when-we-lose-matches-because-of-me
+2024/04/30 07:16:16 Skipping writing post, no content: https://www.hltv.org/news/38876/fnatic-og-more-to-play-in-cct-series-1-playoffs
+2024/04/30 07:16:16 Skipping writing post, no content: https://www.hltv.org/news/38873/betboom-dacha-belgrade-and-iem-dallas-to-feature-new-map-pool
+2024/04/30 07:16:16 Skipping writing post, no content: https://www.hltv.org/news/38872/apeks-invited-to-mesa-nomadic-masters-spring
+2024/04/30 07:16:16 Skipping writing post, no content: https://www.hltv.org/news/38870/dust2-new-map-pool-epl-results-roster-changes-on-hltv-confirmed-with-hooch-and-nart
+2024/04/30 07:16:16 Skipping writing post, no content: https://www.hltv.org/news/38869/g2-make-epl-playoffs-after-thriller-revenge-series-against-m80
+2024/04/30 07:16:16 Templated 78 posts, took 12.376646ms
