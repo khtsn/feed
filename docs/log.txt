@@ -1,32 +1,30 @@
-2024/05/02 19:24:55 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/02 19:24:55 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 165.282093ms
-2024/05/02 19:24:56 Content still empty after HTML reader: https://www.hltv.org/news/38899/pera-relegate-makeshift-nip-to-last-chance-stage
-2024/05/02 19:24:56 Content still empty after HTML reader: https://www.hltv.org/news/38898/saw-part-ways-with-nabowow
-2024/05/02 19:24:56 Content still empty after HTML reader: https://www.hltv.org/news/38896/live-updates-from-esl-pro-league-season-19-day-9
-2024/05/02 19:24:56 Content still empty after HTML reader: https://www.hltv.org/news/38895/mouz-and-liquid-lock-in-epl-playoff-berths
-2024/05/02 19:24:56 Content still empty after HTML reader: https://www.hltv.org/news/38887/live-updates-from-esl-pro-league-season-19-day-8
-2024/05/02 19:24:56 Content still empty after HTML reader: https://www.hltv.org/news/38894/forze-pile-more-misery-on-furia-in-malta
-2024/05/02 19:24:56 Content still empty after HTML reader: https://www.nytimes.com/2024/05/02/business/economy/the-fed-job-market.html
-2024/05/02 19:24:56 Content still empty after HTML reader: https://www.hltv.org/news/38893/peacemaker-eyes-coaching-return-i-miss-competing
-2024/05/02 19:24:56 Content still empty after HTML reader: https://www.hltv.org/news/38892/entropiq-overhaul-roster-with-regali-buzz-fashr-our-goal-is-clear-to-play-at-the-top-level-again
-2024/05/02 19:24:56 Content still empty after HTML reader: https://www.hltv.org/news/38891/sharks-bring-back-gafolo-after-pro-league-run
-2024/05/02 19:24:56 Content still empty after HTML reader: https://www.hltv.org/news/38888/apeks-transfer-list-roster
-2024/05/02 19:24:56 Fetched posts from https://www.hltv.org/rss/news, took 465.145494ms
-2024/05/02 19:24:56 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 739.554702ms
-2024/05/02 19:24:56 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 749.69599ms
-2024/05/02 19:24:56 Fetched posts from https://vlr.gg/rss, took 868.516667ms
-2024/05/02 19:24:56 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 1.200297918s
-2024/05/02 19:24:58 Fetched posts from https://blogtienao.com/feed, took 3.101087812s
-2024/05/02 19:25:11 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.66791557s
-2024/05/02 19:25:11 Skipping writing post, no content: https://www.nytimes.com/2024/05/02/business/economy/the-fed-job-market.html
-2024/05/02 19:25:11 Skipping writing post, no content: https://www.hltv.org/news/38899/pera-relegate-makeshift-nip-to-last-chance-stage
-2024/05/02 19:25:11 Skipping writing post, no content: https://www.hltv.org/news/38898/saw-part-ways-with-nabowow
-2024/05/02 19:25:11 Skipping writing post, no content: https://www.hltv.org/news/38896/live-updates-from-esl-pro-league-season-19-day-9
-2024/05/02 19:25:11 Skipping writing post, no content: https://www.hltv.org/news/38895/mouz-and-liquid-lock-in-epl-playoff-berths
-2024/05/02 19:25:11 Skipping writing post, no content: https://www.hltv.org/news/38887/live-updates-from-esl-pro-league-season-19-day-8
-2024/05/02 19:25:11 Skipping writing post, no content: https://www.hltv.org/news/38894/forze-pile-more-misery-on-furia-in-malta
-2024/05/02 19:25:11 Skipping writing post, no content: https://www.hltv.org/news/38893/peacemaker-eyes-coaching-return-i-miss-competing
-2024/05/02 19:25:11 Skipping writing post, no content: https://www.hltv.org/news/38892/entropiq-overhaul-roster-with-regali-buzz-fashr-our-goal-is-clear-to-play-at-the-top-level-again
-2024/05/02 19:25:11 Skipping writing post, no content: https://www.hltv.org/news/38891/sharks-bring-back-gafolo-after-pro-league-run
-2024/05/02 19:25:11 Skipping writing post, no content: https://www.hltv.org/news/38888/apeks-transfer-list-roster
-2024/05/02 19:25:11 Templated 82 posts, took 13.130434ms
+2024/05/02 19:37:17 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 161.95178ms
+2024/05/02 19:37:17 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/02 19:37:17 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 179.082132ms
+2024/05/02 19:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38899/pera-relegate-makeshift-nip-to-last-chance-stage
+2024/05/02 19:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38898/saw-part-ways-with-nabowow
+2024/05/02 19:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38896/live-updates-from-esl-pro-league-season-19-day-9
+2024/05/02 19:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38895/mouz-and-liquid-lock-in-epl-playoff-berths
+2024/05/02 19:37:17 Fetched posts from https://vlr.gg/rss, took 404.625516ms
+2024/05/02 19:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38887/live-updates-from-esl-pro-league-season-19-day-8
+2024/05/02 19:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38894/forze-pile-more-misery-on-furia-in-malta
+2024/05/02 19:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38893/peacemaker-eyes-coaching-return-i-miss-competing
+2024/05/02 19:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38892/entropiq-overhaul-roster-with-regali-buzz-fashr-our-goal-is-clear-to-play-at-the-top-level-again
+2024/05/02 19:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38891/sharks-bring-back-gafolo-after-pro-league-run
+2024/05/02 19:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38888/apeks-transfer-list-roster
+2024/05/02 19:37:17 Fetched posts from https://www.hltv.org/rss/news, took 487.588342ms
+2024/05/02 19:37:18 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 959.406606ms
+2024/05/02 19:37:18 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.50665946s
+2024/05/02 19:37:19 Fetched posts from https://blogtienao.com/feed, took 2.396414359s
+2024/05/02 19:37:39 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.429902577s
+2024/05/02 19:37:39 Skipping writing post, no content: https://www.hltv.org/news/38899/pera-relegate-makeshift-nip-to-last-chance-stage
+2024/05/02 19:37:39 Skipping writing post, no content: https://www.hltv.org/news/38898/saw-part-ways-with-nabowow
+2024/05/02 19:37:39 Skipping writing post, no content: https://www.hltv.org/news/38896/live-updates-from-esl-pro-league-season-19-day-9
+2024/05/02 19:37:39 Skipping writing post, no content: https://www.hltv.org/news/38895/mouz-and-liquid-lock-in-epl-playoff-berths
+2024/05/02 19:37:39 Skipping writing post, no content: https://www.hltv.org/news/38887/live-updates-from-esl-pro-league-season-19-day-8
+2024/05/02 19:37:39 Skipping writing post, no content: https://www.hltv.org/news/38894/forze-pile-more-misery-on-furia-in-malta
+2024/05/02 19:37:39 Skipping writing post, no content: https://www.hltv.org/news/38893/peacemaker-eyes-coaching-return-i-miss-competing
+2024/05/02 19:37:39 Skipping writing post, no content: https://www.hltv.org/news/38892/entropiq-overhaul-roster-with-regali-buzz-fashr-our-goal-is-clear-to-play-at-the-top-level-again
+2024/05/02 19:37:39 Skipping writing post, no content: https://www.hltv.org/news/38891/sharks-bring-back-gafolo-after-pro-league-run
+2024/05/02 19:37:39 Skipping writing post, no content: https://www.hltv.org/news/38888/apeks-transfer-list-roster
+2024/05/02 19:37:39 Templated 82 posts, took 13.229168ms
