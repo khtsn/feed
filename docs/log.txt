@@ -1,30 +1,30 @@
-2024/05/03 19:13:06 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 190.294581ms
-2024/05/03 19:13:06 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/03 19:13:06 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 193.732649ms
-2024/05/03 19:13:06 Content still empty after HTML reader: https://www.nytimes.com/2024/05/03/arts/robert-indiana-estate-appraisal-dispute.html
-2024/05/03 19:13:06 Content still empty after HTML reader: https://www.hltv.org/news/38906/furia-defeat-bad-news-kangaroos-to-stay-alive-in-pro-league
-2024/05/03 19:13:06 Fetched posts from https://vlr.gg/rss, took 345.32827ms
-2024/05/03 19:13:06 Content still empty after HTML reader: https://www.hltv.org/news/38905/media-stewie2ks-legacy-stand-in-spell-set-to-end-as-team-targets-saadzin
-2024/05/03 19:13:06 Content still empty after HTML reader: https://www.hltv.org/news/38904/chinggis-warriors-qualify-for-mesa-nomadic-masters-spring
-2024/05/03 19:13:06 Content still empty after HTML reader: https://www.hltv.org/news/38903/live-updates-from-esl-pro-league-season-19-day-10
-2024/05/03 19:13:06 Content still empty after HTML reader: https://www.hltv.org/news/38901/complexity-and-navi-book-epl-playoff-spots
-2024/05/03 19:13:06 Content still empty after HTML reader: https://www.hltv.org/news/38896/live-updates-from-esl-pro-league-season-19-day-9
-2024/05/03 19:13:06 Content still empty after HTML reader: https://www.hltv.org/news/38899/pera-relegate-makeshift-nip-to-last-chance-stage
-2024/05/03 19:13:06 Content still empty after HTML reader: https://www.hltv.org/news/38898/saw-part-ways-with-nabowow
-2024/05/03 19:13:06 Content still empty after HTML reader: https://www.hltv.org/news/38895/mouz-and-liquid-lock-in-epl-playoff-berths
-2024/05/03 19:13:06 Fetched posts from https://www.hltv.org/rss/news, took 524.056319ms
-2024/05/03 19:13:06 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 787.916716ms
-2024/05/03 19:13:07 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 970.251004ms
-2024/05/03 19:13:08 Fetched posts from https://blogtienao.com/feed, took 2.437906666s
-2024/05/03 19:13:27 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.100883044s
-2024/05/03 19:13:27 Skipping writing post, no content: https://www.hltv.org/news/38906/furia-defeat-bad-news-kangaroos-to-stay-alive-in-pro-league
-2024/05/03 19:13:27 Skipping writing post, no content: https://www.hltv.org/news/38905/media-stewie2ks-legacy-stand-in-spell-set-to-end-as-team-targets-saadzin
-2024/05/03 19:13:27 Skipping writing post, no content: https://www.hltv.org/news/38904/chinggis-warriors-qualify-for-mesa-nomadic-masters-spring
-2024/05/03 19:13:27 Skipping writing post, no content: https://www.nytimes.com/2024/05/03/arts/robert-indiana-estate-appraisal-dispute.html
-2024/05/03 19:13:27 Skipping writing post, no content: https://www.hltv.org/news/38903/live-updates-from-esl-pro-league-season-19-day-10
-2024/05/03 19:13:27 Skipping writing post, no content: https://www.hltv.org/news/38901/complexity-and-navi-book-epl-playoff-spots
-2024/05/03 19:13:27 Skipping writing post, no content: https://www.hltv.org/news/38896/live-updates-from-esl-pro-league-season-19-day-9
-2024/05/03 19:13:27 Skipping writing post, no content: https://www.hltv.org/news/38899/pera-relegate-makeshift-nip-to-last-chance-stage
-2024/05/03 19:13:27 Skipping writing post, no content: https://www.hltv.org/news/38898/saw-part-ways-with-nabowow
-2024/05/03 19:13:27 Skipping writing post, no content: https://www.hltv.org/news/38895/mouz-and-liquid-lock-in-epl-playoff-berths
-2024/05/03 19:13:27 Templated 78 posts, took 13.295888ms
+2024/05/03 19:25:06 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/03 19:25:06 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 100.802556ms
+2024/05/03 19:25:06 Content still empty after HTML reader: https://www.hltv.org/news/38906/furia-defeat-bad-news-kangaroos-to-stay-alive-in-pro-league
+2024/05/03 19:25:06 Content still empty after HTML reader: https://www.hltv.org/news/38905/media-stewie2ks-legacy-stand-in-spell-set-to-end-as-team-targets-saadzin
+2024/05/03 19:25:06 Content still empty after HTML reader: https://www.hltv.org/news/38904/chinggis-warriors-qualify-for-mesa-nomadic-masters-spring
+2024/05/03 19:25:06 Content still empty after HTML reader: https://www.hltv.org/news/38903/live-updates-from-esl-pro-league-season-19-day-10
+2024/05/03 19:25:06 Content still empty after HTML reader: https://www.hltv.org/news/38901/complexity-and-navi-book-epl-playoff-spots
+2024/05/03 19:25:06 Content still empty after HTML reader: https://www.hltv.org/news/38896/live-updates-from-esl-pro-league-season-19-day-9
+2024/05/03 19:25:06 Content still empty after HTML reader: https://www.hltv.org/news/38900/sashi-complete-32-map-campaign-to-qualify-for-yalla-compass-2024
+2024/05/03 19:25:06 Content still empty after HTML reader: https://www.hltv.org/news/38899/pera-relegate-makeshift-nip-to-last-chance-stage
+2024/05/03 19:25:06 Content still empty after HTML reader: https://www.hltv.org/news/38898/saw-part-ways-with-nabowow
+2024/05/03 19:25:06 Content still empty after HTML reader: https://www.hltv.org/news/38895/mouz-and-liquid-lock-in-epl-playoff-berths
+2024/05/03 19:25:06 Fetched posts from https://www.hltv.org/rss/news, took 321.608694ms
+2024/05/03 19:25:07 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 854.927128ms
+2024/05/03 19:25:07 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 919.605589ms
+2024/05/03 19:25:07 Fetched posts from https://vlr.gg/rss, took 1.026490302s
+2024/05/03 19:25:07 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.0711496s
+2024/05/03 19:25:09 Fetched posts from https://blogtienao.com/feed, took 3.244587472s
+2024/05/03 19:25:26 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.146698204s
+2024/05/03 19:25:26 Skipping writing post, no content: https://www.hltv.org/news/38906/furia-defeat-bad-news-kangaroos-to-stay-alive-in-pro-league
+2024/05/03 19:25:26 Skipping writing post, no content: https://www.hltv.org/news/38905/media-stewie2ks-legacy-stand-in-spell-set-to-end-as-team-targets-saadzin
+2024/05/03 19:25:26 Skipping writing post, no content: https://www.hltv.org/news/38904/chinggis-warriors-qualify-for-mesa-nomadic-masters-spring
+2024/05/03 19:25:26 Skipping writing post, no content: https://www.hltv.org/news/38903/live-updates-from-esl-pro-league-season-19-day-10
+2024/05/03 19:25:26 Skipping writing post, no content: https://www.hltv.org/news/38901/complexity-and-navi-book-epl-playoff-spots
+2024/05/03 19:25:26 Skipping writing post, no content: https://www.hltv.org/news/38896/live-updates-from-esl-pro-league-season-19-day-9
+2024/05/03 19:25:26 Skipping writing post, no content: https://www.hltv.org/news/38900/sashi-complete-32-map-campaign-to-qualify-for-yalla-compass-2024
+2024/05/03 19:25:26 Skipping writing post, no content: https://www.hltv.org/news/38899/pera-relegate-makeshift-nip-to-last-chance-stage
+2024/05/03 19:25:26 Skipping writing post, no content: https://www.hltv.org/news/38898/saw-part-ways-with-nabowow
+2024/05/03 19:25:26 Skipping writing post, no content: https://www.hltv.org/news/38895/mouz-and-liquid-lock-in-epl-playoff-berths
+2024/05/03 19:25:26 Templated 79 posts, took 13.219517ms
