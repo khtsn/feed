@@ -1,30 +1,28 @@
-2024/05/05 18:52:21 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/05 18:52:21 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 166.896865ms
-2024/05/05 18:52:21 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 275.980408ms
-2024/05/05 18:52:21 Content still empty after HTML reader: https://www.hltv.org/news/38919/monte-reach-epl-playoffs-at-furias-expense
-2024/05/05 18:52:21 Content still empty after HTML reader: https://www.hltv.org/news/38915/benched-forze-duo-join-gun5
-2024/05/05 18:52:21 Content still empty after HTML reader: https://www.hltv.org/news/38918/flyquest-dispatch-nip-2-0-to-reach-playoffs-at-epl
-2024/05/05 18:52:21 Content still empty after HTML reader: https://www.hltv.org/news/38917/samey-signs-with-sangal-after-stand-in-spell
-2024/05/05 18:52:21 Content still empty after HTML reader: https://www.hltv.org/news/38916/lynn-vision-and-jee-part-ways
-2024/05/05 18:52:21 Content still empty after HTML reader: https://www.hltv.org/news/38914/live-updates-from-esl-pro-league-s19-day-12
-2024/05/05 18:52:21 Content still empty after HTML reader: https://www.hltv.org/news/38913/groups-announced-for-betboom-dacha-belgrade
-2024/05/05 18:52:21 Content still empty after HTML reader: https://www.hltv.org/news/38908/live-updates-from-esl-pro-league-s19-day-11
-2024/05/05 18:52:21 Content still empty after HTML reader: https://www.hltv.org/news/38912/amkal-win-inaugural-cct-season-2-eu-series
-2024/05/05 18:52:21 Content still empty after HTML reader: https://www.hltv.org/news/38911/heroic-ence-bow-out-of-epl-early
-2024/05/05 18:52:21 Fetched posts from https://www.hltv.org/rss/news, took 471.636971ms
-2024/05/05 18:52:21 Fetched posts from https://vlr.gg/rss, took 531.771004ms
-2024/05/05 18:52:21 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 852.375344ms
-2024/05/05 18:52:21 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 949.472825ms
-2024/05/05 18:52:23 Fetched posts from https://blogtienao.com/feed, took 2.352947923s
-2024/05/05 18:52:36 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.96374381s
-2024/05/05 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/38919/monte-reach-epl-playoffs-at-furias-expense
-2024/05/05 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/38915/benched-forze-duo-join-gun5
-2024/05/05 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/38918/flyquest-dispatch-nip-2-0-to-reach-playoffs-at-epl
-2024/05/05 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/38917/samey-signs-with-sangal-after-stand-in-spell
-2024/05/05 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/38916/lynn-vision-and-jee-part-ways
-2024/05/05 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/38914/live-updates-from-esl-pro-league-s19-day-12
-2024/05/05 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/38913/groups-announced-for-betboom-dacha-belgrade
-2024/05/05 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/38908/live-updates-from-esl-pro-league-s19-day-11
-2024/05/05 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/38912/amkal-win-inaugural-cct-season-2-eu-series
-2024/05/05 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/38911/heroic-ence-bow-out-of-epl-early
-2024/05/05 18:52:36 Templated 79 posts, took 12.443974ms
+2024/05/05 19:14:24 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/05 19:14:24 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 172.592298ms
+2024/05/05 19:14:25 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 399.498886ms
+2024/05/05 19:14:25 Content still empty after HTML reader: https://www.hltv.org/news/38915/benched-forze-duo-join-gun5
+2024/05/05 19:14:25 Content still empty after HTML reader: https://www.hltv.org/news/38918/flyquest-dispatch-nip-2-0-to-reach-playoffs-at-epl
+2024/05/05 19:14:25 Content still empty after HTML reader: https://www.hltv.org/news/38917/samey-signs-with-sangal-after-stand-in-spell
+2024/05/05 19:14:25 Content still empty after HTML reader: https://www.hltv.org/news/38916/lynn-vision-and-jee-part-ways
+2024/05/05 19:14:25 Content still empty after HTML reader: https://www.hltv.org/news/38914/live-updates-from-esl-pro-league-s19-day-12
+2024/05/05 19:14:25 Content still empty after HTML reader: https://www.hltv.org/news/38913/groups-announced-for-betboom-dacha-belgrade
+2024/05/05 19:14:25 Content still empty after HTML reader: https://www.hltv.org/news/38908/live-updates-from-esl-pro-league-s19-day-11
+2024/05/05 19:14:25 Content still empty after HTML reader: https://www.hltv.org/news/38912/amkal-win-inaugural-cct-season-2-eu-series
+2024/05/05 19:14:25 Content still empty after HTML reader: https://www.hltv.org/news/38911/heroic-ence-bow-out-of-epl-early
+2024/05/05 19:14:25 Fetched posts from https://www.hltv.org/rss/news, took 557.957948ms
+2024/05/05 19:14:25 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 971.086692ms
+2024/05/05 19:14:25 Fetched posts from https://vlr.gg/rss, took 1.022524059s
+2024/05/05 19:14:25 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.171264177s
+2024/05/05 19:14:27 Fetched posts from https://blogtienao.com/feed, took 3.221668026s
+2024/05/05 19:14:41 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.326244527s
+2024/05/05 19:14:41 Skipping writing post, no content: https://www.hltv.org/news/38915/benched-forze-duo-join-gun5
+2024/05/05 19:14:41 Skipping writing post, no content: https://www.hltv.org/news/38918/flyquest-dispatch-nip-2-0-to-reach-playoffs-at-epl
+2024/05/05 19:14:41 Skipping writing post, no content: https://www.hltv.org/news/38917/samey-signs-with-sangal-after-stand-in-spell
+2024/05/05 19:14:41 Skipping writing post, no content: https://www.hltv.org/news/38916/lynn-vision-and-jee-part-ways
+2024/05/05 19:14:41 Skipping writing post, no content: https://www.hltv.org/news/38914/live-updates-from-esl-pro-league-s19-day-12
+2024/05/05 19:14:41 Skipping writing post, no content: https://www.hltv.org/news/38913/groups-announced-for-betboom-dacha-belgrade
+2024/05/05 19:14:41 Skipping writing post, no content: https://www.hltv.org/news/38908/live-updates-from-esl-pro-league-s19-day-11
+2024/05/05 19:14:41 Skipping writing post, no content: https://www.hltv.org/news/38912/amkal-win-inaugural-cct-season-2-eu-series
+2024/05/05 19:14:41 Skipping writing post, no content: https://www.hltv.org/news/38911/heroic-ence-bow-out-of-epl-early
+2024/05/05 19:14:41 Templated 79 posts, took 12.820964ms
