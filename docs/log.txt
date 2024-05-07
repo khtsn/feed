@@ -1,32 +1,30 @@
-2024/05/07 11:15:38 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 112.32092ms
-2024/05/07 11:15:38 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/07 11:15:38 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 164.502133ms
-2024/05/07 11:15:38 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 521.419875ms
-2024/05/07 11:15:38 Fetched posts from https://vlr.gg/rss, took 583.581681ms
-2024/05/07 11:15:38 Content still empty after HTML reader: https://www.hltv.org/news/38927/cloud9-withdraw-from-betboom-dacha-belgrade
-2024/05/07 11:15:38 Content still empty after HTML reader: https://www.hltv.org/news/38926/epl-s19-playoffs-fantasy-padding-explained
-2024/05/07 11:15:38 Content still empty after HTML reader: https://www.nytimes.com/2024/05/07/world/europe/us-soldier-detained-russia.html
-2024/05/07 11:15:38 Content still empty after HTML reader: https://www.hltv.org/news/38925/team-ranking-april-2024
-2024/05/07 11:15:38 Content still empty after HTML reader: https://www.hltv.org/news/38924/betboom-among-invites-to-cct-series-2-playoffs
-2024/05/07 11:15:38 Content still empty after HTML reader: https://www.hltv.org/news/38922/metizport-announce-susp-benching
-2024/05/07 11:15:38 Content still empty after HTML reader: https://www.hltv.org/news/38923/esports-world-cup-announces-club-program-with-30-member-orgs
-2024/05/07 11:15:38 Content still empty after HTML reader: https://www.hltv.org/news/38921/astralis-and-ence-invited-to-yalla-compass
-2024/05/07 11:15:38 Content still empty after HTML reader: https://www.hltv.org/news/38920/esl-pro-league-s19-playoffs-bracket-set
-2024/05/07 11:15:38 Content still empty after HTML reader: https://www.hltv.org/news/38914/live-updates-from-esl-pro-league-s19-day-12
-2024/05/07 11:15:38 Content still empty after HTML reader: https://www.hltv.org/news/38919/monte-reach-epl-playoffs-at-furias-expense
-2024/05/07 11:15:38 Fetched posts from https://www.hltv.org/rss/news, took 787.448095ms
-2024/05/07 11:15:38 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.040626022s
-2024/05/07 11:15:40 Fetched posts from https://blogtienao.com/feed, took 2.346380027s
-2024/05/07 11:15:53 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.987593921s
-2024/05/07 11:15:53 Skipping writing post, no content: https://www.nytimes.com/2024/05/07/world/europe/us-soldier-detained-russia.html
-2024/05/07 11:15:53 Skipping writing post, no content: https://www.hltv.org/news/38927/cloud9-withdraw-from-betboom-dacha-belgrade
-2024/05/07 11:15:53 Skipping writing post, no content: https://www.hltv.org/news/38926/epl-s19-playoffs-fantasy-padding-explained
-2024/05/07 11:15:53 Skipping writing post, no content: https://www.hltv.org/news/38925/team-ranking-april-2024
-2024/05/07 11:15:53 Skipping writing post, no content: https://www.hltv.org/news/38924/betboom-among-invites-to-cct-series-2-playoffs
-2024/05/07 11:15:53 Skipping writing post, no content: https://www.hltv.org/news/38922/metizport-announce-susp-benching
-2024/05/07 11:15:53 Skipping writing post, no content: https://www.hltv.org/news/38923/esports-world-cup-announces-club-program-with-30-member-orgs
-2024/05/07 11:15:53 Skipping writing post, no content: https://www.hltv.org/news/38921/astralis-and-ence-invited-to-yalla-compass
-2024/05/07 11:15:53 Skipping writing post, no content: https://www.hltv.org/news/38920/esl-pro-league-s19-playoffs-bracket-set
-2024/05/07 11:15:53 Skipping writing post, no content: https://www.hltv.org/news/38914/live-updates-from-esl-pro-league-s19-day-12
-2024/05/07 11:15:53 Skipping writing post, no content: https://www.hltv.org/news/38919/monte-reach-epl-playoffs-at-furias-expense
-2024/05/07 11:15:53 Templated 85 posts, took 13.933059ms
+2024/05/07 11:37:37 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 113.857262ms
+2024/05/07 11:37:37 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/07 11:37:37 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 279.002885ms
+2024/05/07 11:37:37 Fetched posts from https://vlr.gg/rss, took 307.403695ms
+2024/05/07 11:37:37 Content still empty after HTML reader: https://www.hltv.org/news/38927/cloud9-withdraw-from-betboom-dacha-belgrade
+2024/05/07 11:37:37 Content still empty after HTML reader: https://www.hltv.org/news/38926/epl-s19-playoffs-fantasy-padding-explained
+2024/05/07 11:37:37 Content still empty after HTML reader: https://www.hltv.org/news/38925/team-ranking-april-2024
+2024/05/07 11:37:37 Content still empty after HTML reader: https://www.hltv.org/news/38924/betboom-among-invites-to-cct-series-2-playoffs
+2024/05/07 11:37:37 Content still empty after HTML reader: https://www.hltv.org/news/38922/metizport-announce-susp-benching
+2024/05/07 11:37:37 Content still empty after HTML reader: https://www.hltv.org/news/38923/esports-world-cup-announces-club-program-with-30-member-orgs
+2024/05/07 11:37:37 Content still empty after HTML reader: https://www.hltv.org/news/38921/astralis-and-ence-invited-to-yalla-compass
+2024/05/07 11:37:37 Content still empty after HTML reader: https://www.hltv.org/news/38920/esl-pro-league-s19-playoffs-bracket-set
+2024/05/07 11:37:37 Content still empty after HTML reader: https://www.hltv.org/news/38914/live-updates-from-esl-pro-league-s19-day-12
+2024/05/07 11:37:37 Content still empty after HTML reader: https://www.hltv.org/news/38919/monte-reach-epl-playoffs-at-furias-expense
+2024/05/07 11:37:37 Fetched posts from https://www.hltv.org/rss/news, took 429.987955ms
+2024/05/07 11:37:37 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 452.359936ms
+2024/05/07 11:37:38 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 883.104613ms
+2024/05/07 11:37:39 Fetched posts from https://blogtienao.com/feed, took 2.181938826s
+2024/05/07 11:37:54 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.959406624s
+2024/05/07 11:37:54 Skipping writing post, no content: https://www.hltv.org/news/38927/cloud9-withdraw-from-betboom-dacha-belgrade
+2024/05/07 11:37:54 Skipping writing post, no content: https://www.hltv.org/news/38926/epl-s19-playoffs-fantasy-padding-explained
+2024/05/07 11:37:54 Skipping writing post, no content: https://www.hltv.org/news/38925/team-ranking-april-2024
+2024/05/07 11:37:54 Skipping writing post, no content: https://www.hltv.org/news/38924/betboom-among-invites-to-cct-series-2-playoffs
+2024/05/07 11:37:54 Skipping writing post, no content: https://www.hltv.org/news/38922/metizport-announce-susp-benching
+2024/05/07 11:37:54 Skipping writing post, no content: https://www.hltv.org/news/38923/esports-world-cup-announces-club-program-with-30-member-orgs
+2024/05/07 11:37:54 Skipping writing post, no content: https://www.hltv.org/news/38921/astralis-and-ence-invited-to-yalla-compass
+2024/05/07 11:37:54 Skipping writing post, no content: https://www.hltv.org/news/38920/esl-pro-league-s19-playoffs-bracket-set
+2024/05/07 11:37:54 Skipping writing post, no content: https://www.hltv.org/news/38914/live-updates-from-esl-pro-league-s19-day-12
+2024/05/07 11:37:54 Skipping writing post, no content: https://www.hltv.org/news/38919/monte-reach-epl-playoffs-at-furias-expense
+2024/05/07 11:37:54 Templated 85 posts, took 14.042439ms
