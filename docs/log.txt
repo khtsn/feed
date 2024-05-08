@@ -1,30 +1,32 @@
-2024/05/08 09:17:18 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/08 09:17:18 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 130.408515ms
-2024/05/08 09:17:18 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 247.922303ms
-2024/05/08 09:17:18 Content still empty after HTML reader: https://www.hltv.org/news/38932/liazz-if-anyone-fcks-up-a-strat-dexter-is-going-to-shit-on-them-and-we-needed-that
-2024/05/08 09:17:18 Content still empty after HTML reader: https://www.hltv.org/news/38935/broky-stars-as-faze-labor-to-victory-over-monte
-2024/05/08 09:17:18 Content still empty after HTML reader: https://www.hltv.org/news/38934/virtuspro-grind-down-gamerlegion-in-malta
-2024/05/08 09:17:18 Content still empty after HTML reader: https://www.hltv.org/news/38933/hooxi-to-miss-iem-dallas
-2024/05/08 09:17:18 Content still empty after HTML reader: https://www.hltv.org/news/38931/flyquest-send-betboom-home-from-epl
-2024/05/08 09:17:18 Content still empty after HTML reader: https://www.hltv.org/news/38930/vintage-niko-powers-g2-past-big-in-epl-playoffs
-2024/05/08 09:17:18 Content still empty after HTML reader: https://www.hltv.org/news/38929/trace-leaves-copenhagen-wolves
-2024/05/08 09:17:18 Content still empty after HTML reader: https://www.hltv.org/news/38928/live-updates-from-epl-s19-playoffs-round-1
-2024/05/08 09:17:18 Content still empty after HTML reader: https://www.hltv.org/news/38927/cloud9-withdraw-from-betboom-dacha-belgrade
-2024/05/08 09:17:18 Content still empty after HTML reader: https://www.hltv.org/news/38926/epl-s19-playoffs-fantasy-padding-explained
-2024/05/08 09:17:18 Fetched posts from https://www.hltv.org/rss/news, took 456.959485ms
-2024/05/08 09:17:18 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 527.40584ms
-2024/05/08 09:17:19 Fetched posts from https://vlr.gg/rss, took 1.081821671s
-2024/05/08 09:17:21 Fetched posts from https://blogtienao.com/feed, took 3.055459873s
-2024/05/08 09:17:24 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 5.835062289s
-2024/05/08 09:17:31 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 12.878506453s
-2024/05/08 09:17:31 Skipping writing post, no content: https://www.hltv.org/news/38932/liazz-if-anyone-fcks-up-a-strat-dexter-is-going-to-shit-on-them-and-we-needed-that
-2024/05/08 09:17:31 Skipping writing post, no content: https://www.hltv.org/news/38935/broky-stars-as-faze-labor-to-victory-over-monte
-2024/05/08 09:17:31 Skipping writing post, no content: https://www.hltv.org/news/38934/virtuspro-grind-down-gamerlegion-in-malta
-2024/05/08 09:17:31 Skipping writing post, no content: https://www.hltv.org/news/38933/hooxi-to-miss-iem-dallas
-2024/05/08 09:17:31 Skipping writing post, no content: https://www.hltv.org/news/38931/flyquest-send-betboom-home-from-epl
-2024/05/08 09:17:31 Skipping writing post, no content: https://www.hltv.org/news/38930/vintage-niko-powers-g2-past-big-in-epl-playoffs
-2024/05/08 09:17:31 Skipping writing post, no content: https://www.hltv.org/news/38929/trace-leaves-copenhagen-wolves
-2024/05/08 09:17:31 Skipping writing post, no content: https://www.hltv.org/news/38928/live-updates-from-epl-s19-playoffs-round-1
-2024/05/08 09:17:31 Skipping writing post, no content: https://www.hltv.org/news/38927/cloud9-withdraw-from-betboom-dacha-belgrade
-2024/05/08 09:17:31 Skipping writing post, no content: https://www.hltv.org/news/38926/epl-s19-playoffs-fantasy-padding-explained
-2024/05/08 09:17:31 Templated 72 posts, took 11.471215ms
+2024/05/08 09:37:17 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 161.36209ms
+2024/05/08 09:37:17 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/08 09:37:17 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 189.532297ms
+2024/05/08 09:37:17 Fetched posts from https://vlr.gg/rss, took 516.488032ms
+2024/05/08 09:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38936/electronic-on-jame-i-was-always-interested-in-his-way-of-thinking
+2024/05/08 09:37:17 Content still empty after HTML reader: https://www.bbc.com/vietnamese/articles/cpwg5dld5pgo
+2024/05/08 09:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38932/liazz-if-anyone-fcks-up-a-strat-dexter-is-going-to-shit-on-them-and-we-needed-that
+2024/05/08 09:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38935/broky-stars-as-faze-labor-to-victory-over-monte
+2024/05/08 09:37:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 689.134568ms
+2024/05/08 09:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38934/virtuspro-grind-down-gamerlegion-in-malta
+2024/05/08 09:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38933/hooxi-to-miss-iem-dallas
+2024/05/08 09:37:17 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 717.976936ms
+2024/05/08 09:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38931/flyquest-send-betboom-home-from-epl
+2024/05/08 09:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38930/vintage-niko-powers-g2-past-big-in-epl-playoffs
+2024/05/08 09:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38929/trace-leaves-copenhagen-wolves
+2024/05/08 09:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38928/live-updates-from-epl-s19-playoffs-round-1
+2024/05/08 09:37:17 Content still empty after HTML reader: https://www.hltv.org/news/38927/cloud9-withdraw-from-betboom-dacha-belgrade
+2024/05/08 09:37:17 Fetched posts from https://www.hltv.org/rss/news, took 788.748739ms
+2024/05/08 09:37:19 Fetched posts from https://blogtienao.com/feed, took 2.16167356s
+2024/05/08 09:37:36 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.690502638s
+2024/05/08 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/38936/electronic-on-jame-i-was-always-interested-in-his-way-of-thinking
+2024/05/08 09:37:36 Skipping writing post, no content: https://www.bbc.com/vietnamese/articles/cpwg5dld5pgo
+2024/05/08 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/38932/liazz-if-anyone-fcks-up-a-strat-dexter-is-going-to-shit-on-them-and-we-needed-that
+2024/05/08 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/38935/broky-stars-as-faze-labor-to-victory-over-monte
+2024/05/08 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/38934/virtuspro-grind-down-gamerlegion-in-malta
+2024/05/08 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/38933/hooxi-to-miss-iem-dallas
+2024/05/08 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/38931/flyquest-send-betboom-home-from-epl
+2024/05/08 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/38930/vintage-niko-powers-g2-past-big-in-epl-playoffs
+2024/05/08 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/38929/trace-leaves-copenhagen-wolves
+2024/05/08 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/38928/live-updates-from-epl-s19-playoffs-round-1
+2024/05/08 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/38927/cloud9-withdraw-from-betboom-dacha-belgrade
+2024/05/08 09:37:36 Templated 72 posts, took 11.677938ms
