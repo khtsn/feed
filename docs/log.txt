@@ -1,30 +1,30 @@
-2024/05/08 17:14:22 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/08 17:14:22 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 184.327294ms
-2024/05/08 17:14:22 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 231.840725ms
-2024/05/08 17:14:22 Content still empty after HTML reader: https://www.hltv.org/news/38939/gamerlegion-confirm-fl4mus-signing
-2024/05/08 17:14:22 Content still empty after HTML reader: https://www.hltv.org/news/38937/isak-signing-completes-nip-rebuild
-2024/05/08 17:14:22 Content still empty after HTML reader: https://www.hltv.org/news/38938/live-updates-from-epl-s19-playoffs-round-of-12
-2024/05/08 17:14:22 Content still empty after HTML reader: https://www.hltv.org/news/38902/short-news-feed
-2024/05/08 17:14:22 Content still empty after HTML reader: https://www.hltv.org/news/38936/electronic-on-jame-i-was-always-interested-in-his-way-of-thinking
-2024/05/08 17:14:22 Content still empty after HTML reader: https://www.hltv.org/news/38932/liazz-if-anyone-fcks-up-a-strat-dexter-is-going-to-shit-on-them-and-we-needed-that
-2024/05/08 17:14:22 Content still empty after HTML reader: https://www.hltv.org/news/38935/broky-stars-as-faze-labor-to-victory-over-monte
-2024/05/08 17:14:22 Fetched posts from https://vlr.gg/rss, took 383.49995ms
-2024/05/08 17:14:22 Content still empty after HTML reader: https://www.hltv.org/news/38934/virtuspro-grind-down-gamerlegion-in-malta
-2024/05/08 17:14:22 Content still empty after HTML reader: https://www.hltv.org/news/38933/hooxi-to-miss-iem-dallas
-2024/05/08 17:14:22 Content still empty after HTML reader: https://www.hltv.org/news/38931/flyquest-send-betboom-home-from-epl
-2024/05/08 17:14:22 Fetched posts from https://www.hltv.org/rss/news, took 427.447168ms
-2024/05/08 17:14:23 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 712.578362ms
-2024/05/08 17:14:23 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.200538747s
-2024/05/08 17:14:25 Fetched posts from https://blogtienao.com/feed, took 2.479543312s
-2024/05/08 17:14:39 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.62118802s
-2024/05/08 17:14:39 Skipping writing post, no content: https://www.hltv.org/news/38939/gamerlegion-confirm-fl4mus-signing
-2024/05/08 17:14:39 Skipping writing post, no content: https://www.hltv.org/news/38937/isak-signing-completes-nip-rebuild
-2024/05/08 17:14:39 Skipping writing post, no content: https://www.hltv.org/news/38938/live-updates-from-epl-s19-playoffs-round-of-12
-2024/05/08 17:14:39 Skipping writing post, no content: https://www.hltv.org/news/38902/short-news-feed
-2024/05/08 17:14:39 Skipping writing post, no content: https://www.hltv.org/news/38936/electronic-on-jame-i-was-always-interested-in-his-way-of-thinking
-2024/05/08 17:14:39 Skipping writing post, no content: https://www.hltv.org/news/38932/liazz-if-anyone-fcks-up-a-strat-dexter-is-going-to-shit-on-them-and-we-needed-that
-2024/05/08 17:14:39 Skipping writing post, no content: https://www.hltv.org/news/38935/broky-stars-as-faze-labor-to-victory-over-monte
-2024/05/08 17:14:39 Skipping writing post, no content: https://www.hltv.org/news/38934/virtuspro-grind-down-gamerlegion-in-malta
-2024/05/08 17:14:39 Skipping writing post, no content: https://www.hltv.org/news/38933/hooxi-to-miss-iem-dallas
-2024/05/08 17:14:39 Skipping writing post, no content: https://www.hltv.org/news/38931/flyquest-send-betboom-home-from-epl
-2024/05/08 17:14:39 Templated 85 posts, took 13.677137ms
+2024/05/08 17:27:11 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 181.830739ms
+2024/05/08 17:27:11 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/08 17:27:11 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 208.71912ms
+2024/05/08 17:27:11 Fetched posts from https://vlr.gg/rss, took 394.68353ms
+2024/05/08 17:27:11 Content still empty after HTML reader: https://www.hltv.org/news/38939/gamerlegion-confirm-fl4mus-signing
+2024/05/08 17:27:12 Content still empty after HTML reader: https://www.hltv.org/news/38937/isak-signing-completes-nip-rebuild
+2024/05/08 17:27:12 Content still empty after HTML reader: https://www.hltv.org/news/38938/live-updates-from-epl-s19-playoffs-round-of-12
+2024/05/08 17:27:12 Content still empty after HTML reader: https://www.hltv.org/news/38902/short-news-feed
+2024/05/08 17:27:12 Content still empty after HTML reader: https://www.hltv.org/news/38936/electronic-on-jame-i-was-always-interested-in-his-way-of-thinking
+2024/05/08 17:27:12 Content still empty after HTML reader: https://www.hltv.org/news/38932/liazz-if-anyone-fcks-up-a-strat-dexter-is-going-to-shit-on-them-and-we-needed-that
+2024/05/08 17:27:12 Content still empty after HTML reader: https://www.hltv.org/news/38935/broky-stars-as-faze-labor-to-victory-over-monte
+2024/05/08 17:27:12 Content still empty after HTML reader: https://www.hltv.org/news/38934/virtuspro-grind-down-gamerlegion-in-malta
+2024/05/08 17:27:12 Content still empty after HTML reader: https://www.hltv.org/news/38933/hooxi-to-miss-iem-dallas
+2024/05/08 17:27:12 Content still empty after HTML reader: https://www.hltv.org/news/38931/flyquest-send-betboom-home-from-epl
+2024/05/08 17:27:12 Fetched posts from https://www.hltv.org/rss/news, took 556.795583ms
+2024/05/08 17:27:12 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 610.420185ms
+2024/05/08 17:27:12 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.237447213s
+2024/05/08 17:27:14 Fetched posts from https://blogtienao.com/feed, took 2.698775873s
+2024/05/08 17:27:30 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.189462715s
+2024/05/08 17:27:30 Skipping writing post, no content: https://www.hltv.org/news/38939/gamerlegion-confirm-fl4mus-signing
+2024/05/08 17:27:30 Skipping writing post, no content: https://www.hltv.org/news/38937/isak-signing-completes-nip-rebuild
+2024/05/08 17:27:30 Skipping writing post, no content: https://www.hltv.org/news/38938/live-updates-from-epl-s19-playoffs-round-of-12
+2024/05/08 17:27:30 Skipping writing post, no content: https://www.hltv.org/news/38902/short-news-feed
+2024/05/08 17:27:30 Skipping writing post, no content: https://www.hltv.org/news/38936/electronic-on-jame-i-was-always-interested-in-his-way-of-thinking
+2024/05/08 17:27:30 Skipping writing post, no content: https://www.hltv.org/news/38932/liazz-if-anyone-fcks-up-a-strat-dexter-is-going-to-shit-on-them-and-we-needed-that
+2024/05/08 17:27:30 Skipping writing post, no content: https://www.hltv.org/news/38935/broky-stars-as-faze-labor-to-victory-over-monte
+2024/05/08 17:27:30 Skipping writing post, no content: https://www.hltv.org/news/38934/virtuspro-grind-down-gamerlegion-in-malta
+2024/05/08 17:27:30 Skipping writing post, no content: https://www.hltv.org/news/38933/hooxi-to-miss-iem-dallas
+2024/05/08 17:27:30 Skipping writing post, no content: https://www.hltv.org/news/38931/flyquest-send-betboom-home-from-epl
+2024/05/08 17:27:30 Templated 85 posts, took 13.469583ms
