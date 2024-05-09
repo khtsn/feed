@@ -1,30 +1,32 @@
-2024/05/09 17:14:58 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 183.635346ms
-2024/05/09 17:14:58 Fetched posts from https://vlr.gg/rss, took 312.380699ms
-2024/05/09 17:14:58 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/09 17:14:58 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 336.416541ms
-2024/05/09 17:14:58 Content still empty after HTML reader: https://www.hltv.org/news/38949/elige-i-know-i-need-to-perform-and-show-that-i-still-have-it
-2024/05/09 17:14:58 Content still empty after HTML reader: https://www.hltv.org/news/38947/complexity-set-aside-virtuspro-to-reach-epl-semis
-2024/05/09 17:14:58 Content still empty after HTML reader: https://www.hltv.org/news/38946/live-updates-from-epl-s19-playoffs-quarter-finals-day-1
-2024/05/09 17:14:58 Content still empty after HTML reader: https://www.hltv.org/news/38944/rain-if-we-beat-navi-10-more-times-in-a-row-then-ill-let-the-major-go
-2024/05/09 17:14:58 Content still empty after HTML reader: https://www.hltv.org/news/38942/naf-i-dont-want-my-teammates-to-focus-on-me-so-i-dont-ask-for-any-plays
-2024/05/09 17:14:58 Content still empty after HTML reader: https://www.hltv.org/news/38945/miraculous-comeback-earns-virtuspro-epl-quarter-final-spot
-2024/05/09 17:14:58 Content still empty after HTML reader: https://www.hltv.org/news/38938/live-updates-from-epl-s19-playoffs-round-of-12
-2024/05/09 17:14:59 Content still empty after HTML reader: https://www.hltv.org/news/38943/faze-claim-vengeance-to-eliminate-navi-from-epl
-2024/05/09 17:14:59 Content still empty after HTML reader: https://www.hltv.org/news/38941/cadian-set-for-first-meeting-against-stavn-jabbi-as-liquid-edge-past-flyquest
-2024/05/09 17:14:59 Content still empty after HTML reader: https://www.hltv.org/news/38940/g2-move-past-3dmax-to-set-up-mouz-clash-in-malta
-2024/05/09 17:14:59 Fetched posts from https://www.hltv.org/rss/news, took 610.643344ms
-2024/05/09 17:14:59 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.189475316s
-2024/05/09 17:14:59 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.284614158s
-2024/05/09 17:15:00 Fetched posts from https://blogtienao.com/feed, took 2.373025089s
-2024/05/09 17:15:19 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.576545174s
-2024/05/09 17:15:19 Skipping writing post, no content: https://www.hltv.org/news/38949/elige-i-know-i-need-to-perform-and-show-that-i-still-have-it
-2024/05/09 17:15:19 Skipping writing post, no content: https://www.hltv.org/news/38947/complexity-set-aside-virtuspro-to-reach-epl-semis
-2024/05/09 17:15:19 Skipping writing post, no content: https://www.hltv.org/news/38946/live-updates-from-epl-s19-playoffs-quarter-finals-day-1
-2024/05/09 17:15:19 Skipping writing post, no content: https://www.hltv.org/news/38944/rain-if-we-beat-navi-10-more-times-in-a-row-then-ill-let-the-major-go
-2024/05/09 17:15:19 Skipping writing post, no content: https://www.hltv.org/news/38942/naf-i-dont-want-my-teammates-to-focus-on-me-so-i-dont-ask-for-any-plays
-2024/05/09 17:15:19 Skipping writing post, no content: https://www.hltv.org/news/38945/miraculous-comeback-earns-virtuspro-epl-quarter-final-spot
-2024/05/09 17:15:19 Skipping writing post, no content: https://www.hltv.org/news/38938/live-updates-from-epl-s19-playoffs-round-of-12
-2024/05/09 17:15:19 Skipping writing post, no content: https://www.hltv.org/news/38943/faze-claim-vengeance-to-eliminate-navi-from-epl
-2024/05/09 17:15:19 Skipping writing post, no content: https://www.hltv.org/news/38941/cadian-set-for-first-meeting-against-stavn-jabbi-as-liquid-edge-past-flyquest
-2024/05/09 17:15:19 Skipping writing post, no content: https://www.hltv.org/news/38940/g2-move-past-3dmax-to-set-up-mouz-clash-in-malta
-2024/05/09 17:15:19 Templated 79 posts, took 12.917222ms
+2024/05/09 17:27:47 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/09 17:27:47 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 84.136406ms
+2024/05/09 17:27:47 Content still empty after HTML reader: https://www.hltv.org/news/38949/elige-i-know-i-need-to-perform-and-show-that-i-still-have-it
+2024/05/09 17:27:47 Content still empty after HTML reader: https://www.nytimes.com/2024/05/09/well/mind/loneliness-brain-dementia-isolation.html
+2024/05/09 17:27:47 Content still empty after HTML reader: https://www.hltv.org/news/38947/complexity-set-aside-virtuspro-to-reach-epl-semis
+2024/05/09 17:27:47 Content still empty after HTML reader: https://www.hltv.org/news/38946/live-updates-from-epl-s19-playoffs-quarter-finals-day-1
+2024/05/09 17:27:47 Content still empty after HTML reader: https://www.hltv.org/news/38944/rain-if-we-beat-navi-10-more-times-in-a-row-then-ill-let-the-major-go
+2024/05/09 17:27:47 Content still empty after HTML reader: https://www.hltv.org/news/38942/naf-i-dont-want-my-teammates-to-focus-on-me-so-i-dont-ask-for-any-plays
+2024/05/09 17:27:47 Content still empty after HTML reader: https://www.hltv.org/news/38945/miraculous-comeback-earns-virtuspro-epl-quarter-final-spot
+2024/05/09 17:27:47 Content still empty after HTML reader: https://www.hltv.org/news/38938/live-updates-from-epl-s19-playoffs-round-of-12
+2024/05/09 17:27:47 Content still empty after HTML reader: https://www.hltv.org/news/38943/faze-claim-vengeance-to-eliminate-navi-from-epl
+2024/05/09 17:27:47 Content still empty after HTML reader: https://www.hltv.org/news/38941/cadian-set-for-first-meeting-against-stavn-jabbi-as-liquid-edge-past-flyquest
+2024/05/09 17:27:47 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 323.73253ms
+2024/05/09 17:27:47 Content still empty after HTML reader: https://www.hltv.org/news/38940/g2-move-past-3dmax-to-set-up-mouz-clash-in-malta
+2024/05/09 17:27:47 Fetched posts from https://www.hltv.org/rss/news, took 323.842821ms
+2024/05/09 17:27:47 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 607.898218ms
+2024/05/09 17:27:48 Fetched posts from https://vlr.gg/rss, took 1.024073303s
+2024/05/09 17:27:49 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.021441347s
+2024/05/09 17:27:50 Fetched posts from https://blogtienao.com/feed, took 3.303685566s
+2024/05/09 17:28:03 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.888347756s
+2024/05/09 17:28:03 Skipping writing post, no content: https://www.hltv.org/news/38949/elige-i-know-i-need-to-perform-and-show-that-i-still-have-it
+2024/05/09 17:28:03 Skipping writing post, no content: https://www.hltv.org/news/38947/complexity-set-aside-virtuspro-to-reach-epl-semis
+2024/05/09 17:28:03 Skipping writing post, no content: https://www.hltv.org/news/38946/live-updates-from-epl-s19-playoffs-quarter-finals-day-1
+2024/05/09 17:28:03 Skipping writing post, no content: https://www.hltv.org/news/38944/rain-if-we-beat-navi-10-more-times-in-a-row-then-ill-let-the-major-go
+2024/05/09 17:28:03 Skipping writing post, no content: https://www.nytimes.com/2024/05/09/well/mind/loneliness-brain-dementia-isolation.html
+2024/05/09 17:28:03 Skipping writing post, no content: https://www.hltv.org/news/38942/naf-i-dont-want-my-teammates-to-focus-on-me-so-i-dont-ask-for-any-plays
+2024/05/09 17:28:03 Skipping writing post, no content: https://www.hltv.org/news/38945/miraculous-comeback-earns-virtuspro-epl-quarter-final-spot
+2024/05/09 17:28:03 Skipping writing post, no content: https://www.hltv.org/news/38938/live-updates-from-epl-s19-playoffs-round-of-12
+2024/05/09 17:28:03 Skipping writing post, no content: https://www.hltv.org/news/38943/faze-claim-vengeance-to-eliminate-navi-from-epl
+2024/05/09 17:28:03 Skipping writing post, no content: https://www.hltv.org/news/38941/cadian-set-for-first-meeting-against-stavn-jabbi-as-liquid-edge-past-flyquest
+2024/05/09 17:28:03 Skipping writing post, no content: https://www.hltv.org/news/38940/g2-move-past-3dmax-to-set-up-mouz-clash-in-malta
+2024/05/09 17:28:03 Templated 82 posts, took 12.871296ms
