@@ -1,30 +1,30 @@
-2024/05/11 14:14:41 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 100.267047ms
-2024/05/11 14:14:41 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/11 14:14:41 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 205.30893ms
-2024/05/11 14:14:41 Content still empty after HTML reader: https://www.hltv.org/news/38962/live-updates-from-epl-s19-semi-finals
-2024/05/11 14:14:41 Content still empty after HTML reader: https://www.hltv.org/news/38960/heroic-announce-nicoodoz-benching
-2024/05/11 14:14:41 Content still empty after HTML reader: https://www.hltv.org/news/38953/live-updates-from-epl-s19-quarter-finals-day-2
-2024/05/11 14:14:41 Content still empty after HTML reader: https://www.hltv.org/news/38959/zywoo-masterclass-ends-fazes-final-streak
-2024/05/11 14:14:41 Content still empty after HTML reader: https://www.hltv.org/news/38958/jabbi-on-facing-cadian-i-didnt-feel-like-there-was-some-added-pressure
-2024/05/11 14:14:41 Content still empty after HTML reader: https://www.hltv.org/news/38957/astralis-cruise-past-liquid-into-epl-semis
-2024/05/11 14:14:41 Content still empty after HTML reader: https://www.hltv.org/news/38956/cct-unveils-global-finals-team-changes-groups
-2024/05/11 14:14:41 Content still empty after HTML reader: https://www.hltv.org/news/38955/ryu-returns-to-monte-academy-after-epl-exit
-2024/05/11 14:14:41 Content still empty after HTML reader: https://www.hltv.org/news/38954/aurora-to-replace-apeks-at-mesa-nomadic-masters-spring
-2024/05/11 14:14:41 Content still empty after HTML reader: https://www.hltv.org/news/38952/betboom-invited-to-betboom-dacha-belgrade
-2024/05/11 14:14:41 Fetched posts from https://www.hltv.org/rss/news, took 429.469082ms
-2024/05/11 14:14:41 Fetched posts from https://vlr.gg/rss, took 631.308554ms
-2024/05/11 14:14:41 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 781.991634ms
-2024/05/11 14:14:42 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.246900659s
-2024/05/11 14:14:43 Fetched posts from https://blogtienao.com/feed, took 2.265412248s
-2024/05/11 14:15:06 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 24.983191333s
-2024/05/11 14:15:06 Skipping writing post, no content: https://www.hltv.org/news/38962/live-updates-from-epl-s19-semi-finals
-2024/05/11 14:15:06 Skipping writing post, no content: https://www.hltv.org/news/38960/heroic-announce-nicoodoz-benching
-2024/05/11 14:15:06 Skipping writing post, no content: https://www.hltv.org/news/38953/live-updates-from-epl-s19-quarter-finals-day-2
-2024/05/11 14:15:06 Skipping writing post, no content: https://www.hltv.org/news/38959/zywoo-masterclass-ends-fazes-final-streak
-2024/05/11 14:15:06 Skipping writing post, no content: https://www.hltv.org/news/38958/jabbi-on-facing-cadian-i-didnt-feel-like-there-was-some-added-pressure
-2024/05/11 14:15:06 Skipping writing post, no content: https://www.hltv.org/news/38957/astralis-cruise-past-liquid-into-epl-semis
-2024/05/11 14:15:06 Skipping writing post, no content: https://www.hltv.org/news/38956/cct-unveils-global-finals-team-changes-groups
-2024/05/11 14:15:06 Skipping writing post, no content: https://www.hltv.org/news/38955/ryu-returns-to-monte-academy-after-epl-exit
-2024/05/11 14:15:06 Skipping writing post, no content: https://www.hltv.org/news/38954/aurora-to-replace-apeks-at-mesa-nomadic-masters-spring
-2024/05/11 14:15:06 Skipping writing post, no content: https://www.hltv.org/news/38952/betboom-invited-to-betboom-dacha-belgrade
-2024/05/11 14:15:06 Templated 90 posts, took 14.707748ms
+2024/05/11 14:27:55 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/11 14:27:55 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 240.552846ms
+2024/05/11 14:27:55 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 398.843019ms
+2024/05/11 14:27:55 Content still empty after HTML reader: https://www.hltv.org/news/38962/live-updates-from-epl-s19-semi-finals
+2024/05/11 14:27:55 Content still empty after HTML reader: https://www.hltv.org/news/38960/heroic-announce-nicoodoz-benching
+2024/05/11 14:27:55 Content still empty after HTML reader: https://www.hltv.org/news/38953/live-updates-from-epl-s19-quarter-finals-day-2
+2024/05/11 14:27:55 Content still empty after HTML reader: https://www.hltv.org/news/38959/zywoo-masterclass-ends-fazes-final-streak
+2024/05/11 14:27:55 Content still empty after HTML reader: https://www.hltv.org/news/38958/jabbi-on-facing-cadian-i-didnt-feel-like-there-was-some-added-pressure
+2024/05/11 14:27:55 Content still empty after HTML reader: https://www.hltv.org/news/38957/astralis-cruise-past-liquid-into-epl-semis
+2024/05/11 14:27:55 Content still empty after HTML reader: https://www.hltv.org/news/38956/cct-unveils-global-finals-team-changes-groups
+2024/05/11 14:27:55 Content still empty after HTML reader: https://www.hltv.org/news/38955/ryu-returns-to-monte-academy-after-epl-exit
+2024/05/11 14:27:55 Content still empty after HTML reader: https://www.hltv.org/news/38954/aurora-to-replace-apeks-at-mesa-nomadic-masters-spring
+2024/05/11 14:27:55 Content still empty after HTML reader: https://www.hltv.org/news/38952/betboom-invited-to-betboom-dacha-belgrade
+2024/05/11 14:27:55 Fetched posts from https://www.hltv.org/rss/news, took 565.474075ms
+2024/05/11 14:27:56 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 983.083958ms
+2024/05/11 14:27:56 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.283408964s
+2024/05/11 14:27:56 Fetched posts from https://vlr.gg/rss, took 1.649296354s
+2024/05/11 14:27:58 Fetched posts from https://blogtienao.com/feed, took 3.218859819s
+2024/05/11 14:28:15 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.509637614s
+2024/05/11 14:28:15 Skipping writing post, no content: https://www.hltv.org/news/38962/live-updates-from-epl-s19-semi-finals
+2024/05/11 14:28:15 Skipping writing post, no content: https://www.hltv.org/news/38960/heroic-announce-nicoodoz-benching
+2024/05/11 14:28:15 Skipping writing post, no content: https://www.hltv.org/news/38953/live-updates-from-epl-s19-quarter-finals-day-2
+2024/05/11 14:28:15 Skipping writing post, no content: https://www.hltv.org/news/38959/zywoo-masterclass-ends-fazes-final-streak
+2024/05/11 14:28:15 Skipping writing post, no content: https://www.hltv.org/news/38958/jabbi-on-facing-cadian-i-didnt-feel-like-there-was-some-added-pressure
+2024/05/11 14:28:15 Skipping writing post, no content: https://www.hltv.org/news/38957/astralis-cruise-past-liquid-into-epl-semis
+2024/05/11 14:28:15 Skipping writing post, no content: https://www.hltv.org/news/38956/cct-unveils-global-finals-team-changes-groups
+2024/05/11 14:28:15 Skipping writing post, no content: https://www.hltv.org/news/38955/ryu-returns-to-monte-academy-after-epl-exit
+2024/05/11 14:28:15 Skipping writing post, no content: https://www.hltv.org/news/38954/aurora-to-replace-apeks-at-mesa-nomadic-masters-spring
+2024/05/11 14:28:15 Skipping writing post, no content: https://www.hltv.org/news/38952/betboom-invited-to-betboom-dacha-belgrade
+2024/05/11 14:28:15 Templated 90 posts, took 14.331432ms
