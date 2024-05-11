@@ -1,30 +1,30 @@
-2024/05/11 22:39:28 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/11 22:39:28 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 175.078539ms
-2024/05/11 22:39:28 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 252.658976ms
-2024/05/11 22:39:29 Content still empty after HTML reader: https://www.hltv.org/news/38964/mouz-defeat-complexity-to-make-epl-grand-final
-2024/05/11 22:39:29 Content still empty after HTML reader: https://www.hltv.org/news/38963/vitality-fight-past-astralis-to-make-first-2024-final
-2024/05/11 22:39:29 Content still empty after HTML reader: https://www.hltv.org/news/38962/live-updates-from-epl-s19-semi-finals
-2024/05/11 22:39:29 Content still empty after HTML reader: https://www.hltv.org/news/38960/heroic-announce-nicoodoz-benching
-2024/05/11 22:39:29 Content still empty after HTML reader: https://www.hltv.org/news/38953/live-updates-from-epl-s19-quarter-finals-day-2
-2024/05/11 22:39:29 Content still empty after HTML reader: https://www.hltv.org/news/38959/zywoo-masterclass-ends-fazes-final-streak
-2024/05/11 22:39:29 Content still empty after HTML reader: https://www.hltv.org/news/38958/jabbi-on-facing-cadian-i-didnt-feel-like-there-was-some-added-pressure
-2024/05/11 22:39:29 Content still empty after HTML reader: https://www.hltv.org/news/38957/astralis-cruise-past-liquid-into-epl-semis
-2024/05/11 22:39:29 Content still empty after HTML reader: https://www.hltv.org/news/38956/cct-unveils-global-finals-team-changes-groups
-2024/05/11 22:39:29 Content still empty after HTML reader: https://www.hltv.org/news/38955/ryu-returns-to-monte-academy-after-epl-exit
-2024/05/11 22:39:29 Fetched posts from https://www.hltv.org/rss/news, took 410.021174ms
-2024/05/11 22:39:29 Fetched posts from https://vlr.gg/rss, took 767.804439ms
-2024/05/11 22:39:30 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.445875459s
-2024/05/11 22:39:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.461706302s
-2024/05/11 22:39:31 Fetched posts from https://blogtienao.com/feed, took 2.301438313s
-2024/05/11 22:39:48 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.319600659s
-2024/05/11 22:39:48 Skipping writing post, no content: https://www.hltv.org/news/38964/mouz-defeat-complexity-to-make-epl-grand-final
-2024/05/11 22:39:48 Skipping writing post, no content: https://www.hltv.org/news/38963/vitality-fight-past-astralis-to-make-first-2024-final
-2024/05/11 22:39:48 Skipping writing post, no content: https://www.hltv.org/news/38962/live-updates-from-epl-s19-semi-finals
-2024/05/11 22:39:48 Skipping writing post, no content: https://www.hltv.org/news/38960/heroic-announce-nicoodoz-benching
-2024/05/11 22:39:48 Skipping writing post, no content: https://www.hltv.org/news/38953/live-updates-from-epl-s19-quarter-finals-day-2
-2024/05/11 22:39:48 Skipping writing post, no content: https://www.hltv.org/news/38959/zywoo-masterclass-ends-fazes-final-streak
-2024/05/11 22:39:48 Skipping writing post, no content: https://www.hltv.org/news/38958/jabbi-on-facing-cadian-i-didnt-feel-like-there-was-some-added-pressure
-2024/05/11 22:39:48 Skipping writing post, no content: https://www.hltv.org/news/38957/astralis-cruise-past-liquid-into-epl-semis
-2024/05/11 22:39:48 Skipping writing post, no content: https://www.hltv.org/news/38956/cct-unveils-global-finals-team-changes-groups
-2024/05/11 22:39:48 Skipping writing post, no content: https://www.hltv.org/news/38955/ryu-returns-to-monte-academy-after-epl-exit
-2024/05/11 22:39:48 Templated 83 posts, took 13.33791ms
+2024/05/11 22:52:24 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 100.200577ms
+2024/05/11 22:52:24 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/11 22:52:24 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 300.283999ms
+2024/05/11 22:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38964/mouz-defeat-complexity-to-make-epl-grand-final
+2024/05/11 22:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38963/vitality-fight-past-astralis-to-make-first-2024-final
+2024/05/11 22:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38962/live-updates-from-epl-s19-semi-finals
+2024/05/11 22:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38960/heroic-announce-nicoodoz-benching
+2024/05/11 22:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38953/live-updates-from-epl-s19-quarter-finals-day-2
+2024/05/11 22:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38959/zywoo-masterclass-ends-fazes-final-streak
+2024/05/11 22:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38958/jabbi-on-facing-cadian-i-didnt-feel-like-there-was-some-added-pressure
+2024/05/11 22:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38957/astralis-cruise-past-liquid-into-epl-semis
+2024/05/11 22:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38956/cct-unveils-global-finals-team-changes-groups
+2024/05/11 22:52:24 Content still empty after HTML reader: https://www.hltv.org/news/38955/ryu-returns-to-monte-academy-after-epl-exit
+2024/05/11 22:52:24 Fetched posts from https://www.hltv.org/rss/news, took 410.997934ms
+2024/05/11 22:52:24 Fetched posts from https://vlr.gg/rss, took 526.472437ms
+2024/05/11 22:52:24 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 562.69705ms
+2024/05/11 22:52:24 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 856.07617ms
+2024/05/11 22:52:26 Fetched posts from https://blogtienao.com/feed, took 2.144341369s
+2024/05/11 22:52:43 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.164654575s
+2024/05/11 22:52:43 Skipping writing post, no content: https://www.hltv.org/news/38964/mouz-defeat-complexity-to-make-epl-grand-final
+2024/05/11 22:52:43 Skipping writing post, no content: https://www.hltv.org/news/38963/vitality-fight-past-astralis-to-make-first-2024-final
+2024/05/11 22:52:43 Skipping writing post, no content: https://www.hltv.org/news/38962/live-updates-from-epl-s19-semi-finals
+2024/05/11 22:52:43 Skipping writing post, no content: https://www.hltv.org/news/38960/heroic-announce-nicoodoz-benching
+2024/05/11 22:52:43 Skipping writing post, no content: https://www.hltv.org/news/38953/live-updates-from-epl-s19-quarter-finals-day-2
+2024/05/11 22:52:43 Skipping writing post, no content: https://www.hltv.org/news/38959/zywoo-masterclass-ends-fazes-final-streak
+2024/05/11 22:52:43 Skipping writing post, no content: https://www.hltv.org/news/38958/jabbi-on-facing-cadian-i-didnt-feel-like-there-was-some-added-pressure
+2024/05/11 22:52:43 Skipping writing post, no content: https://www.hltv.org/news/38957/astralis-cruise-past-liquid-into-epl-semis
+2024/05/11 22:52:43 Skipping writing post, no content: https://www.hltv.org/news/38956/cct-unveils-global-finals-team-changes-groups
+2024/05/11 22:52:43 Skipping writing post, no content: https://www.hltv.org/news/38955/ryu-returns-to-monte-academy-after-epl-exit
+2024/05/11 22:52:43 Templated 84 posts, took 13.59753ms
