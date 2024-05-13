@@ -1,32 +1,30 @@
-2024/05/13 06:23:26 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/13 06:23:26 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 208.62905ms
-2024/05/13 06:23:26 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 254.549246ms
-2024/05/13 06:23:26 Content still empty after HTML reader: https://www.bbc.com/vietnamese/articles/c87z6g6ymgyo
-2024/05/13 06:23:26 Content still empty after HTML reader: https://www.hltv.org/news/38971/b8-claim-first-title-with-headtr1ck-in-cct-s2-eu-series-2
-2024/05/13 06:23:26 Content still empty after HTML reader: https://www.hltv.org/news/38970/xertion-i-just-want-us-to-translate-this-into-katowice-cologne-and-majors
-2024/05/13 06:23:26 Content still empty after HTML reader: https://www.hltv.org/news/38968/zywoo-takes-esl-pro-league-season-19-mvp
-2024/05/13 06:23:26 Content still empty after HTML reader: https://www.hltv.org/news/38969/mouz-smother-vitality-to-win-esl-pro-league-s19
-2024/05/13 06:23:26 Content still empty after HTML reader: https://www.hltv.org/news/38967/live-updates-from-esl-pro-league-season-19-grand-final
-2024/05/13 06:23:26 Content still empty after HTML reader: https://www.hltv.org/news/38966/heroic-sign-degster
-2024/05/13 06:23:26 Content still empty after HTML reader: https://www.hltv.org/news/38961/bleed-sign-nawwk-and-jkaem
-2024/05/13 06:23:26 Content still empty after HTML reader: https://www.hltv.org/news/38965/siuhy-on-vitality-match-they-also-need-something-special-up-their-sleeve-against-us
-2024/05/13 06:23:26 Content still empty after HTML reader: https://www.hltv.org/news/38964/mouz-defeat-complexity-to-make-epl-grand-final
-2024/05/13 06:23:27 Content still empty after HTML reader: https://www.hltv.org/news/38963/vitality-fight-past-astralis-to-make-first-2024-final
-2024/05/13 06:23:27 Fetched posts from https://www.hltv.org/rss/news, took 843.712682ms
-2024/05/13 06:23:27 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 864.999531ms
-2024/05/13 06:23:27 Fetched posts from https://vlr.gg/rss, took 1.55531337s
-2024/05/13 06:23:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.653302922s
-2024/05/13 06:23:29 Fetched posts from https://blogtienao.com/feed, took 3.24580411s
-2024/05/13 06:23:38 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 12.431016731s
-2024/05/13 06:23:38 Skipping writing post, no content: https://www.hltv.org/news/38971/b8-claim-first-title-with-headtr1ck-in-cct-s2-eu-series-2
-2024/05/13 06:23:38 Skipping writing post, no content: https://www.hltv.org/news/38970/xertion-i-just-want-us-to-translate-this-into-katowice-cologne-and-majors
-2024/05/13 06:23:38 Skipping writing post, no content: https://www.hltv.org/news/38968/zywoo-takes-esl-pro-league-season-19-mvp
-2024/05/13 06:23:38 Skipping writing post, no content: https://www.hltv.org/news/38969/mouz-smother-vitality-to-win-esl-pro-league-s19
-2024/05/13 06:23:38 Skipping writing post, no content: https://www.hltv.org/news/38967/live-updates-from-esl-pro-league-season-19-grand-final
-2024/05/13 06:23:38 Skipping writing post, no content: https://www.hltv.org/news/38966/heroic-sign-degster
-2024/05/13 06:23:38 Skipping writing post, no content: https://www.hltv.org/news/38961/bleed-sign-nawwk-and-jkaem
-2024/05/13 06:23:38 Skipping writing post, no content: https://www.hltv.org/news/38965/siuhy-on-vitality-match-they-also-need-something-special-up-their-sleeve-against-us
-2024/05/13 06:23:38 Skipping writing post, no content: https://www.bbc.com/vietnamese/articles/c87z6g6ymgyo
-2024/05/13 06:23:38 Skipping writing post, no content: https://www.hltv.org/news/38964/mouz-defeat-complexity-to-make-epl-grand-final
-2024/05/13 06:23:38 Skipping writing post, no content: https://www.hltv.org/news/38963/vitality-fight-past-astralis-to-make-first-2024-final
-2024/05/13 06:23:38 Templated 82 posts, took 12.572436ms
+2024/05/13 06:39:52 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 205.328407ms
+2024/05/13 06:39:53 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/13 06:39:53 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 303.31839ms
+2024/05/13 06:39:53 Content still empty after HTML reader: https://www.hltv.org/news/38971/b8-claim-first-title-with-headtr1ck-in-cct-s2-eu-series-2
+2024/05/13 06:39:53 Content still empty after HTML reader: https://www.hltv.org/news/38970/xertion-i-just-want-us-to-translate-this-into-katowice-cologne-and-majors
+2024/05/13 06:39:53 Content still empty after HTML reader: https://www.hltv.org/news/38968/zywoo-takes-esl-pro-league-season-19-mvp
+2024/05/13 06:39:53 Content still empty after HTML reader: https://www.hltv.org/news/38969/mouz-smother-vitality-to-win-esl-pro-league-s19
+2024/05/13 06:39:53 Content still empty after HTML reader: https://www.hltv.org/news/38967/live-updates-from-esl-pro-league-season-19-grand-final
+2024/05/13 06:39:53 Content still empty after HTML reader: https://www.hltv.org/news/38966/heroic-sign-degster
+2024/05/13 06:39:53 Content still empty after HTML reader: https://www.hltv.org/news/38961/bleed-sign-nawwk-and-jkaem
+2024/05/13 06:39:53 Content still empty after HTML reader: https://www.hltv.org/news/38965/siuhy-on-vitality-match-they-also-need-something-special-up-their-sleeve-against-us
+2024/05/13 06:39:53 Content still empty after HTML reader: https://www.hltv.org/news/38964/mouz-defeat-complexity-to-make-epl-grand-final
+2024/05/13 06:39:53 Content still empty after HTML reader: https://www.hltv.org/news/38963/vitality-fight-past-astralis-to-make-first-2024-final
+2024/05/13 06:39:53 Fetched posts from https://www.hltv.org/rss/news, took 410.885742ms
+2024/05/13 06:39:53 Fetched posts from https://vlr.gg/rss, took 810.676935ms
+2024/05/13 06:39:53 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.042162208s
+2024/05/13 06:39:54 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.563703491s
+2024/05/13 06:39:54 Fetched posts from https://blogtienao.com/feed, took 2.235370917s
+2024/05/13 06:40:07 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.8786712s
+2024/05/13 06:40:07 Skipping writing post, no content: https://www.hltv.org/news/38971/b8-claim-first-title-with-headtr1ck-in-cct-s2-eu-series-2
+2024/05/13 06:40:07 Skipping writing post, no content: https://www.hltv.org/news/38970/xertion-i-just-want-us-to-translate-this-into-katowice-cologne-and-majors
+2024/05/13 06:40:07 Skipping writing post, no content: https://www.hltv.org/news/38968/zywoo-takes-esl-pro-league-season-19-mvp
+2024/05/13 06:40:07 Skipping writing post, no content: https://www.hltv.org/news/38969/mouz-smother-vitality-to-win-esl-pro-league-s19
+2024/05/13 06:40:07 Skipping writing post, no content: https://www.hltv.org/news/38967/live-updates-from-esl-pro-league-season-19-grand-final
+2024/05/13 06:40:07 Skipping writing post, no content: https://www.hltv.org/news/38966/heroic-sign-degster
+2024/05/13 06:40:07 Skipping writing post, no content: https://www.hltv.org/news/38961/bleed-sign-nawwk-and-jkaem
+2024/05/13 06:40:07 Skipping writing post, no content: https://www.hltv.org/news/38965/siuhy-on-vitality-match-they-also-need-something-special-up-their-sleeve-against-us
+2024/05/13 06:40:07 Skipping writing post, no content: https://www.hltv.org/news/38964/mouz-defeat-complexity-to-make-epl-grand-final
+2024/05/13 06:40:07 Skipping writing post, no content: https://www.hltv.org/news/38963/vitality-fight-past-astralis-to-make-first-2024-final
+2024/05/13 06:40:07 Templated 83 posts, took 13.540063ms
