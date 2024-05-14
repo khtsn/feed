@@ -1,30 +1,32 @@
-2024/05/14 17:52:17 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/14 17:52:17 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 167.032625ms
-2024/05/14 17:52:17 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 296.500019ms
-2024/05/14 17:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38985/kair0n-we-want-to-destroy-the-dreams-of-people-who-want-to-win-this-tournament
-2024/05/14 17:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38984/monte-sign-styko
-2024/05/14 17:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38983/mouz-deny-dust2-punish-pick-to-edge-out-betboom-in-belgrade
-2024/05/14 17:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38980/nip-and-complexity-invited-to-yalla-compass
-2024/05/14 17:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38982/bad-news-kangaroos-and-pz-part-ways
-2024/05/14 17:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38981/live-updates-from-betboom-dacha-belgrade-day-1
-2024/05/14 17:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38979/bb-dacha-fantasy-three-partner-games-kick-off
-2024/05/14 17:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38977/degster-i-will-never-say-to-my-team-to-just-play-for-me
-2024/05/14 17:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38978/sinners-bench-neofrag-due-to-factors-not-rooted-in-performance-rather-than-team-vision
-2024/05/14 17:52:18 Content still empty after HTML reader: https://www.hltv.org/news/38976/gizmy-returns-to-monte-academy
-2024/05/14 17:52:18 Fetched posts from https://www.hltv.org/rss/news, took 599.022965ms
-2024/05/14 17:52:18 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.089523086s
-2024/05/14 17:52:18 Fetched posts from https://vlr.gg/rss, took 1.411097165s
-2024/05/14 17:52:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.543249301s
-2024/05/14 17:52:20 Fetched posts from https://blogtienao.com/feed, took 3.25075384s
-2024/05/14 17:52:31 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.855619417s
-2024/05/14 17:52:31 Skipping writing post, no content: https://www.hltv.org/news/38985/kair0n-we-want-to-destroy-the-dreams-of-people-who-want-to-win-this-tournament
-2024/05/14 17:52:31 Skipping writing post, no content: https://www.hltv.org/news/38984/monte-sign-styko
-2024/05/14 17:52:31 Skipping writing post, no content: https://www.hltv.org/news/38983/mouz-deny-dust2-punish-pick-to-edge-out-betboom-in-belgrade
-2024/05/14 17:52:31 Skipping writing post, no content: https://www.hltv.org/news/38980/nip-and-complexity-invited-to-yalla-compass
-2024/05/14 17:52:31 Skipping writing post, no content: https://www.hltv.org/news/38982/bad-news-kangaroos-and-pz-part-ways
-2024/05/14 17:52:31 Skipping writing post, no content: https://www.hltv.org/news/38981/live-updates-from-betboom-dacha-belgrade-day-1
-2024/05/14 17:52:31 Skipping writing post, no content: https://www.hltv.org/news/38979/bb-dacha-fantasy-three-partner-games-kick-off
-2024/05/14 17:52:31 Skipping writing post, no content: https://www.hltv.org/news/38977/degster-i-will-never-say-to-my-team-to-just-play-for-me
-2024/05/14 17:52:31 Skipping writing post, no content: https://www.hltv.org/news/38978/sinners-bench-neofrag-due-to-factors-not-rooted-in-performance-rather-than-team-vision
-2024/05/14 17:52:31 Skipping writing post, no content: https://www.hltv.org/news/38976/gizmy-returns-to-monte-academy
-2024/05/14 17:52:31 Templated 88 posts, took 13.674097ms
+2024/05/14 18:22:00 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 127.671129ms
+2024/05/14 18:22:00 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/14 18:22:00 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 140.757167ms
+2024/05/14 18:22:00 Content still empty after HTML reader: https://www.hltv.org/news/38985/kair0n-we-want-to-destroy-the-dreams-of-people-who-want-to-win-this-tournament
+2024/05/14 18:22:00 Content still empty after HTML reader: https://www.vlr.gg/347756/paper-rex-reclaim-regional-title-with-3-2-win-over-gen-g
+2024/05/14 18:22:00 Content still empty after HTML reader: https://www.hltv.org/news/38984/monte-sign-styko-add-hadji-as-stand-in
+2024/05/14 18:22:00 Content still empty after HTML reader: https://www.hltv.org/news/38983/mouz-deny-dust2-punish-pick-to-edge-out-betboom-in-belgrade
+2024/05/14 18:22:00 Content still empty after HTML reader: https://www.hltv.org/news/38980/nip-and-complexity-invited-to-yalla-compass
+2024/05/14 18:22:00 Content still empty after HTML reader: https://www.hltv.org/news/38982/bad-news-kangaroos-and-pz-part-ways
+2024/05/14 18:22:00 Content still empty after HTML reader: https://www.hltv.org/news/38981/live-updates-from-betboom-dacha-belgrade-day-1
+2024/05/14 18:22:00 Content still empty after HTML reader: https://www.hltv.org/news/38979/bb-dacha-fantasy-three-partner-games-kick-off
+2024/05/14 18:22:00 Content still empty after HTML reader: https://www.hltv.org/news/38977/degster-i-will-never-say-to-my-team-to-just-play-for-me
+2024/05/14 18:22:00 Fetched posts from https://vlr.gg/rss, took 435.809915ms
+2024/05/14 18:22:00 Content still empty after HTML reader: https://www.hltv.org/news/38978/sinners-bench-neofrag-due-to-factors-not-rooted-in-performance-rather-than-team-vision
+2024/05/14 18:22:00 Content still empty after HTML reader: https://www.hltv.org/news/38976/gizmy-returns-to-monte-academy
+2024/05/14 18:22:00 Fetched posts from https://www.hltv.org/rss/news, took 453.832671ms
+2024/05/14 18:22:01 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 800.688945ms
+2024/05/14 18:22:01 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.075792142s
+2024/05/14 18:22:02 Fetched posts from https://blogtienao.com/feed, took 2.303650933s
+2024/05/14 18:22:23 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.667225393s
+2024/05/14 18:22:23 Skipping writing post, no content: https://www.hltv.org/news/38985/kair0n-we-want-to-destroy-the-dreams-of-people-who-want-to-win-this-tournament
+2024/05/14 18:22:23 Skipping writing post, no content: https://www.hltv.org/news/38984/monte-sign-styko-add-hadji-as-stand-in
+2024/05/14 18:22:23 Skipping writing post, no content: https://www.hltv.org/news/38983/mouz-deny-dust2-punish-pick-to-edge-out-betboom-in-belgrade
+2024/05/14 18:22:23 Skipping writing post, no content: https://www.hltv.org/news/38980/nip-and-complexity-invited-to-yalla-compass
+2024/05/14 18:22:23 Skipping writing post, no content: https://www.hltv.org/news/38982/bad-news-kangaroos-and-pz-part-ways
+2024/05/14 18:22:23 Skipping writing post, no content: https://www.hltv.org/news/38981/live-updates-from-betboom-dacha-belgrade-day-1
+2024/05/14 18:22:23 Skipping writing post, no content: https://www.hltv.org/news/38979/bb-dacha-fantasy-three-partner-games-kick-off
+2024/05/14 18:22:23 Skipping writing post, no content: https://www.hltv.org/news/38977/degster-i-will-never-say-to-my-team-to-just-play-for-me
+2024/05/14 18:22:23 Skipping writing post, no content: https://www.hltv.org/news/38978/sinners-bench-neofrag-due-to-factors-not-rooted-in-performance-rather-than-team-vision
+2024/05/14 18:22:23 Skipping writing post, no content: https://www.hltv.org/news/38976/gizmy-returns-to-monte-academy
+2024/05/14 18:22:23 Skipping writing post, no content: https://www.vlr.gg/347756/paper-rex-reclaim-regional-title-with-3-2-win-over-gen-g
+2024/05/14 18:22:23 Templated 90 posts, took 13.698505ms
