@@ -1,26 +1,30 @@
-2024/05/15 01:14:15 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 116.095857ms
-2024/05/15 01:14:15 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/15 01:14:15 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 197.24517ms
-2024/05/15 01:14:15 Content still empty after HTML reader: https://www.hltv.org/news/38989/fame-we-need-to-keep-the-balance-between-our-play-style-and-those-faster-things
-2024/05/15 01:14:15 Content still empty after HTML reader: https://www.hltv.org/news/38987/fnatic-sign-blamef
-2024/05/15 01:14:15 Content still empty after HTML reader: https://www.hltv.org/news/38981/live-updates-from-betboom-dacha-belgrade-day-1
-2024/05/15 01:14:15 Content still empty after HTML reader: https://www.hltv.org/news/38985/kair0n-we-want-to-destroy-the-dreams-of-people-who-want-to-win-this-tournament
-2024/05/15 01:14:15 Content still empty after HTML reader: https://www.hltv.org/news/38984/monte-sign-styko-add-hadji-as-stand-in
-2024/05/15 01:14:15 Content still empty after HTML reader: https://www.hltv.org/news/38980/nip-and-complexity-invited-to-yalla-compass
-2024/05/15 01:14:15 Content still empty after HTML reader: https://www.hltv.org/news/38982/bad-news-kangaroos-and-pz-part-ways
-2024/05/15 01:14:15 Content still empty after HTML reader: https://www.hltv.org/news/38979/bb-dacha-fantasy-three-partner-games-kick-off
-2024/05/15 01:14:15 Fetched posts from https://www.hltv.org/rss/news, took 503.537456ms
-2024/05/15 01:14:15 Fetched posts from https://vlr.gg/rss, took 570.194578ms
-2024/05/15 01:14:15 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 971.471025ms
-2024/05/15 01:14:16 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.066225099s
-2024/05/15 01:14:17 Fetched posts from https://blogtienao.com/feed, took 2.063673806s
-2024/05/15 01:14:33 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.955824338s
-2024/05/15 01:14:33 Skipping writing post, no content: https://www.hltv.org/news/38989/fame-we-need-to-keep-the-balance-between-our-play-style-and-those-faster-things
-2024/05/15 01:14:33 Skipping writing post, no content: https://www.hltv.org/news/38987/fnatic-sign-blamef
-2024/05/15 01:14:33 Skipping writing post, no content: https://www.hltv.org/news/38981/live-updates-from-betboom-dacha-belgrade-day-1
-2024/05/15 01:14:33 Skipping writing post, no content: https://www.hltv.org/news/38985/kair0n-we-want-to-destroy-the-dreams-of-people-who-want-to-win-this-tournament
-2024/05/15 01:14:33 Skipping writing post, no content: https://www.hltv.org/news/38984/monte-sign-styko-add-hadji-as-stand-in
-2024/05/15 01:14:33 Skipping writing post, no content: https://www.hltv.org/news/38980/nip-and-complexity-invited-to-yalla-compass
-2024/05/15 01:14:33 Skipping writing post, no content: https://www.hltv.org/news/38982/bad-news-kangaroos-and-pz-part-ways
-2024/05/15 01:14:33 Skipping writing post, no content: https://www.hltv.org/news/38979/bb-dacha-fantasy-three-partner-games-kick-off
-2024/05/15 01:14:33 Templated 88 posts, took 13.902488ms
+2024/05/15 02:08:32 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/15 02:08:32 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 124.522344ms
+2024/05/15 02:08:33 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 413.940108ms
+2024/05/15 02:08:33 Content still empty after HTML reader: https://www.hltv.org/news/38989/fame-we-need-to-keep-the-balance-between-our-play-style-and-those-faster-things
+2024/05/15 02:08:33 Content still empty after HTML reader: https://www.hltv.org/news/38988/virtuspro-win-2-0-as-falcons-continue-to-flounder
+2024/05/15 02:08:33 Content still empty after HTML reader: https://www.hltv.org/news/38987/fnatic-sign-blamef
+2024/05/15 02:08:33 Content still empty after HTML reader: https://www.hltv.org/news/38981/live-updates-from-betboom-dacha-belgrade-day-1
+2024/05/15 02:08:33 Content still empty after HTML reader: https://www.hltv.org/news/38985/kair0n-we-want-to-destroy-the-dreams-of-people-who-want-to-win-this-tournament
+2024/05/15 02:08:33 Content still empty after HTML reader: https://www.hltv.org/news/38984/monte-sign-styko-add-hadji-as-stand-in
+2024/05/15 02:08:33 Content still empty after HTML reader: https://www.hltv.org/news/38983/mouz-deny-dust2-punish-pick-to-edge-out-betboom-in-belgrade
+2024/05/15 02:08:33 Content still empty after HTML reader: https://www.hltv.org/news/38980/nip-and-complexity-invited-to-yalla-compass
+2024/05/15 02:08:33 Content still empty after HTML reader: https://www.hltv.org/news/38982/bad-news-kangaroos-and-pz-part-ways
+2024/05/15 02:08:33 Content still empty after HTML reader: https://www.hltv.org/news/38979/bb-dacha-fantasy-three-partner-games-kick-off
+2024/05/15 02:08:33 Fetched posts from https://www.hltv.org/rss/news, took 1.018323953s
+2024/05/15 02:08:33 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.185101711s
+2024/05/15 02:08:34 Fetched posts from https://vlr.gg/rss, took 1.325934517s
+2024/05/15 02:08:35 Fetched posts from https://blogtienao.com/feed, took 3.220243002s
+2024/05/15 02:08:36 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 3.631341831s
+2024/05/15 02:08:49 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.184144051s
+2024/05/15 02:08:49 Skipping writing post, no content: https://www.hltv.org/news/38989/fame-we-need-to-keep-the-balance-between-our-play-style-and-those-faster-things
+2024/05/15 02:08:49 Skipping writing post, no content: https://www.hltv.org/news/38988/virtuspro-win-2-0-as-falcons-continue-to-flounder
+2024/05/15 02:08:49 Skipping writing post, no content: https://www.hltv.org/news/38987/fnatic-sign-blamef
+2024/05/15 02:08:49 Skipping writing post, no content: https://www.hltv.org/news/38981/live-updates-from-betboom-dacha-belgrade-day-1
+2024/05/15 02:08:49 Skipping writing post, no content: https://www.hltv.org/news/38985/kair0n-we-want-to-destroy-the-dreams-of-people-who-want-to-win-this-tournament
+2024/05/15 02:08:49 Skipping writing post, no content: https://www.hltv.org/news/38984/monte-sign-styko-add-hadji-as-stand-in
+2024/05/15 02:08:49 Skipping writing post, no content: https://www.hltv.org/news/38983/mouz-deny-dust2-punish-pick-to-edge-out-betboom-in-belgrade
+2024/05/15 02:08:49 Skipping writing post, no content: https://www.hltv.org/news/38980/nip-and-complexity-invited-to-yalla-compass
+2024/05/15 02:08:49 Skipping writing post, no content: https://www.hltv.org/news/38982/bad-news-kangaroos-and-pz-part-ways
+2024/05/15 02:08:49 Skipping writing post, no content: https://www.hltv.org/news/38979/bb-dacha-fantasy-three-partner-games-kick-off
+2024/05/15 02:08:49 Templated 87 posts, took 13.927583ms
