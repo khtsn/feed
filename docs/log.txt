@@ -1,30 +1,30 @@
-2024/05/16 14:37:13 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/16 14:37:13 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 145.87325ms
-2024/05/16 14:37:13 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 272.853607ms
-2024/05/16 14:37:13 Content still empty after HTML reader: https://www.hltv.org/news/39002/mouz-show-no-signs-of-fatigue-in-belgrade
-2024/05/16 14:37:13 Content still empty after HTML reader: https://www.hltv.org/news/39000/live-updates-from-betboom-dacha-belgrade-day-3
-2024/05/16 14:37:13 Content still empty after HTML reader: https://www.hltv.org/news/38997/dupreeh-we-just-needed-to-feel-that-we-could-win-something
-2024/05/16 14:37:13 Content still empty after HTML reader: https://www.hltv.org/news/38999/tyloo-part-ways-with-advent-and-auman
-2024/05/16 14:37:13 Content still empty after HTML reader: https://www.hltv.org/news/38998/nouns-add-rush-part-with-clasia
-2024/05/16 14:37:13 Content still empty after HTML reader: https://www.hltv.org/news/38996/falcons-claim-revenge-to-eliminate-betboom
-2024/05/16 14:37:13 Content still empty after HTML reader: https://www.hltv.org/news/38991/live-updates-from-betboom-dacha-belgrade-day-2
-2024/05/16 14:37:13 Content still empty after HTML reader: https://www.hltv.org/news/38995/saw-having-that-fear-factor-of-the-awp-will-help-all-of-our-rifles
-2024/05/16 14:37:13 Content still empty after HTML reader: https://www.hltv.org/news/38994/degster-top-frags-in-heroic-debut-vs-mibr
-2024/05/16 14:37:13 Content still empty after HTML reader: https://www.hltv.org/news/38993/zont1x-we-believe-dust2-is-a-better-map-for-us-than-overpass
-2024/05/16 14:37:13 Fetched posts from https://www.hltv.org/rss/news, took 502.899238ms
-2024/05/16 14:37:14 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 765.568876ms
-2024/05/16 14:37:14 Fetched posts from https://vlr.gg/rss, took 910.428954ms
-2024/05/16 14:37:14 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.598680098s
-2024/05/16 14:37:16 Fetched posts from https://blogtienao.com/feed, took 3.256104258s
-2024/05/16 14:37:35 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.334191184s
-2024/05/16 14:37:35 Skipping writing post, no content: https://www.hltv.org/news/39002/mouz-show-no-signs-of-fatigue-in-belgrade
-2024/05/16 14:37:35 Skipping writing post, no content: https://www.hltv.org/news/39000/live-updates-from-betboom-dacha-belgrade-day-3
-2024/05/16 14:37:35 Skipping writing post, no content: https://www.hltv.org/news/38997/dupreeh-we-just-needed-to-feel-that-we-could-win-something
-2024/05/16 14:37:35 Skipping writing post, no content: https://www.hltv.org/news/38999/tyloo-part-ways-with-advent-and-auman
-2024/05/16 14:37:35 Skipping writing post, no content: https://www.hltv.org/news/38998/nouns-add-rush-part-with-clasia
-2024/05/16 14:37:35 Skipping writing post, no content: https://www.hltv.org/news/38996/falcons-claim-revenge-to-eliminate-betboom
-2024/05/16 14:37:35 Skipping writing post, no content: https://www.hltv.org/news/38991/live-updates-from-betboom-dacha-belgrade-day-2
-2024/05/16 14:37:35 Skipping writing post, no content: https://www.hltv.org/news/38995/saw-having-that-fear-factor-of-the-awp-will-help-all-of-our-rifles
-2024/05/16 14:37:35 Skipping writing post, no content: https://www.hltv.org/news/38994/degster-top-frags-in-heroic-debut-vs-mibr
-2024/05/16 14:37:35 Skipping writing post, no content: https://www.hltv.org/news/38993/zont1x-we-believe-dust2-is-a-better-map-for-us-than-overpass
-2024/05/16 14:37:35 Templated 81 posts, took 12.217258ms
+2024/05/16 14:52:04 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 107.920836ms
+2024/05/16 14:52:04 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/16 14:52:04 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 143.426724ms
+2024/05/16 14:52:04 Content still empty after HTML reader: https://www.hltv.org/news/39002/mouz-show-no-signs-of-fatigue-in-belgrade
+2024/05/16 14:52:04 Content still empty after HTML reader: https://www.hltv.org/news/39000/live-updates-from-betboom-dacha-belgrade-day-3
+2024/05/16 14:52:04 Content still empty after HTML reader: https://www.hltv.org/news/38997/dupreeh-we-just-needed-to-feel-that-we-could-win-something
+2024/05/16 14:52:04 Content still empty after HTML reader: https://www.hltv.org/news/38999/tyloo-part-ways-with-advent-and-auman
+2024/05/16 14:52:04 Content still empty after HTML reader: https://www.hltv.org/news/38998/nouns-add-rush-part-with-clasia
+2024/05/16 14:52:05 Content still empty after HTML reader: https://www.hltv.org/news/38996/falcons-claim-revenge-to-eliminate-betboom
+2024/05/16 14:52:05 Content still empty after HTML reader: https://www.hltv.org/news/38991/live-updates-from-betboom-dacha-belgrade-day-2
+2024/05/16 14:52:05 Fetched posts from https://vlr.gg/rss, took 341.599796ms
+2024/05/16 14:52:05 Content still empty after HTML reader: https://www.hltv.org/news/38995/saw-having-that-fear-factor-of-the-awp-will-help-all-of-our-rifles
+2024/05/16 14:52:05 Content still empty after HTML reader: https://www.hltv.org/news/38994/degster-top-frags-in-heroic-debut-vs-mibr
+2024/05/16 14:52:05 Content still empty after HTML reader: https://www.hltv.org/news/38993/zont1x-we-believe-dust2-is-a-better-map-for-us-than-overpass
+2024/05/16 14:52:05 Fetched posts from https://www.hltv.org/rss/news, took 380.784347ms
+2024/05/16 14:52:05 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 983.380691ms
+2024/05/16 14:52:06 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.620724745s
+2024/05/16 14:52:07 Fetched posts from https://blogtienao.com/feed, took 2.336387434s
+2024/05/16 14:52:28 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 24.307243611s
+2024/05/16 14:52:28 Skipping writing post, no content: https://www.hltv.org/news/39002/mouz-show-no-signs-of-fatigue-in-belgrade
+2024/05/16 14:52:28 Skipping writing post, no content: https://www.hltv.org/news/39000/live-updates-from-betboom-dacha-belgrade-day-3
+2024/05/16 14:52:28 Skipping writing post, no content: https://www.hltv.org/news/38997/dupreeh-we-just-needed-to-feel-that-we-could-win-something
+2024/05/16 14:52:28 Skipping writing post, no content: https://www.hltv.org/news/38999/tyloo-part-ways-with-advent-and-auman
+2024/05/16 14:52:28 Skipping writing post, no content: https://www.hltv.org/news/38998/nouns-add-rush-part-with-clasia
+2024/05/16 14:52:28 Skipping writing post, no content: https://www.hltv.org/news/38996/falcons-claim-revenge-to-eliminate-betboom
+2024/05/16 14:52:28 Skipping writing post, no content: https://www.hltv.org/news/38991/live-updates-from-betboom-dacha-belgrade-day-2
+2024/05/16 14:52:28 Skipping writing post, no content: https://www.hltv.org/news/38995/saw-having-that-fear-factor-of-the-awp-will-help-all-of-our-rifles
+2024/05/16 14:52:28 Skipping writing post, no content: https://www.hltv.org/news/38994/degster-top-frags-in-heroic-debut-vs-mibr
+2024/05/16 14:52:28 Skipping writing post, no content: https://www.hltv.org/news/38993/zont1x-we-believe-dust2-is-a-better-map-for-us-than-overpass
+2024/05/16 14:52:29 Templated 80 posts, took 13.007466ms
