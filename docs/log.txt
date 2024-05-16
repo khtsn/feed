@@ -1,30 +1,30 @@
-2024/05/16 20:37:24 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/16 20:37:24 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 170.055822ms
-2024/05/16 20:37:24 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 247.814835ms
-2024/05/16 20:37:24 Content still empty after HTML reader: https://www.hltv.org/news/39005/mibr-eliminate-aurora-with-ease-in-serbia
-2024/05/16 20:37:24 Content still empty after HTML reader: https://www.hltv.org/news/39000/live-updates-from-betboom-dacha-belgrade-day-3
-2024/05/16 20:37:24 Content still empty after HTML reader: https://www.hltv.org/news/39001/sources-liquid-weighing-up-cadians-future
-2024/05/16 20:37:24 Content still empty after HTML reader: https://www.hltv.org/news/39004/spirit-cruise-into-playoffs-in-belgrade
-2024/05/16 20:37:24 Content still empty after HTML reader: https://www.hltv.org/news/39003/brollan-its-exhausting-to-go-from-event-to-event-i-feel-it-mentally
-2024/05/16 20:37:25 Content still empty after HTML reader: https://www.hltv.org/news/38986/the-evps-of-esl-pro-league-season-19
-2024/05/16 20:37:25 Content still empty after HTML reader: https://www.hltv.org/news/39002/mouz-show-no-signs-of-fatigue-in-belgrade
-2024/05/16 20:37:25 Content still empty after HTML reader: https://www.hltv.org/news/38997/dupreeh-we-just-needed-to-feel-that-we-could-win-something
-2024/05/16 20:37:25 Content still empty after HTML reader: https://www.hltv.org/news/38999/tyloo-part-ways-with-advent-and-auman
-2024/05/16 20:37:25 Content still empty after HTML reader: https://www.hltv.org/news/38998/nouns-add-rush-part-with-clasia
-2024/05/16 20:37:25 Fetched posts from https://www.hltv.org/rss/news, took 750.018677ms
-2024/05/16 20:37:25 Fetched posts from https://vlr.gg/rss, took 915.667489ms
-2024/05/16 20:37:25 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.388594323s
-2024/05/16 20:37:26 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.860407142s
-2024/05/16 20:37:27 Fetched posts from https://blogtienao.com/feed, took 3.276987859s
-2024/05/16 20:37:38 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.993584346s
-2024/05/16 20:37:38 Skipping writing post, no content: https://www.hltv.org/news/39005/mibr-eliminate-aurora-with-ease-in-serbia
-2024/05/16 20:37:38 Skipping writing post, no content: https://www.hltv.org/news/39000/live-updates-from-betboom-dacha-belgrade-day-3
-2024/05/16 20:37:38 Skipping writing post, no content: https://www.hltv.org/news/39001/sources-liquid-weighing-up-cadians-future
-2024/05/16 20:37:38 Skipping writing post, no content: https://www.hltv.org/news/39004/spirit-cruise-into-playoffs-in-belgrade
-2024/05/16 20:37:38 Skipping writing post, no content: https://www.hltv.org/news/39003/brollan-its-exhausting-to-go-from-event-to-event-i-feel-it-mentally
-2024/05/16 20:37:38 Skipping writing post, no content: https://www.hltv.org/news/38986/the-evps-of-esl-pro-league-season-19
-2024/05/16 20:37:38 Skipping writing post, no content: https://www.hltv.org/news/39002/mouz-show-no-signs-of-fatigue-in-belgrade
-2024/05/16 20:37:38 Skipping writing post, no content: https://www.hltv.org/news/38997/dupreeh-we-just-needed-to-feel-that-we-could-win-something
-2024/05/16 20:37:38 Skipping writing post, no content: https://www.hltv.org/news/38999/tyloo-part-ways-with-advent-and-auman
-2024/05/16 20:37:38 Skipping writing post, no content: https://www.hltv.org/news/38998/nouns-add-rush-part-with-clasia
-2024/05/16 20:37:38 Templated 83 posts, took 13.186993ms
+2024/05/16 20:52:24 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 92.826293ms
+2024/05/16 20:52:25 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/16 20:52:25 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 225.36249ms
+2024/05/16 20:52:25 Fetched posts from https://vlr.gg/rss, took 354.800114ms
+2024/05/16 20:52:25 Content still empty after HTML reader: https://www.hltv.org/news/39005/mibr-eliminate-aurora-with-ease-in-serbia
+2024/05/16 20:52:25 Content still empty after HTML reader: https://www.hltv.org/news/39000/live-updates-from-betboom-dacha-belgrade-day-3
+2024/05/16 20:52:25 Content still empty after HTML reader: https://www.hltv.org/news/39001/sources-liquid-weighing-up-cadians-future
+2024/05/16 20:52:25 Content still empty after HTML reader: https://www.hltv.org/news/39004/spirit-cruise-into-playoffs-in-belgrade
+2024/05/16 20:52:25 Content still empty after HTML reader: https://www.hltv.org/news/39003/brollan-its-exhausting-to-go-from-event-to-event-i-feel-it-mentally
+2024/05/16 20:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38986/the-evps-of-esl-pro-league-season-19
+2024/05/16 20:52:25 Content still empty after HTML reader: https://www.hltv.org/news/39002/mouz-show-no-signs-of-fatigue-in-belgrade
+2024/05/16 20:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38997/dupreeh-we-just-needed-to-feel-that-we-could-win-something
+2024/05/16 20:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38999/tyloo-part-ways-with-advent-and-auman
+2024/05/16 20:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38998/nouns-add-rush-part-with-clasia
+2024/05/16 20:52:25 Fetched posts from https://www.hltv.org/rss/news, took 841.444118ms
+2024/05/16 20:52:25 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 863.927356ms
+2024/05/16 20:52:26 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.214086026s
+2024/05/16 20:52:27 Fetched posts from https://blogtienao.com/feed, took 2.359375272s
+2024/05/16 20:52:40 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.074516991s
+2024/05/16 20:52:40 Skipping writing post, no content: https://www.hltv.org/news/39005/mibr-eliminate-aurora-with-ease-in-serbia
+2024/05/16 20:52:40 Skipping writing post, no content: https://www.hltv.org/news/39000/live-updates-from-betboom-dacha-belgrade-day-3
+2024/05/16 20:52:40 Skipping writing post, no content: https://www.hltv.org/news/39001/sources-liquid-weighing-up-cadians-future
+2024/05/16 20:52:40 Skipping writing post, no content: https://www.hltv.org/news/39004/spirit-cruise-into-playoffs-in-belgrade
+2024/05/16 20:52:40 Skipping writing post, no content: https://www.hltv.org/news/39003/brollan-its-exhausting-to-go-from-event-to-event-i-feel-it-mentally
+2024/05/16 20:52:40 Skipping writing post, no content: https://www.hltv.org/news/38986/the-evps-of-esl-pro-league-season-19
+2024/05/16 20:52:40 Skipping writing post, no content: https://www.hltv.org/news/39002/mouz-show-no-signs-of-fatigue-in-belgrade
+2024/05/16 20:52:40 Skipping writing post, no content: https://www.hltv.org/news/38997/dupreeh-we-just-needed-to-feel-that-we-could-win-something
+2024/05/16 20:52:40 Skipping writing post, no content: https://www.hltv.org/news/38999/tyloo-part-ways-with-advent-and-auman
+2024/05/16 20:52:40 Skipping writing post, no content: https://www.hltv.org/news/38998/nouns-add-rush-part-with-clasia
+2024/05/16 20:52:40 Templated 83 posts, took 13.438751ms
