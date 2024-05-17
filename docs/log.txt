@@ -1,28 +1,30 @@
-2024/05/17 19:52:06 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 118.748715ms
-2024/05/17 19:52:06 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/17 19:52:06 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 267.92629ms
-2024/05/17 19:52:06 Fetched posts from https://vlr.gg/rss, took 324.430558ms
-2024/05/17 19:52:06 Content still empty after HTML reader: https://www.hltv.org/news/39016/heroic-beat-mibr-to-book-last-playoff-spot-in-belgrade
-2024/05/17 19:52:06 Content still empty after HTML reader: https://www.hltv.org/news/39008/live-updates-from-betboom-dacha-belgrade-day-4
-2024/05/17 19:52:06 Content still empty after HTML reader: https://www.hltv.org/news/39015/snappi-i-think-we-hit-rock-bottom-at-epl-hopefully-that-was-it
-2024/05/17 19:52:06 Content still empty after HTML reader: https://www.hltv.org/news/39014/falcons-take-revenge-on-vp-to-make-playoffs
-2024/05/17 19:52:06 Content still empty after HTML reader: https://www.hltv.org/news/39012/iem-dallas-groups-and-matchups-announced
-2024/05/17 19:52:06 Content still empty after HTML reader: https://www.hltv.org/news/39011/eternal-fire-and-aurora-through-to-cct-global-finals-playoffs
-2024/05/17 19:52:06 Content still empty after HTML reader: https://www.hltv.org/news/39009/atox-clinch-last-mesa-nomadic-masters-spot
-2024/05/17 19:52:06 Content still empty after HTML reader: https://www.hltv.org/news/39007/more-tyloo-changes-kaze-out
-2024/05/17 19:52:06 Content still empty after HTML reader: https://www.hltv.org/news/39006/saffee-the-spot-for-the-best-brazilian-team-opened-up-after-the-transition-to-cs2
-2024/05/17 19:52:06 Fetched posts from https://www.hltv.org/rss/news, took 483.470021ms
-2024/05/17 19:52:06 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 693.99548ms
-2024/05/17 19:52:07 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 784.850663ms
-2024/05/17 19:52:08 Fetched posts from https://blogtienao.com/feed, took 2.342489831s
-2024/05/17 19:52:29 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 23.718203682s
-2024/05/17 19:52:29 Skipping writing post, no content: https://www.hltv.org/news/39016/heroic-beat-mibr-to-book-last-playoff-spot-in-belgrade
-2024/05/17 19:52:29 Skipping writing post, no content: https://www.hltv.org/news/39008/live-updates-from-betboom-dacha-belgrade-day-4
-2024/05/17 19:52:30 Skipping writing post, no content: https://www.hltv.org/news/39015/snappi-i-think-we-hit-rock-bottom-at-epl-hopefully-that-was-it
-2024/05/17 19:52:30 Skipping writing post, no content: https://www.hltv.org/news/39014/falcons-take-revenge-on-vp-to-make-playoffs
-2024/05/17 19:52:30 Skipping writing post, no content: https://www.hltv.org/news/39012/iem-dallas-groups-and-matchups-announced
-2024/05/17 19:52:30 Skipping writing post, no content: https://www.hltv.org/news/39011/eternal-fire-and-aurora-through-to-cct-global-finals-playoffs
-2024/05/17 19:52:30 Skipping writing post, no content: https://www.hltv.org/news/39009/atox-clinch-last-mesa-nomadic-masters-spot
-2024/05/17 19:52:30 Skipping writing post, no content: https://www.hltv.org/news/39007/more-tyloo-changes-kaze-out
-2024/05/17 19:52:30 Skipping writing post, no content: https://www.hltv.org/news/39006/saffee-the-spot-for-the-best-brazilian-team-opened-up-after-the-transition-to-cs2
-2024/05/17 19:52:30 Templated 85 posts, took 13.261671ms
+2024/05/17 20:18:26 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 169.257505ms
+2024/05/17 20:18:26 Content still empty after HTML reader: https://www.hltv.org/news/39016/heroic-beat-mibr-to-book-last-playoff-spot-in-belgrade
+2024/05/17 20:18:26 Content still empty after HTML reader: https://www.hltv.org/news/39008/live-updates-from-betboom-dacha-belgrade-day-4
+2024/05/17 20:18:26 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/17 20:18:26 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 218.578775ms
+2024/05/17 20:18:26 Content still empty after HTML reader: https://www.hltv.org/news/39015/snappi-i-think-we-hit-rock-bottom-at-epl-hopefully-that-was-it
+2024/05/17 20:18:26 Content still empty after HTML reader: https://www.hltv.org/news/39014/falcons-take-revenge-on-vp-to-make-playoffs
+2024/05/17 20:18:26 Content still empty after HTML reader: https://www.hltv.org/news/39013/stewie2k-registered-on-g2-lineup-for-iem-dallas
+2024/05/17 20:18:26 Content still empty after HTML reader: https://www.hltv.org/news/39012/iem-dallas-groups-and-matchups-announced
+2024/05/17 20:18:26 Content still empty after HTML reader: https://www.hltv.org/news/39011/eternal-fire-and-aurora-through-to-cct-global-finals-playoffs
+2024/05/17 20:18:26 Content still empty after HTML reader: https://www.hltv.org/news/39009/atox-clinch-last-mesa-nomadic-masters-spot
+2024/05/17 20:18:26 Fetched posts from https://vlr.gg/rss, took 308.526147ms
+2024/05/17 20:18:26 Content still empty after HTML reader: https://www.hltv.org/news/39007/more-tyloo-changes-kaze-out
+2024/05/17 20:18:26 Content still empty after HTML reader: https://www.hltv.org/news/39006/saffee-the-spot-for-the-best-brazilian-team-opened-up-after-the-transition-to-cs2
+2024/05/17 20:18:26 Fetched posts from https://www.hltv.org/rss/news, took 328.11442ms
+2024/05/17 20:18:26 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 779.171162ms
+2024/05/17 20:18:26 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 891.700294ms
+2024/05/17 20:18:28 Fetched posts from https://blogtienao.com/feed, took 2.525903105s
+2024/05/17 20:18:49 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 24.102504865s
+2024/05/17 20:18:49 Skipping writing post, no content: https://www.hltv.org/news/39016/heroic-beat-mibr-to-book-last-playoff-spot-in-belgrade
+2024/05/17 20:18:49 Skipping writing post, no content: https://www.hltv.org/news/39008/live-updates-from-betboom-dacha-belgrade-day-4
+2024/05/17 20:18:49 Skipping writing post, no content: https://www.hltv.org/news/39015/snappi-i-think-we-hit-rock-bottom-at-epl-hopefully-that-was-it
+2024/05/17 20:18:49 Skipping writing post, no content: https://www.hltv.org/news/39014/falcons-take-revenge-on-vp-to-make-playoffs
+2024/05/17 20:18:49 Skipping writing post, no content: https://www.hltv.org/news/39013/stewie2k-registered-on-g2-lineup-for-iem-dallas
+2024/05/17 20:18:49 Skipping writing post, no content: https://www.hltv.org/news/39012/iem-dallas-groups-and-matchups-announced
+2024/05/17 20:18:49 Skipping writing post, no content: https://www.hltv.org/news/39011/eternal-fire-and-aurora-through-to-cct-global-finals-playoffs
+2024/05/17 20:18:49 Skipping writing post, no content: https://www.hltv.org/news/39009/atox-clinch-last-mesa-nomadic-masters-spot
+2024/05/17 20:18:49 Skipping writing post, no content: https://www.hltv.org/news/39007/more-tyloo-changes-kaze-out
+2024/05/17 20:18:49 Skipping writing post, no content: https://www.hltv.org/news/39006/saffee-the-spot-for-the-best-brazilian-team-opened-up-after-the-transition-to-cs2
+2024/05/17 20:18:49 Templated 84 posts, took 13.542111ms
