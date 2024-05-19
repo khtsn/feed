@@ -1,30 +1,30 @@
-2024/05/19 23:18:38 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/19 23:18:38 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 93.69982ms
-2024/05/19 23:18:38 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 194.351046ms
-2024/05/19 23:18:38 Content still empty after HTML reader: https://www.hltv.org/news/39032/donk-its-hard-to-find-positives-after-such-a-humbling-defeat
-2024/05/19 23:18:38 Content still empty after HTML reader: https://www.hltv.org/news/39031/liquid-amkal-on-to-cct-global-finals-playoffs
-2024/05/19 23:18:38 Content still empty after HTML reader: https://www.hltv.org/news/39029/siuhy-in-a-way-we-like-to-play-against-teams-with-a-superstar
-2024/05/19 23:18:38 Content still empty after HTML reader: https://www.hltv.org/news/39030/navi-javelins-are-challenging-pigeons-hold-on-womens-throne
-2024/05/19 23:18:38 Content still empty after HTML reader: https://www.hltv.org/news/39028/party-astronauts-bolster-lineup-with-fang
-2024/05/19 23:18:38 Content still empty after HTML reader: https://www.hltv.org/news/39027/donk-named-mvp-of-betboom-dacha-belgrade
-2024/05/19 23:18:38 Content still empty after HTML reader: https://www.hltv.org/news/39026/mouz-sweep-spirit-to-claim-betboom-dacha-title
-2024/05/19 23:18:38 Content still empty after HTML reader: https://www.hltv.org/news/39024/live-updates-from-betboom-dacha-belgrade-grand-final
-2024/05/19 23:18:38 Content still empty after HTML reader: https://www.hltv.org/news/39025/na-revival-series-announced
-2024/05/19 23:18:38 Content still empty after HTML reader: https://www.hltv.org/news/39023/metizport-sign-plopski
-2024/05/19 23:18:38 Fetched posts from https://www.hltv.org/rss/news, took 418.886317ms
-2024/05/19 23:18:38 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 688.159998ms
-2024/05/19 23:18:39 Fetched posts from https://vlr.gg/rss, took 1.019704438s
-2024/05/19 23:18:39 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.373368531s
-2024/05/19 23:18:41 Fetched posts from https://blogtienao.com/feed, took 3.184696598s
-2024/05/19 23:18:54 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.650205617s
-2024/05/19 23:18:54 Skipping writing post, no content: https://www.hltv.org/news/39032/donk-its-hard-to-find-positives-after-such-a-humbling-defeat
-2024/05/19 23:18:54 Skipping writing post, no content: https://www.hltv.org/news/39031/liquid-amkal-on-to-cct-global-finals-playoffs
-2024/05/19 23:18:54 Skipping writing post, no content: https://www.hltv.org/news/39029/siuhy-in-a-way-we-like-to-play-against-teams-with-a-superstar
-2024/05/19 23:18:54 Skipping writing post, no content: https://www.hltv.org/news/39030/navi-javelins-are-challenging-pigeons-hold-on-womens-throne
-2024/05/19 23:18:54 Skipping writing post, no content: https://www.hltv.org/news/39028/party-astronauts-bolster-lineup-with-fang
-2024/05/19 23:18:54 Skipping writing post, no content: https://www.hltv.org/news/39027/donk-named-mvp-of-betboom-dacha-belgrade
-2024/05/19 23:18:54 Skipping writing post, no content: https://www.hltv.org/news/39026/mouz-sweep-spirit-to-claim-betboom-dacha-title
-2024/05/19 23:18:54 Skipping writing post, no content: https://www.hltv.org/news/39024/live-updates-from-betboom-dacha-belgrade-grand-final
-2024/05/19 23:18:54 Skipping writing post, no content: https://www.hltv.org/news/39025/na-revival-series-announced
-2024/05/19 23:18:54 Skipping writing post, no content: https://www.hltv.org/news/39023/metizport-sign-plopski
-2024/05/19 23:18:54 Templated 75 posts, took 12.312125ms
+2024/05/19 23:37:25 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 115.921144ms
+2024/05/19 23:37:25 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/19 23:37:25 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 142.913887ms
+2024/05/19 23:37:25 Content still empty after HTML reader: https://www.hltv.org/news/39032/donk-its-hard-to-find-positives-after-such-a-humbling-defeat
+2024/05/19 23:37:25 Content still empty after HTML reader: https://www.hltv.org/news/39031/liquid-amkal-on-to-cct-global-finals-playoffs
+2024/05/19 23:37:25 Fetched posts from https://vlr.gg/rss, took 388.146456ms
+2024/05/19 23:37:25 Content still empty after HTML reader: https://www.hltv.org/news/39029/siuhy-in-a-way-we-like-to-play-against-teams-with-a-superstar
+2024/05/19 23:37:25 Content still empty after HTML reader: https://www.hltv.org/news/39030/navi-javelins-are-challenging-pigeons-hold-on-womens-throne
+2024/05/19 23:37:25 Content still empty after HTML reader: https://www.hltv.org/news/39028/party-astronauts-bolster-lineup-with-fang
+2024/05/19 23:37:25 Content still empty after HTML reader: https://www.hltv.org/news/39027/donk-named-mvp-of-betboom-dacha-belgrade
+2024/05/19 23:37:25 Content still empty after HTML reader: https://www.hltv.org/news/39026/mouz-sweep-spirit-to-claim-betboom-dacha-title
+2024/05/19 23:37:25 Content still empty after HTML reader: https://www.hltv.org/news/39024/live-updates-from-betboom-dacha-belgrade-grand-final
+2024/05/19 23:37:25 Content still empty after HTML reader: https://www.hltv.org/news/39025/na-revival-series-announced
+2024/05/19 23:37:25 Content still empty after HTML reader: https://www.hltv.org/news/39023/metizport-sign-plopski
+2024/05/19 23:37:25 Fetched posts from https://www.hltv.org/rss/news, took 515.863185ms
+2024/05/19 23:37:26 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.385350738s
+2024/05/19 23:37:26 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.434224131s
+2024/05/19 23:37:31 Fetched posts from https://blogtienao.com/feed, took 6.155613374s
+2024/05/19 23:37:48 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.742329779s
+2024/05/19 23:37:48 Skipping writing post, no content: https://www.hltv.org/news/39032/donk-its-hard-to-find-positives-after-such-a-humbling-defeat
+2024/05/19 23:37:48 Skipping writing post, no content: https://www.hltv.org/news/39031/liquid-amkal-on-to-cct-global-finals-playoffs
+2024/05/19 23:37:48 Skipping writing post, no content: https://www.hltv.org/news/39029/siuhy-in-a-way-we-like-to-play-against-teams-with-a-superstar
+2024/05/19 23:37:48 Skipping writing post, no content: https://www.hltv.org/news/39030/navi-javelins-are-challenging-pigeons-hold-on-womens-throne
+2024/05/19 23:37:48 Skipping writing post, no content: https://www.hltv.org/news/39028/party-astronauts-bolster-lineup-with-fang
+2024/05/19 23:37:48 Skipping writing post, no content: https://www.hltv.org/news/39027/donk-named-mvp-of-betboom-dacha-belgrade
+2024/05/19 23:37:48 Skipping writing post, no content: https://www.hltv.org/news/39026/mouz-sweep-spirit-to-claim-betboom-dacha-title
+2024/05/19 23:37:48 Skipping writing post, no content: https://www.hltv.org/news/39024/live-updates-from-betboom-dacha-belgrade-grand-final
+2024/05/19 23:37:48 Skipping writing post, no content: https://www.hltv.org/news/39025/na-revival-series-announced
+2024/05/19 23:37:48 Skipping writing post, no content: https://www.hltv.org/news/39023/metizport-sign-plopski
+2024/05/19 23:37:48 Templated 76 posts, took 13.103437ms
