@@ -1,30 +1,28 @@
-2024/05/19 12:56:44 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 129.508792ms
-2024/05/19 12:56:44 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/19 12:56:44 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 264.434562ms
-2024/05/19 12:56:44 Content still empty after HTML reader: https://www.hltv.org/news/39024/live-updates-from-betboom-dacha-belgrade-grand-final
-2024/05/19 12:56:44 Content still empty after HTML reader: https://www.hltv.org/news/39025/na-revival-series-announced
-2024/05/19 12:56:44 Content still empty after HTML reader: https://www.hltv.org/news/39023/metizport-sign-plopski
-2024/05/19 12:56:44 Content still empty after HTML reader: https://www.hltv.org/news/39022/fnatic-miss-cct-playoffs-in-blamefs-debut-event
-2024/05/19 12:56:44 Content still empty after HTML reader: https://www.hltv.org/news/39020/5w-enter-cs-with-team-headlined-by-thomas-and-joel
-2024/05/19 12:56:44 Content still empty after HTML reader: https://www.hltv.org/news/39021/mouz-brush-aside-heroic-to-set-up-final-with-spirit
-2024/05/19 12:56:44 Content still empty after HTML reader: https://www.hltv.org/news/39017/live-updates-from-betboom-dacha-belgrade-semi-finals
-2024/05/19 12:56:44 Content still empty after HTML reader: https://www.hltv.org/news/39019/magixx-im-just-doing-some-sht-on-the-map-sometimes-getting-carried-sometimes-not
-2024/05/19 12:56:44 Fetched posts from https://vlr.gg/rss, took 440.571405ms
-2024/05/19 12:56:44 Content still empty after HTML reader: https://www.hltv.org/news/39018/spirit-survive-slow-start-to-blitz-falcons
-2024/05/19 12:56:44 Content still empty after HTML reader: https://www.hltv.org/news/39016/heroic-beat-mibr-book-last-playoff-spot-in-belgrade
-2024/05/19 12:56:44 Fetched posts from https://www.hltv.org/rss/news, took 458.236557ms
-2024/05/19 12:56:44 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 643.721172ms
-2024/05/19 12:56:45 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 855.072341ms
-2024/05/19 12:56:49 Fetched posts from https://blogtienao.com/feed, took 5.455724791s
-2024/05/19 12:57:07 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 23.58931091s
-2024/05/19 12:57:07 Skipping writing post, no content: https://www.hltv.org/news/39024/live-updates-from-betboom-dacha-belgrade-grand-final
-2024/05/19 12:57:07 Skipping writing post, no content: https://www.hltv.org/news/39025/na-revival-series-announced
-2024/05/19 12:57:07 Skipping writing post, no content: https://www.hltv.org/news/39023/metizport-sign-plopski
-2024/05/19 12:57:07 Skipping writing post, no content: https://www.hltv.org/news/39022/fnatic-miss-cct-playoffs-in-blamefs-debut-event
-2024/05/19 12:57:07 Skipping writing post, no content: https://www.hltv.org/news/39020/5w-enter-cs-with-team-headlined-by-thomas-and-joel
-2024/05/19 12:57:07 Skipping writing post, no content: https://www.hltv.org/news/39021/mouz-brush-aside-heroic-to-set-up-final-with-spirit
-2024/05/19 12:57:07 Skipping writing post, no content: https://www.hltv.org/news/39017/live-updates-from-betboom-dacha-belgrade-semi-finals
-2024/05/19 12:57:07 Skipping writing post, no content: https://www.hltv.org/news/39019/magixx-im-just-doing-some-sht-on-the-map-sometimes-getting-carried-sometimes-not
-2024/05/19 12:57:07 Skipping writing post, no content: https://www.hltv.org/news/39018/spirit-survive-slow-start-to-blitz-falcons
-2024/05/19 12:57:07 Skipping writing post, no content: https://www.hltv.org/news/39016/heroic-beat-mibr-book-last-playoff-spot-in-belgrade
-2024/05/19 12:57:07 Templated 79 posts, took 12.601067ms
+2024/05/19 13:18:54 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 112.195023ms
+2024/05/19 13:18:54 Content still empty after HTML reader: https://www.hltv.org/news/39024/live-updates-from-betboom-dacha-belgrade-grand-final
+2024/05/19 13:18:54 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/19 13:18:54 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 310.657939ms
+2024/05/19 13:18:54 Content still empty after HTML reader: https://www.hltv.org/news/39025/na-revival-series-announced
+2024/05/19 13:18:54 Content still empty after HTML reader: https://www.hltv.org/news/39023/metizport-sign-plopski
+2024/05/19 13:18:54 Fetched posts from https://vlr.gg/rss, took 332.366191ms
+2024/05/19 13:18:54 Content still empty after HTML reader: https://www.hltv.org/news/39020/5w-enter-cs-with-team-headlined-by-thomas-and-joel
+2024/05/19 13:18:54 Content still empty after HTML reader: https://www.hltv.org/news/39021/mouz-brush-aside-heroic-to-set-up-final-with-spirit
+2024/05/19 13:18:54 Content still empty after HTML reader: https://www.hltv.org/news/39017/live-updates-from-betboom-dacha-belgrade-semi-finals
+2024/05/19 13:18:54 Content still empty after HTML reader: https://www.hltv.org/news/39019/magixx-im-just-doing-some-sht-on-the-map-sometimes-getting-carried-sometimes-not
+2024/05/19 13:18:54 Content still empty after HTML reader: https://www.hltv.org/news/39018/spirit-survive-slow-start-to-blitz-falcons
+2024/05/19 13:18:54 Content still empty after HTML reader: https://www.hltv.org/news/39016/heroic-beat-mibr-book-last-playoff-spot-in-belgrade
+2024/05/19 13:18:54 Fetched posts from https://www.hltv.org/rss/news, took 426.844948ms
+2024/05/19 13:18:55 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 782.028314ms
+2024/05/19 13:18:55 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 882.717562ms
+2024/05/19 13:18:56 Fetched posts from https://blogtienao.com/feed, took 2.245459758s
+2024/05/19 13:19:22 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 28.346563679s
+2024/05/19 13:19:22 Skipping writing post, no content: https://www.hltv.org/news/39024/live-updates-from-betboom-dacha-belgrade-grand-final
+2024/05/19 13:19:22 Skipping writing post, no content: https://www.hltv.org/news/39025/na-revival-series-announced
+2024/05/19 13:19:22 Skipping writing post, no content: https://www.hltv.org/news/39023/metizport-sign-plopski
+2024/05/19 13:19:22 Skipping writing post, no content: https://www.hltv.org/news/39020/5w-enter-cs-with-team-headlined-by-thomas-and-joel
+2024/05/19 13:19:22 Skipping writing post, no content: https://www.hltv.org/news/39021/mouz-brush-aside-heroic-to-set-up-final-with-spirit
+2024/05/19 13:19:22 Skipping writing post, no content: https://www.hltv.org/news/39017/live-updates-from-betboom-dacha-belgrade-semi-finals
+2024/05/19 13:19:22 Skipping writing post, no content: https://www.hltv.org/news/39019/magixx-im-just-doing-some-sht-on-the-map-sometimes-getting-carried-sometimes-not
+2024/05/19 13:19:22 Skipping writing post, no content: https://www.hltv.org/news/39018/spirit-survive-slow-start-to-blitz-falcons
+2024/05/19 13:19:22 Skipping writing post, no content: https://www.hltv.org/news/39016/heroic-beat-mibr-book-last-playoff-spot-in-belgrade
+2024/05/19 13:19:22 Templated 78 posts, took 13.141687ms
