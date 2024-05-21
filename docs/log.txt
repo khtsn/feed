@@ -1,30 +1,32 @@
-2024/05/21 15:52:09 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/21 15:52:09 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 196.07316ms
-2024/05/21 15:52:09 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 253.461672ms
-2024/05/21 15:52:09 Content still empty after HTML reader: https://www.hltv.org/news/39044/sharks-bench-drg-and-togs
-2024/05/21 15:52:09 Content still empty after HTML reader: https://www.hltv.org/news/39043/jerry-benched-in-parivision
-2024/05/21 15:52:09 Content still empty after HTML reader: https://www.hltv.org/news/38897/elimination-rating-players-who-do-and-dont-rise-to-the-occasion
-2024/05/21 15:52:09 Content still empty after HTML reader: https://www.hltv.org/news/39042/mouzs-1-spirits-return-to-action-dallas-favorites-discussed-on-hltv-confirmed
-2024/05/21 15:52:09 Content still empty after HTML reader: https://www.hltv.org/news/39041/astralis-betboom-complete-cct-playoff-bracket
-2024/05/21 15:52:09 Content still empty after HTML reader: https://www.hltv.org/news/39040/meta-monday-a-late-call-that-kept-momentum-on-mouzs-side
-2024/05/21 15:52:09 Content still empty after HTML reader: https://www.hltv.org/news/39039/sources-blast-targets-us-for-2025-summer-major
-2024/05/21 15:52:10 Content still empty after HTML reader: https://www.hltv.org/news/39037/mouz-claim-no-1-for-first-time-in-history
-2024/05/21 15:52:10 Content still empty after HTML reader: https://www.hltv.org/news/39038/s1mples-bold-prediction-froz1k-moves-up-as-navi-youth-and-junior-merge
-2024/05/21 15:52:10 Content still empty after HTML reader: https://www.hltv.org/news/39036/furia-eternal-fire-among-skyesports-championship-2024-invitees
-2024/05/21 15:52:10 Fetched posts from https://www.hltv.org/rss/news, took 413.274638ms
-2024/05/21 15:52:10 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 951.300085ms
-2024/05/21 15:52:10 Fetched posts from https://vlr.gg/rss, took 1.047133406s
-2024/05/21 15:52:10 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.268056835s
-2024/05/21 15:52:12 Fetched posts from https://blogtienao.com/feed, took 3.344607368s
-2024/05/21 15:52:26 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.00646849s
-2024/05/21 15:52:26 Skipping writing post, no content: https://www.hltv.org/news/39044/sharks-bench-drg-and-togs
-2024/05/21 15:52:26 Skipping writing post, no content: https://www.hltv.org/news/39043/jerry-benched-in-parivision
-2024/05/21 15:52:26 Skipping writing post, no content: https://www.hltv.org/news/38897/elimination-rating-players-who-do-and-dont-rise-to-the-occasion
-2024/05/21 15:52:26 Skipping writing post, no content: https://www.hltv.org/news/39042/mouzs-1-spirits-return-to-action-dallas-favorites-discussed-on-hltv-confirmed
-2024/05/21 15:52:26 Skipping writing post, no content: https://www.hltv.org/news/39041/astralis-betboom-complete-cct-playoff-bracket
-2024/05/21 15:52:26 Skipping writing post, no content: https://www.hltv.org/news/39040/meta-monday-a-late-call-that-kept-momentum-on-mouzs-side
-2024/05/21 15:52:26 Skipping writing post, no content: https://www.hltv.org/news/39039/sources-blast-targets-us-for-2025-summer-major
-2024/05/21 15:52:26 Skipping writing post, no content: https://www.hltv.org/news/39037/mouz-claim-no-1-for-first-time-in-history
-2024/05/21 15:52:26 Skipping writing post, no content: https://www.hltv.org/news/39038/s1mples-bold-prediction-froz1k-moves-up-as-navi-youth-and-junior-merge
-2024/05/21 15:52:26 Skipping writing post, no content: https://www.hltv.org/news/39036/furia-eternal-fire-among-skyesports-championship-2024-invitees
-2024/05/21 15:52:26 Templated 85 posts, took 13.441978ms
+2024/05/21 16:21:02 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 110.29048ms
+2024/05/21 16:21:02 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/21 16:21:02 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 226.881934ms
+2024/05/21 16:21:02 Content still empty after HTML reader: https://www.hltv.org/news/39044/sharks-bench-drg-and-togs
+2024/05/21 16:21:02 Content still empty after HTML reader: https://www.hltv.org/news/39043/jerry-benched-in-parivision
+2024/05/21 16:21:02 Content still empty after HTML reader: https://www.hltv.org/news/38897/elimination-rating-players-who-do-and-dont-rise-to-the-occasion
+2024/05/21 16:21:02 Content still empty after HTML reader: https://www.hltv.org/news/39042/mouzs-1-spirits-return-to-action-dallas-favorites-discussed-on-hltv-confirmed
+2024/05/21 16:21:02 Content still empty after HTML reader: https://www.hltv.org/news/39041/astralis-betboom-complete-cct-playoff-bracket
+2024/05/21 16:21:02 Content still empty after HTML reader: https://www.hltv.org/news/39040/meta-monday-a-late-call-that-kept-momentum-on-mouzs-side
+2024/05/21 16:21:03 Content still empty after HTML reader: https://www.hltv.org/news/39039/sources-blast-targets-us-for-2025-summer-major
+2024/05/21 16:21:03 Content still empty after HTML reader: https://www.hltv.org/news/39037/mouz-claim-no-1-for-first-time-in-history
+2024/05/21 16:21:03 Content still empty after HTML reader: https://www.hltv.org/news/39038/s1mples-bold-prediction-froz1k-moves-up-as-navi-youth-and-junior-merge
+2024/05/21 16:21:03 Content still empty after HTML reader: https://www.hltv.org/news/39036/furia-eternal-fire-among-skyesports-championship-2024-invitees
+2024/05/21 16:21:03 Fetched posts from https://www.hltv.org/rss/news, took 513.750237ms
+2024/05/21 16:21:03 Content still empty after HTML reader: https://www.vlr.gg/349794/how-beyn-went-from-drx-prospect-to-the-korean-zellsis
+2024/05/21 16:21:03 Fetched posts from https://vlr.gg/rss, took 513.684027ms
+2024/05/21 16:21:03 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 919.250034ms
+2024/05/21 16:21:03 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 944.570242ms
+2024/05/21 16:21:05 Fetched posts from https://blogtienao.com/feed, took 3.32847309s
+2024/05/21 16:21:23 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.224427746s
+2024/05/21 16:21:23 Skipping writing post, no content: https://www.hltv.org/news/39044/sharks-bench-drg-and-togs
+2024/05/21 16:21:23 Skipping writing post, no content: https://www.hltv.org/news/39043/jerry-benched-in-parivision
+2024/05/21 16:21:23 Skipping writing post, no content: https://www.hltv.org/news/38897/elimination-rating-players-who-do-and-dont-rise-to-the-occasion
+2024/05/21 16:21:23 Skipping writing post, no content: https://www.hltv.org/news/39042/mouzs-1-spirits-return-to-action-dallas-favorites-discussed-on-hltv-confirmed
+2024/05/21 16:21:23 Skipping writing post, no content: https://www.hltv.org/news/39041/astralis-betboom-complete-cct-playoff-bracket
+2024/05/21 16:21:23 Skipping writing post, no content: https://www.hltv.org/news/39040/meta-monday-a-late-call-that-kept-momentum-on-mouzs-side
+2024/05/21 16:21:23 Skipping writing post, no content: https://www.hltv.org/news/39039/sources-blast-targets-us-for-2025-summer-major
+2024/05/21 16:21:23 Skipping writing post, no content: https://www.hltv.org/news/39037/mouz-claim-no-1-for-first-time-in-history
+2024/05/21 16:21:23 Skipping writing post, no content: https://www.hltv.org/news/39038/s1mples-bold-prediction-froz1k-moves-up-as-navi-youth-and-junior-merge
+2024/05/21 16:21:23 Skipping writing post, no content: https://www.hltv.org/news/39036/furia-eternal-fire-among-skyesports-championship-2024-invitees
+2024/05/21 16:21:23 Skipping writing post, no content: https://www.vlr.gg/349794/how-beyn-went-from-drx-prospect-to-the-korean-zellsis
+2024/05/21 16:21:23 Templated 85 posts, took 13.757403ms
