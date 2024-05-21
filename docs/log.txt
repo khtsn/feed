@@ -1,28 +1,30 @@
-2024/05/21 14:52:25 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 120.525144ms
-2024/05/21 14:52:25 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/21 14:52:25 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 353.835993ms
-2024/05/21 14:52:25 Content still empty after HTML reader: https://www.hltv.org/news/39043/jerry-benched-in-parivision
-2024/05/21 14:52:25 Fetched posts from https://vlr.gg/rss, took 460.438538ms
-2024/05/21 14:52:25 Content still empty after HTML reader: https://www.hltv.org/news/38897/elimination-rating-players-who-do-and-dont-rise-to-the-occasion
-2024/05/21 14:52:25 Content still empty after HTML reader: https://www.hltv.org/news/39042/mouzs-1-spirits-return-to-action-dallas-favorites-discussed-on-hltv-confirmed
-2024/05/21 14:52:25 Content still empty after HTML reader: https://www.hltv.org/news/39041/astralis-betboom-complete-cct-playoff-bracket
-2024/05/21 14:52:25 Content still empty after HTML reader: https://www.hltv.org/news/39040/meta-monday-a-late-call-that-kept-momentum-on-mouzs-side
-2024/05/21 14:52:25 Content still empty after HTML reader: https://www.hltv.org/news/39037/mouz-claim-no-1-for-first-time-in-history
-2024/05/21 14:52:25 Content still empty after HTML reader: https://www.hltv.org/news/39038/s1mples-bold-prediction-froz1k-moves-up-as-navi-youth-and-junior-merge
-2024/05/21 14:52:25 Content still empty after HTML reader: https://www.hltv.org/news/39036/furia-eternal-fire-among-skyesports-championship-2024-invitees
-2024/05/21 14:52:25 Content still empty after HTML reader: https://www.hltv.org/news/39035/mesa-nomadic-masters-matchups-and-schedule-revealed
-2024/05/21 14:52:25 Fetched posts from https://www.hltv.org/rss/news, took 637.292219ms
-2024/05/21 14:52:26 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 748.386206ms
-2024/05/21 14:52:26 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 946.35315ms
-2024/05/21 14:52:27 Fetched posts from https://blogtienao.com/feed, took 2.366904635s
-2024/05/21 14:52:43 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.443564603s
-2024/05/21 14:52:43 Skipping writing post, no content: https://www.hltv.org/news/39043/jerry-benched-in-parivision
-2024/05/21 14:52:43 Skipping writing post, no content: https://www.hltv.org/news/38897/elimination-rating-players-who-do-and-dont-rise-to-the-occasion
-2024/05/21 14:52:43 Skipping writing post, no content: https://www.hltv.org/news/39042/mouzs-1-spirits-return-to-action-dallas-favorites-discussed-on-hltv-confirmed
-2024/05/21 14:52:43 Skipping writing post, no content: https://www.hltv.org/news/39041/astralis-betboom-complete-cct-playoff-bracket
-2024/05/21 14:52:43 Skipping writing post, no content: https://www.hltv.org/news/39040/meta-monday-a-late-call-that-kept-momentum-on-mouzs-side
-2024/05/21 14:52:43 Skipping writing post, no content: https://www.hltv.org/news/39037/mouz-claim-no-1-for-first-time-in-history
-2024/05/21 14:52:43 Skipping writing post, no content: https://www.hltv.org/news/39038/s1mples-bold-prediction-froz1k-moves-up-as-navi-youth-and-junior-merge
-2024/05/21 14:52:43 Skipping writing post, no content: https://www.hltv.org/news/39036/furia-eternal-fire-among-skyesports-championship-2024-invitees
-2024/05/21 14:52:43 Skipping writing post, no content: https://www.hltv.org/news/39035/mesa-nomadic-masters-matchups-and-schedule-revealed
-2024/05/21 14:52:43 Templated 84 posts, took 13.885652ms
+2024/05/21 15:18:20 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/21 15:18:20 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 211.447764ms
+2024/05/21 15:18:20 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 254.969988ms
+2024/05/21 15:18:20 Content still empty after HTML reader: https://www.hltv.org/news/39043/jerry-benched-in-parivision
+2024/05/21 15:18:20 Content still empty after HTML reader: https://www.hltv.org/news/38897/elimination-rating-players-who-do-and-dont-rise-to-the-occasion
+2024/05/21 15:18:20 Content still empty after HTML reader: https://www.hltv.org/news/39042/mouzs-1-spirits-return-to-action-dallas-favorites-discussed-on-hltv-confirmed
+2024/05/21 15:18:20 Content still empty after HTML reader: https://www.hltv.org/news/39041/astralis-betboom-complete-cct-playoff-bracket
+2024/05/21 15:18:20 Content still empty after HTML reader: https://www.hltv.org/news/39040/meta-monday-a-late-call-that-kept-momentum-on-mouzs-side
+2024/05/21 15:18:20 Content still empty after HTML reader: https://www.hltv.org/news/39039/sources-blast-targets-us-for-2025-summer-major
+2024/05/21 15:18:20 Content still empty after HTML reader: https://www.hltv.org/news/39037/mouz-claim-no-1-for-first-time-in-history
+2024/05/21 15:18:20 Content still empty after HTML reader: https://www.hltv.org/news/39038/s1mples-bold-prediction-froz1k-moves-up-as-navi-youth-and-junior-merge
+2024/05/21 15:18:20 Content still empty after HTML reader: https://www.hltv.org/news/39036/furia-eternal-fire-among-skyesports-championship-2024-invitees
+2024/05/21 15:18:20 Content still empty after HTML reader: https://www.hltv.org/news/39035/mesa-nomadic-masters-matchups-and-schedule-revealed
+2024/05/21 15:18:20 Fetched posts from https://www.hltv.org/rss/news, took 477.269089ms
+2024/05/21 15:18:21 Fetched posts from https://vlr.gg/rss, took 546.131689ms
+2024/05/21 15:18:21 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 955.315094ms
+2024/05/21 15:18:21 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.20901716s
+2024/05/21 15:18:23 Fetched posts from https://blogtienao.com/feed, took 3.117775315s
+2024/05/21 15:18:42 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.650421996s
+2024/05/21 15:18:42 Skipping writing post, no content: https://www.hltv.org/news/39043/jerry-benched-in-parivision
+2024/05/21 15:18:42 Skipping writing post, no content: https://www.hltv.org/news/38897/elimination-rating-players-who-do-and-dont-rise-to-the-occasion
+2024/05/21 15:18:42 Skipping writing post, no content: https://www.hltv.org/news/39042/mouzs-1-spirits-return-to-action-dallas-favorites-discussed-on-hltv-confirmed
+2024/05/21 15:18:42 Skipping writing post, no content: https://www.hltv.org/news/39041/astralis-betboom-complete-cct-playoff-bracket
+2024/05/21 15:18:42 Skipping writing post, no content: https://www.hltv.org/news/39040/meta-monday-a-late-call-that-kept-momentum-on-mouzs-side
+2024/05/21 15:18:42 Skipping writing post, no content: https://www.hltv.org/news/39039/sources-blast-targets-us-for-2025-summer-major
+2024/05/21 15:18:42 Skipping writing post, no content: https://www.hltv.org/news/39037/mouz-claim-no-1-for-first-time-in-history
+2024/05/21 15:18:42 Skipping writing post, no content: https://www.hltv.org/news/39038/s1mples-bold-prediction-froz1k-moves-up-as-navi-youth-and-junior-merge
+2024/05/21 15:18:42 Skipping writing post, no content: https://www.hltv.org/news/39036/furia-eternal-fire-among-skyesports-championship-2024-invitees
+2024/05/21 15:18:42 Skipping writing post, no content: https://www.hltv.org/news/39035/mesa-nomadic-masters-matchups-and-schedule-revealed
+2024/05/21 15:18:42 Templated 86 posts, took 14.399425ms
