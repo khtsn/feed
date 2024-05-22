@@ -1,30 +1,30 @@
-2024/05/22 16:41:17 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/22 16:41:17 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 137.984249ms
-2024/05/22 16:41:18 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 221.003647ms
-2024/05/22 16:41:18 Content still empty after HTML reader: https://www.hltv.org/news/39050/koala-signs-with-sharks
-2024/05/22 16:41:18 Content still empty after HTML reader: https://www.hltv.org/news/39049/berry-to-coach-saw-at-blast-spring-final
-2024/05/22 16:41:18 Content still empty after HTML reader: https://www.hltv.org/news/39048/usea-announce-350000-league-in-usa
-2024/05/22 16:41:18 Content still empty after HTML reader: https://www.hltv.org/news/38990/editorial-can-esl-pro-league-survive-in-a-changing-landscape
-2024/05/22 16:41:18 Content still empty after HTML reader: https://www.hltv.org/news/39045/pera-add-bubble-as-head-coach
-2024/05/22 16:41:18 Content still empty after HTML reader: https://www.hltv.org/news/39044/sharks-bench-drg-and-togs
-2024/05/22 16:41:18 Content still empty after HTML reader: https://www.hltv.org/news/39043/jerry-benched-in-parivision
-2024/05/22 16:41:18 Content still empty after HTML reader: https://www.hltv.org/news/38897/elimination-rating-players-who-do-and-dont-rise-to-the-occasion
-2024/05/22 16:41:18 Content still empty after HTML reader: https://www.hltv.org/news/39042/mouzs-1-spirits-return-to-action-dallas-favorites-discussed-on-hltv-confirmed
-2024/05/22 16:41:18 Content still empty after HTML reader: https://www.hltv.org/news/39041/astralis-betboom-complete-cct-playoff-bracket
-2024/05/22 16:41:18 Fetched posts from https://www.hltv.org/rss/news, took 426.199693ms
-2024/05/22 16:41:18 Fetched posts from https://vlr.gg/rss, took 707.550965ms
-2024/05/22 16:41:18 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 912.305321ms
-2024/05/22 16:41:18 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.120674811s
-2024/05/22 16:41:20 Fetched posts from https://blogtienao.com/feed, took 2.732845406s
-2024/05/22 16:41:38 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.774699277s
-2024/05/22 16:41:38 Skipping writing post, no content: https://www.hltv.org/news/39050/koala-signs-with-sharks
-2024/05/22 16:41:38 Skipping writing post, no content: https://www.hltv.org/news/39049/berry-to-coach-saw-at-blast-spring-final
-2024/05/22 16:41:38 Skipping writing post, no content: https://www.hltv.org/news/39048/usea-announce-350000-league-in-usa
-2024/05/22 16:41:38 Skipping writing post, no content: https://www.hltv.org/news/38990/editorial-can-esl-pro-league-survive-in-a-changing-landscape
-2024/05/22 16:41:38 Skipping writing post, no content: https://www.hltv.org/news/39045/pera-add-bubble-as-head-coach
-2024/05/22 16:41:38 Skipping writing post, no content: https://www.hltv.org/news/39044/sharks-bench-drg-and-togs
-2024/05/22 16:41:38 Skipping writing post, no content: https://www.hltv.org/news/39043/jerry-benched-in-parivision
-2024/05/22 16:41:38 Skipping writing post, no content: https://www.hltv.org/news/38897/elimination-rating-players-who-do-and-dont-rise-to-the-occasion
-2024/05/22 16:41:38 Skipping writing post, no content: https://www.hltv.org/news/39042/mouzs-1-spirits-return-to-action-dallas-favorites-discussed-on-hltv-confirmed
-2024/05/22 16:41:38 Skipping writing post, no content: https://www.hltv.org/news/39041/astralis-betboom-complete-cct-playoff-bracket
-2024/05/22 16:41:38 Templated 89 posts, took 14.461477ms
+2024/05/22 16:53:15 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/22 16:53:15 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 174.528626ms
+2024/05/22 16:53:16 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 245.6516ms
+2024/05/22 16:53:16 Content still empty after HTML reader: https://www.hltv.org/news/39050/koala-signs-with-sharks
+2024/05/22 16:53:16 Content still empty after HTML reader: https://www.hltv.org/news/39049/berry-to-coach-saw-at-blast-spring-final
+2024/05/22 16:53:16 Content still empty after HTML reader: https://www.hltv.org/news/39048/usea-announce-350000-league-in-usa
+2024/05/22 16:53:16 Content still empty after HTML reader: https://www.hltv.org/news/38990/editorial-can-esl-pro-league-survive-in-a-changing-landscape
+2024/05/22 16:53:16 Content still empty after HTML reader: https://www.hltv.org/news/39045/pera-add-bubble-as-head-coach
+2024/05/22 16:53:16 Content still empty after HTML reader: https://www.hltv.org/news/39044/sharks-bench-drg-and-togs
+2024/05/22 16:53:16 Content still empty after HTML reader: https://www.hltv.org/news/39043/jerry-benched-in-parivision
+2024/05/22 16:53:16 Content still empty after HTML reader: https://www.hltv.org/news/38897/elimination-rating-players-who-do-and-dont-rise-to-the-occasion
+2024/05/22 16:53:16 Content still empty after HTML reader: https://www.hltv.org/news/39042/mouzs-1-spirits-return-to-action-dallas-favorites-discussed-on-hltv-confirmed
+2024/05/22 16:53:16 Content still empty after HTML reader: https://www.hltv.org/news/39041/astralis-betboom-complete-cct-playoff-bracket
+2024/05/22 16:53:16 Fetched posts from https://www.hltv.org/rss/news, took 523.879896ms
+2024/05/22 16:53:17 Fetched posts from https://vlr.gg/rss, took 1.241089993s
+2024/05/22 16:53:17 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.408759866s
+2024/05/22 16:53:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.749708398s
+2024/05/22 16:53:23 Fetched posts from https://blogtienao.com/feed, took 7.681137735s
+2024/05/22 16:53:32 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.668642399s
+2024/05/22 16:53:32 Skipping writing post, no content: https://www.hltv.org/news/39050/koala-signs-with-sharks
+2024/05/22 16:53:32 Skipping writing post, no content: https://www.hltv.org/news/39049/berry-to-coach-saw-at-blast-spring-final
+2024/05/22 16:53:32 Skipping writing post, no content: https://www.hltv.org/news/39048/usea-announce-350000-league-in-usa
+2024/05/22 16:53:32 Skipping writing post, no content: https://www.hltv.org/news/38990/editorial-can-esl-pro-league-survive-in-a-changing-landscape
+2024/05/22 16:53:32 Skipping writing post, no content: https://www.hltv.org/news/39045/pera-add-bubble-as-head-coach
+2024/05/22 16:53:32 Skipping writing post, no content: https://www.hltv.org/news/39044/sharks-bench-drg-and-togs
+2024/05/22 16:53:32 Skipping writing post, no content: https://www.hltv.org/news/39043/jerry-benched-in-parivision
+2024/05/22 16:53:32 Skipping writing post, no content: https://www.hltv.org/news/38897/elimination-rating-players-who-do-and-dont-rise-to-the-occasion
+2024/05/22 16:53:32 Skipping writing post, no content: https://www.hltv.org/news/39042/mouzs-1-spirits-return-to-action-dallas-favorites-discussed-on-hltv-confirmed
+2024/05/22 16:53:32 Skipping writing post, no content: https://www.hltv.org/news/39041/astralis-betboom-complete-cct-playoff-bracket
+2024/05/22 16:53:32 Templated 91 posts, took 14.131896ms
