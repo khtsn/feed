@@ -1,32 +1,30 @@
-2024/05/22 03:37:57 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/22 03:37:57 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 276.779466ms
-2024/05/22 03:37:57 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 353.445316ms
-2024/05/22 03:37:57 Fetched posts from https://vlr.gg/rss, took 414.094703ms
-2024/05/22 03:37:57 Content still empty after HTML reader: https://www.hltv.org/news/38990/editorial-can-esl-pro-league-survive-in-a-changing-landscape
-2024/05/22 03:37:57 Content still empty after HTML reader: https://www.hltv.org/news/39045/pera-add-bubble-as-head-coach
-2024/05/22 03:37:57 Content still empty after HTML reader: https://www.nytimes.com/2024/05/21/opinion/netanyahu-gaza-war.html
-2024/05/22 03:37:57 Content still empty after HTML reader: https://www.hltv.org/news/39044/sharks-bench-drg-and-togs
-2024/05/22 03:37:57 Content still empty after HTML reader: https://www.hltv.org/news/39043/jerry-benched-in-parivision
-2024/05/22 03:37:57 Content still empty after HTML reader: https://www.hltv.org/news/38897/elimination-rating-players-who-do-and-dont-rise-to-the-occasion
-2024/05/22 03:37:57 Content still empty after HTML reader: https://www.hltv.org/news/39042/mouzs-1-spirits-return-to-action-dallas-favorites-discussed-on-hltv-confirmed
-2024/05/22 03:37:57 Content still empty after HTML reader: https://www.hltv.org/news/39041/astralis-betboom-complete-cct-playoff-bracket
-2024/05/22 03:37:57 Content still empty after HTML reader: https://www.hltv.org/news/39040/meta-monday-a-late-call-that-kept-momentum-on-mouzs-side
-2024/05/22 03:37:57 Content still empty after HTML reader: https://www.hltv.org/news/39039/sources-blast-targets-us-for-2025-summer-major
-2024/05/22 03:37:57 Content still empty after HTML reader: https://www.hltv.org/news/39037/mouz-claim-no-1-for-first-time-in-history
-2024/05/22 03:37:57 Fetched posts from https://www.hltv.org/rss/news, took 739.482643ms
-2024/05/22 03:37:58 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 782.984731ms
-2024/05/22 03:37:58 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.730035552s
-2024/05/22 03:37:59 Fetched posts from https://blogtienao.com/feed, took 2.255839209s
-2024/05/22 03:38:23 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 26.616770844s
-2024/05/22 03:38:23 Skipping writing post, no content: https://www.nytimes.com/2024/05/21/opinion/netanyahu-gaza-war.html
-2024/05/22 03:38:23 Skipping writing post, no content: https://www.hltv.org/news/38990/editorial-can-esl-pro-league-survive-in-a-changing-landscape
-2024/05/22 03:38:23 Skipping writing post, no content: https://www.hltv.org/news/39045/pera-add-bubble-as-head-coach
-2024/05/22 03:38:23 Skipping writing post, no content: https://www.hltv.org/news/39044/sharks-bench-drg-and-togs
-2024/05/22 03:38:23 Skipping writing post, no content: https://www.hltv.org/news/39043/jerry-benched-in-parivision
-2024/05/22 03:38:23 Skipping writing post, no content: https://www.hltv.org/news/38897/elimination-rating-players-who-do-and-dont-rise-to-the-occasion
-2024/05/22 03:38:23 Skipping writing post, no content: https://www.hltv.org/news/39042/mouzs-1-spirits-return-to-action-dallas-favorites-discussed-on-hltv-confirmed
-2024/05/22 03:38:23 Skipping writing post, no content: https://www.hltv.org/news/39041/astralis-betboom-complete-cct-playoff-bracket
-2024/05/22 03:38:23 Skipping writing post, no content: https://www.hltv.org/news/39040/meta-monday-a-late-call-that-kept-momentum-on-mouzs-side
-2024/05/22 03:38:23 Skipping writing post, no content: https://www.hltv.org/news/39039/sources-blast-targets-us-for-2025-summer-major
-2024/05/22 03:38:23 Skipping writing post, no content: https://www.hltv.org/news/39037/mouz-claim-no-1-for-first-time-in-history
-2024/05/22 03:38:23 Templated 83 posts, took 13.770109ms
+2024/05/22 03:52:05 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 137.328516ms
+2024/05/22 03:52:05 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/22 03:52:05 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 201.219828ms
+2024/05/22 03:52:05 Content still empty after HTML reader: https://www.hltv.org/news/38990/editorial-can-esl-pro-league-survive-in-a-changing-landscape
+2024/05/22 03:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39045/pera-add-bubble-as-head-coach
+2024/05/22 03:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39044/sharks-bench-drg-and-togs
+2024/05/22 03:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39043/jerry-benched-in-parivision
+2024/05/22 03:52:05 Content still empty after HTML reader: https://www.hltv.org/news/38897/elimination-rating-players-who-do-and-dont-rise-to-the-occasion
+2024/05/22 03:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39042/mouzs-1-spirits-return-to-action-dallas-favorites-discussed-on-hltv-confirmed
+2024/05/22 03:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39041/astralis-betboom-complete-cct-playoff-bracket
+2024/05/22 03:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39040/meta-monday-a-late-call-that-kept-momentum-on-mouzs-side
+2024/05/22 03:52:05 Fetched posts from https://vlr.gg/rss, took 468.277561ms
+2024/05/22 03:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39039/sources-blast-targets-us-for-2025-summer-major
+2024/05/22 03:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39037/mouz-claim-no-1-for-first-time-in-history
+2024/05/22 03:52:05 Fetched posts from https://www.hltv.org/rss/news, took 493.280025ms
+2024/05/22 03:52:06 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 959.349987ms
+2024/05/22 03:52:06 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.065913702s
+2024/05/22 03:52:07 Fetched posts from https://blogtienao.com/feed, took 2.325756972s
+2024/05/22 03:52:40 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 35.802408692s
+2024/05/22 03:52:40 Skipping writing post, no content: https://www.hltv.org/news/38990/editorial-can-esl-pro-league-survive-in-a-changing-landscape
+2024/05/22 03:52:40 Skipping writing post, no content: https://www.hltv.org/news/39045/pera-add-bubble-as-head-coach
+2024/05/22 03:52:40 Skipping writing post, no content: https://www.hltv.org/news/39044/sharks-bench-drg-and-togs
+2024/05/22 03:52:40 Skipping writing post, no content: https://www.hltv.org/news/39043/jerry-benched-in-parivision
+2024/05/22 03:52:40 Skipping writing post, no content: https://www.hltv.org/news/38897/elimination-rating-players-who-do-and-dont-rise-to-the-occasion
+2024/05/22 03:52:40 Skipping writing post, no content: https://www.hltv.org/news/39042/mouzs-1-spirits-return-to-action-dallas-favorites-discussed-on-hltv-confirmed
+2024/05/22 03:52:40 Skipping writing post, no content: https://www.hltv.org/news/39041/astralis-betboom-complete-cct-playoff-bracket
+2024/05/22 03:52:40 Skipping writing post, no content: https://www.hltv.org/news/39040/meta-monday-a-late-call-that-kept-momentum-on-mouzs-side
+2024/05/22 03:52:40 Skipping writing post, no content: https://www.hltv.org/news/39039/sources-blast-targets-us-for-2025-summer-major
+2024/05/22 03:52:40 Skipping writing post, no content: https://www.hltv.org/news/39037/mouz-claim-no-1-for-first-time-in-history
+2024/05/22 03:52:40 Templated 84 posts, took 13.682647ms
