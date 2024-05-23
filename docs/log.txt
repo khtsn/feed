@@ -1,30 +1,30 @@
-2024/05/23 09:37:11 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 159.702694ms
-2024/05/23 09:37:11 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/23 09:37:11 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 184.180859ms
-2024/05/23 09:37:11 Content still empty after HTML reader: https://www.hltv.org/news/39053/sangal-steal-res-title-from-zero-tenacity
-2024/05/23 09:37:11 Content still empty after HTML reader: https://www.hltv.org/news/39052/metizport-announce-ztr-benching
-2024/05/23 09:37:11 Content still empty after HTML reader: https://www.hltv.org/news/39046/9ine-announce-new-roster-featuring-mantuu-refrezh-and-misutaaa
-2024/05/23 09:37:11 Content still empty after HTML reader: https://www.hltv.org/news/39051/liquid-and-eternal-fire-to-face-off-for-cct-title
-2024/05/23 09:37:11 Content still empty after HTML reader: https://www.hltv.org/news/39050/koala-signs-with-sharks
-2024/05/23 09:37:11 Content still empty after HTML reader: https://www.hltv.org/news/39049/berry-to-coach-saw-at-blast-spring-final
-2024/05/23 09:37:11 Content still empty after HTML reader: https://www.hltv.org/news/39048/usea-announce-350000-league-in-usa
-2024/05/23 09:37:11 Content still empty after HTML reader: https://www.hltv.org/news/38990/editorial-can-esl-pro-league-survive-in-a-changing-landscape
-2024/05/23 09:37:11 Content still empty after HTML reader: https://www.hltv.org/news/39045/pera-add-bubble-as-head-coach
-2024/05/23 09:37:11 Content still empty after HTML reader: https://www.hltv.org/news/39044/sharks-bench-drg-and-togs
-2024/05/23 09:37:11 Fetched posts from https://www.hltv.org/rss/news, took 396.248958ms
-2024/05/23 09:37:11 Fetched posts from https://vlr.gg/rss, took 464.40062ms
-2024/05/23 09:37:12 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 766.746735ms
-2024/05/23 09:37:12 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 822.870027ms
-2024/05/23 09:37:13 Fetched posts from https://blogtienao.com/feed, took 2.088153209s
-2024/05/23 09:37:36 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 25.515118615s
-2024/05/23 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/39053/sangal-steal-res-title-from-zero-tenacity
-2024/05/23 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/39052/metizport-announce-ztr-benching
-2024/05/23 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/39046/9ine-announce-new-roster-featuring-mantuu-refrezh-and-misutaaa
-2024/05/23 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/39051/liquid-and-eternal-fire-to-face-off-for-cct-title
-2024/05/23 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/39050/koala-signs-with-sharks
-2024/05/23 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/39049/berry-to-coach-saw-at-blast-spring-final
-2024/05/23 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/39048/usea-announce-350000-league-in-usa
-2024/05/23 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/38990/editorial-can-esl-pro-league-survive-in-a-changing-landscape
-2024/05/23 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/39045/pera-add-bubble-as-head-coach
-2024/05/23 09:37:36 Skipping writing post, no content: https://www.hltv.org/news/39044/sharks-bench-drg-and-togs
-2024/05/23 09:37:36 Templated 81 posts, took 13.66419ms
+2024/05/23 09:52:16 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/23 09:52:16 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 126.498392ms
+2024/05/23 09:52:16 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 355.370009ms
+2024/05/23 09:52:17 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 813.96711ms
+2024/05/23 09:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39053/sangal-steal-res-title-from-zero-tenacity
+2024/05/23 09:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39052/metizport-announce-ztr-benching
+2024/05/23 09:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39046/9ine-announce-new-roster-featuring-mantuu-refrezh-and-misutaaa
+2024/05/23 09:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39051/liquid-and-eternal-fire-to-face-off-for-cct-title
+2024/05/23 09:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39050/koala-signs-with-sharks
+2024/05/23 09:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39049/berry-to-coach-saw-at-blast-spring-final
+2024/05/23 09:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39048/usea-announce-350000-league-in-usa
+2024/05/23 09:52:17 Content still empty after HTML reader: https://www.hltv.org/news/38990/editorial-can-esl-pro-league-survive-in-a-changing-landscape
+2024/05/23 09:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39045/pera-add-bubble-as-head-coach
+2024/05/23 09:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39044/sharks-bench-drg-and-togs
+2024/05/23 09:52:17 Fetched posts from https://www.hltv.org/rss/news, took 958.219578ms
+2024/05/23 09:52:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 973.075213ms
+2024/05/23 09:52:17 Fetched posts from https://vlr.gg/rss, took 1.155110292s
+2024/05/23 09:52:20 Fetched posts from https://blogtienao.com/feed, took 4.470055833s
+2024/05/23 09:52:31 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.606078228s
+2024/05/23 09:52:31 Skipping writing post, no content: https://www.hltv.org/news/39053/sangal-steal-res-title-from-zero-tenacity
+2024/05/23 09:52:31 Skipping writing post, no content: https://www.hltv.org/news/39052/metizport-announce-ztr-benching
+2024/05/23 09:52:31 Skipping writing post, no content: https://www.hltv.org/news/39046/9ine-announce-new-roster-featuring-mantuu-refrezh-and-misutaaa
+2024/05/23 09:52:31 Skipping writing post, no content: https://www.hltv.org/news/39051/liquid-and-eternal-fire-to-face-off-for-cct-title
+2024/05/23 09:52:31 Skipping writing post, no content: https://www.hltv.org/news/39050/koala-signs-with-sharks
+2024/05/23 09:52:31 Skipping writing post, no content: https://www.hltv.org/news/39049/berry-to-coach-saw-at-blast-spring-final
+2024/05/23 09:52:31 Skipping writing post, no content: https://www.hltv.org/news/39048/usea-announce-350000-league-in-usa
+2024/05/23 09:52:31 Skipping writing post, no content: https://www.hltv.org/news/38990/editorial-can-esl-pro-league-survive-in-a-changing-landscape
+2024/05/23 09:52:31 Skipping writing post, no content: https://www.hltv.org/news/39045/pera-add-bubble-as-head-coach
+2024/05/23 09:52:31 Skipping writing post, no content: https://www.hltv.org/news/39044/sharks-bench-drg-and-togs
+2024/05/23 09:52:31 Templated 81 posts, took 13.401405ms
