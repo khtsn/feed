@@ -1,30 +1,30 @@
-2024/05/24 02:52:13 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/24 02:52:13 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 125.396474ms
-2024/05/24 02:52:13 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 149.706192ms
-2024/05/24 02:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39059/update-economy-incendiary-vertigo-changes
-2024/05/24 02:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39010/how-insani-became-brazils-rising-star
-2024/05/24 02:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39055/the-evps-and-best-five-of-betboom-dacha-belgrade
-2024/05/24 02:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39058/eternal-fire-defeat-liquid-3-1-to-claim-250000
-2024/05/24 02:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39056/esl-announces-iem-dallas-2024-talent
-2024/05/24 02:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39053/sangal-steal-res-title-from-zero-tenacity
-2024/05/24 02:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39052/metizport-announce-ztr-benching
-2024/05/24 02:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39046/9ine-announce-new-roster-featuring-mantuu-refrezh-and-misutaaa
-2024/05/24 02:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39051/liquid-and-eternal-fire-to-face-off-for-cct-title
-2024/05/24 02:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39050/koala-signs-with-sharks
-2024/05/24 02:52:13 Fetched posts from https://www.hltv.org/rss/news, took 437.943975ms
-2024/05/24 02:52:14 Fetched posts from https://vlr.gg/rss, took 793.998126ms
-2024/05/24 02:52:14 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.410171869s
-2024/05/24 02:52:15 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.763510393s
-2024/05/24 02:52:15 Fetched posts from https://blogtienao.com/feed, took 2.150059186s
-2024/05/24 02:52:35 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.301630256s
-2024/05/24 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39059/update-economy-incendiary-vertigo-changes
-2024/05/24 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39010/how-insani-became-brazils-rising-star
-2024/05/24 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39055/the-evps-and-best-five-of-betboom-dacha-belgrade
-2024/05/24 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39058/eternal-fire-defeat-liquid-3-1-to-claim-250000
-2024/05/24 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39056/esl-announces-iem-dallas-2024-talent
-2024/05/24 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39053/sangal-steal-res-title-from-zero-tenacity
-2024/05/24 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39052/metizport-announce-ztr-benching
-2024/05/24 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39046/9ine-announce-new-roster-featuring-mantuu-refrezh-and-misutaaa
-2024/05/24 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39051/liquid-and-eternal-fire-to-face-off-for-cct-title
-2024/05/24 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39050/koala-signs-with-sharks
-2024/05/24 02:52:35 Templated 89 posts, took 14.290996ms
+2024/05/24 03:18:59 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 218.715995ms
+2024/05/24 03:18:59 Content still empty after HTML reader: https://www.hltv.org/news/39059/update-economy-incendiary-vertigo-changes
+2024/05/24 03:18:59 Content still empty after HTML reader: https://www.hltv.org/news/39010/how-insani-became-brazils-rising-star
+2024/05/24 03:18:59 Content still empty after HTML reader: https://www.hltv.org/news/39055/the-evps-and-best-five-of-betboom-dacha-belgrade
+2024/05/24 03:18:59 Content still empty after HTML reader: https://www.hltv.org/news/39058/eternal-fire-defeat-liquid-3-1-to-claim-250000
+2024/05/24 03:18:59 Content still empty after HTML reader: https://www.hltv.org/news/39056/esl-announces-iem-dallas-2024-talent
+2024/05/24 03:18:59 Content still empty after HTML reader: https://www.hltv.org/news/39053/sangal-steal-res-title-from-zero-tenacity
+2024/05/24 03:18:59 Content still empty after HTML reader: https://www.hltv.org/news/39052/metizport-announce-ztr-benching
+2024/05/24 03:18:59 Content still empty after HTML reader: https://www.hltv.org/news/39046/9ine-announce-new-roster-featuring-mantuu-refrezh-and-misutaaa
+2024/05/24 03:18:59 Content still empty after HTML reader: https://www.hltv.org/news/39051/liquid-and-eternal-fire-to-face-off-for-cct-title
+2024/05/24 03:18:59 Content still empty after HTML reader: https://www.hltv.org/news/39050/koala-signs-with-sharks
+2024/05/24 03:18:59 Fetched posts from https://www.hltv.org/rss/news, took 441.775115ms
+2024/05/24 03:18:59 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 680.067841ms
+2024/05/24 03:19:00 Fetched posts from https://vlr.gg/rss, took 824.087597ms
+2024/05/24 03:19:00 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.34213747s
+2024/05/24 03:19:01 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/24 03:19:01 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 2.045641523s
+2024/05/24 03:19:01 Fetched posts from https://blogtienao.com/feed, took 2.0963491s
+2024/05/24 03:19:21 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.296614589s
+2024/05/24 03:19:21 Skipping writing post, no content: https://www.hltv.org/news/39059/update-economy-incendiary-vertigo-changes
+2024/05/24 03:19:21 Skipping writing post, no content: https://www.hltv.org/news/39010/how-insani-became-brazils-rising-star
+2024/05/24 03:19:21 Skipping writing post, no content: https://www.hltv.org/news/39055/the-evps-and-best-five-of-betboom-dacha-belgrade
+2024/05/24 03:19:21 Skipping writing post, no content: https://www.hltv.org/news/39058/eternal-fire-defeat-liquid-3-1-to-claim-250000
+2024/05/24 03:19:21 Skipping writing post, no content: https://www.hltv.org/news/39056/esl-announces-iem-dallas-2024-talent
+2024/05/24 03:19:21 Skipping writing post, no content: https://www.hltv.org/news/39053/sangal-steal-res-title-from-zero-tenacity
+2024/05/24 03:19:21 Skipping writing post, no content: https://www.hltv.org/news/39052/metizport-announce-ztr-benching
+2024/05/24 03:19:21 Skipping writing post, no content: https://www.hltv.org/news/39046/9ine-announce-new-roster-featuring-mantuu-refrezh-and-misutaaa
+2024/05/24 03:19:21 Skipping writing post, no content: https://www.hltv.org/news/39051/liquid-and-eternal-fire-to-face-off-for-cct-title
+2024/05/24 03:19:21 Skipping writing post, no content: https://www.hltv.org/news/39050/koala-signs-with-sharks
+2024/05/24 03:19:21 Templated 89 posts, took 14.358893ms
