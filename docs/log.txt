@@ -1,30 +1,30 @@
-2024/05/24 15:18:52 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/24 15:18:52 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 133.968463ms
-2024/05/24 15:18:52 Content still empty after HTML reader: https://www.hltv.org/news/39061/iem-dallas-2024-teams-format-schedule-talent-prizes-fantasy
-2024/05/24 15:18:52 Content still empty after HTML reader: https://www.hltv.org/news/39060/guild-part-ways-with-bne-team-disbands
-2024/05/24 15:18:52 Content still empty after HTML reader: https://www.hltv.org/news/39059/update-economy-incendiary-vertigo-changes
-2024/05/24 15:18:52 Content still empty after HTML reader: https://www.hltv.org/news/39010/how-insani-became-brazils-rising-star
-2024/05/24 15:18:52 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 261.984405ms
-2024/05/24 15:18:52 Content still empty after HTML reader: https://www.hltv.org/news/39055/the-evps-and-best-five-of-betboom-dacha-belgrade
-2024/05/24 15:18:52 Content still empty after HTML reader: https://www.hltv.org/news/39058/eternal-fire-defeat-liquid-3-1-to-claim-250000
-2024/05/24 15:18:52 Content still empty after HTML reader: https://www.hltv.org/news/39056/esl-announces-iem-dallas-2024-talent
-2024/05/24 15:18:52 Content still empty after HTML reader: https://www.hltv.org/news/39053/sangal-steal-res-title-from-zero-tenacity
-2024/05/24 15:18:52 Content still empty after HTML reader: https://www.hltv.org/news/39052/metizport-announce-ztr-benching
-2024/05/24 15:18:52 Content still empty after HTML reader: https://www.hltv.org/news/39046/9ine-announce-new-roster-featuring-mantuu-refrezh-and-misutaaa
-2024/05/24 15:18:52 Fetched posts from https://www.hltv.org/rss/news, took 348.415881ms
-2024/05/24 15:18:52 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 639.031345ms
-2024/05/24 15:18:53 Fetched posts from https://vlr.gg/rss, took 1.358714054s
-2024/05/24 15:18:55 Fetched posts from https://blogtienao.com/feed, took 2.9825736s
-2024/05/24 15:18:55 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 3.314112069s
-2024/05/24 15:19:09 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.768042683s
-2024/05/24 15:19:09 Skipping writing post, no content: https://www.hltv.org/news/39061/iem-dallas-2024-teams-format-schedule-talent-prizes-fantasy
-2024/05/24 15:19:09 Skipping writing post, no content: https://www.hltv.org/news/39060/guild-part-ways-with-bne-team-disbands
-2024/05/24 15:19:09 Skipping writing post, no content: https://www.hltv.org/news/39059/update-economy-incendiary-vertigo-changes
-2024/05/24 15:19:09 Skipping writing post, no content: https://www.hltv.org/news/39010/how-insani-became-brazils-rising-star
-2024/05/24 15:19:09 Skipping writing post, no content: https://www.hltv.org/news/39055/the-evps-and-best-five-of-betboom-dacha-belgrade
-2024/05/24 15:19:09 Skipping writing post, no content: https://www.hltv.org/news/39058/eternal-fire-defeat-liquid-3-1-to-claim-250000
-2024/05/24 15:19:09 Skipping writing post, no content: https://www.hltv.org/news/39056/esl-announces-iem-dallas-2024-talent
-2024/05/24 15:19:09 Skipping writing post, no content: https://www.hltv.org/news/39053/sangal-steal-res-title-from-zero-tenacity
-2024/05/24 15:19:09 Skipping writing post, no content: https://www.hltv.org/news/39052/metizport-announce-ztr-benching
-2024/05/24 15:19:09 Skipping writing post, no content: https://www.hltv.org/news/39046/9ine-announce-new-roster-featuring-mantuu-refrezh-and-misutaaa
-2024/05/24 15:19:09 Templated 88 posts, took 14.335532ms
+2024/05/24 15:37:19 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 146.874496ms
+2024/05/24 15:37:19 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/24 15:37:19 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 208.45833ms
+2024/05/24 15:37:19 Content still empty after HTML reader: https://www.hltv.org/news/39061/iem-dallas-2024-teams-format-schedule-talent-prizes-fantasy
+2024/05/24 15:37:19 Content still empty after HTML reader: https://www.hltv.org/news/39060/guild-part-ways-with-bne-team-disbands
+2024/05/24 15:37:19 Content still empty after HTML reader: https://www.hltv.org/news/39059/update-economy-incendiary-vertigo-changes
+2024/05/24 15:37:19 Content still empty after HTML reader: https://www.hltv.org/news/39010/how-insani-became-brazils-rising-star
+2024/05/24 15:37:19 Content still empty after HTML reader: https://www.hltv.org/news/39055/the-evps-and-best-five-of-betboom-dacha-belgrade
+2024/05/24 15:37:19 Content still empty after HTML reader: https://www.hltv.org/news/39058/eternal-fire-defeat-liquid-3-1-to-claim-250000
+2024/05/24 15:37:19 Content still empty after HTML reader: https://www.hltv.org/news/39056/esl-announces-iem-dallas-2024-talent
+2024/05/24 15:37:20 Content still empty after HTML reader: https://www.hltv.org/news/39053/sangal-steal-res-title-from-zero-tenacity
+2024/05/24 15:37:20 Content still empty after HTML reader: https://www.hltv.org/news/39052/metizport-announce-ztr-benching
+2024/05/24 15:37:20 Content still empty after HTML reader: https://www.hltv.org/news/39046/9ine-announce-new-roster-featuring-mantuu-refrezh-and-misutaaa
+2024/05/24 15:37:20 Fetched posts from https://www.hltv.org/rss/news, took 567.941023ms
+2024/05/24 15:37:20 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 796.177621ms
+2024/05/24 15:37:20 Fetched posts from https://vlr.gg/rss, took 812.405734ms
+2024/05/24 15:37:20 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 885.741866ms
+2024/05/24 15:37:21 Fetched posts from https://blogtienao.com/feed, took 2.186661743s
+2024/05/24 15:37:41 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.716632494s
+2024/05/24 15:37:41 Skipping writing post, no content: https://www.hltv.org/news/39061/iem-dallas-2024-teams-format-schedule-talent-prizes-fantasy
+2024/05/24 15:37:41 Skipping writing post, no content: https://www.hltv.org/news/39060/guild-part-ways-with-bne-team-disbands
+2024/05/24 15:37:41 Skipping writing post, no content: https://www.hltv.org/news/39059/update-economy-incendiary-vertigo-changes
+2024/05/24 15:37:41 Skipping writing post, no content: https://www.hltv.org/news/39010/how-insani-became-brazils-rising-star
+2024/05/24 15:37:41 Skipping writing post, no content: https://www.hltv.org/news/39055/the-evps-and-best-five-of-betboom-dacha-belgrade
+2024/05/24 15:37:41 Skipping writing post, no content: https://www.hltv.org/news/39058/eternal-fire-defeat-liquid-3-1-to-claim-250000
+2024/05/24 15:37:41 Skipping writing post, no content: https://www.hltv.org/news/39056/esl-announces-iem-dallas-2024-talent
+2024/05/24 15:37:41 Skipping writing post, no content: https://www.hltv.org/news/39053/sangal-steal-res-title-from-zero-tenacity
+2024/05/24 15:37:41 Skipping writing post, no content: https://www.hltv.org/news/39052/metizport-announce-ztr-benching
+2024/05/24 15:37:41 Skipping writing post, no content: https://www.hltv.org/news/39046/9ine-announce-new-roster-featuring-mantuu-refrezh-and-misutaaa
+2024/05/24 15:37:41 Templated 88 posts, took 13.291792ms
