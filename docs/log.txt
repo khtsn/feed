@@ -1,30 +1,32 @@
-2024/05/25 02:34:39 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/25 02:34:39 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 219.447404ms
-2024/05/25 02:34:39 Content still empty after HTML reader: https://www.hltv.org/news/39064/complexity-on-awp-role-hopefully-we-will-have-news-very-soon
-2024/05/25 02:34:39 Content still empty after HTML reader: https://www.hltv.org/news/39063/tsm-enter-esl-impact-with-shimmer-signing
-2024/05/25 02:34:39 Content still empty after HTML reader: https://www.hltv.org/news/39054/how-ninjas-in-pyjamas-hit-the-reset-button
-2024/05/25 02:34:39 Content still empty after HTML reader: https://www.hltv.org/news/39062/community-reacts-vertigo-economy-and-incendiary-changes
-2024/05/25 02:34:39 Content still empty after HTML reader: https://www.hltv.org/news/39061/iem-dallas-2024-teams-format-schedule-talent-prizes-fantasy
-2024/05/25 02:34:39 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 364.442426ms
-2024/05/25 02:34:39 Content still empty after HTML reader: https://www.hltv.org/news/39060/guild-part-ways-with-bne-team-disbands
-2024/05/25 02:34:39 Content still empty after HTML reader: https://www.hltv.org/news/39059/update-economy-incendiary-vertigo-changes
-2024/05/25 02:34:39 Content still empty after HTML reader: https://www.hltv.org/news/39010/how-insani-became-brazils-rising-star
-2024/05/25 02:34:39 Content still empty after HTML reader: https://www.hltv.org/news/39055/the-evps-and-best-five-of-betboom-dacha-belgrade
-2024/05/25 02:34:39 Content still empty after HTML reader: https://www.hltv.org/news/39058/eternal-fire-defeat-liquid-3-1-to-claim-250000
-2024/05/25 02:34:39 Fetched posts from https://www.hltv.org/rss/news, took 416.969156ms
-2024/05/25 02:34:39 Fetched posts from https://vlr.gg/rss, took 797.550547ms
-2024/05/25 02:34:40 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.628492628s
-2024/05/25 02:34:40 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.006364772s
-2024/05/25 02:34:40 Fetched posts from https://blogtienao.com/feed, took 2.128040143s
-2024/05/25 02:35:00 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.857867173s
-2024/05/25 02:35:00 Skipping writing post, no content: https://www.hltv.org/news/39064/complexity-on-awp-role-hopefully-we-will-have-news-very-soon
-2024/05/25 02:35:00 Skipping writing post, no content: https://www.hltv.org/news/39063/tsm-enter-esl-impact-with-shimmer-signing
-2024/05/25 02:35:00 Skipping writing post, no content: https://www.hltv.org/news/39054/how-ninjas-in-pyjamas-hit-the-reset-button
-2024/05/25 02:35:00 Skipping writing post, no content: https://www.hltv.org/news/39062/community-reacts-vertigo-economy-and-incendiary-changes
-2024/05/25 02:35:00 Skipping writing post, no content: https://www.hltv.org/news/39061/iem-dallas-2024-teams-format-schedule-talent-prizes-fantasy
-2024/05/25 02:35:00 Skipping writing post, no content: https://www.hltv.org/news/39060/guild-part-ways-with-bne-team-disbands
-2024/05/25 02:35:00 Skipping writing post, no content: https://www.hltv.org/news/39059/update-economy-incendiary-vertigo-changes
-2024/05/25 02:35:00 Skipping writing post, no content: https://www.hltv.org/news/39010/how-insani-became-brazils-rising-star
-2024/05/25 02:35:00 Skipping writing post, no content: https://www.hltv.org/news/39055/the-evps-and-best-five-of-betboom-dacha-belgrade
-2024/05/25 02:35:00 Skipping writing post, no content: https://www.hltv.org/news/39058/eternal-fire-defeat-liquid-3-1-to-claim-250000
-2024/05/25 02:35:00 Templated 93 posts, took 14.434718ms
+2024/05/25 02:52:19 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/25 02:52:19 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 87.25253ms
+2024/05/25 02:52:19 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 226.54233ms
+2024/05/25 02:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39064/complexity-on-awp-role-hopefully-we-will-have-news-very-soon
+2024/05/25 02:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39063/tsm-enter-esl-impact-with-shimmer-signing
+2024/05/25 02:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39054/how-ninjas-in-pyjamas-hit-the-reset-button
+2024/05/25 02:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39062/community-reacts-vertigo-economy-and-incendiary-changes
+2024/05/25 02:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39061/iem-dallas-2024-teams-format-schedule-talent-prizes-fantasy
+2024/05/25 02:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39060/guild-part-ways-with-bne-team-disbands
+2024/05/25 02:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39059/update-economy-incendiary-vertigo-changes
+2024/05/25 02:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39010/how-insani-became-brazils-rising-star
+2024/05/25 02:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39055/the-evps-and-best-five-of-betboom-dacha-belgrade
+2024/05/25 02:52:19 Content still empty after HTML reader: https://www.nytimes.com/2024/05/24/world/americas/taqueria-el-califa-de-leon-mexico-city-michelin-star.html
+2024/05/25 02:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39058/eternal-fire-defeat-liquid-3-1-to-claim-250000
+2024/05/25 02:52:19 Fetched posts from https://www.hltv.org/rss/news, took 434.159571ms
+2024/05/25 02:52:20 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.039067415s
+2024/05/25 02:52:20 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.223762722s
+2024/05/25 02:52:20 Fetched posts from https://vlr.gg/rss, took 1.413788675s
+2024/05/25 02:52:24 Fetched posts from https://blogtienao.com/feed, took 4.955645914s
+2024/05/25 02:52:35 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.552022636s
+2024/05/25 02:52:35 Skipping writing post, no content: https://www.nytimes.com/2024/05/24/world/americas/taqueria-el-califa-de-leon-mexico-city-michelin-star.html
+2024/05/25 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39064/complexity-on-awp-role-hopefully-we-will-have-news-very-soon
+2024/05/25 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39063/tsm-enter-esl-impact-with-shimmer-signing
+2024/05/25 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39054/how-ninjas-in-pyjamas-hit-the-reset-button
+2024/05/25 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39062/community-reacts-vertigo-economy-and-incendiary-changes
+2024/05/25 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39061/iem-dallas-2024-teams-format-schedule-talent-prizes-fantasy
+2024/05/25 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39060/guild-part-ways-with-bne-team-disbands
+2024/05/25 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39059/update-economy-incendiary-vertigo-changes
+2024/05/25 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39010/how-insani-became-brazils-rising-star
+2024/05/25 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39055/the-evps-and-best-five-of-betboom-dacha-belgrade
+2024/05/25 02:52:35 Skipping writing post, no content: https://www.hltv.org/news/39058/eternal-fire-defeat-liquid-3-1-to-claim-250000
+2024/05/25 02:52:35 Templated 93 posts, took 14.46905ms
