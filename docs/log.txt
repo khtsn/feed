@@ -1,30 +1,32 @@
-2024/05/25 21:26:35 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 292.696459ms
-2024/05/25 21:26:35 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/25 21:26:35 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 304.488774ms
-2024/05/25 21:26:35 Content still empty after HTML reader: https://www.hltv.org/news/39068/jl-on-major-mvp-it-was-my-dream-but-i-never-thought-it-was-possible
-2024/05/25 21:26:35 Content still empty after HTML reader: https://www.hltv.org/news/39047/sources-nicoodoz-to-sub-in-for-degster-at-iem-dallas
-2024/05/25 21:26:35 Content still empty after HTML reader: https://www.hltv.org/news/39067/pigeons-join-imperial-ahead-of-esl-impact-finals
-2024/05/25 21:26:35 Content still empty after HTML reader: https://www.hltv.org/news/39066/gob-b-removed-as-big-coach
-2024/05/25 21:26:35 Content still empty after HTML reader: https://www.hltv.org/news/39065/iem-dallas-to-be-played-on-new-update
-2024/05/25 21:26:35 Content still empty after HTML reader: https://www.hltv.org/news/39064/complexity-on-awp-role-hopefully-we-will-have-news-very-soon
-2024/05/25 21:26:35 Content still empty after HTML reader: https://www.hltv.org/news/39063/tsm-enter-esl-impact-with-shimmer-signing
-2024/05/25 21:26:35 Content still empty after HTML reader: https://www.hltv.org/news/39054/how-ninjas-in-pyjamas-hit-the-reset-button
-2024/05/25 21:26:35 Content still empty after HTML reader: https://www.hltv.org/news/39062/community-reacts-vertigo-economy-and-incendiary-changes
-2024/05/25 21:26:35 Content still empty after HTML reader: https://www.hltv.org/news/39061/iem-dallas-2024-teams-format-schedule-talent-prizes-fantasy
-2024/05/25 21:26:35 Fetched posts from https://www.hltv.org/rss/news, took 455.785015ms
-2024/05/25 21:26:35 Fetched posts from https://vlr.gg/rss, took 981.079992ms
-2024/05/25 21:26:36 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.198539909s
-2024/05/25 21:26:36 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.853149076s
-2024/05/25 21:26:37 Fetched posts from https://blogtienao.com/feed, took 2.498048896s
-2024/05/25 21:26:58 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 23.162183485s
-2024/05/25 21:26:58 Skipping writing post, no content: https://www.hltv.org/news/39068/jl-on-major-mvp-it-was-my-dream-but-i-never-thought-it-was-possible
-2024/05/25 21:26:58 Skipping writing post, no content: https://www.hltv.org/news/39047/sources-nicoodoz-to-sub-in-for-degster-at-iem-dallas
-2024/05/25 21:26:58 Skipping writing post, no content: https://www.hltv.org/news/39067/pigeons-join-imperial-ahead-of-esl-impact-finals
-2024/05/25 21:26:58 Skipping writing post, no content: https://www.hltv.org/news/39066/gob-b-removed-as-big-coach
-2024/05/25 21:26:58 Skipping writing post, no content: https://www.hltv.org/news/39065/iem-dallas-to-be-played-on-new-update
-2024/05/25 21:26:58 Skipping writing post, no content: https://www.hltv.org/news/39064/complexity-on-awp-role-hopefully-we-will-have-news-very-soon
-2024/05/25 21:26:58 Skipping writing post, no content: https://www.hltv.org/news/39063/tsm-enter-esl-impact-with-shimmer-signing
-2024/05/25 21:26:58 Skipping writing post, no content: https://www.hltv.org/news/39054/how-ninjas-in-pyjamas-hit-the-reset-button
-2024/05/25 21:26:58 Skipping writing post, no content: https://www.hltv.org/news/39062/community-reacts-vertigo-economy-and-incendiary-changes
-2024/05/25 21:26:58 Skipping writing post, no content: https://www.hltv.org/news/39061/iem-dallas-2024-teams-format-schedule-talent-prizes-fantasy
-2024/05/25 21:26:58 Templated 92 posts, took 15.568807ms
+2024/05/25 21:38:38 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/25 21:38:38 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 166.233463ms
+2024/05/25 21:38:38 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 204.423164ms
+2024/05/25 21:38:39 Fetched posts from https://vlr.gg/rss, took 602.345975ms
+2024/05/25 21:38:39 Content still empty after HTML reader: https://www.hltv.org/news/39068/jl-on-major-mvp-it-was-my-dream-but-i-never-thought-it-was-possible
+2024/05/25 21:38:39 Content still empty after HTML reader: https://www.hltv.org/news/39047/sources-nicoodoz-to-sub-in-for-degster-at-iem-dallas
+2024/05/25 21:38:39 Content still empty after HTML reader: https://www.hltv.org/news/39067/pigeons-join-imperial-ahead-of-esl-impact-finals
+2024/05/25 21:38:39 Content still empty after HTML reader: https://www.hltv.org/news/39066/gob-b-removed-as-big-coach
+2024/05/25 21:38:39 Content still empty after HTML reader: https://www.hltv.org/news/39065/iem-dallas-to-be-played-on-new-update
+2024/05/25 21:38:39 Content still empty after HTML reader: https://www.hltv.org/news/39064/complexity-on-awp-role-hopefully-we-will-have-news-very-soon
+2024/05/25 21:38:39 Content still empty after HTML reader: https://www.hltv.org/news/39063/tsm-enter-esl-impact-with-shimmer-signing
+2024/05/25 21:38:39 Content still empty after HTML reader: https://www.hltv.org/news/39054/how-ninjas-in-pyjamas-hit-the-reset-button
+2024/05/25 21:38:39 Content still empty after HTML reader: https://www.hltv.org/news/39062/community-reacts-vertigo-economy-and-incendiary-changes
+2024/05/25 21:38:39 Content still empty after HTML reader: https://www.nytimes.com/2024/05/24/movies/best-movies-2024-so-far.html
+2024/05/25 21:38:39 Content still empty after HTML reader: https://www.hltv.org/news/39061/iem-dallas-2024-teams-format-schedule-talent-prizes-fantasy
+2024/05/25 21:38:39 Fetched posts from https://www.hltv.org/rss/news, took 793.249111ms
+2024/05/25 21:38:39 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.038431922s
+2024/05/25 21:38:39 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.060232566s
+2024/05/25 21:38:40 Fetched posts from https://blogtienao.com/feed, took 2.216138439s
+2024/05/25 21:38:59 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.040171599s
+2024/05/25 21:38:59 Skipping writing post, no content: https://www.hltv.org/news/39068/jl-on-major-mvp-it-was-my-dream-but-i-never-thought-it-was-possible
+2024/05/25 21:38:59 Skipping writing post, no content: https://www.hltv.org/news/39047/sources-nicoodoz-to-sub-in-for-degster-at-iem-dallas
+2024/05/25 21:38:59 Skipping writing post, no content: https://www.hltv.org/news/39067/pigeons-join-imperial-ahead-of-esl-impact-finals
+2024/05/25 21:38:59 Skipping writing post, no content: https://www.hltv.org/news/39066/gob-b-removed-as-big-coach
+2024/05/25 21:38:59 Skipping writing post, no content: https://www.hltv.org/news/39065/iem-dallas-to-be-played-on-new-update
+2024/05/25 21:38:59 Skipping writing post, no content: https://www.hltv.org/news/39064/complexity-on-awp-role-hopefully-we-will-have-news-very-soon
+2024/05/25 21:38:59 Skipping writing post, no content: https://www.hltv.org/news/39063/tsm-enter-esl-impact-with-shimmer-signing
+2024/05/25 21:38:59 Skipping writing post, no content: https://www.hltv.org/news/39054/how-ninjas-in-pyjamas-hit-the-reset-button
+2024/05/25 21:38:59 Skipping writing post, no content: https://www.hltv.org/news/39062/community-reacts-vertigo-economy-and-incendiary-changes
+2024/05/25 21:38:59 Skipping writing post, no content: https://www.hltv.org/news/39061/iem-dallas-2024-teams-format-schedule-talent-prizes-fantasy
+2024/05/25 21:38:59 Skipping writing post, no content: https://www.nytimes.com/2024/05/24/movies/best-movies-2024-so-far.html
+2024/05/25 21:38:59 Templated 92 posts, took 15.417574ms
