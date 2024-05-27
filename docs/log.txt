@@ -1,30 +1,32 @@
-2024/05/27 17:28:27 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/27 17:28:27 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 137.457812ms
-2024/05/27 17:28:27 Content still empty after HTML reader: https://www.hltv.org/news/39073/short-news-week-4
-2024/05/27 17:28:27 Content still empty after HTML reader: https://www.hltv.org/news/39074/live-updates-from-iem-dallas-day-1
-2024/05/27 17:28:27 Content still empty after HTML reader: https://www.hltv.org/news/39069/mouz-could-go-from-pretenders-to-undisputed-at-iem-dallas
-2024/05/27 17:28:27 Content still empty after HTML reader: https://www.hltv.org/news/39072/all-you-need-to-know-about-iem-dallas-groups-fantasy
-2024/05/27 17:28:27 Content still empty after HTML reader: https://www.hltv.org/news/39057/at-a-crossroads-the-high-stakes-clash-between-complexity-and-liquid-at-iem-dallas
-2024/05/27 17:28:27 Content still empty after HTML reader: https://www.hltv.org/news/39071/themongolz-and-betboom-invited-to-yalla-compass
-2024/05/27 17:28:27 Content still empty after HTML reader: https://www.hltv.org/news/39070/esl-impact-league-season-5-finals-groups-announced
-2024/05/27 17:28:27 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 380.293174ms
-2024/05/27 17:28:27 Content still empty after HTML reader: https://www.hltv.org/news/39068/jl-on-major-mvp-it-was-my-dream-but-i-never-thought-it-was-possible
-2024/05/27 17:28:27 Content still empty after HTML reader: https://www.hltv.org/news/39047/sources-nicoodoz-to-sub-in-for-degster-at-iem-dallas
-2024/05/27 17:28:27 Content still empty after HTML reader: https://www.hltv.org/news/39067/pigeons-join-imperial-ahead-of-esl-impact-finals
-2024/05/27 17:28:27 Fetched posts from https://www.hltv.org/rss/news, took 406.118425ms
-2024/05/27 17:28:28 Fetched posts from https://vlr.gg/rss, took 1.440818396s
-2024/05/27 17:28:28 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.568218112s
-2024/05/27 17:28:29 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.34690225s
-2024/05/27 17:28:31 Fetched posts from https://blogtienao.com/feed, took 4.117541284s
-2024/05/27 17:28:47 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.020303367s
-2024/05/27 17:28:47 Skipping writing post, no content: https://www.hltv.org/news/39073/short-news-week-4
-2024/05/27 17:28:47 Skipping writing post, no content: https://www.hltv.org/news/39074/live-updates-from-iem-dallas-day-1
-2024/05/27 17:28:47 Skipping writing post, no content: https://www.hltv.org/news/39069/mouz-could-go-from-pretenders-to-undisputed-at-iem-dallas
-2024/05/27 17:28:47 Skipping writing post, no content: https://www.hltv.org/news/39072/all-you-need-to-know-about-iem-dallas-groups-fantasy
-2024/05/27 17:28:47 Skipping writing post, no content: https://www.hltv.org/news/39057/at-a-crossroads-the-high-stakes-clash-between-complexity-and-liquid-at-iem-dallas
-2024/05/27 17:28:47 Skipping writing post, no content: https://www.hltv.org/news/39071/themongolz-and-betboom-invited-to-yalla-compass
-2024/05/27 17:28:47 Skipping writing post, no content: https://www.hltv.org/news/39070/esl-impact-league-season-5-finals-groups-announced
-2024/05/27 17:28:47 Skipping writing post, no content: https://www.hltv.org/news/39068/jl-on-major-mvp-it-was-my-dream-but-i-never-thought-it-was-possible
-2024/05/27 17:28:47 Skipping writing post, no content: https://www.hltv.org/news/39047/sources-nicoodoz-to-sub-in-for-degster-at-iem-dallas
-2024/05/27 17:28:47 Skipping writing post, no content: https://www.hltv.org/news/39067/pigeons-join-imperial-ahead-of-esl-impact-finals
-2024/05/27 17:28:47 Templated 82 posts, took 12.56471ms
+2024/05/27 17:41:21 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 108.353448ms
+2024/05/27 17:41:21 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/27 17:41:21 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 204.12487ms
+2024/05/27 17:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39073/short-news-week-4
+2024/05/27 17:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39074/live-updates-from-iem-dallas-day-1
+2024/05/27 17:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39069/mouz-could-go-from-pretenders-to-undisputed-at-iem-dallas
+2024/05/27 17:41:21 Content still empty after HTML reader: https://www.nytimes.com/2024/05/27/nyregion/trump-trial-hush-money-weisselberg.html
+2024/05/27 17:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39072/all-you-need-to-know-about-iem-dallas-groups-fantasy
+2024/05/27 17:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39057/at-a-crossroads-the-high-stakes-clash-between-complexity-and-liquid-at-iem-dallas
+2024/05/27 17:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39071/themongolz-and-betboom-invited-to-yalla-compass
+2024/05/27 17:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39070/esl-impact-league-season-5-finals-groups-announced
+2024/05/27 17:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39068/jl-on-major-mvp-it-was-my-dream-but-i-never-thought-it-was-possible
+2024/05/27 17:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39047/sources-nicoodoz-to-sub-in-for-degster-at-iem-dallas
+2024/05/27 17:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39067/pigeons-join-imperial-ahead-of-esl-impact-finals
+2024/05/27 17:41:21 Fetched posts from https://www.hltv.org/rss/news, took 563.545578ms
+2024/05/27 17:41:22 Fetched posts from https://vlr.gg/rss, took 579.898805ms
+2024/05/27 17:41:22 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 802.153937ms
+2024/05/27 17:41:22 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 958.157385ms
+2024/05/27 17:41:25 Fetched posts from https://blogtienao.com/feed, took 4.186702418s
+2024/05/27 17:41:44 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 23.268071238s
+2024/05/27 17:41:44 Skipping writing post, no content: https://www.hltv.org/news/39073/short-news-week-4
+2024/05/27 17:41:44 Skipping writing post, no content: https://www.nytimes.com/2024/05/27/nyregion/trump-trial-hush-money-weisselberg.html
+2024/05/27 17:41:44 Skipping writing post, no content: https://www.hltv.org/news/39074/live-updates-from-iem-dallas-day-1
+2024/05/27 17:41:44 Skipping writing post, no content: https://www.hltv.org/news/39069/mouz-could-go-from-pretenders-to-undisputed-at-iem-dallas
+2024/05/27 17:41:44 Skipping writing post, no content: https://www.hltv.org/news/39072/all-you-need-to-know-about-iem-dallas-groups-fantasy
+2024/05/27 17:41:44 Skipping writing post, no content: https://www.hltv.org/news/39057/at-a-crossroads-the-high-stakes-clash-between-complexity-and-liquid-at-iem-dallas
+2024/05/27 17:41:44 Skipping writing post, no content: https://www.hltv.org/news/39071/themongolz-and-betboom-invited-to-yalla-compass
+2024/05/27 17:41:44 Skipping writing post, no content: https://www.hltv.org/news/39070/esl-impact-league-season-5-finals-groups-announced
+2024/05/27 17:41:44 Skipping writing post, no content: https://www.hltv.org/news/39068/jl-on-major-mvp-it-was-my-dream-but-i-never-thought-it-was-possible
+2024/05/27 17:41:44 Skipping writing post, no content: https://www.hltv.org/news/39047/sources-nicoodoz-to-sub-in-for-degster-at-iem-dallas
+2024/05/27 17:41:44 Skipping writing post, no content: https://www.hltv.org/news/39067/pigeons-join-imperial-ahead-of-esl-impact-finals
+2024/05/27 17:41:44 Templated 82 posts, took 12.5258ms
