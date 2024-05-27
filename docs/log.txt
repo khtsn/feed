@@ -1,30 +1,30 @@
-2024/05/26 23:52:32 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/26 23:52:32 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 100.425161ms
-2024/05/26 23:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39072/all-you-need-to-know-about-iem-dallas-groups-fantasy
-2024/05/26 23:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39057/at-a-crossroads-the-high-stakes-clash-between-complexity-and-liquid-at-iem-dallas
-2024/05/26 23:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39071/themongolz-and-betboom-invited-to-yalla-compass
-2024/05/26 23:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39070/esl-impact-league-season-5-finals-groups-announced
-2024/05/26 23:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39068/jl-on-major-mvp-it-was-my-dream-but-i-never-thought-it-was-possible
-2024/05/26 23:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39047/sources-nicoodoz-to-sub-in-for-degster-at-iem-dallas
-2024/05/26 23:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39067/pigeons-join-imperial-ahead-of-esl-impact-finals
-2024/05/26 23:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39066/gob-b-removed-as-big-coach
-2024/05/26 23:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39065/iem-dallas-to-be-played-on-new-update
-2024/05/26 23:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39064/complexity-on-awp-role-hopefully-we-will-have-news-very-soon
-2024/05/26 23:52:32 Fetched posts from https://www.hltv.org/rss/news, took 307.190669ms
-2024/05/26 23:52:32 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 415.714707ms
-2024/05/26 23:52:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 591.05829ms
-2024/05/26 23:52:33 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.206885397s
-2024/05/26 23:52:33 Fetched posts from https://vlr.gg/rss, took 1.34853394s
-2024/05/26 23:52:35 Fetched posts from https://blogtienao.com/feed, took 2.997772974s
-2024/05/26 23:52:48 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.537719482s
-2024/05/26 23:52:48 Skipping writing post, no content: https://www.hltv.org/news/39072/all-you-need-to-know-about-iem-dallas-groups-fantasy
-2024/05/26 23:52:48 Skipping writing post, no content: https://www.hltv.org/news/39057/at-a-crossroads-the-high-stakes-clash-between-complexity-and-liquid-at-iem-dallas
-2024/05/26 23:52:48 Skipping writing post, no content: https://www.hltv.org/news/39071/themongolz-and-betboom-invited-to-yalla-compass
-2024/05/26 23:52:48 Skipping writing post, no content: https://www.hltv.org/news/39070/esl-impact-league-season-5-finals-groups-announced
-2024/05/26 23:52:48 Skipping writing post, no content: https://www.hltv.org/news/39068/jl-on-major-mvp-it-was-my-dream-but-i-never-thought-it-was-possible
-2024/05/26 23:52:48 Skipping writing post, no content: https://www.hltv.org/news/39047/sources-nicoodoz-to-sub-in-for-degster-at-iem-dallas
-2024/05/26 23:52:48 Skipping writing post, no content: https://www.hltv.org/news/39067/pigeons-join-imperial-ahead-of-esl-impact-finals
-2024/05/26 23:52:48 Skipping writing post, no content: https://www.hltv.org/news/39066/gob-b-removed-as-big-coach
-2024/05/26 23:52:48 Skipping writing post, no content: https://www.hltv.org/news/39065/iem-dallas-to-be-played-on-new-update
-2024/05/26 23:52:48 Skipping writing post, no content: https://www.hltv.org/news/39064/complexity-on-awp-role-hopefully-we-will-have-news-very-soon
-2024/05/26 23:52:48 Templated 78 posts, took 12.024831ms
+2024/05/27 01:15:47 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 90.31004ms
+2024/05/27 01:15:47 Content still empty after HTML reader: https://www.hltv.org/news/39072/all-you-need-to-know-about-iem-dallas-groups-fantasy
+2024/05/27 01:15:47 Content still empty after HTML reader: https://www.hltv.org/news/39057/at-a-crossroads-the-high-stakes-clash-between-complexity-and-liquid-at-iem-dallas
+2024/05/27 01:15:47 Content still empty after HTML reader: https://www.hltv.org/news/39071/themongolz-and-betboom-invited-to-yalla-compass
+2024/05/27 01:15:47 Content still empty after HTML reader: https://www.hltv.org/news/39070/esl-impact-league-season-5-finals-groups-announced
+2024/05/27 01:15:47 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/27 01:15:47 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 337.468479ms
+2024/05/27 01:15:47 Content still empty after HTML reader: https://www.hltv.org/news/39068/jl-on-major-mvp-it-was-my-dream-but-i-never-thought-it-was-possible
+2024/05/27 01:15:47 Content still empty after HTML reader: https://www.hltv.org/news/39047/sources-nicoodoz-to-sub-in-for-degster-at-iem-dallas
+2024/05/27 01:15:48 Content still empty after HTML reader: https://www.hltv.org/news/39067/pigeons-join-imperial-ahead-of-esl-impact-finals
+2024/05/27 01:15:48 Content still empty after HTML reader: https://www.hltv.org/news/39066/gob-b-removed-as-big-coach
+2024/05/27 01:15:48 Content still empty after HTML reader: https://www.hltv.org/news/39065/iem-dallas-to-be-played-on-new-update
+2024/05/27 01:15:48 Content still empty after HTML reader: https://www.hltv.org/news/39064/complexity-on-awp-role-hopefully-we-will-have-news-very-soon
+2024/05/27 01:15:48 Fetched posts from https://www.hltv.org/rss/news, took 426.328889ms
+2024/05/27 01:15:48 Fetched posts from https://vlr.gg/rss, took 513.570016ms
+2024/05/27 01:15:48 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 738.119723ms
+2024/05/27 01:15:49 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.465963919s
+2024/05/27 01:15:49 Fetched posts from https://blogtienao.com/feed, took 2.275521568s
+2024/05/27 01:16:07 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.180111469s
+2024/05/27 01:16:07 Skipping writing post, no content: https://www.hltv.org/news/39072/all-you-need-to-know-about-iem-dallas-groups-fantasy
+2024/05/27 01:16:07 Skipping writing post, no content: https://www.hltv.org/news/39057/at-a-crossroads-the-high-stakes-clash-between-complexity-and-liquid-at-iem-dallas
+2024/05/27 01:16:07 Skipping writing post, no content: https://www.hltv.org/news/39071/themongolz-and-betboom-invited-to-yalla-compass
+2024/05/27 01:16:07 Skipping writing post, no content: https://www.hltv.org/news/39070/esl-impact-league-season-5-finals-groups-announced
+2024/05/27 01:16:07 Skipping writing post, no content: https://www.hltv.org/news/39068/jl-on-major-mvp-it-was-my-dream-but-i-never-thought-it-was-possible
+2024/05/27 01:16:07 Skipping writing post, no content: https://www.hltv.org/news/39047/sources-nicoodoz-to-sub-in-for-degster-at-iem-dallas
+2024/05/27 01:16:07 Skipping writing post, no content: https://www.hltv.org/news/39067/pigeons-join-imperial-ahead-of-esl-impact-finals
+2024/05/27 01:16:07 Skipping writing post, no content: https://www.hltv.org/news/39066/gob-b-removed-as-big-coach
+2024/05/27 01:16:07 Skipping writing post, no content: https://www.hltv.org/news/39065/iem-dallas-to-be-played-on-new-update
+2024/05/27 01:16:07 Skipping writing post, no content: https://www.hltv.org/news/39064/complexity-on-awp-role-hopefully-we-will-have-news-very-soon
+2024/05/27 01:16:07 Templated 77 posts, took 12.391388ms
