@@ -1,30 +1,28 @@
-2024/05/28 16:52:31 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/28 16:52:31 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 131.909244ms
-2024/05/28 16:52:31 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 177.167264ms
-2024/05/28 16:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39084/elige-this-was-a-really-disappointing-result
-2024/05/28 16:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39073/short-news-week-4
-2024/05/28 16:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39085/buda-our-goals-are-to-keep-getting-better-go-to-europe-and-become-a-stable-top-tier-team
-2024/05/28 16:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39088/live-updates-from-iem-dallas-day-2
-2024/05/28 16:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39087/fnatic-replace-cloud9-at-yalla-compass
-2024/05/28 16:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39086/apeks-put-cs-division-on-hold
-2024/05/28 16:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39083/9z-secure-iem-dallas-playoffs-spot-complexity-eliminated
-2024/05/28 16:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39074/live-updates-from-iem-dallas-day-1
-2024/05/28 16:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39082/new-montes-lan-debut-ends-in-last-place
-2024/05/28 16:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39081/vitality-make-dallas-playoffs-over-hooxi-less-g2
-2024/05/28 16:52:31 Fetched posts from https://www.hltv.org/rss/news, took 400.847026ms
-2024/05/28 16:52:31 Fetched posts from https://vlr.gg/rss, took 430.06284ms
-2024/05/28 16:52:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 727.067241ms
-2024/05/28 16:52:32 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.13343536s
-2024/05/28 16:52:33 Fetched posts from https://blogtienao.com/feed, took 2.172604461s
-2024/05/28 16:52:55 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 23.965431793s
-2024/05/28 16:52:55 Skipping writing post, no content: https://www.hltv.org/news/39084/elige-this-was-a-really-disappointing-result
-2024/05/28 16:52:55 Skipping writing post, no content: https://www.hltv.org/news/39073/short-news-week-4
-2024/05/28 16:52:55 Skipping writing post, no content: https://www.hltv.org/news/39085/buda-our-goals-are-to-keep-getting-better-go-to-europe-and-become-a-stable-top-tier-team
-2024/05/28 16:52:55 Skipping writing post, no content: https://www.hltv.org/news/39088/live-updates-from-iem-dallas-day-2
-2024/05/28 16:52:55 Skipping writing post, no content: https://www.hltv.org/news/39087/fnatic-replace-cloud9-at-yalla-compass
-2024/05/28 16:52:55 Skipping writing post, no content: https://www.hltv.org/news/39086/apeks-put-cs-division-on-hold
-2024/05/28 16:52:55 Skipping writing post, no content: https://www.hltv.org/news/39083/9z-secure-iem-dallas-playoffs-spot-complexity-eliminated
-2024/05/28 16:52:55 Skipping writing post, no content: https://www.hltv.org/news/39074/live-updates-from-iem-dallas-day-1
-2024/05/28 16:52:55 Skipping writing post, no content: https://www.hltv.org/news/39082/new-montes-lan-debut-ends-in-last-place
-2024/05/28 16:52:55 Skipping writing post, no content: https://www.hltv.org/news/39081/vitality-make-dallas-playoffs-over-hooxi-less-g2
-2024/05/28 16:52:55 Templated 83 posts, took 13.181525ms
+2024/05/28 17:15:38 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 122.647281ms
+2024/05/28 17:15:38 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/28 17:15:38 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 179.852431ms
+2024/05/28 17:15:38 Content still empty after HTML reader: https://www.hltv.org/news/39084/elige-this-was-a-really-disappointing-result
+2024/05/28 17:15:38 Content still empty after HTML reader: https://www.hltv.org/news/39073/short-news-week-4
+2024/05/28 17:15:38 Content still empty after HTML reader: https://www.hltv.org/news/39085/buda-our-goals-are-to-keep-getting-better-go-to-europe-and-become-a-stable-top-tier-team
+2024/05/28 17:15:38 Content still empty after HTML reader: https://www.hltv.org/news/39088/live-updates-from-iem-dallas-day-2
+2024/05/28 17:15:38 Content still empty after HTML reader: https://www.hltv.org/news/39087/fnatic-replace-cloud9-at-yalla-compass
+2024/05/28 17:15:38 Content still empty after HTML reader: https://www.hltv.org/news/39086/apeks-put-cs-division-on-hold
+2024/05/28 17:15:39 Content still empty after HTML reader: https://www.hltv.org/news/39083/9z-secure-iem-dallas-playoffs-spot-complexity-eliminated
+2024/05/28 17:15:39 Content still empty after HTML reader: https://www.hltv.org/news/39082/new-montes-lan-debut-ends-in-last-place
+2024/05/28 17:15:39 Content still empty after HTML reader: https://www.hltv.org/news/39081/vitality-make-dallas-playoffs-over-hooxi-less-g2
+2024/05/28 17:15:39 Fetched posts from https://www.hltv.org/rss/news, took 446.340178ms
+2024/05/28 17:15:39 Fetched posts from https://vlr.gg/rss, took 573.445951ms
+2024/05/28 17:15:39 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 675.290775ms
+2024/05/28 17:15:39 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.096133477s
+2024/05/28 17:15:45 Fetched posts from https://blogtienao.com/feed, took 7.170452535s
+2024/05/28 17:16:01 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.534955873s
+2024/05/28 17:16:01 Skipping writing post, no content: https://www.hltv.org/news/39084/elige-this-was-a-really-disappointing-result
+2024/05/28 17:16:01 Skipping writing post, no content: https://www.hltv.org/news/39073/short-news-week-4
+2024/05/28 17:16:01 Skipping writing post, no content: https://www.hltv.org/news/39085/buda-our-goals-are-to-keep-getting-better-go-to-europe-and-become-a-stable-top-tier-team
+2024/05/28 17:16:01 Skipping writing post, no content: https://www.hltv.org/news/39088/live-updates-from-iem-dallas-day-2
+2024/05/28 17:16:01 Skipping writing post, no content: https://www.hltv.org/news/39087/fnatic-replace-cloud9-at-yalla-compass
+2024/05/28 17:16:01 Skipping writing post, no content: https://www.hltv.org/news/39086/apeks-put-cs-division-on-hold
+2024/05/28 17:16:01 Skipping writing post, no content: https://www.hltv.org/news/39083/9z-secure-iem-dallas-playoffs-spot-complexity-eliminated
+2024/05/28 17:16:01 Skipping writing post, no content: https://www.hltv.org/news/39082/new-montes-lan-debut-ends-in-last-place
+2024/05/28 17:16:01 Skipping writing post, no content: https://www.hltv.org/news/39081/vitality-make-dallas-playoffs-over-hooxi-less-g2
+2024/05/28 17:16:01 Templated 81 posts, took 12.780639ms
