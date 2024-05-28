@@ -1,31 +1,31 @@
-2024/05/28 22:52:04 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 107.588319ms
-2024/05/28 22:52:04 error parsing https://blogtienao.com/feed: http error: 403 Forbidden
-2024/05/28 22:52:04 Fetched posts from https://blogtienao.com/feed, took 115.956888ms
-2024/05/28 22:52:04 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/28 22:52:04 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 202.374643ms
-2024/05/28 22:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39094/big-take-advantage-of-flyquest-choke-to-stay-alive-in-dallas
-2024/05/28 22:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39092/magixx-we-lost-those-series-this-year-only-because-of-some-mental-shit
-2024/05/28 22:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39091/heroic-exploit-m80s-mistakes-to-progress-in-dallas
-2024/05/28 22:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39090/spirit-ease-into-iem-dallas-playoffs-over-navi
-2024/05/28 22:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39084/elige-this-was-a-really-disappointing-result
-2024/05/28 22:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39073/short-news-week-4
-2024/05/28 22:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39085/buda-our-goals-are-to-keep-getting-better-go-to-europe-and-become-a-stable-top-tier-team
-2024/05/28 22:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39088/live-updates-from-iem-dallas-day-2
-2024/05/28 22:52:05 Fetched posts from https://vlr.gg/rss, took 510.888454ms
-2024/05/28 22:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39087/fnatic-replace-cloud9-at-yalla-compass
-2024/05/28 22:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39086/apeks-put-cs-division-on-hold
-2024/05/28 22:52:05 Fetched posts from https://www.hltv.org/rss/news, took 534.618391ms
-2024/05/28 22:52:05 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 966.92863ms
-2024/05/28 22:52:05 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.17433846s
-2024/05/28 22:52:31 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 26.517949587s
-2024/05/28 22:52:31 Skipping writing post, no content: https://www.hltv.org/news/39094/big-take-advantage-of-flyquest-choke-to-stay-alive-in-dallas
-2024/05/28 22:52:31 Skipping writing post, no content: https://www.hltv.org/news/39092/magixx-we-lost-those-series-this-year-only-because-of-some-mental-shit
-2024/05/28 22:52:31 Skipping writing post, no content: https://www.hltv.org/news/39091/heroic-exploit-m80s-mistakes-to-progress-in-dallas
-2024/05/28 22:52:31 Skipping writing post, no content: https://www.hltv.org/news/39090/spirit-ease-into-iem-dallas-playoffs-over-navi
-2024/05/28 22:52:31 Skipping writing post, no content: https://www.hltv.org/news/39084/elige-this-was-a-really-disappointing-result
-2024/05/28 22:52:31 Skipping writing post, no content: https://www.hltv.org/news/39073/short-news-week-4
-2024/05/28 22:52:31 Skipping writing post, no content: https://www.hltv.org/news/39085/buda-our-goals-are-to-keep-getting-better-go-to-europe-and-become-a-stable-top-tier-team
-2024/05/28 22:52:31 Skipping writing post, no content: https://www.hltv.org/news/39088/live-updates-from-iem-dallas-day-2
-2024/05/28 22:52:31 Skipping writing post, no content: https://www.hltv.org/news/39087/fnatic-replace-cloud9-at-yalla-compass
-2024/05/28 22:52:31 Skipping writing post, no content: https://www.hltv.org/news/39086/apeks-put-cs-division-on-hold
-2024/05/28 22:52:31 Templated 75 posts, took 11.906587ms
+2024/05/28 23:18:45 error parsing https://blogtienao.com/feed: http error: 403 Forbidden
+2024/05/28 23:18:45 Fetched posts from https://blogtienao.com/feed, took 69.692596ms
+2024/05/28 23:18:45 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 128.365738ms
+2024/05/28 23:18:46 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/28 23:18:46 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 285.607045ms
+2024/05/28 23:18:46 Content still empty after HTML reader: https://www.hltv.org/news/39094/big-take-advantage-of-flyquest-choke-to-stay-alive-in-dallas
+2024/05/28 23:18:46 Content still empty after HTML reader: https://www.hltv.org/news/39092/magixx-we-lost-those-series-this-year-only-because-of-some-mental-shit
+2024/05/28 23:18:46 Content still empty after HTML reader: https://www.hltv.org/news/39091/heroic-exploit-m80s-mistakes-to-progress-in-dallas
+2024/05/28 23:18:46 Content still empty after HTML reader: https://www.hltv.org/news/39090/spirit-ease-into-iem-dallas-playoffs-over-navi
+2024/05/28 23:18:46 Content still empty after HTML reader: https://www.hltv.org/news/39084/elige-this-was-a-really-disappointing-result
+2024/05/28 23:18:46 Content still empty after HTML reader: https://www.hltv.org/news/39073/short-news-week-4
+2024/05/28 23:18:46 Content still empty after HTML reader: https://www.hltv.org/news/39085/buda-our-goals-are-to-keep-getting-better-go-to-europe-and-become-a-stable-top-tier-team
+2024/05/28 23:18:46 Content still empty after HTML reader: https://www.hltv.org/news/39088/live-updates-from-iem-dallas-day-2
+2024/05/28 23:18:46 Content still empty after HTML reader: https://www.hltv.org/news/39087/fnatic-replace-cloud9-at-yalla-compass
+2024/05/28 23:18:46 Content still empty after HTML reader: https://www.hltv.org/news/39086/apeks-put-cs-division-on-hold
+2024/05/28 23:18:46 Fetched posts from https://www.hltv.org/rss/news, took 441.890401ms
+2024/05/28 23:18:46 Fetched posts from https://vlr.gg/rss, took 517.326669ms
+2024/05/28 23:18:46 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 862.766407ms
+2024/05/28 23:18:46 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.241950959s
+2024/05/28 23:19:08 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.557786387s
+2024/05/28 23:19:08 Skipping writing post, no content: https://www.hltv.org/news/39094/big-take-advantage-of-flyquest-choke-to-stay-alive-in-dallas
+2024/05/28 23:19:08 Skipping writing post, no content: https://www.hltv.org/news/39092/magixx-we-lost-those-series-this-year-only-because-of-some-mental-shit
+2024/05/28 23:19:08 Skipping writing post, no content: https://www.hltv.org/news/39091/heroic-exploit-m80s-mistakes-to-progress-in-dallas
+2024/05/28 23:19:08 Skipping writing post, no content: https://www.hltv.org/news/39090/spirit-ease-into-iem-dallas-playoffs-over-navi
+2024/05/28 23:19:08 Skipping writing post, no content: https://www.hltv.org/news/39084/elige-this-was-a-really-disappointing-result
+2024/05/28 23:19:08 Skipping writing post, no content: https://www.hltv.org/news/39073/short-news-week-4
+2024/05/28 23:19:08 Skipping writing post, no content: https://www.hltv.org/news/39085/buda-our-goals-are-to-keep-getting-better-go-to-europe-and-become-a-stable-top-tier-team
+2024/05/28 23:19:08 Skipping writing post, no content: https://www.hltv.org/news/39088/live-updates-from-iem-dallas-day-2
+2024/05/28 23:19:08 Skipping writing post, no content: https://www.hltv.org/news/39087/fnatic-replace-cloud9-at-yalla-compass
+2024/05/28 23:19:08 Skipping writing post, no content: https://www.hltv.org/news/39086/apeks-put-cs-division-on-hold
+2024/05/28 23:19:08 Templated 75 posts, took 11.871853ms
