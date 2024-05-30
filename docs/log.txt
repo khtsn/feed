@@ -1,31 +1,31 @@
-2024/05/30 08:39:12 error parsing https://blogtienao.com/feed: http error: 403 Forbidden
-2024/05/30 08:39:12 Fetched posts from https://blogtienao.com/feed, took 99.979479ms
-2024/05/30 08:39:12 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 167.379875ms
-2024/05/30 08:39:12 Content still empty after HTML reader: https://www.hltv.org/news/39110/virtuspro-remove-dastan
-2024/05/30 08:39:12 Content still empty after HTML reader: https://www.hltv.org/news/39108/iem-dallas-playoffs-bracket-set
-2024/05/30 08:39:12 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/30 08:39:12 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 333.017386ms
-2024/05/30 08:39:12 Content still empty after HTML reader: https://www.hltv.org/news/39109/g2-edge-out-liquid-to-secure-dallas-playoffs
-2024/05/30 08:39:12 Content still empty after HTML reader: https://www.hltv.org/news/39101/live-updates-from-iem-dallas-day-3
-2024/05/30 08:39:12 Content still empty after HTML reader: https://www.hltv.org/news/39107/heroic-bag-iem-dallas-playoff-spot-over-big
-2024/05/30 08:39:12 Content still empty after HTML reader: https://www.hltv.org/news/39106/tge-on-win-over-vitality-its-an-indescribable-sensation
-2024/05/30 08:39:12 Content still empty after HTML reader: https://www.hltv.org/news/39105/9z-and-spirit-surge-into-semi-finals-in-dallas
-2024/05/30 08:39:12 Content still empty after HTML reader: https://www.hltv.org/news/39073/short-news-week-4
-2024/05/30 08:39:12 Content still empty after HTML reader: https://www.hltv.org/news/39104/b1ad3-next-season-will-show-if-we-need-to-make-changes
-2024/05/30 08:39:12 Content still empty after HTML reader: https://www.hltv.org/news/39093/swisher-were-just-going-to-erase-everything-that-happened-here
-2024/05/30 08:39:12 Fetched posts from https://www.hltv.org/rss/news, took 407.381732ms
-2024/05/30 08:39:12 Fetched posts from https://vlr.gg/rss, took 516.872415ms
-2024/05/30 08:39:12 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 854.166594ms
-2024/05/30 08:39:13 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.062413434s
-2024/05/30 08:39:34 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.845449603s
-2024/05/30 08:39:34 Skipping writing post, no content: https://www.hltv.org/news/39110/virtuspro-remove-dastan
-2024/05/30 08:39:34 Skipping writing post, no content: https://www.hltv.org/news/39108/iem-dallas-playoffs-bracket-set
-2024/05/30 08:39:34 Skipping writing post, no content: https://www.hltv.org/news/39109/g2-edge-out-liquid-to-secure-dallas-playoffs
-2024/05/30 08:39:34 Skipping writing post, no content: https://www.hltv.org/news/39101/live-updates-from-iem-dallas-day-3
-2024/05/30 08:39:34 Skipping writing post, no content: https://www.hltv.org/news/39107/heroic-bag-iem-dallas-playoff-spot-over-big
-2024/05/30 08:39:34 Skipping writing post, no content: https://www.hltv.org/news/39106/tge-on-win-over-vitality-its-an-indescribable-sensation
-2024/05/30 08:39:34 Skipping writing post, no content: https://www.hltv.org/news/39105/9z-and-spirit-surge-into-semi-finals-in-dallas
-2024/05/30 08:39:34 Skipping writing post, no content: https://www.hltv.org/news/39073/short-news-week-4
-2024/05/30 08:39:34 Skipping writing post, no content: https://www.hltv.org/news/39104/b1ad3-next-season-will-show-if-we-need-to-make-changes
-2024/05/30 08:39:34 Skipping writing post, no content: https://www.hltv.org/news/39093/swisher-were-just-going-to-erase-everything-that-happened-here
-2024/05/30 08:39:34 Templated 72 posts, took 11.152105ms
+2024/05/30 08:52:07 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 101.289359ms
+2024/05/30 08:52:07 error parsing https://blogtienao.com/feed: http error: 403 Forbidden
+2024/05/30 08:52:07 Fetched posts from https://blogtienao.com/feed, took 104.700056ms
+2024/05/30 08:52:08 Fetched posts from https://vlr.gg/rss, took 257.935695ms
+2024/05/30 08:52:08 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/30 08:52:08 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 307.222702ms
+2024/05/30 08:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39110/virtuspro-remove-dastan
+2024/05/30 08:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39108/iem-dallas-playoffs-bracket-set
+2024/05/30 08:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39109/g2-edge-out-liquid-to-secure-dallas-playoffs
+2024/05/30 08:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39101/live-updates-from-iem-dallas-day-3
+2024/05/30 08:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39107/heroic-bag-iem-dallas-playoff-spot-over-big
+2024/05/30 08:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39106/tge-on-win-over-vitality-its-an-indescribable-sensation
+2024/05/30 08:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39105/9z-and-spirit-surge-into-semi-finals-in-dallas
+2024/05/30 08:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39073/short-news-week-4
+2024/05/30 08:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39104/b1ad3-next-season-will-show-if-we-need-to-make-changes
+2024/05/30 08:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39093/swisher-were-just-going-to-erase-everything-that-happened-here
+2024/05/30 08:52:08 Fetched posts from https://www.hltv.org/rss/news, took 406.219994ms
+2024/05/30 08:52:08 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 816.639219ms
+2024/05/30 08:52:08 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.107630124s
+2024/05/30 08:52:33 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 25.841940481s
+2024/05/30 08:52:33 Skipping writing post, no content: https://www.hltv.org/news/39110/virtuspro-remove-dastan
+2024/05/30 08:52:33 Skipping writing post, no content: https://www.hltv.org/news/39108/iem-dallas-playoffs-bracket-set
+2024/05/30 08:52:33 Skipping writing post, no content: https://www.hltv.org/news/39109/g2-edge-out-liquid-to-secure-dallas-playoffs
+2024/05/30 08:52:33 Skipping writing post, no content: https://www.hltv.org/news/39101/live-updates-from-iem-dallas-day-3
+2024/05/30 08:52:33 Skipping writing post, no content: https://www.hltv.org/news/39107/heroic-bag-iem-dallas-playoff-spot-over-big
+2024/05/30 08:52:33 Skipping writing post, no content: https://www.hltv.org/news/39106/tge-on-win-over-vitality-its-an-indescribable-sensation
+2024/05/30 08:52:33 Skipping writing post, no content: https://www.hltv.org/news/39105/9z-and-spirit-surge-into-semi-finals-in-dallas
+2024/05/30 08:52:33 Skipping writing post, no content: https://www.hltv.org/news/39073/short-news-week-4
+2024/05/30 08:52:33 Skipping writing post, no content: https://www.hltv.org/news/39104/b1ad3-next-season-will-show-if-we-need-to-make-changes
+2024/05/30 08:52:33 Skipping writing post, no content: https://www.hltv.org/news/39093/swisher-were-just-going-to-erase-everything-that-happened-here
+2024/05/30 08:52:33 Templated 72 posts, took 11.047913ms
