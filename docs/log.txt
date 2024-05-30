@@ -1,30 +1,32 @@
-2024/05/30 16:40:04 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 106.870699ms
-2024/05/30 16:40:04 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/30 16:40:04 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 176.808955ms
-2024/05/30 16:40:04 Fetched posts from https://vlr.gg/rss, took 361.144904ms
-2024/05/30 16:40:04 Content still empty after HTML reader: https://www.hltv.org/news/39114/twistzz-elige-goosebreeder-zaaz-steel-on-hltv-confirmed-live-in-texas
-2024/05/30 16:40:04 Content still empty after HTML reader: https://www.hltv.org/news/39089/styko-i-can-see-there-are-bandaids-being-thrown-around-in-this-team
-2024/05/30 16:40:04 Content still empty after HTML reader: https://www.hltv.org/news/39073/short-news-week-4
-2024/05/30 16:40:04 Content still empty after HTML reader: https://www.hltv.org/news/39113/9z-and-spirit-get-a-head-start-in-dallas-playoffs-fantasy-game
-2024/05/30 16:40:04 Content still empty after HTML reader: https://www.hltv.org/news/39112/spirit-vs-g2-headlines-first-round-of-blast-premier-spring-final
-2024/05/30 16:40:04 Content still empty after HTML reader: https://www.hltv.org/news/39100/elisa-masters-espoo-set-to-return-in-october
-2024/05/30 16:40:04 Content still empty after HTML reader: https://www.hltv.org/news/39111/yalla-compass-groups-and-schedule-revealed
-2024/05/30 16:40:04 Content still empty after HTML reader: https://www.hltv.org/news/39110/virtuspro-remove-dastan
-2024/05/30 16:40:04 Content still empty after HTML reader: https://www.hltv.org/news/39108/iem-dallas-playoffs-bracket-set
-2024/05/30 16:40:04 Content still empty after HTML reader: https://www.hltv.org/news/39109/g2-edge-out-liquid-to-secure-dallas-playoffs
-2024/05/30 16:40:04 Fetched posts from https://www.hltv.org/rss/news, took 494.822918ms
-2024/05/30 16:40:04 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 721.815424ms
-2024/05/30 16:40:04 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 897.725222ms
-2024/05/30 16:40:15 Fetched posts from https://blogtienao.com/feed, took 11.611183709s
-2024/05/30 16:40:27 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 23.827143295s
-2024/05/30 16:40:27 Skipping writing post, no content: https://www.hltv.org/news/39114/twistzz-elige-goosebreeder-zaaz-steel-on-hltv-confirmed-live-in-texas
-2024/05/30 16:40:27 Skipping writing post, no content: https://www.hltv.org/news/39089/styko-i-can-see-there-are-bandaids-being-thrown-around-in-this-team
-2024/05/30 16:40:27 Skipping writing post, no content: https://www.hltv.org/news/39073/short-news-week-4
-2024/05/30 16:40:27 Skipping writing post, no content: https://www.hltv.org/news/39113/9z-and-spirit-get-a-head-start-in-dallas-playoffs-fantasy-game
-2024/05/30 16:40:27 Skipping writing post, no content: https://www.hltv.org/news/39112/spirit-vs-g2-headlines-first-round-of-blast-premier-spring-final
-2024/05/30 16:40:27 Skipping writing post, no content: https://www.hltv.org/news/39100/elisa-masters-espoo-set-to-return-in-october
-2024/05/30 16:40:27 Skipping writing post, no content: https://www.hltv.org/news/39111/yalla-compass-groups-and-schedule-revealed
-2024/05/30 16:40:27 Skipping writing post, no content: https://www.hltv.org/news/39110/virtuspro-remove-dastan
-2024/05/30 16:40:27 Skipping writing post, no content: https://www.hltv.org/news/39108/iem-dallas-playoffs-bracket-set
-2024/05/30 16:40:27 Skipping writing post, no content: https://www.hltv.org/news/39109/g2-edge-out-liquid-to-secure-dallas-playoffs
-2024/05/30 16:40:27 Templated 83 posts, took 12.918014ms
+2024/05/30 16:52:23 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 143.459786ms
+2024/05/30 16:52:23 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/05/30 16:52:23 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 185.298329ms
+2024/05/30 16:52:23 Fetched posts from https://vlr.gg/rss, took 265.995327ms
+2024/05/30 16:52:23 Content still empty after HTML reader: https://www.hltv.org/news/39114/twistzz-elige-goosebreeder-zaaz-steel-on-hltv-confirmed-live-in-texas
+2024/05/30 16:52:23 Content still empty after HTML reader: https://www.hltv.org/news/39089/styko-i-can-see-there-are-bandaids-being-thrown-around-in-this-team
+2024/05/30 16:52:23 Content still empty after HTML reader: https://www.hltv.org/news/39073/short-news-week-4
+2024/05/30 16:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39113/9z-and-spirit-get-a-head-start-in-dallas-playoffs-fantasy-game
+2024/05/30 16:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39112/spirit-vs-g2-headlines-first-round-of-blast-premier-spring-final
+2024/05/30 16:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39100/elisa-masters-espoo-set-to-return-in-october
+2024/05/30 16:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39111/yalla-compass-groups-and-schedule-revealed
+2024/05/30 16:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39110/virtuspro-remove-dastan
+2024/05/30 16:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39108/iem-dallas-playoffs-bracket-set
+2024/05/30 16:52:24 Content still empty after HTML reader: https://www.nytimes.com/2024/05/30/world/europe/ukraine-russia-offensive-north.html
+2024/05/30 16:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39109/g2-edge-out-liquid-to-secure-dallas-playoffs
+2024/05/30 16:52:24 Fetched posts from https://www.hltv.org/rss/news, took 393.385036ms
+2024/05/30 16:52:24 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 440.82949ms
+2024/05/30 16:52:24 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 725.1697ms
+2024/05/30 16:52:32 Fetched posts from https://blogtienao.com/feed, took 8.487729096s
+2024/05/30 16:52:49 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 25.666508859s
+2024/05/30 16:52:49 Skipping writing post, no content: https://www.hltv.org/news/39114/twistzz-elige-goosebreeder-zaaz-steel-on-hltv-confirmed-live-in-texas
+2024/05/30 16:52:49 Skipping writing post, no content: https://www.hltv.org/news/39089/styko-i-can-see-there-are-bandaids-being-thrown-around-in-this-team
+2024/05/30 16:52:49 Skipping writing post, no content: https://www.hltv.org/news/39073/short-news-week-4
+2024/05/30 16:52:49 Skipping writing post, no content: https://www.nytimes.com/2024/05/30/world/europe/ukraine-russia-offensive-north.html
+2024/05/30 16:52:49 Skipping writing post, no content: https://www.hltv.org/news/39113/9z-and-spirit-get-a-head-start-in-dallas-playoffs-fantasy-game
+2024/05/30 16:52:49 Skipping writing post, no content: https://www.hltv.org/news/39112/spirit-vs-g2-headlines-first-round-of-blast-premier-spring-final
+2024/05/30 16:52:49 Skipping writing post, no content: https://www.hltv.org/news/39100/elisa-masters-espoo-set-to-return-in-october
+2024/05/30 16:52:49 Skipping writing post, no content: https://www.hltv.org/news/39111/yalla-compass-groups-and-schedule-revealed
+2024/05/30 16:52:49 Skipping writing post, no content: https://www.hltv.org/news/39110/virtuspro-remove-dastan
+2024/05/30 16:52:49 Skipping writing post, no content: https://www.hltv.org/news/39108/iem-dallas-playoffs-bracket-set
+2024/05/30 16:52:49 Skipping writing post, no content: https://www.hltv.org/news/39109/g2-edge-out-liquid-to-secure-dallas-playoffs
+2024/05/30 16:52:49 Templated 83 posts, took 13.3698ms
