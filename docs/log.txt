@@ -1,30 +1,30 @@
-2024/05/31 23:52:35 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/05/31 23:52:35 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 125.639742ms
-2024/05/31 23:52:35 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 427.155215ms
-2024/05/31 23:52:36 Content still empty after HTML reader: https://www.hltv.org/news/39122/g2-decimate-faze-en-route-to-iem-dallas-semis
-2024/05/31 23:52:36 Content still empty after HTML reader: https://www.hltv.org/news/39124/apex-i-will-have-some-duels-against-donk-ill-have-to-play-smart-or-more-crazy
-2024/05/31 23:52:36 Content still empty after HTML reader: https://www.hltv.org/news/39123/zews-were-trying-to-figure-out-every-possibility-to-make-ourselves-better
-2024/05/31 23:52:36 Content still empty after HTML reader: https://www.hltv.org/news/39073/short-news-week-4
-2024/05/31 23:52:36 Content still empty after HTML reader: https://www.hltv.org/news/39121/vitality-cruise-into-iem-dallas-semis-to-set-up-first-zywoo-vs-donk-clash
-2024/05/31 23:52:36 Content still empty after HTML reader: https://www.hltv.org/news/39120/community-reacts-valve-removes-major-open-qualifiers
-2024/05/31 23:52:36 Content still empty after HTML reader: https://www.hltv.org/news/39119/rmr-dates-create-scheduling-clash-with-blast-world-final
-2024/05/31 23:52:36 Content still empty after HTML reader: https://www.hltv.org/news/39118/live-updates-from-iem-dallas-quarter-finals
-2024/05/31 23:52:36 Content still empty after HTML reader: https://www.hltv.org/news/39117/open-qualifiers-removed-in-raft-of-major-rulebook-changes
-2024/05/31 23:52:36 Content still empty after HTML reader: https://www.hltv.org/news/39115/taz-stewie-is-able-to-show-the-guys-that-you-dont-need-to-stress-that-much
-2024/05/31 23:52:36 Fetched posts from https://www.hltv.org/rss/news, took 1.174205486s
-2024/05/31 23:52:36 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.225905304s
-2024/05/31 23:52:36 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.280334561s
-2024/05/31 23:52:36 Fetched posts from https://vlr.gg/rss, took 1.683911656s
-2024/05/31 23:52:38 Fetched posts from https://blogtienao.com/feed, took 3.487703091s
-2024/05/31 23:52:57 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.414883724s
-2024/05/31 23:52:57 Skipping writing post, no content: https://www.hltv.org/news/39122/g2-decimate-faze-en-route-to-iem-dallas-semis
-2024/05/31 23:52:57 Skipping writing post, no content: https://www.hltv.org/news/39124/apex-i-will-have-some-duels-against-donk-ill-have-to-play-smart-or-more-crazy
-2024/05/31 23:52:57 Skipping writing post, no content: https://www.hltv.org/news/39123/zews-were-trying-to-figure-out-every-possibility-to-make-ourselves-better
-2024/05/31 23:52:57 Skipping writing post, no content: https://www.hltv.org/news/39073/short-news-week-4
-2024/05/31 23:52:57 Skipping writing post, no content: https://www.hltv.org/news/39121/vitality-cruise-into-iem-dallas-semis-to-set-up-first-zywoo-vs-donk-clash
-2024/05/31 23:52:57 Skipping writing post, no content: https://www.hltv.org/news/39120/community-reacts-valve-removes-major-open-qualifiers
-2024/05/31 23:52:57 Skipping writing post, no content: https://www.hltv.org/news/39119/rmr-dates-create-scheduling-clash-with-blast-world-final
-2024/05/31 23:52:57 Skipping writing post, no content: https://www.hltv.org/news/39118/live-updates-from-iem-dallas-quarter-finals
-2024/05/31 23:52:57 Skipping writing post, no content: https://www.hltv.org/news/39117/open-qualifiers-removed-in-raft-of-major-rulebook-changes
-2024/05/31 23:52:57 Skipping writing post, no content: https://www.hltv.org/news/39115/taz-stewie-is-able-to-show-the-guys-that-you-dont-need-to-stress-that-much
-2024/05/31 23:52:57 Templated 91 posts, took 14.273365ms
+2024/06/01 01:20:06 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 124.450241ms
+2024/06/01 01:20:07 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/01 01:20:07 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 202.316215ms
+2024/06/01 01:20:07 Content still empty after HTML reader: https://www.hltv.org/news/39122/g2-decimate-faze-en-route-to-iem-dallas-semis
+2024/06/01 01:20:07 Content still empty after HTML reader: https://www.hltv.org/news/39124/apex-i-will-have-some-duels-against-donk-ill-have-to-play-smart-or-more-crazy
+2024/06/01 01:20:07 Content still empty after HTML reader: https://www.hltv.org/news/39123/zews-were-trying-to-figure-out-every-possibility-to-make-ourselves-better
+2024/06/01 01:20:07 Content still empty after HTML reader: https://www.hltv.org/news/39073/short-news-week-4
+2024/06/01 01:20:07 Content still empty after HTML reader: https://www.hltv.org/news/39121/vitality-cruise-into-iem-dallas-semis-to-set-up-first-zywoo-vs-donk-clash
+2024/06/01 01:20:07 Content still empty after HTML reader: https://www.hltv.org/news/39120/community-reacts-valve-removes-major-open-qualifiers
+2024/06/01 01:20:07 Content still empty after HTML reader: https://www.hltv.org/news/39119/rmr-dates-create-scheduling-clash-with-blast-world-final
+2024/06/01 01:20:07 Content still empty after HTML reader: https://www.hltv.org/news/39118/live-updates-from-iem-dallas-quarter-finals
+2024/06/01 01:20:07 Content still empty after HTML reader: https://www.hltv.org/news/39117/open-qualifiers-removed-in-raft-of-major-rulebook-changes
+2024/06/01 01:20:07 Content still empty after HTML reader: https://www.hltv.org/news/39115/taz-stewie-is-able-to-show-the-guys-that-you-dont-need-to-stress-that-much
+2024/06/01 01:20:07 Fetched posts from https://www.hltv.org/rss/news, took 411.84555ms
+2024/06/01 01:20:07 Fetched posts from https://vlr.gg/rss, took 594.103038ms
+2024/06/01 01:20:07 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.094637055s
+2024/06/01 01:20:08 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.363703841s
+2024/06/01 01:20:11 Fetched posts from https://blogtienao.com/feed, took 4.971805809s
+2024/06/01 01:20:31 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 24.210061801s
+2024/06/01 01:20:31 Skipping writing post, no content: https://www.hltv.org/news/39122/g2-decimate-faze-en-route-to-iem-dallas-semis
+2024/06/01 01:20:31 Skipping writing post, no content: https://www.hltv.org/news/39124/apex-i-will-have-some-duels-against-donk-ill-have-to-play-smart-or-more-crazy
+2024/06/01 01:20:31 Skipping writing post, no content: https://www.hltv.org/news/39123/zews-were-trying-to-figure-out-every-possibility-to-make-ourselves-better
+2024/06/01 01:20:31 Skipping writing post, no content: https://www.hltv.org/news/39073/short-news-week-4
+2024/06/01 01:20:31 Skipping writing post, no content: https://www.hltv.org/news/39121/vitality-cruise-into-iem-dallas-semis-to-set-up-first-zywoo-vs-donk-clash
+2024/06/01 01:20:31 Skipping writing post, no content: https://www.hltv.org/news/39120/community-reacts-valve-removes-major-open-qualifiers
+2024/06/01 01:20:31 Skipping writing post, no content: https://www.hltv.org/news/39119/rmr-dates-create-scheduling-clash-with-blast-world-final
+2024/06/01 01:20:31 Skipping writing post, no content: https://www.hltv.org/news/39118/live-updates-from-iem-dallas-quarter-finals
+2024/06/01 01:20:31 Skipping writing post, no content: https://www.hltv.org/news/39117/open-qualifiers-removed-in-raft-of-major-rulebook-changes
+2024/06/01 01:20:31 Skipping writing post, no content: https://www.hltv.org/news/39115/taz-stewie-is-able-to-show-the-guys-that-you-dont-need-to-stress-that-much
+2024/06/01 01:20:31 Templated 92 posts, took 14.612008ms
