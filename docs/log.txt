@@ -1,30 +1,30 @@
-2024/06/02 06:39:39 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 108.050679ms
-2024/06/02 06:39:39 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/02 06:39:39 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 323.817258ms
-2024/06/02 06:39:39 Content still empty after HTML reader: https://www.hltv.org/news/39132/giant-clash-out-of-the-picture-as-navi-javelins-miss-esl-impact-playoffs
-2024/06/02 06:39:39 Content still empty after HTML reader: https://www.hltv.org/news/39073/short-news-week-4
-2024/06/02 06:39:39 Content still empty after HTML reader: https://www.hltv.org/news/39131/nexa-i-have-no-doubt-that-stewie2k-will-find-his-place
-2024/06/02 06:39:39 Content still empty after HTML reader: https://www.hltv.org/news/39130/g2-edge-out-9z-to-reach-first-grand-final-in-cs2
-2024/06/02 06:39:39 Content still empty after HTML reader: https://www.hltv.org/news/39127/live-updates-from-iem-dallas-semi-finals
-2024/06/02 06:39:39 Content still empty after HTML reader: https://www.hltv.org/news/39129/karrigan-we-had-a-two-hour-team-talk-for-the-first-time-in-two-years
-2024/06/02 06:39:39 Content still empty after HTML reader: https://www.hltv.org/news/39128/vitality-take-down-spirit-to-reach-second-final-in-a-row
-2024/06/02 06:39:39 Content still empty after HTML reader: https://www.hltv.org/news/39126/themongolz-into-nomadic-masters-grand-final
-2024/06/02 06:39:39 Content still empty after HTML reader: https://www.hltv.org/news/39125/stewie2k-hopefully-this-event-shows-i-can-still-hang-at-this-level
-2024/06/02 06:39:39 Content still empty after HTML reader: https://www.hltv.org/news/39122/g2-decimate-faze-en-route-to-iem-dallas-semis
-2024/06/02 06:39:39 Fetched posts from https://www.hltv.org/rss/news, took 423.590682ms
-2024/06/02 06:39:40 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 727.095129ms
-2024/06/02 06:39:40 Fetched posts from https://vlr.gg/rss, took 998.403464ms
-2024/06/02 06:39:40 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.381304612s
-2024/06/02 06:39:44 Fetched posts from https://blogtienao.com/feed, took 5.178037752s
-2024/06/02 06:40:03 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 23.848465146s
-2024/06/02 06:40:03 Skipping writing post, no content: https://www.hltv.org/news/39132/giant-clash-out-of-the-picture-as-navi-javelins-miss-esl-impact-playoffs
-2024/06/02 06:40:03 Skipping writing post, no content: https://www.hltv.org/news/39073/short-news-week-4
-2024/06/02 06:40:03 Skipping writing post, no content: https://www.hltv.org/news/39131/nexa-i-have-no-doubt-that-stewie2k-will-find-his-place
-2024/06/02 06:40:03 Skipping writing post, no content: https://www.hltv.org/news/39130/g2-edge-out-9z-to-reach-first-grand-final-in-cs2
-2024/06/02 06:40:03 Skipping writing post, no content: https://www.hltv.org/news/39127/live-updates-from-iem-dallas-semi-finals
-2024/06/02 06:40:03 Skipping writing post, no content: https://www.hltv.org/news/39129/karrigan-we-had-a-two-hour-team-talk-for-the-first-time-in-two-years
-2024/06/02 06:40:03 Skipping writing post, no content: https://www.hltv.org/news/39128/vitality-take-down-spirit-to-reach-second-final-in-a-row
-2024/06/02 06:40:03 Skipping writing post, no content: https://www.hltv.org/news/39126/themongolz-into-nomadic-masters-grand-final
-2024/06/02 06:40:03 Skipping writing post, no content: https://www.hltv.org/news/39125/stewie2k-hopefully-this-event-shows-i-can-still-hang-at-this-level
-2024/06/02 06:40:03 Skipping writing post, no content: https://www.hltv.org/news/39122/g2-decimate-faze-en-route-to-iem-dallas-semis
-2024/06/02 06:40:03 Templated 83 posts, took 16.245836ms
+2024/06/02 06:52:34 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 116.6937ms
+2024/06/02 06:52:34 Content still empty after HTML reader: https://www.hltv.org/news/39132/giant-clash-out-of-the-picture-as-navi-javelins-miss-esl-impact-playoffs
+2024/06/02 06:52:34 Content still empty after HTML reader: https://www.hltv.org/news/39073/short-news-week-4
+2024/06/02 06:52:34 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/02 06:52:34 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 326.841254ms
+2024/06/02 06:52:34 Content still empty after HTML reader: https://www.hltv.org/news/39131/nexa-i-have-no-doubt-that-stewie2k-will-find-his-place
+2024/06/02 06:52:34 Content still empty after HTML reader: https://www.hltv.org/news/39130/g2-edge-out-9z-to-reach-first-grand-final-in-cs2
+2024/06/02 06:52:34 Content still empty after HTML reader: https://www.hltv.org/news/39127/live-updates-from-iem-dallas-semi-finals
+2024/06/02 06:52:34 Content still empty after HTML reader: https://www.hltv.org/news/39129/karrigan-we-had-a-two-hour-team-talk-for-the-first-time-in-two-years
+2024/06/02 06:52:34 Content still empty after HTML reader: https://www.hltv.org/news/39128/vitality-take-down-spirit-to-reach-second-final-in-a-row
+2024/06/02 06:52:34 Content still empty after HTML reader: https://www.hltv.org/news/39126/themongolz-into-nomadic-masters-grand-final
+2024/06/02 06:52:34 Content still empty after HTML reader: https://www.hltv.org/news/39125/stewie2k-hopefully-this-event-shows-i-can-still-hang-at-this-level
+2024/06/02 06:52:34 Content still empty after HTML reader: https://www.hltv.org/news/39122/g2-decimate-faze-en-route-to-iem-dallas-semis
+2024/06/02 06:52:34 Fetched posts from https://www.hltv.org/rss/news, took 424.066077ms
+2024/06/02 06:52:35 Fetched posts from https://vlr.gg/rss, took 595.152071ms
+2024/06/02 06:52:35 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 717.664153ms
+2024/06/02 06:52:35 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 753.504776ms
+2024/06/02 06:52:40 Fetched posts from https://blogtienao.com/feed, took 6.072715719s
+2024/06/02 06:52:55 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.164269566s
+2024/06/02 06:52:55 Skipping writing post, no content: https://www.hltv.org/news/39132/giant-clash-out-of-the-picture-as-navi-javelins-miss-esl-impact-playoffs
+2024/06/02 06:52:55 Skipping writing post, no content: https://www.hltv.org/news/39073/short-news-week-4
+2024/06/02 06:52:55 Skipping writing post, no content: https://www.hltv.org/news/39131/nexa-i-have-no-doubt-that-stewie2k-will-find-his-place
+2024/06/02 06:52:55 Skipping writing post, no content: https://www.hltv.org/news/39130/g2-edge-out-9z-to-reach-first-grand-final-in-cs2
+2024/06/02 06:52:55 Skipping writing post, no content: https://www.hltv.org/news/39127/live-updates-from-iem-dallas-semi-finals
+2024/06/02 06:52:55 Skipping writing post, no content: https://www.hltv.org/news/39129/karrigan-we-had-a-two-hour-team-talk-for-the-first-time-in-two-years
+2024/06/02 06:52:55 Skipping writing post, no content: https://www.hltv.org/news/39128/vitality-take-down-spirit-to-reach-second-final-in-a-row
+2024/06/02 06:52:55 Skipping writing post, no content: https://www.hltv.org/news/39126/themongolz-into-nomadic-masters-grand-final
+2024/06/02 06:52:55 Skipping writing post, no content: https://www.hltv.org/news/39125/stewie2k-hopefully-this-event-shows-i-can-still-hang-at-this-level
+2024/06/02 06:52:55 Skipping writing post, no content: https://www.hltv.org/news/39122/g2-decimate-faze-en-route-to-iem-dallas-semis
+2024/06/02 06:52:55 Templated 83 posts, took 13.811417ms
