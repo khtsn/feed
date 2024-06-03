@@ -1,30 +1,30 @@
-2024/06/03 18:24:39 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/03 18:24:39 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 120.754788ms
-2024/06/03 18:24:39 Content still empty after HTML reader: https://www.hltv.org/news/39145/short-news-week-5
-2024/06/03 18:24:39 Content still empty after HTML reader: https://www.hltv.org/news/39147/intel-grand-slam-race-heats-up-as-g2-pick-up-second-trophy
-2024/06/03 18:24:39 Content still empty after HTML reader: https://www.hltv.org/news/39141/m0nesy-we-shouldnt-forget-the-experience-from-this-event-and-we-should-share-it-with-hooxi
-2024/06/03 18:24:39 Content still empty after HTML reader: https://www.hltv.org/news/39146/9-pandas-add-shalfey-and-fierce
-2024/06/03 18:24:39 Content still empty after HTML reader: https://www.hltv.org/news/39144/g2-secure-iem-cologne-berth-with-dallas-victory
-2024/06/03 18:24:39 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 254.432078ms
-2024/06/03 18:24:39 Content still empty after HTML reader: https://www.hltv.org/news/39143/seized-benched-by-9-pandas
-2024/06/03 18:24:39 Content still empty after HTML reader: https://www.hltv.org/news/39142/xoma-named-new-virtuspro-coach
-2024/06/03 18:24:39 Content still empty after HTML reader: https://www.hltv.org/news/39140/imperial-fe-win-seventh-consecutive-esl-impact-lan-title
-2024/06/03 18:24:39 Content still empty after HTML reader: https://www.hltv.org/news/39133/live-updates-from-iem-dallas-grand-final
-2024/06/03 18:24:39 Content still empty after HTML reader: https://www.hltv.org/news/39138/m0nesy-claims-iem-dallas-mvp
-2024/06/03 18:24:39 Fetched posts from https://www.hltv.org/rss/news, took 298.818368ms
-2024/06/03 18:24:39 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 550.766095ms
-2024/06/03 18:24:40 Fetched posts from https://vlr.gg/rss, took 1.039377215s
-2024/06/03 18:24:40 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.044636864s
-2024/06/03 18:24:42 Fetched posts from https://blogtienao.com/feed, took 3.526007216s
-2024/06/03 18:24:55 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.389280331s
-2024/06/03 18:24:55 Skipping writing post, no content: https://www.hltv.org/news/39145/short-news-week-5
-2024/06/03 18:24:55 Skipping writing post, no content: https://www.hltv.org/news/39147/intel-grand-slam-race-heats-up-as-g2-pick-up-second-trophy
-2024/06/03 18:24:55 Skipping writing post, no content: https://www.hltv.org/news/39141/m0nesy-we-shouldnt-forget-the-experience-from-this-event-and-we-should-share-it-with-hooxi
-2024/06/03 18:24:55 Skipping writing post, no content: https://www.hltv.org/news/39146/9-pandas-add-shalfey-and-fierce
-2024/06/03 18:24:55 Skipping writing post, no content: https://www.hltv.org/news/39144/g2-secure-iem-cologne-berth-with-dallas-victory
-2024/06/03 18:24:55 Skipping writing post, no content: https://www.hltv.org/news/39143/seized-benched-by-9-pandas
-2024/06/03 18:24:55 Skipping writing post, no content: https://www.hltv.org/news/39142/xoma-named-new-virtuspro-coach
-2024/06/03 18:24:55 Skipping writing post, no content: https://www.hltv.org/news/39140/imperial-fe-win-seventh-consecutive-esl-impact-lan-title
-2024/06/03 18:24:55 Skipping writing post, no content: https://www.hltv.org/news/39133/live-updates-from-iem-dallas-grand-final
-2024/06/03 18:24:55 Skipping writing post, no content: https://www.hltv.org/news/39138/m0nesy-claims-iem-dallas-mvp
-2024/06/03 18:24:55 Templated 79 posts, took 12.432416ms
+2024/06/03 18:40:42 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 192.721171ms
+2024/06/03 18:40:42 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/03 18:40:42 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 208.165211ms
+2024/06/03 18:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39145/short-news-week-5
+2024/06/03 18:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39147/intel-grand-slam-race-heats-up-as-g2-pick-up-second-trophy
+2024/06/03 18:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39141/m0nesy-we-shouldnt-forget-the-experience-from-this-event-and-we-should-share-it-with-hooxi
+2024/06/03 18:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39146/9-pandas-add-shalfey-and-fierce
+2024/06/03 18:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39144/g2-secure-iem-cologne-berth-with-dallas-victory
+2024/06/03 18:40:42 Fetched posts from https://vlr.gg/rss, took 471.291329ms
+2024/06/03 18:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39143/seized-benched-by-9-pandas
+2024/06/03 18:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39142/xoma-named-new-virtuspro-coach
+2024/06/03 18:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39140/imperial-fe-win-seventh-consecutive-esl-impact-lan-title
+2024/06/03 18:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39133/live-updates-from-iem-dallas-grand-final
+2024/06/03 18:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39138/m0nesy-claims-iem-dallas-mvp
+2024/06/03 18:40:42 Fetched posts from https://www.hltv.org/rss/news, took 564.150743ms
+2024/06/03 18:40:42 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 748.95354ms
+2024/06/03 18:40:43 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.271078258s
+2024/06/03 18:40:47 Fetched posts from https://blogtienao.com/feed, took 5.82312501s
+2024/06/03 18:41:04 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.355387218s
+2024/06/03 18:41:04 Skipping writing post, no content: https://www.hltv.org/news/39145/short-news-week-5
+2024/06/03 18:41:04 Skipping writing post, no content: https://www.hltv.org/news/39147/intel-grand-slam-race-heats-up-as-g2-pick-up-second-trophy
+2024/06/03 18:41:04 Skipping writing post, no content: https://www.hltv.org/news/39141/m0nesy-we-shouldnt-forget-the-experience-from-this-event-and-we-should-share-it-with-hooxi
+2024/06/03 18:41:04 Skipping writing post, no content: https://www.hltv.org/news/39146/9-pandas-add-shalfey-and-fierce
+2024/06/03 18:41:04 Skipping writing post, no content: https://www.hltv.org/news/39144/g2-secure-iem-cologne-berth-with-dallas-victory
+2024/06/03 18:41:04 Skipping writing post, no content: https://www.hltv.org/news/39143/seized-benched-by-9-pandas
+2024/06/03 18:41:04 Skipping writing post, no content: https://www.hltv.org/news/39142/xoma-named-new-virtuspro-coach
+2024/06/03 18:41:04 Skipping writing post, no content: https://www.hltv.org/news/39140/imperial-fe-win-seventh-consecutive-esl-impact-lan-title
+2024/06/03 18:41:04 Skipping writing post, no content: https://www.hltv.org/news/39133/live-updates-from-iem-dallas-grand-final
+2024/06/03 18:41:04 Skipping writing post, no content: https://www.hltv.org/news/39138/m0nesy-claims-iem-dallas-mvp
+2024/06/03 18:41:04 Templated 79 posts, took 12.664143ms
