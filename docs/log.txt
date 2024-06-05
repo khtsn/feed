@@ -1,30 +1,32 @@
-2024/06/05 18:39:30 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/05 18:39:30 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 172.630403ms
-2024/06/05 18:39:30 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 247.262638ms
-2024/06/05 18:39:30 Content still empty after HTML reader: https://www.hltv.org/news/39161/esl-challenger-jnkping-groups-seeds-revealed
-2024/06/05 18:39:30 Content still empty after HTML reader: https://www.hltv.org/news/39160/lynn-vision-confirm-flying-deal
-2024/06/05 18:39:30 Content still empty after HTML reader: https://www.hltv.org/news/39145/short-news-week-5
-2024/06/05 18:39:30 Content still empty after HTML reader: https://www.hltv.org/news/39159/sashi-stun-astralis-in-abu-dhabi
-2024/06/05 18:39:30 Content still empty after HTML reader: https://www.hltv.org/news/39158/blast-announce-spring-final-talent
-2024/06/05 18:39:31 Content still empty after HTML reader: https://www.hltv.org/news/39157/live-updates-from-yalla-compass-day-1
-2024/06/05 18:39:31 Content still empty after HTML reader: https://www.hltv.org/news/39156/hltv-confirmed-iem-dallas-review-major-changes-analyzed
-2024/06/05 18:39:31 Content still empty after HTML reader: https://www.hltv.org/news/39152/sdy-ence-was-the-best-opportunity-for-me
-2024/06/05 18:39:31 Content still empty after HTML reader: https://www.hltv.org/news/39155/ination-cease-operations
-2024/06/05 18:39:31 Content still empty after HTML reader: https://www.hltv.org/news/39154/seasons-penultimate-fantasy-game-underway-with-yalla-compass
-2024/06/05 18:39:31 Fetched posts from https://www.hltv.org/rss/news, took 595.205624ms
-2024/06/05 18:39:31 Fetched posts from https://vlr.gg/rss, took 1.053048533s
-2024/06/05 18:39:31 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.228643862s
-2024/06/05 18:39:31 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.39508498s
-2024/06/05 18:39:38 Fetched posts from https://blogtienao.com/feed, took 7.776416354s
-2024/06/05 18:39:47 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.424713632s
-2024/06/05 18:39:47 Skipping writing post, no content: https://www.hltv.org/news/39161/esl-challenger-jnkping-groups-seeds-revealed
-2024/06/05 18:39:47 Skipping writing post, no content: https://www.hltv.org/news/39160/lynn-vision-confirm-flying-deal
-2024/06/05 18:39:47 Skipping writing post, no content: https://www.hltv.org/news/39145/short-news-week-5
-2024/06/05 18:39:47 Skipping writing post, no content: https://www.hltv.org/news/39159/sashi-stun-astralis-in-abu-dhabi
-2024/06/05 18:39:47 Skipping writing post, no content: https://www.hltv.org/news/39158/blast-announce-spring-final-talent
-2024/06/05 18:39:47 Skipping writing post, no content: https://www.hltv.org/news/39157/live-updates-from-yalla-compass-day-1
-2024/06/05 18:39:47 Skipping writing post, no content: https://www.hltv.org/news/39156/hltv-confirmed-iem-dallas-review-major-changes-analyzed
-2024/06/05 18:39:47 Skipping writing post, no content: https://www.hltv.org/news/39152/sdy-ence-was-the-best-opportunity-for-me
-2024/06/05 18:39:47 Skipping writing post, no content: https://www.hltv.org/news/39155/ination-cease-operations
-2024/06/05 18:39:47 Skipping writing post, no content: https://www.hltv.org/news/39154/seasons-penultimate-fantasy-game-underway-with-yalla-compass
-2024/06/05 18:39:47 Templated 84 posts, took 13.628784ms
+2024/06/05 18:52:13 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/05 18:52:13 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 174.173904ms
+2024/06/05 18:52:13 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 262.41946ms
+2024/06/05 18:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39161/esl-challenger-jnkping-groups-seeds-revealed
+2024/06/05 18:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39160/lynn-vision-confirm-flying-deal
+2024/06/05 18:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39145/short-news-week-5
+2024/06/05 18:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39159/sashi-stun-astralis-in-abu-dhabi
+2024/06/05 18:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39158/blast-announce-spring-final-talent
+2024/06/05 18:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39157/live-updates-from-yalla-compass-day-1
+2024/06/05 18:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39156/hltv-confirmed-iem-dallas-review-major-changes-analyzed
+2024/06/05 18:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39152/sdy-ence-was-the-best-opportunity-for-me
+2024/06/05 18:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39155/ination-cease-operations
+2024/06/05 18:52:13 Content still empty after HTML reader: https://www.nytimes.com/2024/06/05/opinion/trump-verdict-felon-campaign.html
+2024/06/05 18:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39154/seasons-penultimate-fantasy-game-underway-with-yalla-compass
+2024/06/05 18:52:13 Fetched posts from https://www.hltv.org/rss/news, took 919.209381ms
+2024/06/05 18:52:14 Fetched posts from https://vlr.gg/rss, took 1.098164193s
+2024/06/05 18:52:14 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.231626465s
+2024/06/05 18:52:14 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.282686034s
+2024/06/05 18:52:16 Fetched posts from https://blogtienao.com/feed, took 3.440885318s
+2024/06/05 18:52:30 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.578408791s
+2024/06/05 18:52:30 Skipping writing post, no content: https://www.hltv.org/news/39161/esl-challenger-jnkping-groups-seeds-revealed
+2024/06/05 18:52:30 Skipping writing post, no content: https://www.hltv.org/news/39160/lynn-vision-confirm-flying-deal
+2024/06/05 18:52:30 Skipping writing post, no content: https://www.nytimes.com/2024/06/05/opinion/trump-verdict-felon-campaign.html
+2024/06/05 18:52:30 Skipping writing post, no content: https://www.hltv.org/news/39145/short-news-week-5
+2024/06/05 18:52:30 Skipping writing post, no content: https://www.hltv.org/news/39159/sashi-stun-astralis-in-abu-dhabi
+2024/06/05 18:52:30 Skipping writing post, no content: https://www.hltv.org/news/39158/blast-announce-spring-final-talent
+2024/06/05 18:52:30 Skipping writing post, no content: https://www.hltv.org/news/39157/live-updates-from-yalla-compass-day-1
+2024/06/05 18:52:30 Skipping writing post, no content: https://www.hltv.org/news/39156/hltv-confirmed-iem-dallas-review-major-changes-analyzed
+2024/06/05 18:52:30 Skipping writing post, no content: https://www.hltv.org/news/39152/sdy-ence-was-the-best-opportunity-for-me
+2024/06/05 18:52:30 Skipping writing post, no content: https://www.hltv.org/news/39155/ination-cease-operations
+2024/06/05 18:52:30 Skipping writing post, no content: https://www.hltv.org/news/39154/seasons-penultimate-fantasy-game-underway-with-yalla-compass
+2024/06/05 18:52:30 Templated 86 posts, took 12.87493ms
