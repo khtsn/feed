@@ -1,30 +1,30 @@
-2024/06/05 02:16:47 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 182.837951ms
-2024/06/05 02:16:48 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/05 02:16:48 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 333.955449ms
-2024/06/05 02:16:48 Fetched posts from https://vlr.gg/rss, took 376.327834ms
-2024/06/05 02:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39145/short-news-week-5
-2024/06/05 02:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39152/sdy-ence-was-the-best-opportunity-for-me
-2024/06/05 02:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39155/ination-cease-operations
-2024/06/05 02:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39154/seasons-penultimate-fantasy-game-underway-with-yalla-compass
-2024/06/05 02:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39150/hunden-i-think-weve-succeeded-in-creating-the-next-talent-place-in-denmark
-2024/06/05 02:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39153/bymas-enters-free-agency
-2024/06/05 02:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39151/yalla-compass-2024-teams-format-schedule-talent-prizes-fantasy
-2024/06/05 02:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39149/zaaz-i-belong-here
-2024/06/05 02:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39148/team-ranking-may-2024
-2024/06/05 02:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39147/intel-grand-slam-race-heats-up-as-g2-pick-up-second-trophy
-2024/06/05 02:16:48 Fetched posts from https://www.hltv.org/rss/news, took 787.867614ms
-2024/06/05 02:16:48 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 943.930702ms
-2024/06/05 02:16:48 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.020953318s
-2024/06/05 02:16:52 Fetched posts from https://blogtienao.com/feed, took 4.972063657s
-2024/06/05 02:17:10 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.527559326s
-2024/06/05 02:17:10 Skipping writing post, no content: https://www.hltv.org/news/39145/short-news-week-5
-2024/06/05 02:17:10 Skipping writing post, no content: https://www.hltv.org/news/39152/sdy-ence-was-the-best-opportunity-for-me
-2024/06/05 02:17:10 Skipping writing post, no content: https://www.hltv.org/news/39155/ination-cease-operations
-2024/06/05 02:17:10 Skipping writing post, no content: https://www.hltv.org/news/39154/seasons-penultimate-fantasy-game-underway-with-yalla-compass
-2024/06/05 02:17:10 Skipping writing post, no content: https://www.hltv.org/news/39150/hunden-i-think-weve-succeeded-in-creating-the-next-talent-place-in-denmark
-2024/06/05 02:17:10 Skipping writing post, no content: https://www.hltv.org/news/39153/bymas-enters-free-agency
-2024/06/05 02:17:10 Skipping writing post, no content: https://www.hltv.org/news/39151/yalla-compass-2024-teams-format-schedule-talent-prizes-fantasy
-2024/06/05 02:17:10 Skipping writing post, no content: https://www.hltv.org/news/39149/zaaz-i-belong-here
-2024/06/05 02:17:10 Skipping writing post, no content: https://www.hltv.org/news/39148/team-ranking-may-2024
-2024/06/05 02:17:10 Skipping writing post, no content: https://www.hltv.org/news/39147/intel-grand-slam-race-heats-up-as-g2-pick-up-second-trophy
-2024/06/05 02:17:10 Templated 80 posts, took 12.728471ms
+2024/06/05 02:45:31 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/05 02:45:31 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 150.6071ms
+2024/06/05 02:45:31 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 260.265806ms
+2024/06/05 02:45:31 Content still empty after HTML reader: https://www.hltv.org/news/39145/short-news-week-5
+2024/06/05 02:45:31 Content still empty after HTML reader: https://www.hltv.org/news/39152/sdy-ence-was-the-best-opportunity-for-me
+2024/06/05 02:45:31 Content still empty after HTML reader: https://www.hltv.org/news/39155/ination-cease-operations
+2024/06/05 02:45:31 Content still empty after HTML reader: https://www.hltv.org/news/39154/seasons-penultimate-fantasy-game-underway-with-yalla-compass
+2024/06/05 02:45:31 Content still empty after HTML reader: https://www.hltv.org/news/39150/hunden-i-think-weve-succeeded-in-creating-the-next-talent-place-in-denmark
+2024/06/05 02:45:31 Content still empty after HTML reader: https://www.hltv.org/news/39153/bymas-enters-free-agency
+2024/06/05 02:45:31 Content still empty after HTML reader: https://www.hltv.org/news/39151/yalla-compass-2024-teams-format-schedule-talent-prizes-fantasy
+2024/06/05 02:45:31 Content still empty after HTML reader: https://www.hltv.org/news/39149/zaaz-i-belong-here
+2024/06/05 02:45:31 Content still empty after HTML reader: https://www.hltv.org/news/39148/team-ranking-may-2024
+2024/06/05 02:45:31 Content still empty after HTML reader: https://www.hltv.org/news/39147/intel-grand-slam-race-heats-up-as-g2-pick-up-second-trophy
+2024/06/05 02:45:31 Fetched posts from https://www.hltv.org/rss/news, took 489.872272ms
+2024/06/05 02:45:32 Fetched posts from https://vlr.gg/rss, took 931.476036ms
+2024/06/05 02:45:32 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.34869223s
+2024/06/05 02:45:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.531892211s
+2024/06/05 02:45:34 Fetched posts from https://blogtienao.com/feed, took 3.554917071s
+2024/06/05 02:45:52 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.589714865s
+2024/06/05 02:45:52 Skipping writing post, no content: https://www.hltv.org/news/39145/short-news-week-5
+2024/06/05 02:45:52 Skipping writing post, no content: https://www.hltv.org/news/39152/sdy-ence-was-the-best-opportunity-for-me
+2024/06/05 02:45:52 Skipping writing post, no content: https://www.hltv.org/news/39155/ination-cease-operations
+2024/06/05 02:45:52 Skipping writing post, no content: https://www.hltv.org/news/39154/seasons-penultimate-fantasy-game-underway-with-yalla-compass
+2024/06/05 02:45:52 Skipping writing post, no content: https://www.hltv.org/news/39150/hunden-i-think-weve-succeeded-in-creating-the-next-talent-place-in-denmark
+2024/06/05 02:45:52 Skipping writing post, no content: https://www.hltv.org/news/39153/bymas-enters-free-agency
+2024/06/05 02:45:52 Skipping writing post, no content: https://www.hltv.org/news/39151/yalla-compass-2024-teams-format-schedule-talent-prizes-fantasy
+2024/06/05 02:45:52 Skipping writing post, no content: https://www.hltv.org/news/39149/zaaz-i-belong-here
+2024/06/05 02:45:52 Skipping writing post, no content: https://www.hltv.org/news/39148/team-ranking-may-2024
+2024/06/05 02:45:52 Skipping writing post, no content: https://www.hltv.org/news/39147/intel-grand-slam-race-heats-up-as-g2-pick-up-second-trophy
+2024/06/05 02:45:52 Templated 81 posts, took 12.950763ms
