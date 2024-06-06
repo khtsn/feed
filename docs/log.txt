@@ -1,32 +1,30 @@
-2024/06/06 15:19:46 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/06 15:19:46 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 146.075301ms
-2024/06/06 15:19:46 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 169.23737ms
-2024/06/06 15:19:46 Content still empty after HTML reader: https://www.hltv.org/news/39167/astralis-through-to-yalla-compass-playoffs
-2024/06/06 15:19:46 Content still empty after HTML reader: https://www.hltv.org/news/39145/short-news-week-5
-2024/06/06 15:19:46 Content still empty after HTML reader: https://www.hltv.org/news/39166/nip-and-the-mongolz-secure-yalla-compass-playoff-berths
-2024/06/06 15:19:46 Content still empty after HTML reader: https://www.hltv.org/news/39165/live-updates-from-yalla-compass-day-2
-2024/06/06 15:19:46 Content still empty after HTML reader: https://www.hltv.org/news/39164/ence-dodge-early-elimination-as-yalla-compass-day-one-reaches-end
-2024/06/06 15:19:46 Content still empty after HTML reader: https://www.hltv.org/news/39163/nip-show-renewed-form-in-lan-debut-with-isak
-2024/06/06 15:19:47 Content still empty after HTML reader: https://www.nytimes.com/2024/06/06/nyregion/gilgo-beach-rex-heuermann.html
-2024/06/06 15:19:47 Content still empty after HTML reader: https://www.hltv.org/news/39162/eternal-fire-in-trouble-after-0-2-start-to-yalla-compass
-2024/06/06 15:19:47 Content still empty after HTML reader: https://www.hltv.org/news/39161/esl-challenger-jnkping-groups-seeds-revealed
-2024/06/06 15:19:47 Content still empty after HTML reader: https://www.hltv.org/news/39160/lynn-vision-confirm-flying-deal
-2024/06/06 15:19:47 Content still empty after HTML reader: https://www.hltv.org/news/39159/sashi-stun-astralis-in-abu-dhabi
-2024/06/06 15:19:47 Fetched posts from https://www.hltv.org/rss/news, took 525.061265ms
-2024/06/06 15:19:47 Fetched posts from https://vlr.gg/rss, took 656.518816ms
-2024/06/06 15:19:47 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 785.263831ms
-2024/06/06 15:19:47 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.095716638s
-2024/06/06 15:19:50 Fetched posts from https://blogtienao.com/feed, took 4.389080497s
-2024/06/06 15:20:09 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.661489979s
-2024/06/06 15:20:09 Skipping writing post, no content: https://www.nytimes.com/2024/06/06/nyregion/gilgo-beach-rex-heuermann.html
-2024/06/06 15:20:09 Skipping writing post, no content: https://www.hltv.org/news/39167/astralis-through-to-yalla-compass-playoffs
-2024/06/06 15:20:09 Skipping writing post, no content: https://www.hltv.org/news/39145/short-news-week-5
-2024/06/06 15:20:09 Skipping writing post, no content: https://www.hltv.org/news/39166/nip-and-the-mongolz-secure-yalla-compass-playoff-berths
-2024/06/06 15:20:09 Skipping writing post, no content: https://www.hltv.org/news/39165/live-updates-from-yalla-compass-day-2
-2024/06/06 15:20:09 Skipping writing post, no content: https://www.hltv.org/news/39164/ence-dodge-early-elimination-as-yalla-compass-day-one-reaches-end
-2024/06/06 15:20:09 Skipping writing post, no content: https://www.hltv.org/news/39163/nip-show-renewed-form-in-lan-debut-with-isak
-2024/06/06 15:20:09 Skipping writing post, no content: https://www.hltv.org/news/39162/eternal-fire-in-trouble-after-0-2-start-to-yalla-compass
-2024/06/06 15:20:09 Skipping writing post, no content: https://www.hltv.org/news/39161/esl-challenger-jnkping-groups-seeds-revealed
-2024/06/06 15:20:09 Skipping writing post, no content: https://www.hltv.org/news/39160/lynn-vision-confirm-flying-deal
-2024/06/06 15:20:09 Skipping writing post, no content: https://www.hltv.org/news/39159/sashi-stun-astralis-in-abu-dhabi
-2024/06/06 15:20:09 Templated 87 posts, took 13.495715ms
+2024/06/06 15:37:29 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 222.098125ms
+2024/06/06 15:37:29 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/06 15:37:29 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 252.399179ms
+2024/06/06 15:37:29 Content still empty after HTML reader: https://www.hltv.org/news/39167/astralis-through-to-yalla-compass-playoffs
+2024/06/06 15:37:29 Fetched posts from https://vlr.gg/rss, took 425.309533ms
+2024/06/06 15:37:29 Content still empty after HTML reader: https://www.hltv.org/news/39145/short-news-week-5
+2024/06/06 15:37:29 Content still empty after HTML reader: https://www.hltv.org/news/39166/nip-and-the-mongolz-secure-yalla-compass-playoff-berths
+2024/06/06 15:37:29 Content still empty after HTML reader: https://www.hltv.org/news/39165/live-updates-from-yalla-compass-day-2
+2024/06/06 15:37:29 Content still empty after HTML reader: https://www.hltv.org/news/39164/ence-dodge-early-elimination-as-yalla-compass-day-one-reaches-end
+2024/06/06 15:37:29 Content still empty after HTML reader: https://www.hltv.org/news/39163/nip-show-renewed-form-in-lan-debut-with-isak
+2024/06/06 15:37:29 Content still empty after HTML reader: https://www.hltv.org/news/39162/eternal-fire-in-trouble-after-0-2-start-to-yalla-compass
+2024/06/06 15:37:29 Content still empty after HTML reader: https://www.hltv.org/news/39161/esl-challenger-jnkping-groups-seeds-revealed
+2024/06/06 15:37:29 Content still empty after HTML reader: https://www.hltv.org/news/39160/lynn-vision-confirm-flying-deal
+2024/06/06 15:37:29 Content still empty after HTML reader: https://www.hltv.org/news/39159/sashi-stun-astralis-in-abu-dhabi
+2024/06/06 15:37:29 Fetched posts from https://www.hltv.org/rss/news, took 557.269183ms
+2024/06/06 15:37:30 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.071992646s
+2024/06/06 15:37:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.724196877s
+2024/06/06 15:37:33 Fetched posts from https://blogtienao.com/feed, took 4.373118362s
+2024/06/06 15:37:49 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.423528196s
+2024/06/06 15:37:49 Skipping writing post, no content: https://www.hltv.org/news/39167/astralis-through-to-yalla-compass-playoffs
+2024/06/06 15:37:49 Skipping writing post, no content: https://www.hltv.org/news/39145/short-news-week-5
+2024/06/06 15:37:49 Skipping writing post, no content: https://www.hltv.org/news/39166/nip-and-the-mongolz-secure-yalla-compass-playoff-berths
+2024/06/06 15:37:49 Skipping writing post, no content: https://www.hltv.org/news/39165/live-updates-from-yalla-compass-day-2
+2024/06/06 15:37:49 Skipping writing post, no content: https://www.hltv.org/news/39164/ence-dodge-early-elimination-as-yalla-compass-day-one-reaches-end
+2024/06/06 15:37:49 Skipping writing post, no content: https://www.hltv.org/news/39163/nip-show-renewed-form-in-lan-debut-with-isak
+2024/06/06 15:37:49 Skipping writing post, no content: https://www.hltv.org/news/39162/eternal-fire-in-trouble-after-0-2-start-to-yalla-compass
+2024/06/06 15:37:49 Skipping writing post, no content: https://www.hltv.org/news/39161/esl-challenger-jnkping-groups-seeds-revealed
+2024/06/06 15:37:49 Skipping writing post, no content: https://www.hltv.org/news/39160/lynn-vision-confirm-flying-deal
+2024/06/06 15:37:49 Skipping writing post, no content: https://www.hltv.org/news/39159/sashi-stun-astralis-in-abu-dhabi
+2024/06/06 15:37:49 Templated 87 posts, took 14.46094ms
