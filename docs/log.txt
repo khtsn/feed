@@ -1,30 +1,32 @@
-2024/06/07 13:25:29 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 124.020143ms
-2024/06/07 13:25:29 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/07 13:25:29 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 281.589661ms
-2024/06/07 13:25:29 Content still empty after HTML reader: https://www.hltv.org/news/39176/nettik-blitzes-flyquest-as-rooster-qualify-for-esl-pro-league
-2024/06/07 13:25:29 Content still empty after HTML reader: https://www.hltv.org/news/39175/isak-nip-has-been-all-ive-been-looking-up-to-since-i-started-playing-the-game
-2024/06/07 13:25:29 Content still empty after HTML reader: https://www.hltv.org/news/39174/live-updates-from-yalla-compass-quarter-finals
-2024/06/07 13:25:29 Content still empty after HTML reader: https://www.hltv.org/news/39173/nivera-makes-cs-return-in-revenant-alongside-nbk
-2024/06/07 13:25:29 Content still empty after HTML reader: https://www.hltv.org/news/39145/short-news-week-5
-2024/06/07 13:25:29 Content still empty after HTML reader: https://www.hltv.org/news/39171/koi-qualify-for-esl-pro-league-season-20
-2024/06/07 13:25:29 Content still empty after HTML reader: https://www.hltv.org/news/39172/magnojez-when-s0tf1k-said-he-saw-big-potential-in-me-it-was-a-huge-morale-boost
-2024/06/07 13:25:29 Fetched posts from https://vlr.gg/rss, took 476.136761ms
-2024/06/07 13:25:29 Content still empty after HTML reader: https://www.hltv.org/news/39170/furia-top-group-b-as-yalla-compass-moves-to-playoffs
-2024/06/07 13:25:29 Content still empty after HTML reader: https://www.hltv.org/news/39165/live-updates-from-yalla-compass-day-2
-2024/06/07 13:25:29 Content still empty after HTML reader: https://www.hltv.org/news/39169/complexity-go-2-0-to-2-3-at-yalla-compass-in-second-consecutive-group-stage-exit
-2024/06/07 13:25:29 Fetched posts from https://www.hltv.org/rss/news, took 510.72948ms
-2024/06/07 13:25:29 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 927.416731ms
-2024/06/07 13:25:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.078738729s
-2024/06/07 13:25:35 Fetched posts from https://blogtienao.com/feed, took 6.655816943s
-2024/06/07 13:25:54 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 25.144560978s
-2024/06/07 13:25:54 Skipping writing post, no content: https://www.hltv.org/news/39176/nettik-blitzes-flyquest-as-rooster-qualify-for-esl-pro-league
-2024/06/07 13:25:54 Skipping writing post, no content: https://www.hltv.org/news/39175/isak-nip-has-been-all-ive-been-looking-up-to-since-i-started-playing-the-game
-2024/06/07 13:25:54 Skipping writing post, no content: https://www.hltv.org/news/39174/live-updates-from-yalla-compass-quarter-finals
-2024/06/07 13:25:54 Skipping writing post, no content: https://www.hltv.org/news/39173/nivera-makes-cs-return-in-revenant-alongside-nbk
-2024/06/07 13:25:54 Skipping writing post, no content: https://www.hltv.org/news/39145/short-news-week-5
-2024/06/07 13:25:54 Skipping writing post, no content: https://www.hltv.org/news/39171/koi-qualify-for-esl-pro-league-season-20
-2024/06/07 13:25:54 Skipping writing post, no content: https://www.hltv.org/news/39172/magnojez-when-s0tf1k-said-he-saw-big-potential-in-me-it-was-a-huge-morale-boost
-2024/06/07 13:25:54 Skipping writing post, no content: https://www.hltv.org/news/39170/furia-top-group-b-as-yalla-compass-moves-to-playoffs
-2024/06/07 13:25:54 Skipping writing post, no content: https://www.hltv.org/news/39165/live-updates-from-yalla-compass-day-2
-2024/06/07 13:25:54 Skipping writing post, no content: https://www.hltv.org/news/39169/complexity-go-2-0-to-2-3-at-yalla-compass-in-second-consecutive-group-stage-exit
-2024/06/07 13:25:54 Templated 93 posts, took 15.180223ms
+2024/06/07 13:37:18 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/07 13:37:18 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 140.097749ms
+2024/06/07 13:37:18 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 147.089364ms
+2024/06/07 13:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39176/nettik-blitzes-flyquest-as-rooster-qualify-for-esl-pro-league
+2024/06/07 13:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39175/isak-nip-has-been-all-ive-been-looking-up-to-since-i-started-playing-the-game
+2024/06/07 13:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39174/live-updates-from-yalla-compass-quarter-finals
+2024/06/07 13:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39173/nivera-makes-cs-return-in-revenant-alongside-nbk
+2024/06/07 13:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39145/short-news-week-5
+2024/06/07 13:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39171/koi-qualify-for-esl-pro-league-season-20
+2024/06/07 13:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39172/magnojez-when-s0tf1k-said-he-saw-big-potential-in-me-it-was-a-huge-morale-boost
+2024/06/07 13:37:18 Fetched posts from https://vlr.gg/rss, took 366.987534ms
+2024/06/07 13:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39170/furia-top-group-b-as-yalla-compass-moves-to-playoffs
+2024/06/07 13:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39165/live-updates-from-yalla-compass-day-2
+2024/06/07 13:37:18 Content still empty after HTML reader: https://www.bbc.com/vietnamese/articles/cd117z8ej0do
+2024/06/07 13:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39169/complexity-go-2-0-to-2-3-at-yalla-compass-in-second-consecutive-group-stage-exit
+2024/06/07 13:37:18 Fetched posts from https://www.hltv.org/rss/news, took 391.304514ms
+2024/06/07 13:37:18 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 603.400462ms
+2024/06/07 13:37:18 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.047756621s
+2024/06/07 13:37:23 Fetched posts from https://blogtienao.com/feed, took 5.747174147s
+2024/06/07 13:37:45 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 27.096496704s
+2024/06/07 13:37:45 Skipping writing post, no content: https://www.hltv.org/news/39176/nettik-blitzes-flyquest-as-rooster-qualify-for-esl-pro-league
+2024/06/07 13:37:45 Skipping writing post, no content: https://www.hltv.org/news/39175/isak-nip-has-been-all-ive-been-looking-up-to-since-i-started-playing-the-game
+2024/06/07 13:37:45 Skipping writing post, no content: https://www.hltv.org/news/39174/live-updates-from-yalla-compass-quarter-finals
+2024/06/07 13:37:45 Skipping writing post, no content: https://www.bbc.com/vietnamese/articles/cd117z8ej0do
+2024/06/07 13:37:45 Skipping writing post, no content: https://www.hltv.org/news/39173/nivera-makes-cs-return-in-revenant-alongside-nbk
+2024/06/07 13:37:45 Skipping writing post, no content: https://www.hltv.org/news/39145/short-news-week-5
+2024/06/07 13:37:45 Skipping writing post, no content: https://www.hltv.org/news/39171/koi-qualify-for-esl-pro-league-season-20
+2024/06/07 13:37:45 Skipping writing post, no content: https://www.hltv.org/news/39172/magnojez-when-s0tf1k-said-he-saw-big-potential-in-me-it-was-a-huge-morale-boost
+2024/06/07 13:37:45 Skipping writing post, no content: https://www.hltv.org/news/39170/furia-top-group-b-as-yalla-compass-moves-to-playoffs
+2024/06/07 13:37:45 Skipping writing post, no content: https://www.hltv.org/news/39165/live-updates-from-yalla-compass-day-2
+2024/06/07 13:37:45 Skipping writing post, no content: https://www.hltv.org/news/39169/complexity-go-2-0-to-2-3-at-yalla-compass-in-second-consecutive-group-stage-exit
+2024/06/07 13:37:45 Templated 93 posts, took 14.908351ms
