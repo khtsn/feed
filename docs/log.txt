@@ -1,28 +1,30 @@
-2024/06/07 08:39:21 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/07 08:39:21 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 128.352278ms
-2024/06/07 08:39:21 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 200.594158ms
-2024/06/07 08:39:22 Content still empty after HTML reader: https://www.hltv.org/news/39145/short-news-week-5
-2024/06/07 08:39:22 Content still empty after HTML reader: https://www.hltv.org/news/39172/magnojez-when-s0tf1k-said-he-saw-big-potential-in-me-it-was-a-huge-morale-boost
-2024/06/07 08:39:22 Content still empty after HTML reader: https://www.hltv.org/news/39170/furia-top-group-b-as-yalla-compass-moves-to-playoffs
-2024/06/07 08:39:22 Content still empty after HTML reader: https://www.hltv.org/news/39165/live-updates-from-yalla-compass-day-2
-2024/06/07 08:39:22 Content still empty after HTML reader: https://www.hltv.org/news/39169/complexity-go-2-0-to-2-3-at-yalla-compass-in-second-consecutive-group-stage-exit
-2024/06/07 08:39:22 Content still empty after HTML reader: https://www.hltv.org/news/39168/eternal-fire-crash-out-we-performed-below-our-capacity-when-expectations-from-us-increased
-2024/06/07 08:39:22 Content still empty after HTML reader: https://www.hltv.org/news/39167/astralis-through-to-yalla-compass-playoffs
-2024/06/07 08:39:22 Content still empty after HTML reader: https://www.hltv.org/news/39166/nip-and-the-mongolz-secure-yalla-compass-playoff-berths
-2024/06/07 08:39:22 Content still empty after HTML reader: https://www.hltv.org/news/39164/ence-dodge-early-elimination-as-yalla-compass-day-one-reaches-end
-2024/06/07 08:39:22 Fetched posts from https://www.hltv.org/rss/news, took 451.984608ms
-2024/06/07 08:39:22 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 849.473926ms
-2024/06/07 08:39:22 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 980.651464ms
-2024/06/07 08:39:22 Fetched posts from https://vlr.gg/rss, took 1.034008926s
-2024/06/07 08:39:27 Fetched posts from https://blogtienao.com/feed, took 6.348070939s
-2024/06/07 08:39:41 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.218608244s
-2024/06/07 08:39:41 Skipping writing post, no content: https://www.hltv.org/news/39145/short-news-week-5
-2024/06/07 08:39:41 Skipping writing post, no content: https://www.hltv.org/news/39172/magnojez-when-s0tf1k-said-he-saw-big-potential-in-me-it-was-a-huge-morale-boost
-2024/06/07 08:39:41 Skipping writing post, no content: https://www.hltv.org/news/39170/furia-top-group-b-as-yalla-compass-moves-to-playoffs
-2024/06/07 08:39:41 Skipping writing post, no content: https://www.hltv.org/news/39165/live-updates-from-yalla-compass-day-2
-2024/06/07 08:39:41 Skipping writing post, no content: https://www.hltv.org/news/39169/complexity-go-2-0-to-2-3-at-yalla-compass-in-second-consecutive-group-stage-exit
-2024/06/07 08:39:41 Skipping writing post, no content: https://www.hltv.org/news/39168/eternal-fire-crash-out-we-performed-below-our-capacity-when-expectations-from-us-increased
-2024/06/07 08:39:41 Skipping writing post, no content: https://www.hltv.org/news/39167/astralis-through-to-yalla-compass-playoffs
-2024/06/07 08:39:41 Skipping writing post, no content: https://www.hltv.org/news/39166/nip-and-the-mongolz-secure-yalla-compass-playoff-berths
-2024/06/07 08:39:41 Skipping writing post, no content: https://www.hltv.org/news/39164/ence-dodge-early-elimination-as-yalla-compass-day-one-reaches-end
-2024/06/07 08:39:41 Templated 87 posts, took 13.950077ms
+2024/06/07 08:52:26 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 127.701415ms
+2024/06/07 08:52:26 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/07 08:52:26 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 312.661495ms
+2024/06/07 08:52:26 Content still empty after HTML reader: https://www.hltv.org/news/39145/short-news-week-5
+2024/06/07 08:52:26 Content still empty after HTML reader: https://www.hltv.org/news/39171/koi-qualify-for-esl-pro-league-season-20
+2024/06/07 08:52:26 Content still empty after HTML reader: https://www.hltv.org/news/39172/magnojez-when-s0tf1k-said-he-saw-big-potential-in-me-it-was-a-huge-morale-boost
+2024/06/07 08:52:26 Content still empty after HTML reader: https://www.hltv.org/news/39170/furia-top-group-b-as-yalla-compass-moves-to-playoffs
+2024/06/07 08:52:26 Content still empty after HTML reader: https://www.hltv.org/news/39165/live-updates-from-yalla-compass-day-2
+2024/06/07 08:52:26 Content still empty after HTML reader: https://www.hltv.org/news/39169/complexity-go-2-0-to-2-3-at-yalla-compass-in-second-consecutive-group-stage-exit
+2024/06/07 08:52:26 Content still empty after HTML reader: https://www.hltv.org/news/39168/eternal-fire-crash-out-we-performed-below-our-capacity-when-expectations-from-us-increased
+2024/06/07 08:52:26 Fetched posts from https://vlr.gg/rss, took 426.335679ms
+2024/06/07 08:52:26 Content still empty after HTML reader: https://www.hltv.org/news/39167/astralis-through-to-yalla-compass-playoffs
+2024/06/07 08:52:27 Content still empty after HTML reader: https://www.hltv.org/news/39166/nip-and-the-mongolz-secure-yalla-compass-playoff-berths
+2024/06/07 08:52:27 Content still empty after HTML reader: https://www.hltv.org/news/39164/ence-dodge-early-elimination-as-yalla-compass-day-one-reaches-end
+2024/06/07 08:52:27 Fetched posts from https://www.hltv.org/rss/news, took 460.486249ms
+2024/06/07 08:52:27 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 785.622583ms
+2024/06/07 08:52:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 989.659095ms
+2024/06/07 08:52:31 Fetched posts from https://blogtienao.com/feed, took 4.891564197s
+2024/06/07 08:52:48 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.142665151s
+2024/06/07 08:52:48 Skipping writing post, no content: https://www.hltv.org/news/39145/short-news-week-5
+2024/06/07 08:52:48 Skipping writing post, no content: https://www.hltv.org/news/39171/koi-qualify-for-esl-pro-league-season-20
+2024/06/07 08:52:48 Skipping writing post, no content: https://www.hltv.org/news/39172/magnojez-when-s0tf1k-said-he-saw-big-potential-in-me-it-was-a-huge-morale-boost
+2024/06/07 08:52:48 Skipping writing post, no content: https://www.hltv.org/news/39170/furia-top-group-b-as-yalla-compass-moves-to-playoffs
+2024/06/07 08:52:48 Skipping writing post, no content: https://www.hltv.org/news/39165/live-updates-from-yalla-compass-day-2
+2024/06/07 08:52:48 Skipping writing post, no content: https://www.hltv.org/news/39169/complexity-go-2-0-to-2-3-at-yalla-compass-in-second-consecutive-group-stage-exit
+2024/06/07 08:52:48 Skipping writing post, no content: https://www.hltv.org/news/39168/eternal-fire-crash-out-we-performed-below-our-capacity-when-expectations-from-us-increased
+2024/06/07 08:52:48 Skipping writing post, no content: https://www.hltv.org/news/39167/astralis-through-to-yalla-compass-playoffs
+2024/06/07 08:52:48 Skipping writing post, no content: https://www.hltv.org/news/39166/nip-and-the-mongolz-secure-yalla-compass-playoff-berths
+2024/06/07 08:52:48 Skipping writing post, no content: https://www.hltv.org/news/39164/ence-dodge-early-elimination-as-yalla-compass-day-one-reaches-end
+2024/06/07 08:52:48 Templated 87 posts, took 14.460426ms
