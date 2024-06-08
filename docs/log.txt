@@ -1,32 +1,30 @@
-2024/06/08 22:37:19 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 128.054474ms
-2024/06/08 22:37:19 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/08 22:37:19 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 245.161044ms
-2024/06/08 22:37:19 Content still empty after HTML reader: https://www.hltv.org/news/39191/sangal-complete-heroic-lower-bracket-run-to-qualify-for-epl-s20
-2024/06/08 22:37:19 Content still empty after HTML reader: https://www.vlr.gg/358642/t1-bring-on-stax
-2024/06/08 22:37:19 Content still empty after HTML reader: https://www.hltv.org/news/39145/short-news-week-5
-2024/06/08 22:37:19 Content still empty after HTML reader: https://www.hltv.org/news/39190/nip-best-furia-to-reach-yalla-compass-finals
-2024/06/08 22:37:19 Content still empty after HTML reader: https://www.hltv.org/news/39185/live-updates-from-yalla-compass-semi-finals
-2024/06/08 22:37:19 Content still empty after HTML reader: https://www.hltv.org/news/39187/lynn-vision-snag-place-in-esl-pro-league-s20
-2024/06/08 22:37:19 Fetched posts from https://vlr.gg/rss, took 357.155718ms
-2024/06/08 22:37:19 Content still empty after HTML reader: https://www.hltv.org/news/39189/into-the-breach-begin-rebuild-with-smooya
-2024/06/08 22:37:19 Content still empty after HTML reader: https://www.hltv.org/news/39188/910-stars-as-the-mongolz-edge-past-astralis-to-make-yalla-compass-grand-final
-2024/06/08 22:37:19 Content still empty after HTML reader: https://www.hltv.org/news/39186/revenant-invited-to-skyesports-championship
-2024/06/08 22:37:19 Content still empty after HTML reader: https://www.hltv.org/news/39184/flyquest-lock-in-esl-pro-league-season-20-spot
-2024/06/08 22:37:19 Content still empty after HTML reader: https://www.hltv.org/news/39183/eyeballers-part-ways-with-sapec-and-shine
-2024/06/08 22:37:19 Fetched posts from https://www.hltv.org/rss/news, took 400.043825ms
-2024/06/08 22:37:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 654.006104ms
-2024/06/08 22:37:20 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 670.138147ms
-2024/06/08 22:37:24 Fetched posts from https://blogtienao.com/feed, took 5.119929548s
-2024/06/08 22:37:43 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 24.419634156s
-2024/06/08 22:37:43 Skipping writing post, no content: https://www.hltv.org/news/39191/sangal-complete-heroic-lower-bracket-run-to-qualify-for-epl-s20
-2024/06/08 22:37:43 Skipping writing post, no content: https://www.hltv.org/news/39145/short-news-week-5
-2024/06/08 22:37:43 Skipping writing post, no content: https://www.hltv.org/news/39190/nip-best-furia-to-reach-yalla-compass-finals
-2024/06/08 22:37:43 Skipping writing post, no content: https://www.hltv.org/news/39185/live-updates-from-yalla-compass-semi-finals
-2024/06/08 22:37:43 Skipping writing post, no content: https://www.hltv.org/news/39187/lynn-vision-snag-place-in-esl-pro-league-s20
-2024/06/08 22:37:43 Skipping writing post, no content: https://www.hltv.org/news/39189/into-the-breach-begin-rebuild-with-smooya
-2024/06/08 22:37:43 Skipping writing post, no content: https://www.hltv.org/news/39188/910-stars-as-the-mongolz-edge-past-astralis-to-make-yalla-compass-grand-final
-2024/06/08 22:37:43 Skipping writing post, no content: https://www.hltv.org/news/39186/revenant-invited-to-skyesports-championship
-2024/06/08 22:37:43 Skipping writing post, no content: https://www.hltv.org/news/39184/flyquest-lock-in-esl-pro-league-season-20-spot
-2024/06/08 22:37:43 Skipping writing post, no content: https://www.hltv.org/news/39183/eyeballers-part-ways-with-sapec-and-shine
-2024/06/08 22:37:43 Skipping writing post, no content: https://www.vlr.gg/358642/t1-bring-on-stax
-2024/06/08 22:37:43 Templated 81 posts, took 13.23734ms
+2024/06/08 22:52:16 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/08 22:52:16 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 165.672662ms
+2024/06/08 22:52:16 Content still empty after HTML reader: https://www.hltv.org/news/39191/sangal-complete-heroic-lower-bracket-run-to-qualify-for-epl-s20
+2024/06/08 22:52:16 Content still empty after HTML reader: https://www.hltv.org/news/39145/short-news-week-5
+2024/06/08 22:52:16 Content still empty after HTML reader: https://www.hltv.org/news/39190/nip-best-furia-to-reach-yalla-compass-finals
+2024/06/08 22:52:16 Content still empty after HTML reader: https://www.hltv.org/news/39185/live-updates-from-yalla-compass-semi-finals
+2024/06/08 22:52:16 Content still empty after HTML reader: https://www.hltv.org/news/39187/lynn-vision-snag-place-in-esl-pro-league-s20
+2024/06/08 22:52:16 Content still empty after HTML reader: https://www.hltv.org/news/39189/into-the-breach-begin-rebuild-with-smooya
+2024/06/08 22:52:16 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 513.526099ms
+2024/06/08 22:52:16 Content still empty after HTML reader: https://www.hltv.org/news/39188/910-stars-as-the-mongolz-edge-past-astralis-to-make-yalla-compass-grand-final
+2024/06/08 22:52:16 Content still empty after HTML reader: https://www.hltv.org/news/39186/revenant-invited-to-skyesports-championship
+2024/06/08 22:52:16 Content still empty after HTML reader: https://www.hltv.org/news/39184/flyquest-lock-in-esl-pro-league-season-20-spot
+2024/06/08 22:52:16 Content still empty after HTML reader: https://www.hltv.org/news/39183/eyeballers-part-ways-with-sapec-and-shine
+2024/06/08 22:52:16 Fetched posts from https://www.hltv.org/rss/news, took 575.60749ms
+2024/06/08 22:52:17 Fetched posts from https://vlr.gg/rss, took 1.028099794s
+2024/06/08 22:52:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.306119346s
+2024/06/08 22:52:21 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 5.602112644s
+2024/06/08 22:52:25 Fetched posts from https://blogtienao.com/feed, took 8.961243557s
+2024/06/08 22:52:35 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.079507784s
+2024/06/08 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/39191/sangal-complete-heroic-lower-bracket-run-to-qualify-for-epl-s20
+2024/06/08 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/39145/short-news-week-5
+2024/06/08 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/39190/nip-best-furia-to-reach-yalla-compass-finals
+2024/06/08 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/39185/live-updates-from-yalla-compass-semi-finals
+2024/06/08 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/39187/lynn-vision-snag-place-in-esl-pro-league-s20
+2024/06/08 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/39189/into-the-breach-begin-rebuild-with-smooya
+2024/06/08 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/39188/910-stars-as-the-mongolz-edge-past-astralis-to-make-yalla-compass-grand-final
+2024/06/08 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/39186/revenant-invited-to-skyesports-championship
+2024/06/08 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/39184/flyquest-lock-in-esl-pro-league-season-20-spot
+2024/06/08 22:52:35 Skipping writing post, no content: https://www.hltv.org/news/39183/eyeballers-part-ways-with-sapec-and-shine
+2024/06/08 22:52:35 Templated 79 posts, took 11.733108ms
