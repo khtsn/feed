@@ -1,28 +1,30 @@
-2024/06/08 10:17:50 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/08 10:17:50 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 226.814755ms
-2024/06/08 10:17:50 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 240.696498ms
-2024/06/08 10:17:50 Content still empty after HTML reader: https://www.hltv.org/news/39184/flyquest-lock-in-esl-pro-league-season-20-spot
-2024/06/08 10:17:50 Content still empty after HTML reader: https://www.hltv.org/news/39183/eyeballers-part-ways-with-sapec-and-shine
-2024/06/08 10:17:50 Content still empty after HTML reader: https://www.hltv.org/news/39145/short-news-week-5
-2024/06/08 10:17:50 Content still empty after HTML reader: https://www.hltv.org/news/39178/the-evps-and-best-five-of-iem-dallas
-2024/06/08 10:17:50 Content still empty after HTML reader: https://www.hltv.org/news/39182/nip-beat-fnatic-to-secure-semi-final-spot-at-yalla-compass
-2024/06/08 10:17:50 Content still empty after HTML reader: https://www.hltv.org/news/39174/live-updates-from-yalla-compass-quarter-finals
-2024/06/08 10:17:50 Content still empty after HTML reader: https://www.hltv.org/news/39180/m80-red-canids-atox-qualify-for-esl-pro-league-season-20
-2024/06/08 10:17:50 Content still empty after HTML reader: https://www.hltv.org/news/39177/kjaerbye-interview-astralis-exit-doubts-about-north-finding-purpose-after-retirement
-2024/06/08 10:17:50 Content still empty after HTML reader: https://www.hltv.org/news/39179/f1ku-signs-new-og-contract
-2024/06/08 10:17:50 Fetched posts from https://www.hltv.org/rss/news, took 370.310144ms
-2024/06/08 10:17:51 Fetched posts from https://vlr.gg/rss, took 574.683226ms
-2024/06/08 10:17:51 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 751.599175ms
-2024/06/08 10:17:51 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.113404489s
-2024/06/08 10:17:58 Fetched posts from https://blogtienao.com/feed, took 7.646451545s
-2024/06/08 10:18:12 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.726565401s
-2024/06/08 10:18:12 Skipping writing post, no content: https://www.hltv.org/news/39184/flyquest-lock-in-esl-pro-league-season-20-spot
-2024/06/08 10:18:12 Skipping writing post, no content: https://www.hltv.org/news/39183/eyeballers-part-ways-with-sapec-and-shine
-2024/06/08 10:18:12 Skipping writing post, no content: https://www.hltv.org/news/39145/short-news-week-5
-2024/06/08 10:18:12 Skipping writing post, no content: https://www.hltv.org/news/39178/the-evps-and-best-five-of-iem-dallas
-2024/06/08 10:18:12 Skipping writing post, no content: https://www.hltv.org/news/39182/nip-beat-fnatic-to-secure-semi-final-spot-at-yalla-compass
-2024/06/08 10:18:12 Skipping writing post, no content: https://www.hltv.org/news/39174/live-updates-from-yalla-compass-quarter-finals
-2024/06/08 10:18:12 Skipping writing post, no content: https://www.hltv.org/news/39180/m80-red-canids-atox-qualify-for-esl-pro-league-season-20
-2024/06/08 10:18:12 Skipping writing post, no content: https://www.hltv.org/news/39177/kjaerbye-interview-astralis-exit-doubts-about-north-finding-purpose-after-retirement
-2024/06/08 10:18:12 Skipping writing post, no content: https://www.hltv.org/news/39179/f1ku-signs-new-og-contract
-2024/06/08 10:18:12 Templated 85 posts, took 14.695545ms
+2024/06/08 10:37:23 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 99.330506ms
+2024/06/08 10:37:23 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/08 10:37:23 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 189.793647ms
+2024/06/08 10:37:23 Content still empty after HTML reader: https://www.hltv.org/news/39184/flyquest-lock-in-esl-pro-league-season-20-spot
+2024/06/08 10:37:23 Content still empty after HTML reader: https://www.hltv.org/news/39183/eyeballers-part-ways-with-sapec-and-shine
+2024/06/08 10:37:23 Content still empty after HTML reader: https://www.hltv.org/news/39145/short-news-week-5
+2024/06/08 10:37:23 Content still empty after HTML reader: https://www.hltv.org/news/39178/the-evps-and-best-five-of-iem-dallas
+2024/06/08 10:37:23 Content still empty after HTML reader: https://www.hltv.org/news/39182/nip-beat-fnatic-to-secure-semi-final-spot-at-yalla-compass
+2024/06/08 10:37:23 Content still empty after HTML reader: https://www.hltv.org/news/39174/live-updates-from-yalla-compass-quarter-finals
+2024/06/08 10:37:23 Content still empty after HTML reader: https://www.hltv.org/news/39180/m80-red-canids-atox-qualify-for-esl-pro-league-season-20
+2024/06/08 10:37:23 Content still empty after HTML reader: https://www.hltv.org/news/39177/kjaerbye-interview-astralis-exit-doubts-about-north-finding-purpose-after-retirement
+2024/06/08 10:37:23 Content still empty after HTML reader: https://www.hltv.org/news/39181/astralis-through-to-semi-finals-at-yalla-compass
+2024/06/08 10:37:23 Content still empty after HTML reader: https://www.hltv.org/news/39179/f1ku-signs-new-og-contract
+2024/06/08 10:37:23 Fetched posts from https://www.hltv.org/rss/news, took 344.981334ms
+2024/06/08 10:37:23 Fetched posts from https://vlr.gg/rss, took 416.269136ms
+2024/06/08 10:37:23 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 598.012165ms
+2024/06/08 10:37:23 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 679.252601ms
+2024/06/08 10:37:27 Fetched posts from https://blogtienao.com/feed, took 4.93647432s
+2024/06/08 10:37:44 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.818483948s
+2024/06/08 10:37:44 Skipping writing post, no content: https://www.hltv.org/news/39184/flyquest-lock-in-esl-pro-league-season-20-spot
+2024/06/08 10:37:44 Skipping writing post, no content: https://www.hltv.org/news/39183/eyeballers-part-ways-with-sapec-and-shine
+2024/06/08 10:37:44 Skipping writing post, no content: https://www.hltv.org/news/39145/short-news-week-5
+2024/06/08 10:37:44 Skipping writing post, no content: https://www.hltv.org/news/39178/the-evps-and-best-five-of-iem-dallas
+2024/06/08 10:37:44 Skipping writing post, no content: https://www.hltv.org/news/39182/nip-beat-fnatic-to-secure-semi-final-spot-at-yalla-compass
+2024/06/08 10:37:44 Skipping writing post, no content: https://www.hltv.org/news/39174/live-updates-from-yalla-compass-quarter-finals
+2024/06/08 10:37:44 Skipping writing post, no content: https://www.hltv.org/news/39180/m80-red-canids-atox-qualify-for-esl-pro-league-season-20
+2024/06/08 10:37:44 Skipping writing post, no content: https://www.hltv.org/news/39177/kjaerbye-interview-astralis-exit-doubts-about-north-finding-purpose-after-retirement
+2024/06/08 10:37:44 Skipping writing post, no content: https://www.hltv.org/news/39181/astralis-through-to-semi-finals-at-yalla-compass
+2024/06/08 10:37:44 Skipping writing post, no content: https://www.hltv.org/news/39179/f1ku-signs-new-og-contract
+2024/06/08 10:37:44 Templated 85 posts, took 14.504353ms
