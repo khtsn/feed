@@ -1,30 +1,30 @@
-2024/06/11 04:22:03 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 71.975108ms
-2024/06/11 04:22:03 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/11 04:22:03 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 198.731028ms
-2024/06/11 04:22:03 Fetched posts from https://vlr.gg/rss, took 275.845819ms
-2024/06/11 04:22:04 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 592.564521ms
-2024/06/11 04:22:04 Content still empty after HTML reader: https://www.hltv.org/news/39208/meta-monday-when-interpreting-information-well-creates-a-beautiful-round
-2024/06/11 04:22:04 Content still empty after HTML reader: https://www.hltv.org/news/39200/short-news-week-6
-2024/06/11 04:22:04 Content still empty after HTML reader: https://www.hltv.org/news/39207/esl-confirm-iem-cologne-invites
-2024/06/11 04:22:04 Content still empty after HTML reader: https://www.hltv.org/news/39206/previewing-blast-finals-and-making-sense-of-the-season-on-hltv-confirmed
-2024/06/11 04:22:04 Content still empty after HTML reader: https://www.hltv.org/news/39205/into-the-breach-sign-sinnopsyy
-2024/06/11 04:22:04 Content still empty after HTML reader: https://www.hltv.org/news/39203/m0nesy-to-miss-blast-spring-final-taz-to-step-in
-2024/06/11 04:22:04 Content still empty after HTML reader: https://www.hltv.org/news/39201/nrg-qualify-for-blast-premier-fall-showdown
-2024/06/11 04:22:04 Content still empty after HTML reader: https://www.hltv.org/news/39199/blast-premier-spring-final-2024-teams-format-schedule-talent-prizes-fantasy
-2024/06/11 04:22:04 Content still empty after HTML reader: https://www.hltv.org/news/39198/910-on-winning-mvp-indescribable-feeling
-2024/06/11 04:22:04 Content still empty after HTML reader: https://www.hltv.org/news/39194/live-updates-from-yalla-compass-final
-2024/06/11 04:22:04 Fetched posts from https://www.hltv.org/rss/news, took 740.144041ms
-2024/06/11 04:22:04 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 765.012079ms
-2024/06/11 04:22:08 Fetched posts from https://blogtienao.com/feed, took 5.016981992s
-2024/06/11 04:22:24 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.819597177s
-2024/06/11 04:22:24 Skipping writing post, no content: https://www.hltv.org/news/39208/meta-monday-when-interpreting-information-well-creates-a-beautiful-round
-2024/06/11 04:22:24 Skipping writing post, no content: https://www.hltv.org/news/39200/short-news-week-6
-2024/06/11 04:22:24 Skipping writing post, no content: https://www.hltv.org/news/39207/esl-confirm-iem-cologne-invites
-2024/06/11 04:22:24 Skipping writing post, no content: https://www.hltv.org/news/39206/previewing-blast-finals-and-making-sense-of-the-season-on-hltv-confirmed
-2024/06/11 04:22:24 Skipping writing post, no content: https://www.hltv.org/news/39205/into-the-breach-sign-sinnopsyy
-2024/06/11 04:22:24 Skipping writing post, no content: https://www.hltv.org/news/39203/m0nesy-to-miss-blast-spring-final-taz-to-step-in
-2024/06/11 04:22:24 Skipping writing post, no content: https://www.hltv.org/news/39201/nrg-qualify-for-blast-premier-fall-showdown
-2024/06/11 04:22:24 Skipping writing post, no content: https://www.hltv.org/news/39199/blast-premier-spring-final-2024-teams-format-schedule-talent-prizes-fantasy
-2024/06/11 04:22:24 Skipping writing post, no content: https://www.hltv.org/news/39198/910-on-winning-mvp-indescribable-feeling
-2024/06/11 04:22:24 Skipping writing post, no content: https://www.hltv.org/news/39194/live-updates-from-yalla-compass-final
-2024/06/11 04:22:24 Templated 83 posts, took 13.476219ms
+2024/06/11 04:40:10 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/11 04:40:10 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 130.196445ms
+2024/06/11 04:40:10 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 198.641896ms
+2024/06/11 04:40:10 Content still empty after HTML reader: https://www.hltv.org/news/39208/meta-monday-when-interpreting-information-well-creates-a-beautiful-round
+2024/06/11 04:40:10 Content still empty after HTML reader: https://www.hltv.org/news/39200/short-news-week-6
+2024/06/11 04:40:10 Content still empty after HTML reader: https://www.hltv.org/news/39207/esl-confirm-iem-cologne-invites
+2024/06/11 04:40:10 Content still empty after HTML reader: https://www.hltv.org/news/39206/previewing-blast-finals-and-making-sense-of-the-season-on-hltv-confirmed
+2024/06/11 04:40:10 Content still empty after HTML reader: https://www.hltv.org/news/39205/into-the-breach-sign-sinnopsyy
+2024/06/11 04:40:10 Content still empty after HTML reader: https://www.hltv.org/news/39203/m0nesy-to-miss-blast-spring-final-taz-to-step-in
+2024/06/11 04:40:10 Content still empty after HTML reader: https://www.hltv.org/news/39201/nrg-qualify-for-blast-premier-fall-showdown
+2024/06/11 04:40:10 Content still empty after HTML reader: https://www.hltv.org/news/39199/blast-premier-spring-final-2024-teams-format-schedule-talent-prizes-fantasy
+2024/06/11 04:40:10 Content still empty after HTML reader: https://www.hltv.org/news/39198/910-on-winning-mvp-indescribable-feeling
+2024/06/11 04:40:10 Content still empty after HTML reader: https://www.hltv.org/news/39194/live-updates-from-yalla-compass-final
+2024/06/11 04:40:10 Fetched posts from https://www.hltv.org/rss/news, took 330.431772ms
+2024/06/11 04:40:11 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 800.895893ms
+2024/06/11 04:40:11 Fetched posts from https://vlr.gg/rss, took 860.207191ms
+2024/06/11 04:40:12 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.688019051s
+2024/06/11 04:40:13 Fetched posts from https://blogtienao.com/feed, took 3.424156489s
+2024/06/11 04:40:28 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.549656608s
+2024/06/11 04:40:28 Skipping writing post, no content: https://www.hltv.org/news/39208/meta-monday-when-interpreting-information-well-creates-a-beautiful-round
+2024/06/11 04:40:28 Skipping writing post, no content: https://www.hltv.org/news/39200/short-news-week-6
+2024/06/11 04:40:28 Skipping writing post, no content: https://www.hltv.org/news/39207/esl-confirm-iem-cologne-invites
+2024/06/11 04:40:28 Skipping writing post, no content: https://www.hltv.org/news/39206/previewing-blast-finals-and-making-sense-of-the-season-on-hltv-confirmed
+2024/06/11 04:40:28 Skipping writing post, no content: https://www.hltv.org/news/39205/into-the-breach-sign-sinnopsyy
+2024/06/11 04:40:28 Skipping writing post, no content: https://www.hltv.org/news/39203/m0nesy-to-miss-blast-spring-final-taz-to-step-in
+2024/06/11 04:40:28 Skipping writing post, no content: https://www.hltv.org/news/39201/nrg-qualify-for-blast-premier-fall-showdown
+2024/06/11 04:40:28 Skipping writing post, no content: https://www.hltv.org/news/39199/blast-premier-spring-final-2024-teams-format-schedule-talent-prizes-fantasy
+2024/06/11 04:40:28 Skipping writing post, no content: https://www.hltv.org/news/39198/910-on-winning-mvp-indescribable-feeling
+2024/06/11 04:40:28 Skipping writing post, no content: https://www.hltv.org/news/39194/live-updates-from-yalla-compass-final
+2024/06/11 04:40:28 Templated 81 posts, took 13.037712ms
