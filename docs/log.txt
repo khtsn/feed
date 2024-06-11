@@ -1,28 +1,32 @@
-2024/06/11 15:52:13 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/11 15:52:13 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 148.358672ms
-2024/06/11 15:52:13 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 294.00853ms
-2024/06/11 15:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39212/mouz-complete-brollan-signing
-2024/06/11 15:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39213/mutiris-on-youngsters-they-want-to-stay-in-saw-because-they-believe-in-the-project
-2024/06/11 15:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39211/staehr-on-semi-final-curse-the-mongolz-game-was-kind-of-a-choke
-2024/06/11 15:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39200/short-news-week-6
-2024/06/11 15:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39210/m0nesy-set-to-travel-to-blast-premier-spring-final-after-last-minute-visa-approval
-2024/06/11 15:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39209/live-updates-from-blast-premier-spring-final-media-day
-2024/06/11 15:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39208/meta-monday-when-interpreting-information-well-creates-a-beautiful-round
-2024/06/11 15:52:13 Fetched posts from https://vlr.gg/rss, took 515.708449ms
-2024/06/11 15:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39207/esl-confirm-iem-cologne-invites
-2024/06/11 15:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39206/previewing-blast-finals-and-making-sense-of-the-season-on-hltv-confirmed
-2024/06/11 15:52:13 Fetched posts from https://www.hltv.org/rss/news, took 537.849679ms
-2024/06/11 15:52:14 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 973.156613ms
-2024/06/11 15:52:14 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.136873515s
-2024/06/11 15:52:17 Fetched posts from https://blogtienao.com/feed, took 4.356493477s
-2024/06/11 15:52:32 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.078353078s
-2024/06/11 15:52:32 Skipping writing post, no content: https://www.hltv.org/news/39212/mouz-complete-brollan-signing
-2024/06/11 15:52:32 Skipping writing post, no content: https://www.hltv.org/news/39213/mutiris-on-youngsters-they-want-to-stay-in-saw-because-they-believe-in-the-project
-2024/06/11 15:52:32 Skipping writing post, no content: https://www.hltv.org/news/39211/staehr-on-semi-final-curse-the-mongolz-game-was-kind-of-a-choke
-2024/06/11 15:52:32 Skipping writing post, no content: https://www.hltv.org/news/39200/short-news-week-6
-2024/06/11 15:52:32 Skipping writing post, no content: https://www.hltv.org/news/39210/m0nesy-set-to-travel-to-blast-premier-spring-final-after-last-minute-visa-approval
-2024/06/11 15:52:32 Skipping writing post, no content: https://www.hltv.org/news/39209/live-updates-from-blast-premier-spring-final-media-day
-2024/06/11 15:52:32 Skipping writing post, no content: https://www.hltv.org/news/39208/meta-monday-when-interpreting-information-well-creates-a-beautiful-round
-2024/06/11 15:52:32 Skipping writing post, no content: https://www.hltv.org/news/39207/esl-confirm-iem-cologne-invites
-2024/06/11 15:52:32 Skipping writing post, no content: https://www.hltv.org/news/39206/previewing-blast-finals-and-making-sense-of-the-season-on-hltv-confirmed
-2024/06/11 15:52:32 Templated 83 posts, took 13.82426ms
+2024/06/11 16:22:54 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 114.416244ms
+2024/06/11 16:22:54 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/11 16:22:54 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 152.643856ms
+2024/06/11 16:22:54 Fetched posts from https://vlr.gg/rss, took 345.131701ms
+2024/06/11 16:22:55 Content still empty after HTML reader: https://www.hltv.org/news/39214/rain-we-feel-countered-especially-on-nuke
+2024/06/11 16:22:55 Content still empty after HTML reader: https://www.hltv.org/news/39212/mouz-complete-brollan-signing
+2024/06/11 16:22:55 Content still empty after HTML reader: https://www.hltv.org/news/39213/mutiris-on-youngsters-they-want-to-stay-in-saw-because-they-believe-in-the-project
+2024/06/11 16:22:55 Content still empty after HTML reader: https://www.hltv.org/news/39211/staehr-on-semi-final-curse-the-mongolz-game-was-kind-of-a-choke
+2024/06/11 16:22:55 Content still empty after HTML reader: https://www.hltv.org/news/39200/short-news-week-6
+2024/06/11 16:22:55 Content still empty after HTML reader: https://www.hltv.org/news/39210/m0nesy-set-to-travel-to-blast-premier-spring-final-after-last-minute-visa-approval
+2024/06/11 16:22:55 Content still empty after HTML reader: https://www.hltv.org/news/39209/live-updates-from-blast-premier-spring-final-media-day
+2024/06/11 16:22:55 Content still empty after HTML reader: https://www.hltv.org/news/39208/meta-monday-when-interpreting-information-well-creates-a-beautiful-round
+2024/06/11 16:22:55 Content still empty after HTML reader: https://www.nytimes.com/2024/06/10/opinion/colorado-gop-pride.html
+2024/06/11 16:22:55 Content still empty after HTML reader: https://www.hltv.org/news/39207/esl-confirm-iem-cologne-invites
+2024/06/11 16:22:55 Content still empty after HTML reader: https://www.hltv.org/news/39206/previewing-blast-finals-and-making-sense-of-the-season-on-hltv-confirmed
+2024/06/11 16:22:55 Fetched posts from https://www.hltv.org/rss/news, took 772.137827ms
+2024/06/11 16:22:55 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 957.25108ms
+2024/06/11 16:22:55 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 984.845154ms
+2024/06/11 16:23:02 Fetched posts from https://blogtienao.com/feed, took 7.940155569s
+2024/06/11 16:23:15 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.905801073s
+2024/06/11 16:23:15 Skipping writing post, no content: https://www.hltv.org/news/39214/rain-we-feel-countered-especially-on-nuke
+2024/06/11 16:23:15 Skipping writing post, no content: https://www.hltv.org/news/39212/mouz-complete-brollan-signing
+2024/06/11 16:23:15 Skipping writing post, no content: https://www.nytimes.com/2024/06/10/opinion/colorado-gop-pride.html
+2024/06/11 16:23:15 Skipping writing post, no content: https://www.hltv.org/news/39213/mutiris-on-youngsters-they-want-to-stay-in-saw-because-they-believe-in-the-project
+2024/06/11 16:23:15 Skipping writing post, no content: https://www.hltv.org/news/39211/staehr-on-semi-final-curse-the-mongolz-game-was-kind-of-a-choke
+2024/06/11 16:23:15 Skipping writing post, no content: https://www.hltv.org/news/39200/short-news-week-6
+2024/06/11 16:23:15 Skipping writing post, no content: https://www.hltv.org/news/39210/m0nesy-set-to-travel-to-blast-premier-spring-final-after-last-minute-visa-approval
+2024/06/11 16:23:15 Skipping writing post, no content: https://www.hltv.org/news/39209/live-updates-from-blast-premier-spring-final-media-day
+2024/06/11 16:23:15 Skipping writing post, no content: https://www.hltv.org/news/39208/meta-monday-when-interpreting-information-well-creates-a-beautiful-round
+2024/06/11 16:23:15 Skipping writing post, no content: https://www.hltv.org/news/39207/esl-confirm-iem-cologne-invites
+2024/06/11 16:23:15 Skipping writing post, no content: https://www.hltv.org/news/39206/previewing-blast-finals-and-making-sense-of-the-season-on-hltv-confirmed
+2024/06/11 16:23:15 Templated 84 posts, took 13.856765ms
