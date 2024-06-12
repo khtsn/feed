@@ -1,30 +1,30 @@
-2024/06/12 08:22:15 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/12 08:22:15 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 92.288839ms
-2024/06/12 08:22:16 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 200.303805ms
-2024/06/12 08:22:16 Content still empty after HTML reader: https://www.hltv.org/news/39200/short-news-week-6
-2024/06/12 08:22:16 Content still empty after HTML reader: https://www.hltv.org/news/39204/blast-preview-g2s-plot-twist-devices-comfort-zone-and-the-four-horse-race
-2024/06/12 08:22:16 Content still empty after HTML reader: https://www.hltv.org/news/39220/3dmax-clinch-esl-pro-league-season-20-spot
-2024/06/12 08:22:16 Content still empty after HTML reader: https://www.hltv.org/news/39218/apex-on-mezii-i-always-believed-in-him
-2024/06/12 08:22:16 Content still empty after HTML reader: https://www.hltv.org/news/39219/metizport-finalize-roster-with-sapec
-2024/06/12 08:22:16 Content still empty after HTML reader: https://www.hltv.org/news/39216/hunter-its-not-sure-that-m0nesy-will-come-yet
-2024/06/12 08:22:16 Content still empty after HTML reader: https://www.hltv.org/news/39215/im-i-obviously-cared-that-i-won-the-major-but-its-just-another-trophy
-2024/06/12 08:22:16 Content still empty after HTML reader: https://www.hltv.org/news/39217/last-seasonal-fantasy-about-to-start-with-blast
-2024/06/12 08:22:16 Content still empty after HTML reader: https://www.hltv.org/news/39214/rain-we-feel-countered-especially-on-nuke
-2024/06/12 08:22:16 Content still empty after HTML reader: https://www.hltv.org/news/39212/mouz-complete-brollan-signing
-2024/06/12 08:22:16 Fetched posts from https://www.hltv.org/rss/news, took 437.691571ms
-2024/06/12 08:22:16 Fetched posts from https://vlr.gg/rss, took 818.763913ms
-2024/06/12 08:22:16 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 999.563174ms
-2024/06/12 08:22:17 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.766050799s
-2024/06/12 08:22:21 Fetched posts from https://blogtienao.com/feed, took 5.457957183s
-2024/06/12 08:22:35 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.553229604s
-2024/06/12 08:22:35 Skipping writing post, no content: https://www.hltv.org/news/39200/short-news-week-6
-2024/06/12 08:22:35 Skipping writing post, no content: https://www.hltv.org/news/39204/blast-preview-g2s-plot-twist-devices-comfort-zone-and-the-four-horse-race
-2024/06/12 08:22:35 Skipping writing post, no content: https://www.hltv.org/news/39220/3dmax-clinch-esl-pro-league-season-20-spot
-2024/06/12 08:22:35 Skipping writing post, no content: https://www.hltv.org/news/39218/apex-on-mezii-i-always-believed-in-him
-2024/06/12 08:22:35 Skipping writing post, no content: https://www.hltv.org/news/39219/metizport-finalize-roster-with-sapec
-2024/06/12 08:22:35 Skipping writing post, no content: https://www.hltv.org/news/39216/hunter-its-not-sure-that-m0nesy-will-come-yet
-2024/06/12 08:22:35 Skipping writing post, no content: https://www.hltv.org/news/39215/im-i-obviously-cared-that-i-won-the-major-but-its-just-another-trophy
-2024/06/12 08:22:35 Skipping writing post, no content: https://www.hltv.org/news/39217/last-seasonal-fantasy-about-to-start-with-blast
-2024/06/12 08:22:35 Skipping writing post, no content: https://www.hltv.org/news/39214/rain-we-feel-countered-especially-on-nuke
-2024/06/12 08:22:35 Skipping writing post, no content: https://www.hltv.org/news/39212/mouz-complete-brollan-signing
-2024/06/12 08:22:35 Templated 82 posts, took 14.276818ms
+2024/06/12 08:39:45 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/12 08:39:45 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 181.255454ms
+2024/06/12 08:39:45 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 199.717023ms
+2024/06/12 08:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39200/short-news-week-6
+2024/06/12 08:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39204/blast-preview-g2s-plot-twist-devices-comfort-zone-and-the-four-horse-race
+2024/06/12 08:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39220/3dmax-clinch-esl-pro-league-season-20-spot
+2024/06/12 08:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39218/apex-on-mezii-i-always-believed-in-him
+2024/06/12 08:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39219/metizport-finalize-roster-with-sapec
+2024/06/12 08:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39216/hunter-its-not-sure-that-m0nesy-will-come-yet
+2024/06/12 08:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39215/im-i-obviously-cared-that-i-won-the-major-but-its-just-another-trophy
+2024/06/12 08:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39217/last-seasonal-fantasy-about-to-start-with-blast
+2024/06/12 08:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39214/rain-we-feel-countered-especially-on-nuke
+2024/06/12 08:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39212/mouz-complete-brollan-signing
+2024/06/12 08:39:45 Fetched posts from https://www.hltv.org/rss/news, took 292.442209ms
+2024/06/12 08:39:46 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 687.605911ms
+2024/06/12 08:39:46 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 789.630795ms
+2024/06/12 08:39:46 Fetched posts from https://vlr.gg/rss, took 809.123019ms
+2024/06/12 08:39:53 Fetched posts from https://blogtienao.com/feed, took 7.628892921s
+2024/06/12 08:40:04 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.113827476s
+2024/06/12 08:40:04 Skipping writing post, no content: https://www.hltv.org/news/39200/short-news-week-6
+2024/06/12 08:40:04 Skipping writing post, no content: https://www.hltv.org/news/39204/blast-preview-g2s-plot-twist-devices-comfort-zone-and-the-four-horse-race
+2024/06/12 08:40:04 Skipping writing post, no content: https://www.hltv.org/news/39220/3dmax-clinch-esl-pro-league-season-20-spot
+2024/06/12 08:40:04 Skipping writing post, no content: https://www.hltv.org/news/39218/apex-on-mezii-i-always-believed-in-him
+2024/06/12 08:40:04 Skipping writing post, no content: https://www.hltv.org/news/39219/metizport-finalize-roster-with-sapec
+2024/06/12 08:40:04 Skipping writing post, no content: https://www.hltv.org/news/39216/hunter-its-not-sure-that-m0nesy-will-come-yet
+2024/06/12 08:40:04 Skipping writing post, no content: https://www.hltv.org/news/39215/im-i-obviously-cared-that-i-won-the-major-but-its-just-another-trophy
+2024/06/12 08:40:04 Skipping writing post, no content: https://www.hltv.org/news/39217/last-seasonal-fantasy-about-to-start-with-blast
+2024/06/12 08:40:04 Skipping writing post, no content: https://www.hltv.org/news/39214/rain-we-feel-countered-especially-on-nuke
+2024/06/12 08:40:04 Skipping writing post, no content: https://www.hltv.org/news/39212/mouz-complete-brollan-signing
+2024/06/12 08:40:04 Templated 81 posts, took 12.729626ms
