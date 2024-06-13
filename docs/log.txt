@@ -1,54 +1,30 @@
-2024/06/13 06:24:20 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 130.342593ms
-2024/06/13 06:24:20 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/13 06:24:20 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 237.546895ms
-2024/06/13 06:24:20 Content still empty after HTML reader: https://www.hltv.org/news/39230/sources-g2-set-sights-on-malbsmd
-2024/06/13 06:24:20 Content still empty after HTML reader: https://www.hltv.org/news/39231/spirit-crush-g2-stand-in-dreams-with-reverse-sweep
-2024/06/13 06:24:20 Content still empty after HTML reader: https://www.hltv.org/news/39222/live-updates-from-blast-premier-spring-final-day-1
-2024/06/13 06:24:20 Content still empty after HTML reader: https://www.hltv.org/news/39200/short-news-week-6
-2024/06/13 06:24:20 Content still empty after HTML reader: https://www.hltv.org/news/39228/alternate-attax-finalize-iem-cologne-team-list
-2024/06/13 06:24:20 Content still empty after HTML reader: https://www.hltv.org/news/39229/virtuspro-move-past-vitality-in-london-after-dust2-comeback
-2024/06/13 06:24:20 Content still empty after HTML reader: https://www.hltv.org/news/39227/hallzerk-pens-new-complexity-contract
-2024/06/13 06:24:20 Content still empty after HTML reader: https://www.hltv.org/news/39226/navi-move-past-astralis-with-dust2-debut
-2024/06/13 06:24:20 Content still empty after HTML reader: https://www.hltv.org/news/39225/berry-on-what-saw-can-improve-they-need-more-pages-in-their-book
-2024/06/13 06:24:20 Content still empty after HTML reader: https://www.hltv.org/news/39224/faze-kick-off-blast-premier-spring-final-with-2-0-victory-over-saw
-2024/06/13 06:24:20 Fetched posts from https://www.hltv.org/rss/news, took 431.35635ms
-2024/06/13 06:24:20 Fetched posts from https://vlr.gg/rss, took 433.526339ms
-2024/06/13 06:24:21 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.049155737s
-2024/06/13 06:24:21 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.403874811s
-2024/06/13 06:24:24 Fetched posts from https://blogtienao.com/feed, took 4.267967648s
-2024/06/13 06:29:20 failed to parse input: context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/euro-2024/mourinho-du-doan-euro-2024-dt-anh-lai-om-han-o-chung-ket-kane-vuot-ronaldo-c955a1576275.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/bong-da/2-ngoi-sao-dt-duc-suyt-au-da-khi-da-tap-roi-nhu-canh-he-truoc-khai-mac-euro-c48a1576187.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/bong-da/video-bong-da-my-brazil-30-phut-an-mieng-tra-mieng-hap-dan-giao-huu-h1-c48a1576188.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/bong-da/messi-xac-nhan-giai-nghe-o-inter-miami-quyet-chinh-phuc-copa-america-2024-c48a1576189.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/euro-2024/ve-cho-den-tran-dt-anh-ra-quan-euro-tang-125-lan-them-1-doi-muon-kien-ngoai-hang-anh-clip-tin-nong-bong-da-24h-c955a1576147.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-my-brazil-tap-duot-lan-cuoi-truoc-copa-america-giao-huu-c48a1576168.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/euro-2024/euro-2024-can-ke-canh-sat-duc-lo-bom-nhau-nao-loan-200000-fan-scotland-keo-den-c955a1576179.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/bong-da/ca-lang-bong-da-viet-nam-nin-tho-khi-clb-khanh-hoa-nguy-co-bo-giai-c48a1576151.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/euro-2024/dt-anh-truoc-gio-lam-tran-euro-rooney-chi-ra-3-sai-lam-lon-cua-southgate-c955a1576176.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/bong-da/bao-anh-tiet-lo-mu-giu-ten-hag-vi-bi-it-nhat-2-hlv-che-ngheo-c48a1576173.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/euro-2024/ronaldo-san-sang-ngoi-du-bi-o-euro-mo-cung-bo-dao-nha-tai-lap-ky-tich-nam-2016-c955a1576108.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/euro-2024/30-ngoi-sao-vang-mat-dang-tiec-o-euro-haaland-isak-phai-ngoi-nha-maguire-so-den-c955a1575122.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/bong-da/tin-nong-euro-sang-13-6-cong-bo-trong-tai-bat-chinh-tran-khai-mac-duc-scotland-c48a1576180.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/bong-da/bong-da-indonesia-kich-hoat-chien-dich-world-cup-2026-ngay-va-luon-c48a1576177.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/euro-2024/euro-2012-chien-cong-lich-su-cua-tay-ban-nha-c955a1575920.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/euro-2024/ket-qua-thi-dau-bong-da-vong-chung-ket-euro-2024-moi-nhat-c955a1566504.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/bong-da/ket-qua-bong-da-copa-america-2024-moi-nhat-c48a1566514.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/euro-2024/bang-xep-hang-bong-da-vong-chung-ket-euro-2024-moi-nhat-c955a1566501.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/bong-da/bang-xep-hang-bong-da-copa-america-2024-moi-nhat-c48a1566508.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/bong-da/lich-thi-dau-bong-da-copa-america-2024-moi-nhat-c48a1527047.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/euro-2024/lich-thi-dau-bong-da-euro-2024-moi-nhat-c955a1526879.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/bong-da/lich-thi-dau-bong-da-cac-doi-tuyen-quoc-gia-giao-huu-c48a457863.html": context deadline exceeded
-2024/06/13 06:29:20 Get "https://www.24h.com.vn/bong-da/lich-thi-dau-bong-da-hom-nay-moi-nhat-c48a364371.html": context deadline exceeded
-2024/06/13 06:29:20 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 5m0.001414033s
-2024/06/13 06:29:20 Skipping writing post, no content: https://www.hltv.org/news/39230/sources-g2-set-sights-on-malbsmd
-2024/06/13 06:29:20 Skipping writing post, no content: https://www.hltv.org/news/39231/spirit-crush-g2-stand-in-dreams-with-reverse-sweep
-2024/06/13 06:29:20 Skipping writing post, no content: https://www.hltv.org/news/39222/live-updates-from-blast-premier-spring-final-day-1
-2024/06/13 06:29:20 Skipping writing post, no content: https://www.hltv.org/news/39200/short-news-week-6
-2024/06/13 06:29:20 Skipping writing post, no content: https://www.hltv.org/news/39228/alternate-attax-finalize-iem-cologne-team-list
-2024/06/13 06:29:20 Skipping writing post, no content: https://www.hltv.org/news/39229/virtuspro-move-past-vitality-in-london-after-dust2-comeback
-2024/06/13 06:29:20 Skipping writing post, no content: https://www.hltv.org/news/39227/hallzerk-pens-new-complexity-contract
-2024/06/13 06:29:20 Skipping writing post, no content: https://www.hltv.org/news/39226/navi-move-past-astralis-with-dust2-debut
-2024/06/13 06:29:20 Skipping writing post, no content: https://www.hltv.org/news/39225/berry-on-what-saw-can-improve-they-need-more-pages-in-their-book
-2024/06/13 06:29:20 Skipping writing post, no content: https://www.hltv.org/news/39224/faze-kick-off-blast-premier-spring-final-with-2-0-victory-over-saw
-2024/06/13 06:29:20 Templated 56 posts, took 9.200237ms
+2024/06/13 06:41:21 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 94.155345ms
+2024/06/13 06:41:21 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/13 06:41:21 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 181.311015ms
+2024/06/13 06:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39230/sources-g2-set-sights-on-malbsmd
+2024/06/13 06:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39231/spirit-crush-g2-stand-in-dreams-with-reverse-sweep
+2024/06/13 06:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39222/live-updates-from-blast-premier-spring-final-day-1
+2024/06/13 06:41:21 Fetched posts from https://vlr.gg/rss, took 369.243955ms
+2024/06/13 06:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39200/short-news-week-6
+2024/06/13 06:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39228/alternate-attax-finalize-iem-cologne-team-list
+2024/06/13 06:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39229/virtuspro-move-past-vitality-in-london-after-dust2-comeback
+2024/06/13 06:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39227/hallzerk-pens-new-complexity-contract
+2024/06/13 06:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39226/navi-move-past-astralis-with-dust2-debut
+2024/06/13 06:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39225/berry-on-what-saw-can-improve-they-need-more-pages-in-their-book
+2024/06/13 06:41:21 Content still empty after HTML reader: https://www.hltv.org/news/39224/faze-kick-off-blast-premier-spring-final-with-2-0-victory-over-saw
+2024/06/13 06:41:21 Fetched posts from https://www.hltv.org/rss/news, took 434.752646ms
+2024/06/13 06:41:22 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 662.208987ms
+2024/06/13 06:41:22 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.025024037s
+2024/06/13 06:41:26 Fetched posts from https://blogtienao.com/feed, took 4.745160991s
+2024/06/13 06:41:43 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.878091227s
+2024/06/13 06:41:43 Skipping writing post, no content: https://www.hltv.org/news/39230/sources-g2-set-sights-on-malbsmd
+2024/06/13 06:41:43 Skipping writing post, no content: https://www.hltv.org/news/39231/spirit-crush-g2-stand-in-dreams-with-reverse-sweep
+2024/06/13 06:41:43 Skipping writing post, no content: https://www.hltv.org/news/39222/live-updates-from-blast-premier-spring-final-day-1
+2024/06/13 06:41:43 Skipping writing post, no content: https://www.hltv.org/news/39200/short-news-week-6
+2024/06/13 06:41:43 Skipping writing post, no content: https://www.hltv.org/news/39228/alternate-attax-finalize-iem-cologne-team-list
+2024/06/13 06:41:43 Skipping writing post, no content: https://www.hltv.org/news/39229/virtuspro-move-past-vitality-in-london-after-dust2-comeback
+2024/06/13 06:41:43 Skipping writing post, no content: https://www.hltv.org/news/39227/hallzerk-pens-new-complexity-contract
+2024/06/13 06:41:43 Skipping writing post, no content: https://www.hltv.org/news/39226/navi-move-past-astralis-with-dust2-debut
+2024/06/13 06:41:43 Skipping writing post, no content: https://www.hltv.org/news/39225/berry-on-what-saw-can-improve-they-need-more-pages-in-their-book
+2024/06/13 06:41:43 Skipping writing post, no content: https://www.hltv.org/news/39224/faze-kick-off-blast-premier-spring-final-with-2-0-victory-over-saw
+2024/06/13 06:41:43 Templated 80 posts, took 12.414895ms
