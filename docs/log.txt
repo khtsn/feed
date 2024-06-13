@@ -1,30 +1,31 @@
-2024/06/13 13:52:05 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 105.407619ms
-2024/06/13 13:52:05 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/13 13:52:05 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 150.51018ms
-2024/06/13 13:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39236/astralis-outclass-saw-to-book-playoff-spot-in-london
-2024/06/13 13:52:05 Fetched posts from https://vlr.gg/rss, took 347.567718ms
-2024/06/13 13:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39234/esl-challenger-jnkping-teams-format-schedule-prizes-talent-fantasy
-2024/06/13 13:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39200/short-news-week-6
-2024/06/13 13:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39232/live-updates-from-blast-premier-spring-final-day-2
-2024/06/13 13:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39233/tyloo-pick-up-jee
-2024/06/13 13:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39230/sources-g2-set-sights-on-malbsmd
-2024/06/13 13:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39231/spirit-crush-g2-stand-in-dreams-with-reverse-sweep
-2024/06/13 13:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39222/live-updates-from-blast-premier-spring-final-day-1
-2024/06/13 13:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39228/alternate-attax-finalize-iem-cologne-team-list
-2024/06/13 13:52:05 Content still empty after HTML reader: https://www.hltv.org/news/39229/virtuspro-move-past-vitality-in-london-after-dust2-comeback
-2024/06/13 13:52:05 Fetched posts from https://www.hltv.org/rss/news, took 495.945792ms
-2024/06/13 13:52:06 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.28205058s
-2024/06/13 13:52:07 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.839663141s
-2024/06/13 13:52:10 Fetched posts from https://blogtienao.com/feed, took 4.956290362s
-2024/06/13 13:52:34 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 29.750743315s
-2024/06/13 13:52:34 Skipping writing post, no content: https://www.hltv.org/news/39236/astralis-outclass-saw-to-book-playoff-spot-in-london
-2024/06/13 13:52:34 Skipping writing post, no content: https://www.hltv.org/news/39234/esl-challenger-jnkping-teams-format-schedule-prizes-talent-fantasy
-2024/06/13 13:52:34 Skipping writing post, no content: https://www.hltv.org/news/39200/short-news-week-6
-2024/06/13 13:52:34 Skipping writing post, no content: https://www.hltv.org/news/39232/live-updates-from-blast-premier-spring-final-day-2
-2024/06/13 13:52:34 Skipping writing post, no content: https://www.hltv.org/news/39233/tyloo-pick-up-jee
-2024/06/13 13:52:34 Skipping writing post, no content: https://www.hltv.org/news/39230/sources-g2-set-sights-on-malbsmd
-2024/06/13 13:52:34 Skipping writing post, no content: https://www.hltv.org/news/39231/spirit-crush-g2-stand-in-dreams-with-reverse-sweep
-2024/06/13 13:52:34 Skipping writing post, no content: https://www.hltv.org/news/39222/live-updates-from-blast-premier-spring-final-day-1
-2024/06/13 13:52:34 Skipping writing post, no content: https://www.hltv.org/news/39228/alternate-attax-finalize-iem-cologne-team-list
-2024/06/13 13:52:34 Skipping writing post, no content: https://www.hltv.org/news/39229/virtuspro-move-past-vitality-in-london-after-dust2-comeback
-2024/06/13 13:52:34 Templated 83 posts, took 14.284377ms
+2024/06/13 14:17:09 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 108.98172ms
+2024/06/13 14:17:09 Content still empty after HTML reader: https://www.hltv.org/news/39236/astralis-outclass-saw-to-book-playoff-spot-in-london
+2024/06/13 14:17:09 Content still empty after HTML reader: https://www.hltv.org/news/39234/esl-challenger-jnkping-teams-format-schedule-prizes-talent-fantasy
+2024/06/13 14:17:09 Content still empty after HTML reader: https://www.hltv.org/news/39200/short-news-week-6
+2024/06/13 14:17:09 Content still empty after HTML reader: https://www.hltv.org/news/39232/live-updates-from-blast-premier-spring-final-day-2
+2024/06/13 14:17:09 Content still empty after HTML reader: https://www.hltv.org/news/39233/tyloo-pick-up-jee
+2024/06/13 14:17:10 Content still empty after HTML reader: https://www.hltv.org/news/39230/sources-g2-set-sights-on-malbsmd
+2024/06/13 14:17:10 Content still empty after HTML reader: https://www.hltv.org/news/39231/spirit-crush-g2-stand-in-dreams-with-reverse-sweep
+2024/06/13 14:17:10 Content still empty after HTML reader: https://www.hltv.org/news/39222/live-updates-from-blast-premier-spring-final-day-1
+2024/06/13 14:17:10 Content still empty after HTML reader: https://www.hltv.org/news/39228/alternate-attax-finalize-iem-cologne-team-list
+2024/06/13 14:17:10 Fetched posts from https://vlr.gg/rss, took 426.013723ms
+2024/06/13 14:17:10 Content still empty after HTML reader: https://www.hltv.org/news/39229/virtuspro-move-past-vitality-in-london-after-dust2-comeback
+2024/06/13 14:17:10 Fetched posts from https://www.hltv.org/rss/news, took 446.868013ms
+2024/06/13 14:17:10 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/13 14:17:10 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 885.808089ms
+2024/06/13 14:17:10 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 949.80023ms
+2024/06/13 14:17:10 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.130820269s
+2024/06/13 14:17:18 Fetched posts from https://blogtienao.com/feed, took 8.438181626s
+2024/06/13 14:17:23 error parsing https://cdn.24h.com.vn/upload/rss/bongda.rss: Get "https://cdn.24h.com.vn/upload/rss/bongda.rss": net/http: TLS handshake timeout
+2024/06/13 14:17:23 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.020528494s
+2024/06/13 14:17:23 Skipping writing post, no content: https://www.hltv.org/news/39236/astralis-outclass-saw-to-book-playoff-spot-in-london
+2024/06/13 14:17:23 Skipping writing post, no content: https://www.hltv.org/news/39234/esl-challenger-jnkping-teams-format-schedule-prizes-talent-fantasy
+2024/06/13 14:17:23 Skipping writing post, no content: https://www.hltv.org/news/39200/short-news-week-6
+2024/06/13 14:17:23 Skipping writing post, no content: https://www.hltv.org/news/39232/live-updates-from-blast-premier-spring-final-day-2
+2024/06/13 14:17:23 Skipping writing post, no content: https://www.hltv.org/news/39233/tyloo-pick-up-jee
+2024/06/13 14:17:23 Skipping writing post, no content: https://www.hltv.org/news/39230/sources-g2-set-sights-on-malbsmd
+2024/06/13 14:17:23 Skipping writing post, no content: https://www.hltv.org/news/39231/spirit-crush-g2-stand-in-dreams-with-reverse-sweep
+2024/06/13 14:17:23 Skipping writing post, no content: https://www.hltv.org/news/39222/live-updates-from-blast-premier-spring-final-day-1
+2024/06/13 14:17:23 Skipping writing post, no content: https://www.hltv.org/news/39228/alternate-attax-finalize-iem-cologne-team-list
+2024/06/13 14:17:23 Skipping writing post, no content: https://www.hltv.org/news/39229/virtuspro-move-past-vitality-in-london-after-dust2-comeback
+2024/06/13 14:17:23 Templated 60 posts, took 9.858367ms
