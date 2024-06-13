@@ -1,30 +1,32 @@
-2024/06/12 23:52:33 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 92.703585ms
-2024/06/12 23:52:33 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/12 23:52:33 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 152.996318ms
-2024/06/12 23:52:33 Fetched posts from https://vlr.gg/rss, took 299.740722ms
-2024/06/12 23:52:33 Content still empty after HTML reader: https://www.hltv.org/news/39230/sources-g2-set-sights-on-malbsmd
-2024/06/12 23:52:33 Content still empty after HTML reader: https://www.hltv.org/news/39231/spirit-crush-g2-stand-in-dreams-with-reverse-sweep
-2024/06/12 23:52:33 Content still empty after HTML reader: https://www.hltv.org/news/39222/live-updates-from-blast-premier-spring-final-day-1
-2024/06/12 23:52:33 Content still empty after HTML reader: https://www.hltv.org/news/39200/short-news-week-6
-2024/06/12 23:52:33 Content still empty after HTML reader: https://www.hltv.org/news/39228/alternate-attax-finalize-iem-cologne-team-list
-2024/06/12 23:52:33 Content still empty after HTML reader: https://www.hltv.org/news/39229/virtuspro-move-past-vitality-in-london-after-dust2-comeback
-2024/06/12 23:52:33 Content still empty after HTML reader: https://www.hltv.org/news/39227/hallzerk-pens-new-complexity-contract
-2024/06/12 23:52:33 Content still empty after HTML reader: https://www.hltv.org/news/39226/navi-move-past-astralis-with-dust2-debut
-2024/06/12 23:52:33 Content still empty after HTML reader: https://www.hltv.org/news/39225/berry-on-what-saw-can-improve-they-need-more-pages-in-their-book
-2024/06/12 23:52:33 Content still empty after HTML reader: https://www.hltv.org/news/39224/faze-kick-off-blast-premier-spring-final-with-2-0-victory-over-saw
-2024/06/12 23:52:33 Fetched posts from https://www.hltv.org/rss/news, took 479.981007ms
-2024/06/12 23:52:33 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 610.344717ms
-2024/06/12 23:52:34 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 969.15668ms
-2024/06/12 23:52:37 Fetched posts from https://blogtienao.com/feed, took 4.753043451s
-2024/06/12 23:52:55 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.728385794s
-2024/06/12 23:52:55 Skipping writing post, no content: https://www.hltv.org/news/39230/sources-g2-set-sights-on-malbsmd
-2024/06/12 23:52:55 Skipping writing post, no content: https://www.hltv.org/news/39231/spirit-crush-g2-stand-in-dreams-with-reverse-sweep
-2024/06/12 23:52:55 Skipping writing post, no content: https://www.hltv.org/news/39222/live-updates-from-blast-premier-spring-final-day-1
-2024/06/12 23:52:55 Skipping writing post, no content: https://www.hltv.org/news/39200/short-news-week-6
-2024/06/12 23:52:55 Skipping writing post, no content: https://www.hltv.org/news/39228/alternate-attax-finalize-iem-cologne-team-list
-2024/06/12 23:52:55 Skipping writing post, no content: https://www.hltv.org/news/39229/virtuspro-move-past-vitality-in-london-after-dust2-comeback
-2024/06/12 23:52:55 Skipping writing post, no content: https://www.hltv.org/news/39227/hallzerk-pens-new-complexity-contract
-2024/06/12 23:52:55 Skipping writing post, no content: https://www.hltv.org/news/39226/navi-move-past-astralis-with-dust2-debut
-2024/06/12 23:52:55 Skipping writing post, no content: https://www.hltv.org/news/39225/berry-on-what-saw-can-improve-they-need-more-pages-in-their-book
-2024/06/12 23:52:55 Skipping writing post, no content: https://www.hltv.org/news/39224/faze-kick-off-blast-premier-spring-final-with-2-0-victory-over-saw
-2024/06/12 23:52:55 Templated 90 posts, took 13.335054ms
+2024/06/13 01:16:48 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 222.349699ms
+2024/06/13 01:16:48 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/13 01:16:48 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 289.523266ms
+2024/06/13 01:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39230/sources-g2-set-sights-on-malbsmd
+2024/06/13 01:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39231/spirit-crush-g2-stand-in-dreams-with-reverse-sweep
+2024/06/13 01:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39222/live-updates-from-blast-premier-spring-final-day-1
+2024/06/13 01:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39200/short-news-week-6
+2024/06/13 01:16:48 Content still empty after HTML reader: https://www.nytimes.com/2024/06/12/us/politics/house-garland-attorney-general-biden-contempt.html
+2024/06/13 01:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39228/alternate-attax-finalize-iem-cologne-team-list
+2024/06/13 01:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39229/virtuspro-move-past-vitality-in-london-after-dust2-comeback
+2024/06/13 01:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39227/hallzerk-pens-new-complexity-contract
+2024/06/13 01:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39226/navi-move-past-astralis-with-dust2-debut
+2024/06/13 01:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39225/berry-on-what-saw-can-improve-they-need-more-pages-in-their-book
+2024/06/13 01:16:48 Content still empty after HTML reader: https://www.hltv.org/news/39224/faze-kick-off-blast-premier-spring-final-with-2-0-victory-over-saw
+2024/06/13 01:16:48 Fetched posts from https://www.hltv.org/rss/news, took 450.518801ms
+2024/06/13 01:16:48 Fetched posts from https://vlr.gg/rss, took 458.255016ms
+2024/06/13 01:16:49 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 970.344301ms
+2024/06/13 01:16:50 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.867168351s
+2024/06/13 01:16:54 Fetched posts from https://blogtienao.com/feed, took 6.249994724s
+2024/06/13 01:17:07 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.285312418s
+2024/06/13 01:17:07 Skipping writing post, no content: https://www.hltv.org/news/39230/sources-g2-set-sights-on-malbsmd
+2024/06/13 01:17:07 Skipping writing post, no content: https://www.hltv.org/news/39231/spirit-crush-g2-stand-in-dreams-with-reverse-sweep
+2024/06/13 01:17:07 Skipping writing post, no content: https://www.hltv.org/news/39222/live-updates-from-blast-premier-spring-final-day-1
+2024/06/13 01:17:07 Skipping writing post, no content: https://www.nytimes.com/2024/06/12/us/politics/house-garland-attorney-general-biden-contempt.html
+2024/06/13 01:17:07 Skipping writing post, no content: https://www.hltv.org/news/39200/short-news-week-6
+2024/06/13 01:17:07 Skipping writing post, no content: https://www.hltv.org/news/39228/alternate-attax-finalize-iem-cologne-team-list
+2024/06/13 01:17:07 Skipping writing post, no content: https://www.hltv.org/news/39229/virtuspro-move-past-vitality-in-london-after-dust2-comeback
+2024/06/13 01:17:07 Skipping writing post, no content: https://www.hltv.org/news/39227/hallzerk-pens-new-complexity-contract
+2024/06/13 01:17:07 Skipping writing post, no content: https://www.hltv.org/news/39226/navi-move-past-astralis-with-dust2-debut
+2024/06/13 01:17:07 Skipping writing post, no content: https://www.hltv.org/news/39225/berry-on-what-saw-can-improve-they-need-more-pages-in-their-book
+2024/06/13 01:17:07 Skipping writing post, no content: https://www.hltv.org/news/39224/faze-kick-off-blast-premier-spring-final-with-2-0-victory-over-saw
+2024/06/13 01:17:07 Templated 91 posts, took 14.715489ms
