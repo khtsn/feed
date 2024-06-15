@@ -1,30 +1,32 @@
-2024/06/15 13:52:32 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 128.93254ms
-2024/06/15 13:52:32 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/15 13:52:32 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 208.946027ms
-2024/06/15 13:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39254/live-updates-from-blast-premier-spring-final-semi-finals
-2024/06/15 13:52:32 Fetched posts from https://vlr.gg/rss, took 365.628058ms
-2024/06/15 13:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39255/jame-every-team-should-change-its-vision-and-destroy-long-standing-partnerships-to-improve
-2024/06/15 13:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39200/short-news-week-6
-2024/06/15 13:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39253/staehr-if-we-raise-our-lowest-level-we-can-become-contenders-for-almost-every-tournament
-2024/06/15 13:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39252/virtuspro-head-to-spring-final-semis-over-astralis
-2024/06/15 13:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39248/live-updates-from-blast-premier-spring-final-quarter-finals
-2024/06/15 13:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39251/vitality-beat-faze-to-set-up-spirit-clash-in-london
-2024/06/15 13:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39249/official-blast-to-host-2025-summer-major-in-austin
-2024/06/15 13:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39250/blast-announces-2025-circuit-details
-2024/06/15 13:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39247/into-the-breach-sign-juanflatroo
-2024/06/15 13:52:32 Fetched posts from https://www.hltv.org/rss/news, took 520.848221ms
-2024/06/15 13:52:32 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 791.455555ms
-2024/06/15 13:52:33 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 996.539014ms
-2024/06/15 13:52:36 Fetched posts from https://blogtienao.com/feed, took 4.844360739s
-2024/06/15 13:52:57 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 25.382057766s
-2024/06/15 13:52:57 Skipping writing post, no content: https://www.hltv.org/news/39254/live-updates-from-blast-premier-spring-final-semi-finals
-2024/06/15 13:52:57 Skipping writing post, no content: https://www.hltv.org/news/39255/jame-every-team-should-change-its-vision-and-destroy-long-standing-partnerships-to-improve
-2024/06/15 13:52:57 Skipping writing post, no content: https://www.hltv.org/news/39200/short-news-week-6
-2024/06/15 13:52:57 Skipping writing post, no content: https://www.hltv.org/news/39253/staehr-if-we-raise-our-lowest-level-we-can-become-contenders-for-almost-every-tournament
-2024/06/15 13:52:57 Skipping writing post, no content: https://www.hltv.org/news/39252/virtuspro-head-to-spring-final-semis-over-astralis
-2024/06/15 13:52:57 Skipping writing post, no content: https://www.hltv.org/news/39248/live-updates-from-blast-premier-spring-final-quarter-finals
-2024/06/15 13:52:57 Skipping writing post, no content: https://www.hltv.org/news/39251/vitality-beat-faze-to-set-up-spirit-clash-in-london
-2024/06/15 13:52:57 Skipping writing post, no content: https://www.hltv.org/news/39249/official-blast-to-host-2025-summer-major-in-austin
-2024/06/15 13:52:57 Skipping writing post, no content: https://www.hltv.org/news/39250/blast-announces-2025-circuit-details
-2024/06/15 13:52:57 Skipping writing post, no content: https://www.hltv.org/news/39247/into-the-breach-sign-juanflatroo
-2024/06/15 13:52:57 Templated 84 posts, took 13.458136ms
+2024/06/15 14:15:28 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 155.657387ms
+2024/06/15 14:15:28 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/15 14:15:28 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 262.196291ms
+2024/06/15 14:15:28 Content still empty after HTML reader: https://www.hltv.org/news/39200/short-news-week-6
+2024/06/15 14:15:28 Fetched posts from https://vlr.gg/rss, took 339.143616ms
+2024/06/15 14:15:28 Content still empty after HTML reader: https://www.hltv.org/news/39254/live-updates-from-blast-premier-spring-final-semi-finals
+2024/06/15 14:15:28 Content still empty after HTML reader: https://www.hltv.org/news/39255/jame-every-team-should-change-its-vision-and-destroy-long-standing-partnerships-to-improve
+2024/06/15 14:15:28 Content still empty after HTML reader: https://www.hltv.org/news/39253/staehr-if-we-raise-our-lowest-level-we-can-become-contenders-for-almost-every-tournament
+2024/06/15 14:15:28 Content still empty after HTML reader: https://www.hltv.org/news/39252/virtuspro-head-to-spring-final-semis-over-astralis
+2024/06/15 14:15:28 Content still empty after HTML reader: https://www.hltv.org/news/39248/live-updates-from-blast-premier-spring-final-quarter-finals
+2024/06/15 14:15:28 Content still empty after HTML reader: https://www.hltv.org/news/39251/vitality-beat-faze-to-set-up-spirit-clash-in-london
+2024/06/15 14:15:28 Content still empty after HTML reader: https://www.hltv.org/news/39249/official-blast-to-host-2025-summer-major-in-austin
+2024/06/15 14:15:28 Content still empty after HTML reader: https://www.hltv.org/news/39250/blast-announces-2025-circuit-details
+2024/06/15 14:15:28 Content still empty after HTML reader: https://www.hltv.org/news/39247/into-the-breach-sign-juanflatroo
+2024/06/15 14:15:28 Fetched posts from https://www.hltv.org/rss/news, took 445.575841ms
+2024/06/15 14:15:28 Content still empty after HTML reader: https://www.nytimes.com/2024/06/15/magazine/serena-williams-interview.html
+2024/06/15 14:15:28 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.047544048s
+2024/06/15 14:15:28 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.078527902s
+2024/06/15 14:15:32 Fetched posts from https://blogtienao.com/feed, took 4.332688348s
+2024/06/15 14:15:47 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.126938727s
+2024/06/15 14:15:47 Skipping writing post, no content: https://www.hltv.org/news/39200/short-news-week-6
+2024/06/15 14:15:47 Skipping writing post, no content: https://www.hltv.org/news/39254/live-updates-from-blast-premier-spring-final-semi-finals
+2024/06/15 14:15:47 Skipping writing post, no content: https://www.hltv.org/news/39255/jame-every-team-should-change-its-vision-and-destroy-long-standing-partnerships-to-improve
+2024/06/15 14:15:47 Skipping writing post, no content: https://www.nytimes.com/2024/06/15/magazine/serena-williams-interview.html
+2024/06/15 14:15:47 Skipping writing post, no content: https://www.hltv.org/news/39253/staehr-if-we-raise-our-lowest-level-we-can-become-contenders-for-almost-every-tournament
+2024/06/15 14:15:47 Skipping writing post, no content: https://www.hltv.org/news/39252/virtuspro-head-to-spring-final-semis-over-astralis
+2024/06/15 14:15:47 Skipping writing post, no content: https://www.hltv.org/news/39248/live-updates-from-blast-premier-spring-final-quarter-finals
+2024/06/15 14:15:47 Skipping writing post, no content: https://www.hltv.org/news/39251/vitality-beat-faze-to-set-up-spirit-clash-in-london
+2024/06/15 14:15:47 Skipping writing post, no content: https://www.hltv.org/news/39249/official-blast-to-host-2025-summer-major-in-austin
+2024/06/15 14:15:47 Skipping writing post, no content: https://www.hltv.org/news/39250/blast-announces-2025-circuit-details
+2024/06/15 14:15:47 Skipping writing post, no content: https://www.hltv.org/news/39247/into-the-breach-sign-juanflatroo
+2024/06/15 14:15:47 Templated 83 posts, took 13.514447ms
