@@ -1,30 +1,31 @@
-2024/06/17 15:52:14 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 127.027053ms
-2024/06/17 15:52:14 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/17 15:52:14 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 136.95919ms
-2024/06/17 15:52:14 Content still empty after HTML reader: https://www.hltv.org/news/39274/g2-bench-nexa
-2024/06/17 15:52:14 Content still empty after HTML reader: https://www.hltv.org/news/39272/b1ad3-a-bo5-was-a-little-bit-too-much-for-us
-2024/06/17 15:52:14 Content still empty after HTML reader: https://www.hltv.org/news/39257/hltv-awards-launch-show-tonight-find-out-when-the-main-ceremony-will-take-place-and-who-is-leading-the-race-for-trophies
-2024/06/17 15:52:14 Content still empty after HTML reader: https://www.hltv.org/news/39273/9z-raise-fireleague-global-finals-trophy-in-front-of-home-crowd
-2024/06/17 15:52:14 Content still empty after HTML reader: https://www.hltv.org/news/39200/short-news-week-6
-2024/06/17 15:52:14 Content still empty after HTML reader: https://www.hltv.org/news/39271/b8-tally-third-event-win-with-cct-s2-eu-series-5
-2024/06/17 15:52:14 Fetched posts from https://vlr.gg/rss, took 477.583154ms
-2024/06/17 15:52:14 Content still empty after HTML reader: https://www.hltv.org/news/39267/donk-i-think-m0nesy-has-the-highest-chance-to-become-player-of-the-year
-2024/06/17 15:52:14 Content still empty after HTML reader: https://www.hltv.org/news/39269/aleksib-we-showed-that-we-are-capable-again
-2024/06/17 15:52:14 Content still empty after HTML reader: https://www.hltv.org/news/39270/complexity-end-14-year-lan-trophy-drought-with-esl-challenger-jnkping-title
-2024/06/17 15:52:14 Content still empty after HTML reader: https://www.hltv.org/news/39268/donk-awarded-blast-premier-spring-final-mvp
-2024/06/17 15:52:14 Fetched posts from https://www.hltv.org/rss/news, took 547.411436ms
-2024/06/17 15:52:14 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 683.81959ms
-2024/06/17 15:52:15 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 924.937144ms
-2024/06/17 15:52:19 Fetched posts from https://blogtienao.com/feed, took 5.123613741s
-2024/06/17 15:52:36 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.78244291s
-2024/06/17 15:52:36 Skipping writing post, no content: https://www.hltv.org/news/39274/g2-bench-nexa
-2024/06/17 15:52:36 Skipping writing post, no content: https://www.hltv.org/news/39272/b1ad3-a-bo5-was-a-little-bit-too-much-for-us
-2024/06/17 15:52:36 Skipping writing post, no content: https://www.hltv.org/news/39257/hltv-awards-launch-show-tonight-find-out-when-the-main-ceremony-will-take-place-and-who-is-leading-the-race-for-trophies
-2024/06/17 15:52:36 Skipping writing post, no content: https://www.hltv.org/news/39273/9z-raise-fireleague-global-finals-trophy-in-front-of-home-crowd
-2024/06/17 15:52:36 Skipping writing post, no content: https://www.hltv.org/news/39200/short-news-week-6
-2024/06/17 15:52:36 Skipping writing post, no content: https://www.hltv.org/news/39271/b8-tally-third-event-win-with-cct-s2-eu-series-5
-2024/06/17 15:52:36 Skipping writing post, no content: https://www.hltv.org/news/39267/donk-i-think-m0nesy-has-the-highest-chance-to-become-player-of-the-year
-2024/06/17 15:52:36 Skipping writing post, no content: https://www.hltv.org/news/39269/aleksib-we-showed-that-we-are-capable-again
-2024/06/17 15:52:36 Skipping writing post, no content: https://www.hltv.org/news/39270/complexity-end-14-year-lan-trophy-drought-with-esl-challenger-jnkping-title
-2024/06/17 15:52:36 Skipping writing post, no content: https://www.hltv.org/news/39268/donk-awarded-blast-premier-spring-final-mvp
-2024/06/17 15:52:36 Templated 83 posts, took 13.188346ms
+2024/06/17 16:22:40 error parsing https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml: http error: 404 Not Found
+2024/06/17 16:22:40 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 32.162485ms
+2024/06/17 16:22:40 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/17 16:22:40 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 128.882717ms
+2024/06/17 16:22:40 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 205.514218ms
+2024/06/17 16:22:40 Content still empty after HTML reader: https://www.hltv.org/news/39275/media-furia-in-advanced-negotiations-for-skullz
+2024/06/17 16:22:40 Content still empty after HTML reader: https://www.hltv.org/news/39274/g2-bench-nexa
+2024/06/17 16:22:40 Content still empty after HTML reader: https://www.hltv.org/news/39272/b1ad3-a-bo5-was-a-little-bit-too-much-for-us
+2024/06/17 16:22:40 Content still empty after HTML reader: https://www.hltv.org/news/39257/hltv-awards-launch-show-tonight-find-out-when-the-main-ceremony-will-take-place-and-who-is-leading-the-race-for-trophies
+2024/06/17 16:22:40 Content still empty after HTML reader: https://www.hltv.org/news/39273/9z-raise-fireleague-global-finals-trophy-in-front-of-home-crowd
+2024/06/17 16:22:40 Content still empty after HTML reader: https://www.hltv.org/news/39200/short-news-week-6
+2024/06/17 16:22:40 Content still empty after HTML reader: https://www.hltv.org/news/39271/b8-tally-third-event-win-with-cct-s2-eu-series-5
+2024/06/17 16:22:40 Content still empty after HTML reader: https://www.hltv.org/news/39267/donk-i-think-m0nesy-has-the-highest-chance-to-become-player-of-the-year
+2024/06/17 16:22:40 Content still empty after HTML reader: https://www.hltv.org/news/39269/aleksib-we-showed-that-we-are-capable-again
+2024/06/17 16:22:40 Content still empty after HTML reader: https://www.hltv.org/news/39270/complexity-end-14-year-lan-trophy-drought-with-esl-challenger-jnkping-title
+2024/06/17 16:22:40 Fetched posts from https://www.hltv.org/rss/news, took 337.208666ms
+2024/06/17 16:22:41 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 801.488637ms
+2024/06/17 16:22:41 Fetched posts from https://vlr.gg/rss, took 989.311368ms
+2024/06/17 16:22:46 Fetched posts from https://blogtienao.com/feed, took 6.429384704s
+2024/06/17 16:23:00 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.045204205s
+2024/06/17 16:23:00 Skipping writing post, no content: https://www.hltv.org/news/39275/media-furia-in-advanced-negotiations-for-skullz
+2024/06/17 16:23:00 Skipping writing post, no content: https://www.hltv.org/news/39274/g2-bench-nexa
+2024/06/17 16:23:00 Skipping writing post, no content: https://www.hltv.org/news/39272/b1ad3-a-bo5-was-a-little-bit-too-much-for-us
+2024/06/17 16:23:00 Skipping writing post, no content: https://www.hltv.org/news/39257/hltv-awards-launch-show-tonight-find-out-when-the-main-ceremony-will-take-place-and-who-is-leading-the-race-for-trophies
+2024/06/17 16:23:00 Skipping writing post, no content: https://www.hltv.org/news/39273/9z-raise-fireleague-global-finals-trophy-in-front-of-home-crowd
+2024/06/17 16:23:00 Skipping writing post, no content: https://www.hltv.org/news/39200/short-news-week-6
+2024/06/17 16:23:00 Skipping writing post, no content: https://www.hltv.org/news/39271/b8-tally-third-event-win-with-cct-s2-eu-series-5
+2024/06/17 16:23:00 Skipping writing post, no content: https://www.hltv.org/news/39267/donk-i-think-m0nesy-has-the-highest-chance-to-become-player-of-the-year
+2024/06/17 16:23:00 Skipping writing post, no content: https://www.hltv.org/news/39269/aleksib-we-showed-that-we-are-capable-again
+2024/06/17 16:23:00 Skipping writing post, no content: https://www.hltv.org/news/39270/complexity-end-14-year-lan-trophy-drought-with-esl-challenger-jnkping-title
+2024/06/17 16:23:00 Templated 58 posts, took 9.321014ms
