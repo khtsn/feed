@@ -1,30 +1,32 @@
-2024/06/18 02:20:11 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 121.659736ms
-2024/06/18 02:20:11 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/18 02:20:11 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 124.703104ms
-2024/06/18 02:20:11 Content still empty after HTML reader: https://www.hltv.org/news/39280/5w-lineup-sever-ties-with-organization-they-scammed-us
-2024/06/18 02:20:11 Content still empty after HTML reader: https://www.hltv.org/news/39279/media-wildcard-close-in-on-phzy-and-susp
-2024/06/18 02:20:11 Content still empty after HTML reader: https://www.hltv.org/news/39277/juve-re-joins-into-the-breach-as-coach
-2024/06/18 02:20:11 Content still empty after HTML reader: https://www.hltv.org/news/39278/liquid-bench-cadian-our-time-together-didnt-work-out-as-we-hoped
-2024/06/18 02:20:11 Content still empty after HTML reader: https://www.hltv.org/news/39276/spirit-rise-to-no-1-for-first-time-in-history
-2024/06/18 02:20:11 Fetched posts from https://vlr.gg/rss, took 394.012473ms
-2024/06/18 02:20:11 Content still empty after HTML reader: https://www.hltv.org/news/39275/media-furia-in-advanced-negotiations-for-skullz
-2024/06/18 02:20:11 Content still empty after HTML reader: https://www.hltv.org/news/39274/g2-bench-nexa
-2024/06/18 02:20:11 Content still empty after HTML reader: https://www.hltv.org/news/39272/b1ad3-a-bo5-was-a-little-bit-too-much-for-us
-2024/06/18 02:20:12 Content still empty after HTML reader: https://www.hltv.org/news/39257/hltv-awards-launch-show-tonight-find-out-when-the-main-ceremony-will-take-place-and-who-is-leading-the-race-for-trophies
-2024/06/18 02:20:12 Content still empty after HTML reader: https://www.hltv.org/news/39273/9z-raise-fireleague-global-finals-trophy-in-front-of-home-crowd
-2024/06/18 02:20:12 Fetched posts from https://www.hltv.org/rss/news, took 451.618466ms
-2024/06/18 02:20:12 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 765.831676ms
-2024/06/18 02:20:12 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.077345714s
-2024/06/18 02:20:17 Fetched posts from https://blogtienao.com/feed, took 5.744197897s
-2024/06/18 02:20:35 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 23.667504646s
-2024/06/18 02:20:35 Skipping writing post, no content: https://www.hltv.org/news/39280/5w-lineup-sever-ties-with-organization-they-scammed-us
-2024/06/18 02:20:35 Skipping writing post, no content: https://www.hltv.org/news/39279/media-wildcard-close-in-on-phzy-and-susp
-2024/06/18 02:20:35 Skipping writing post, no content: https://www.hltv.org/news/39277/juve-re-joins-into-the-breach-as-coach
-2024/06/18 02:20:35 Skipping writing post, no content: https://www.hltv.org/news/39278/liquid-bench-cadian-our-time-together-didnt-work-out-as-we-hoped
-2024/06/18 02:20:35 Skipping writing post, no content: https://www.hltv.org/news/39276/spirit-rise-to-no-1-for-first-time-in-history
-2024/06/18 02:20:35 Skipping writing post, no content: https://www.hltv.org/news/39275/media-furia-in-advanced-negotiations-for-skullz
-2024/06/18 02:20:35 Skipping writing post, no content: https://www.hltv.org/news/39274/g2-bench-nexa
-2024/06/18 02:20:35 Skipping writing post, no content: https://www.hltv.org/news/39272/b1ad3-a-bo5-was-a-little-bit-too-much-for-us
-2024/06/18 02:20:35 Skipping writing post, no content: https://www.hltv.org/news/39257/hltv-awards-launch-show-tonight-find-out-when-the-main-ceremony-will-take-place-and-who-is-leading-the-race-for-trophies
-2024/06/18 02:20:35 Skipping writing post, no content: https://www.hltv.org/news/39273/9z-raise-fireleague-global-finals-trophy-in-front-of-home-crowd
-2024/06/18 02:20:35 Templated 84 posts, took 13.974614ms
+2024/06/18 02:46:48 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 85.811782ms
+2024/06/18 02:46:48 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/18 02:46:48 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 140.072138ms
+2024/06/18 02:46:48 Content still empty after HTML reader: https://www.hltv.org/news/39280/5w-lineup-sever-ties-with-organization-they-scammed-us
+2024/06/18 02:46:48 Content still empty after HTML reader: https://www.nytimes.com/2024/06/17/opinion/social-media-health-warning.html
+2024/06/18 02:46:48 Content still empty after HTML reader: https://www.hltv.org/news/39279/media-wildcard-close-in-on-phzy-and-susp
+2024/06/18 02:46:48 Content still empty after HTML reader: https://www.hltv.org/news/39277/juve-re-joins-into-the-breach-as-coach
+2024/06/18 02:46:48 Content still empty after HTML reader: https://www.hltv.org/news/39278/liquid-bench-cadian-our-time-together-didnt-work-out-as-we-hoped
+2024/06/18 02:46:48 Content still empty after HTML reader: https://www.hltv.org/news/39276/spirit-rise-to-no-1-for-first-time-in-history
+2024/06/18 02:46:48 Content still empty after HTML reader: https://www.hltv.org/news/39275/media-furia-in-advanced-negotiations-for-skullz
+2024/06/18 02:46:48 Content still empty after HTML reader: https://www.hltv.org/news/39274/g2-bench-nexa
+2024/06/18 02:46:48 Content still empty after HTML reader: https://www.hltv.org/news/39272/b1ad3-a-bo5-was-a-little-bit-too-much-for-us
+2024/06/18 02:46:48 Content still empty after HTML reader: https://www.hltv.org/news/39257/hltv-awards-launch-show-tonight-find-out-when-the-main-ceremony-will-take-place-and-who-is-leading-the-race-for-trophies
+2024/06/18 02:46:48 Content still empty after HTML reader: https://www.hltv.org/news/39273/9z-raise-fireleague-global-finals-trophy-in-front-of-home-crowd
+2024/06/18 02:46:48 Fetched posts from https://www.hltv.org/rss/news, took 285.430883ms
+2024/06/18 02:46:48 Fetched posts from https://vlr.gg/rss, took 353.979163ms
+2024/06/18 02:46:48 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 725.654767ms
+2024/06/18 02:46:48 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 895.490086ms
+2024/06/18 02:46:52 Fetched posts from https://blogtienao.com/feed, took 4.907675449s
+2024/06/18 02:47:10 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.337981611s
+2024/06/18 02:47:10 Skipping writing post, no content: https://www.hltv.org/news/39280/5w-lineup-sever-ties-with-organization-they-scammed-us
+2024/06/18 02:47:10 Skipping writing post, no content: https://www.hltv.org/news/39279/media-wildcard-close-in-on-phzy-and-susp
+2024/06/18 02:47:10 Skipping writing post, no content: https://www.hltv.org/news/39277/juve-re-joins-into-the-breach-as-coach
+2024/06/18 02:47:10 Skipping writing post, no content: https://www.hltv.org/news/39278/liquid-bench-cadian-our-time-together-didnt-work-out-as-we-hoped
+2024/06/18 02:47:10 Skipping writing post, no content: https://www.hltv.org/news/39276/spirit-rise-to-no-1-for-first-time-in-history
+2024/06/18 02:47:10 Skipping writing post, no content: https://www.hltv.org/news/39275/media-furia-in-advanced-negotiations-for-skullz
+2024/06/18 02:47:10 Skipping writing post, no content: https://www.hltv.org/news/39274/g2-bench-nexa
+2024/06/18 02:47:10 Skipping writing post, no content: https://www.nytimes.com/2024/06/17/opinion/social-media-health-warning.html
+2024/06/18 02:47:10 Skipping writing post, no content: https://www.hltv.org/news/39272/b1ad3-a-bo5-was-a-little-bit-too-much-for-us
+2024/06/18 02:47:10 Skipping writing post, no content: https://www.hltv.org/news/39257/hltv-awards-launch-show-tonight-find-out-when-the-main-ceremony-will-take-place-and-who-is-leading-the-race-for-trophies
+2024/06/18 02:47:10 Skipping writing post, no content: https://www.hltv.org/news/39273/9z-raise-fireleague-global-finals-trophy-in-front-of-home-crowd
+2024/06/18 02:47:10 Templated 84 posts, took 13.514773ms
