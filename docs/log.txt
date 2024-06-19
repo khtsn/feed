@@ -1,28 +1,30 @@
-2024/06/19 08:52:23 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/19 08:52:23 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 150.093979ms
-2024/06/19 08:52:23 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 187.125941ms
-2024/06/19 08:52:23 Content still empty after HTML reader: https://www.hltv.org/news/39285/spirit-the-mongolz-among-final-teams-invited-to-esl-pro-league-season-20
-2024/06/19 08:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39283/marvinw56-takes-5000-fantasy-spring-season-grand-prize-lucyluce-wins-celebrity-league
-2024/06/19 08:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39202/the-evps-and-best-five-of-yalla-compass
-2024/06/19 08:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39281/hltv-awards-will-return-to-belgrade
-2024/06/19 08:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39280/5w-lineup-sever-ties-with-organization-they-scammed-us
-2024/06/19 08:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39279/media-wildcard-close-in-on-phzy-and-susp
-2024/06/19 08:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39277/juve-re-joins-into-the-breach-as-coach
-2024/06/19 08:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39278/liquid-bench-cadian-our-time-together-didnt-work-out-as-we-hoped
-2024/06/19 08:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39276/spirit-rise-to-no-1-for-first-time-in-history
-2024/06/19 08:52:24 Fetched posts from https://www.hltv.org/rss/news, took 400.85008ms
-2024/06/19 08:52:24 Fetched posts from https://vlr.gg/rss, took 909.156965ms
-2024/06/19 08:52:25 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.338179733s
-2024/06/19 08:52:25 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.80530424s
-2024/06/19 08:52:27 Fetched posts from https://blogtienao.com/feed, took 3.327250042s
-2024/06/19 08:52:41 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.468993086s
-2024/06/19 08:52:41 Skipping writing post, no content: https://www.hltv.org/news/39285/spirit-the-mongolz-among-final-teams-invited-to-esl-pro-league-season-20
-2024/06/19 08:52:41 Skipping writing post, no content: https://www.hltv.org/news/39283/marvinw56-takes-5000-fantasy-spring-season-grand-prize-lucyluce-wins-celebrity-league
-2024/06/19 08:52:41 Skipping writing post, no content: https://www.hltv.org/news/39202/the-evps-and-best-five-of-yalla-compass
-2024/06/19 08:52:41 Skipping writing post, no content: https://www.hltv.org/news/39281/hltv-awards-will-return-to-belgrade
-2024/06/19 08:52:41 Skipping writing post, no content: https://www.hltv.org/news/39280/5w-lineup-sever-ties-with-organization-they-scammed-us
-2024/06/19 08:52:41 Skipping writing post, no content: https://www.hltv.org/news/39279/media-wildcard-close-in-on-phzy-and-susp
-2024/06/19 08:52:41 Skipping writing post, no content: https://www.hltv.org/news/39277/juve-re-joins-into-the-breach-as-coach
-2024/06/19 08:52:41 Skipping writing post, no content: https://www.hltv.org/news/39278/liquid-bench-cadian-our-time-together-didnt-work-out-as-we-hoped
-2024/06/19 08:52:41 Skipping writing post, no content: https://www.hltv.org/news/39276/spirit-rise-to-no-1-for-first-time-in-history
-2024/06/19 08:52:41 Templated 81 posts, took 12.735898ms
+2024/06/19 09:22:08 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 285.56408ms
+2024/06/19 09:22:08 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/19 09:22:08 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 315.752199ms
+2024/06/19 09:22:08 Content still empty after HTML reader: https://www.hltv.org/news/39285/spirit-the-mongolz-among-final-teams-invited-to-esl-pro-league-season-20
+2024/06/19 09:22:08 Content still empty after HTML reader: https://www.hltv.org/news/39284/m80-confirm-malbsmd-departure-ahead-of-expected-g2-move
+2024/06/19 09:22:08 Content still empty after HTML reader: https://www.hltv.org/news/39283/marvinw56-takes-5000-fantasy-spring-season-grand-prize-lucyluce-wins-celebrity-league
+2024/06/19 09:22:08 Content still empty after HTML reader: https://www.hltv.org/news/39202/the-evps-and-best-five-of-yalla-compass
+2024/06/19 09:22:08 Content still empty after HTML reader: https://www.hltv.org/news/39281/hltv-awards-will-return-to-belgrade
+2024/06/19 09:22:08 Content still empty after HTML reader: https://www.hltv.org/news/39280/5w-lineup-sever-ties-with-organization-they-scammed-us
+2024/06/19 09:22:08 Content still empty after HTML reader: https://www.hltv.org/news/39279/media-wildcard-close-in-on-phzy-and-susp
+2024/06/19 09:22:08 Content still empty after HTML reader: https://www.hltv.org/news/39277/juve-re-joins-into-the-breach-as-coach
+2024/06/19 09:22:08 Content still empty after HTML reader: https://www.hltv.org/news/39278/liquid-bench-cadian-our-time-together-didnt-work-out-as-we-hoped
+2024/06/19 09:22:08 Content still empty after HTML reader: https://www.hltv.org/news/39276/spirit-rise-to-no-1-for-first-time-in-history
+2024/06/19 09:22:08 Fetched posts from https://www.hltv.org/rss/news, took 532.807843ms
+2024/06/19 09:22:08 Fetched posts from https://vlr.gg/rss, took 797.37595ms
+2024/06/19 09:22:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.165645169s
+2024/06/19 09:22:10 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.534563192s
+2024/06/19 09:22:11 Fetched posts from https://blogtienao.com/feed, took 3.700378918s
+2024/06/19 09:22:27 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.993459048s
+2024/06/19 09:22:27 Skipping writing post, no content: https://www.hltv.org/news/39285/spirit-the-mongolz-among-final-teams-invited-to-esl-pro-league-season-20
+2024/06/19 09:22:27 Skipping writing post, no content: https://www.hltv.org/news/39284/m80-confirm-malbsmd-departure-ahead-of-expected-g2-move
+2024/06/19 09:22:27 Skipping writing post, no content: https://www.hltv.org/news/39283/marvinw56-takes-5000-fantasy-spring-season-grand-prize-lucyluce-wins-celebrity-league
+2024/06/19 09:22:27 Skipping writing post, no content: https://www.hltv.org/news/39202/the-evps-and-best-five-of-yalla-compass
+2024/06/19 09:22:27 Skipping writing post, no content: https://www.hltv.org/news/39281/hltv-awards-will-return-to-belgrade
+2024/06/19 09:22:27 Skipping writing post, no content: https://www.hltv.org/news/39280/5w-lineup-sever-ties-with-organization-they-scammed-us
+2024/06/19 09:22:27 Skipping writing post, no content: https://www.hltv.org/news/39279/media-wildcard-close-in-on-phzy-and-susp
+2024/06/19 09:22:27 Skipping writing post, no content: https://www.hltv.org/news/39277/juve-re-joins-into-the-breach-as-coach
+2024/06/19 09:22:27 Skipping writing post, no content: https://www.hltv.org/news/39278/liquid-bench-cadian-our-time-together-didnt-work-out-as-we-hoped
+2024/06/19 09:22:27 Skipping writing post, no content: https://www.hltv.org/news/39276/spirit-rise-to-no-1-for-first-time-in-history
+2024/06/19 09:22:27 Templated 81 posts, took 12.659573ms
