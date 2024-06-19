@@ -1,32 +1,30 @@
-2024/06/19 15:37:26 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/19 15:37:26 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 111.200122ms
-2024/06/19 15:37:26 Content still empty after HTML reader: https://www.hltv.org/news/39286/rostermania-summer-2024-transfer-news
-2024/06/19 15:37:26 Content still empty after HTML reader: https://www.hltv.org/news/39282/the-evps-and-best-five-of-blast-spring-final
-2024/06/19 15:37:26 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 396.211078ms
-2024/06/19 15:37:26 Content still empty after HTML reader: https://www.hltv.org/news/39285/spirit-the-mongolz-among-final-teams-invited-to-esl-pro-league-season-20
-2024/06/19 15:37:26 Content still empty after HTML reader: https://www.hltv.org/news/39284/m80-confirm-malbsmd-departure-ahead-of-expected-g2-move
-2024/06/19 15:37:26 Content still empty after HTML reader: https://www.nytimes.com/2024/06/19/magazine/suicides-military.html
-2024/06/19 15:37:26 Content still empty after HTML reader: https://www.hltv.org/news/39283/marvinw56-takes-5000-fantasy-spring-season-grand-prize-lucyluce-wins-celebrity-league
-2024/06/19 15:37:26 Content still empty after HTML reader: https://www.hltv.org/news/39202/the-evps-and-best-five-of-yalla-compass
-2024/06/19 15:37:26 Content still empty after HTML reader: https://www.hltv.org/news/39281/hltv-awards-will-return-to-belgrade
-2024/06/19 15:37:26 Content still empty after HTML reader: https://www.hltv.org/news/39280/5w-lineup-sever-ties-with-organization-they-scammed-us
-2024/06/19 15:37:26 Content still empty after HTML reader: https://www.hltv.org/news/39279/media-wildcard-close-in-on-phzy-and-susp
-2024/06/19 15:37:26 Content still empty after HTML reader: https://www.hltv.org/news/39277/juve-re-joins-into-the-breach-as-coach
-2024/06/19 15:37:26 Fetched posts from https://www.hltv.org/rss/news, took 466.918313ms
-2024/06/19 15:37:26 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 635.768683ms
-2024/06/19 15:37:26 Fetched posts from https://vlr.gg/rss, took 742.793012ms
-2024/06/19 15:37:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.117377899s
-2024/06/19 15:37:30 Fetched posts from https://blogtienao.com/feed, took 4.434547491s
-2024/06/19 15:37:56 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 30.224392838s
-2024/06/19 15:37:56 Skipping writing post, no content: https://www.nytimes.com/2024/06/19/magazine/suicides-military.html
-2024/06/19 15:37:56 Skipping writing post, no content: https://www.hltv.org/news/39286/rostermania-summer-2024-transfer-news
-2024/06/19 15:37:56 Skipping writing post, no content: https://www.hltv.org/news/39282/the-evps-and-best-five-of-blast-spring-final
-2024/06/19 15:37:56 Skipping writing post, no content: https://www.hltv.org/news/39285/spirit-the-mongolz-among-final-teams-invited-to-esl-pro-league-season-20
-2024/06/19 15:37:56 Skipping writing post, no content: https://www.hltv.org/news/39284/m80-confirm-malbsmd-departure-ahead-of-expected-g2-move
-2024/06/19 15:37:56 Skipping writing post, no content: https://www.hltv.org/news/39283/marvinw56-takes-5000-fantasy-spring-season-grand-prize-lucyluce-wins-celebrity-league
-2024/06/19 15:37:56 Skipping writing post, no content: https://www.hltv.org/news/39202/the-evps-and-best-five-of-yalla-compass
-2024/06/19 15:37:56 Skipping writing post, no content: https://www.hltv.org/news/39281/hltv-awards-will-return-to-belgrade
-2024/06/19 15:37:56 Skipping writing post, no content: https://www.hltv.org/news/39280/5w-lineup-sever-ties-with-organization-they-scammed-us
-2024/06/19 15:37:56 Skipping writing post, no content: https://www.hltv.org/news/39279/media-wildcard-close-in-on-phzy-and-susp
-2024/06/19 15:37:56 Skipping writing post, no content: https://www.hltv.org/news/39277/juve-re-joins-into-the-breach-as-coach
-2024/06/19 15:37:56 Templated 83 posts, took 13.205813ms
+2024/06/19 15:52:26 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 99.247599ms
+2024/06/19 15:52:26 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/19 15:52:26 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 158.412798ms
+2024/06/19 15:52:26 Fetched posts from https://vlr.gg/rss, took 235.888446ms
+2024/06/19 15:52:26 Content still empty after HTML reader: https://www.hltv.org/news/39286/rostermania-summer-2024-transfer-news
+2024/06/19 15:52:26 Content still empty after HTML reader: https://www.hltv.org/news/39282/the-evps-and-best-five-of-blast-spring-final
+2024/06/19 15:52:26 Content still empty after HTML reader: https://www.hltv.org/news/39285/spirit-the-mongolz-among-final-teams-invited-to-esl-pro-league-season-20
+2024/06/19 15:52:26 Content still empty after HTML reader: https://www.hltv.org/news/39284/m80-confirm-malbsmd-departure-ahead-of-expected-g2-move
+2024/06/19 15:52:26 Content still empty after HTML reader: https://www.hltv.org/news/39283/marvinw56-takes-5000-fantasy-spring-season-grand-prize-lucyluce-wins-celebrity-league
+2024/06/19 15:52:26 Content still empty after HTML reader: https://www.hltv.org/news/39202/the-evps-and-best-five-of-yalla-compass
+2024/06/19 15:52:26 Content still empty after HTML reader: https://www.hltv.org/news/39281/hltv-awards-will-return-to-belgrade
+2024/06/19 15:52:26 Content still empty after HTML reader: https://www.hltv.org/news/39280/5w-lineup-sever-ties-with-organization-they-scammed-us
+2024/06/19 15:52:26 Content still empty after HTML reader: https://www.hltv.org/news/39279/media-wildcard-close-in-on-phzy-and-susp
+2024/06/19 15:52:26 Content still empty after HTML reader: https://www.hltv.org/news/39277/juve-re-joins-into-the-breach-as-coach
+2024/06/19 15:52:26 Fetched posts from https://www.hltv.org/rss/news, took 448.179944ms
+2024/06/19 15:52:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 862.560078ms
+2024/06/19 15:52:27 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.379655254s
+2024/06/19 15:52:31 Fetched posts from https://blogtienao.com/feed, took 5.082769905s
+2024/06/19 15:52:47 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.133768958s
+2024/06/19 15:52:47 Skipping writing post, no content: https://www.hltv.org/news/39286/rostermania-summer-2024-transfer-news
+2024/06/19 15:52:47 Skipping writing post, no content: https://www.hltv.org/news/39282/the-evps-and-best-five-of-blast-spring-final
+2024/06/19 15:52:47 Skipping writing post, no content: https://www.hltv.org/news/39285/spirit-the-mongolz-among-final-teams-invited-to-esl-pro-league-season-20
+2024/06/19 15:52:47 Skipping writing post, no content: https://www.hltv.org/news/39284/m80-confirm-malbsmd-departure-ahead-of-expected-g2-move
+2024/06/19 15:52:47 Skipping writing post, no content: https://www.hltv.org/news/39283/marvinw56-takes-5000-fantasy-spring-season-grand-prize-lucyluce-wins-celebrity-league
+2024/06/19 15:52:47 Skipping writing post, no content: https://www.hltv.org/news/39202/the-evps-and-best-five-of-yalla-compass
+2024/06/19 15:52:47 Skipping writing post, no content: https://www.hltv.org/news/39281/hltv-awards-will-return-to-belgrade
+2024/06/19 15:52:47 Skipping writing post, no content: https://www.hltv.org/news/39280/5w-lineup-sever-ties-with-organization-they-scammed-us
+2024/06/19 15:52:47 Skipping writing post, no content: https://www.hltv.org/news/39279/media-wildcard-close-in-on-phzy-and-susp
+2024/06/19 15:52:47 Skipping writing post, no content: https://www.hltv.org/news/39277/juve-re-joins-into-the-breach-as-coach
+2024/06/19 15:52:47 Templated 80 posts, took 13.053703ms
