@@ -1,28 +1,30 @@
-2024/06/21 15:52:13 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 71.567437ms
-2024/06/21 15:52:13 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/21 15:52:13 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 184.471829ms
-2024/06/21 15:52:13 Fetched posts from https://vlr.gg/rss, took 283.066403ms
-2024/06/21 15:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39293/f-1n-returns-to-activity-as-parivision-coach
-2024/06/21 15:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39292/season-recap-and-the-beginning-of-rostermania-on-hltv-confirmed-with-launders
-2024/06/21 15:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39291/michu-transitions-to-igl-in-search-of-a-new-side
-2024/06/21 15:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39289/perfecto-interview-cloud9-exit-international-offers-and-returning-to-navi-roles
-2024/06/21 15:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39288/stewie2k-talks-g2s-issues-dallas-and-his-future
-2024/06/21 15:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39286/rostermania-summer-2024-transfer-news
-2024/06/21 15:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39282/the-evps-and-best-five-of-blast-spring-final
-2024/06/21 15:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39285/spirit-the-mongolz-among-final-teams-invited-to-esl-pro-league-season-20
-2024/06/21 15:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39284/m80-confirm-malbsmd-departure-ahead-of-expected-g2-move
-2024/06/21 15:52:13 Fetched posts from https://www.hltv.org/rss/news, took 522.691125ms
-2024/06/21 15:52:13 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 620.304231ms
-2024/06/21 15:52:14 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.821960504s
-2024/06/21 15:52:17 Fetched posts from https://blogtienao.com/feed, took 4.418970153s
-2024/06/21 15:52:37 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 24.168442614s
-2024/06/21 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39293/f-1n-returns-to-activity-as-parivision-coach
-2024/06/21 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39292/season-recap-and-the-beginning-of-rostermania-on-hltv-confirmed-with-launders
-2024/06/21 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39291/michu-transitions-to-igl-in-search-of-a-new-side
-2024/06/21 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39289/perfecto-interview-cloud9-exit-international-offers-and-returning-to-navi-roles
-2024/06/21 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39288/stewie2k-talks-g2s-issues-dallas-and-his-future
-2024/06/21 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39286/rostermania-summer-2024-transfer-news
-2024/06/21 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39282/the-evps-and-best-five-of-blast-spring-final
-2024/06/21 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39285/spirit-the-mongolz-among-final-teams-invited-to-esl-pro-league-season-20
-2024/06/21 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39284/m80-confirm-malbsmd-departure-ahead-of-expected-g2-move
-2024/06/21 15:52:37 Templated 79 posts, took 12.500178ms
+2024/06/21 16:21:09 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 123.487238ms
+2024/06/21 16:21:09 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/21 16:21:09 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 187.885009ms
+2024/06/21 16:21:09 Fetched posts from https://vlr.gg/rss, took 282.35576ms
+2024/06/21 16:21:09 Content still empty after HTML reader: https://www.hltv.org/news/39293/f-1n-returns-to-activity-as-parivision-coach
+2024/06/21 16:21:09 Content still empty after HTML reader: https://www.hltv.org/news/39292/season-recap-and-the-beginning-of-rostermania-on-hltv-confirmed-with-launders
+2024/06/21 16:21:09 Content still empty after HTML reader: https://www.hltv.org/news/39291/michu-transitions-to-igl-in-search-of-a-new-side
+2024/06/21 16:21:09 Content still empty after HTML reader: https://www.hltv.org/news/39289/perfecto-interview-cloud9-exit-international-offers-and-returning-to-navi-roles
+2024/06/21 16:21:09 Content still empty after HTML reader: https://www.hltv.org/news/39288/stewie2k-talks-g2s-issues-dallas-and-his-future
+2024/06/21 16:21:09 Content still empty after HTML reader: https://www.hltv.org/news/39287/wildcard-part-with-duo-amid-swedish-links
+2024/06/21 16:21:09 Content still empty after HTML reader: https://www.hltv.org/news/39286/rostermania-summer-2024-transfer-news
+2024/06/21 16:21:09 Content still empty after HTML reader: https://www.hltv.org/news/39282/the-evps-and-best-five-of-blast-spring-final
+2024/06/21 16:21:09 Content still empty after HTML reader: https://www.hltv.org/news/39285/spirit-the-mongolz-among-final-teams-invited-to-esl-pro-league-season-20
+2024/06/21 16:21:09 Content still empty after HTML reader: https://www.hltv.org/news/39284/m80-confirm-malbsmd-departure-ahead-of-expected-g2-move
+2024/06/21 16:21:09 Fetched posts from https://www.hltv.org/rss/news, took 506.142109ms
+2024/06/21 16:21:09 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 830.899971ms
+2024/06/21 16:21:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 901.986152ms
+2024/06/21 16:21:18 Fetched posts from https://blogtienao.com/feed, took 9.409041036s
+2024/06/21 16:21:30 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.863562291s
+2024/06/21 16:21:30 Skipping writing post, no content: https://www.hltv.org/news/39293/f-1n-returns-to-activity-as-parivision-coach
+2024/06/21 16:21:30 Skipping writing post, no content: https://www.hltv.org/news/39292/season-recap-and-the-beginning-of-rostermania-on-hltv-confirmed-with-launders
+2024/06/21 16:21:30 Skipping writing post, no content: https://www.hltv.org/news/39291/michu-transitions-to-igl-in-search-of-a-new-side
+2024/06/21 16:21:30 Skipping writing post, no content: https://www.hltv.org/news/39289/perfecto-interview-cloud9-exit-international-offers-and-returning-to-navi-roles
+2024/06/21 16:21:30 Skipping writing post, no content: https://www.hltv.org/news/39288/stewie2k-talks-g2s-issues-dallas-and-his-future
+2024/06/21 16:21:30 Skipping writing post, no content: https://www.hltv.org/news/39287/wildcard-part-with-duo-amid-swedish-links
+2024/06/21 16:21:30 Skipping writing post, no content: https://www.hltv.org/news/39286/rostermania-summer-2024-transfer-news
+2024/06/21 16:21:30 Skipping writing post, no content: https://www.hltv.org/news/39282/the-evps-and-best-five-of-blast-spring-final
+2024/06/21 16:21:30 Skipping writing post, no content: https://www.hltv.org/news/39285/spirit-the-mongolz-among-final-teams-invited-to-esl-pro-league-season-20
+2024/06/21 16:21:30 Skipping writing post, no content: https://www.hltv.org/news/39284/m80-confirm-malbsmd-departure-ahead-of-expected-g2-move
+2024/06/21 16:21:30 Templated 79 posts, took 12.501449ms
