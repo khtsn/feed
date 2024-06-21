@@ -1,30 +1,32 @@
-2024/06/21 18:39:58 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/21 18:39:58 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 132.311265ms
-2024/06/21 18:39:58 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 166.743748ms
-2024/06/21 18:39:59 Content still empty after HTML reader: https://www.hltv.org/news/39294/entropiq-bench-roster-due-to-changes-in-major-qualification
-2024/06/21 18:39:59 Content still empty after HTML reader: https://www.hltv.org/news/39293/f-1n-returns-to-activity-as-parivision-coach
-2024/06/21 18:39:59 Content still empty after HTML reader: https://www.hltv.org/news/39292/season-recap-and-the-beginning-of-rostermania-on-hltv-confirmed-with-launders
-2024/06/21 18:39:59 Content still empty after HTML reader: https://www.hltv.org/news/39291/michu-transitions-to-igl-in-search-of-a-new-side
-2024/06/21 18:39:59 Content still empty after HTML reader: https://www.hltv.org/news/39289/perfecto-interview-cloud9-exit-international-offers-and-returning-to-navi-roles
-2024/06/21 18:39:59 Content still empty after HTML reader: https://www.hltv.org/news/39288/stewie2k-talks-g2s-issues-dallas-and-his-future
-2024/06/21 18:39:59 Content still empty after HTML reader: https://www.hltv.org/news/39287/wildcard-part-with-duo-amid-swedish-links
-2024/06/21 18:39:59 Content still empty after HTML reader: https://www.hltv.org/news/39286/rostermania-summer-2024-transfer-news
-2024/06/21 18:39:59 Fetched posts from https://vlr.gg/rss, took 374.024342ms
-2024/06/21 18:39:59 Content still empty after HTML reader: https://www.hltv.org/news/39282/the-evps-and-best-five-of-blast-spring-final
-2024/06/21 18:39:59 Content still empty after HTML reader: https://www.hltv.org/news/39285/spirit-the-mongolz-among-final-teams-invited-to-esl-pro-league-season-20
-2024/06/21 18:39:59 Fetched posts from https://www.hltv.org/rss/news, took 385.172377ms
-2024/06/21 18:39:59 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 808.047289ms
-2024/06/21 18:39:59 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.067593562s
-2024/06/21 18:40:03 Fetched posts from https://blogtienao.com/feed, took 4.293709779s
-2024/06/21 18:40:20 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.809662862s
-2024/06/21 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/39294/entropiq-bench-roster-due-to-changes-in-major-qualification
-2024/06/21 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/39293/f-1n-returns-to-activity-as-parivision-coach
-2024/06/21 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/39292/season-recap-and-the-beginning-of-rostermania-on-hltv-confirmed-with-launders
-2024/06/21 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/39291/michu-transitions-to-igl-in-search-of-a-new-side
-2024/06/21 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/39289/perfecto-interview-cloud9-exit-international-offers-and-returning-to-navi-roles
-2024/06/21 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/39288/stewie2k-talks-g2s-issues-dallas-and-his-future
-2024/06/21 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/39287/wildcard-part-with-duo-amid-swedish-links
-2024/06/21 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/39286/rostermania-summer-2024-transfer-news
-2024/06/21 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/39282/the-evps-and-best-five-of-blast-spring-final
-2024/06/21 18:40:20 Skipping writing post, no content: https://www.hltv.org/news/39285/spirit-the-mongolz-among-final-teams-invited-to-esl-pro-league-season-20
-2024/06/21 18:40:20 Templated 80 posts, took 13.802277ms
+2024/06/21 18:52:03 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 126.673424ms
+2024/06/21 18:52:03 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/21 18:52:03 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 133.696731ms
+2024/06/21 18:52:03 Fetched posts from https://vlr.gg/rss, took 199.605803ms
+2024/06/21 18:52:03 Content still empty after HTML reader: https://www.hltv.org/news/39294/entropiq-bench-roster-due-to-changes-in-major-qualification
+2024/06/21 18:52:03 Content still empty after HTML reader: https://www.hltv.org/news/39293/f-1n-returns-to-activity-as-parivision-coach
+2024/06/21 18:52:03 Content still empty after HTML reader: https://www.hltv.org/news/39292/season-recap-and-the-beginning-of-rostermania-on-hltv-confirmed-with-launders
+2024/06/21 18:52:03 Content still empty after HTML reader: https://www.hltv.org/news/39291/michu-transitions-to-igl-in-search-of-a-new-side
+2024/06/21 18:52:03 Content still empty after HTML reader: https://www.hltv.org/news/39289/perfecto-interview-cloud9-exit-international-offers-and-returning-to-navi-roles
+2024/06/21 18:52:03 Content still empty after HTML reader: https://www.hltv.org/news/39288/stewie2k-talks-g2s-issues-dallas-and-his-future
+2024/06/21 18:52:03 Content still empty after HTML reader: https://www.hltv.org/news/39287/wildcard-part-with-duo-amid-swedish-links
+2024/06/21 18:52:03 Content still empty after HTML reader: https://www.hltv.org/news/39286/rostermania-summer-2024-transfer-news
+2024/06/21 18:52:03 Content still empty after HTML reader: https://www.hltv.org/news/39282/the-evps-and-best-five-of-blast-spring-final
+2024/06/21 18:52:03 Content still empty after HTML reader: https://www.nytimes.com/2024/06/21/opinion/trump-comstock-act-abortion.html
+2024/06/21 18:52:03 Content still empty after HTML reader: https://www.hltv.org/news/39285/spirit-the-mongolz-among-final-teams-invited-to-esl-pro-league-season-20
+2024/06/21 18:52:03 Fetched posts from https://www.hltv.org/rss/news, took 521.355276ms
+2024/06/21 18:52:04 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 956.037676ms
+2024/06/21 18:52:04 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.768998925s
+2024/06/21 18:52:07 Fetched posts from https://blogtienao.com/feed, took 4.56807076s
+2024/06/21 18:52:32 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 29.216165635s
+2024/06/21 18:52:32 Skipping writing post, no content: https://www.hltv.org/news/39294/entropiq-bench-roster-due-to-changes-in-major-qualification
+2024/06/21 18:52:32 Skipping writing post, no content: https://www.nytimes.com/2024/06/21/opinion/trump-comstock-act-abortion.html
+2024/06/21 18:52:32 Skipping writing post, no content: https://www.hltv.org/news/39293/f-1n-returns-to-activity-as-parivision-coach
+2024/06/21 18:52:32 Skipping writing post, no content: https://www.hltv.org/news/39292/season-recap-and-the-beginning-of-rostermania-on-hltv-confirmed-with-launders
+2024/06/21 18:52:32 Skipping writing post, no content: https://www.hltv.org/news/39291/michu-transitions-to-igl-in-search-of-a-new-side
+2024/06/21 18:52:32 Skipping writing post, no content: https://www.hltv.org/news/39289/perfecto-interview-cloud9-exit-international-offers-and-returning-to-navi-roles
+2024/06/21 18:52:32 Skipping writing post, no content: https://www.hltv.org/news/39288/stewie2k-talks-g2s-issues-dallas-and-his-future
+2024/06/21 18:52:32 Skipping writing post, no content: https://www.hltv.org/news/39287/wildcard-part-with-duo-amid-swedish-links
+2024/06/21 18:52:32 Skipping writing post, no content: https://www.hltv.org/news/39286/rostermania-summer-2024-transfer-news
+2024/06/21 18:52:32 Skipping writing post, no content: https://www.hltv.org/news/39282/the-evps-and-best-five-of-blast-spring-final
+2024/06/21 18:52:32 Skipping writing post, no content: https://www.hltv.org/news/39285/spirit-the-mongolz-among-final-teams-invited-to-esl-pro-league-season-20
+2024/06/21 18:52:32 Templated 80 posts, took 13.589014ms
