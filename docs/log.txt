@@ -1,28 +1,28 @@
-2024/06/22 16:39:57 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/22 16:39:57 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 123.117282ms
-2024/06/22 16:39:58 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 221.979082ms
-2024/06/22 16:39:58 Content still empty after HTML reader: https://www.hltv.org/news/39296/amkal-bench-icy-open-investigation-into-players-conduct
-2024/06/22 16:39:58 Content still empty after HTML reader: https://www.hltv.org/news/39295/sources-chet-targets-counter-strike-return
-2024/06/22 16:39:58 Content still empty after HTML reader: https://www.hltv.org/news/39294/entropiq-bench-roster-due-to-changes-in-major-qualification
-2024/06/22 16:39:58 Content still empty after HTML reader: https://www.hltv.org/news/39293/f-1n-returns-to-activity-as-parivision-coach
-2024/06/22 16:39:58 Content still empty after HTML reader: https://www.hltv.org/news/39292/season-recap-and-the-beginning-of-rostermania-on-hltv-confirmed-with-launders
-2024/06/22 16:39:58 Content still empty after HTML reader: https://www.hltv.org/news/39291/michu-transitions-to-igl-in-search-of-a-new-side
-2024/06/22 16:39:58 Content still empty after HTML reader: https://www.hltv.org/news/39289/perfecto-interview-cloud9-exit-international-offers-and-returning-to-navi-roles
-2024/06/22 16:39:58 Content still empty after HTML reader: https://www.hltv.org/news/39288/stewie2k-talks-g2s-issues-dallas-and-his-future
-2024/06/22 16:39:58 Content still empty after HTML reader: https://www.hltv.org/news/39287/wildcard-part-with-duo-amid-swedish-links
-2024/06/22 16:39:58 Fetched posts from https://www.hltv.org/rss/news, took 379.317912ms
-2024/06/22 16:39:58 Fetched posts from https://vlr.gg/rss, took 776.18234ms
-2024/06/22 16:39:58 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.015729966s
-2024/06/22 16:39:59 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.419021898s
-2024/06/22 16:40:01 Fetched posts from https://blogtienao.com/feed, took 3.316751032s
-2024/06/22 16:40:16 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.066607379s
-2024/06/22 16:40:16 Skipping writing post, no content: https://www.hltv.org/news/39296/amkal-bench-icy-open-investigation-into-players-conduct
-2024/06/22 16:40:16 Skipping writing post, no content: https://www.hltv.org/news/39295/sources-chet-targets-counter-strike-return
-2024/06/22 16:40:16 Skipping writing post, no content: https://www.hltv.org/news/39294/entropiq-bench-roster-due-to-changes-in-major-qualification
-2024/06/22 16:40:16 Skipping writing post, no content: https://www.hltv.org/news/39293/f-1n-returns-to-activity-as-parivision-coach
-2024/06/22 16:40:16 Skipping writing post, no content: https://www.hltv.org/news/39292/season-recap-and-the-beginning-of-rostermania-on-hltv-confirmed-with-launders
-2024/06/22 16:40:16 Skipping writing post, no content: https://www.hltv.org/news/39291/michu-transitions-to-igl-in-search-of-a-new-side
-2024/06/22 16:40:16 Skipping writing post, no content: https://www.hltv.org/news/39289/perfecto-interview-cloud9-exit-international-offers-and-returning-to-navi-roles
-2024/06/22 16:40:16 Skipping writing post, no content: https://www.hltv.org/news/39288/stewie2k-talks-g2s-issues-dallas-and-his-future
-2024/06/22 16:40:16 Skipping writing post, no content: https://www.hltv.org/news/39287/wildcard-part-with-duo-amid-swedish-links
-2024/06/22 16:40:16 Templated 79 posts, took 12.592197ms
+2024/06/22 16:52:10 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 105.790383ms
+2024/06/22 16:52:10 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/22 16:52:10 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 205.565145ms
+2024/06/22 16:52:10 Fetched posts from https://vlr.gg/rss, took 300.123812ms
+2024/06/22 16:52:10 Content still empty after HTML reader: https://www.hltv.org/news/39296/amkal-bench-icy-open-investigation-into-players-conduct
+2024/06/22 16:52:10 Content still empty after HTML reader: https://www.hltv.org/news/39295/sources-chet-targets-counter-strike-return
+2024/06/22 16:52:10 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 716.616938ms
+2024/06/22 16:52:10 Content still empty after HTML reader: https://www.hltv.org/news/39294/entropiq-bench-roster-due-to-changes-in-major-qualification
+2024/06/22 16:52:10 Content still empty after HTML reader: https://www.hltv.org/news/39293/f-1n-returns-to-activity-as-parivision-coach
+2024/06/22 16:52:10 Content still empty after HTML reader: https://www.hltv.org/news/39292/season-recap-and-the-beginning-of-rostermania-on-hltv-confirmed-with-launders
+2024/06/22 16:52:10 Content still empty after HTML reader: https://www.hltv.org/news/39291/michu-transitions-to-igl-in-search-of-a-new-side
+2024/06/22 16:52:10 Content still empty after HTML reader: https://www.hltv.org/news/39289/perfecto-interview-cloud9-exit-international-offers-and-returning-to-navi-roles
+2024/06/22 16:52:10 Content still empty after HTML reader: https://www.hltv.org/news/39288/stewie2k-talks-g2s-issues-dallas-and-his-future
+2024/06/22 16:52:10 Content still empty after HTML reader: https://www.hltv.org/news/39287/wildcard-part-with-duo-amid-swedish-links
+2024/06/22 16:52:10 Fetched posts from https://www.hltv.org/rss/news, took 788.276681ms
+2024/06/22 16:52:11 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.1163621s
+2024/06/22 16:52:21 Fetched posts from https://blogtienao.com/feed, took 11.504545968s
+2024/06/22 16:52:36 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 25.985455729s
+2024/06/22 16:52:36 Skipping writing post, no content: https://www.hltv.org/news/39296/amkal-bench-icy-open-investigation-into-players-conduct
+2024/06/22 16:52:36 Skipping writing post, no content: https://www.hltv.org/news/39295/sources-chet-targets-counter-strike-return
+2024/06/22 16:52:36 Skipping writing post, no content: https://www.hltv.org/news/39294/entropiq-bench-roster-due-to-changes-in-major-qualification
+2024/06/22 16:52:36 Skipping writing post, no content: https://www.hltv.org/news/39293/f-1n-returns-to-activity-as-parivision-coach
+2024/06/22 16:52:36 Skipping writing post, no content: https://www.hltv.org/news/39292/season-recap-and-the-beginning-of-rostermania-on-hltv-confirmed-with-launders
+2024/06/22 16:52:36 Skipping writing post, no content: https://www.hltv.org/news/39291/michu-transitions-to-igl-in-search-of-a-new-side
+2024/06/22 16:52:36 Skipping writing post, no content: https://www.hltv.org/news/39289/perfecto-interview-cloud9-exit-international-offers-and-returning-to-navi-roles
+2024/06/22 16:52:36 Skipping writing post, no content: https://www.hltv.org/news/39288/stewie2k-talks-g2s-issues-dallas-and-his-future
+2024/06/22 16:52:36 Skipping writing post, no content: https://www.hltv.org/news/39287/wildcard-part-with-duo-amid-swedish-links
+2024/06/22 16:52:36 Templated 79 posts, took 12.866118ms
