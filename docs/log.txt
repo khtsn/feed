@@ -1,25 +1,24 @@
-2024/06/23 20:37:14 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 101.909933ms
-2024/06/23 20:37:14 error parsing https://vlr.gg/rss: http error: 502 Bad Gateway
-2024/06/23 20:37:14 Fetched posts from https://vlr.gg/rss, took 195.994754ms
-2024/06/23 20:37:14 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/23 20:37:14 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 212.075798ms
-2024/06/23 20:37:14 Content still empty after HTML reader: https://www.hltv.org/news/39298/jame-there-is-an-option-where-electronic-becomes-the-captain
-2024/06/23 20:37:14 Content still empty after HTML reader: https://www.hltv.org/news/39297/johnny-speeds-revenant-compete-in-european-pro-league-playoffs
-2024/06/23 20:37:14 Content still empty after HTML reader: https://www.hltv.org/news/39296/amkal-bench-icy-open-investigation-into-players-conduct
-2024/06/23 20:37:14 Content still empty after HTML reader: https://www.hltv.org/news/39295/sources-chet-targets-counter-strike-return
-2024/06/23 20:37:14 Content still empty after HTML reader: https://www.hltv.org/news/39294/entropiq-bench-roster-due-to-changes-in-major-qualification
-2024/06/23 20:37:14 Content still empty after HTML reader: https://www.hltv.org/news/39293/f-1n-returns-to-activity-as-parivision-coach
-2024/06/23 20:37:14 Content still empty after HTML reader: https://www.hltv.org/news/39292/season-recap-and-the-beginning-of-rostermania-on-hltv-confirmed-with-launders
-2024/06/23 20:37:14 Fetched posts from https://www.hltv.org/rss/news, took 424.315516ms
-2024/06/23 20:37:15 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 719.783613ms
-2024/06/23 20:37:15 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 808.242847ms
-2024/06/23 20:37:20 Fetched posts from https://blogtienao.com/feed, took 5.868296307s
-2024/06/23 20:37:33 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.788596438s
-2024/06/23 20:37:33 Skipping writing post, no content: https://www.hltv.org/news/39298/jame-there-is-an-option-where-electronic-becomes-the-captain
-2024/06/23 20:37:33 Skipping writing post, no content: https://www.hltv.org/news/39297/johnny-speeds-revenant-compete-in-european-pro-league-playoffs
-2024/06/23 20:37:33 Skipping writing post, no content: https://www.hltv.org/news/39296/amkal-bench-icy-open-investigation-into-players-conduct
-2024/06/23 20:37:33 Skipping writing post, no content: https://www.hltv.org/news/39295/sources-chet-targets-counter-strike-return
-2024/06/23 20:37:33 Skipping writing post, no content: https://www.hltv.org/news/39294/entropiq-bench-roster-due-to-changes-in-major-qualification
-2024/06/23 20:37:33 Skipping writing post, no content: https://www.hltv.org/news/39293/f-1n-returns-to-activity-as-parivision-coach
-2024/06/23 20:37:33 Skipping writing post, no content: https://www.hltv.org/news/39292/season-recap-and-the-beginning-of-rostermania-on-hltv-confirmed-with-launders
-2024/06/23 20:37:33 Templated 75 posts, took 13.031364ms
+2024/06/23 20:52:19 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 113.978363ms
+2024/06/23 20:52:19 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/23 20:52:19 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 184.381653ms
+2024/06/23 20:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39298/jame-there-is-an-option-where-electronic-becomes-the-captain
+2024/06/23 20:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39297/johnny-speeds-revenant-compete-in-european-pro-league-playoffs
+2024/06/23 20:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39296/amkal-bench-icy-open-investigation-into-players-conduct
+2024/06/23 20:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39295/sources-chet-targets-counter-strike-return
+2024/06/23 20:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39294/entropiq-bench-roster-due-to-changes-in-major-qualification
+2024/06/23 20:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39293/f-1n-returns-to-activity-as-parivision-coach
+2024/06/23 20:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39292/season-recap-and-the-beginning-of-rostermania-on-hltv-confirmed-with-launders
+2024/06/23 20:52:20 Fetched posts from https://www.hltv.org/rss/news, took 380.955863ms
+2024/06/23 20:52:20 Fetched posts from https://vlr.gg/rss, took 633.310902ms
+2024/06/23 20:52:20 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 688.140625ms
+2024/06/23 20:52:20 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 849.146374ms
+2024/06/23 20:52:24 Fetched posts from https://blogtienao.com/feed, took 4.928067622s
+2024/06/23 20:52:39 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.287605592s
+2024/06/23 20:52:39 Skipping writing post, no content: https://www.hltv.org/news/39298/jame-there-is-an-option-where-electronic-becomes-the-captain
+2024/06/23 20:52:39 Skipping writing post, no content: https://www.hltv.org/news/39297/johnny-speeds-revenant-compete-in-european-pro-league-playoffs
+2024/06/23 20:52:39 Skipping writing post, no content: https://www.hltv.org/news/39296/amkal-bench-icy-open-investigation-into-players-conduct
+2024/06/23 20:52:39 Skipping writing post, no content: https://www.hltv.org/news/39295/sources-chet-targets-counter-strike-return
+2024/06/23 20:52:39 Skipping writing post, no content: https://www.hltv.org/news/39294/entropiq-bench-roster-due-to-changes-in-major-qualification
+2024/06/23 20:52:39 Skipping writing post, no content: https://www.hltv.org/news/39293/f-1n-returns-to-activity-as-parivision-coach
+2024/06/23 20:52:39 Skipping writing post, no content: https://www.hltv.org/news/39292/season-recap-and-the-beginning-of-rostermania-on-hltv-confirmed-with-launders
+2024/06/23 20:52:39 Templated 78 posts, took 13.388744ms
