@@ -1,20 +1,22 @@
-2024/06/25 04:38:43 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/25 04:38:43 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 165.621453ms
-2024/06/25 04:38:43 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 168.288318ms
-2024/06/25 04:38:43 Fetched posts from https://vlr.gg/rss, took 273.363944ms
-2024/06/25 04:38:43 Content still empty after HTML reader: https://www.hltv.org/news/39302/media-nitr0-set-to-return-to-counter-strike
-2024/06/25 04:38:43 Content still empty after HTML reader: https://www.hltv.org/news/39300/betera-bench-lollipop21k
-2024/06/25 04:38:43 Content still empty after HTML reader: https://www.hltv.org/news/39299/torzsi-on-hltv-confirmed-finding-form-reaching-1-in-ranking-2024-goals
-2024/06/25 04:38:43 Content still empty after HTML reader: https://www.hltv.org/news/39298/jame-there-is-an-option-where-electronic-becomes-the-captain
-2024/06/25 04:38:43 Content still empty after HTML reader: https://www.hltv.org/news/39297/johnny-speeds-revenant-compete-in-european-pro-league-playoffs
-2024/06/25 04:38:43 Fetched posts from https://www.hltv.org/rss/news, took 442.862209ms
-2024/06/25 04:38:44 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 699.032773ms
-2024/06/25 04:38:44 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.20499717s
-2024/06/25 04:38:47 Fetched posts from https://blogtienao.com/feed, took 4.411829657s
-2024/06/25 04:39:04 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.709885045s
-2024/06/25 04:39:04 Skipping writing post, no content: https://www.hltv.org/news/39302/media-nitr0-set-to-return-to-counter-strike
-2024/06/25 04:39:04 Skipping writing post, no content: https://www.hltv.org/news/39300/betera-bench-lollipop21k
-2024/06/25 04:39:04 Skipping writing post, no content: https://www.hltv.org/news/39299/torzsi-on-hltv-confirmed-finding-form-reaching-1-in-ranking-2024-goals
-2024/06/25 04:39:04 Skipping writing post, no content: https://www.hltv.org/news/39298/jame-there-is-an-option-where-electronic-becomes-the-captain
-2024/06/25 04:39:04 Skipping writing post, no content: https://www.hltv.org/news/39297/johnny-speeds-revenant-compete-in-european-pro-league-playoffs
-2024/06/25 04:39:04 Templated 78 posts, took 14.737613ms
+2024/06/25 04:52:34 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/25 04:52:34 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 125.716982ms
+2024/06/25 04:52:34 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 178.682434ms
+2024/06/25 04:52:34 Content still empty after HTML reader: https://www.hltv.org/news/39302/media-nitr0-set-to-return-to-counter-strike
+2024/06/25 04:52:34 Content still empty after HTML reader: https://www.hltv.org/news/39301/media-imperial-in-talks-with-9z-over-try
+2024/06/25 04:52:34 Content still empty after HTML reader: https://www.hltv.org/news/39300/betera-bench-lollipop21k
+2024/06/25 04:52:34 Content still empty after HTML reader: https://www.hltv.org/news/39299/torzsi-on-hltv-confirmed-finding-form-reaching-1-in-ranking-2024-goals
+2024/06/25 04:52:34 Content still empty after HTML reader: https://www.hltv.org/news/39298/jame-there-is-an-option-where-electronic-becomes-the-captain
+2024/06/25 04:52:34 Content still empty after HTML reader: https://www.hltv.org/news/39297/johnny-speeds-revenant-compete-in-european-pro-league-playoffs
+2024/06/25 04:52:34 Fetched posts from https://www.hltv.org/rss/news, took 358.195732ms
+2024/06/25 04:52:34 Fetched posts from https://vlr.gg/rss, took 901.727057ms
+2024/06/25 04:52:35 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.042779155s
+2024/06/25 04:52:35 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.332493082s
+2024/06/25 04:52:37 Fetched posts from https://blogtienao.com/feed, took 3.486080826s
+2024/06/25 04:52:51 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.931864834s
+2024/06/25 04:52:51 Skipping writing post, no content: https://www.hltv.org/news/39302/media-nitr0-set-to-return-to-counter-strike
+2024/06/25 04:52:51 Skipping writing post, no content: https://www.hltv.org/news/39301/media-imperial-in-talks-with-9z-over-try
+2024/06/25 04:52:51 Skipping writing post, no content: https://www.hltv.org/news/39300/betera-bench-lollipop21k
+2024/06/25 04:52:51 Skipping writing post, no content: https://www.hltv.org/news/39299/torzsi-on-hltv-confirmed-finding-form-reaching-1-in-ranking-2024-goals
+2024/06/25 04:52:51 Skipping writing post, no content: https://www.hltv.org/news/39298/jame-there-is-an-option-where-electronic-becomes-the-captain
+2024/06/25 04:52:51 Skipping writing post, no content: https://www.hltv.org/news/39297/johnny-speeds-revenant-compete-in-european-pro-league-playoffs
+2024/06/25 04:52:51 Templated 78 posts, took 14.339461ms
