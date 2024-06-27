@@ -1,28 +1,30 @@
-2024/06/27 12:34:18 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 211.789304ms
-2024/06/27 12:34:18 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/27 12:34:18 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 234.380255ms
-2024/06/27 12:34:18 Content still empty after HTML reader: https://www.hltv.org/news/39314/sources-nrg-interested-in-nitr0
-2024/06/27 12:34:18 Content still empty after HTML reader: https://www.hltv.org/news/39312/kaze-moves-back-to-rare-atom
-2024/06/27 12:34:18 Content still empty after HTML reader: https://www.hltv.org/news/39290/how-different-are-ct-positions-from-one-another-really
-2024/06/27 12:34:18 Content still empty after HTML reader: https://www.hltv.org/news/39310/first-cs2-community-maps-arrive-in-latest-update
-2024/06/27 12:34:18 Content still empty after HTML reader: https://www.hltv.org/news/39309/liquid-announce-zews-departure
-2024/06/27 12:34:18 Fetched posts from https://vlr.gg/rss, took 411.946259ms
-2024/06/27 12:34:18 Content still empty after HTML reader: https://www.hltv.org/news/39306/guardian-returns-as-coach-of-new-bcgame-team
-2024/06/27 12:34:18 Content still empty after HTML reader: https://www.hltv.org/news/39308/esl-announce-impact-season-6-dates
-2024/06/27 12:34:18 Content still empty after HTML reader: https://www.hltv.org/news/39307/esl-pro-league-season-20-groups-announced
-2024/06/27 12:34:18 Content still empty after HTML reader: https://www.hltv.org/news/39305/torzsi-on-frozens-departure-it-opened-up-a-bigger-space-for-the-rest-of-the-players
-2024/06/27 12:34:18 Fetched posts from https://www.hltv.org/rss/news, took 461.128058ms
-2024/06/27 12:34:18 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 787.128846ms
-2024/06/27 12:34:19 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.206199424s
-2024/06/27 12:34:22 Fetched posts from https://blogtienao.com/feed, took 4.344946117s
-2024/06/27 12:34:40 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.826266889s
-2024/06/27 12:34:40 Skipping writing post, no content: https://www.hltv.org/news/39314/sources-nrg-interested-in-nitr0
-2024/06/27 12:34:40 Skipping writing post, no content: https://www.hltv.org/news/39312/kaze-moves-back-to-rare-atom
-2024/06/27 12:34:40 Skipping writing post, no content: https://www.hltv.org/news/39290/how-different-are-ct-positions-from-one-another-really
-2024/06/27 12:34:40 Skipping writing post, no content: https://www.hltv.org/news/39310/first-cs2-community-maps-arrive-in-latest-update
-2024/06/27 12:34:40 Skipping writing post, no content: https://www.hltv.org/news/39309/liquid-announce-zews-departure
-2024/06/27 12:34:40 Skipping writing post, no content: https://www.hltv.org/news/39306/guardian-returns-as-coach-of-new-bcgame-team
-2024/06/27 12:34:40 Skipping writing post, no content: https://www.hltv.org/news/39308/esl-announce-impact-season-6-dates
-2024/06/27 12:34:40 Skipping writing post, no content: https://www.hltv.org/news/39307/esl-pro-league-season-20-groups-announced
-2024/06/27 12:34:40 Skipping writing post, no content: https://www.hltv.org/news/39305/torzsi-on-frozens-departure-it-opened-up-a-bigger-space-for-the-rest-of-the-players
-2024/06/27 12:34:40 Templated 76 posts, took 13.633905ms
+2024/06/27 13:00:51 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/27 13:00:51 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 225.500675ms
+2024/06/27 13:00:51 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 261.15388ms
+2024/06/27 13:00:51 Content still empty after HTML reader: https://www.hltv.org/news/39314/sources-nrg-interested-in-nitr0
+2024/06/27 13:00:51 Content still empty after HTML reader: https://www.hltv.org/news/39311/bcgame-add-anarkez
+2024/06/27 13:00:51 Content still empty after HTML reader: https://www.hltv.org/news/39312/kaze-moves-back-to-rare-atom
+2024/06/27 13:00:51 Content still empty after HTML reader: https://www.hltv.org/news/39290/how-different-are-ct-positions-from-one-another-really
+2024/06/27 13:00:51 Content still empty after HTML reader: https://www.hltv.org/news/39310/first-cs2-community-maps-arrive-in-latest-update
+2024/06/27 13:00:51 Content still empty after HTML reader: https://www.hltv.org/news/39309/liquid-announce-zews-departure
+2024/06/27 13:00:51 Content still empty after HTML reader: https://www.hltv.org/news/39306/guardian-returns-as-coach-of-new-bcgame-team
+2024/06/27 13:00:51 Content still empty after HTML reader: https://www.hltv.org/news/39308/esl-announce-impact-season-6-dates
+2024/06/27 13:00:51 Content still empty after HTML reader: https://www.hltv.org/news/39307/esl-pro-league-season-20-groups-announced
+2024/06/27 13:00:51 Content still empty after HTML reader: https://www.hltv.org/news/39305/torzsi-on-frozens-departure-it-opened-up-a-bigger-space-for-the-rest-of-the-players
+2024/06/27 13:00:51 Fetched posts from https://www.hltv.org/rss/news, took 447.223451ms
+2024/06/27 13:00:52 Fetched posts from https://vlr.gg/rss, took 946.696727ms
+2024/06/27 13:00:52 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.585744431s
+2024/06/27 13:00:54 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.724824617s
+2024/06/27 13:01:00 Fetched posts from https://blogtienao.com/feed, took 8.845369906s
+2024/06/27 13:01:33 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 42.197325316s
+2024/06/27 13:01:33 Skipping writing post, no content: https://www.hltv.org/news/39314/sources-nrg-interested-in-nitr0
+2024/06/27 13:01:33 Skipping writing post, no content: https://www.hltv.org/news/39311/bcgame-add-anarkez
+2024/06/27 13:01:33 Skipping writing post, no content: https://www.hltv.org/news/39312/kaze-moves-back-to-rare-atom
+2024/06/27 13:01:33 Skipping writing post, no content: https://www.hltv.org/news/39290/how-different-are-ct-positions-from-one-another-really
+2024/06/27 13:01:33 Skipping writing post, no content: https://www.hltv.org/news/39310/first-cs2-community-maps-arrive-in-latest-update
+2024/06/27 13:01:33 Skipping writing post, no content: https://www.hltv.org/news/39309/liquid-announce-zews-departure
+2024/06/27 13:01:33 Skipping writing post, no content: https://www.hltv.org/news/39306/guardian-returns-as-coach-of-new-bcgame-team
+2024/06/27 13:01:33 Skipping writing post, no content: https://www.hltv.org/news/39308/esl-announce-impact-season-6-dates
+2024/06/27 13:01:33 Skipping writing post, no content: https://www.hltv.org/news/39307/esl-pro-league-season-20-groups-announced
+2024/06/27 13:01:33 Skipping writing post, no content: https://www.hltv.org/news/39305/torzsi-on-frozens-departure-it-opened-up-a-bigger-space-for-the-rest-of-the-players
+2024/06/27 13:01:33 Templated 75 posts, took 11.618327ms
