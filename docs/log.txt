@@ -1,30 +1,28 @@
-2024/06/28 16:52:17 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/28 16:52:17 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 94.859286ms
-2024/06/28 16:52:17 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 242.536761ms
-2024/06/28 16:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39318/official-malbsmd-joins-g2
-2024/06/28 16:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39317/teses-renews-contract-in-two-year-deal
-2024/06/28 16:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39313/sources-talon-looking-to-return-to-cs-with-team-captained-by-azr
-2024/06/28 16:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39316/cacanito-and-joel-join-bcgame
-2024/06/28 16:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39314/sources-nrg-interested-in-nitr0
-2024/06/28 16:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39311/bcgame-add-anarkez
-2024/06/28 16:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39312/kaze-moves-back-to-rare-atom
-2024/06/28 16:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39290/how-different-are-ct-positions-from-one-another-really
-2024/06/28 16:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39310/first-cs2-community-maps-arrive-in-latest-update
-2024/06/28 16:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39309/liquid-announce-zews-departure
-2024/06/28 16:52:17 Fetched posts from https://www.hltv.org/rss/news, took 472.388534ms
-2024/06/28 16:52:17 Fetched posts from https://vlr.gg/rss, took 662.740384ms
-2024/06/28 16:52:18 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 912.762503ms
-2024/06/28 16:52:18 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.734650864s
-2024/06/28 16:52:24 Fetched posts from https://blogtienao.com/feed, took 7.436194794s
-2024/06/28 16:52:34 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.144292448s
-2024/06/28 16:52:34 Skipping writing post, no content: https://www.hltv.org/news/39318/official-malbsmd-joins-g2
-2024/06/28 16:52:34 Skipping writing post, no content: https://www.hltv.org/news/39317/teses-renews-contract-in-two-year-deal
-2024/06/28 16:52:34 Skipping writing post, no content: https://www.hltv.org/news/39313/sources-talon-looking-to-return-to-cs-with-team-captained-by-azr
-2024/06/28 16:52:34 Skipping writing post, no content: https://www.hltv.org/news/39316/cacanito-and-joel-join-bcgame
-2024/06/28 16:52:34 Skipping writing post, no content: https://www.hltv.org/news/39314/sources-nrg-interested-in-nitr0
-2024/06/28 16:52:34 Skipping writing post, no content: https://www.hltv.org/news/39311/bcgame-add-anarkez
-2024/06/28 16:52:34 Skipping writing post, no content: https://www.hltv.org/news/39312/kaze-moves-back-to-rare-atom
-2024/06/28 16:52:34 Skipping writing post, no content: https://www.hltv.org/news/39290/how-different-are-ct-positions-from-one-another-really
-2024/06/28 16:52:34 Skipping writing post, no content: https://www.hltv.org/news/39310/first-cs2-community-maps-arrive-in-latest-update
-2024/06/28 16:52:34 Skipping writing post, no content: https://www.hltv.org/news/39309/liquid-announce-zews-departure
-2024/06/28 16:52:34 Templated 78 posts, took 12.378712ms
+2024/06/28 17:16:22 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 97.717008ms
+2024/06/28 17:16:22 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/28 17:16:22 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 136.617574ms
+2024/06/28 17:16:22 Content still empty after HTML reader: https://www.hltv.org/news/39318/official-malbsmd-joins-g2
+2024/06/28 17:16:22 Content still empty after HTML reader: https://www.hltv.org/news/39317/teses-renews-contract-in-two-year-deal
+2024/06/28 17:16:22 Content still empty after HTML reader: https://www.hltv.org/news/39313/sources-talon-looking-to-return-to-cs-with-team-captained-by-azr
+2024/06/28 17:16:23 Content still empty after HTML reader: https://www.hltv.org/news/39316/cacanito-and-joel-join-bcgame
+2024/06/28 17:16:23 Content still empty after HTML reader: https://www.hltv.org/news/39314/sources-nrg-interested-in-nitr0
+2024/06/28 17:16:23 Content still empty after HTML reader: https://www.hltv.org/news/39311/bcgame-add-anarkez
+2024/06/28 17:16:23 Content still empty after HTML reader: https://www.hltv.org/news/39312/kaze-moves-back-to-rare-atom
+2024/06/28 17:16:23 Content still empty after HTML reader: https://www.hltv.org/news/39290/how-different-are-ct-positions-from-one-another-really
+2024/06/28 17:16:23 Content still empty after HTML reader: https://www.hltv.org/news/39310/first-cs2-community-maps-arrive-in-latest-update
+2024/06/28 17:16:23 Fetched posts from https://www.hltv.org/rss/news, took 433.028005ms
+2024/06/28 17:16:23 Fetched posts from https://vlr.gg/rss, took 454.532577ms
+2024/06/28 17:16:23 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 588.246186ms
+2024/06/28 17:16:24 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.481407318s
+2024/06/28 17:16:29 Fetched posts from https://blogtienao.com/feed, took 6.720426013s
+2024/06/28 17:16:41 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.330899147s
+2024/06/28 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/39318/official-malbsmd-joins-g2
+2024/06/28 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/39317/teses-renews-contract-in-two-year-deal
+2024/06/28 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/39313/sources-talon-looking-to-return-to-cs-with-team-captained-by-azr
+2024/06/28 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/39316/cacanito-and-joel-join-bcgame
+2024/06/28 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/39314/sources-nrg-interested-in-nitr0
+2024/06/28 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/39311/bcgame-add-anarkez
+2024/06/28 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/39312/kaze-moves-back-to-rare-atom
+2024/06/28 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/39290/how-different-are-ct-positions-from-one-another-really
+2024/06/28 17:16:41 Skipping writing post, no content: https://www.hltv.org/news/39310/first-cs2-community-maps-arrive-in-latest-update
+2024/06/28 17:16:41 Templated 77 posts, took 13.109324ms
