@@ -1,28 +1,26 @@
-2024/06/29 03:52:18 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/06/29 03:52:18 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 152.28438ms
-2024/06/29 03:52:18 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 220.091406ms
-2024/06/29 03:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39319/henu-and-ence-academy-part-ways
-2024/06/29 03:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39318/official-malbsmd-joins-g2
-2024/06/29 03:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39317/teses-renews-contract-in-two-year-deal
-2024/06/29 03:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39313/sources-talon-looking-to-return-to-cs-with-team-captained-by-azr
-2024/06/29 03:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39316/cacanito-and-joel-join-bcgame
-2024/06/29 03:52:18 Fetched posts from https://vlr.gg/rss, took 389.622314ms
-2024/06/29 03:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39314/sources-nrg-interested-in-nitr0
-2024/06/29 03:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39311/bcgame-add-anarkez
-2024/06/29 03:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39312/kaze-moves-back-to-rare-atom
-2024/06/29 03:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39290/how-different-are-ct-positions-from-one-another-really
-2024/06/29 03:52:18 Fetched posts from https://www.hltv.org/rss/news, took 433.850644ms
-2024/06/29 03:52:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.071381817s
-2024/06/29 03:52:19 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.19870776s
-2024/06/29 03:52:23 Fetched posts from https://blogtienao.com/feed, took 5.003120946s
-2024/06/29 03:52:35 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.617344929s
-2024/06/29 03:52:35 Skipping writing post, no content: https://www.hltv.org/news/39319/henu-and-ence-academy-part-ways
-2024/06/29 03:52:35 Skipping writing post, no content: https://www.hltv.org/news/39318/official-malbsmd-joins-g2
-2024/06/29 03:52:35 Skipping writing post, no content: https://www.hltv.org/news/39317/teses-renews-contract-in-two-year-deal
-2024/06/29 03:52:35 Skipping writing post, no content: https://www.hltv.org/news/39313/sources-talon-looking-to-return-to-cs-with-team-captained-by-azr
-2024/06/29 03:52:35 Skipping writing post, no content: https://www.hltv.org/news/39316/cacanito-and-joel-join-bcgame
-2024/06/29 03:52:35 Skipping writing post, no content: https://www.hltv.org/news/39314/sources-nrg-interested-in-nitr0
-2024/06/29 03:52:35 Skipping writing post, no content: https://www.hltv.org/news/39311/bcgame-add-anarkez
-2024/06/29 03:52:35 Skipping writing post, no content: https://www.hltv.org/news/39312/kaze-moves-back-to-rare-atom
-2024/06/29 03:52:35 Skipping writing post, no content: https://www.hltv.org/news/39290/how-different-are-ct-positions-from-one-another-really
-2024/06/29 03:52:35 Templated 81 posts, took 12.244364ms
+2024/06/29 04:22:12 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/06/29 04:22:12 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 190.53946ms
+2024/06/29 04:22:12 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 221.811131ms
+2024/06/29 04:22:12 Content still empty after HTML reader: https://www.hltv.org/news/39319/henu-and-ence-academy-part-ways
+2024/06/29 04:22:12 Content still empty after HTML reader: https://www.hltv.org/news/39318/official-malbsmd-joins-g2
+2024/06/29 04:22:12 Content still empty after HTML reader: https://www.hltv.org/news/39317/teses-renews-contract-in-two-year-deal
+2024/06/29 04:22:12 Content still empty after HTML reader: https://www.hltv.org/news/39313/sources-talon-looking-to-return-to-cs-with-team-captained-by-azr
+2024/06/29 04:22:12 Content still empty after HTML reader: https://www.hltv.org/news/39314/sources-nrg-interested-in-nitr0
+2024/06/29 04:22:12 Content still empty after HTML reader: https://www.hltv.org/news/39311/bcgame-add-anarkez
+2024/06/29 04:22:12 Content still empty after HTML reader: https://www.hltv.org/news/39312/kaze-moves-back-to-rare-atom
+2024/06/29 04:22:12 Content still empty after HTML reader: https://www.hltv.org/news/39290/how-different-are-ct-positions-from-one-another-really
+2024/06/29 04:22:12 Fetched posts from https://www.hltv.org/rss/news, took 308.870116ms
+2024/06/29 04:22:12 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 808.478897ms
+2024/06/29 04:22:13 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.153306164s
+2024/06/29 04:22:13 Fetched posts from https://vlr.gg/rss, took 1.276456609s
+2024/06/29 04:22:15 Fetched posts from https://blogtienao.com/feed, took 3.599267942s
+2024/06/29 04:22:28 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.942811368s
+2024/06/29 04:22:28 Skipping writing post, no content: https://www.hltv.org/news/39319/henu-and-ence-academy-part-ways
+2024/06/29 04:22:28 Skipping writing post, no content: https://www.hltv.org/news/39318/official-malbsmd-joins-g2
+2024/06/29 04:22:28 Skipping writing post, no content: https://www.hltv.org/news/39317/teses-renews-contract-in-two-year-deal
+2024/06/29 04:22:28 Skipping writing post, no content: https://www.hltv.org/news/39313/sources-talon-looking-to-return-to-cs-with-team-captained-by-azr
+2024/06/29 04:22:28 Skipping writing post, no content: https://www.hltv.org/news/39314/sources-nrg-interested-in-nitr0
+2024/06/29 04:22:28 Skipping writing post, no content: https://www.hltv.org/news/39311/bcgame-add-anarkez
+2024/06/29 04:22:28 Skipping writing post, no content: https://www.hltv.org/news/39312/kaze-moves-back-to-rare-atom
+2024/06/29 04:22:28 Skipping writing post, no content: https://www.hltv.org/news/39290/how-different-are-ct-positions-from-one-another-really
+2024/06/29 04:22:28 Templated 80 posts, took 13.984001ms
