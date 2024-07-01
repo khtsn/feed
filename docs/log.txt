@@ -1,22 +1,24 @@
-2024/07/01 06:55:16 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 100.63487ms
-2024/07/01 06:55:16 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/01 06:55:16 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 233.02364ms
-2024/07/01 06:55:17 Fetched posts from https://vlr.gg/rss, took 337.061186ms
-2024/07/01 06:55:17 Content still empty after HTML reader: https://www.hltv.org/news/39324/kjaerbye-and-dennyslaw-link-up-with-jijiehao
-2024/07/01 06:55:17 Content still empty after HTML reader: https://www.hltv.org/news/39323/gamerlegion-bid-farewell-to-acor
-2024/07/01 06:55:17 Content still empty after HTML reader: https://www.hltv.org/news/39322/f0rest-on-his-career-prospects-it-looks-difficult
-2024/07/01 06:55:17 Content still empty after HTML reader: https://www.hltv.org/news/39320/thomas-interview-5w-scam-itb-lessons-and-his-future
-2024/07/01 06:55:17 Content still empty after HTML reader: https://www.hltv.org/news/39319/henu-and-ence-academy-part-ways
-2024/07/01 06:55:17 Content still empty after HTML reader: https://www.hltv.org/news/39318/official-malbsmd-joins-g2
-2024/07/01 06:55:17 Fetched posts from https://www.hltv.org/rss/news, took 643.419466ms
-2024/07/01 06:55:17 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 714.618475ms
-2024/07/01 06:55:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 740.592472ms
-2024/07/01 06:55:21 Fetched posts from https://blogtienao.com/feed, took 4.487686338s
-2024/07/01 06:55:37 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.988350647s
-2024/07/01 06:55:37 Skipping writing post, no content: https://www.hltv.org/news/39324/kjaerbye-and-dennyslaw-link-up-with-jijiehao
-2024/07/01 06:55:37 Skipping writing post, no content: https://www.hltv.org/news/39323/gamerlegion-bid-farewell-to-acor
-2024/07/01 06:55:37 Skipping writing post, no content: https://www.hltv.org/news/39322/f0rest-on-his-career-prospects-it-looks-difficult
-2024/07/01 06:55:37 Skipping writing post, no content: https://www.hltv.org/news/39320/thomas-interview-5w-scam-itb-lessons-and-his-future
-2024/07/01 06:55:37 Skipping writing post, no content: https://www.hltv.org/news/39319/henu-and-ence-academy-part-ways
-2024/07/01 06:55:37 Skipping writing post, no content: https://www.hltv.org/news/39318/official-malbsmd-joins-g2
-2024/07/01 06:55:37 Templated 73 posts, took 12.40854ms
+2024/07/01 07:17:45 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/01 07:17:45 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 154.872909ms
+2024/07/01 07:17:45 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 266.957315ms
+2024/07/01 07:17:45 Content still empty after HTML reader: https://www.hltv.org/news/39324/kjaerbye-and-dennyslaw-link-up-with-jijiehao
+2024/07/01 07:17:45 Content still empty after HTML reader: https://www.nytimes.com/2024/06/30/business/boeing-max-justice-department.html
+2024/07/01 07:17:45 Content still empty after HTML reader: https://www.hltv.org/news/39323/gamerlegion-bid-farewell-to-acor
+2024/07/01 07:17:45 Content still empty after HTML reader: https://www.hltv.org/news/39322/f0rest-on-his-career-prospects-it-looks-difficult
+2024/07/01 07:17:45 Content still empty after HTML reader: https://www.hltv.org/news/39320/thomas-interview-5w-scam-itb-lessons-and-his-future
+2024/07/01 07:17:45 Content still empty after HTML reader: https://www.hltv.org/news/39319/henu-and-ence-academy-part-ways
+2024/07/01 07:17:45 Content still empty after HTML reader: https://www.hltv.org/news/39318/official-malbsmd-joins-g2
+2024/07/01 07:17:45 Fetched posts from https://www.hltv.org/rss/news, took 406.883392ms
+2024/07/01 07:17:45 Fetched posts from https://vlr.gg/rss, took 947.705877ms
+2024/07/01 07:17:46 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.300021907s
+2024/07/01 07:17:46 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.303960684s
+2024/07/01 07:17:48 Fetched posts from https://blogtienao.com/feed, took 3.411285368s
+2024/07/01 07:18:00 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.60864151s
+2024/07/01 07:18:00 Skipping writing post, no content: https://www.nytimes.com/2024/06/30/business/boeing-max-justice-department.html
+2024/07/01 07:18:00 Skipping writing post, no content: https://www.hltv.org/news/39324/kjaerbye-and-dennyslaw-link-up-with-jijiehao
+2024/07/01 07:18:00 Skipping writing post, no content: https://www.hltv.org/news/39323/gamerlegion-bid-farewell-to-acor
+2024/07/01 07:18:00 Skipping writing post, no content: https://www.hltv.org/news/39322/f0rest-on-his-career-prospects-it-looks-difficult
+2024/07/01 07:18:00 Skipping writing post, no content: https://www.hltv.org/news/39320/thomas-interview-5w-scam-itb-lessons-and-his-future
+2024/07/01 07:18:00 Skipping writing post, no content: https://www.hltv.org/news/39319/henu-and-ence-academy-part-ways
+2024/07/01 07:18:00 Skipping writing post, no content: https://www.hltv.org/news/39318/official-malbsmd-joins-g2
+2024/07/01 07:18:00 Templated 73 posts, took 11.715283ms
