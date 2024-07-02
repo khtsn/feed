@@ -1,30 +1,30 @@
-2024/07/02 13:37:12 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/02 13:37:12 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 117.175298ms
-2024/07/02 13:37:12 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 183.347788ms
-2024/07/02 13:37:13 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 757.881738ms
-2024/07/02 13:37:13 Fetched posts from https://vlr.gg/rss, took 783.472108ms
-2024/07/02 13:37:13 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 846.524775ms
-2024/07/02 13:37:13 Content still empty after HTML reader: https://www.hltv.org/news/39334/icy-leaves-amkal
-2024/07/02 13:37:13 Content still empty after HTML reader: https://www.hltv.org/news/39321/editorial-best-and-worst-transfers-of-cs2
-2024/07/02 13:37:13 Content still empty after HTML reader: https://www.hltv.org/news/39330/tsm-sign-trio-to-complete-danish-roster
-2024/07/02 13:37:13 Content still empty after HTML reader: https://www.hltv.org/news/39328/hooxi-benched-in-g2
-2024/07/02 13:37:13 Content still empty after HTML reader: https://www.hltv.org/news/39329/eyeballers-sign-17-year-old-poiii-hes-swedens-next-superstar
-2024/07/02 13:37:13 Content still empty after HTML reader: https://www.hltv.org/news/39327/bobeksde-joins-johnny-speeds
-2024/07/02 13:37:13 Content still empty after HTML reader: https://www.hltv.org/news/39325/lekr0-and-pr1metapz-complete-bcgame-roster
-2024/07/02 13:37:13 Content still empty after HTML reader: https://www.hltv.org/news/39324/kjaerbye-and-dennyslaw-link-up-with-jijiehao
-2024/07/02 13:37:13 Content still empty after HTML reader: https://www.hltv.org/news/39323/gamerlegion-bid-farewell-to-acor
-2024/07/02 13:37:13 Content still empty after HTML reader: https://www.hltv.org/news/39322/f0rest-on-his-career-prospects-it-looks-difficult
-2024/07/02 13:37:13 Fetched posts from https://www.hltv.org/rss/news, took 935.403479ms
-2024/07/02 13:37:16 Fetched posts from https://blogtienao.com/feed, took 3.437720113s
-2024/07/02 13:37:32 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.747324206s
-2024/07/02 13:37:32 Skipping writing post, no content: https://www.hltv.org/news/39334/icy-leaves-amkal
-2024/07/02 13:37:32 Skipping writing post, no content: https://www.hltv.org/news/39321/editorial-best-and-worst-transfers-of-cs2
-2024/07/02 13:37:32 Skipping writing post, no content: https://www.hltv.org/news/39330/tsm-sign-trio-to-complete-danish-roster
-2024/07/02 13:37:32 Skipping writing post, no content: https://www.hltv.org/news/39328/hooxi-benched-in-g2
-2024/07/02 13:37:32 Skipping writing post, no content: https://www.hltv.org/news/39329/eyeballers-sign-17-year-old-poiii-hes-swedens-next-superstar
-2024/07/02 13:37:32 Skipping writing post, no content: https://www.hltv.org/news/39327/bobeksde-joins-johnny-speeds
-2024/07/02 13:37:32 Skipping writing post, no content: https://www.hltv.org/news/39325/lekr0-and-pr1metapz-complete-bcgame-roster
-2024/07/02 13:37:32 Skipping writing post, no content: https://www.hltv.org/news/39324/kjaerbye-and-dennyslaw-link-up-with-jijiehao
-2024/07/02 13:37:32 Skipping writing post, no content: https://www.hltv.org/news/39323/gamerlegion-bid-farewell-to-acor
-2024/07/02 13:37:32 Skipping writing post, no content: https://www.hltv.org/news/39322/f0rest-on-his-career-prospects-it-looks-difficult
-2024/07/02 13:37:32 Templated 85 posts, took 13.492372ms
+2024/07/02 13:52:18 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 88.846235ms
+2024/07/02 13:52:18 Fetched posts from https://vlr.gg/rss, took 251.780121ms
+2024/07/02 13:52:18 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/02 13:52:18 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 370.668376ms
+2024/07/02 13:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39334/icy-leaves-amkal
+2024/07/02 13:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39321/editorial-best-and-worst-transfers-of-cs2
+2024/07/02 13:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39330/tsm-sign-trio-to-complete-danish-roster
+2024/07/02 13:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39328/hooxi-benched-in-g2
+2024/07/02 13:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39329/eyeballers-sign-17-year-old-poiii-hes-swedens-next-superstar
+2024/07/02 13:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39327/bobeksde-joins-johnny-speeds
+2024/07/02 13:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39325/lekr0-and-pr1metapz-complete-bcgame-roster
+2024/07/02 13:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39324/kjaerbye-and-dennyslaw-link-up-with-jijiehao
+2024/07/02 13:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39323/gamerlegion-bid-farewell-to-acor
+2024/07/02 13:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39322/f0rest-on-his-career-prospects-it-looks-difficult
+2024/07/02 13:52:19 Fetched posts from https://www.hltv.org/rss/news, took 590.439521ms
+2024/07/02 13:52:19 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 744.868733ms
+2024/07/02 13:52:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 837.835214ms
+2024/07/02 13:52:23 Fetched posts from https://blogtienao.com/feed, took 4.737208465s
+2024/07/02 13:52:39 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.879100787s
+2024/07/02 13:52:39 Skipping writing post, no content: https://www.hltv.org/news/39334/icy-leaves-amkal
+2024/07/02 13:52:39 Skipping writing post, no content: https://www.hltv.org/news/39321/editorial-best-and-worst-transfers-of-cs2
+2024/07/02 13:52:39 Skipping writing post, no content: https://www.hltv.org/news/39330/tsm-sign-trio-to-complete-danish-roster
+2024/07/02 13:52:39 Skipping writing post, no content: https://www.hltv.org/news/39328/hooxi-benched-in-g2
+2024/07/02 13:52:39 Skipping writing post, no content: https://www.hltv.org/news/39329/eyeballers-sign-17-year-old-poiii-hes-swedens-next-superstar
+2024/07/02 13:52:39 Skipping writing post, no content: https://www.hltv.org/news/39327/bobeksde-joins-johnny-speeds
+2024/07/02 13:52:39 Skipping writing post, no content: https://www.hltv.org/news/39325/lekr0-and-pr1metapz-complete-bcgame-roster
+2024/07/02 13:52:39 Skipping writing post, no content: https://www.hltv.org/news/39324/kjaerbye-and-dennyslaw-link-up-with-jijiehao
+2024/07/02 13:52:39 Skipping writing post, no content: https://www.hltv.org/news/39323/gamerlegion-bid-farewell-to-acor
+2024/07/02 13:52:39 Skipping writing post, no content: https://www.hltv.org/news/39322/f0rest-on-his-career-prospects-it-looks-difficult
+2024/07/02 13:52:39 Templated 86 posts, took 13.110601ms
