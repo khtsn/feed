@@ -1,32 +1,30 @@
-2024/07/04 10:52:31 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 214.8488ms
-2024/07/04 10:52:31 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/04 10:52:31 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 242.949842ms
-2024/07/04 10:52:31 Fetched posts from https://vlr.gg/rss, took 328.920174ms
-2024/07/04 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39341/ence-invited-to-skyesports-championship
-2024/07/04 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39340/hltv-confirmed-whats-going-on-in-g2-special
-2024/07/04 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39339/blamef-and-k0nfig-were-close-to-signing-with-tsm-rejin-reveals
-2024/07/04 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39337/bleed-add-nexa-for-faven
-2024/07/04 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39338/g2-unveil-snax-signing
-2024/07/04 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39335/gamerlegion-part-ways-with-snax
-2024/07/04 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39336/skyesports-increase-prize-pool-and-team-count-for-mumbai-championship
-2024/07/04 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39303/who-are-2024s-rookies
-2024/07/04 10:52:31 Content still empty after HTML reader: https://www.nytimes.com/2024/07/04/world/middleeast/netflix-masameer-saudi-arabia-prison.html
-2024/07/04 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39332/zywoo-interview-not-enjoying-fame-six-years-at-vitality-and-his-future
-2024/07/04 10:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39334/icy-leaves-amkal
-2024/07/04 10:52:31 Fetched posts from https://www.hltv.org/rss/news, took 667.499558ms
-2024/07/04 10:52:31 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 986.934559ms
-2024/07/04 10:52:32 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.160072591s
-2024/07/04 10:52:37 Fetched posts from https://blogtienao.com/feed, took 6.433635867s
-2024/07/04 10:52:49 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.063326464s
-2024/07/04 10:52:49 Skipping writing post, no content: https://www.hltv.org/news/39341/ence-invited-to-skyesports-championship
-2024/07/04 10:52:49 Skipping writing post, no content: https://www.nytimes.com/2024/07/04/world/middleeast/netflix-masameer-saudi-arabia-prison.html
-2024/07/04 10:52:49 Skipping writing post, no content: https://www.hltv.org/news/39340/hltv-confirmed-whats-going-on-in-g2-special
-2024/07/04 10:52:49 Skipping writing post, no content: https://www.hltv.org/news/39339/blamef-and-k0nfig-were-close-to-signing-with-tsm-rejin-reveals
-2024/07/04 10:52:49 Skipping writing post, no content: https://www.hltv.org/news/39337/bleed-add-nexa-for-faven
-2024/07/04 10:52:49 Skipping writing post, no content: https://www.hltv.org/news/39338/g2-unveil-snax-signing
-2024/07/04 10:52:49 Skipping writing post, no content: https://www.hltv.org/news/39335/gamerlegion-part-ways-with-snax
-2024/07/04 10:52:49 Skipping writing post, no content: https://www.hltv.org/news/39336/skyesports-increase-prize-pool-and-team-count-for-mumbai-championship
-2024/07/04 10:52:49 Skipping writing post, no content: https://www.hltv.org/news/39303/who-are-2024s-rookies
-2024/07/04 10:52:49 Skipping writing post, no content: https://www.hltv.org/news/39332/zywoo-interview-not-enjoying-fame-six-years-at-vitality-and-his-future
-2024/07/04 10:52:49 Skipping writing post, no content: https://www.hltv.org/news/39334/icy-leaves-amkal
-2024/07/04 10:52:49 Templated 81 posts, took 12.76495ms
+2024/07/04 11:19:35 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/04 11:19:35 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 153.353929ms
+2024/07/04 11:19:35 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 193.62342ms
+2024/07/04 11:19:35 Content still empty after HTML reader: https://www.hltv.org/news/39341/ence-invited-to-skyesports-championship
+2024/07/04 11:19:35 Content still empty after HTML reader: https://www.hltv.org/news/39340/hltv-confirmed-whats-going-on-in-g2-special
+2024/07/04 11:19:35 Content still empty after HTML reader: https://www.hltv.org/news/39339/blamef-and-k0nfig-were-close-to-signing-with-tsm-rejin-reveals
+2024/07/04 11:19:35 Content still empty after HTML reader: https://www.hltv.org/news/39337/bleed-add-nexa-for-faven
+2024/07/04 11:19:35 Content still empty after HTML reader: https://www.hltv.org/news/39338/g2-unveil-snax-signing
+2024/07/04 11:19:35 Content still empty after HTML reader: https://www.hltv.org/news/39335/gamerlegion-part-ways-with-snax
+2024/07/04 11:19:35 Content still empty after HTML reader: https://www.hltv.org/news/39336/skyesports-increase-prize-pool-and-team-count-for-mumbai-championship
+2024/07/04 11:19:35 Content still empty after HTML reader: https://www.hltv.org/news/39303/who-are-2024s-rookies
+2024/07/04 11:19:35 Content still empty after HTML reader: https://www.hltv.org/news/39332/zywoo-interview-not-enjoying-fame-six-years-at-vitality-and-his-future
+2024/07/04 11:19:35 Content still empty after HTML reader: https://www.hltv.org/news/39334/icy-leaves-amkal
+2024/07/04 11:19:35 Fetched posts from https://www.hltv.org/rss/news, took 447.037758ms
+2024/07/04 11:19:36 Fetched posts from https://vlr.gg/rss, took 815.834169ms
+2024/07/04 11:19:36 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.221575429s
+2024/07/04 11:19:36 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.330662671s
+2024/07/04 11:19:38 Fetched posts from https://blogtienao.com/feed, took 3.391687894s
+2024/07/04 11:19:52 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.984073156s
+2024/07/04 11:19:52 Skipping writing post, no content: https://www.hltv.org/news/39341/ence-invited-to-skyesports-championship
+2024/07/04 11:19:52 Skipping writing post, no content: https://www.hltv.org/news/39340/hltv-confirmed-whats-going-on-in-g2-special
+2024/07/04 11:19:52 Skipping writing post, no content: https://www.hltv.org/news/39339/blamef-and-k0nfig-were-close-to-signing-with-tsm-rejin-reveals
+2024/07/04 11:19:52 Skipping writing post, no content: https://www.hltv.org/news/39337/bleed-add-nexa-for-faven
+2024/07/04 11:19:52 Skipping writing post, no content: https://www.hltv.org/news/39338/g2-unveil-snax-signing
+2024/07/04 11:19:52 Skipping writing post, no content: https://www.hltv.org/news/39335/gamerlegion-part-ways-with-snax
+2024/07/04 11:19:52 Skipping writing post, no content: https://www.hltv.org/news/39336/skyesports-increase-prize-pool-and-team-count-for-mumbai-championship
+2024/07/04 11:19:52 Skipping writing post, no content: https://www.hltv.org/news/39303/who-are-2024s-rookies
+2024/07/04 11:19:52 Skipping writing post, no content: https://www.hltv.org/news/39332/zywoo-interview-not-enjoying-fame-six-years-at-vitality-and-his-future
+2024/07/04 11:19:52 Skipping writing post, no content: https://www.hltv.org/news/39334/icy-leaves-amkal
+2024/07/04 11:19:52 Templated 81 posts, took 12.710186ms
