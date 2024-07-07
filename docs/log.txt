@@ -1,32 +1,30 @@
-2024/07/07 11:37:59 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/07 11:37:59 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 97.557625ms
-2024/07/07 11:37:59 Content still empty after HTML reader: https://www.hltv.org/news/39351/hooxi-interview-benching-dealing-with-criticism-and-post-g2-future
-2024/07/07 11:37:59 Content still empty after HTML reader: https://www.hltv.org/news/39331/editorial-tier-one-counter-strike-rosters-are-judged-too-harshly
-2024/07/07 11:37:59 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 239.975752ms
-2024/07/07 11:37:59 Content still empty after HTML reader: https://www.hltv.org/news/39350/amkal-invited-to-skyesports-championship
-2024/07/07 11:37:59 Content still empty after HTML reader: https://www.hltv.org/news/39349/gamerlegion-sign-ztr
-2024/07/07 11:37:59 Content still empty after HTML reader: https://www.hltv.org/news/39348/monte-parts-ways-with-woro2k
-2024/07/07 11:37:59 Content still empty after HTML reader: https://www.hltv.org/news/39343/community-reacts-snax-signs-for-g2
-2024/07/07 11:37:59 Content still empty after HTML reader: https://www.hltv.org/news/39347/sources-liquid-target-polish-awper-ultimate
-2024/07/07 11:37:59 Content still empty after HTML reader: https://www.hltv.org/news/39346/esports-world-cup-opening-matchups-revealed
-2024/07/07 11:37:59 Content still empty after HTML reader: https://www.hltv.org/news/39345/swani-interview-g2-almost-kicked-hooxi-before-cologne-2023-anti-strat-examples-coaching-g2
-2024/07/07 11:37:59 Content still empty after HTML reader: https://www.hltv.org/news/39344/nrg-sign-nitr0
-2024/07/07 11:37:59 Content still empty after HTML reader: https://www.nytimes.com/2024/07/07/us/politics/russia-oil-ukraine-shadow-fleet.html
-2024/07/07 11:37:59 Fetched posts from https://www.hltv.org/rss/news, took 305.749768ms
-2024/07/07 11:37:59 Fetched posts from https://vlr.gg/rss, took 736.752458ms
-2024/07/07 11:38:00 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.334612342s
-2024/07/07 11:38:02 Fetched posts from https://blogtienao.com/feed, took 3.791002638s
-2024/07/07 11:38:03 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 4.558701289s
-2024/07/07 11:38:16 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.413303395s
-2024/07/07 11:38:16 Skipping writing post, no content: https://www.nytimes.com/2024/07/07/us/politics/russia-oil-ukraine-shadow-fleet.html
-2024/07/07 11:38:16 Skipping writing post, no content: https://www.hltv.org/news/39351/hooxi-interview-benching-dealing-with-criticism-and-post-g2-future
-2024/07/07 11:38:16 Skipping writing post, no content: https://www.hltv.org/news/39331/editorial-tier-one-counter-strike-rosters-are-judged-too-harshly
-2024/07/07 11:38:16 Skipping writing post, no content: https://www.hltv.org/news/39350/amkal-invited-to-skyesports-championship
-2024/07/07 11:38:16 Skipping writing post, no content: https://www.hltv.org/news/39349/gamerlegion-sign-ztr
-2024/07/07 11:38:16 Skipping writing post, no content: https://www.hltv.org/news/39348/monte-parts-ways-with-woro2k
-2024/07/07 11:38:16 Skipping writing post, no content: https://www.hltv.org/news/39343/community-reacts-snax-signs-for-g2
-2024/07/07 11:38:16 Skipping writing post, no content: https://www.hltv.org/news/39347/sources-liquid-target-polish-awper-ultimate
-2024/07/07 11:38:16 Skipping writing post, no content: https://www.hltv.org/news/39346/esports-world-cup-opening-matchups-revealed
-2024/07/07 11:38:16 Skipping writing post, no content: https://www.hltv.org/news/39345/swani-interview-g2-almost-kicked-hooxi-before-cologne-2023-anti-strat-examples-coaching-g2
-2024/07/07 11:38:16 Skipping writing post, no content: https://www.hltv.org/news/39344/nrg-sign-nitr0
-2024/07/07 11:38:16 Templated 78 posts, took 12.821357ms
+2024/07/07 11:52:04 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 106.395971ms
+2024/07/07 11:52:04 Fetched posts from https://vlr.gg/rss, took 290.007141ms
+2024/07/07 11:52:04 Content still empty after HTML reader: https://www.hltv.org/news/39351/hooxi-interview-benching-dealing-with-criticism-and-post-g2-future
+2024/07/07 11:52:04 Content still empty after HTML reader: https://www.hltv.org/news/39331/editorial-tier-one-counter-strike-rosters-are-judged-too-harshly
+2024/07/07 11:52:04 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/07 11:52:04 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 320.227624ms
+2024/07/07 11:52:04 Content still empty after HTML reader: https://www.hltv.org/news/39350/amkal-invited-to-skyesports-championship
+2024/07/07 11:52:04 Content still empty after HTML reader: https://www.hltv.org/news/39349/gamerlegion-sign-ztr
+2024/07/07 11:52:04 Content still empty after HTML reader: https://www.hltv.org/news/39348/monte-parts-ways-with-woro2k
+2024/07/07 11:52:04 Content still empty after HTML reader: https://www.hltv.org/news/39343/community-reacts-snax-signs-for-g2
+2024/07/07 11:52:04 Content still empty after HTML reader: https://www.hltv.org/news/39347/sources-liquid-target-polish-awper-ultimate
+2024/07/07 11:52:04 Content still empty after HTML reader: https://www.hltv.org/news/39346/esports-world-cup-opening-matchups-revealed
+2024/07/07 11:52:04 Content still empty after HTML reader: https://www.hltv.org/news/39345/swani-interview-g2-almost-kicked-hooxi-before-cologne-2023-anti-strat-examples-coaching-g2
+2024/07/07 11:52:04 Content still empty after HTML reader: https://www.hltv.org/news/39344/nrg-sign-nitr0
+2024/07/07 11:52:04 Fetched posts from https://www.hltv.org/rss/news, took 427.814081ms
+2024/07/07 11:52:05 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 769.127836ms
+2024/07/07 11:52:05 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.385127896s
+2024/07/07 11:52:09 Fetched posts from https://blogtienao.com/feed, took 4.666012313s
+2024/07/07 11:52:27 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.696995042s
+2024/07/07 11:52:27 Skipping writing post, no content: https://www.hltv.org/news/39351/hooxi-interview-benching-dealing-with-criticism-and-post-g2-future
+2024/07/07 11:52:27 Skipping writing post, no content: https://www.hltv.org/news/39331/editorial-tier-one-counter-strike-rosters-are-judged-too-harshly
+2024/07/07 11:52:27 Skipping writing post, no content: https://www.hltv.org/news/39350/amkal-invited-to-skyesports-championship
+2024/07/07 11:52:27 Skipping writing post, no content: https://www.hltv.org/news/39349/gamerlegion-sign-ztr
+2024/07/07 11:52:27 Skipping writing post, no content: https://www.hltv.org/news/39348/monte-parts-ways-with-woro2k
+2024/07/07 11:52:27 Skipping writing post, no content: https://www.hltv.org/news/39343/community-reacts-snax-signs-for-g2
+2024/07/07 11:52:27 Skipping writing post, no content: https://www.hltv.org/news/39347/sources-liquid-target-polish-awper-ultimate
+2024/07/07 11:52:27 Skipping writing post, no content: https://www.hltv.org/news/39346/esports-world-cup-opening-matchups-revealed
+2024/07/07 11:52:27 Skipping writing post, no content: https://www.hltv.org/news/39345/swani-interview-g2-almost-kicked-hooxi-before-cologne-2023-anti-strat-examples-coaching-g2
+2024/07/07 11:52:27 Skipping writing post, no content: https://www.hltv.org/news/39344/nrg-sign-nitr0
+2024/07/07 11:52:27 Templated 79 posts, took 12.877382ms
