@@ -1,24 +1,26 @@
-2024/07/08 11:15:59 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 181.126562ms
-2024/07/08 11:15:59 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/08 11:15:59 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 221.368545ms
-2024/07/08 11:15:59 Content still empty after HTML reader: https://www.hltv.org/news/39355/ence-academy-bring-in-millert-and-schwarz
-2024/07/08 11:15:59 Content still empty after HTML reader: https://www.hltv.org/news/39352/ash-interview-hardship-after-paris-major-and-gamerlegions-bet-on-youth-in-latest-overhaul
-2024/07/08 11:15:59 Content still empty after HTML reader: https://www.hltv.org/news/39333/editorial-will-stewie2k-find-redemption
-2024/07/08 11:15:59 Content still empty after HTML reader: https://www.hltv.org/news/39351/hooxi-interview-benching-dealing-with-criticism-and-post-g2-future
-2024/07/08 11:15:59 Content still empty after HTML reader: https://www.hltv.org/news/39331/editorial-tier-one-counter-strike-rosters-are-judged-too-harshly
-2024/07/08 11:15:59 Content still empty after HTML reader: https://www.hltv.org/news/39350/amkal-invited-to-skyesports-championship
-2024/07/08 11:15:59 Content still empty after HTML reader: https://www.hltv.org/news/39349/gamerlegion-sign-ztr
-2024/07/08 11:15:59 Fetched posts from https://www.hltv.org/rss/news, took 428.770495ms
-2024/07/08 11:15:59 Fetched posts from https://vlr.gg/rss, took 691.442058ms
-2024/07/08 11:15:59 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 831.828362ms
-2024/07/08 11:16:02 Fetched posts from https://blogtienao.com/feed, took 3.513901022s
-2024/07/08 11:16:04 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 4.978145205s
-2024/07/08 11:16:14 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.774757498s
-2024/07/08 11:16:14 Skipping writing post, no content: https://www.hltv.org/news/39355/ence-academy-bring-in-millert-and-schwarz
-2024/07/08 11:16:14 Skipping writing post, no content: https://www.hltv.org/news/39352/ash-interview-hardship-after-paris-major-and-gamerlegions-bet-on-youth-in-latest-overhaul
-2024/07/08 11:16:14 Skipping writing post, no content: https://www.hltv.org/news/39333/editorial-will-stewie2k-find-redemption
-2024/07/08 11:16:14 Skipping writing post, no content: https://www.hltv.org/news/39351/hooxi-interview-benching-dealing-with-criticism-and-post-g2-future
-2024/07/08 11:16:14 Skipping writing post, no content: https://www.hltv.org/news/39331/editorial-tier-one-counter-strike-rosters-are-judged-too-harshly
-2024/07/08 11:16:14 Skipping writing post, no content: https://www.hltv.org/news/39350/amkal-invited-to-skyesports-championship
-2024/07/08 11:16:14 Skipping writing post, no content: https://www.hltv.org/news/39349/gamerlegion-sign-ztr
-2024/07/08 11:16:14 Templated 78 posts, took 12.723929ms
+2024/07/08 11:37:41 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/08 11:37:41 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 213.764757ms
+2024/07/08 11:37:41 Fetched posts from https://vlr.gg/rss, took 232.129849ms
+2024/07/08 11:37:41 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 421.896519ms
+2024/07/08 11:37:41 Content still empty after HTML reader: https://www.hltv.org/news/39355/ence-academy-bring-in-millert-and-schwarz
+2024/07/08 11:37:41 Content still empty after HTML reader: https://www.hltv.org/news/39354/boss-add-slight-and-micro-warden-as-coach
+2024/07/08 11:37:41 Content still empty after HTML reader: https://www.hltv.org/news/39352/ash-interview-hardship-after-paris-major-and-gamerlegions-bet-on-youth-in-latest-overhaul
+2024/07/08 11:37:41 Content still empty after HTML reader: https://www.hltv.org/news/39333/editorial-will-stewie2k-find-redemption
+2024/07/08 11:37:41 Content still empty after HTML reader: https://www.hltv.org/news/39351/hooxi-interview-benching-dealing-with-criticism-and-post-g2-future
+2024/07/08 11:37:41 Content still empty after HTML reader: https://www.hltv.org/news/39331/editorial-tier-one-counter-strike-rosters-are-judged-too-harshly
+2024/07/08 11:37:41 Content still empty after HTML reader: https://www.hltv.org/news/39350/amkal-invited-to-skyesports-championship
+2024/07/08 11:37:42 Content still empty after HTML reader: https://www.hltv.org/news/39349/gamerlegion-sign-ztr
+2024/07/08 11:37:42 Fetched posts from https://www.hltv.org/rss/news, took 664.550407ms
+2024/07/08 11:37:42 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 910.060891ms
+2024/07/08 11:37:42 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.182624951s
+2024/07/08 11:37:46 Fetched posts from https://blogtienao.com/feed, took 4.789524745s
+2024/07/08 11:37:59 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.359872526s
+2024/07/08 11:37:59 Skipping writing post, no content: https://www.hltv.org/news/39355/ence-academy-bring-in-millert-and-schwarz
+2024/07/08 11:37:59 Skipping writing post, no content: https://www.hltv.org/news/39354/boss-add-slight-and-micro-warden-as-coach
+2024/07/08 11:37:59 Skipping writing post, no content: https://www.hltv.org/news/39352/ash-interview-hardship-after-paris-major-and-gamerlegions-bet-on-youth-in-latest-overhaul
+2024/07/08 11:37:59 Skipping writing post, no content: https://www.hltv.org/news/39333/editorial-will-stewie2k-find-redemption
+2024/07/08 11:37:59 Skipping writing post, no content: https://www.hltv.org/news/39351/hooxi-interview-benching-dealing-with-criticism-and-post-g2-future
+2024/07/08 11:37:59 Skipping writing post, no content: https://www.hltv.org/news/39331/editorial-tier-one-counter-strike-rosters-are-judged-too-harshly
+2024/07/08 11:37:59 Skipping writing post, no content: https://www.hltv.org/news/39350/amkal-invited-to-skyesports-championship
+2024/07/08 11:37:59 Skipping writing post, no content: https://www.hltv.org/news/39349/gamerlegion-sign-ztr
+2024/07/08 11:37:59 Templated 76 posts, took 12.088765ms
