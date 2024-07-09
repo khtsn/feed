@@ -1,28 +1,28 @@
-2024/07/09 03:38:26 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/09 03:38:26 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 138.011298ms
-2024/07/09 03:38:26 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 181.895409ms
-2024/07/09 03:38:26 Fetched posts from https://vlr.gg/rss, took 242.735052ms
-2024/07/09 03:38:26 Content still empty after HTML reader: https://www.hltv.org/news/39359/sources-jks-ultimate-and-mithr-registered-by-liquid-for-blast-premier-fall-groups
-2024/07/09 03:38:26 Content still empty after HTML reader: https://www.hltv.org/news/39358/hadjis-stand-in-stint-with-monte-concludes
-2024/07/09 03:38:26 Content still empty after HTML reader: https://www.hltv.org/news/39357/bestia-replace-meyern-with-zock
-2024/07/09 03:38:26 Content still empty after HTML reader: https://www.hltv.org/news/39356/yekindar-explains-why-cadians-leadership-didnt-work-and-addresses-form-criticism
-2024/07/09 03:38:26 Content still empty after HTML reader: https://www.hltv.org/news/39355/ence-academy-bring-in-millert-and-schwarz
-2024/07/09 03:38:26 Content still empty after HTML reader: https://www.hltv.org/news/39354/boss-add-slight-and-micro-warden-as-coach
-2024/07/09 03:38:26 Content still empty after HTML reader: https://www.hltv.org/news/39352/ash-interview-hardship-after-paris-major-and-gamerlegions-bet-on-youth-in-latest-overhaul
-2024/07/09 03:38:26 Content still empty after HTML reader: https://www.hltv.org/news/39333/editorial-will-stewie2k-find-redemption
-2024/07/09 03:38:26 Content still empty after HTML reader: https://www.hltv.org/news/39351/hooxi-interview-benching-dealing-with-criticism-and-post-g2-future
-2024/07/09 03:38:26 Fetched posts from https://www.hltv.org/rss/news, took 634.347413ms
-2024/07/09 03:38:26 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 860.884719ms
-2024/07/09 03:38:27 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.015752228s
-2024/07/09 03:38:30 Fetched posts from https://blogtienao.com/feed, took 4.64028661s
-2024/07/09 03:38:46 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.696292108s
-2024/07/09 03:38:46 Skipping writing post, no content: https://www.hltv.org/news/39359/sources-jks-ultimate-and-mithr-registered-by-liquid-for-blast-premier-fall-groups
-2024/07/09 03:38:46 Skipping writing post, no content: https://www.hltv.org/news/39358/hadjis-stand-in-stint-with-monte-concludes
-2024/07/09 03:38:46 Skipping writing post, no content: https://www.hltv.org/news/39357/bestia-replace-meyern-with-zock
-2024/07/09 03:38:46 Skipping writing post, no content: https://www.hltv.org/news/39356/yekindar-explains-why-cadians-leadership-didnt-work-and-addresses-form-criticism
-2024/07/09 03:38:46 Skipping writing post, no content: https://www.hltv.org/news/39355/ence-academy-bring-in-millert-and-schwarz
-2024/07/09 03:38:46 Skipping writing post, no content: https://www.hltv.org/news/39354/boss-add-slight-and-micro-warden-as-coach
-2024/07/09 03:38:46 Skipping writing post, no content: https://www.hltv.org/news/39352/ash-interview-hardship-after-paris-major-and-gamerlegions-bet-on-youth-in-latest-overhaul
-2024/07/09 03:38:46 Skipping writing post, no content: https://www.hltv.org/news/39333/editorial-will-stewie2k-find-redemption
-2024/07/09 03:38:46 Skipping writing post, no content: https://www.hltv.org/news/39351/hooxi-interview-benching-dealing-with-criticism-and-post-g2-future
-2024/07/09 03:38:46 Templated 74 posts, took 11.831424ms
+2024/07/09 03:52:09 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 108.210998ms
+2024/07/09 03:52:09 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/09 03:52:09 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 188.529752ms
+2024/07/09 03:52:09 Fetched posts from https://vlr.gg/rss, took 217.891383ms
+2024/07/09 03:52:09 Content still empty after HTML reader: https://www.hltv.org/news/39359/sources-jks-ultimate-and-mithr-registered-by-liquid-for-blast-premier-fall-groups
+2024/07/09 03:52:09 Content still empty after HTML reader: https://www.hltv.org/news/39358/hadjis-stand-in-stint-with-monte-concludes
+2024/07/09 03:52:09 Content still empty after HTML reader: https://www.hltv.org/news/39357/bestia-replace-meyern-with-zock
+2024/07/09 03:52:09 Content still empty after HTML reader: https://www.hltv.org/news/39356/yekindar-explains-why-cadians-leadership-didnt-work-and-addresses-form-criticism
+2024/07/09 03:52:09 Content still empty after HTML reader: https://www.hltv.org/news/39355/ence-academy-bring-in-millert-and-schwarz
+2024/07/09 03:52:09 Content still empty after HTML reader: https://www.hltv.org/news/39354/boss-add-slight-and-micro-warden-as-coach
+2024/07/09 03:52:09 Content still empty after HTML reader: https://www.hltv.org/news/39352/ash-interview-hardship-after-paris-major-and-gamerlegions-bet-on-youth-in-latest-overhaul
+2024/07/09 03:52:09 Content still empty after HTML reader: https://www.hltv.org/news/39333/editorial-will-stewie2k-find-redemption
+2024/07/09 03:52:09 Content still empty after HTML reader: https://www.hltv.org/news/39351/hooxi-interview-benching-dealing-with-criticism-and-post-g2-future
+2024/07/09 03:52:09 Fetched posts from https://www.hltv.org/rss/news, took 403.874396ms
+2024/07/09 03:52:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 582.600548ms
+2024/07/09 03:52:09 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 790.61008ms
+2024/07/09 03:52:18 Fetched posts from https://blogtienao.com/feed, took 9.184849076s
+2024/07/09 03:52:28 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.173693862s
+2024/07/09 03:52:28 Skipping writing post, no content: https://www.hltv.org/news/39359/sources-jks-ultimate-and-mithr-registered-by-liquid-for-blast-premier-fall-groups
+2024/07/09 03:52:28 Skipping writing post, no content: https://www.hltv.org/news/39358/hadjis-stand-in-stint-with-monte-concludes
+2024/07/09 03:52:28 Skipping writing post, no content: https://www.hltv.org/news/39357/bestia-replace-meyern-with-zock
+2024/07/09 03:52:28 Skipping writing post, no content: https://www.hltv.org/news/39356/yekindar-explains-why-cadians-leadership-didnt-work-and-addresses-form-criticism
+2024/07/09 03:52:28 Skipping writing post, no content: https://www.hltv.org/news/39355/ence-academy-bring-in-millert-and-schwarz
+2024/07/09 03:52:28 Skipping writing post, no content: https://www.hltv.org/news/39354/boss-add-slight-and-micro-warden-as-coach
+2024/07/09 03:52:28 Skipping writing post, no content: https://www.hltv.org/news/39352/ash-interview-hardship-after-paris-major-and-gamerlegions-bet-on-youth-in-latest-overhaul
+2024/07/09 03:52:28 Skipping writing post, no content: https://www.hltv.org/news/39333/editorial-will-stewie2k-find-redemption
+2024/07/09 03:52:28 Skipping writing post, no content: https://www.hltv.org/news/39351/hooxi-interview-benching-dealing-with-criticism-and-post-g2-future
+2024/07/09 03:52:28 Templated 74 posts, took 12.220217ms
