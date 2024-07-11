@@ -1,30 +1,30 @@
-2024/07/11 14:37:18 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/11 14:37:18 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 160.504279ms
-2024/07/11 14:37:18 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 187.256296ms
-2024/07/11 14:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39373/bleed-parivision-and-dms-invited-to-skyesports-championship-furia-withdraw
-2024/07/11 14:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39371/hltv-confirmed-roster-change-tierlist-fall-season-predictions
-2024/07/11 14:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39369/m80-replace-nrg-in-blast-fall-showdown
-2024/07/11 14:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39368/boros-completes-into-the-breach-rebuild
-2024/07/11 14:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39366/big-unveil-rigon-signing
-2024/07/11 14:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39365/big-bench-prosus
-2024/07/11 14:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39364/hades-and-dycha-join-monte
-2024/07/11 14:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39363/nettik-parts-ways-with-rooster
-2024/07/11 14:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39362/m80-sign-lake
-2024/07/11 14:37:18 Content still empty after HTML reader: https://www.hltv.org/news/39361/kscerato-and-yuurih-sign-three-year-contract-extensions-they-are-furia
-2024/07/11 14:37:18 Fetched posts from https://www.hltv.org/rss/news, took 461.252959ms
-2024/07/11 14:37:18 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 788.879659ms
-2024/07/11 14:37:18 Fetched posts from https://vlr.gg/rss, took 914.415723ms
-2024/07/11 14:37:19 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.833070058s
-2024/07/11 14:37:21 Fetched posts from https://blogtienao.com/feed, took 3.472411084s
-2024/07/11 14:37:40 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.603182695s
-2024/07/11 14:37:40 Skipping writing post, no content: https://www.hltv.org/news/39373/bleed-parivision-and-dms-invited-to-skyesports-championship-furia-withdraw
-2024/07/11 14:37:40 Skipping writing post, no content: https://www.hltv.org/news/39371/hltv-confirmed-roster-change-tierlist-fall-season-predictions
-2024/07/11 14:37:40 Skipping writing post, no content: https://www.hltv.org/news/39369/m80-replace-nrg-in-blast-fall-showdown
-2024/07/11 14:37:40 Skipping writing post, no content: https://www.hltv.org/news/39368/boros-completes-into-the-breach-rebuild
-2024/07/11 14:37:40 Skipping writing post, no content: https://www.hltv.org/news/39366/big-unveil-rigon-signing
-2024/07/11 14:37:40 Skipping writing post, no content: https://www.hltv.org/news/39365/big-bench-prosus
-2024/07/11 14:37:40 Skipping writing post, no content: https://www.hltv.org/news/39364/hades-and-dycha-join-monte
-2024/07/11 14:37:40 Skipping writing post, no content: https://www.hltv.org/news/39363/nettik-parts-ways-with-rooster
-2024/07/11 14:37:40 Skipping writing post, no content: https://www.hltv.org/news/39362/m80-sign-lake
-2024/07/11 14:37:40 Skipping writing post, no content: https://www.hltv.org/news/39361/kscerato-and-yuurih-sign-three-year-contract-extensions-they-are-furia
-2024/07/11 14:37:40 Templated 84 posts, took 14.038197ms
+2024/07/11 14:52:13 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 112.809117ms
+2024/07/11 14:52:13 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/11 14:52:13 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 195.864102ms
+2024/07/11 14:52:13 Fetched posts from https://vlr.gg/rss, took 383.366342ms
+2024/07/11 14:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39373/bleed-parivision-and-dms-invited-to-skyesports-championship-furia-withdraw
+2024/07/11 14:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39371/hltv-confirmed-roster-change-tierlist-fall-season-predictions
+2024/07/11 14:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39369/m80-replace-nrg-in-blast-fall-showdown
+2024/07/11 14:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39368/boros-completes-into-the-breach-rebuild
+2024/07/11 14:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39366/big-unveil-rigon-signing
+2024/07/11 14:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39365/big-bench-prosus
+2024/07/11 14:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39364/hades-and-dycha-join-monte
+2024/07/11 14:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39363/nettik-parts-ways-with-rooster
+2024/07/11 14:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39362/m80-sign-lake
+2024/07/11 14:52:13 Content still empty after HTML reader: https://www.hltv.org/news/39361/kscerato-and-yuurih-sign-three-year-contract-extensions-they-are-furia
+2024/07/11 14:52:13 Fetched posts from https://www.hltv.org/rss/news, took 571.59688ms
+2024/07/11 14:52:13 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 978.220856ms
+2024/07/11 14:52:14 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.069868706s
+2024/07/11 14:52:17 Fetched posts from https://blogtienao.com/feed, took 4.831714595s
+2024/07/11 14:52:54 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 41.598519773s
+2024/07/11 14:52:54 Skipping writing post, no content: https://www.hltv.org/news/39373/bleed-parivision-and-dms-invited-to-skyesports-championship-furia-withdraw
+2024/07/11 14:52:54 Skipping writing post, no content: https://www.hltv.org/news/39371/hltv-confirmed-roster-change-tierlist-fall-season-predictions
+2024/07/11 14:52:54 Skipping writing post, no content: https://www.hltv.org/news/39369/m80-replace-nrg-in-blast-fall-showdown
+2024/07/11 14:52:54 Skipping writing post, no content: https://www.hltv.org/news/39368/boros-completes-into-the-breach-rebuild
+2024/07/11 14:52:54 Skipping writing post, no content: https://www.hltv.org/news/39366/big-unveil-rigon-signing
+2024/07/11 14:52:54 Skipping writing post, no content: https://www.hltv.org/news/39365/big-bench-prosus
+2024/07/11 14:52:54 Skipping writing post, no content: https://www.hltv.org/news/39364/hades-and-dycha-join-monte
+2024/07/11 14:52:54 Skipping writing post, no content: https://www.hltv.org/news/39363/nettik-parts-ways-with-rooster
+2024/07/11 14:52:54 Skipping writing post, no content: https://www.hltv.org/news/39362/m80-sign-lake
+2024/07/11 14:52:54 Skipping writing post, no content: https://www.hltv.org/news/39361/kscerato-and-yuurih-sign-three-year-contract-extensions-they-are-furia
+2024/07/11 14:52:54 Templated 85 posts, took 14.142261ms
