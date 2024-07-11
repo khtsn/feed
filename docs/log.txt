@@ -1,32 +1,30 @@
-2024/07/11 07:52:22 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 270.35512ms
-2024/07/11 07:52:22 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/11 07:52:22 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 273.73566ms
-2024/07/11 07:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39369/m80-replace-nrg-in-blast-fall-showdown
-2024/07/11 07:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39368/boros-completes-into-the-breach-rebuild
-2024/07/11 07:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39366/big-unveil-rigon-signing
-2024/07/11 07:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39365/big-bench-prosus
-2024/07/11 07:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39364/hades-and-dycha-join-monte
-2024/07/11 07:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39363/nettik-parts-ways-with-rooster
-2024/07/11 07:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39362/m80-sign-lake
-2024/07/11 07:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39361/kscerato-and-yuurih-sign-three-year-contract-extensions-they-are-furia
-2024/07/11 07:52:22 Content still empty after HTML reader: https://www.nytimes.com/2024/07/10/us/politics/biden-congress-clooney-election.html
-2024/07/11 07:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39353/official-furia-sign-skullz
-2024/07/11 07:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39360/where-are-they-now-rubino
-2024/07/11 07:52:22 Fetched posts from https://www.hltv.org/rss/news, took 607.723592ms
-2024/07/11 07:52:23 Fetched posts from https://vlr.gg/rss, took 935.756916ms
-2024/07/11 07:52:23 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.171752339s
-2024/07/11 07:52:23 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.307221699s
-2024/07/11 07:52:25 Fetched posts from https://blogtienao.com/feed, took 3.392895133s
-2024/07/11 07:52:40 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.939531119s
-2024/07/11 07:52:40 Skipping writing post, no content: https://www.nytimes.com/2024/07/10/us/politics/biden-congress-clooney-election.html
-2024/07/11 07:52:40 Skipping writing post, no content: https://www.hltv.org/news/39369/m80-replace-nrg-in-blast-fall-showdown
-2024/07/11 07:52:40 Skipping writing post, no content: https://www.hltv.org/news/39368/boros-completes-into-the-breach-rebuild
-2024/07/11 07:52:40 Skipping writing post, no content: https://www.hltv.org/news/39366/big-unveil-rigon-signing
-2024/07/11 07:52:40 Skipping writing post, no content: https://www.hltv.org/news/39365/big-bench-prosus
-2024/07/11 07:52:40 Skipping writing post, no content: https://www.hltv.org/news/39364/hades-and-dycha-join-monte
-2024/07/11 07:52:40 Skipping writing post, no content: https://www.hltv.org/news/39363/nettik-parts-ways-with-rooster
-2024/07/11 07:52:40 Skipping writing post, no content: https://www.hltv.org/news/39362/m80-sign-lake
-2024/07/11 07:52:40 Skipping writing post, no content: https://www.hltv.org/news/39361/kscerato-and-yuurih-sign-three-year-contract-extensions-they-are-furia
-2024/07/11 07:52:40 Skipping writing post, no content: https://www.hltv.org/news/39353/official-furia-sign-skullz
-2024/07/11 07:52:40 Skipping writing post, no content: https://www.hltv.org/news/39360/where-are-they-now-rubino
-2024/07/11 07:52:40 Templated 77 posts, took 12.564827ms
+2024/07/11 08:22:26 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/11 08:22:26 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 123.473128ms
+2024/07/11 08:22:27 Content still empty after HTML reader: https://www.hltv.org/news/39369/m80-replace-nrg-in-blast-fall-showdown
+2024/07/11 08:22:27 Content still empty after HTML reader: https://www.hltv.org/news/39368/boros-completes-into-the-breach-rebuild
+2024/07/11 08:22:27 Fetched posts from https://vlr.gg/rss, took 362.957295ms
+2024/07/11 08:22:27 Content still empty after HTML reader: https://www.hltv.org/news/39366/big-unveil-rigon-signing
+2024/07/11 08:22:27 Content still empty after HTML reader: https://www.hltv.org/news/39365/big-bench-prosus
+2024/07/11 08:22:27 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 388.346979ms
+2024/07/11 08:22:27 Content still empty after HTML reader: https://www.hltv.org/news/39364/hades-and-dycha-join-monte
+2024/07/11 08:22:27 Content still empty after HTML reader: https://www.hltv.org/news/39363/nettik-parts-ways-with-rooster
+2024/07/11 08:22:27 Content still empty after HTML reader: https://www.hltv.org/news/39362/m80-sign-lake
+2024/07/11 08:22:27 Content still empty after HTML reader: https://www.hltv.org/news/39361/kscerato-and-yuurih-sign-three-year-contract-extensions-they-are-furia
+2024/07/11 08:22:27 Content still empty after HTML reader: https://www.hltv.org/news/39353/official-furia-sign-skullz
+2024/07/11 08:22:27 Content still empty after HTML reader: https://www.hltv.org/news/39360/where-are-they-now-rubino
+2024/07/11 08:22:27 Fetched posts from https://www.hltv.org/rss/news, took 457.192929ms
+2024/07/11 08:22:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 894.030094ms
+2024/07/11 08:22:28 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.841187686s
+2024/07/11 08:22:36 Fetched posts from https://blogtienao.com/feed, took 9.557701026s
+2024/07/11 08:22:46 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.207827233s
+2024/07/11 08:22:46 Skipping writing post, no content: https://www.hltv.org/news/39369/m80-replace-nrg-in-blast-fall-showdown
+2024/07/11 08:22:46 Skipping writing post, no content: https://www.hltv.org/news/39368/boros-completes-into-the-breach-rebuild
+2024/07/11 08:22:46 Skipping writing post, no content: https://www.hltv.org/news/39366/big-unveil-rigon-signing
+2024/07/11 08:22:46 Skipping writing post, no content: https://www.hltv.org/news/39365/big-bench-prosus
+2024/07/11 08:22:46 Skipping writing post, no content: https://www.hltv.org/news/39364/hades-and-dycha-join-monte
+2024/07/11 08:22:46 Skipping writing post, no content: https://www.hltv.org/news/39363/nettik-parts-ways-with-rooster
+2024/07/11 08:22:46 Skipping writing post, no content: https://www.hltv.org/news/39362/m80-sign-lake
+2024/07/11 08:22:46 Skipping writing post, no content: https://www.hltv.org/news/39361/kscerato-and-yuurih-sign-three-year-contract-extensions-they-are-furia
+2024/07/11 08:22:46 Skipping writing post, no content: https://www.hltv.org/news/39353/official-furia-sign-skullz
+2024/07/11 08:22:46 Skipping writing post, no content: https://www.hltv.org/news/39360/where-are-they-now-rubino
+2024/07/11 08:22:46 Templated 77 posts, took 11.815319ms
