@@ -1,30 +1,30 @@
-2024/07/12 13:28:08 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 119.947553ms
-2024/07/12 13:28:08 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/12 13:28:08 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 210.498388ms
-2024/07/12 13:28:08 Content still empty after HTML reader: https://www.hltv.org/news/39378/esports-world-cup-talent-announced
-2024/07/12 13:28:08 Content still empty after HTML reader: https://www.hltv.org/news/39377/the-mongolz-miss-out-on-blast-fall-showdown
-2024/07/12 13:28:08 Content still empty after HTML reader: https://www.hltv.org/news/39376/mithr-joins-liquid
-2024/07/12 13:28:08 Content still empty after HTML reader: https://www.hltv.org/news/39374/revenant-tsm-among-shuffle-masters-invites
-2024/07/12 13:28:08 Content still empty after HTML reader: https://www.hltv.org/news/39372/main-takeaways-from-blast-fall-groups-rosters
-2024/07/12 13:28:08 Fetched posts from https://vlr.gg/rss, took 386.859465ms
-2024/07/12 13:28:08 Content still empty after HTML reader: https://www.hltv.org/news/39370/thomas-joins-og-for-blast-fall-groups
-2024/07/12 13:28:08 Content still empty after HTML reader: https://www.hltv.org/news/39367/cloud9-confirm-new-roster-featuring-heavygod-icy-and-interz
-2024/07/12 13:28:08 Content still empty after HTML reader: https://www.hltv.org/news/39373/bleed-parivision-and-dms-invited-to-skyesports-championship-furia-withdraw
-2024/07/12 13:28:08 Content still empty after HTML reader: https://www.hltv.org/news/39371/hltv-confirmed-roster-change-tierlist-fall-season-predictions
-2024/07/12 13:28:08 Content still empty after HTML reader: https://www.hltv.org/news/39369/m80-replace-nrg-in-blast-fall-showdown
-2024/07/12 13:28:08 Fetched posts from https://www.hltv.org/rss/news, took 463.588566ms
-2024/07/12 13:28:08 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 830.834333ms
-2024/07/12 13:28:09 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.476239074s
-2024/07/12 13:28:18 Fetched posts from https://blogtienao.com/feed, took 10.612629609s
-2024/07/12 13:28:33 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 25.572514002s
-2024/07/12 13:28:33 Skipping writing post, no content: https://www.hltv.org/news/39378/esports-world-cup-talent-announced
-2024/07/12 13:28:33 Skipping writing post, no content: https://www.hltv.org/news/39377/the-mongolz-miss-out-on-blast-fall-showdown
-2024/07/12 13:28:33 Skipping writing post, no content: https://www.hltv.org/news/39376/mithr-joins-liquid
-2024/07/12 13:28:33 Skipping writing post, no content: https://www.hltv.org/news/39374/revenant-tsm-among-shuffle-masters-invites
-2024/07/12 13:28:33 Skipping writing post, no content: https://www.hltv.org/news/39372/main-takeaways-from-blast-fall-groups-rosters
-2024/07/12 13:28:33 Skipping writing post, no content: https://www.hltv.org/news/39370/thomas-joins-og-for-blast-fall-groups
-2024/07/12 13:28:33 Skipping writing post, no content: https://www.hltv.org/news/39367/cloud9-confirm-new-roster-featuring-heavygod-icy-and-interz
-2024/07/12 13:28:33 Skipping writing post, no content: https://www.hltv.org/news/39373/bleed-parivision-and-dms-invited-to-skyesports-championship-furia-withdraw
-2024/07/12 13:28:33 Skipping writing post, no content: https://www.hltv.org/news/39371/hltv-confirmed-roster-change-tierlist-fall-season-predictions
-2024/07/12 13:28:33 Skipping writing post, no content: https://www.hltv.org/news/39369/m80-replace-nrg-in-blast-fall-showdown
-2024/07/12 13:28:33 Templated 74 posts, took 12.445751ms
+2024/07/12 13:40:00 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 100.540985ms
+2024/07/12 13:40:00 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/12 13:40:00 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 173.67191ms
+2024/07/12 13:40:00 Fetched posts from https://vlr.gg/rss, took 263.728869ms
+2024/07/12 13:40:00 Content still empty after HTML reader: https://www.hltv.org/news/39378/esports-world-cup-talent-announced
+2024/07/12 13:40:00 Content still empty after HTML reader: https://www.hltv.org/news/39377/the-mongolz-miss-out-on-blast-fall-showdown
+2024/07/12 13:40:00 Content still empty after HTML reader: https://www.hltv.org/news/39376/mithr-joins-liquid
+2024/07/12 13:40:00 Content still empty after HTML reader: https://www.hltv.org/news/39374/revenant-tsm-among-shuffle-masters-invites
+2024/07/12 13:40:00 Content still empty after HTML reader: https://www.hltv.org/news/39372/main-takeaways-from-blast-fall-groups-rosters
+2024/07/12 13:40:00 Content still empty after HTML reader: https://www.hltv.org/news/39370/thomas-joins-og-for-blast-fall-groups
+2024/07/12 13:40:00 Content still empty after HTML reader: https://www.hltv.org/news/39367/cloud9-confirm-new-roster-featuring-heavygod-icy-and-interz
+2024/07/12 13:40:00 Content still empty after HTML reader: https://www.hltv.org/news/39373/bleed-parivision-and-dms-invited-to-skyesports-championship-furia-withdraw
+2024/07/12 13:40:00 Content still empty after HTML reader: https://www.hltv.org/news/39371/hltv-confirmed-roster-change-tierlist-fall-season-predictions
+2024/07/12 13:40:00 Content still empty after HTML reader: https://www.hltv.org/news/39369/m80-replace-nrg-in-blast-fall-showdown
+2024/07/12 13:40:00 Fetched posts from https://www.hltv.org/rss/news, took 524.347638ms
+2024/07/12 13:40:01 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.017618273s
+2024/07/12 13:40:02 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.227894234s
+2024/07/12 13:40:08 Fetched posts from https://blogtienao.com/feed, took 7.827347096s
+2024/07/12 13:40:27 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 26.855953275s
+2024/07/12 13:40:27 Skipping writing post, no content: https://www.hltv.org/news/39378/esports-world-cup-talent-announced
+2024/07/12 13:40:27 Skipping writing post, no content: https://www.hltv.org/news/39377/the-mongolz-miss-out-on-blast-fall-showdown
+2024/07/12 13:40:27 Skipping writing post, no content: https://www.hltv.org/news/39376/mithr-joins-liquid
+2024/07/12 13:40:27 Skipping writing post, no content: https://www.hltv.org/news/39374/revenant-tsm-among-shuffle-masters-invites
+2024/07/12 13:40:27 Skipping writing post, no content: https://www.hltv.org/news/39372/main-takeaways-from-blast-fall-groups-rosters
+2024/07/12 13:40:27 Skipping writing post, no content: https://www.hltv.org/news/39370/thomas-joins-og-for-blast-fall-groups
+2024/07/12 13:40:27 Skipping writing post, no content: https://www.hltv.org/news/39367/cloud9-confirm-new-roster-featuring-heavygod-icy-and-interz
+2024/07/12 13:40:27 Skipping writing post, no content: https://www.hltv.org/news/39373/bleed-parivision-and-dms-invited-to-skyesports-championship-furia-withdraw
+2024/07/12 13:40:27 Skipping writing post, no content: https://www.hltv.org/news/39371/hltv-confirmed-roster-change-tierlist-fall-season-predictions
+2024/07/12 13:40:27 Skipping writing post, no content: https://www.hltv.org/news/39369/m80-replace-nrg-in-blast-fall-showdown
+2024/07/12 13:40:27 Templated 74 posts, took 12.22156ms
