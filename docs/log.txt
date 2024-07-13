@@ -1,30 +1,28 @@
-2024/07/13 18:38:40 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/13 18:38:40 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 114.945496ms
-2024/07/13 18:38:40 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 176.039658ms
-2024/07/13 18:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39384/rare-atom-qualify-for-blast-fall-showdown
-2024/07/13 18:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39383/skyesports-championship-groups-and-schedule
-2024/07/13 18:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39382/liquid-finalize-roster-with-jks
-2024/07/13 18:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39381/berry-to-stay-on-as-saw-coach
-2024/07/13 18:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39380/1win-announce-hobbit-signing
-2024/07/13 18:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39379/liquid-unveil-ultimate-as-new-awper
-2024/07/13 18:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39378/esports-world-cup-talent-announced
-2024/07/13 18:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39377/the-mongolz-miss-out-on-blast-fall-showdown
-2024/07/13 18:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39376/mithr-joins-liquid
-2024/07/13 18:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39374/revenant-tsm-among-shuffle-masters-invites
-2024/07/13 18:38:40 Fetched posts from https://www.hltv.org/rss/news, took 427.045485ms
-2024/07/13 18:38:40 Fetched posts from https://vlr.gg/rss, took 654.075122ms
-2024/07/13 18:38:40 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 694.968741ms
-2024/07/13 18:38:40 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 968.5265ms
-2024/07/13 18:38:43 Fetched posts from https://blogtienao.com/feed, took 3.269511569s
-2024/07/13 18:38:56 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.018512501s
-2024/07/13 18:38:56 Skipping writing post, no content: https://www.hltv.org/news/39384/rare-atom-qualify-for-blast-fall-showdown
-2024/07/13 18:38:56 Skipping writing post, no content: https://www.hltv.org/news/39383/skyesports-championship-groups-and-schedule
-2024/07/13 18:38:56 Skipping writing post, no content: https://www.hltv.org/news/39382/liquid-finalize-roster-with-jks
-2024/07/13 18:38:56 Skipping writing post, no content: https://www.hltv.org/news/39381/berry-to-stay-on-as-saw-coach
-2024/07/13 18:38:56 Skipping writing post, no content: https://www.hltv.org/news/39380/1win-announce-hobbit-signing
-2024/07/13 18:38:56 Skipping writing post, no content: https://www.hltv.org/news/39379/liquid-unveil-ultimate-as-new-awper
-2024/07/13 18:38:56 Skipping writing post, no content: https://www.hltv.org/news/39378/esports-world-cup-talent-announced
-2024/07/13 18:38:56 Skipping writing post, no content: https://www.hltv.org/news/39377/the-mongolz-miss-out-on-blast-fall-showdown
-2024/07/13 18:38:56 Skipping writing post, no content: https://www.hltv.org/news/39376/mithr-joins-liquid
-2024/07/13 18:38:56 Skipping writing post, no content: https://www.hltv.org/news/39374/revenant-tsm-among-shuffle-masters-invites
-2024/07/13 18:38:56 Templated 72 posts, took 11.575545ms
+2024/07/13 18:52:17 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 125.179208ms
+2024/07/13 18:52:17 Fetched posts from https://vlr.gg/rss, took 227.575427ms
+2024/07/13 18:52:17 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/13 18:52:17 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 243.726718ms
+2024/07/13 18:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39383/skyesports-championship-groups-and-schedule
+2024/07/13 18:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39382/liquid-finalize-roster-with-jks
+2024/07/13 18:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39381/berry-to-stay-on-as-saw-coach
+2024/07/13 18:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39380/1win-announce-hobbit-signing
+2024/07/13 18:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39379/liquid-unveil-ultimate-as-new-awper
+2024/07/13 18:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39378/esports-world-cup-talent-announced
+2024/07/13 18:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39377/the-mongolz-miss-out-on-blast-fall-showdown
+2024/07/13 18:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39376/mithr-joins-liquid
+2024/07/13 18:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39374/revenant-tsm-among-shuffle-masters-invites
+2024/07/13 18:52:17 Fetched posts from https://www.hltv.org/rss/news, took 479.60584ms
+2024/07/13 18:52:18 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 727.557398ms
+2024/07/13 18:52:18 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.125639596s
+2024/07/13 18:52:22 Fetched posts from https://blogtienao.com/feed, took 4.688813243s
+2024/07/13 18:52:35 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.016901727s
+2024/07/13 18:52:35 Skipping writing post, no content: https://www.hltv.org/news/39383/skyesports-championship-groups-and-schedule
+2024/07/13 18:52:35 Skipping writing post, no content: https://www.hltv.org/news/39382/liquid-finalize-roster-with-jks
+2024/07/13 18:52:35 Skipping writing post, no content: https://www.hltv.org/news/39381/berry-to-stay-on-as-saw-coach
+2024/07/13 18:52:35 Skipping writing post, no content: https://www.hltv.org/news/39380/1win-announce-hobbit-signing
+2024/07/13 18:52:35 Skipping writing post, no content: https://www.hltv.org/news/39379/liquid-unveil-ultimate-as-new-awper
+2024/07/13 18:52:35 Skipping writing post, no content: https://www.hltv.org/news/39378/esports-world-cup-talent-announced
+2024/07/13 18:52:35 Skipping writing post, no content: https://www.hltv.org/news/39377/the-mongolz-miss-out-on-blast-fall-showdown
+2024/07/13 18:52:35 Skipping writing post, no content: https://www.hltv.org/news/39376/mithr-joins-liquid
+2024/07/13 18:52:35 Skipping writing post, no content: https://www.hltv.org/news/39374/revenant-tsm-among-shuffle-masters-invites
+2024/07/13 18:52:35 Templated 72 posts, took 11.23534ms
