@@ -1,28 +1,30 @@
-2024/07/15 18:52:44 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 80.04453ms
-2024/07/15 18:52:44 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/15 18:52:44 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 200.968825ms
-2024/07/15 18:52:44 Content still empty after HTML reader: https://www.hltv.org/news/39392/imperial-announce-hen1-benching
-2024/07/15 18:52:44 Content still empty after HTML reader: https://www.hltv.org/news/39391/short-news-week-29
-2024/07/15 18:52:44 Content still empty after HTML reader: https://www.hltv.org/news/39286/summer-2024-rostermania-as-it-happened
-2024/07/15 18:52:44 Content still empty after HTML reader: https://www.hltv.org/news/39390/esports-world-cup-opens-10000-fantasy-season
-2024/07/15 18:52:44 Content still empty after HTML reader: https://www.hltv.org/news/39389/wildcard-complete-lineup-with-susp-and-phzy
-2024/07/15 18:52:44 Content still empty after HTML reader: https://www.hltv.org/news/39375/four-of-the-most-hype-transfers-that-ultimately-flopped
-2024/07/15 18:52:44 Content still empty after HTML reader: https://www.hltv.org/news/39386/esports-world-cup-2024-teams-format-schedule-talent-prizes-fantasy
-2024/07/15 18:52:44 Content still empty after HTML reader: https://www.hltv.org/news/39385/new-tsm-debuts-with-skinclub-summer-cup-win
-2024/07/15 18:52:44 Fetched posts from https://vlr.gg/rss, took 400.771658ms
-2024/07/15 18:52:44 Content still empty after HTML reader: https://www.hltv.org/news/39384/rare-atom-qualify-for-blast-fall-showdown
-2024/07/15 18:52:44 Fetched posts from https://www.hltv.org/rss/news, took 419.393684ms
-2024/07/15 18:52:44 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 646.645184ms
-2024/07/15 18:52:45 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 889.304614ms
-2024/07/15 18:52:48 Fetched posts from https://blogtienao.com/feed, took 4.567699475s
-2024/07/15 18:53:06 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.5713901s
-2024/07/15 18:53:06 Skipping writing post, no content: https://www.hltv.org/news/39392/imperial-announce-hen1-benching
-2024/07/15 18:53:06 Skipping writing post, no content: https://www.hltv.org/news/39391/short-news-week-29
-2024/07/15 18:53:06 Skipping writing post, no content: https://www.hltv.org/news/39286/summer-2024-rostermania-as-it-happened
-2024/07/15 18:53:06 Skipping writing post, no content: https://www.hltv.org/news/39390/esports-world-cup-opens-10000-fantasy-season
-2024/07/15 18:53:06 Skipping writing post, no content: https://www.hltv.org/news/39389/wildcard-complete-lineup-with-susp-and-phzy
-2024/07/15 18:53:06 Skipping writing post, no content: https://www.hltv.org/news/39375/four-of-the-most-hype-transfers-that-ultimately-flopped
-2024/07/15 18:53:06 Skipping writing post, no content: https://www.hltv.org/news/39386/esports-world-cup-2024-teams-format-schedule-talent-prizes-fantasy
-2024/07/15 18:53:06 Skipping writing post, no content: https://www.hltv.org/news/39385/new-tsm-debuts-with-skinclub-summer-cup-win
-2024/07/15 18:53:06 Skipping writing post, no content: https://www.hltv.org/news/39384/rare-atom-qualify-for-blast-fall-showdown
-2024/07/15 18:53:06 Templated 82 posts, took 14.561229ms
+2024/07/15 19:16:20 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 96.518451ms
+2024/07/15 19:16:20 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/15 19:16:20 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 255.67687ms
+2024/07/15 19:16:20 Content still empty after HTML reader: https://www.hltv.org/news/39392/imperial-announce-hen1-benching
+2024/07/15 19:16:20 Content still empty after HTML reader: https://www.hltv.org/news/39391/short-news-week-29
+2024/07/15 19:16:20 Content still empty after HTML reader: https://www.hltv.org/news/39286/summer-2024-rostermania-as-it-happened
+2024/07/15 19:16:20 Content still empty after HTML reader: https://www.nytimes.com/2024/07/15/business/economy/trump-economy-rnc-policy-free-market.html
+2024/07/15 19:16:20 Content still empty after HTML reader: https://www.hltv.org/news/39390/esports-world-cup-opens-10000-fantasy-season
+2024/07/15 19:16:20 Content still empty after HTML reader: https://www.hltv.org/news/39389/wildcard-complete-lineup-with-susp-and-phzy
+2024/07/15 19:16:20 Content still empty after HTML reader: https://www.hltv.org/news/39375/four-of-the-most-hype-transfers-that-ultimately-flopped
+2024/07/15 19:16:20 Content still empty after HTML reader: https://www.hltv.org/news/39386/esports-world-cup-2024-teams-format-schedule-talent-prizes-fantasy
+2024/07/15 19:16:20 Content still empty after HTML reader: https://www.hltv.org/news/39385/new-tsm-debuts-with-skinclub-summer-cup-win
+2024/07/15 19:16:20 Content still empty after HTML reader: https://www.hltv.org/news/39384/rare-atom-qualify-for-blast-fall-showdown
+2024/07/15 19:16:20 Fetched posts from https://www.hltv.org/rss/news, took 413.352016ms
+2024/07/15 19:16:20 Fetched posts from https://vlr.gg/rss, took 444.25171ms
+2024/07/15 19:16:21 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 871.564838ms
+2024/07/15 19:16:22 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.952277902s
+2024/07/15 19:16:25 Fetched posts from https://blogtienao.com/feed, took 4.957579694s
+2024/07/15 19:16:40 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.62020799s
+2024/07/15 19:16:40 Skipping writing post, no content: https://www.hltv.org/news/39392/imperial-announce-hen1-benching
+2024/07/15 19:16:40 Skipping writing post, no content: https://www.nytimes.com/2024/07/15/business/economy/trump-economy-rnc-policy-free-market.html
+2024/07/15 19:16:40 Skipping writing post, no content: https://www.hltv.org/news/39391/short-news-week-29
+2024/07/15 19:16:40 Skipping writing post, no content: https://www.hltv.org/news/39286/summer-2024-rostermania-as-it-happened
+2024/07/15 19:16:40 Skipping writing post, no content: https://www.hltv.org/news/39390/esports-world-cup-opens-10000-fantasy-season
+2024/07/15 19:16:40 Skipping writing post, no content: https://www.hltv.org/news/39389/wildcard-complete-lineup-with-susp-and-phzy
+2024/07/15 19:16:40 Skipping writing post, no content: https://www.hltv.org/news/39375/four-of-the-most-hype-transfers-that-ultimately-flopped
+2024/07/15 19:16:40 Skipping writing post, no content: https://www.hltv.org/news/39386/esports-world-cup-2024-teams-format-schedule-talent-prizes-fantasy
+2024/07/15 19:16:40 Skipping writing post, no content: https://www.hltv.org/news/39385/new-tsm-debuts-with-skinclub-summer-cup-win
+2024/07/15 19:16:40 Skipping writing post, no content: https://www.hltv.org/news/39384/rare-atom-qualify-for-blast-fall-showdown
+2024/07/15 19:16:40 Templated 80 posts, took 14.403339ms
