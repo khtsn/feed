@@ -1,28 +1,28 @@
-2024/07/15 03:39:45 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 183.292157ms
-2024/07/15 03:39:45 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/15 03:39:45 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 245.047051ms
-2024/07/15 03:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39389/wildcard-complete-lineup-with-susp-and-phzy
-2024/07/15 03:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39375/four-of-the-most-hype-transfers-that-ultimately-flopped
-2024/07/15 03:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39386/esports-world-cup-2024-teams-format-schedule-talent-prizes-fantasy
-2024/07/15 03:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39385/new-tsm-debuts-with-skinclub-summer-cup-win
-2024/07/15 03:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39384/rare-atom-qualify-for-blast-fall-showdown
-2024/07/15 03:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39383/skyesports-championship-groups-and-schedule
-2024/07/15 03:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39382/liquid-finalize-roster-with-jks
-2024/07/15 03:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39381/berry-to-stay-on-as-saw-coach
-2024/07/15 03:39:45 Content still empty after HTML reader: https://www.hltv.org/news/39380/1win-announce-hobbit-signing
-2024/07/15 03:39:45 Fetched posts from https://www.hltv.org/rss/news, took 570.229559ms
-2024/07/15 03:39:46 Fetched posts from https://vlr.gg/rss, took 852.736406ms
-2024/07/15 03:39:46 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.158435173s
-2024/07/15 03:39:46 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.366114193s
-2024/07/15 03:39:48 Fetched posts from https://blogtienao.com/feed, took 3.561205927s
-2024/07/15 03:40:03 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.352149423s
-2024/07/15 03:40:03 Skipping writing post, no content: https://www.hltv.org/news/39389/wildcard-complete-lineup-with-susp-and-phzy
-2024/07/15 03:40:03 Skipping writing post, no content: https://www.hltv.org/news/39375/four-of-the-most-hype-transfers-that-ultimately-flopped
-2024/07/15 03:40:03 Skipping writing post, no content: https://www.hltv.org/news/39386/esports-world-cup-2024-teams-format-schedule-talent-prizes-fantasy
-2024/07/15 03:40:03 Skipping writing post, no content: https://www.hltv.org/news/39385/new-tsm-debuts-with-skinclub-summer-cup-win
-2024/07/15 03:40:03 Skipping writing post, no content: https://www.hltv.org/news/39384/rare-atom-qualify-for-blast-fall-showdown
-2024/07/15 03:40:03 Skipping writing post, no content: https://www.hltv.org/news/39383/skyesports-championship-groups-and-schedule
-2024/07/15 03:40:03 Skipping writing post, no content: https://www.hltv.org/news/39382/liquid-finalize-roster-with-jks
-2024/07/15 03:40:03 Skipping writing post, no content: https://www.hltv.org/news/39381/berry-to-stay-on-as-saw-coach
-2024/07/15 03:40:03 Skipping writing post, no content: https://www.hltv.org/news/39380/1win-announce-hobbit-signing
-2024/07/15 03:40:03 Templated 77 posts, took 13.045759ms
+2024/07/15 03:52:30 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 95.992255ms
+2024/07/15 03:52:30 Fetched posts from https://vlr.gg/rss, took 260.826369ms
+2024/07/15 03:52:30 Content still empty after HTML reader: https://www.hltv.org/news/39389/wildcard-complete-lineup-with-susp-and-phzy
+2024/07/15 03:52:30 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/15 03:52:30 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 329.053376ms
+2024/07/15 03:52:30 Content still empty after HTML reader: https://www.hltv.org/news/39375/four-of-the-most-hype-transfers-that-ultimately-flopped
+2024/07/15 03:52:30 Content still empty after HTML reader: https://www.hltv.org/news/39386/esports-world-cup-2024-teams-format-schedule-talent-prizes-fantasy
+2024/07/15 03:52:30 Content still empty after HTML reader: https://www.hltv.org/news/39385/new-tsm-debuts-with-skinclub-summer-cup-win
+2024/07/15 03:52:30 Content still empty after HTML reader: https://www.hltv.org/news/39384/rare-atom-qualify-for-blast-fall-showdown
+2024/07/15 03:52:30 Content still empty after HTML reader: https://www.hltv.org/news/39383/skyesports-championship-groups-and-schedule
+2024/07/15 03:52:30 Content still empty after HTML reader: https://www.hltv.org/news/39382/liquid-finalize-roster-with-jks
+2024/07/15 03:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39381/berry-to-stay-on-as-saw-coach
+2024/07/15 03:52:31 Content still empty after HTML reader: https://www.hltv.org/news/39380/1win-announce-hobbit-signing
+2024/07/15 03:52:31 Fetched posts from https://www.hltv.org/rss/news, took 447.55695ms
+2024/07/15 03:52:31 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 793.201834ms
+2024/07/15 03:52:31 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.053848292s
+2024/07/15 03:52:39 Fetched posts from https://blogtienao.com/feed, took 9.021903019s
+2024/07/15 03:52:52 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.936132317s
+2024/07/15 03:52:52 Skipping writing post, no content: https://www.hltv.org/news/39389/wildcard-complete-lineup-with-susp-and-phzy
+2024/07/15 03:52:52 Skipping writing post, no content: https://www.hltv.org/news/39375/four-of-the-most-hype-transfers-that-ultimately-flopped
+2024/07/15 03:52:52 Skipping writing post, no content: https://www.hltv.org/news/39386/esports-world-cup-2024-teams-format-schedule-talent-prizes-fantasy
+2024/07/15 03:52:52 Skipping writing post, no content: https://www.hltv.org/news/39385/new-tsm-debuts-with-skinclub-summer-cup-win
+2024/07/15 03:52:52 Skipping writing post, no content: https://www.hltv.org/news/39384/rare-atom-qualify-for-blast-fall-showdown
+2024/07/15 03:52:52 Skipping writing post, no content: https://www.hltv.org/news/39383/skyesports-championship-groups-and-schedule
+2024/07/15 03:52:52 Skipping writing post, no content: https://www.hltv.org/news/39382/liquid-finalize-roster-with-jks
+2024/07/15 03:52:52 Skipping writing post, no content: https://www.hltv.org/news/39381/berry-to-stay-on-as-saw-coach
+2024/07/15 03:52:52 Skipping writing post, no content: https://www.hltv.org/news/39380/1win-announce-hobbit-signing
+2024/07/15 03:52:52 Templated 77 posts, took 12.540822ms
