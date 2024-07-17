@@ -1,30 +1,32 @@
-2024/07/17 21:38:27 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/17 21:38:27 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 91.017485ms
-2024/07/17 21:38:27 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 186.559479ms
-2024/07/17 21:38:27 Content still empty after HTML reader: https://www.hltv.org/news/39408/spirit-g2-faze-navi-headlines-ewc-playoffs
-2024/07/17 21:38:27 Content still empty after HTML reader: https://www.hltv.org/news/39407/spirit-vp-through-to-ewc-playoffs
-2024/07/17 21:38:27 Content still empty after HTML reader: https://www.hltv.org/news/39406/furia-vs-flyquest-headlines-ewc-last-chance-stage-round-1
-2024/07/17 21:38:27 Content still empty after HTML reader: https://www.hltv.org/news/39399/live-updates-from-esports-world-cup-2024-day-one
-2024/07/17 21:38:27 Content still empty after HTML reader: https://www.hltv.org/news/39391/short-news-week-29
-2024/07/17 21:38:27 Content still empty after HTML reader: https://www.hltv.org/news/39404/navi-and-vitality-march-on-in-riyadh
-2024/07/17 21:38:27 Content still empty after HTML reader: https://www.hltv.org/news/39403/g2-launch-academy-team
-2024/07/17 21:38:27 Content still empty after HTML reader: https://www.hltv.org/news/39402/mouz-and-faze-uncomfortable-but-victorious-in-seasonal-debut-at-ewc
-2024/07/17 21:38:27 Content still empty after HTML reader: https://www.hltv.org/news/39401/g2-defeat-the-mongolz-in-hard-fought-debut
-2024/07/17 21:38:27 Content still empty after HTML reader: https://www.hltv.org/news/39398/official-imperial-sign-try
-2024/07/17 21:38:27 Fetched posts from https://www.hltv.org/rss/news, took 453.230564ms
-2024/07/17 21:38:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 523.032391ms
-2024/07/17 21:38:28 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.219085145s
-2024/07/17 21:38:29 Fetched posts from https://vlr.gg/rss, took 2.027642867s
-2024/07/17 21:38:31 Fetched posts from https://blogtienao.com/feed, took 4.307681844s
-2024/07/17 21:38:44 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.944193312s
-2024/07/17 21:38:44 Skipping writing post, no content: https://www.hltv.org/news/39408/spirit-g2-faze-navi-headlines-ewc-playoffs
-2024/07/17 21:38:44 Skipping writing post, no content: https://www.hltv.org/news/39407/spirit-vp-through-to-ewc-playoffs
-2024/07/17 21:38:44 Skipping writing post, no content: https://www.hltv.org/news/39406/furia-vs-flyquest-headlines-ewc-last-chance-stage-round-1
-2024/07/17 21:38:44 Skipping writing post, no content: https://www.hltv.org/news/39399/live-updates-from-esports-world-cup-2024-day-one
-2024/07/17 21:38:44 Skipping writing post, no content: https://www.hltv.org/news/39391/short-news-week-29
-2024/07/17 21:38:44 Skipping writing post, no content: https://www.hltv.org/news/39404/navi-and-vitality-march-on-in-riyadh
-2024/07/17 21:38:44 Skipping writing post, no content: https://www.hltv.org/news/39403/g2-launch-academy-team
-2024/07/17 21:38:44 Skipping writing post, no content: https://www.hltv.org/news/39402/mouz-and-faze-uncomfortable-but-victorious-in-seasonal-debut-at-ewc
-2024/07/17 21:38:44 Skipping writing post, no content: https://www.hltv.org/news/39401/g2-defeat-the-mongolz-in-hard-fought-debut
-2024/07/17 21:38:44 Skipping writing post, no content: https://www.hltv.org/news/39398/official-imperial-sign-try
-2024/07/17 21:38:44 Templated 84 posts, took 15.212404ms
+2024/07/17 21:52:20 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 94.796299ms
+2024/07/17 21:52:20 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/17 21:52:20 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 274.35615ms
+2024/07/17 21:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39408/spirit-g2-faze-navi-headlines-ewc-playoffs
+2024/07/17 21:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39407/spirit-vp-through-to-ewc-playoffs
+2024/07/17 21:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39406/furia-vs-flyquest-headlines-ewc-last-chance-stage-round-1
+2024/07/17 21:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39399/live-updates-from-esports-world-cup-2024-day-one
+2024/07/17 21:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39391/short-news-week-29
+2024/07/17 21:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39404/navi-and-vitality-march-on-in-riyadh
+2024/07/17 21:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39403/g2-launch-academy-team
+2024/07/17 21:52:20 Content still empty after HTML reader: https://www.vlr.gg/375038/leviat-n-g2-claim-top-two-spots-in-the-americas-playoffs
+2024/07/17 21:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39402/mouz-and-faze-uncomfortable-but-victorious-in-seasonal-debut-at-ewc
+2024/07/17 21:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39401/g2-defeat-the-mongolz-in-hard-fought-debut
+2024/07/17 21:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39398/official-imperial-sign-try
+2024/07/17 21:52:20 Fetched posts from https://www.hltv.org/rss/news, took 485.32407ms
+2024/07/17 21:52:20 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 518.365053ms
+2024/07/17 21:52:21 Fetched posts from https://vlr.gg/rss, took 763.747964ms
+2024/07/17 21:52:21 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.226145889s
+2024/07/17 21:52:25 Fetched posts from https://blogtienao.com/feed, took 4.631484262s
+2024/07/17 21:52:39 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.073665148s
+2024/07/17 21:52:39 Skipping writing post, no content: https://www.hltv.org/news/39408/spirit-g2-faze-navi-headlines-ewc-playoffs
+2024/07/17 21:52:39 Skipping writing post, no content: https://www.hltv.org/news/39407/spirit-vp-through-to-ewc-playoffs
+2024/07/17 21:52:39 Skipping writing post, no content: https://www.hltv.org/news/39406/furia-vs-flyquest-headlines-ewc-last-chance-stage-round-1
+2024/07/17 21:52:39 Skipping writing post, no content: https://www.hltv.org/news/39399/live-updates-from-esports-world-cup-2024-day-one
+2024/07/17 21:52:39 Skipping writing post, no content: https://www.hltv.org/news/39391/short-news-week-29
+2024/07/17 21:52:39 Skipping writing post, no content: https://www.hltv.org/news/39404/navi-and-vitality-march-on-in-riyadh
+2024/07/17 21:52:39 Skipping writing post, no content: https://www.hltv.org/news/39403/g2-launch-academy-team
+2024/07/17 21:52:39 Skipping writing post, no content: https://www.hltv.org/news/39402/mouz-and-faze-uncomfortable-but-victorious-in-seasonal-debut-at-ewc
+2024/07/17 21:52:39 Skipping writing post, no content: https://www.hltv.org/news/39401/g2-defeat-the-mongolz-in-hard-fought-debut
+2024/07/17 21:52:39 Skipping writing post, no content: https://www.hltv.org/news/39398/official-imperial-sign-try
+2024/07/17 21:52:39 Skipping writing post, no content: https://www.vlr.gg/375038/leviat-n-g2-claim-top-two-spots-in-the-americas-playoffs
+2024/07/17 21:52:39 Templated 85 posts, took 14.808495ms
