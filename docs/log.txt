@@ -1,32 +1,28 @@
-2024/07/17 16:42:40 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 102.369676ms
-2024/07/17 16:42:40 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/17 16:42:40 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 213.808202ms
-2024/07/17 16:42:40 Content still empty after HTML reader: https://www.nytimes.com/2024/07/16/us/jd-vance-middletown-ohio.html
-2024/07/17 16:42:40 Content still empty after HTML reader: https://www.hltv.org/news/39402/mouz-and-faze-uncomfortable-but-victorious-in-seasonal-debut-at-ewc
-2024/07/17 16:42:40 Content still empty after HTML reader: https://www.hltv.org/news/39401/g2-defeat-the-mongolz-in-hard-fought-debut
-2024/07/17 16:42:40 Content still empty after HTML reader: https://www.hltv.org/news/39391/short-news-week-29
-2024/07/17 16:42:40 Content still empty after HTML reader: https://www.hltv.org/news/39399/live-updates-from-esports-world-cup-2024-day-one
-2024/07/17 16:42:40 Content still empty after HTML reader: https://www.hltv.org/news/39398/official-imperial-sign-try
-2024/07/17 16:42:40 Content still empty after HTML reader: https://www.hltv.org/news/39397/valve-unveils-rulebook-for-hosting-licensed-events-from-2025
-2024/07/17 16:42:40 Content still empty after HTML reader: https://www.hltv.org/news/39396/nip-impact-sign-vilga
-2024/07/17 16:42:40 Content still empty after HTML reader: https://www.hltv.org/news/39395/neofrag-becomes-free-agent
-2024/07/17 16:42:40 Content still empty after HTML reader: https://www.hltv.org/news/39393/blast-premier-fall-groups-revealed
-2024/07/17 16:42:40 Content still empty after HTML reader: https://www.hltv.org/news/39388/malbsmd-interview-journey-to-g2-anchor-roles-learning-from-donk
-2024/07/17 16:42:40 Fetched posts from https://www.hltv.org/rss/news, took 408.177956ms
-2024/07/17 16:42:40 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 853.093684ms
-2024/07/17 16:42:40 Fetched posts from https://vlr.gg/rss, took 912.733925ms
-2024/07/17 16:42:41 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.12295332s
-2024/07/17 16:42:48 Fetched posts from https://blogtienao.com/feed, took 8.895872975s
-2024/07/17 16:43:02 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.271604925s
-2024/07/17 16:43:02 Skipping writing post, no content: https://www.hltv.org/news/39402/mouz-and-faze-uncomfortable-but-victorious-in-seasonal-debut-at-ewc
-2024/07/17 16:43:02 Skipping writing post, no content: https://www.hltv.org/news/39401/g2-defeat-the-mongolz-in-hard-fought-debut
-2024/07/17 16:43:02 Skipping writing post, no content: https://www.hltv.org/news/39391/short-news-week-29
-2024/07/17 16:43:02 Skipping writing post, no content: https://www.nytimes.com/2024/07/16/us/jd-vance-middletown-ohio.html
-2024/07/17 16:43:02 Skipping writing post, no content: https://www.hltv.org/news/39399/live-updates-from-esports-world-cup-2024-day-one
-2024/07/17 16:43:02 Skipping writing post, no content: https://www.hltv.org/news/39398/official-imperial-sign-try
-2024/07/17 16:43:02 Skipping writing post, no content: https://www.hltv.org/news/39397/valve-unveils-rulebook-for-hosting-licensed-events-from-2025
-2024/07/17 16:43:02 Skipping writing post, no content: https://www.hltv.org/news/39396/nip-impact-sign-vilga
-2024/07/17 16:43:02 Skipping writing post, no content: https://www.hltv.org/news/39395/neofrag-becomes-free-agent
-2024/07/17 16:43:02 Skipping writing post, no content: https://www.hltv.org/news/39393/blast-premier-fall-groups-revealed
-2024/07/17 16:43:02 Skipping writing post, no content: https://www.hltv.org/news/39388/malbsmd-interview-journey-to-g2-anchor-roles-learning-from-donk
-2024/07/17 16:43:02 Templated 91 posts, took 14.380695ms
+2024/07/17 16:54:28 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 147.651019ms
+2024/07/17 16:54:28 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/17 16:54:28 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 156.323006ms
+2024/07/17 16:54:28 Content still empty after HTML reader: https://www.hltv.org/news/39402/mouz-and-faze-uncomfortable-but-victorious-in-seasonal-debut-at-ewc
+2024/07/17 16:54:28 Content still empty after HTML reader: https://www.hltv.org/news/39401/g2-defeat-the-mongolz-in-hard-fought-debut
+2024/07/17 16:54:28 Content still empty after HTML reader: https://www.hltv.org/news/39391/short-news-week-29
+2024/07/17 16:54:28 Content still empty after HTML reader: https://www.hltv.org/news/39399/live-updates-from-esports-world-cup-2024-day-one
+2024/07/17 16:54:28 Content still empty after HTML reader: https://www.hltv.org/news/39398/official-imperial-sign-try
+2024/07/17 16:54:28 Content still empty after HTML reader: https://www.hltv.org/news/39397/valve-unveils-rulebook-for-hosting-licensed-events-from-2025
+2024/07/17 16:54:28 Content still empty after HTML reader: https://www.hltv.org/news/39396/nip-impact-sign-vilga
+2024/07/17 16:54:28 Content still empty after HTML reader: https://www.hltv.org/news/39395/neofrag-becomes-free-agent
+2024/07/17 16:54:28 Content still empty after HTML reader: https://www.hltv.org/news/39393/blast-premier-fall-groups-revealed
+2024/07/17 16:54:28 Fetched posts from https://www.hltv.org/rss/news, took 459.905823ms
+2024/07/17 16:54:28 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 762.823536ms
+2024/07/17 16:54:29 Fetched posts from https://vlr.gg/rss, took 993.493977ms
+2024/07/17 16:54:29 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.318585057s
+2024/07/17 16:54:38 Fetched posts from https://blogtienao.com/feed, took 10.212995763s
+2024/07/17 16:54:45 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.095509193s
+2024/07/17 16:54:45 Skipping writing post, no content: https://www.hltv.org/news/39402/mouz-and-faze-uncomfortable-but-victorious-in-seasonal-debut-at-ewc
+2024/07/17 16:54:45 Skipping writing post, no content: https://www.hltv.org/news/39401/g2-defeat-the-mongolz-in-hard-fought-debut
+2024/07/17 16:54:45 Skipping writing post, no content: https://www.hltv.org/news/39391/short-news-week-29
+2024/07/17 16:54:45 Skipping writing post, no content: https://www.hltv.org/news/39399/live-updates-from-esports-world-cup-2024-day-one
+2024/07/17 16:54:45 Skipping writing post, no content: https://www.hltv.org/news/39398/official-imperial-sign-try
+2024/07/17 16:54:45 Skipping writing post, no content: https://www.hltv.org/news/39397/valve-unveils-rulebook-for-hosting-licensed-events-from-2025
+2024/07/17 16:54:45 Skipping writing post, no content: https://www.hltv.org/news/39396/nip-impact-sign-vilga
+2024/07/17 16:54:45 Skipping writing post, no content: https://www.hltv.org/news/39395/neofrag-becomes-free-agent
+2024/07/17 16:54:45 Skipping writing post, no content: https://www.hltv.org/news/39393/blast-premier-fall-groups-revealed
+2024/07/17 16:54:45 Templated 85 posts, took 13.882371ms
