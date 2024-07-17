@@ -1,30 +1,30 @@
-2024/07/17 20:37:39 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 114.200426ms
-2024/07/17 20:37:39 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/17 20:37:39 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 194.729567ms
-2024/07/17 20:37:39 Content still empty after HTML reader: https://www.hltv.org/news/39391/short-news-week-29
-2024/07/17 20:37:39 Content still empty after HTML reader: https://www.hltv.org/news/39404/navi-and-vitality-march-on-in-riyadh
-2024/07/17 20:37:39 Content still empty after HTML reader: https://www.hltv.org/news/39403/g2-launch-academy-team
-2024/07/17 20:37:39 Content still empty after HTML reader: https://www.hltv.org/news/39402/mouz-and-faze-uncomfortable-but-victorious-in-seasonal-debut-at-ewc
-2024/07/17 20:37:39 Content still empty after HTML reader: https://www.hltv.org/news/39401/g2-defeat-the-mongolz-in-hard-fought-debut
-2024/07/17 20:37:39 Content still empty after HTML reader: https://www.hltv.org/news/39399/live-updates-from-esports-world-cup-2024-day-one
-2024/07/17 20:37:39 Content still empty after HTML reader: https://www.hltv.org/news/39398/official-imperial-sign-try
-2024/07/17 20:37:39 Content still empty after HTML reader: https://www.hltv.org/news/39397/valve-unveils-rulebook-for-hosting-licensed-events-from-2025
-2024/07/17 20:37:39 Content still empty after HTML reader: https://www.hltv.org/news/39396/nip-impact-sign-vilga
-2024/07/17 20:37:39 Content still empty after HTML reader: https://www.hltv.org/news/39395/neofrag-becomes-free-agent
-2024/07/17 20:37:39 Fetched posts from https://www.hltv.org/rss/news, took 408.843924ms
-2024/07/17 20:37:39 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 764.385765ms
-2024/07/17 20:37:39 Fetched posts from https://vlr.gg/rss, took 906.832112ms
-2024/07/17 20:37:40 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.072633433s
-2024/07/17 20:37:43 Fetched posts from https://blogtienao.com/feed, took 4.784319063s
-2024/07/17 20:37:58 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.966636562s
-2024/07/17 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/39391/short-news-week-29
-2024/07/17 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/39404/navi-and-vitality-march-on-in-riyadh
-2024/07/17 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/39403/g2-launch-academy-team
-2024/07/17 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/39402/mouz-and-faze-uncomfortable-but-victorious-in-seasonal-debut-at-ewc
-2024/07/17 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/39401/g2-defeat-the-mongolz-in-hard-fought-debut
-2024/07/17 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/39399/live-updates-from-esports-world-cup-2024-day-one
-2024/07/17 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/39398/official-imperial-sign-try
-2024/07/17 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/39397/valve-unveils-rulebook-for-hosting-licensed-events-from-2025
-2024/07/17 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/39396/nip-impact-sign-vilga
-2024/07/17 20:37:58 Skipping writing post, no content: https://www.hltv.org/news/39395/neofrag-becomes-free-agent
-2024/07/17 20:37:58 Templated 90 posts, took 14.931071ms
+2024/07/17 20:52:29 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/17 20:52:29 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 91.946044ms
+2024/07/17 20:52:29 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 186.476841ms
+2024/07/17 20:52:30 Content still empty after HTML reader: https://www.hltv.org/news/39406/furia-vs-flyquest-headlines-ewc-last-chance-stage-round-1
+2024/07/17 20:52:30 Content still empty after HTML reader: https://www.hltv.org/news/39391/short-news-week-29
+2024/07/17 20:52:30 Content still empty after HTML reader: https://www.hltv.org/news/39404/navi-and-vitality-march-on-in-riyadh
+2024/07/17 20:52:30 Content still empty after HTML reader: https://www.hltv.org/news/39403/g2-launch-academy-team
+2024/07/17 20:52:30 Content still empty after HTML reader: https://www.hltv.org/news/39402/mouz-and-faze-uncomfortable-but-victorious-in-seasonal-debut-at-ewc
+2024/07/17 20:52:30 Content still empty after HTML reader: https://www.hltv.org/news/39401/g2-defeat-the-mongolz-in-hard-fought-debut
+2024/07/17 20:52:30 Content still empty after HTML reader: https://www.hltv.org/news/39399/live-updates-from-esports-world-cup-2024-day-one
+2024/07/17 20:52:30 Content still empty after HTML reader: https://www.hltv.org/news/39398/official-imperial-sign-try
+2024/07/17 20:52:30 Content still empty after HTML reader: https://www.hltv.org/news/39397/valve-unveils-rulebook-for-hosting-licensed-events-from-2025
+2024/07/17 20:52:30 Content still empty after HTML reader: https://www.hltv.org/news/39396/nip-impact-sign-vilga
+2024/07/17 20:52:30 Fetched posts from https://www.hltv.org/rss/news, took 824.432335ms
+2024/07/17 20:52:30 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 931.146576ms
+2024/07/17 20:52:31 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.737929741s
+2024/07/17 20:52:31 Fetched posts from https://vlr.gg/rss, took 2.135334177s
+2024/07/17 20:52:33 Fetched posts from https://blogtienao.com/feed, took 3.513174251s
+2024/07/17 20:52:47 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.363329482s
+2024/07/17 20:52:47 Skipping writing post, no content: https://www.hltv.org/news/39406/furia-vs-flyquest-headlines-ewc-last-chance-stage-round-1
+2024/07/17 20:52:47 Skipping writing post, no content: https://www.hltv.org/news/39391/short-news-week-29
+2024/07/17 20:52:47 Skipping writing post, no content: https://www.hltv.org/news/39404/navi-and-vitality-march-on-in-riyadh
+2024/07/17 20:52:47 Skipping writing post, no content: https://www.hltv.org/news/39403/g2-launch-academy-team
+2024/07/17 20:52:47 Skipping writing post, no content: https://www.hltv.org/news/39402/mouz-and-faze-uncomfortable-but-victorious-in-seasonal-debut-at-ewc
+2024/07/17 20:52:47 Skipping writing post, no content: https://www.hltv.org/news/39401/g2-defeat-the-mongolz-in-hard-fought-debut
+2024/07/17 20:52:47 Skipping writing post, no content: https://www.hltv.org/news/39399/live-updates-from-esports-world-cup-2024-day-one
+2024/07/17 20:52:47 Skipping writing post, no content: https://www.hltv.org/news/39398/official-imperial-sign-try
+2024/07/17 20:52:47 Skipping writing post, no content: https://www.hltv.org/news/39397/valve-unveils-rulebook-for-hosting-licensed-events-from-2025
+2024/07/17 20:52:47 Skipping writing post, no content: https://www.hltv.org/news/39396/nip-impact-sign-vilga
+2024/07/17 20:52:47 Templated 90 posts, took 14.729047ms
