@@ -1,28 +1,30 @@
-2024/07/19 04:23:19 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 162.588464ms
-2024/07/19 04:23:19 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/19 04:23:19 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 185.342541ms
-2024/07/19 04:23:19 Content still empty after HTML reader: https://www.hltv.org/news/39418/g2-topple-spirit-in-riyadh-to-make-semi-finals
-2024/07/19 04:23:19 Content still empty after HTML reader: https://www.hltv.org/news/39409/live-updates-from-esports-world-cup-2024-day-two
-2024/07/19 04:23:19 Content still empty after HTML reader: https://www.hltv.org/news/39417/jackz-and-ritchiee-join-project-g
-2024/07/19 04:23:19 Content still empty after HTML reader: https://www.hltv.org/news/39416/swisher-malbsmd-doesnt-deserve-those-roles-in-g2-he-should-be-in-ones-he-shines-in
-2024/07/19 04:23:19 Content still empty after HTML reader: https://www.hltv.org/news/39415/furia-seal-playoff-berth-over-the-mongolz
-2024/07/19 04:23:19 Content still empty after HTML reader: https://www.hltv.org/news/39413/tow-b-returns-to-big-as-performance-coach
-2024/07/19 04:23:19 Content still empty after HTML reader: https://www.hltv.org/news/39412/furia-beat-sashi-in-double-ot-to-stay-alive-in-ewc-last-chance
-2024/07/19 04:23:19 Content still empty after HTML reader: https://www.hltv.org/news/39411/m80-upset-complexity-the-mongolz-trounce-mibr-in-lcq
-2024/07/19 04:23:19 Content still empty after HTML reader: https://www.hltv.org/news/39410/furia-and-sashi-stave-off-elimination-in-riyadh
-2024/07/19 04:23:19 Fetched posts from https://www.hltv.org/rss/news, took 429.282427ms
-2024/07/19 04:23:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 871.792793ms
-2024/07/19 04:23:20 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 993.735285ms
-2024/07/19 04:23:20 Fetched posts from https://vlr.gg/rss, took 1.072062574s
-2024/07/19 04:23:23 Fetched posts from https://blogtienao.com/feed, took 4.24572298s
-2024/07/19 04:23:37 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.79362039s
-2024/07/19 04:23:37 Skipping writing post, no content: https://www.hltv.org/news/39418/g2-topple-spirit-in-riyadh-to-make-semi-finals
-2024/07/19 04:23:37 Skipping writing post, no content: https://www.hltv.org/news/39409/live-updates-from-esports-world-cup-2024-day-two
-2024/07/19 04:23:37 Skipping writing post, no content: https://www.hltv.org/news/39417/jackz-and-ritchiee-join-project-g
-2024/07/19 04:23:37 Skipping writing post, no content: https://www.hltv.org/news/39416/swisher-malbsmd-doesnt-deserve-those-roles-in-g2-he-should-be-in-ones-he-shines-in
-2024/07/19 04:23:37 Skipping writing post, no content: https://www.hltv.org/news/39415/furia-seal-playoff-berth-over-the-mongolz
-2024/07/19 04:23:37 Skipping writing post, no content: https://www.hltv.org/news/39413/tow-b-returns-to-big-as-performance-coach
-2024/07/19 04:23:37 Skipping writing post, no content: https://www.hltv.org/news/39412/furia-beat-sashi-in-double-ot-to-stay-alive-in-ewc-last-chance
-2024/07/19 04:23:37 Skipping writing post, no content: https://www.hltv.org/news/39411/m80-upset-complexity-the-mongolz-trounce-mibr-in-lcq
-2024/07/19 04:23:37 Skipping writing post, no content: https://www.hltv.org/news/39410/furia-and-sashi-stave-off-elimination-in-riyadh
-2024/07/19 04:23:37 Templated 87 posts, took 13.821979ms
+2024/07/19 04:40:25 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 105.445378ms
+2024/07/19 04:40:25 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/19 04:40:25 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 179.264184ms
+2024/07/19 04:40:25 Content still empty after HTML reader: https://www.hltv.org/news/39418/g2-topple-spirit-in-riyadh-to-make-semi-finals
+2024/07/19 04:40:25 Content still empty after HTML reader: https://www.hltv.org/news/39409/live-updates-from-esports-world-cup-2024-day-two
+2024/07/19 04:40:25 Content still empty after HTML reader: https://www.hltv.org/news/39417/jackz-and-ritchiee-join-project-g
+2024/07/19 04:40:25 Content still empty after HTML reader: https://www.hltv.org/news/39416/swisher-malbsmd-doesnt-deserve-those-roles-in-g2-he-should-be-in-ones-he-shines-in
+2024/07/19 04:40:25 Content still empty after HTML reader: https://www.hltv.org/news/39415/furia-seal-playoff-berth-over-the-mongolz
+2024/07/19 04:40:25 Content still empty after HTML reader: https://www.hltv.org/news/39414/the-mongolz-see-off-m80-to-reach-lcq-final
+2024/07/19 04:40:25 Content still empty after HTML reader: https://www.hltv.org/news/39413/tow-b-returns-to-big-as-performance-coach
+2024/07/19 04:40:25 Content still empty after HTML reader: https://www.hltv.org/news/39412/furia-beat-sashi-in-double-ot-to-stay-alive-in-ewc-last-chance
+2024/07/19 04:40:25 Content still empty after HTML reader: https://www.hltv.org/news/39411/m80-upset-complexity-the-mongolz-trounce-mibr-in-lcq
+2024/07/19 04:40:25 Content still empty after HTML reader: https://www.hltv.org/news/39410/furia-and-sashi-stave-off-elimination-in-riyadh
+2024/07/19 04:40:25 Fetched posts from https://www.hltv.org/rss/news, took 313.447258ms
+2024/07/19 04:40:26 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.025646971s
+2024/07/19 04:40:26 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.15453913s
+2024/07/19 04:40:26 Fetched posts from https://vlr.gg/rss, took 1.289120663s
+2024/07/19 04:40:29 Fetched posts from https://blogtienao.com/feed, took 4.128544909s
+2024/07/19 04:40:42 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.320843086s
+2024/07/19 04:40:42 Skipping writing post, no content: https://www.hltv.org/news/39418/g2-topple-spirit-in-riyadh-to-make-semi-finals
+2024/07/19 04:40:42 Skipping writing post, no content: https://www.hltv.org/news/39409/live-updates-from-esports-world-cup-2024-day-two
+2024/07/19 04:40:42 Skipping writing post, no content: https://www.hltv.org/news/39417/jackz-and-ritchiee-join-project-g
+2024/07/19 04:40:42 Skipping writing post, no content: https://www.hltv.org/news/39416/swisher-malbsmd-doesnt-deserve-those-roles-in-g2-he-should-be-in-ones-he-shines-in
+2024/07/19 04:40:42 Skipping writing post, no content: https://www.hltv.org/news/39415/furia-seal-playoff-berth-over-the-mongolz
+2024/07/19 04:40:42 Skipping writing post, no content: https://www.hltv.org/news/39414/the-mongolz-see-off-m80-to-reach-lcq-final
+2024/07/19 04:40:42 Skipping writing post, no content: https://www.hltv.org/news/39413/tow-b-returns-to-big-as-performance-coach
+2024/07/19 04:40:42 Skipping writing post, no content: https://www.hltv.org/news/39412/furia-beat-sashi-in-double-ot-to-stay-alive-in-ewc-last-chance
+2024/07/19 04:40:42 Skipping writing post, no content: https://www.hltv.org/news/39411/m80-upset-complexity-the-mongolz-trounce-mibr-in-lcq
+2024/07/19 04:40:42 Skipping writing post, no content: https://www.hltv.org/news/39410/furia-and-sashi-stave-off-elimination-in-riyadh
+2024/07/19 04:40:42 Templated 88 posts, took 13.979711ms
