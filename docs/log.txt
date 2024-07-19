@@ -1,30 +1,32 @@
-2024/07/19 17:16:58 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/19 17:16:58 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 162.665595ms
-2024/07/19 17:16:58 Content still empty after HTML reader: https://www.hltv.org/news/39391/short-news-week-29
-2024/07/19 17:16:58 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 223.612173ms
-2024/07/19 17:16:58 Content still empty after HTML reader: https://www.hltv.org/news/39422/parivision-round-out-roster-with-alpha
-2024/07/19 17:16:58 Content still empty after HTML reader: https://www.hltv.org/news/39421/virtuspro-punish-vitalitys-poor-ct-sides-to-grab-ewc-semi-final-berth
-2024/07/19 17:16:58 Content still empty after HTML reader: https://www.hltv.org/news/39419/sidde-i-always-had-the-dream-of-working-with-skullz-again
-2024/07/19 17:16:58 Content still empty after HTML reader: https://www.hltv.org/news/39420/live-updates-from-esports-world-cup-2024-day-three
-2024/07/19 17:16:58 Content still empty after HTML reader: https://www.hltv.org/news/39418/g2-topple-spirit-in-riyadh-to-make-semi-finals
-2024/07/19 17:16:58 Content still empty after HTML reader: https://www.hltv.org/news/39409/live-updates-from-esports-world-cup-2024-day-two
-2024/07/19 17:16:58 Content still empty after HTML reader: https://www.hltv.org/news/39417/jackz-and-ritchiee-join-project-g
-2024/07/19 17:16:58 Content still empty after HTML reader: https://www.hltv.org/news/39416/swisher-malbsmd-doesnt-deserve-those-roles-in-g2-he-should-be-in-ones-he-shines-in
-2024/07/19 17:16:58 Content still empty after HTML reader: https://www.hltv.org/news/39415/furia-seal-playoff-berth-over-the-mongolz
-2024/07/19 17:16:58 Fetched posts from https://www.hltv.org/rss/news, took 316.387256ms
-2024/07/19 17:16:58 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 700.939663ms
-2024/07/19 17:16:58 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 707.626394ms
-2024/07/19 17:17:00 Fetched posts from https://vlr.gg/rss, took 2.193280872s
-2024/07/19 17:17:07 Fetched posts from https://blogtienao.com/feed, took 8.86448621s
-2024/07/19 17:17:11 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 13.751914557s
-2024/07/19 17:17:11 Skipping writing post, no content: https://www.hltv.org/news/39391/short-news-week-29
-2024/07/19 17:17:11 Skipping writing post, no content: https://www.hltv.org/news/39422/parivision-round-out-roster-with-alpha
-2024/07/19 17:17:11 Skipping writing post, no content: https://www.hltv.org/news/39421/virtuspro-punish-vitalitys-poor-ct-sides-to-grab-ewc-semi-final-berth
-2024/07/19 17:17:11 Skipping writing post, no content: https://www.hltv.org/news/39419/sidde-i-always-had-the-dream-of-working-with-skullz-again
-2024/07/19 17:17:11 Skipping writing post, no content: https://www.hltv.org/news/39420/live-updates-from-esports-world-cup-2024-day-three
-2024/07/19 17:17:11 Skipping writing post, no content: https://www.hltv.org/news/39418/g2-topple-spirit-in-riyadh-to-make-semi-finals
-2024/07/19 17:17:11 Skipping writing post, no content: https://www.hltv.org/news/39409/live-updates-from-esports-world-cup-2024-day-two
-2024/07/19 17:17:11 Skipping writing post, no content: https://www.hltv.org/news/39417/jackz-and-ritchiee-join-project-g
-2024/07/19 17:17:11 Skipping writing post, no content: https://www.hltv.org/news/39416/swisher-malbsmd-doesnt-deserve-those-roles-in-g2-he-should-be-in-ones-he-shines-in
-2024/07/19 17:17:11 Skipping writing post, no content: https://www.hltv.org/news/39415/furia-seal-playoff-berth-over-the-mongolz
-2024/07/19 17:17:11 Templated 88 posts, took 14.545892ms
+2024/07/19 17:38:30 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 115.460465ms
+2024/07/19 17:38:30 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/19 17:38:30 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 179.840059ms
+2024/07/19 17:38:30 Content still empty after HTML reader: https://www.hltv.org/news/39391/short-news-week-29
+2024/07/19 17:38:30 Content still empty after HTML reader: https://www.hltv.org/news/39422/parivision-round-out-roster-with-alpha
+2024/07/19 17:38:30 Content still empty after HTML reader: https://www.hltv.org/news/39421/virtuspro-punish-vitalitys-poor-ct-sides-to-grab-ewc-semi-final-berth
+2024/07/19 17:38:30 Content still empty after HTML reader: https://www.nytimes.com/2024/07/19/travel/tech-outage-us-airlines-ground-stops.html
+2024/07/19 17:38:30 Content still empty after HTML reader: https://www.hltv.org/news/39419/sidde-i-always-had-the-dream-of-working-with-skullz-again
+2024/07/19 17:38:30 Content still empty after HTML reader: https://www.hltv.org/news/39420/live-updates-from-esports-world-cup-2024-day-three
+2024/07/19 17:38:30 Content still empty after HTML reader: https://www.hltv.org/news/39418/g2-topple-spirit-in-riyadh-to-make-semi-finals
+2024/07/19 17:38:30 Content still empty after HTML reader: https://www.hltv.org/news/39409/live-updates-from-esports-world-cup-2024-day-two
+2024/07/19 17:38:30 Content still empty after HTML reader: https://www.hltv.org/news/39417/jackz-and-ritchiee-join-project-g
+2024/07/19 17:38:30 Content still empty after HTML reader: https://www.hltv.org/news/39416/swisher-malbsmd-doesnt-deserve-those-roles-in-g2-he-should-be-in-ones-he-shines-in
+2024/07/19 17:38:30 Content still empty after HTML reader: https://www.hltv.org/news/39415/furia-seal-playoff-berth-over-the-mongolz
+2024/07/19 17:38:30 Fetched posts from https://www.hltv.org/rss/news, took 435.694245ms
+2024/07/19 17:38:31 Fetched posts from https://vlr.gg/rss, took 780.966445ms
+2024/07/19 17:38:31 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.011780937s
+2024/07/19 17:38:31 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.057678648s
+2024/07/19 17:38:34 Fetched posts from https://blogtienao.com/feed, took 4.317155117s
+2024/07/19 17:38:48 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.244967779s
+2024/07/19 17:38:48 Skipping writing post, no content: https://www.hltv.org/news/39391/short-news-week-29
+2024/07/19 17:38:48 Skipping writing post, no content: https://www.nytimes.com/2024/07/19/travel/tech-outage-us-airlines-ground-stops.html
+2024/07/19 17:38:48 Skipping writing post, no content: https://www.hltv.org/news/39422/parivision-round-out-roster-with-alpha
+2024/07/19 17:38:48 Skipping writing post, no content: https://www.hltv.org/news/39421/virtuspro-punish-vitalitys-poor-ct-sides-to-grab-ewc-semi-final-berth
+2024/07/19 17:38:48 Skipping writing post, no content: https://www.hltv.org/news/39419/sidde-i-always-had-the-dream-of-working-with-skullz-again
+2024/07/19 17:38:48 Skipping writing post, no content: https://www.hltv.org/news/39420/live-updates-from-esports-world-cup-2024-day-three
+2024/07/19 17:38:48 Skipping writing post, no content: https://www.hltv.org/news/39418/g2-topple-spirit-in-riyadh-to-make-semi-finals
+2024/07/19 17:38:48 Skipping writing post, no content: https://www.hltv.org/news/39409/live-updates-from-esports-world-cup-2024-day-two
+2024/07/19 17:38:48 Skipping writing post, no content: https://www.hltv.org/news/39417/jackz-and-ritchiee-join-project-g
+2024/07/19 17:38:48 Skipping writing post, no content: https://www.hltv.org/news/39416/swisher-malbsmd-doesnt-deserve-those-roles-in-g2-he-should-be-in-ones-he-shines-in
+2024/07/19 17:38:48 Skipping writing post, no content: https://www.hltv.org/news/39415/furia-seal-playoff-berth-over-the-mongolz
+2024/07/19 17:38:48 Templated 90 posts, took 13.909934ms
