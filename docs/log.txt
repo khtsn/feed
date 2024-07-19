@@ -1,30 +1,32 @@
-2024/07/19 19:39:38 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 95.486262ms
-2024/07/19 19:39:38 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/19 19:39:38 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 185.036523ms
-2024/07/19 19:39:38 Content still empty after HTML reader: https://www.hltv.org/news/39424/jimpphat-shines-as-mouz-defeat-furia-to-lock-in-ewc-semi-final-spot
-2024/07/19 19:39:38 Content still empty after HTML reader: https://www.hltv.org/news/39423/sjuush-extends-heroic-contract-until-2026
-2024/07/19 19:39:38 Content still empty after HTML reader: https://www.hltv.org/news/39391/short-news-week-29
-2024/07/19 19:39:38 Content still empty after HTML reader: https://www.hltv.org/news/39422/parivision-round-out-roster-with-alpha
-2024/07/19 19:39:38 Content still empty after HTML reader: https://www.hltv.org/news/39421/virtuspro-punish-vitalitys-poor-ct-sides-to-grab-ewc-semi-final-berth
-2024/07/19 19:39:38 Content still empty after HTML reader: https://www.hltv.org/news/39419/sidde-i-always-had-the-dream-of-working-with-skullz-again
-2024/07/19 19:39:38 Content still empty after HTML reader: https://www.hltv.org/news/39420/live-updates-from-esports-world-cup-2024-day-three
-2024/07/19 19:39:38 Content still empty after HTML reader: https://www.hltv.org/news/39418/g2-topple-spirit-in-riyadh-to-make-semi-finals
-2024/07/19 19:39:38 Content still empty after HTML reader: https://www.hltv.org/news/39409/live-updates-from-esports-world-cup-2024-day-two
-2024/07/19 19:39:38 Content still empty after HTML reader: https://www.hltv.org/news/39417/jackz-and-ritchiee-join-project-g
-2024/07/19 19:39:38 Fetched posts from https://www.hltv.org/rss/news, took 489.975595ms
-2024/07/19 19:39:39 Fetched posts from https://vlr.gg/rss, took 846.783808ms
-2024/07/19 19:39:39 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 928.745963ms
-2024/07/19 19:39:39 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.222756158s
-2024/07/19 19:39:42 Fetched posts from https://blogtienao.com/feed, took 4.453457851s
-2024/07/19 19:39:56 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.677395996s
-2024/07/19 19:39:56 Skipping writing post, no content: https://www.hltv.org/news/39424/jimpphat-shines-as-mouz-defeat-furia-to-lock-in-ewc-semi-final-spot
-2024/07/19 19:39:56 Skipping writing post, no content: https://www.hltv.org/news/39423/sjuush-extends-heroic-contract-until-2026
-2024/07/19 19:39:56 Skipping writing post, no content: https://www.hltv.org/news/39391/short-news-week-29
-2024/07/19 19:39:56 Skipping writing post, no content: https://www.hltv.org/news/39422/parivision-round-out-roster-with-alpha
-2024/07/19 19:39:56 Skipping writing post, no content: https://www.hltv.org/news/39421/virtuspro-punish-vitalitys-poor-ct-sides-to-grab-ewc-semi-final-berth
-2024/07/19 19:39:56 Skipping writing post, no content: https://www.hltv.org/news/39419/sidde-i-always-had-the-dream-of-working-with-skullz-again
-2024/07/19 19:39:56 Skipping writing post, no content: https://www.hltv.org/news/39420/live-updates-from-esports-world-cup-2024-day-three
-2024/07/19 19:39:56 Skipping writing post, no content: https://www.hltv.org/news/39418/g2-topple-spirit-in-riyadh-to-make-semi-finals
-2024/07/19 19:39:56 Skipping writing post, no content: https://www.hltv.org/news/39409/live-updates-from-esports-world-cup-2024-day-two
-2024/07/19 19:39:56 Skipping writing post, no content: https://www.hltv.org/news/39417/jackz-and-ritchiee-join-project-g
-2024/07/19 19:39:56 Templated 92 posts, took 14.37091ms
+2024/07/19 19:52:26 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 110.853713ms
+2024/07/19 19:52:26 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/19 19:52:26 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 171.147493ms
+2024/07/19 19:52:27 Content still empty after HTML reader: https://www.hltv.org/news/39424/jimpphat-shines-as-mouz-defeat-furia-to-lock-in-ewc-semi-final-spot
+2024/07/19 19:52:27 Content still empty after HTML reader: https://www.nytimes.com/2024/07/19/style/rnc-ear-bandages-melania-trump.html
+2024/07/19 19:52:27 Content still empty after HTML reader: https://www.hltv.org/news/39423/sjuush-extends-heroic-contract-until-2026
+2024/07/19 19:52:27 Content still empty after HTML reader: https://www.hltv.org/news/39391/short-news-week-29
+2024/07/19 19:52:27 Content still empty after HTML reader: https://www.hltv.org/news/39422/parivision-round-out-roster-with-alpha
+2024/07/19 19:52:27 Content still empty after HTML reader: https://www.hltv.org/news/39421/virtuspro-punish-vitalitys-poor-ct-sides-to-grab-ewc-semi-final-berth
+2024/07/19 19:52:27 Content still empty after HTML reader: https://www.hltv.org/news/39419/sidde-i-always-had-the-dream-of-working-with-skullz-again
+2024/07/19 19:52:27 Content still empty after HTML reader: https://www.hltv.org/news/39420/live-updates-from-esports-world-cup-2024-day-three
+2024/07/19 19:52:27 Content still empty after HTML reader: https://www.hltv.org/news/39418/g2-topple-spirit-in-riyadh-to-make-semi-finals
+2024/07/19 19:52:27 Content still empty after HTML reader: https://www.hltv.org/news/39409/live-updates-from-esports-world-cup-2024-day-two
+2024/07/19 19:52:27 Content still empty after HTML reader: https://www.hltv.org/news/39417/jackz-and-ritchiee-join-project-g
+2024/07/19 19:52:27 Fetched posts from https://www.hltv.org/rss/news, took 537.901725ms
+2024/07/19 19:52:27 Fetched posts from https://vlr.gg/rss, took 747.984153ms
+2024/07/19 19:52:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 935.572683ms
+2024/07/19 19:52:28 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.435480791s
+2024/07/19 19:52:30 Fetched posts from https://blogtienao.com/feed, took 4.314808798s
+2024/07/19 19:52:47 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.995112992s
+2024/07/19 19:52:47 Skipping writing post, no content: https://www.hltv.org/news/39424/jimpphat-shines-as-mouz-defeat-furia-to-lock-in-ewc-semi-final-spot
+2024/07/19 19:52:47 Skipping writing post, no content: https://www.nytimes.com/2024/07/19/style/rnc-ear-bandages-melania-trump.html
+2024/07/19 19:52:47 Skipping writing post, no content: https://www.hltv.org/news/39423/sjuush-extends-heroic-contract-until-2026
+2024/07/19 19:52:47 Skipping writing post, no content: https://www.hltv.org/news/39391/short-news-week-29
+2024/07/19 19:52:47 Skipping writing post, no content: https://www.hltv.org/news/39422/parivision-round-out-roster-with-alpha
+2024/07/19 19:52:47 Skipping writing post, no content: https://www.hltv.org/news/39421/virtuspro-punish-vitalitys-poor-ct-sides-to-grab-ewc-semi-final-berth
+2024/07/19 19:52:47 Skipping writing post, no content: https://www.hltv.org/news/39419/sidde-i-always-had-the-dream-of-working-with-skullz-again
+2024/07/19 19:52:47 Skipping writing post, no content: https://www.hltv.org/news/39420/live-updates-from-esports-world-cup-2024-day-three
+2024/07/19 19:52:47 Skipping writing post, no content: https://www.hltv.org/news/39418/g2-topple-spirit-in-riyadh-to-make-semi-finals
+2024/07/19 19:52:47 Skipping writing post, no content: https://www.hltv.org/news/39409/live-updates-from-esports-world-cup-2024-day-two
+2024/07/19 19:52:47 Skipping writing post, no content: https://www.hltv.org/news/39417/jackz-and-ritchiee-join-project-g
+2024/07/19 19:52:47 Templated 91 posts, took 14.528825ms
