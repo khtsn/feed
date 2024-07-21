@@ -1,30 +1,28 @@
-2024/07/21 18:52:21 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/21 18:52:21 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 124.626821ms
-2024/07/21 18:52:22 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 323.815724ms
-2024/07/21 18:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39391/short-news-week-29
-2024/07/21 18:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39433/live-updates-from-esports-world-cup-grand-final
-2024/07/21 18:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39432/w0nderful-on-facing-m0nesy-i-never-think-about-it-because-i-play-against-a-team-not-one-player
-2024/07/21 18:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39431/taz-its-really-hard-to-play-against-us-i-dont-think-we-have-a-weakness-in-the-team
-2024/07/21 18:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39428/live-updates-from-esports-world-cup-semi-finals
-2024/07/21 18:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39430/navi-rebound-from-dust2-flub-to-beat-mouz-and-reach-ewc-final
-2024/07/21 18:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39425/kscerato-this-is-the-best-furia-weve-had-in-a-long-time
-2024/07/21 18:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39429/niko-stars-as-g2-outclass-virtuspro-in-riyadh
-2024/07/21 18:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39427/electronic-you-cant-only-play-a-slow-style-we-have-almost-found-the-balance
-2024/07/21 18:52:22 Content still empty after HTML reader: https://www.hltv.org/news/39426/b1t-powers-navi-past-faze-at-ewc
-2024/07/21 18:52:22 Fetched posts from https://www.hltv.org/rss/news, took 425.466468ms
-2024/07/21 18:52:22 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.00408663s
-2024/07/21 18:52:23 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.306971478s
-2024/07/21 18:52:23 Fetched posts from https://vlr.gg/rss, took 1.578563394s
-2024/07/21 18:52:25 Fetched posts from https://blogtienao.com/feed, took 3.515651488s
-2024/07/21 18:52:36 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.335256003s
-2024/07/21 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/39391/short-news-week-29
-2024/07/21 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/39433/live-updates-from-esports-world-cup-grand-final
-2024/07/21 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/39432/w0nderful-on-facing-m0nesy-i-never-think-about-it-because-i-play-against-a-team-not-one-player
-2024/07/21 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/39431/taz-its-really-hard-to-play-against-us-i-dont-think-we-have-a-weakness-in-the-team
-2024/07/21 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/39428/live-updates-from-esports-world-cup-semi-finals
-2024/07/21 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/39430/navi-rebound-from-dust2-flub-to-beat-mouz-and-reach-ewc-final
-2024/07/21 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/39425/kscerato-this-is-the-best-furia-weve-had-in-a-long-time
-2024/07/21 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/39429/niko-stars-as-g2-outclass-virtuspro-in-riyadh
-2024/07/21 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/39427/electronic-you-cant-only-play-a-slow-style-we-have-almost-found-the-balance
-2024/07/21 18:52:36 Skipping writing post, no content: https://www.hltv.org/news/39426/b1t-powers-navi-past-faze-at-ewc
-2024/07/21 18:52:36 Templated 81 posts, took 14.014618ms
+2024/07/21 19:13:38 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/21 19:13:38 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 221.573262ms
+2024/07/21 19:13:38 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 230.399926ms
+2024/07/21 19:13:38 Content still empty after HTML reader: https://www.hltv.org/news/39391/short-news-week-29
+2024/07/21 19:13:39 Content still empty after HTML reader: https://www.hltv.org/news/39433/live-updates-from-esports-world-cup-grand-final
+2024/07/21 19:13:39 Content still empty after HTML reader: https://www.hltv.org/news/39432/w0nderful-on-facing-m0nesy-i-never-think-about-it-because-i-play-against-a-team-not-one-player
+2024/07/21 19:13:39 Content still empty after HTML reader: https://www.hltv.org/news/39431/taz-its-really-hard-to-play-against-us-i-dont-think-we-have-a-weakness-in-the-team
+2024/07/21 19:13:39 Content still empty after HTML reader: https://www.hltv.org/news/39428/live-updates-from-esports-world-cup-semi-finals
+2024/07/21 19:13:39 Content still empty after HTML reader: https://www.hltv.org/news/39430/navi-rebound-from-dust2-flub-to-beat-mouz-and-reach-ewc-final
+2024/07/21 19:13:39 Content still empty after HTML reader: https://www.hltv.org/news/39425/kscerato-this-is-the-best-furia-weve-had-in-a-long-time
+2024/07/21 19:13:39 Content still empty after HTML reader: https://www.hltv.org/news/39429/niko-stars-as-g2-outclass-virtuspro-in-riyadh
+2024/07/21 19:13:39 Content still empty after HTML reader: https://www.hltv.org/news/39426/b1t-powers-navi-past-faze-at-ewc
+2024/07/21 19:13:39 Fetched posts from https://www.hltv.org/rss/news, took 379.809017ms
+2024/07/21 19:13:39 Fetched posts from https://vlr.gg/rss, took 987.206305ms
+2024/07/21 19:13:39 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.008915096s
+2024/07/21 19:13:39 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.192484327s
+2024/07/21 19:13:43 Fetched posts from https://blogtienao.com/feed, took 5.182701979s
+2024/07/21 19:13:55 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.86193037s
+2024/07/21 19:13:55 Skipping writing post, no content: https://www.hltv.org/news/39391/short-news-week-29
+2024/07/21 19:13:55 Skipping writing post, no content: https://www.hltv.org/news/39433/live-updates-from-esports-world-cup-grand-final
+2024/07/21 19:13:55 Skipping writing post, no content: https://www.hltv.org/news/39432/w0nderful-on-facing-m0nesy-i-never-think-about-it-because-i-play-against-a-team-not-one-player
+2024/07/21 19:13:55 Skipping writing post, no content: https://www.hltv.org/news/39431/taz-its-really-hard-to-play-against-us-i-dont-think-we-have-a-weakness-in-the-team
+2024/07/21 19:13:55 Skipping writing post, no content: https://www.hltv.org/news/39428/live-updates-from-esports-world-cup-semi-finals
+2024/07/21 19:13:55 Skipping writing post, no content: https://www.hltv.org/news/39430/navi-rebound-from-dust2-flub-to-beat-mouz-and-reach-ewc-final
+2024/07/21 19:13:55 Skipping writing post, no content: https://www.hltv.org/news/39425/kscerato-this-is-the-best-furia-weve-had-in-a-long-time
+2024/07/21 19:13:55 Skipping writing post, no content: https://www.hltv.org/news/39429/niko-stars-as-g2-outclass-virtuspro-in-riyadh
+2024/07/21 19:13:55 Skipping writing post, no content: https://www.hltv.org/news/39426/b1t-powers-navi-past-faze-at-ewc
+2024/07/21 19:13:55 Templated 82 posts, took 14.693907ms
