@@ -1,30 +1,30 @@
-2024/07/22 15:38:39 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 80.165521ms
-2024/07/22 15:38:39 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/22 15:38:39 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 141.017738ms
-2024/07/22 15:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39437/short-news-week-30
-2024/07/22 15:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39440/highlights-b1t-runs-circles-around-m0nesy-in-esports-world-cup-grand-final
-2024/07/22 15:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39438/snax-i-shut-down-a-little-bit-on-inferno
-2024/07/22 15:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39435/b1t-wins-career-first-mvp-at-esports-world-cup
-2024/07/22 15:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39436/navi-fire-past-g2-to-win-esports-world-cup
-2024/07/22 15:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39433/live-updates-from-esports-world-cup-grand-final
-2024/07/22 15:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39434/pain-qualify-for-blast-fall-showdown
-2024/07/22 15:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39391/short-news-week-29
-2024/07/22 15:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39432/w0nderful-on-facing-m0nesy-i-never-think-about-it-because-i-play-against-a-team-not-one-player
-2024/07/22 15:38:40 Content still empty after HTML reader: https://www.hltv.org/news/39431/taz-its-really-hard-to-play-against-us-i-dont-think-we-have-a-weakness-in-the-team
-2024/07/22 15:38:40 Fetched posts from https://www.hltv.org/rss/news, took 494.695075ms
-2024/07/22 15:38:40 Fetched posts from https://vlr.gg/rss, took 517.559164ms
-2024/07/22 15:38:40 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 671.809898ms
-2024/07/22 15:38:40 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 882.147332ms
-2024/07/22 15:38:46 Fetched posts from https://blogtienao.com/feed, took 6.564825688s
-2024/07/22 15:38:59 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.907763376s
-2024/07/22 15:38:59 Skipping writing post, no content: https://www.hltv.org/news/39437/short-news-week-30
-2024/07/22 15:38:59 Skipping writing post, no content: https://www.hltv.org/news/39440/highlights-b1t-runs-circles-around-m0nesy-in-esports-world-cup-grand-final
-2024/07/22 15:38:59 Skipping writing post, no content: https://www.hltv.org/news/39438/snax-i-shut-down-a-little-bit-on-inferno
-2024/07/22 15:38:59 Skipping writing post, no content: https://www.hltv.org/news/39435/b1t-wins-career-first-mvp-at-esports-world-cup
-2024/07/22 15:38:59 Skipping writing post, no content: https://www.hltv.org/news/39436/navi-fire-past-g2-to-win-esports-world-cup
-2024/07/22 15:38:59 Skipping writing post, no content: https://www.hltv.org/news/39433/live-updates-from-esports-world-cup-grand-final
-2024/07/22 15:38:59 Skipping writing post, no content: https://www.hltv.org/news/39434/pain-qualify-for-blast-fall-showdown
-2024/07/22 15:38:59 Skipping writing post, no content: https://www.hltv.org/news/39391/short-news-week-29
-2024/07/22 15:38:59 Skipping writing post, no content: https://www.hltv.org/news/39432/w0nderful-on-facing-m0nesy-i-never-think-about-it-because-i-play-against-a-team-not-one-player
-2024/07/22 15:38:59 Skipping writing post, no content: https://www.hltv.org/news/39431/taz-its-really-hard-to-play-against-us-i-dont-think-we-have-a-weakness-in-the-team
-2024/07/22 15:38:59 Templated 87 posts, took 14.208726ms
+2024/07/22 15:52:17 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/22 15:52:17 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 174.325738ms
+2024/07/22 15:52:17 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 266.065621ms
+2024/07/22 15:52:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 820.605523ms
+2024/07/22 15:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39437/short-news-week-30
+2024/07/22 15:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39440/highlights-b1t-runs-circles-around-m0nesy-in-esports-world-cup-grand-final
+2024/07/22 15:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39438/snax-i-shut-down-a-little-bit-on-inferno
+2024/07/22 15:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39435/b1t-wins-career-first-mvp-at-esports-world-cup
+2024/07/22 15:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39436/navi-fire-past-g2-to-win-esports-world-cup
+2024/07/22 15:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39433/live-updates-from-esports-world-cup-grand-final
+2024/07/22 15:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39434/pain-qualify-for-blast-fall-showdown
+2024/07/22 15:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39391/short-news-week-29
+2024/07/22 15:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39432/w0nderful-on-facing-m0nesy-i-never-think-about-it-because-i-play-against-a-team-not-one-player
+2024/07/22 15:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39431/taz-its-really-hard-to-play-against-us-i-dont-think-we-have-a-weakness-in-the-team
+2024/07/22 15:52:17 Fetched posts from https://www.hltv.org/rss/news, took 922.378024ms
+2024/07/22 15:52:18 Fetched posts from https://vlr.gg/rss, took 1.835303251s
+2024/07/22 15:52:18 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.949059529s
+2024/07/22 15:52:20 Fetched posts from https://blogtienao.com/feed, took 3.59869718s
+2024/07/22 15:52:33 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.897494734s
+2024/07/22 15:52:33 Skipping writing post, no content: https://www.hltv.org/news/39437/short-news-week-30
+2024/07/22 15:52:33 Skipping writing post, no content: https://www.hltv.org/news/39440/highlights-b1t-runs-circles-around-m0nesy-in-esports-world-cup-grand-final
+2024/07/22 15:52:33 Skipping writing post, no content: https://www.hltv.org/news/39438/snax-i-shut-down-a-little-bit-on-inferno
+2024/07/22 15:52:33 Skipping writing post, no content: https://www.hltv.org/news/39435/b1t-wins-career-first-mvp-at-esports-world-cup
+2024/07/22 15:52:33 Skipping writing post, no content: https://www.hltv.org/news/39436/navi-fire-past-g2-to-win-esports-world-cup
+2024/07/22 15:52:33 Skipping writing post, no content: https://www.hltv.org/news/39433/live-updates-from-esports-world-cup-grand-final
+2024/07/22 15:52:33 Skipping writing post, no content: https://www.hltv.org/news/39434/pain-qualify-for-blast-fall-showdown
+2024/07/22 15:52:33 Skipping writing post, no content: https://www.hltv.org/news/39391/short-news-week-29
+2024/07/22 15:52:33 Skipping writing post, no content: https://www.hltv.org/news/39432/w0nderful-on-facing-m0nesy-i-never-think-about-it-because-i-play-against-a-team-not-one-player
+2024/07/22 15:52:33 Skipping writing post, no content: https://www.hltv.org/news/39431/taz-its-really-hard-to-play-against-us-i-dont-think-we-have-a-weakness-in-the-team
+2024/07/22 15:52:33 Templated 88 posts, took 14.680478ms
