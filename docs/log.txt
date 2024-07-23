@@ -1,30 +1,30 @@
-2024/07/23 07:16:44 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 147.82433ms
-2024/07/23 07:16:44 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/23 07:16:44 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 247.759956ms
-2024/07/23 07:16:44 Content still empty after HTML reader: https://www.hltv.org/news/39444/cs2-update-introduces-dust2-catwalk-self-boost
-2024/07/23 07:16:44 Content still empty after HTML reader: https://www.hltv.org/news/39442/meta-monday-navis-perfectly-timed-push-catches-g2-off-guard
-2024/07/23 07:16:44 Content still empty after HTML reader: https://www.hltv.org/news/39443/blamef-stars-en-route-to-first-event-win-in-fnatic
-2024/07/23 07:16:44 Content still empty after HTML reader: https://www.hltv.org/news/39441/navi-claim-no-1-in-world-rankings-after-ewc-win
-2024/07/23 07:16:44 Content still empty after HTML reader: https://www.hltv.org/news/39437/short-news-week-30
-2024/07/23 07:16:45 Content still empty after HTML reader: https://www.hltv.org/news/39440/highlights-b1t-runs-circles-around-m0nesy-in-esports-world-cup-grand-final
-2024/07/23 07:16:45 Content still empty after HTML reader: https://www.hltv.org/news/39438/snax-i-shut-down-a-little-bit-on-inferno
-2024/07/23 07:16:45 Content still empty after HTML reader: https://www.hltv.org/news/39435/b1t-wins-career-first-mvp-at-esports-world-cup
-2024/07/23 07:16:45 Content still empty after HTML reader: https://www.hltv.org/news/39436/navi-fire-past-g2-to-win-esports-world-cup
-2024/07/23 07:16:45 Content still empty after HTML reader: https://www.hltv.org/news/39433/live-updates-from-esports-world-cup-grand-final
-2024/07/23 07:16:45 Fetched posts from https://www.hltv.org/rss/news, took 419.911054ms
-2024/07/23 07:16:45 Fetched posts from https://vlr.gg/rss, took 671.031514ms
-2024/07/23 07:16:45 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 880.706602ms
-2024/07/23 07:16:45 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.045536825s
-2024/07/23 07:16:48 Fetched posts from https://blogtienao.com/feed, took 4.375145165s
-2024/07/23 07:17:01 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.777328737s
-2024/07/23 07:17:01 Skipping writing post, no content: https://www.hltv.org/news/39444/cs2-update-introduces-dust2-catwalk-self-boost
-2024/07/23 07:17:01 Skipping writing post, no content: https://www.hltv.org/news/39442/meta-monday-navis-perfectly-timed-push-catches-g2-off-guard
-2024/07/23 07:17:01 Skipping writing post, no content: https://www.hltv.org/news/39443/blamef-stars-en-route-to-first-event-win-in-fnatic
-2024/07/23 07:17:01 Skipping writing post, no content: https://www.hltv.org/news/39441/navi-claim-no-1-in-world-rankings-after-ewc-win
-2024/07/23 07:17:01 Skipping writing post, no content: https://www.hltv.org/news/39437/short-news-week-30
-2024/07/23 07:17:01 Skipping writing post, no content: https://www.hltv.org/news/39440/highlights-b1t-runs-circles-around-m0nesy-in-esports-world-cup-grand-final
-2024/07/23 07:17:01 Skipping writing post, no content: https://www.hltv.org/news/39438/snax-i-shut-down-a-little-bit-on-inferno
-2024/07/23 07:17:01 Skipping writing post, no content: https://www.hltv.org/news/39435/b1t-wins-career-first-mvp-at-esports-world-cup
-2024/07/23 07:17:01 Skipping writing post, no content: https://www.hltv.org/news/39436/navi-fire-past-g2-to-win-esports-world-cup
-2024/07/23 07:17:01 Skipping writing post, no content: https://www.hltv.org/news/39433/live-updates-from-esports-world-cup-grand-final
-2024/07/23 07:17:01 Templated 81 posts, took 13.176807ms
+2024/07/23 07:38:17 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/23 07:38:17 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 128.774913ms
+2024/07/23 07:38:17 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 250.338443ms
+2024/07/23 07:38:17 Content still empty after HTML reader: https://www.hltv.org/news/39444/cs2-update-introduces-dust2-catwalk-self-boost
+2024/07/23 07:38:17 Content still empty after HTML reader: https://www.hltv.org/news/39442/meta-monday-navis-perfectly-timed-push-catches-g2-off-guard
+2024/07/23 07:38:17 Content still empty after HTML reader: https://www.hltv.org/news/39443/blamef-stars-en-route-to-first-event-win-in-fnatic
+2024/07/23 07:38:17 Content still empty after HTML reader: https://www.hltv.org/news/39441/navi-claim-no-1-in-world-rankings-after-ewc-win
+2024/07/23 07:38:17 Content still empty after HTML reader: https://www.hltv.org/news/39437/short-news-week-30
+2024/07/23 07:38:17 Content still empty after HTML reader: https://www.hltv.org/news/39440/highlights-b1t-runs-circles-around-m0nesy-in-esports-world-cup-grand-final
+2024/07/23 07:38:17 Content still empty after HTML reader: https://www.hltv.org/news/39438/snax-i-shut-down-a-little-bit-on-inferno
+2024/07/23 07:38:17 Content still empty after HTML reader: https://www.hltv.org/news/39435/b1t-wins-career-first-mvp-at-esports-world-cup
+2024/07/23 07:38:17 Content still empty after HTML reader: https://www.hltv.org/news/39436/navi-fire-past-g2-to-win-esports-world-cup
+2024/07/23 07:38:17 Content still empty after HTML reader: https://www.hltv.org/news/39433/live-updates-from-esports-world-cup-grand-final
+2024/07/23 07:38:17 Fetched posts from https://www.hltv.org/rss/news, took 433.157864ms
+2024/07/23 07:38:17 Fetched posts from https://vlr.gg/rss, took 687.222628ms
+2024/07/23 07:38:18 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 882.312995ms
+2024/07/23 07:38:18 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 924.204649ms
+2024/07/23 07:38:21 Fetched posts from https://blogtienao.com/feed, took 4.191143229s
+2024/07/23 07:38:34 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.738707853s
+2024/07/23 07:38:34 Skipping writing post, no content: https://www.hltv.org/news/39444/cs2-update-introduces-dust2-catwalk-self-boost
+2024/07/23 07:38:34 Skipping writing post, no content: https://www.hltv.org/news/39442/meta-monday-navis-perfectly-timed-push-catches-g2-off-guard
+2024/07/23 07:38:34 Skipping writing post, no content: https://www.hltv.org/news/39443/blamef-stars-en-route-to-first-event-win-in-fnatic
+2024/07/23 07:38:34 Skipping writing post, no content: https://www.hltv.org/news/39441/navi-claim-no-1-in-world-rankings-after-ewc-win
+2024/07/23 07:38:34 Skipping writing post, no content: https://www.hltv.org/news/39437/short-news-week-30
+2024/07/23 07:38:34 Skipping writing post, no content: https://www.hltv.org/news/39440/highlights-b1t-runs-circles-around-m0nesy-in-esports-world-cup-grand-final
+2024/07/23 07:38:34 Skipping writing post, no content: https://www.hltv.org/news/39438/snax-i-shut-down-a-little-bit-on-inferno
+2024/07/23 07:38:34 Skipping writing post, no content: https://www.hltv.org/news/39435/b1t-wins-career-first-mvp-at-esports-world-cup
+2024/07/23 07:38:34 Skipping writing post, no content: https://www.hltv.org/news/39436/navi-fire-past-g2-to-win-esports-world-cup
+2024/07/23 07:38:34 Skipping writing post, no content: https://www.hltv.org/news/39433/live-updates-from-esports-world-cup-grand-final
+2024/07/23 07:38:34 Templated 81 posts, took 13.281468ms
