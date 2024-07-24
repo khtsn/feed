@@ -1,28 +1,30 @@
-2024/07/24 17:52:19 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 75.830328ms
-2024/07/24 17:52:19 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/24 17:52:19 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 155.747221ms
-2024/07/24 17:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39437/short-news-week-30
-2024/07/24 17:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39400/stat-check-cloud9-finally-settle-on-a-five
-2024/07/24 17:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39449/esl-reveals-iem-rio-2024-invites
-2024/07/24 17:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39448/betboom-withdraw-from-skyesports-championship-over-conditions-fairness-concerns
-2024/07/24 17:52:19 Fetched posts from https://vlr.gg/rss, took 364.506688ms
-2024/07/24 17:52:19 Content still empty after HTML reader: https://www.hltv.org/news/39447/skyesports-championship-matches-postponed-due-to-technical-issues
-2024/07/24 17:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39446/navis-second-trophy-g2-and-furia-debuts-valves-rulebook-problems-on-hltv-confirmed
-2024/07/24 17:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39445/gaimin-gladiators-sign-roej-nicoodoz
-2024/07/24 17:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39444/cs2-update-introduces-dust2-catwalk-self-boost
-2024/07/24 17:52:20 Content still empty after HTML reader: https://www.hltv.org/news/39442/meta-monday-navis-perfectly-timed-push-catches-g2-off-guard
-2024/07/24 17:52:20 Fetched posts from https://www.hltv.org/rss/news, took 425.861204ms
-2024/07/24 17:52:20 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 845.500968ms
-2024/07/24 17:52:20 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 903.779529ms
-2024/07/24 17:52:24 Fetched posts from https://blogtienao.com/feed, took 4.650041263s
-2024/07/24 17:52:35 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.728241131s
-2024/07/24 17:52:35 Skipping writing post, no content: https://www.hltv.org/news/39437/short-news-week-30
-2024/07/24 17:52:35 Skipping writing post, no content: https://www.hltv.org/news/39400/stat-check-cloud9-finally-settle-on-a-five
-2024/07/24 17:52:35 Skipping writing post, no content: https://www.hltv.org/news/39449/esl-reveals-iem-rio-2024-invites
-2024/07/24 17:52:35 Skipping writing post, no content: https://www.hltv.org/news/39448/betboom-withdraw-from-skyesports-championship-over-conditions-fairness-concerns
-2024/07/24 17:52:35 Skipping writing post, no content: https://www.hltv.org/news/39447/skyesports-championship-matches-postponed-due-to-technical-issues
-2024/07/24 17:52:35 Skipping writing post, no content: https://www.hltv.org/news/39446/navis-second-trophy-g2-and-furia-debuts-valves-rulebook-problems-on-hltv-confirmed
-2024/07/24 17:52:35 Skipping writing post, no content: https://www.hltv.org/news/39445/gaimin-gladiators-sign-roej-nicoodoz
-2024/07/24 17:52:35 Skipping writing post, no content: https://www.hltv.org/news/39444/cs2-update-introduces-dust2-catwalk-self-boost
-2024/07/24 17:52:35 Skipping writing post, no content: https://www.hltv.org/news/39442/meta-monday-navis-perfectly-timed-push-catches-g2-off-guard
-2024/07/24 17:52:35 Templated 84 posts, took 14.393077ms
+2024/07/24 18:26:24 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 95.696098ms
+2024/07/24 18:26:24 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/24 18:26:24 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 204.212402ms
+2024/07/24 18:26:24 Fetched posts from https://vlr.gg/rss, took 218.325485ms
+2024/07/24 18:26:24 Content still empty after HTML reader: https://www.hltv.org/news/39451/playoff-race-wide-open-after-smooth-day-two-at-skyesports-championship
+2024/07/24 18:26:24 Content still empty after HTML reader: https://www.hltv.org/news/39437/short-news-week-30
+2024/07/24 18:26:24 Content still empty after HTML reader: https://www.hltv.org/news/39400/stat-check-cloud9-finally-settle-on-a-five
+2024/07/24 18:26:24 Content still empty after HTML reader: https://www.hltv.org/news/39449/esl-reveals-iem-rio-2024-invites
+2024/07/24 18:26:24 Content still empty after HTML reader: https://www.hltv.org/news/39448/betboom-withdraw-from-skyesports-championship-over-conditions-fairness-concerns
+2024/07/24 18:26:24 Content still empty after HTML reader: https://www.hltv.org/news/39439/issaa-counter-strike-is-in-my-blood
+2024/07/24 18:26:24 Content still empty after HTML reader: https://www.hltv.org/news/39447/skyesports-championship-matches-postponed-due-to-technical-issues
+2024/07/24 18:26:24 Content still empty after HTML reader: https://www.hltv.org/news/39446/navis-second-trophy-g2-and-furia-debuts-valves-rulebook-problems-on-hltv-confirmed
+2024/07/24 18:26:24 Content still empty after HTML reader: https://www.hltv.org/news/39445/gaimin-gladiators-sign-roej-nicoodoz
+2024/07/24 18:26:24 Content still empty after HTML reader: https://www.hltv.org/news/39444/cs2-update-introduces-dust2-catwalk-self-boost
+2024/07/24 18:26:24 Fetched posts from https://www.hltv.org/rss/news, took 441.39891ms
+2024/07/24 18:26:25 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 888.037847ms
+2024/07/24 18:26:25 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.133758568s
+2024/07/24 18:26:29 Fetched posts from https://blogtienao.com/feed, took 4.630544881s
+2024/07/24 18:26:41 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.34962186s
+2024/07/24 18:26:41 Skipping writing post, no content: https://www.hltv.org/news/39451/playoff-race-wide-open-after-smooth-day-two-at-skyesports-championship
+2024/07/24 18:26:41 Skipping writing post, no content: https://www.hltv.org/news/39437/short-news-week-30
+2024/07/24 18:26:41 Skipping writing post, no content: https://www.hltv.org/news/39400/stat-check-cloud9-finally-settle-on-a-five
+2024/07/24 18:26:41 Skipping writing post, no content: https://www.hltv.org/news/39449/esl-reveals-iem-rio-2024-invites
+2024/07/24 18:26:41 Skipping writing post, no content: https://www.hltv.org/news/39448/betboom-withdraw-from-skyesports-championship-over-conditions-fairness-concerns
+2024/07/24 18:26:41 Skipping writing post, no content: https://www.hltv.org/news/39439/issaa-counter-strike-is-in-my-blood
+2024/07/24 18:26:41 Skipping writing post, no content: https://www.hltv.org/news/39447/skyesports-championship-matches-postponed-due-to-technical-issues
+2024/07/24 18:26:41 Skipping writing post, no content: https://www.hltv.org/news/39446/navis-second-trophy-g2-and-furia-debuts-valves-rulebook-problems-on-hltv-confirmed
+2024/07/24 18:26:41 Skipping writing post, no content: https://www.hltv.org/news/39445/gaimin-gladiators-sign-roej-nicoodoz
+2024/07/24 18:26:41 Skipping writing post, no content: https://www.hltv.org/news/39444/cs2-update-introduces-dust2-catwalk-self-boost
+2024/07/24 18:26:41 Templated 80 posts, took 13.371684ms
