@@ -1,28 +1,32 @@
-2024/07/25 03:52:21 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/25 03:52:21 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 97.478543ms
-2024/07/25 03:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39437/short-news-week-30
-2024/07/25 03:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39453/yalla-reveals-15m-2025-circuit-with-2-lan-finals
-2024/07/25 03:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39452/9z-headline-invite-list-for-cct-s2-eu-series-6-playoffs
-2024/07/25 03:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39451/playoff-race-wide-open-after-smooth-day-two-at-skyesports-championship
-2024/07/25 03:52:21 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 371.56769ms
-2024/07/25 03:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39449/esl-reveals-iem-rio-2024-invites
-2024/07/25 03:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39448/betboom-withdraw-from-skyesports-championship-over-conditions-fairness-concerns
-2024/07/25 03:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39439/issaa-counter-strike-is-in-my-blood
-2024/07/25 03:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39447/skyesports-championship-matches-postponed-due-to-technical-issues
-2024/07/25 03:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39446/navis-second-trophy-g2-and-furia-debuts-valves-rulebook-problems-on-hltv-confirmed
-2024/07/25 03:52:21 Fetched posts from https://www.hltv.org/rss/news, took 409.55468ms
-2024/07/25 03:52:22 Fetched posts from https://vlr.gg/rss, took 709.609002ms
-2024/07/25 03:52:22 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 793.229375ms
-2024/07/25 03:52:24 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.492197628s
-2024/07/25 03:52:25 Fetched posts from https://blogtienao.com/feed, took 3.446736567s
-2024/07/25 03:52:39 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.937875277s
-2024/07/25 03:52:39 Skipping writing post, no content: https://www.hltv.org/news/39437/short-news-week-30
-2024/07/25 03:52:39 Skipping writing post, no content: https://www.hltv.org/news/39453/yalla-reveals-15m-2025-circuit-with-2-lan-finals
-2024/07/25 03:52:39 Skipping writing post, no content: https://www.hltv.org/news/39452/9z-headline-invite-list-for-cct-s2-eu-series-6-playoffs
-2024/07/25 03:52:39 Skipping writing post, no content: https://www.hltv.org/news/39451/playoff-race-wide-open-after-smooth-day-two-at-skyesports-championship
-2024/07/25 03:52:39 Skipping writing post, no content: https://www.hltv.org/news/39449/esl-reveals-iem-rio-2024-invites
-2024/07/25 03:52:39 Skipping writing post, no content: https://www.hltv.org/news/39448/betboom-withdraw-from-skyesports-championship-over-conditions-fairness-concerns
-2024/07/25 03:52:39 Skipping writing post, no content: https://www.hltv.org/news/39439/issaa-counter-strike-is-in-my-blood
-2024/07/25 03:52:39 Skipping writing post, no content: https://www.hltv.org/news/39447/skyesports-championship-matches-postponed-due-to-technical-issues
-2024/07/25 03:52:39 Skipping writing post, no content: https://www.hltv.org/news/39446/navis-second-trophy-g2-and-furia-debuts-valves-rulebook-problems-on-hltv-confirmed
-2024/07/25 03:52:39 Templated 78 posts, took 12.431645ms
+2024/07/25 04:23:33 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/25 04:23:33 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 150.945972ms
+2024/07/25 04:23:33 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 274.359858ms
+2024/07/25 04:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39437/short-news-week-30
+2024/07/25 04:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39453/yalla-reveals-15m-2025-circuit-with-2-lan-finals
+2024/07/25 04:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39452/9z-headline-invite-list-for-cct-s2-eu-series-6-playoffs
+2024/07/25 04:23:33 Fetched posts from https://vlr.gg/rss, took 323.109548ms
+2024/07/25 04:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39451/playoff-race-wide-open-after-smooth-day-two-at-skyesports-championship
+2024/07/25 04:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39400/stat-check-cloud9-finally-settle-on-a-five
+2024/07/25 04:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39449/esl-reveals-iem-rio-2024-invites
+2024/07/25 04:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39448/betboom-withdraw-from-skyesports-championship-over-conditions-fairness-concerns
+2024/07/25 04:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39439/issaa-counter-strike-is-in-my-blood
+2024/07/25 04:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39447/skyesports-championship-matches-postponed-due-to-technical-issues
+2024/07/25 04:23:33 Content still empty after HTML reader: https://www.nytimes.com/2024/07/24/us/politics/donald-trump-nephew-book-fred-trump.html
+2024/07/25 04:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39446/navis-second-trophy-g2-and-furia-debuts-valves-rulebook-problems-on-hltv-confirmed
+2024/07/25 04:23:33 Fetched posts from https://www.hltv.org/rss/news, took 390.654732ms
+2024/07/25 04:23:33 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 915.861498ms
+2024/07/25 04:23:33 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 934.249274ms
+2024/07/25 04:23:37 Fetched posts from https://blogtienao.com/feed, took 4.915292016s
+2024/07/25 04:23:52 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.207645472s
+2024/07/25 04:23:52 Skipping writing post, no content: https://www.hltv.org/news/39437/short-news-week-30
+2024/07/25 04:23:52 Skipping writing post, no content: https://www.hltv.org/news/39453/yalla-reveals-15m-2025-circuit-with-2-lan-finals
+2024/07/25 04:23:52 Skipping writing post, no content: https://www.hltv.org/news/39452/9z-headline-invite-list-for-cct-s2-eu-series-6-playoffs
+2024/07/25 04:23:52 Skipping writing post, no content: https://www.hltv.org/news/39451/playoff-race-wide-open-after-smooth-day-two-at-skyesports-championship
+2024/07/25 04:23:52 Skipping writing post, no content: https://www.nytimes.com/2024/07/24/us/politics/donald-trump-nephew-book-fred-trump.html
+2024/07/25 04:23:52 Skipping writing post, no content: https://www.hltv.org/news/39400/stat-check-cloud9-finally-settle-on-a-five
+2024/07/25 04:23:52 Skipping writing post, no content: https://www.hltv.org/news/39449/esl-reveals-iem-rio-2024-invites
+2024/07/25 04:23:52 Skipping writing post, no content: https://www.hltv.org/news/39448/betboom-withdraw-from-skyesports-championship-over-conditions-fairness-concerns
+2024/07/25 04:23:52 Skipping writing post, no content: https://www.hltv.org/news/39439/issaa-counter-strike-is-in-my-blood
+2024/07/25 04:23:52 Skipping writing post, no content: https://www.hltv.org/news/39447/skyesports-championship-matches-postponed-due-to-technical-issues
+2024/07/25 04:23:52 Skipping writing post, no content: https://www.hltv.org/news/39446/navis-second-trophy-g2-and-furia-debuts-valves-rulebook-problems-on-hltv-confirmed
+2024/07/25 04:23:52 Templated 76 posts, took 12.789513ms
