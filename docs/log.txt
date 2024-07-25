@@ -1,30 +1,30 @@
-2024/07/25 13:01:08 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/25 13:01:08 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 187.288982ms
-2024/07/25 13:01:08 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 307.139357ms
-2024/07/25 13:01:08 Content still empty after HTML reader: https://www.hltv.org/news/39450/the-evps-and-best-five-of-esports-world-cup
-2024/07/25 13:01:08 Content still empty after HTML reader: https://www.hltv.org/news/39454/launx-to-miss-remaining-skyesports-championship-games-due-to-health-reasons
-2024/07/25 13:01:08 Content still empty after HTML reader: https://www.hltv.org/news/39437/short-news-week-30
-2024/07/25 13:01:08 Content still empty after HTML reader: https://www.hltv.org/news/39453/yalla-reveals-15m-2025-circuit-with-2-lan-finals
-2024/07/25 13:01:08 Content still empty after HTML reader: https://www.hltv.org/news/39452/9z-headline-invite-list-for-cct-s2-eu-series-6-playoffs
-2024/07/25 13:01:08 Content still empty after HTML reader: https://www.hltv.org/news/39451/playoff-race-wide-open-after-smooth-day-two-at-skyesports-championship
-2024/07/25 13:01:08 Content still empty after HTML reader: https://www.hltv.org/news/39400/stat-check-cloud9-finally-settle-on-a-five
-2024/07/25 13:01:08 Content still empty after HTML reader: https://www.hltv.org/news/39449/esl-reveals-iem-rio-2024-invites
-2024/07/25 13:01:08 Content still empty after HTML reader: https://www.hltv.org/news/39448/betboom-withdraw-from-skyesports-championship-over-conditions-fairness-concerns
-2024/07/25 13:01:08 Content still empty after HTML reader: https://www.hltv.org/news/39439/issaa-counter-strike-is-in-my-blood
-2024/07/25 13:01:08 Fetched posts from https://www.hltv.org/rss/news, took 631.080723ms
-2024/07/25 13:01:09 Fetched posts from https://vlr.gg/rss, took 861.595781ms
-2024/07/25 13:01:09 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.043242178s
-2024/07/25 13:01:10 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.739021893s
-2024/07/25 13:01:12 Fetched posts from https://blogtienao.com/feed, took 3.800357579s
-2024/07/25 13:01:29 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.958110229s
-2024/07/25 13:01:29 Skipping writing post, no content: https://www.hltv.org/news/39450/the-evps-and-best-five-of-esports-world-cup
-2024/07/25 13:01:29 Skipping writing post, no content: https://www.hltv.org/news/39454/launx-to-miss-remaining-skyesports-championship-games-due-to-health-reasons
-2024/07/25 13:01:29 Skipping writing post, no content: https://www.hltv.org/news/39437/short-news-week-30
-2024/07/25 13:01:29 Skipping writing post, no content: https://www.hltv.org/news/39453/yalla-reveals-15m-2025-circuit-with-2-lan-finals
-2024/07/25 13:01:29 Skipping writing post, no content: https://www.hltv.org/news/39452/9z-headline-invite-list-for-cct-s2-eu-series-6-playoffs
-2024/07/25 13:01:29 Skipping writing post, no content: https://www.hltv.org/news/39451/playoff-race-wide-open-after-smooth-day-two-at-skyesports-championship
-2024/07/25 13:01:29 Skipping writing post, no content: https://www.hltv.org/news/39400/stat-check-cloud9-finally-settle-on-a-five
-2024/07/25 13:01:29 Skipping writing post, no content: https://www.hltv.org/news/39449/esl-reveals-iem-rio-2024-invites
-2024/07/25 13:01:29 Skipping writing post, no content: https://www.hltv.org/news/39448/betboom-withdraw-from-skyesports-championship-over-conditions-fairness-concerns
-2024/07/25 13:01:29 Skipping writing post, no content: https://www.hltv.org/news/39439/issaa-counter-strike-is-in-my-blood
-2024/07/25 13:01:29 Templated 83 posts, took 13.241347ms
+2024/07/25 13:28:35 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/25 13:28:35 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 150.913289ms
+2024/07/25 13:28:35 Content still empty after HTML reader: https://www.hltv.org/news/39450/the-evps-and-best-five-of-esports-world-cup
+2024/07/25 13:28:35 Content still empty after HTML reader: https://www.hltv.org/news/39454/launx-to-miss-remaining-skyesports-championship-games-due-to-health-reasons
+2024/07/25 13:28:35 Content still empty after HTML reader: https://www.hltv.org/news/39437/short-news-week-30
+2024/07/25 13:28:35 Content still empty after HTML reader: https://www.hltv.org/news/39453/yalla-reveals-15m-2025-circuit-with-2-lan-finals
+2024/07/25 13:28:35 Content still empty after HTML reader: https://www.hltv.org/news/39452/9z-headline-invite-list-for-cct-s2-eu-series-6-playoffs
+2024/07/25 13:28:35 Content still empty after HTML reader: https://www.hltv.org/news/39451/playoff-race-wide-open-after-smooth-day-two-at-skyesports-championship
+2024/07/25 13:28:35 Content still empty after HTML reader: https://www.hltv.org/news/39400/stat-check-cloud9-finally-settle-on-a-five
+2024/07/25 13:28:35 Content still empty after HTML reader: https://www.hltv.org/news/39449/esl-reveals-iem-rio-2024-invites
+2024/07/25 13:28:35 Content still empty after HTML reader: https://www.hltv.org/news/39448/betboom-withdraw-from-skyesports-championship-over-conditions-fairness-concerns
+2024/07/25 13:28:35 Content still empty after HTML reader: https://www.hltv.org/news/39439/issaa-counter-strike-is-in-my-blood
+2024/07/25 13:28:35 Fetched posts from https://www.hltv.org/rss/news, took 298.614994ms
+2024/07/25 13:28:35 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 352.293639ms
+2024/07/25 13:28:35 Fetched posts from https://vlr.gg/rss, took 887.504999ms
+2024/07/25 13:28:37 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.498245783s
+2024/07/25 13:28:37 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.535394726s
+2024/07/25 13:28:39 Fetched posts from https://blogtienao.com/feed, took 4.094330195s
+2024/07/25 13:28:54 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.903125749s
+2024/07/25 13:28:54 Skipping writing post, no content: https://www.hltv.org/news/39450/the-evps-and-best-five-of-esports-world-cup
+2024/07/25 13:28:54 Skipping writing post, no content: https://www.hltv.org/news/39454/launx-to-miss-remaining-skyesports-championship-games-due-to-health-reasons
+2024/07/25 13:28:54 Skipping writing post, no content: https://www.hltv.org/news/39437/short-news-week-30
+2024/07/25 13:28:54 Skipping writing post, no content: https://www.hltv.org/news/39453/yalla-reveals-15m-2025-circuit-with-2-lan-finals
+2024/07/25 13:28:54 Skipping writing post, no content: https://www.hltv.org/news/39452/9z-headline-invite-list-for-cct-s2-eu-series-6-playoffs
+2024/07/25 13:28:54 Skipping writing post, no content: https://www.hltv.org/news/39451/playoff-race-wide-open-after-smooth-day-two-at-skyesports-championship
+2024/07/25 13:28:54 Skipping writing post, no content: https://www.hltv.org/news/39400/stat-check-cloud9-finally-settle-on-a-five
+2024/07/25 13:28:54 Skipping writing post, no content: https://www.hltv.org/news/39449/esl-reveals-iem-rio-2024-invites
+2024/07/25 13:28:54 Skipping writing post, no content: https://www.hltv.org/news/39448/betboom-withdraw-from-skyesports-championship-over-conditions-fairness-concerns
+2024/07/25 13:28:54 Skipping writing post, no content: https://www.hltv.org/news/39439/issaa-counter-strike-is-in-my-blood
+2024/07/25 13:28:55 Templated 83 posts, took 13.223584ms
