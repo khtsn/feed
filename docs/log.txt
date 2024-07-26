@@ -1,30 +1,28 @@
-2024/07/26 08:39:40 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 93.941186ms
-2024/07/26 08:39:40 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/26 08:39:40 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 138.975735ms
-2024/07/26 08:39:40 Fetched posts from https://vlr.gg/rss, took 206.471054ms
-2024/07/26 08:39:40 Content still empty after HTML reader: https://www.hltv.org/news/39437/short-news-week-30
-2024/07/26 08:39:40 Content still empty after HTML reader: https://www.hltv.org/news/39456/esl-reveals-iem-cologne-2024-brackets
-2024/07/26 08:39:40 Content still empty after HTML reader: https://www.hltv.org/news/39455/esl-removes-bo1-format-from-iem-cologne-2024
-2024/07/26 08:39:40 Content still empty after HTML reader: https://www.hltv.org/news/39450/the-evps-and-best-five-of-esports-world-cup
-2024/07/26 08:39:40 Content still empty after HTML reader: https://www.hltv.org/news/39454/launx-to-miss-remaining-skyesports-championship-games-due-to-health-reasons
-2024/07/26 08:39:40 Content still empty after HTML reader: https://www.hltv.org/news/39453/yalla-reveals-15m-2025-circuit-with-2-lan-finals
-2024/07/26 08:39:40 Content still empty after HTML reader: https://www.hltv.org/news/39452/9z-headline-invite-list-for-cct-s2-eu-series-6-playoffs
-2024/07/26 08:39:40 Content still empty after HTML reader: https://www.hltv.org/news/39451/playoff-race-wide-open-after-smooth-day-two-at-skyesports-championship
-2024/07/26 08:39:40 Content still empty after HTML reader: https://www.hltv.org/news/39400/stat-check-cloud9-finally-settle-on-a-five
-2024/07/26 08:39:40 Content still empty after HTML reader: https://www.hltv.org/news/39449/esl-reveals-iem-rio-2024-invites
-2024/07/26 08:39:40 Fetched posts from https://www.hltv.org/rss/news, took 385.194973ms
-2024/07/26 08:39:41 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 632.192315ms
-2024/07/26 08:39:41 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 695.977901ms
-2024/07/26 08:39:44 Fetched posts from https://blogtienao.com/feed, took 4.253091105s
-2024/07/26 08:40:00 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.175380554s
-2024/07/26 08:40:00 Skipping writing post, no content: https://www.hltv.org/news/39437/short-news-week-30
-2024/07/26 08:40:00 Skipping writing post, no content: https://www.hltv.org/news/39456/esl-reveals-iem-cologne-2024-brackets
-2024/07/26 08:40:00 Skipping writing post, no content: https://www.hltv.org/news/39455/esl-removes-bo1-format-from-iem-cologne-2024
-2024/07/26 08:40:00 Skipping writing post, no content: https://www.hltv.org/news/39450/the-evps-and-best-five-of-esports-world-cup
-2024/07/26 08:40:00 Skipping writing post, no content: https://www.hltv.org/news/39454/launx-to-miss-remaining-skyesports-championship-games-due-to-health-reasons
-2024/07/26 08:40:00 Skipping writing post, no content: https://www.hltv.org/news/39453/yalla-reveals-15m-2025-circuit-with-2-lan-finals
-2024/07/26 08:40:00 Skipping writing post, no content: https://www.hltv.org/news/39452/9z-headline-invite-list-for-cct-s2-eu-series-6-playoffs
-2024/07/26 08:40:00 Skipping writing post, no content: https://www.hltv.org/news/39451/playoff-race-wide-open-after-smooth-day-two-at-skyesports-championship
-2024/07/26 08:40:00 Skipping writing post, no content: https://www.hltv.org/news/39400/stat-check-cloud9-finally-settle-on-a-five
-2024/07/26 08:40:00 Skipping writing post, no content: https://www.hltv.org/news/39449/esl-reveals-iem-rio-2024-invites
-2024/07/26 08:40:00 Templated 78 posts, took 12.166408ms
+2024/07/26 08:52:31 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/26 08:52:31 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 118.834924ms
+2024/07/26 08:52:31 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 203.180704ms
+2024/07/26 08:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39437/short-news-week-30
+2024/07/26 08:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39456/esl-reveals-iem-cologne-2024-brackets
+2024/07/26 08:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39455/esl-removes-bo1-format-from-iem-cologne-2024
+2024/07/26 08:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39450/the-evps-and-best-five-of-esports-world-cup
+2024/07/26 08:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39454/launx-to-miss-remaining-skyesports-championship-games-due-to-health-reasons
+2024/07/26 08:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39452/9z-headline-invite-list-for-cct-s2-eu-series-6-playoffs
+2024/07/26 08:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39451/playoff-race-wide-open-after-smooth-day-two-at-skyesports-championship
+2024/07/26 08:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39400/stat-check-cloud9-finally-settle-on-a-five
+2024/07/26 08:52:32 Content still empty after HTML reader: https://www.hltv.org/news/39449/esl-reveals-iem-rio-2024-invites
+2024/07/26 08:52:32 Fetched posts from https://www.hltv.org/rss/news, took 426.37386ms
+2024/07/26 08:52:32 Fetched posts from https://vlr.gg/rss, took 785.005418ms
+2024/07/26 08:52:32 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 939.318977ms
+2024/07/26 08:52:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 983.650525ms
+2024/07/26 08:52:35 Fetched posts from https://blogtienao.com/feed, took 3.493022715s
+2024/07/26 08:52:47 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.265235559s
+2024/07/26 08:52:47 Skipping writing post, no content: https://www.hltv.org/news/39437/short-news-week-30
+2024/07/26 08:52:47 Skipping writing post, no content: https://www.hltv.org/news/39456/esl-reveals-iem-cologne-2024-brackets
+2024/07/26 08:52:47 Skipping writing post, no content: https://www.hltv.org/news/39455/esl-removes-bo1-format-from-iem-cologne-2024
+2024/07/26 08:52:47 Skipping writing post, no content: https://www.hltv.org/news/39450/the-evps-and-best-five-of-esports-world-cup
+2024/07/26 08:52:47 Skipping writing post, no content: https://www.hltv.org/news/39454/launx-to-miss-remaining-skyesports-championship-games-due-to-health-reasons
+2024/07/26 08:52:47 Skipping writing post, no content: https://www.hltv.org/news/39452/9z-headline-invite-list-for-cct-s2-eu-series-6-playoffs
+2024/07/26 08:52:47 Skipping writing post, no content: https://www.hltv.org/news/39451/playoff-race-wide-open-after-smooth-day-two-at-skyesports-championship
+2024/07/26 08:52:47 Skipping writing post, no content: https://www.hltv.org/news/39400/stat-check-cloud9-finally-settle-on-a-five
+2024/07/26 08:52:47 Skipping writing post, no content: https://www.hltv.org/news/39449/esl-reveals-iem-rio-2024-invites
+2024/07/26 08:52:47 Templated 78 posts, took 12.908251ms
