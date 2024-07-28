@@ -1,30 +1,30 @@
-2024/07/28 06:24:06 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/28 06:24:06 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 138.517289ms
-2024/07/28 06:24:06 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 189.340394ms
-2024/07/28 06:24:06 Content still empty after HTML reader: https://www.hltv.org/news/39437/short-news-week-30
-2024/07/28 06:24:06 Content still empty after HTML reader: https://www.hltv.org/news/39462/mouz-and-spirit-among-teams-announced-for-betboom-dacha
-2024/07/28 06:24:06 Content still empty after HTML reader: https://www.hltv.org/news/39461/the-mongolz-and-3dmax-march-on-in-mumbai
-2024/07/28 06:24:06 Content still empty after HTML reader: https://www.hltv.org/news/39460/blast-premier-fall-groups-fantasy-set-to-start
-2024/07/28 06:24:06 Content still empty after HTML reader: https://www.hltv.org/news/39459/atox-bench-zesta
-2024/07/28 06:24:06 Content still empty after HTML reader: https://www.hltv.org/news/39458/aurora-and-eternal-fire-top-groups-at-skyesports-championship
-2024/07/28 06:24:06 Content still empty after HTML reader: https://www.hltv.org/news/39394/stat-check-liquid-tighten-the-pursestrings-for-their-fourth-rebuild-in-three-years
-2024/07/28 06:24:06 Content still empty after HTML reader: https://www.hltv.org/news/39457/blast-premier-fall-groups-teams-format-schedule-talent-prizes-fantasy
-2024/07/28 06:24:06 Content still empty after HTML reader: https://www.hltv.org/news/39456/esl-reveals-iem-cologne-2024-brackets
-2024/07/28 06:24:06 Content still empty after HTML reader: https://www.hltv.org/news/39455/esl-removes-bo1-format-from-iem-cologne-2024
-2024/07/28 06:24:06 Fetched posts from https://www.hltv.org/rss/news, took 464.687241ms
-2024/07/28 06:24:06 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 657.311286ms
-2024/07/28 06:24:07 Fetched posts from https://vlr.gg/rss, took 908.237033ms
-2024/07/28 06:24:08 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.291387397s
-2024/07/28 06:24:09 Fetched posts from https://blogtienao.com/feed, took 3.569503802s
-2024/07/28 06:24:22 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.074017578s
-2024/07/28 06:24:22 Skipping writing post, no content: https://www.hltv.org/news/39437/short-news-week-30
-2024/07/28 06:24:22 Skipping writing post, no content: https://www.hltv.org/news/39462/mouz-and-spirit-among-teams-announced-for-betboom-dacha
-2024/07/28 06:24:22 Skipping writing post, no content: https://www.hltv.org/news/39461/the-mongolz-and-3dmax-march-on-in-mumbai
-2024/07/28 06:24:22 Skipping writing post, no content: https://www.hltv.org/news/39460/blast-premier-fall-groups-fantasy-set-to-start
-2024/07/28 06:24:22 Skipping writing post, no content: https://www.hltv.org/news/39459/atox-bench-zesta
-2024/07/28 06:24:22 Skipping writing post, no content: https://www.hltv.org/news/39458/aurora-and-eternal-fire-top-groups-at-skyesports-championship
-2024/07/28 06:24:22 Skipping writing post, no content: https://www.hltv.org/news/39394/stat-check-liquid-tighten-the-pursestrings-for-their-fourth-rebuild-in-three-years
-2024/07/28 06:24:22 Skipping writing post, no content: https://www.hltv.org/news/39457/blast-premier-fall-groups-teams-format-schedule-talent-prizes-fantasy
-2024/07/28 06:24:22 Skipping writing post, no content: https://www.hltv.org/news/39456/esl-reveals-iem-cologne-2024-brackets
-2024/07/28 06:24:22 Skipping writing post, no content: https://www.hltv.org/news/39455/esl-removes-bo1-format-from-iem-cologne-2024
-2024/07/28 06:24:22 Templated 75 posts, took 12.350662ms
+2024/07/28 06:41:00 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/28 06:41:00 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 96.973021ms
+2024/07/28 06:41:00 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 235.293504ms
+2024/07/28 06:41:00 Content still empty after HTML reader: https://www.hltv.org/news/39437/short-news-week-30
+2024/07/28 06:41:00 Content still empty after HTML reader: https://www.hltv.org/news/39462/mouz-and-spirit-among-teams-announced-for-betboom-dacha
+2024/07/28 06:41:00 Content still empty after HTML reader: https://www.hltv.org/news/39461/the-mongolz-and-3dmax-march-on-in-mumbai
+2024/07/28 06:41:00 Content still empty after HTML reader: https://www.hltv.org/news/39460/blast-premier-fall-groups-fantasy-set-to-start
+2024/07/28 06:41:00 Content still empty after HTML reader: https://www.hltv.org/news/39459/atox-bench-zesta
+2024/07/28 06:41:00 Content still empty after HTML reader: https://www.hltv.org/news/39458/aurora-and-eternal-fire-top-groups-at-skyesports-championship
+2024/07/28 06:41:00 Content still empty after HTML reader: https://www.hltv.org/news/39394/stat-check-liquid-tighten-the-pursestrings-for-their-fourth-rebuild-in-three-years
+2024/07/28 06:41:00 Content still empty after HTML reader: https://www.hltv.org/news/39457/blast-premier-fall-groups-teams-format-schedule-talent-prizes-fantasy
+2024/07/28 06:41:00 Content still empty after HTML reader: https://www.hltv.org/news/39456/esl-reveals-iem-cologne-2024-brackets
+2024/07/28 06:41:00 Content still empty after HTML reader: https://www.hltv.org/news/39455/esl-removes-bo1-format-from-iem-cologne-2024
+2024/07/28 06:41:00 Fetched posts from https://www.hltv.org/rss/news, took 395.387072ms
+2024/07/28 06:41:00 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 557.862949ms
+2024/07/28 06:41:01 Fetched posts from https://vlr.gg/rss, took 839.180136ms
+2024/07/28 06:41:02 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.135322067s
+2024/07/28 06:41:03 Fetched posts from https://blogtienao.com/feed, took 3.488377187s
+2024/07/28 06:41:16 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.73132996s
+2024/07/28 06:41:16 Skipping writing post, no content: https://www.hltv.org/news/39437/short-news-week-30
+2024/07/28 06:41:16 Skipping writing post, no content: https://www.hltv.org/news/39462/mouz-and-spirit-among-teams-announced-for-betboom-dacha
+2024/07/28 06:41:16 Skipping writing post, no content: https://www.hltv.org/news/39461/the-mongolz-and-3dmax-march-on-in-mumbai
+2024/07/28 06:41:16 Skipping writing post, no content: https://www.hltv.org/news/39460/blast-premier-fall-groups-fantasy-set-to-start
+2024/07/28 06:41:16 Skipping writing post, no content: https://www.hltv.org/news/39459/atox-bench-zesta
+2024/07/28 06:41:16 Skipping writing post, no content: https://www.hltv.org/news/39458/aurora-and-eternal-fire-top-groups-at-skyesports-championship
+2024/07/28 06:41:16 Skipping writing post, no content: https://www.hltv.org/news/39394/stat-check-liquid-tighten-the-pursestrings-for-their-fourth-rebuild-in-three-years
+2024/07/28 06:41:16 Skipping writing post, no content: https://www.hltv.org/news/39457/blast-premier-fall-groups-teams-format-schedule-talent-prizes-fantasy
+2024/07/28 06:41:16 Skipping writing post, no content: https://www.hltv.org/news/39456/esl-reveals-iem-cologne-2024-brackets
+2024/07/28 06:41:16 Skipping writing post, no content: https://www.hltv.org/news/39455/esl-removes-bo1-format-from-iem-cologne-2024
+2024/07/28 06:41:16 Templated 75 posts, took 11.623792ms
