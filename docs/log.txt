@@ -1,30 +1,30 @@
-2024/07/29 06:42:35 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/29 06:42:35 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 131.565273ms
-2024/07/29 06:42:35 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 224.623709ms
-2024/07/29 06:42:35 Content still empty after HTML reader: https://www.hltv.org/news/39437/short-news-week-30
-2024/07/29 06:42:35 Content still empty after HTML reader: https://www.hltv.org/news/39466/mithr-twistzz-has-the-potential-to-be-one-of-the-best-igls-weve-ever-seen
-2024/07/29 06:42:35 Content still empty after HTML reader: https://www.hltv.org/news/39467/sangal-take-down-fnatic-to-bag-cct-s2-europe-series-6-title
-2024/07/29 06:42:35 Content still empty after HTML reader: https://www.hltv.org/news/39465/3dmax-trounce-the-mongolz-to-win-skyesports-championship
-2024/07/29 06:42:35 Content still empty after HTML reader: https://www.hltv.org/news/39464/karrigan-we-lack-the-killer-instinct-we-had-in-22-and-23-in-big-games
-2024/07/29 06:42:35 Content still empty after HTML reader: https://www.hltv.org/news/39462/mouz-and-spirit-among-teams-announced-for-betboom-dacha
-2024/07/29 06:42:35 Content still empty after HTML reader: https://www.hltv.org/news/39461/the-mongolz-and-3dmax-march-on-in-mumbai
-2024/07/29 06:42:35 Content still empty after HTML reader: https://www.hltv.org/news/39460/blast-premier-fall-groups-fantasy-set-to-start
-2024/07/29 06:42:35 Content still empty after HTML reader: https://www.hltv.org/news/39459/atox-bench-zesta
-2024/07/29 06:42:35 Content still empty after HTML reader: https://www.hltv.org/news/39458/aurora-and-eternal-fire-top-groups-at-skyesports-championship
-2024/07/29 06:42:35 Fetched posts from https://www.hltv.org/rss/news, took 400.604902ms
-2024/07/29 06:42:36 Fetched posts from https://vlr.gg/rss, took 959.505315ms
-2024/07/29 06:42:36 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.465372718s
-2024/07/29 06:42:37 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.289814067s
-2024/07/29 06:42:38 Fetched posts from https://blogtienao.com/feed, took 3.50895972s
-2024/07/29 06:42:52 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.685448583s
-2024/07/29 06:42:52 Skipping writing post, no content: https://www.hltv.org/news/39437/short-news-week-30
-2024/07/29 06:42:52 Skipping writing post, no content: https://www.hltv.org/news/39466/mithr-twistzz-has-the-potential-to-be-one-of-the-best-igls-weve-ever-seen
-2024/07/29 06:42:52 Skipping writing post, no content: https://www.hltv.org/news/39467/sangal-take-down-fnatic-to-bag-cct-s2-europe-series-6-title
-2024/07/29 06:42:52 Skipping writing post, no content: https://www.hltv.org/news/39465/3dmax-trounce-the-mongolz-to-win-skyesports-championship
-2024/07/29 06:42:52 Skipping writing post, no content: https://www.hltv.org/news/39464/karrigan-we-lack-the-killer-instinct-we-had-in-22-and-23-in-big-games
-2024/07/29 06:42:52 Skipping writing post, no content: https://www.hltv.org/news/39462/mouz-and-spirit-among-teams-announced-for-betboom-dacha
-2024/07/29 06:42:52 Skipping writing post, no content: https://www.hltv.org/news/39461/the-mongolz-and-3dmax-march-on-in-mumbai
-2024/07/29 06:42:52 Skipping writing post, no content: https://www.hltv.org/news/39460/blast-premier-fall-groups-fantasy-set-to-start
-2024/07/29 06:42:52 Skipping writing post, no content: https://www.hltv.org/news/39459/atox-bench-zesta
-2024/07/29 06:42:52 Skipping writing post, no content: https://www.hltv.org/news/39458/aurora-and-eternal-fire-top-groups-at-skyesports-championship
-2024/07/29 06:42:52 Templated 79 posts, took 12.494539ms
+2024/07/29 06:54:39 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 67.235448ms
+2024/07/29 06:54:39 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/29 06:54:39 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 130.609501ms
+2024/07/29 06:54:39 Content still empty after HTML reader: https://www.hltv.org/news/39437/short-news-week-30
+2024/07/29 06:54:39 Content still empty after HTML reader: https://www.hltv.org/news/39466/mithr-twistzz-has-the-potential-to-be-one-of-the-best-igls-weve-ever-seen
+2024/07/29 06:54:39 Content still empty after HTML reader: https://www.hltv.org/news/39467/sangal-take-down-fnatic-to-bag-cct-s2-europe-series-6-title
+2024/07/29 06:54:39 Content still empty after HTML reader: https://www.hltv.org/news/39465/3dmax-trounce-the-mongolz-to-win-skyesports-championship
+2024/07/29 06:54:39 Content still empty after HTML reader: https://www.hltv.org/news/39464/karrigan-we-lack-the-killer-instinct-we-had-in-22-and-23-in-big-games
+2024/07/29 06:54:39 Content still empty after HTML reader: https://www.hltv.org/news/39462/mouz-and-spirit-among-teams-announced-for-betboom-dacha
+2024/07/29 06:54:39 Content still empty after HTML reader: https://www.hltv.org/news/39461/the-mongolz-and-3dmax-march-on-in-mumbai
+2024/07/29 06:54:39 Content still empty after HTML reader: https://www.hltv.org/news/39460/blast-premier-fall-groups-fantasy-set-to-start
+2024/07/29 06:54:39 Content still empty after HTML reader: https://www.hltv.org/news/39459/atox-bench-zesta
+2024/07/29 06:54:39 Content still empty after HTML reader: https://www.hltv.org/news/39458/aurora-and-eternal-fire-top-groups-at-skyesports-championship
+2024/07/29 06:54:39 Fetched posts from https://www.hltv.org/rss/news, took 342.390508ms
+2024/07/29 06:54:39 Fetched posts from https://vlr.gg/rss, took 398.800312ms
+2024/07/29 06:54:40 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 657.387541ms
+2024/07/29 06:54:40 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 749.569931ms
+2024/07/29 06:54:43 Fetched posts from https://blogtienao.com/feed, took 4.405846249s
+2024/07/29 06:54:57 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.414887153s
+2024/07/29 06:54:57 Skipping writing post, no content: https://www.hltv.org/news/39437/short-news-week-30
+2024/07/29 06:54:57 Skipping writing post, no content: https://www.hltv.org/news/39466/mithr-twistzz-has-the-potential-to-be-one-of-the-best-igls-weve-ever-seen
+2024/07/29 06:54:57 Skipping writing post, no content: https://www.hltv.org/news/39467/sangal-take-down-fnatic-to-bag-cct-s2-europe-series-6-title
+2024/07/29 06:54:57 Skipping writing post, no content: https://www.hltv.org/news/39465/3dmax-trounce-the-mongolz-to-win-skyesports-championship
+2024/07/29 06:54:57 Skipping writing post, no content: https://www.hltv.org/news/39464/karrigan-we-lack-the-killer-instinct-we-had-in-22-and-23-in-big-games
+2024/07/29 06:54:57 Skipping writing post, no content: https://www.hltv.org/news/39462/mouz-and-spirit-among-teams-announced-for-betboom-dacha
+2024/07/29 06:54:57 Skipping writing post, no content: https://www.hltv.org/news/39461/the-mongolz-and-3dmax-march-on-in-mumbai
+2024/07/29 06:54:57 Skipping writing post, no content: https://www.hltv.org/news/39460/blast-premier-fall-groups-fantasy-set-to-start
+2024/07/29 06:54:57 Skipping writing post, no content: https://www.hltv.org/news/39459/atox-bench-zesta
+2024/07/29 06:54:57 Skipping writing post, no content: https://www.hltv.org/news/39458/aurora-and-eternal-fire-top-groups-at-skyesports-championship
+2024/07/29 06:54:57 Templated 79 posts, took 12.447986ms
