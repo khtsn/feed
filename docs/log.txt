@@ -1,28 +1,30 @@
-2024/07/30 10:52:11 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 94.664626ms
-2024/07/30 10:52:11 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/30 10:52:11 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 193.264209ms
-2024/07/30 10:52:11 Content still empty after HTML reader: https://www.hltv.org/news/39478/live-updates-from-blast-fall-groups-day-2
-2024/07/30 10:52:11 Content still empty after HTML reader: https://www.hltv.org/news/39479/pain-qualify-for-iem-rio
-2024/07/30 10:52:11 Content still empty after HTML reader: https://www.hltv.org/news/39463/zews-interview-liquids-issues-cadians-leadership-and-future
-2024/07/30 10:52:11 Content still empty after HTML reader: https://www.hltv.org/news/39477/astralis-breeze-past-falcons-in-seasonal-debut
-2024/07/30 10:52:11 Content still empty after HTML reader: https://www.hltv.org/news/39468/live-updates-from-blast-fall-groups-day-1
-2024/07/30 10:52:11 Content still empty after HTML reader: https://www.hltv.org/news/39472/short-news-week-31
-2024/07/30 10:52:11 Content still empty after HTML reader: https://www.hltv.org/news/39475/vitality-edge-past-new-look-gamerlegion-in-blast-groups-opener
-2024/07/30 10:52:11 Content still empty after HTML reader: https://www.hltv.org/news/39474/sinners-confirm-majky-and-moriisko-additions
-2024/07/30 10:52:11 Content still empty after HTML reader: https://www.hltv.org/news/39473/degster-less-heroic-stun-complexity-at-blast
-2024/07/30 10:52:11 Fetched posts from https://www.hltv.org/rss/news, took 427.842735ms
-2024/07/30 10:52:11 Fetched posts from https://vlr.gg/rss, took 457.35606ms
-2024/07/30 10:52:12 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 783.188087ms
-2024/07/30 10:52:12 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.157508717s
-2024/07/30 10:52:16 Fetched posts from https://blogtienao.com/feed, took 5.370697006s
-2024/07/30 10:52:30 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.086331607s
-2024/07/30 10:52:30 Skipping writing post, no content: https://www.hltv.org/news/39478/live-updates-from-blast-fall-groups-day-2
-2024/07/30 10:52:30 Skipping writing post, no content: https://www.hltv.org/news/39479/pain-qualify-for-iem-rio
-2024/07/30 10:52:30 Skipping writing post, no content: https://www.hltv.org/news/39463/zews-interview-liquids-issues-cadians-leadership-and-future
-2024/07/30 10:52:30 Skipping writing post, no content: https://www.hltv.org/news/39477/astralis-breeze-past-falcons-in-seasonal-debut
-2024/07/30 10:52:30 Skipping writing post, no content: https://www.hltv.org/news/39468/live-updates-from-blast-fall-groups-day-1
-2024/07/30 10:52:30 Skipping writing post, no content: https://www.hltv.org/news/39472/short-news-week-31
-2024/07/30 10:52:30 Skipping writing post, no content: https://www.hltv.org/news/39475/vitality-edge-past-new-look-gamerlegion-in-blast-groups-opener
-2024/07/30 10:52:30 Skipping writing post, no content: https://www.hltv.org/news/39474/sinners-confirm-majky-and-moriisko-additions
-2024/07/30 10:52:30 Skipping writing post, no content: https://www.hltv.org/news/39473/degster-less-heroic-stun-complexity-at-blast
-2024/07/30 10:52:30 Templated 85 posts, took 13.423115ms
+2024/07/30 11:16:08 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 198.611626ms
+2024/07/30 11:16:08 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/30 11:16:08 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 210.868836ms
+2024/07/30 11:16:08 Content still empty after HTML reader: https://www.hltv.org/news/39478/live-updates-from-blast-fall-groups-day-2
+2024/07/30 11:16:08 Content still empty after HTML reader: https://www.hltv.org/news/39479/pain-qualify-for-iem-rio
+2024/07/30 11:16:08 Content still empty after HTML reader: https://www.hltv.org/news/39463/zews-interview-liquids-issues-cadians-leadership-and-future
+2024/07/30 11:16:08 Content still empty after HTML reader: https://www.hltv.org/news/39477/astralis-breeze-past-falcons-in-seasonal-debut
+2024/07/30 11:16:08 Content still empty after HTML reader: https://www.hltv.org/news/39468/live-updates-from-blast-fall-groups-day-1
+2024/07/30 11:16:08 Content still empty after HTML reader: https://www.hltv.org/news/39472/short-news-week-31
+2024/07/30 11:16:08 Content still empty after HTML reader: https://www.hltv.org/news/39476/esl-challenger-atlanta-invites-revealed
+2024/07/30 11:16:08 Content still empty after HTML reader: https://www.hltv.org/news/39475/vitality-edge-past-new-look-gamerlegion-in-blast-groups-opener
+2024/07/30 11:16:08 Content still empty after HTML reader: https://www.hltv.org/news/39474/sinners-confirm-majky-and-moriisko-additions
+2024/07/30 11:16:08 Content still empty after HTML reader: https://www.hltv.org/news/39473/degster-less-heroic-stun-complexity-at-blast
+2024/07/30 11:16:08 Fetched posts from https://www.hltv.org/rss/news, took 437.787451ms
+2024/07/30 11:16:08 Fetched posts from https://vlr.gg/rss, took 613.289102ms
+2024/07/30 11:16:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.103083894s
+2024/07/30 11:16:09 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.17843678s
+2024/07/30 11:16:12 Fetched posts from https://blogtienao.com/feed, took 3.999521226s
+2024/07/30 11:16:29 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.977148859s
+2024/07/30 11:16:29 Skipping writing post, no content: https://www.hltv.org/news/39478/live-updates-from-blast-fall-groups-day-2
+2024/07/30 11:16:29 Skipping writing post, no content: https://www.hltv.org/news/39479/pain-qualify-for-iem-rio
+2024/07/30 11:16:29 Skipping writing post, no content: https://www.hltv.org/news/39463/zews-interview-liquids-issues-cadians-leadership-and-future
+2024/07/30 11:16:29 Skipping writing post, no content: https://www.hltv.org/news/39477/astralis-breeze-past-falcons-in-seasonal-debut
+2024/07/30 11:16:29 Skipping writing post, no content: https://www.hltv.org/news/39468/live-updates-from-blast-fall-groups-day-1
+2024/07/30 11:16:29 Skipping writing post, no content: https://www.hltv.org/news/39472/short-news-week-31
+2024/07/30 11:16:29 Skipping writing post, no content: https://www.hltv.org/news/39476/esl-challenger-atlanta-invites-revealed
+2024/07/30 11:16:29 Skipping writing post, no content: https://www.hltv.org/news/39475/vitality-edge-past-new-look-gamerlegion-in-blast-groups-opener
+2024/07/30 11:16:29 Skipping writing post, no content: https://www.hltv.org/news/39474/sinners-confirm-majky-and-moriisko-additions
+2024/07/30 11:16:29 Skipping writing post, no content: https://www.hltv.org/news/39473/degster-less-heroic-stun-complexity-at-blast
+2024/07/30 11:16:29 Templated 85 posts, took 13.700425ms
