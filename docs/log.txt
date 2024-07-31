@@ -1,30 +1,32 @@
-2024/07/31 22:52:16 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/31 22:52:16 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 214.891159ms
-2024/07/31 22:52:16 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 232.942509ms
-2024/07/31 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39472/short-news-week-31
-2024/07/31 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39492/liquid-wallop-vp-in-debut-with-new-roster
-2024/07/31 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39486/live-updates-from-blast-fall-groups-day-3
-2024/07/31 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39491/jl-now-we-know-what-can-happen-after-winning-a-trophy-so-were-trying-to-avoid-it
-2024/07/31 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39490/jks-if-ultimate-continues-on-the-path-that-he-is-going-he-will-be-one-of-the-best-players
-2024/07/31 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39489/faze-inch-past-new-cloud9-in-overtime
-2024/07/31 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39488/amkal-settle-on-topo-to-replace-icy
-2024/07/31 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39487/twistzz-liquid-has-given-me-a-lot-of-trust-and-believed-in-the-scouting-that-ive-done
-2024/07/31 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39485/falcons-hot-starts-send-gamerlegion-home
-2024/07/31 22:52:17 Content still empty after HTML reader: https://www.hltv.org/news/39484/red-canids-transfer-list-hardzao
-2024/07/31 22:52:17 Fetched posts from https://www.hltv.org/rss/news, took 1.077290182s
-2024/07/31 22:52:17 Fetched posts from https://vlr.gg/rss, took 1.13530327s
-2024/07/31 22:52:17 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.279927259s
-2024/07/31 22:52:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.314836279s
-2024/07/31 22:52:20 Fetched posts from https://blogtienao.com/feed, took 3.652973641s
-2024/07/31 22:52:32 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.725183069s
-2024/07/31 22:52:32 Skipping writing post, no content: https://www.hltv.org/news/39472/short-news-week-31
-2024/07/31 22:52:32 Skipping writing post, no content: https://www.hltv.org/news/39492/liquid-wallop-vp-in-debut-with-new-roster
-2024/07/31 22:52:32 Skipping writing post, no content: https://www.hltv.org/news/39486/live-updates-from-blast-fall-groups-day-3
-2024/07/31 22:52:32 Skipping writing post, no content: https://www.hltv.org/news/39491/jl-now-we-know-what-can-happen-after-winning-a-trophy-so-were-trying-to-avoid-it
-2024/07/31 22:52:32 Skipping writing post, no content: https://www.hltv.org/news/39490/jks-if-ultimate-continues-on-the-path-that-he-is-going-he-will-be-one-of-the-best-players
-2024/07/31 22:52:32 Skipping writing post, no content: https://www.hltv.org/news/39489/faze-inch-past-new-cloud9-in-overtime
-2024/07/31 22:52:32 Skipping writing post, no content: https://www.hltv.org/news/39488/amkal-settle-on-topo-to-replace-icy
-2024/07/31 22:52:32 Skipping writing post, no content: https://www.hltv.org/news/39487/twistzz-liquid-has-given-me-a-lot-of-trust-and-believed-in-the-scouting-that-ive-done
-2024/07/31 22:52:32 Skipping writing post, no content: https://www.hltv.org/news/39485/falcons-hot-starts-send-gamerlegion-home
-2024/07/31 22:52:32 Skipping writing post, no content: https://www.hltv.org/news/39484/red-canids-transfer-list-hardzao
-2024/07/31 22:52:32 Templated 77 posts, took 13.146666ms
+2024/07/31 23:17:31 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 100.627097ms
+2024/07/31 23:17:31 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/31 23:17:31 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 209.662098ms
+2024/07/31 23:17:32 Content still empty after HTML reader: https://www.hltv.org/news/39472/short-news-week-31
+2024/07/31 23:17:32 Content still empty after HTML reader: https://www.hltv.org/news/39492/liquid-wallop-vp-in-debut-with-new-roster
+2024/07/31 23:17:32 Content still empty after HTML reader: https://www.hltv.org/news/39486/live-updates-from-blast-fall-groups-day-3
+2024/07/31 23:17:32 Content still empty after HTML reader: https://www.hltv.org/news/39491/jl-now-we-know-what-can-happen-after-winning-a-trophy-so-were-trying-to-avoid-it
+2024/07/31 23:17:32 Content still empty after HTML reader: https://www.hltv.org/news/39490/jks-if-ultimate-continues-on-the-path-that-he-is-going-he-will-be-one-of-the-best-players
+2024/07/31 23:17:32 Fetched posts from https://vlr.gg/rss, took 450.948685ms
+2024/07/31 23:17:32 Content still empty after HTML reader: https://www.nytimes.com/2024/07/31/world/americas/venezuela-election-carter-center-democracy.html
+2024/07/31 23:17:32 Content still empty after HTML reader: https://www.hltv.org/news/39489/faze-inch-past-new-cloud9-in-overtime
+2024/07/31 23:17:32 Content still empty after HTML reader: https://www.hltv.org/news/39488/amkal-settle-on-topo-to-replace-icy
+2024/07/31 23:17:32 Content still empty after HTML reader: https://www.hltv.org/news/39487/twistzz-liquid-has-given-me-a-lot-of-trust-and-believed-in-the-scouting-that-ive-done
+2024/07/31 23:17:32 Content still empty after HTML reader: https://www.hltv.org/news/39485/falcons-hot-starts-send-gamerlegion-home
+2024/07/31 23:17:32 Content still empty after HTML reader: https://www.hltv.org/news/39484/red-canids-transfer-list-hardzao
+2024/07/31 23:17:32 Fetched posts from https://www.hltv.org/rss/news, took 523.004737ms
+2024/07/31 23:17:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 726.730104ms
+2024/07/31 23:17:32 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 904.481834ms
+2024/07/31 23:17:37 Fetched posts from https://blogtienao.com/feed, took 5.566729553s
+2024/07/31 23:17:51 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.815867811s
+2024/07/31 23:17:51 Skipping writing post, no content: https://www.nytimes.com/2024/07/31/world/americas/venezuela-election-carter-center-democracy.html
+2024/07/31 23:17:51 Skipping writing post, no content: https://www.hltv.org/news/39472/short-news-week-31
+2024/07/31 23:17:51 Skipping writing post, no content: https://www.hltv.org/news/39492/liquid-wallop-vp-in-debut-with-new-roster
+2024/07/31 23:17:51 Skipping writing post, no content: https://www.hltv.org/news/39486/live-updates-from-blast-fall-groups-day-3
+2024/07/31 23:17:51 Skipping writing post, no content: https://www.hltv.org/news/39491/jl-now-we-know-what-can-happen-after-winning-a-trophy-so-were-trying-to-avoid-it
+2024/07/31 23:17:51 Skipping writing post, no content: https://www.hltv.org/news/39490/jks-if-ultimate-continues-on-the-path-that-he-is-going-he-will-be-one-of-the-best-players
+2024/07/31 23:17:51 Skipping writing post, no content: https://www.hltv.org/news/39489/faze-inch-past-new-cloud9-in-overtime
+2024/07/31 23:17:51 Skipping writing post, no content: https://www.hltv.org/news/39488/amkal-settle-on-topo-to-replace-icy
+2024/07/31 23:17:51 Skipping writing post, no content: https://www.hltv.org/news/39487/twistzz-liquid-has-given-me-a-lot-of-trust-and-believed-in-the-scouting-that-ive-done
+2024/07/31 23:17:51 Skipping writing post, no content: https://www.hltv.org/news/39485/falcons-hot-starts-send-gamerlegion-home
+2024/07/31 23:17:51 Skipping writing post, no content: https://www.hltv.org/news/39484/red-canids-transfer-list-hardzao
+2024/07/31 23:17:51 Templated 78 posts, took 12.500314ms
