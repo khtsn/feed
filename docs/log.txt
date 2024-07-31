@@ -1,28 +1,30 @@
-2024/07/31 18:53:14 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 172.173297ms
-2024/07/31 18:53:14 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/07/31 18:53:14 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 190.841594ms
-2024/07/31 18:53:14 Content still empty after HTML reader: https://www.hltv.org/news/39491/jl-now-we-know-what-can-happen-after-winning-a-trophy-so-were-trying-to-avoid-it
-2024/07/31 18:53:14 Content still empty after HTML reader: https://www.hltv.org/news/39490/jks-if-ultimate-continues-on-the-path-that-he-is-going-he-will-be-one-of-the-best-players
-2024/07/31 18:53:14 Content still empty after HTML reader: https://www.hltv.org/news/39489/faze-inch-past-new-cloud9-in-overtime
-2024/07/31 18:53:14 Content still empty after HTML reader: https://www.hltv.org/news/39488/amkal-settle-on-topo-to-replace-icy
-2024/07/31 18:53:14 Content still empty after HTML reader: https://www.hltv.org/news/39487/twistzz-liquid-has-given-me-a-lot-of-trust-and-believed-in-the-scouting-that-ive-done
-2024/07/31 18:53:14 Content still empty after HTML reader: https://www.hltv.org/news/39486/live-updates-from-blast-fall-groups-day-3
-2024/07/31 18:53:14 Content still empty after HTML reader: https://www.hltv.org/news/39485/falcons-hot-starts-send-gamerlegion-home
-2024/07/31 18:53:14 Content still empty after HTML reader: https://www.hltv.org/news/39484/red-canids-transfer-list-hardzao
-2024/07/31 18:53:14 Content still empty after HTML reader: https://www.hltv.org/news/39483/perseverance-release-team-after-esl-ban
-2024/07/31 18:53:14 Fetched posts from https://www.hltv.org/rss/news, took 461.97906ms
-2024/07/31 18:53:14 Fetched posts from https://vlr.gg/rss, took 501.821659ms
-2024/07/31 18:53:14 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 596.391485ms
-2024/07/31 18:53:15 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.326769201s
-2024/07/31 18:53:19 Fetched posts from https://blogtienao.com/feed, took 5.625444903s
-2024/07/31 18:53:34 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.170604316s
-2024/07/31 18:53:34 Skipping writing post, no content: https://www.hltv.org/news/39491/jl-now-we-know-what-can-happen-after-winning-a-trophy-so-were-trying-to-avoid-it
-2024/07/31 18:53:34 Skipping writing post, no content: https://www.hltv.org/news/39490/jks-if-ultimate-continues-on-the-path-that-he-is-going-he-will-be-one-of-the-best-players
-2024/07/31 18:53:34 Skipping writing post, no content: https://www.hltv.org/news/39489/faze-inch-past-new-cloud9-in-overtime
-2024/07/31 18:53:34 Skipping writing post, no content: https://www.hltv.org/news/39488/amkal-settle-on-topo-to-replace-icy
-2024/07/31 18:53:34 Skipping writing post, no content: https://www.hltv.org/news/39487/twistzz-liquid-has-given-me-a-lot-of-trust-and-believed-in-the-scouting-that-ive-done
-2024/07/31 18:53:34 Skipping writing post, no content: https://www.hltv.org/news/39486/live-updates-from-blast-fall-groups-day-3
-2024/07/31 18:53:34 Skipping writing post, no content: https://www.hltv.org/news/39485/falcons-hot-starts-send-gamerlegion-home
-2024/07/31 18:53:34 Skipping writing post, no content: https://www.hltv.org/news/39484/red-canids-transfer-list-hardzao
-2024/07/31 18:53:34 Skipping writing post, no content: https://www.hltv.org/news/39483/perseverance-release-team-after-esl-ban
-2024/07/31 18:53:34 Templated 73 posts, took 13.197009ms
+2024/07/31 19:15:04 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 139.425604ms
+2024/07/31 19:15:04 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/07/31 19:15:04 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 202.914521ms
+2024/07/31 19:15:04 Fetched posts from https://vlr.gg/rss, took 278.084691ms
+2024/07/31 19:15:04 Content still empty after HTML reader: https://www.hltv.org/news/39472/short-news-week-31
+2024/07/31 19:15:04 Content still empty after HTML reader: https://www.hltv.org/news/39491/jl-now-we-know-what-can-happen-after-winning-a-trophy-so-were-trying-to-avoid-it
+2024/07/31 19:15:04 Content still empty after HTML reader: https://www.hltv.org/news/39490/jks-if-ultimate-continues-on-the-path-that-he-is-going-he-will-be-one-of-the-best-players
+2024/07/31 19:15:04 Content still empty after HTML reader: https://www.hltv.org/news/39489/faze-inch-past-new-cloud9-in-overtime
+2024/07/31 19:15:04 Content still empty after HTML reader: https://www.hltv.org/news/39488/amkal-settle-on-topo-to-replace-icy
+2024/07/31 19:15:04 Content still empty after HTML reader: https://www.hltv.org/news/39487/twistzz-liquid-has-given-me-a-lot-of-trust-and-believed-in-the-scouting-that-ive-done
+2024/07/31 19:15:04 Content still empty after HTML reader: https://www.hltv.org/news/39486/live-updates-from-blast-fall-groups-day-3
+2024/07/31 19:15:04 Content still empty after HTML reader: https://www.hltv.org/news/39485/falcons-hot-starts-send-gamerlegion-home
+2024/07/31 19:15:04 Content still empty after HTML reader: https://www.hltv.org/news/39484/red-canids-transfer-list-hardzao
+2024/07/31 19:15:04 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 492.466457ms
+2024/07/31 19:15:04 Content still empty after HTML reader: https://www.hltv.org/news/39483/perseverance-release-team-after-esl-ban
+2024/07/31 19:15:04 Fetched posts from https://www.hltv.org/rss/news, took 497.231036ms
+2024/07/31 19:15:04 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 714.355685ms
+2024/07/31 19:15:08 Fetched posts from https://blogtienao.com/feed, took 4.403010883s
+2024/07/31 19:15:24 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.175413711s
+2024/07/31 19:15:24 Skipping writing post, no content: https://www.hltv.org/news/39472/short-news-week-31
+2024/07/31 19:15:24 Skipping writing post, no content: https://www.hltv.org/news/39491/jl-now-we-know-what-can-happen-after-winning-a-trophy-so-were-trying-to-avoid-it
+2024/07/31 19:15:24 Skipping writing post, no content: https://www.hltv.org/news/39490/jks-if-ultimate-continues-on-the-path-that-he-is-going-he-will-be-one-of-the-best-players
+2024/07/31 19:15:24 Skipping writing post, no content: https://www.hltv.org/news/39489/faze-inch-past-new-cloud9-in-overtime
+2024/07/31 19:15:24 Skipping writing post, no content: https://www.hltv.org/news/39488/amkal-settle-on-topo-to-replace-icy
+2024/07/31 19:15:24 Skipping writing post, no content: https://www.hltv.org/news/39487/twistzz-liquid-has-given-me-a-lot-of-trust-and-believed-in-the-scouting-that-ive-done
+2024/07/31 19:15:24 Skipping writing post, no content: https://www.hltv.org/news/39486/live-updates-from-blast-fall-groups-day-3
+2024/07/31 19:15:24 Skipping writing post, no content: https://www.hltv.org/news/39485/falcons-hot-starts-send-gamerlegion-home
+2024/07/31 19:15:24 Skipping writing post, no content: https://www.hltv.org/news/39484/red-canids-transfer-list-hardzao
+2024/07/31 19:15:24 Skipping writing post, no content: https://www.hltv.org/news/39483/perseverance-release-team-after-esl-ban
+2024/07/31 19:15:24 Templated 73 posts, took 11.434637ms
