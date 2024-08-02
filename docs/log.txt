@@ -1,30 +1,30 @@
-2024/08/02 13:52:23 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 94.849279ms
-2024/08/02 13:52:24 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/02 13:52:24 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 277.79915ms
-2024/08/02 13:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39472/short-news-week-31
-2024/08/02 13:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39501/complexity-eliminate-heroic-from-fall-groups
-2024/08/02 13:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39500/navi-javelins-go-international-after-two-changes
-2024/08/02 13:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39499/talon-confirm-re-entry-into-counter-strike-with-azr-led-team
-2024/08/02 13:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39498/live-updates-from-blast-fall-groups-day-5
-2024/08/02 13:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39497/big-send-virtuspro-to-fall-showdown
-2024/08/02 13:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39493/live-updates-from-blast-fall-groups-day-4
-2024/08/02 13:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39496/liquid-move-past-navi-at-blast-groups
-2024/08/02 13:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39495/nip-send-cloud9-packing-from-blast-groups
-2024/08/02 13:52:24 Content still empty after HTML reader: https://www.hltv.org/news/39494/g2-recover-from-map-one-defeat-to-smash-faze
-2024/08/02 13:52:24 Fetched posts from https://www.hltv.org/rss/news, took 464.721796ms
-2024/08/02 13:52:24 Fetched posts from https://vlr.gg/rss, took 748.823606ms
-2024/08/02 13:52:24 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 790.29874ms
-2024/08/02 13:52:24 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 993.967286ms
-2024/08/02 13:52:28 Fetched posts from https://blogtienao.com/feed, took 4.372819121s
-2024/08/02 13:52:49 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 25.94891497s
-2024/08/02 13:52:49 Skipping writing post, no content: https://www.hltv.org/news/39472/short-news-week-31
-2024/08/02 13:52:49 Skipping writing post, no content: https://www.hltv.org/news/39501/complexity-eliminate-heroic-from-fall-groups
-2024/08/02 13:52:49 Skipping writing post, no content: https://www.hltv.org/news/39500/navi-javelins-go-international-after-two-changes
-2024/08/02 13:52:49 Skipping writing post, no content: https://www.hltv.org/news/39499/talon-confirm-re-entry-into-counter-strike-with-azr-led-team
-2024/08/02 13:52:49 Skipping writing post, no content: https://www.hltv.org/news/39498/live-updates-from-blast-fall-groups-day-5
-2024/08/02 13:52:49 Skipping writing post, no content: https://www.hltv.org/news/39497/big-send-virtuspro-to-fall-showdown
-2024/08/02 13:52:49 Skipping writing post, no content: https://www.hltv.org/news/39493/live-updates-from-blast-fall-groups-day-4
-2024/08/02 13:52:49 Skipping writing post, no content: https://www.hltv.org/news/39496/liquid-move-past-navi-at-blast-groups
-2024/08/02 13:52:49 Skipping writing post, no content: https://www.hltv.org/news/39495/nip-send-cloud9-packing-from-blast-groups
-2024/08/02 13:52:49 Skipping writing post, no content: https://www.hltv.org/news/39494/g2-recover-from-map-one-defeat-to-smash-faze
-2024/08/02 13:52:49 Templated 95 posts, took 15.936197ms
+2024/08/02 14:16:23 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/02 14:16:23 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 149.985025ms
+2024/08/02 14:16:23 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 208.374879ms
+2024/08/02 14:16:23 Content still empty after HTML reader: https://www.hltv.org/news/39472/short-news-week-31
+2024/08/02 14:16:23 Content still empty after HTML reader: https://www.hltv.org/news/39501/complexity-eliminate-heroic-from-fall-groups
+2024/08/02 14:16:23 Content still empty after HTML reader: https://www.hltv.org/news/39500/navi-javelins-go-international-after-two-changes
+2024/08/02 14:16:23 Content still empty after HTML reader: https://www.hltv.org/news/39499/talon-confirm-re-entry-into-counter-strike-with-azr-led-team
+2024/08/02 14:16:23 Content still empty after HTML reader: https://www.hltv.org/news/39498/live-updates-from-blast-fall-groups-day-5
+2024/08/02 14:16:23 Content still empty after HTML reader: https://www.hltv.org/news/39497/big-send-virtuspro-to-fall-showdown
+2024/08/02 14:16:23 Content still empty after HTML reader: https://www.hltv.org/news/39493/live-updates-from-blast-fall-groups-day-4
+2024/08/02 14:16:23 Content still empty after HTML reader: https://www.hltv.org/news/39496/liquid-move-past-navi-at-blast-groups
+2024/08/02 14:16:23 Content still empty after HTML reader: https://www.hltv.org/news/39495/nip-send-cloud9-packing-from-blast-groups
+2024/08/02 14:16:24 Content still empty after HTML reader: https://www.hltv.org/news/39494/g2-recover-from-map-one-defeat-to-smash-faze
+2024/08/02 14:16:24 Fetched posts from https://www.hltv.org/rss/news, took 585.961377ms
+2024/08/02 14:16:24 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.491645548s
+2024/08/02 14:16:25 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.623921459s
+2024/08/02 14:16:25 Fetched posts from https://vlr.gg/rss, took 1.84001637s
+2024/08/02 14:16:26 Fetched posts from https://blogtienao.com/feed, took 3.530565776s
+2024/08/02 14:16:44 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 21.547351865s
+2024/08/02 14:16:44 Skipping writing post, no content: https://www.hltv.org/news/39472/short-news-week-31
+2024/08/02 14:16:44 Skipping writing post, no content: https://www.hltv.org/news/39501/complexity-eliminate-heroic-from-fall-groups
+2024/08/02 14:16:44 Skipping writing post, no content: https://www.hltv.org/news/39500/navi-javelins-go-international-after-two-changes
+2024/08/02 14:16:44 Skipping writing post, no content: https://www.hltv.org/news/39499/talon-confirm-re-entry-into-counter-strike-with-azr-led-team
+2024/08/02 14:16:44 Skipping writing post, no content: https://www.hltv.org/news/39498/live-updates-from-blast-fall-groups-day-5
+2024/08/02 14:16:44 Skipping writing post, no content: https://www.hltv.org/news/39497/big-send-virtuspro-to-fall-showdown
+2024/08/02 14:16:44 Skipping writing post, no content: https://www.hltv.org/news/39493/live-updates-from-blast-fall-groups-day-4
+2024/08/02 14:16:44 Skipping writing post, no content: https://www.hltv.org/news/39496/liquid-move-past-navi-at-blast-groups
+2024/08/02 14:16:44 Skipping writing post, no content: https://www.hltv.org/news/39495/nip-send-cloud9-packing-from-blast-groups
+2024/08/02 14:16:44 Skipping writing post, no content: https://www.hltv.org/news/39494/g2-recover-from-map-one-defeat-to-smash-faze
+2024/08/02 14:16:44 Templated 95 posts, took 15.518006ms
