@@ -1,30 +1,34 @@
-2024/08/03 22:15:51 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/03 22:15:51 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 138.377475ms
-2024/08/03 22:15:51 Content still empty after HTML reader: https://www.hltv.org/news/39515/media-fluxo-close-in-on-kye-deal
-2024/08/03 22:15:51 Content still empty after HTML reader: https://www.hltv.org/news/39472/short-news-week-31
-2024/08/03 22:15:51 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 214.728441ms
-2024/08/03 22:15:51 Content still empty after HTML reader: https://www.hltv.org/news/39514/g2-brush-aside-nip-to-secure-blast-fall-final-spot
-2024/08/03 22:15:51 Content still empty after HTML reader: https://www.hltv.org/news/39512/vitality-best-astralis-to-reach-blast-fall-final
-2024/08/03 22:15:51 Content still empty after HTML reader: https://www.hltv.org/news/39513/ex-ence-quartet-qualify-for-elisa-masters-espoo-with-jano
-2024/08/03 22:15:51 Content still empty after HTML reader: https://www.hltv.org/news/39511/iem-cologne-2024-talent-announced
-2024/08/03 22:15:51 Content still empty after HTML reader: https://www.hltv.org/news/39510/spirit-edge-out-complexity-to-earn-fall-final-spot
-2024/08/03 22:15:51 Content still empty after HTML reader: https://www.hltv.org/news/39507/live-updates-from-blast-fall-groups-day-6
-2024/08/03 22:15:51 Content still empty after HTML reader: https://www.hltv.org/news/39509/degster-to-miss-start-of-iem-cologne
-2024/08/03 22:15:51 Content still empty after HTML reader: https://www.hltv.org/news/39508/starry-joins-tyloo
-2024/08/03 22:15:51 Fetched posts from https://www.hltv.org/rss/news, took 286.966456ms
-2024/08/03 22:15:52 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 912.807985ms
-2024/08/03 22:15:52 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 937.810943ms
-2024/08/03 22:15:52 Fetched posts from https://vlr.gg/rss, took 1.186740052s
-2024/08/03 22:15:55 Fetched posts from https://blogtienao.com/feed, took 4.18590049s
-2024/08/03 22:16:13 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.047449021s
-2024/08/03 22:16:13 Skipping writing post, no content: https://www.hltv.org/news/39515/media-fluxo-close-in-on-kye-deal
-2024/08/03 22:16:13 Skipping writing post, no content: https://www.hltv.org/news/39472/short-news-week-31
-2024/08/03 22:16:13 Skipping writing post, no content: https://www.hltv.org/news/39514/g2-brush-aside-nip-to-secure-blast-fall-final-spot
-2024/08/03 22:16:13 Skipping writing post, no content: https://www.hltv.org/news/39512/vitality-best-astralis-to-reach-blast-fall-final
-2024/08/03 22:16:13 Skipping writing post, no content: https://www.hltv.org/news/39513/ex-ence-quartet-qualify-for-elisa-masters-espoo-with-jano
-2024/08/03 22:16:13 Skipping writing post, no content: https://www.hltv.org/news/39511/iem-cologne-2024-talent-announced
-2024/08/03 22:16:13 Skipping writing post, no content: https://www.hltv.org/news/39510/spirit-edge-out-complexity-to-earn-fall-final-spot
-2024/08/03 22:16:13 Skipping writing post, no content: https://www.hltv.org/news/39507/live-updates-from-blast-fall-groups-day-6
-2024/08/03 22:16:13 Skipping writing post, no content: https://www.hltv.org/news/39509/degster-to-miss-start-of-iem-cologne
-2024/08/03 22:16:13 Skipping writing post, no content: https://www.hltv.org/news/39508/starry-joins-tyloo
-2024/08/03 22:16:13 Templated 94 posts, took 15.844225ms
+2024/08/03 22:37:21 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/03 22:37:21 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 154.877846ms
+2024/08/03 22:37:21 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 248.743054ms
+2024/08/03 22:37:21 Content still empty after HTML reader: https://www.hltv.org/news/39515/media-fluxo-close-in-on-kye-deal
+2024/08/03 22:37:21 Content still empty after HTML reader: https://www.hltv.org/news/39472/short-news-week-31
+2024/08/03 22:37:21 Content still empty after HTML reader: https://www.hltv.org/news/39514/g2-brush-aside-nip-to-secure-blast-fall-final-spot
+2024/08/03 22:37:21 Content still empty after HTML reader: https://www.hltv.org/news/39512/vitality-best-astralis-to-reach-blast-fall-final
+2024/08/03 22:37:21 Content still empty after HTML reader: https://www.hltv.org/news/39513/ex-ence-quartet-qualify-for-elisa-masters-espoo-with-jano
+2024/08/03 22:37:21 Content still empty after HTML reader: https://www.nytimes.com/2024/08/03/business/dealbook/saying-the-quiet-part-out-loud.html
+2024/08/03 22:37:21 Content still empty after HTML reader: https://www.hltv.org/news/39511/iem-cologne-2024-talent-announced
+2024/08/03 22:37:21 Content still empty after HTML reader: https://www.hltv.org/news/39510/spirit-edge-out-complexity-to-earn-fall-final-spot
+2024/08/03 22:37:21 Content still empty after HTML reader: https://www.hltv.org/news/39507/live-updates-from-blast-fall-groups-day-6
+2024/08/03 22:37:21 Content still empty after HTML reader: https://www.nytimes.com/2024/08/03/world/olympics/olympics-boxer-medal-imane-khelif-algeria.html
+2024/08/03 22:37:21 Content still empty after HTML reader: https://www.hltv.org/news/39509/degster-to-miss-start-of-iem-cologne
+2024/08/03 22:37:21 Content still empty after HTML reader: https://www.hltv.org/news/39508/starry-joins-tyloo
+2024/08/03 22:37:21 Fetched posts from https://www.hltv.org/rss/news, took 613.959473ms
+2024/08/03 22:37:22 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.142216306s
+2024/08/03 22:37:23 Fetched posts from https://vlr.gg/rss, took 2.3406045s
+2024/08/03 22:37:23 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.53966158s
+2024/08/03 22:37:24 Fetched posts from https://blogtienao.com/feed, took 3.527484038s
+2024/08/03 22:37:37 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.305037767s
+2024/08/03 22:37:37 Skipping writing post, no content: https://www.hltv.org/news/39515/media-fluxo-close-in-on-kye-deal
+2024/08/03 22:37:37 Skipping writing post, no content: https://www.hltv.org/news/39472/short-news-week-31
+2024/08/03 22:37:37 Skipping writing post, no content: https://www.hltv.org/news/39514/g2-brush-aside-nip-to-secure-blast-fall-final-spot
+2024/08/03 22:37:37 Skipping writing post, no content: https://www.nytimes.com/2024/08/03/world/olympics/olympics-boxer-medal-imane-khelif-algeria.html
+2024/08/03 22:37:37 Skipping writing post, no content: https://www.hltv.org/news/39512/vitality-best-astralis-to-reach-blast-fall-final
+2024/08/03 22:37:37 Skipping writing post, no content: https://www.hltv.org/news/39513/ex-ence-quartet-qualify-for-elisa-masters-espoo-with-jano
+2024/08/03 22:37:37 Skipping writing post, no content: https://www.hltv.org/news/39511/iem-cologne-2024-talent-announced
+2024/08/03 22:37:37 Skipping writing post, no content: https://www.hltv.org/news/39510/spirit-edge-out-complexity-to-earn-fall-final-spot
+2024/08/03 22:37:37 Skipping writing post, no content: https://www.hltv.org/news/39507/live-updates-from-blast-fall-groups-day-6
+2024/08/03 22:37:37 Skipping writing post, no content: https://www.hltv.org/news/39509/degster-to-miss-start-of-iem-cologne
+2024/08/03 22:37:37 Skipping writing post, no content: https://www.nytimes.com/2024/08/03/business/dealbook/saying-the-quiet-part-out-loud.html
+2024/08/03 22:37:37 Skipping writing post, no content: https://www.hltv.org/news/39508/starry-joins-tyloo
+2024/08/03 22:37:37 Templated 94 posts, took 15.825751ms
