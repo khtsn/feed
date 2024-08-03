@@ -1,30 +1,32 @@
-2024/08/03 08:39:09 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 103.514867ms
-2024/08/03 08:39:09 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/03 08:39:09 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 167.240223ms
-2024/08/03 08:39:09 Content still empty after HTML reader: https://www.hltv.org/news/39507/live-updates-from-blast-fall-groups-day-6
-2024/08/03 08:39:09 Content still empty after HTML reader: https://www.hltv.org/news/39505/dominant-navi-relegate-big-to-blast-showdown
-2024/08/03 08:39:09 Content still empty after HTML reader: https://www.hltv.org/news/39498/live-updates-from-blast-fall-groups-day-5
-2024/08/03 08:39:09 Content still empty after HTML reader: https://www.hltv.org/news/39504/nip-eliminate-faze-from-blast-groups
-2024/08/03 08:39:09 Content still empty after HTML reader: https://www.hltv.org/news/39503/rare-atom-qualify-for-iem-rio
-2024/08/03 08:39:09 Content still empty after HTML reader: https://www.hltv.org/news/39472/short-news-week-31
-2024/08/03 08:39:09 Content still empty after HTML reader: https://www.hltv.org/news/39502/magisk-carry-not-enough-as-astralis-send-falcons-to-showdown
-2024/08/03 08:39:09 Content still empty after HTML reader: https://www.hltv.org/news/39501/complexity-eliminate-heroic-from-fall-groups
-2024/08/03 08:39:09 Content still empty after HTML reader: https://www.hltv.org/news/39500/navi-javelins-go-international-after-two-changes
-2024/08/03 08:39:09 Content still empty after HTML reader: https://www.hltv.org/news/39499/talon-confirm-re-entry-into-counter-strike-with-azr-led-team
-2024/08/03 08:39:09 Fetched posts from https://www.hltv.org/rss/news, took 460.368531ms
-2024/08/03 08:39:10 Fetched posts from https://vlr.gg/rss, took 755.386008ms
-2024/08/03 08:39:10 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 979.331926ms
-2024/08/03 08:39:10 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.341464393s
-2024/08/03 08:39:14 Fetched posts from https://blogtienao.com/feed, took 5.342972216s
-2024/08/03 08:39:26 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.120424773s
-2024/08/03 08:39:26 Skipping writing post, no content: https://www.hltv.org/news/39507/live-updates-from-blast-fall-groups-day-6
-2024/08/03 08:39:26 Skipping writing post, no content: https://www.hltv.org/news/39505/dominant-navi-relegate-big-to-blast-showdown
-2024/08/03 08:39:26 Skipping writing post, no content: https://www.hltv.org/news/39498/live-updates-from-blast-fall-groups-day-5
-2024/08/03 08:39:26 Skipping writing post, no content: https://www.hltv.org/news/39504/nip-eliminate-faze-from-blast-groups
-2024/08/03 08:39:26 Skipping writing post, no content: https://www.hltv.org/news/39503/rare-atom-qualify-for-iem-rio
-2024/08/03 08:39:26 Skipping writing post, no content: https://www.hltv.org/news/39472/short-news-week-31
-2024/08/03 08:39:26 Skipping writing post, no content: https://www.hltv.org/news/39502/magisk-carry-not-enough-as-astralis-send-falcons-to-showdown
-2024/08/03 08:39:26 Skipping writing post, no content: https://www.hltv.org/news/39501/complexity-eliminate-heroic-from-fall-groups
-2024/08/03 08:39:26 Skipping writing post, no content: https://www.hltv.org/news/39500/navi-javelins-go-international-after-two-changes
-2024/08/03 08:39:26 Skipping writing post, no content: https://www.hltv.org/news/39499/talon-confirm-re-entry-into-counter-strike-with-azr-led-team
-2024/08/03 08:39:26 Templated 96 posts, took 14.396404ms
+2024/08/03 08:52:45 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 103.089541ms
+2024/08/03 08:52:45 Content still empty after HTML reader: https://www.hltv.org/news/39507/live-updates-from-blast-fall-groups-day-6
+2024/08/03 08:52:45 Content still empty after HTML reader: https://www.hltv.org/news/39505/dominant-navi-relegate-big-to-blast-showdown
+2024/08/03 08:52:45 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/03 08:52:45 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 344.389768ms
+2024/08/03 08:52:45 Content still empty after HTML reader: https://www.hltv.org/news/39498/live-updates-from-blast-fall-groups-day-5
+2024/08/03 08:52:45 Content still empty after HTML reader: https://www.hltv.org/news/39504/nip-eliminate-faze-from-blast-groups
+2024/08/03 08:52:45 Content still empty after HTML reader: https://www.hltv.org/news/39503/rare-atom-qualify-for-iem-rio
+2024/08/03 08:52:45 Content still empty after HTML reader: https://www.hltv.org/news/39472/short-news-week-31
+2024/08/03 08:52:45 Content still empty after HTML reader: https://www.hltv.org/news/39502/magisk-carry-not-enough-as-astralis-send-falcons-to-showdown
+2024/08/03 08:52:45 Content still empty after HTML reader: https://www.hltv.org/news/39501/complexity-eliminate-heroic-from-fall-groups
+2024/08/03 08:52:45 Content still empty after HTML reader: https://www.hltv.org/news/39500/navi-javelins-go-international-after-two-changes
+2024/08/03 08:52:45 Content still empty after HTML reader: https://www.vlr.gg/383460/kr-s-atom-opens-up-on-loss-to-drx-in-press-conference
+2024/08/03 08:52:45 Content still empty after HTML reader: https://www.hltv.org/news/39499/talon-confirm-re-entry-into-counter-strike-with-azr-led-team
+2024/08/03 08:52:45 Fetched posts from https://www.hltv.org/rss/news, took 447.592482ms
+2024/08/03 08:52:46 Fetched posts from https://vlr.gg/rss, took 767.131578ms
+2024/08/03 08:52:46 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 837.365854ms
+2024/08/03 08:52:46 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 932.321497ms
+2024/08/03 08:52:49 Fetched posts from https://blogtienao.com/feed, took 4.446870091s
+2024/08/03 08:53:04 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.922437748s
+2024/08/03 08:53:04 Skipping writing post, no content: https://www.hltv.org/news/39507/live-updates-from-blast-fall-groups-day-6
+2024/08/03 08:53:04 Skipping writing post, no content: https://www.hltv.org/news/39505/dominant-navi-relegate-big-to-blast-showdown
+2024/08/03 08:53:04 Skipping writing post, no content: https://www.hltv.org/news/39498/live-updates-from-blast-fall-groups-day-5
+2024/08/03 08:53:04 Skipping writing post, no content: https://www.hltv.org/news/39504/nip-eliminate-faze-from-blast-groups
+2024/08/03 08:53:04 Skipping writing post, no content: https://www.hltv.org/news/39503/rare-atom-qualify-for-iem-rio
+2024/08/03 08:53:04 Skipping writing post, no content: https://www.hltv.org/news/39472/short-news-week-31
+2024/08/03 08:53:04 Skipping writing post, no content: https://www.hltv.org/news/39502/magisk-carry-not-enough-as-astralis-send-falcons-to-showdown
+2024/08/03 08:53:04 Skipping writing post, no content: https://www.hltv.org/news/39501/complexity-eliminate-heroic-from-fall-groups
+2024/08/03 08:53:04 Skipping writing post, no content: https://www.hltv.org/news/39500/navi-javelins-go-international-after-two-changes
+2024/08/03 08:53:04 Skipping writing post, no content: https://www.hltv.org/news/39499/talon-confirm-re-entry-into-counter-strike-with-azr-led-team
+2024/08/03 08:53:04 Skipping writing post, no content: https://www.vlr.gg/383460/kr-s-atom-opens-up-on-loss-to-drx-in-press-conference
+2024/08/03 08:53:04 Templated 96 posts, took 16.613624ms
