@@ -1,30 +1,30 @@
-2024/08/03 15:52:17 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/03 15:52:17 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 152.222164ms
-2024/08/03 15:52:17 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 255.601642ms
-2024/08/03 15:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39511/iem-cologne-2024-talent-announced
-2024/08/03 15:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39510/spirit-edge-out-complexity-to-earn-fall-final-spot
-2024/08/03 15:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39472/short-news-week-31
-2024/08/03 15:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39507/live-updates-from-blast-fall-groups-day-6
-2024/08/03 15:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39509/degster-to-miss-start-of-iem-cologne
-2024/08/03 15:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39508/starry-joins-tyloo
-2024/08/03 15:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39505/dominant-navi-relegate-big-to-blast-showdown
-2024/08/03 15:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39498/live-updates-from-blast-fall-groups-day-5
-2024/08/03 15:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39504/nip-eliminate-faze-from-blast-groups
-2024/08/03 15:52:18 Content still empty after HTML reader: https://www.hltv.org/news/39503/rare-atom-qualify-for-iem-rio
-2024/08/03 15:52:18 Fetched posts from https://www.hltv.org/rss/news, took 1.092144866s
-2024/08/03 15:52:18 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.146375121s
-2024/08/03 15:52:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.402881637s
-2024/08/03 15:52:20 Fetched posts from https://vlr.gg/rss, took 2.390072785s
-2024/08/03 15:52:21 Fetched posts from https://blogtienao.com/feed, took 3.575870319s
-2024/08/03 15:52:37 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.456799627s
-2024/08/03 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39511/iem-cologne-2024-talent-announced
-2024/08/03 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39510/spirit-edge-out-complexity-to-earn-fall-final-spot
-2024/08/03 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39472/short-news-week-31
-2024/08/03 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39507/live-updates-from-blast-fall-groups-day-6
-2024/08/03 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39509/degster-to-miss-start-of-iem-cologne
-2024/08/03 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39508/starry-joins-tyloo
-2024/08/03 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39505/dominant-navi-relegate-big-to-blast-showdown
-2024/08/03 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39498/live-updates-from-blast-fall-groups-day-5
-2024/08/03 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39504/nip-eliminate-faze-from-blast-groups
-2024/08/03 15:52:37 Skipping writing post, no content: https://www.hltv.org/news/39503/rare-atom-qualify-for-iem-rio
-2024/08/03 15:52:37 Templated 94 posts, took 16.058999ms
+2024/08/03 16:23:24 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 89.172251ms
+2024/08/03 16:23:24 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/03 16:23:24 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 151.598981ms
+2024/08/03 16:23:24 Content still empty after HTML reader: https://www.hltv.org/news/39511/iem-cologne-2024-talent-announced
+2024/08/03 16:23:24 Content still empty after HTML reader: https://www.hltv.org/news/39510/spirit-edge-out-complexity-to-earn-fall-final-spot
+2024/08/03 16:23:24 Content still empty after HTML reader: https://www.hltv.org/news/39472/short-news-week-31
+2024/08/03 16:23:24 Content still empty after HTML reader: https://www.hltv.org/news/39507/live-updates-from-blast-fall-groups-day-6
+2024/08/03 16:23:24 Content still empty after HTML reader: https://www.hltv.org/news/39509/degster-to-miss-start-of-iem-cologne
+2024/08/03 16:23:25 Content still empty after HTML reader: https://www.hltv.org/news/39508/starry-joins-tyloo
+2024/08/03 16:23:25 Content still empty after HTML reader: https://www.hltv.org/news/39505/dominant-navi-relegate-big-to-blast-showdown
+2024/08/03 16:23:25 Content still empty after HTML reader: https://www.hltv.org/news/39498/live-updates-from-blast-fall-groups-day-5
+2024/08/03 16:23:25 Content still empty after HTML reader: https://www.hltv.org/news/39504/nip-eliminate-faze-from-blast-groups
+2024/08/03 16:23:25 Content still empty after HTML reader: https://www.hltv.org/news/39503/rare-atom-qualify-for-iem-rio
+2024/08/03 16:23:25 Fetched posts from https://www.hltv.org/rss/news, took 486.329001ms
+2024/08/03 16:23:25 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 633.499459ms
+2024/08/03 16:23:25 Fetched posts from https://vlr.gg/rss, took 974.091901ms
+2024/08/03 16:23:26 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.80856921s
+2024/08/03 16:23:29 Fetched posts from https://blogtienao.com/feed, took 4.670485601s
+2024/08/03 16:23:43 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 19.295247524s
+2024/08/03 16:23:43 Skipping writing post, no content: https://www.hltv.org/news/39511/iem-cologne-2024-talent-announced
+2024/08/03 16:23:43 Skipping writing post, no content: https://www.hltv.org/news/39510/spirit-edge-out-complexity-to-earn-fall-final-spot
+2024/08/03 16:23:43 Skipping writing post, no content: https://www.hltv.org/news/39472/short-news-week-31
+2024/08/03 16:23:43 Skipping writing post, no content: https://www.hltv.org/news/39507/live-updates-from-blast-fall-groups-day-6
+2024/08/03 16:23:43 Skipping writing post, no content: https://www.hltv.org/news/39509/degster-to-miss-start-of-iem-cologne
+2024/08/03 16:23:43 Skipping writing post, no content: https://www.hltv.org/news/39508/starry-joins-tyloo
+2024/08/03 16:23:43 Skipping writing post, no content: https://www.hltv.org/news/39505/dominant-navi-relegate-big-to-blast-showdown
+2024/08/03 16:23:43 Skipping writing post, no content: https://www.hltv.org/news/39498/live-updates-from-blast-fall-groups-day-5
+2024/08/03 16:23:43 Skipping writing post, no content: https://www.hltv.org/news/39504/nip-eliminate-faze-from-blast-groups
+2024/08/03 16:23:43 Skipping writing post, no content: https://www.hltv.org/news/39503/rare-atom-qualify-for-iem-rio
+2024/08/03 16:23:43 Templated 97 posts, took 15.932633ms
