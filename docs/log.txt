@@ -1,30 +1,32 @@
-2024/08/05 18:41:20 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/05 18:41:20 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 189.018765ms
-2024/08/05 18:41:20 Content still empty after HTML reader: https://www.hltv.org/news/39528/team-ranking-july-2024
-2024/08/05 18:41:20 Content still empty after HTML reader: https://www.hltv.org/news/39523/short-news-week-32
-2024/08/05 18:41:20 Content still empty after HTML reader: https://www.hltv.org/news/39530/3dmax-to-replace-betboom-at-iem-cologne
-2024/08/05 18:41:20 Content still empty after HTML reader: https://www.hltv.org/news/39529/oddik-qualify-for-esl-challenger-atlanta
-2024/08/05 18:41:20 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 348.524833ms
-2024/08/05 18:41:20 Content still empty after HTML reader: https://www.hltv.org/news/39527/woro2k-to-stand-in-for-heroic-at-iem-cologne
-2024/08/05 18:41:20 Content still empty after HTML reader: https://www.hltv.org/news/39526/og-sign-chr1zn
-2024/08/05 18:41:20 Content still empty after HTML reader: https://www.hltv.org/news/39525/9-pandas-qualify-for-betboom-dacha-belgrade-play-in
-2024/08/05 18:41:20 Content still empty after HTML reader: https://www.hltv.org/news/39524/iem-cologne-teams-format-schedule-talent-prizes-fantasy
-2024/08/05 18:41:20 Content still empty after HTML reader: https://www.hltv.org/news/39522/joel-banned-by-akros-anti-cheat-removed-from-bcgame-roster-amid-investigation
-2024/08/05 18:41:20 Content still empty after HTML reader: https://www.hltv.org/news/39472/short-news-week-31
-2024/08/05 18:41:20 Fetched posts from https://www.hltv.org/rss/news, took 398.12585ms
-2024/08/05 18:41:20 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 669.599132ms
-2024/08/05 18:41:21 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.419746767s
-2024/08/05 18:41:21 Fetched posts from https://vlr.gg/rss, took 2.001167819s
-2024/08/05 18:41:23 Fetched posts from https://blogtienao.com/feed, took 3.503916152s
-2024/08/05 18:41:34 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 14.426883271s
-2024/08/05 18:41:34 Skipping writing post, no content: https://www.hltv.org/news/39528/team-ranking-july-2024
-2024/08/05 18:41:34 Skipping writing post, no content: https://www.hltv.org/news/39523/short-news-week-32
-2024/08/05 18:41:34 Skipping writing post, no content: https://www.hltv.org/news/39530/3dmax-to-replace-betboom-at-iem-cologne
-2024/08/05 18:41:34 Skipping writing post, no content: https://www.hltv.org/news/39529/oddik-qualify-for-esl-challenger-atlanta
-2024/08/05 18:41:34 Skipping writing post, no content: https://www.hltv.org/news/39527/woro2k-to-stand-in-for-heroic-at-iem-cologne
-2024/08/05 18:41:34 Skipping writing post, no content: https://www.hltv.org/news/39526/og-sign-chr1zn
-2024/08/05 18:41:34 Skipping writing post, no content: https://www.hltv.org/news/39525/9-pandas-qualify-for-betboom-dacha-belgrade-play-in
-2024/08/05 18:41:34 Skipping writing post, no content: https://www.hltv.org/news/39524/iem-cologne-teams-format-schedule-talent-prizes-fantasy
-2024/08/05 18:41:34 Skipping writing post, no content: https://www.hltv.org/news/39522/joel-banned-by-akros-anti-cheat-removed-from-bcgame-roster-amid-investigation
-2024/08/05 18:41:34 Skipping writing post, no content: https://www.hltv.org/news/39472/short-news-week-31
-2024/08/05 18:41:34 Templated 90 posts, took 14.369303ms
+2024/08/05 18:53:17 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 113.293237ms
+2024/08/05 18:53:17 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/05 18:53:17 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 231.551054ms
+2024/08/05 18:53:17 Content still empty after HTML reader: https://www.hltv.org/news/39528/team-ranking-july-2024
+2024/08/05 18:53:17 Content still empty after HTML reader: https://www.hltv.org/news/39523/short-news-week-32
+2024/08/05 18:53:17 Content still empty after HTML reader: https://www.hltv.org/news/39530/3dmax-to-replace-betboom-at-iem-cologne
+2024/08/05 18:53:17 Content still empty after HTML reader: https://www.hltv.org/news/39529/oddik-qualify-for-esl-challenger-atlanta
+2024/08/05 18:53:17 Content still empty after HTML reader: https://www.hltv.org/news/39527/woro2k-to-stand-in-for-heroic-at-iem-cologne
+2024/08/05 18:53:17 Content still empty after HTML reader: https://www.hltv.org/news/39526/og-sign-chr1zn
+2024/08/05 18:53:17 Content still empty after HTML reader: https://www.hltv.org/news/39525/9-pandas-qualify-for-betboom-dacha-belgrade-play-in
+2024/08/05 18:53:17 Content still empty after HTML reader: https://www.hltv.org/news/39524/iem-cologne-teams-format-schedule-talent-prizes-fantasy
+2024/08/05 18:53:17 Content still empty after HTML reader: https://www.hltv.org/news/39522/joel-banned-by-akros-anti-cheat-removed-from-bcgame-roster-amid-investigation
+2024/08/05 18:53:17 Content still empty after HTML reader: https://www.vlr.gg/384609/g2-esports-walk-over-paper-rex-with-2-0-win
+2024/08/05 18:53:17 Content still empty after HTML reader: https://www.hltv.org/news/39472/short-news-week-31
+2024/08/05 18:53:17 Fetched posts from https://www.hltv.org/rss/news, took 473.257141ms
+2024/08/05 18:53:17 Fetched posts from https://vlr.gg/rss, took 778.272843ms
+2024/08/05 18:53:17 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 819.935233ms
+2024/08/05 18:53:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 823.931573ms
+2024/08/05 18:53:21 Fetched posts from https://blogtienao.com/feed, took 4.377245337s
+2024/08/05 18:53:33 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.215203834s
+2024/08/05 18:53:33 Skipping writing post, no content: https://www.hltv.org/news/39528/team-ranking-july-2024
+2024/08/05 18:53:33 Skipping writing post, no content: https://www.hltv.org/news/39523/short-news-week-32
+2024/08/05 18:53:33 Skipping writing post, no content: https://www.hltv.org/news/39530/3dmax-to-replace-betboom-at-iem-cologne
+2024/08/05 18:53:33 Skipping writing post, no content: https://www.hltv.org/news/39529/oddik-qualify-for-esl-challenger-atlanta
+2024/08/05 18:53:33 Skipping writing post, no content: https://www.hltv.org/news/39527/woro2k-to-stand-in-for-heroic-at-iem-cologne
+2024/08/05 18:53:33 Skipping writing post, no content: https://www.hltv.org/news/39526/og-sign-chr1zn
+2024/08/05 18:53:33 Skipping writing post, no content: https://www.hltv.org/news/39525/9-pandas-qualify-for-betboom-dacha-belgrade-play-in
+2024/08/05 18:53:33 Skipping writing post, no content: https://www.hltv.org/news/39524/iem-cologne-teams-format-schedule-talent-prizes-fantasy
+2024/08/05 18:53:33 Skipping writing post, no content: https://www.hltv.org/news/39522/joel-banned-by-akros-anti-cheat-removed-from-bcgame-roster-amid-investigation
+2024/08/05 18:53:33 Skipping writing post, no content: https://www.hltv.org/news/39472/short-news-week-31
+2024/08/05 18:53:33 Skipping writing post, no content: https://www.vlr.gg/384609/g2-esports-walk-over-paper-rex-with-2-0-win
+2024/08/05 18:53:33 Templated 90 posts, took 14.711435ms
