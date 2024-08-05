@@ -1,30 +1,32 @@
-2024/08/05 08:40:56 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 220.571152ms
-2024/08/05 08:40:56 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/05 08:40:56 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 267.840947ms
-2024/08/05 08:40:56 Content still empty after HTML reader: https://www.hltv.org/news/39523/short-news-week-32
-2024/08/05 08:40:56 Content still empty after HTML reader: https://www.hltv.org/news/39522/joel-banned-by-akros-anti-cheat-removed-from-bcgame-roster-amid-investigation
-2024/08/05 08:40:56 Content still empty after HTML reader: https://www.hltv.org/news/39472/short-news-week-31
-2024/08/05 08:40:56 Content still empty after HTML reader: https://www.hltv.org/news/39518/live-updates-from-blast-fall-groups-day-7
-2024/08/05 08:40:56 Content still empty after HTML reader: https://www.hltv.org/news/39521/navi-lock-down-sixth-blast-fall-final-spot
-2024/08/05 08:40:56 Content still empty after HTML reader: https://www.hltv.org/news/39519/blast-analysis-and-cologne-preview-on-hltv-confirmed-with-pita
-2024/08/05 08:40:56 Content still empty after HTML reader: https://www.hltv.org/news/39520/astralis-demolish-nip-to-qualify-for-fall-final
-2024/08/05 08:40:56 Content still empty after HTML reader: https://www.hltv.org/news/39516/liquid-move-on-to-fall-final-at-navis-expense
-2024/08/05 08:40:56 Content still empty after HTML reader: https://www.hltv.org/news/39507/live-updates-from-blast-fall-groups-day-6
-2024/08/05 08:40:56 Content still empty after HTML reader: https://www.hltv.org/news/39515/media-fluxo-close-in-on-kye-deal
-2024/08/05 08:40:56 Fetched posts from https://www.hltv.org/rss/news, took 389.534169ms
-2024/08/05 08:40:57 Fetched posts from https://vlr.gg/rss, took 1.107685195s
-2024/08/05 08:40:57 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.145665781s
-2024/08/05 08:40:57 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.592048517s
-2024/08/05 08:41:01 Fetched posts from https://blogtienao.com/feed, took 5.122165448s
-2024/08/05 08:41:12 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.744755844s
-2024/08/05 08:41:12 Skipping writing post, no content: https://www.hltv.org/news/39523/short-news-week-32
-2024/08/05 08:41:12 Skipping writing post, no content: https://www.hltv.org/news/39522/joel-banned-by-akros-anti-cheat-removed-from-bcgame-roster-amid-investigation
-2024/08/05 08:41:12 Skipping writing post, no content: https://www.hltv.org/news/39472/short-news-week-31
-2024/08/05 08:41:12 Skipping writing post, no content: https://www.hltv.org/news/39518/live-updates-from-blast-fall-groups-day-7
-2024/08/05 08:41:12 Skipping writing post, no content: https://www.hltv.org/news/39521/navi-lock-down-sixth-blast-fall-final-spot
-2024/08/05 08:41:12 Skipping writing post, no content: https://www.hltv.org/news/39519/blast-analysis-and-cologne-preview-on-hltv-confirmed-with-pita
-2024/08/05 08:41:12 Skipping writing post, no content: https://www.hltv.org/news/39520/astralis-demolish-nip-to-qualify-for-fall-final
-2024/08/05 08:41:12 Skipping writing post, no content: https://www.hltv.org/news/39516/liquid-move-on-to-fall-final-at-navis-expense
-2024/08/05 08:41:12 Skipping writing post, no content: https://www.hltv.org/news/39507/live-updates-from-blast-fall-groups-day-6
-2024/08/05 08:41:12 Skipping writing post, no content: https://www.hltv.org/news/39515/media-fluxo-close-in-on-kye-deal
-2024/08/05 08:41:12 Templated 93 posts, took 14.899558ms
+2024/08/05 08:52:57 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/05 08:52:57 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 136.409777ms
+2024/08/05 08:52:57 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 178.910422ms
+2024/08/05 08:52:58 Content still empty after HTML reader: https://www.hltv.org/news/39523/short-news-week-32
+2024/08/05 08:52:58 Content still empty after HTML reader: https://www.hltv.org/news/39522/joel-banned-by-akros-anti-cheat-removed-from-bcgame-roster-amid-investigation
+2024/08/05 08:52:58 Content still empty after HTML reader: https://www.nytimes.com/2024/08/04/world/europe/russia-undercover-prisoner-swap.html
+2024/08/05 08:52:58 Content still empty after HTML reader: https://www.hltv.org/news/39472/short-news-week-31
+2024/08/05 08:52:58 Content still empty after HTML reader: https://www.hltv.org/news/39518/live-updates-from-blast-fall-groups-day-7
+2024/08/05 08:52:58 Content still empty after HTML reader: https://www.hltv.org/news/39521/navi-lock-down-sixth-blast-fall-final-spot
+2024/08/05 08:52:58 Content still empty after HTML reader: https://www.hltv.org/news/39519/blast-analysis-and-cologne-preview-on-hltv-confirmed-with-pita
+2024/08/05 08:52:58 Content still empty after HTML reader: https://www.hltv.org/news/39520/astralis-demolish-nip-to-qualify-for-fall-final
+2024/08/05 08:52:58 Content still empty after HTML reader: https://www.hltv.org/news/39516/liquid-move-on-to-fall-final-at-navis-expense
+2024/08/05 08:52:58 Content still empty after HTML reader: https://www.hltv.org/news/39507/live-updates-from-blast-fall-groups-day-6
+2024/08/05 08:52:58 Content still empty after HTML reader: https://www.hltv.org/news/39515/media-fluxo-close-in-on-kye-deal
+2024/08/05 08:52:58 Fetched posts from https://www.hltv.org/rss/news, took 406.35034ms
+2024/08/05 08:52:58 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 755.118379ms
+2024/08/05 08:52:58 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.248580104s
+2024/08/05 08:52:59 Fetched posts from https://vlr.gg/rss, took 2.247275745s
+2024/08/05 08:53:01 Fetched posts from https://blogtienao.com/feed, took 3.344433722s
+2024/08/05 08:53:16 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.64303213s
+2024/08/05 08:53:16 Skipping writing post, no content: https://www.hltv.org/news/39523/short-news-week-32
+2024/08/05 08:53:16 Skipping writing post, no content: https://www.hltv.org/news/39522/joel-banned-by-akros-anti-cheat-removed-from-bcgame-roster-amid-investigation
+2024/08/05 08:53:16 Skipping writing post, no content: https://www.hltv.org/news/39472/short-news-week-31
+2024/08/05 08:53:16 Skipping writing post, no content: https://www.nytimes.com/2024/08/04/world/europe/russia-undercover-prisoner-swap.html
+2024/08/05 08:53:16 Skipping writing post, no content: https://www.hltv.org/news/39518/live-updates-from-blast-fall-groups-day-7
+2024/08/05 08:53:16 Skipping writing post, no content: https://www.hltv.org/news/39521/navi-lock-down-sixth-blast-fall-final-spot
+2024/08/05 08:53:16 Skipping writing post, no content: https://www.hltv.org/news/39519/blast-analysis-and-cologne-preview-on-hltv-confirmed-with-pita
+2024/08/05 08:53:16 Skipping writing post, no content: https://www.hltv.org/news/39520/astralis-demolish-nip-to-qualify-for-fall-final
+2024/08/05 08:53:16 Skipping writing post, no content: https://www.hltv.org/news/39516/liquid-move-on-to-fall-final-at-navis-expense
+2024/08/05 08:53:16 Skipping writing post, no content: https://www.hltv.org/news/39507/live-updates-from-blast-fall-groups-day-6
+2024/08/05 08:53:16 Skipping writing post, no content: https://www.hltv.org/news/39515/media-fluxo-close-in-on-kye-deal
+2024/08/05 08:53:16 Templated 92 posts, took 14.364077ms
