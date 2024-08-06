@@ -1,30 +1,30 @@
-2024/08/06 13:52:59 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/06 13:52:59 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 150.224117ms
-2024/08/06 13:52:59 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 259.183093ms
-2024/08/06 13:52:59 Content still empty after HTML reader: https://www.hltv.org/news/39534/pera-cease-operations
-2024/08/06 13:52:59 Content still empty after HTML reader: https://www.hltv.org/news/39523/short-news-week-32
-2024/08/06 13:52:59 Content still empty after HTML reader: https://www.hltv.org/news/39532/as-the-keyboard-debate-continues-tournament-organizers-say-play-on
-2024/08/06 13:52:59 Content still empty after HTML reader: https://www.hltv.org/news/39531/first-look-how-did-new-teams-fare-ahead-of-iem-cologne
-2024/08/06 13:52:59 Content still empty after HTML reader: https://www.hltv.org/news/39517/editoral-hltv-writers-predict-iem-cologne-surprises-and-disappointments
-2024/08/06 13:52:59 Content still empty after HTML reader: https://www.hltv.org/news/39528/team-ranking-july-2024
-2024/08/06 13:52:59 Content still empty after HTML reader: https://www.hltv.org/news/39530/3dmax-to-replace-betboom-at-iem-cologne
-2024/08/06 13:52:59 Content still empty after HTML reader: https://www.hltv.org/news/39529/oddik-qualify-for-esl-challenger-atlanta
-2024/08/06 13:52:59 Content still empty after HTML reader: https://www.hltv.org/news/39527/woro2k-to-stand-in-for-heroic-at-iem-cologne
-2024/08/06 13:52:59 Content still empty after HTML reader: https://www.hltv.org/news/39526/og-sign-chr1zn
-2024/08/06 13:52:59 Fetched posts from https://www.hltv.org/rss/news, took 423.269829ms
-2024/08/06 13:52:59 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 734.578978ms
-2024/08/06 13:53:00 Fetched posts from https://vlr.gg/rss, took 1.754350706s
-2024/08/06 13:53:00 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.758099329s
-2024/08/06 13:53:02 Fetched posts from https://blogtienao.com/feed, took 3.61670443s
-2024/08/06 13:53:19 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 20.150873942s
-2024/08/06 13:53:19 Skipping writing post, no content: https://www.hltv.org/news/39534/pera-cease-operations
-2024/08/06 13:53:19 Skipping writing post, no content: https://www.hltv.org/news/39523/short-news-week-32
-2024/08/06 13:53:19 Skipping writing post, no content: https://www.hltv.org/news/39532/as-the-keyboard-debate-continues-tournament-organizers-say-play-on
-2024/08/06 13:53:19 Skipping writing post, no content: https://www.hltv.org/news/39531/first-look-how-did-new-teams-fare-ahead-of-iem-cologne
-2024/08/06 13:53:19 Skipping writing post, no content: https://www.hltv.org/news/39517/editoral-hltv-writers-predict-iem-cologne-surprises-and-disappointments
-2024/08/06 13:53:19 Skipping writing post, no content: https://www.hltv.org/news/39528/team-ranking-july-2024
-2024/08/06 13:53:19 Skipping writing post, no content: https://www.hltv.org/news/39530/3dmax-to-replace-betboom-at-iem-cologne
-2024/08/06 13:53:19 Skipping writing post, no content: https://www.hltv.org/news/39529/oddik-qualify-for-esl-challenger-atlanta
-2024/08/06 13:53:19 Skipping writing post, no content: https://www.hltv.org/news/39527/woro2k-to-stand-in-for-heroic-at-iem-cologne
-2024/08/06 13:53:19 Skipping writing post, no content: https://www.hltv.org/news/39526/og-sign-chr1zn
-2024/08/06 13:53:19 Templated 97 posts, took 17.127836ms
+2024/08/06 14:17:16 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 178.515205ms
+2024/08/06 14:17:16 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/06 14:17:16 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 231.63288ms
+2024/08/06 14:17:16 Content still empty after HTML reader: https://www.hltv.org/news/39534/pera-cease-operations
+2024/08/06 14:17:16 Content still empty after HTML reader: https://www.hltv.org/news/39523/short-news-week-32
+2024/08/06 14:17:16 Content still empty after HTML reader: https://www.hltv.org/news/39532/as-the-keyboard-debate-continues-tournament-organizers-say-play-on
+2024/08/06 14:17:16 Content still empty after HTML reader: https://www.hltv.org/news/39531/first-look-how-did-new-teams-fare-ahead-of-iem-cologne
+2024/08/06 14:17:16 Content still empty after HTML reader: https://www.hltv.org/news/39517/editoral-hltv-writers-predict-iem-cologne-surprises-and-disappointments
+2024/08/06 14:17:16 Content still empty after HTML reader: https://www.hltv.org/news/39528/team-ranking-july-2024
+2024/08/06 14:17:16 Content still empty after HTML reader: https://www.hltv.org/news/39530/3dmax-to-replace-betboom-at-iem-cologne
+2024/08/06 14:17:16 Content still empty after HTML reader: https://www.hltv.org/news/39529/oddik-qualify-for-esl-challenger-atlanta
+2024/08/06 14:17:16 Content still empty after HTML reader: https://www.hltv.org/news/39527/woro2k-to-stand-in-for-heroic-at-iem-cologne
+2024/08/06 14:17:16 Content still empty after HTML reader: https://www.hltv.org/news/39526/og-sign-chr1zn
+2024/08/06 14:17:16 Fetched posts from https://www.hltv.org/rss/news, took 441.883079ms
+2024/08/06 14:17:17 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 915.37809ms
+2024/08/06 14:17:17 Fetched posts from https://vlr.gg/rss, took 1.134821061s
+2024/08/06 14:17:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.242730957s
+2024/08/06 14:17:21 Fetched posts from https://blogtienao.com/feed, took 4.940273875s
+2024/08/06 14:17:46 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 30.395537867s
+2024/08/06 14:17:46 Skipping writing post, no content: https://www.hltv.org/news/39534/pera-cease-operations
+2024/08/06 14:17:46 Skipping writing post, no content: https://www.hltv.org/news/39523/short-news-week-32
+2024/08/06 14:17:46 Skipping writing post, no content: https://www.hltv.org/news/39532/as-the-keyboard-debate-continues-tournament-organizers-say-play-on
+2024/08/06 14:17:46 Skipping writing post, no content: https://www.hltv.org/news/39531/first-look-how-did-new-teams-fare-ahead-of-iem-cologne
+2024/08/06 14:17:46 Skipping writing post, no content: https://www.hltv.org/news/39517/editoral-hltv-writers-predict-iem-cologne-surprises-and-disappointments
+2024/08/06 14:17:46 Skipping writing post, no content: https://www.hltv.org/news/39528/team-ranking-july-2024
+2024/08/06 14:17:46 Skipping writing post, no content: https://www.hltv.org/news/39530/3dmax-to-replace-betboom-at-iem-cologne
+2024/08/06 14:17:46 Skipping writing post, no content: https://www.hltv.org/news/39529/oddik-qualify-for-esl-challenger-atlanta
+2024/08/06 14:17:46 Skipping writing post, no content: https://www.hltv.org/news/39527/woro2k-to-stand-in-for-heroic-at-iem-cologne
+2024/08/06 14:17:46 Skipping writing post, no content: https://www.hltv.org/news/39526/og-sign-chr1zn
+2024/08/06 14:17:46 Templated 98 posts, took 15.969267ms
