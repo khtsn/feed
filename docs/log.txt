@@ -1,30 +1,32 @@
-2024/08/07 21:39:10 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 93.991173ms
-2024/08/07 21:39:10 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/07 21:39:10 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 167.72856ms
-2024/08/07 21:39:10 Content still empty after HTML reader: https://www.hltv.org/news/39549/joel-denies-cheating-as-akros-shares-new-details-behind-the-ban
-2024/08/07 21:39:10 Content still empty after HTML reader: https://www.hltv.org/news/39548/eternal-fire-outlast-falcons-in-messy-play-in-start
-2024/08/07 21:39:10 Content still empty after HTML reader: https://www.hltv.org/news/39547/hen1-joins-red-canids
-2024/08/07 21:39:10 Content still empty after HTML reader: https://www.hltv.org/news/39523/short-news-week-32
-2024/08/07 21:39:10 Content still empty after HTML reader: https://www.hltv.org/news/39545/tabsen-you-can-see-rigon-comes-from-an-environment-that-had-a-family-vibe
-2024/08/07 21:39:10 Content still empty after HTML reader: https://www.hltv.org/news/39544/mibr-send-struggling-heroic-to-the-lower-bracket
-2024/08/07 21:39:10 Content still empty after HTML reader: https://www.hltv.org/news/39543/mutiris-today-was-just-one-win-were-happy-but-we-need-to-keep-our-feet-on-the-ground
-2024/08/07 21:39:10 Content still empty after HTML reader: https://www.hltv.org/news/39542/saw-stun-the-mongolz-in-iem-cologne-opener
-2024/08/07 21:39:10 Content still empty after HTML reader: https://www.hltv.org/news/39541/live-updates-from-iem-cologne-play-in-day-1
-2024/08/07 21:39:10 Content still empty after HTML reader: https://www.hltv.org/news/39538/can-9z-surprise-again-as-they-adjust-to-life-in-europe
-2024/08/07 21:39:10 Fetched posts from https://www.hltv.org/rss/news, took 510.114201ms
-2024/08/07 21:39:10 Fetched posts from https://vlr.gg/rss, took 614.880892ms
-2024/08/07 21:39:11 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 895.448074ms
-2024/08/07 21:39:11 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.014323826s
-2024/08/07 21:39:14 Fetched posts from https://blogtienao.com/feed, took 4.681587732s
-2024/08/07 21:39:28 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 18.183821775s
-2024/08/07 21:39:28 Skipping writing post, no content: https://www.hltv.org/news/39549/joel-denies-cheating-as-akros-shares-new-details-behind-the-ban
-2024/08/07 21:39:28 Skipping writing post, no content: https://www.hltv.org/news/39548/eternal-fire-outlast-falcons-in-messy-play-in-start
-2024/08/07 21:39:28 Skipping writing post, no content: https://www.hltv.org/news/39547/hen1-joins-red-canids
-2024/08/07 21:39:28 Skipping writing post, no content: https://www.hltv.org/news/39523/short-news-week-32
-2024/08/07 21:39:28 Skipping writing post, no content: https://www.hltv.org/news/39545/tabsen-you-can-see-rigon-comes-from-an-environment-that-had-a-family-vibe
-2024/08/07 21:39:28 Skipping writing post, no content: https://www.hltv.org/news/39544/mibr-send-struggling-heroic-to-the-lower-bracket
-2024/08/07 21:39:28 Skipping writing post, no content: https://www.hltv.org/news/39543/mutiris-today-was-just-one-win-were-happy-but-we-need-to-keep-our-feet-on-the-ground
-2024/08/07 21:39:28 Skipping writing post, no content: https://www.hltv.org/news/39542/saw-stun-the-mongolz-in-iem-cologne-opener
-2024/08/07 21:39:28 Skipping writing post, no content: https://www.hltv.org/news/39541/live-updates-from-iem-cologne-play-in-day-1
-2024/08/07 21:39:28 Skipping writing post, no content: https://www.hltv.org/news/39538/can-9z-surprise-again-as-they-adjust-to-life-in-europe
-2024/08/07 21:39:28 Templated 94 posts, took 15.54594ms
+2024/08/07 21:52:15 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/07 21:52:15 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 91.629381ms
+2024/08/07 21:52:15 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 185.535591ms
+2024/08/07 21:52:15 Content still empty after HTML reader: https://www.hltv.org/news/39549/joel-denies-cheating-as-akros-shares-new-details-behind-the-ban
+2024/08/07 21:52:15 Content still empty after HTML reader: https://www.bbc.com/vietnamese/articles/cmm223yqgdzo
+2024/08/07 21:52:15 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 708.475533ms
+2024/08/07 21:52:15 Content still empty after HTML reader: https://www.hltv.org/news/39548/eternal-fire-outlast-falcons-in-messy-play-in-start
+2024/08/07 21:52:15 Content still empty after HTML reader: https://www.hltv.org/news/39547/hen1-joins-red-canids
+2024/08/07 21:52:16 Content still empty after HTML reader: https://www.hltv.org/news/39523/short-news-week-32
+2024/08/07 21:52:16 Content still empty after HTML reader: https://www.hltv.org/news/39545/tabsen-you-can-see-rigon-comes-from-an-environment-that-had-a-family-vibe
+2024/08/07 21:52:16 Content still empty after HTML reader: https://www.hltv.org/news/39544/mibr-send-struggling-heroic-to-the-lower-bracket
+2024/08/07 21:52:16 Content still empty after HTML reader: https://www.hltv.org/news/39543/mutiris-today-was-just-one-win-were-happy-but-we-need-to-keep-our-feet-on-the-ground
+2024/08/07 21:52:16 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 767.406324ms
+2024/08/07 21:52:16 Content still empty after HTML reader: https://www.hltv.org/news/39542/saw-stun-the-mongolz-in-iem-cologne-opener
+2024/08/07 21:52:16 Content still empty after HTML reader: https://www.hltv.org/news/39541/live-updates-from-iem-cologne-play-in-day-1
+2024/08/07 21:52:16 Content still empty after HTML reader: https://www.hltv.org/news/39538/can-9z-surprise-again-as-they-adjust-to-life-in-europe
+2024/08/07 21:52:16 Fetched posts from https://www.hltv.org/rss/news, took 798.012344ms
+2024/08/07 21:52:17 Fetched posts from https://vlr.gg/rss, took 1.918804084s
+2024/08/07 21:52:18 Fetched posts from https://blogtienao.com/feed, took 3.421118268s
+2024/08/07 21:52:28 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 12.784367611s
+2024/08/07 21:52:28 Skipping writing post, no content: https://www.hltv.org/news/39549/joel-denies-cheating-as-akros-shares-new-details-behind-the-ban
+2024/08/07 21:52:28 Skipping writing post, no content: https://www.hltv.org/news/39548/eternal-fire-outlast-falcons-in-messy-play-in-start
+2024/08/07 21:52:28 Skipping writing post, no content: https://www.hltv.org/news/39547/hen1-joins-red-canids
+2024/08/07 21:52:28 Skipping writing post, no content: https://www.hltv.org/news/39523/short-news-week-32
+2024/08/07 21:52:28 Skipping writing post, no content: https://www.hltv.org/news/39545/tabsen-you-can-see-rigon-comes-from-an-environment-that-had-a-family-vibe
+2024/08/07 21:52:28 Skipping writing post, no content: https://www.hltv.org/news/39544/mibr-send-struggling-heroic-to-the-lower-bracket
+2024/08/07 21:52:28 Skipping writing post, no content: https://www.hltv.org/news/39543/mutiris-today-was-just-one-win-were-happy-but-we-need-to-keep-our-feet-on-the-ground
+2024/08/07 21:52:28 Skipping writing post, no content: https://www.hltv.org/news/39542/saw-stun-the-mongolz-in-iem-cologne-opener
+2024/08/07 21:52:28 Skipping writing post, no content: https://www.hltv.org/news/39541/live-updates-from-iem-cologne-play-in-day-1
+2024/08/07 21:52:28 Skipping writing post, no content: https://www.hltv.org/news/39538/can-9z-surprise-again-as-they-adjust-to-life-in-europe
+2024/08/07 21:52:28 Skipping writing post, no content: https://www.bbc.com/vietnamese/articles/cmm223yqgdzo
+2024/08/07 21:52:28 Templated 94 posts, took 15.593458ms
