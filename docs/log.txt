@@ -1,28 +1,30 @@
-2024/08/07 06:44:04 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 78.987457ms
-2024/08/07 06:44:04 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/07 06:44:04 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 201.146003ms
-2024/08/07 06:44:05 Content still empty after HTML reader: https://www.hltv.org/news/39538/can-9z-surprise-again-as-they-adjust-to-life-in-europe
-2024/08/07 06:44:05 Content still empty after HTML reader: https://www.hltv.org/news/39537/the-legacy-of-counter-strike-in-cologne
-2024/08/07 06:44:05 Content still empty after HTML reader: https://www.hltv.org/news/39539/sangal-secure-consecutive-titles-with-cct-s2-eu-series-7-victory
-2024/08/07 06:44:05 Content still empty after HTML reader: https://www.hltv.org/news/39523/short-news-week-32
-2024/08/07 06:44:05 Content still empty after HTML reader: https://www.hltv.org/news/39536/azr-australia-has-talented-riflers-that-dont-get-experience-overseas-talon-can-give-them-that
-2024/08/07 06:44:05 Content still empty after HTML reader: https://www.hltv.org/news/39533/six-key-talking-points-ahead-of-iem-cologne
-2024/08/07 06:44:05 Content still empty after HTML reader: https://www.hltv.org/news/39535/3dmax-replacing-betboom-spices-up-iem-cologne-play-in-fantasy
-2024/08/07 06:44:05 Content still empty after HTML reader: https://www.hltv.org/news/39534/pera-cease-operations
-2024/08/07 06:44:05 Content still empty after HTML reader: https://www.hltv.org/news/39532/as-the-keyboard-debate-continues-tournament-organizers-say-play-on
-2024/08/07 06:44:05 Fetched posts from https://www.hltv.org/rss/news, took 468.169195ms
-2024/08/07 06:44:05 Fetched posts from https://vlr.gg/rss, took 702.522982ms
-2024/08/07 06:44:05 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 844.706435ms
-2024/08/07 06:44:05 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.024422448s
-2024/08/07 06:44:09 Fetched posts from https://blogtienao.com/feed, took 4.754953172s
-2024/08/07 06:44:27 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.281705974s
-2024/08/07 06:44:27 Skipping writing post, no content: https://www.hltv.org/news/39538/can-9z-surprise-again-as-they-adjust-to-life-in-europe
-2024/08/07 06:44:27 Skipping writing post, no content: https://www.hltv.org/news/39537/the-legacy-of-counter-strike-in-cologne
-2024/08/07 06:44:27 Skipping writing post, no content: https://www.hltv.org/news/39539/sangal-secure-consecutive-titles-with-cct-s2-eu-series-7-victory
-2024/08/07 06:44:27 Skipping writing post, no content: https://www.hltv.org/news/39523/short-news-week-32
-2024/08/07 06:44:27 Skipping writing post, no content: https://www.hltv.org/news/39536/azr-australia-has-talented-riflers-that-dont-get-experience-overseas-talon-can-give-them-that
-2024/08/07 06:44:27 Skipping writing post, no content: https://www.hltv.org/news/39533/six-key-talking-points-ahead-of-iem-cologne
-2024/08/07 06:44:27 Skipping writing post, no content: https://www.hltv.org/news/39535/3dmax-replacing-betboom-spices-up-iem-cologne-play-in-fantasy
-2024/08/07 06:44:27 Skipping writing post, no content: https://www.hltv.org/news/39534/pera-cease-operations
-2024/08/07 06:44:27 Skipping writing post, no content: https://www.hltv.org/news/39532/as-the-keyboard-debate-continues-tournament-organizers-say-play-on
-2024/08/07 06:44:27 Templated 90 posts, took 14.290898ms
+2024/08/07 06:55:46 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/07 06:55:46 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 122.252728ms
+2024/08/07 06:55:46 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 214.137717ms
+2024/08/07 06:55:46 Content still empty after HTML reader: https://www.hltv.org/news/39538/can-9z-surprise-again-as-they-adjust-to-life-in-europe
+2024/08/07 06:55:46 Content still empty after HTML reader: https://www.hltv.org/news/39540/final-valve-ranking-update-issued-ahead-of-shanghai-major-rmr-qualifier-invites
+2024/08/07 06:55:46 Content still empty after HTML reader: https://www.hltv.org/news/39537/the-legacy-of-counter-strike-in-cologne
+2024/08/07 06:55:46 Content still empty after HTML reader: https://www.hltv.org/news/39539/sangal-secure-consecutive-titles-with-cct-s2-eu-series-7-victory
+2024/08/07 06:55:47 Content still empty after HTML reader: https://www.hltv.org/news/39523/short-news-week-32
+2024/08/07 06:55:47 Content still empty after HTML reader: https://www.hltv.org/news/39536/azr-australia-has-talented-riflers-that-dont-get-experience-overseas-talon-can-give-them-that
+2024/08/07 06:55:47 Content still empty after HTML reader: https://www.hltv.org/news/39533/six-key-talking-points-ahead-of-iem-cologne
+2024/08/07 06:55:47 Content still empty after HTML reader: https://www.hltv.org/news/39535/3dmax-replacing-betboom-spices-up-iem-cologne-play-in-fantasy
+2024/08/07 06:55:47 Content still empty after HTML reader: https://www.hltv.org/news/39534/pera-cease-operations
+2024/08/07 06:55:47 Content still empty after HTML reader: https://www.hltv.org/news/39532/as-the-keyboard-debate-continues-tournament-organizers-say-play-on
+2024/08/07 06:55:47 Fetched posts from https://www.hltv.org/rss/news, took 366.404874ms
+2024/08/07 06:55:47 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 692.618225ms
+2024/08/07 06:55:47 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 733.313499ms
+2024/08/07 06:55:48 Fetched posts from https://vlr.gg/rss, took 1.449055151s
+2024/08/07 06:55:50 Fetched posts from https://blogtienao.com/feed, took 3.755947106s
+2024/08/07 06:56:08 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 22.027057921s
+2024/08/07 06:56:08 Skipping writing post, no content: https://www.hltv.org/news/39538/can-9z-surprise-again-as-they-adjust-to-life-in-europe
+2024/08/07 06:56:08 Skipping writing post, no content: https://www.hltv.org/news/39540/final-valve-ranking-update-issued-ahead-of-shanghai-major-rmr-qualifier-invites
+2024/08/07 06:56:08 Skipping writing post, no content: https://www.hltv.org/news/39537/the-legacy-of-counter-strike-in-cologne
+2024/08/07 06:56:08 Skipping writing post, no content: https://www.hltv.org/news/39539/sangal-secure-consecutive-titles-with-cct-s2-eu-series-7-victory
+2024/08/07 06:56:08 Skipping writing post, no content: https://www.hltv.org/news/39523/short-news-week-32
+2024/08/07 06:56:08 Skipping writing post, no content: https://www.hltv.org/news/39536/azr-australia-has-talented-riflers-that-dont-get-experience-overseas-talon-can-give-them-that
+2024/08/07 06:56:08 Skipping writing post, no content: https://www.hltv.org/news/39533/six-key-talking-points-ahead-of-iem-cologne
+2024/08/07 06:56:08 Skipping writing post, no content: https://www.hltv.org/news/39535/3dmax-replacing-betboom-spices-up-iem-cologne-play-in-fantasy
+2024/08/07 06:56:08 Skipping writing post, no content: https://www.hltv.org/news/39534/pera-cease-operations
+2024/08/07 06:56:08 Skipping writing post, no content: https://www.hltv.org/news/39532/as-the-keyboard-debate-continues-tournament-organizers-say-play-on
+2024/08/07 06:56:08 Templated 87 posts, took 13.768018ms
