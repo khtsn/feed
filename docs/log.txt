@@ -1,30 +1,32 @@
-2024/08/07 23:52:07 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 106.928393ms
-2024/08/07 23:52:07 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/07 23:52:07 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 142.385257ms
-2024/08/07 23:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39546/elige-we-need-to-start-becoming-that-team-that-is-at-minimum-playoffs
-2024/08/07 23:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39550/liquid-furia-claim-victory-in-final-day-one-games
-2024/08/07 23:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39549/joel-denies-cheating-as-akros-shares-new-details-behind-the-ban
-2024/08/07 23:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39541/live-updates-from-iem-cologne-play-in-day-1
-2024/08/07 23:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39548/eternal-fire-outlast-falcons-in-messy-play-in-start
-2024/08/07 23:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39547/hen1-joins-red-canids
-2024/08/07 23:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39523/short-news-week-32
-2024/08/07 23:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39545/tabsen-you-can-see-rigon-comes-from-an-environment-that-had-a-family-vibe
-2024/08/07 23:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39544/mibr-send-struggling-heroic-to-the-lower-bracket
-2024/08/07 23:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39543/mutiris-today-was-just-one-win-were-happy-but-we-need-to-keep-our-feet-on-the-ground
-2024/08/07 23:52:08 Fetched posts from https://www.hltv.org/rss/news, took 454.410102ms
-2024/08/07 23:52:08 Fetched posts from https://vlr.gg/rss, took 573.345433ms
-2024/08/07 23:52:08 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 791.146395ms
-2024/08/07 23:52:08 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 970.382485ms
-2024/08/07 23:52:13 Fetched posts from https://blogtienao.com/feed, took 5.376194469s
-2024/08/07 23:52:24 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.848839788s
-2024/08/07 23:52:24 Skipping writing post, no content: https://www.hltv.org/news/39546/elige-we-need-to-start-becoming-that-team-that-is-at-minimum-playoffs
-2024/08/07 23:52:24 Skipping writing post, no content: https://www.hltv.org/news/39550/liquid-furia-claim-victory-in-final-day-one-games
-2024/08/07 23:52:24 Skipping writing post, no content: https://www.hltv.org/news/39549/joel-denies-cheating-as-akros-shares-new-details-behind-the-ban
-2024/08/07 23:52:24 Skipping writing post, no content: https://www.hltv.org/news/39541/live-updates-from-iem-cologne-play-in-day-1
-2024/08/07 23:52:24 Skipping writing post, no content: https://www.hltv.org/news/39548/eternal-fire-outlast-falcons-in-messy-play-in-start
-2024/08/07 23:52:24 Skipping writing post, no content: https://www.hltv.org/news/39547/hen1-joins-red-canids
-2024/08/07 23:52:24 Skipping writing post, no content: https://www.hltv.org/news/39523/short-news-week-32
-2024/08/07 23:52:24 Skipping writing post, no content: https://www.hltv.org/news/39545/tabsen-you-can-see-rigon-comes-from-an-environment-that-had-a-family-vibe
-2024/08/07 23:52:24 Skipping writing post, no content: https://www.hltv.org/news/39544/mibr-send-struggling-heroic-to-the-lower-bracket
-2024/08/07 23:52:24 Skipping writing post, no content: https://www.hltv.org/news/39543/mutiris-today-was-just-one-win-were-happy-but-we-need-to-keep-our-feet-on-the-ground
-2024/08/07 23:52:24 Templated 95 posts, took 15.831106ms
+2024/08/08 01:21:16 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/08 01:21:16 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 127.66827ms
+2024/08/08 01:21:16 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 173.555068ms
+2024/08/08 01:21:16 Content still empty after HTML reader: https://www.hltv.org/news/39546/elige-we-need-to-start-becoming-that-team-that-is-at-minimum-playoffs
+2024/08/08 01:21:16 Content still empty after HTML reader: https://www.hltv.org/news/39550/liquid-furia-claim-victory-in-final-day-one-games
+2024/08/08 01:21:16 Content still empty after HTML reader: https://www.hltv.org/news/39549/joel-denies-cheating-as-akros-shares-new-details-behind-the-ban
+2024/08/08 01:21:16 Content still empty after HTML reader: https://www.hltv.org/news/39541/live-updates-from-iem-cologne-play-in-day-1
+2024/08/08 01:21:16 Content still empty after HTML reader: https://www.hltv.org/news/39548/eternal-fire-outlast-falcons-in-messy-play-in-start
+2024/08/08 01:21:16 Content still empty after HTML reader: https://www.hltv.org/news/39547/hen1-joins-red-canids
+2024/08/08 01:21:16 Content still empty after HTML reader: https://www.hltv.org/news/39523/short-news-week-32
+2024/08/08 01:21:16 Content still empty after HTML reader: https://www.hltv.org/news/39545/tabsen-you-can-see-rigon-comes-from-an-environment-that-had-a-family-vibe
+2024/08/08 01:21:16 Content still empty after HTML reader: https://www.hltv.org/news/39544/mibr-send-struggling-heroic-to-the-lower-bracket
+2024/08/08 01:21:16 Content still empty after HTML reader: https://www.vlr.gg/386395/leviat-n-coach-itopata-concedes-to-issues-against-trace-in-press-conference
+2024/08/08 01:21:16 Content still empty after HTML reader: https://www.hltv.org/news/39543/mutiris-today-was-just-one-win-were-happy-but-we-need-to-keep-our-feet-on-the-ground
+2024/08/08 01:21:16 Fetched posts from https://www.hltv.org/rss/news, took 506.105076ms
+2024/08/08 01:21:17 Fetched posts from https://vlr.gg/rss, took 931.620329ms
+2024/08/08 01:21:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.181108463s
+2024/08/08 01:21:17 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.358412579s
+2024/08/08 01:21:20 Fetched posts from https://blogtienao.com/feed, took 4.347857984s
+2024/08/08 01:21:32 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 16.416246502s
+2024/08/08 01:21:32 Skipping writing post, no content: https://www.hltv.org/news/39546/elige-we-need-to-start-becoming-that-team-that-is-at-minimum-playoffs
+2024/08/08 01:21:32 Skipping writing post, no content: https://www.hltv.org/news/39550/liquid-furia-claim-victory-in-final-day-one-games
+2024/08/08 01:21:32 Skipping writing post, no content: https://www.hltv.org/news/39549/joel-denies-cheating-as-akros-shares-new-details-behind-the-ban
+2024/08/08 01:21:32 Skipping writing post, no content: https://www.hltv.org/news/39541/live-updates-from-iem-cologne-play-in-day-1
+2024/08/08 01:21:32 Skipping writing post, no content: https://www.hltv.org/news/39548/eternal-fire-outlast-falcons-in-messy-play-in-start
+2024/08/08 01:21:32 Skipping writing post, no content: https://www.hltv.org/news/39547/hen1-joins-red-canids
+2024/08/08 01:21:32 Skipping writing post, no content: https://www.hltv.org/news/39523/short-news-week-32
+2024/08/08 01:21:32 Skipping writing post, no content: https://www.hltv.org/news/39545/tabsen-you-can-see-rigon-comes-from-an-environment-that-had-a-family-vibe
+2024/08/08 01:21:32 Skipping writing post, no content: https://www.hltv.org/news/39544/mibr-send-struggling-heroic-to-the-lower-bracket
+2024/08/08 01:21:32 Skipping writing post, no content: https://www.hltv.org/news/39543/mutiris-today-was-just-one-win-were-happy-but-we-need-to-keep-our-feet-on-the-ground
+2024/08/08 01:21:32 Skipping writing post, no content: https://www.vlr.gg/386395/leviat-n-coach-itopata-concedes-to-issues-against-trace-in-press-conference
+2024/08/08 01:21:32 Templated 96 posts, took 15.436416ms
