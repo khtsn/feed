@@ -1,28 +1,30 @@
-2024/08/09 12:35:34 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 105.561277ms
-2024/08/09 12:35:34 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/09 12:35:34 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 228.821201ms
-2024/08/09 12:35:34 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 661.723204ms
-2024/08/09 12:35:34 Content still empty after HTML reader: https://www.hltv.org/news/39565/live-updates-from-iem-cologne-play-in-day-3
-2024/08/09 12:35:34 Content still empty after HTML reader: https://www.hltv.org/news/39523/short-news-week-32
-2024/08/09 12:35:34 Content still empty after HTML reader: https://www.hltv.org/news/39564/perfect-world-announce-rmr-and-qualifier-invites
-2024/08/09 12:35:34 Content still empty after HTML reader: https://www.hltv.org/news/39563/latest-cs2-update-causes-further-boosting-issues
-2024/08/09 12:35:34 Content still empty after HTML reader: https://www.hltv.org/news/39560/twistzz-on-ultimate-the-sky-is-the-limit-for-him
-2024/08/09 12:35:34 Content still empty after HTML reader: https://www.hltv.org/news/39561/jackinho-steps-back-from-metizport
-2024/08/09 12:35:34 Content still empty after HTML reader: https://www.hltv.org/news/39562/elige-powers-col-to-group-stage-falcons-limp-on
-2024/08/09 12:35:35 Content still empty after HTML reader: https://www.hltv.org/news/39554/live-updates-from-iem-cologne-play-in-day-2
-2024/08/09 12:35:35 Content still empty after HTML reader: https://www.hltv.org/news/39558/liquid-beat-furia-to-make-cologne-group-stage
-2024/08/09 12:35:35 Fetched posts from https://www.hltv.org/rss/news, took 835.771816ms
-2024/08/09 12:35:35 Fetched posts from https://vlr.gg/rss, took 1.015133013s
-2024/08/09 12:35:35 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.05323768s
-2024/08/09 12:35:39 Fetched posts from https://blogtienao.com/feed, took 5.001414989s
-2024/08/09 12:36:07 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 33.36625305s
-2024/08/09 12:36:07 Skipping writing post, no content: https://www.hltv.org/news/39565/live-updates-from-iem-cologne-play-in-day-3
-2024/08/09 12:36:07 Skipping writing post, no content: https://www.hltv.org/news/39523/short-news-week-32
-2024/08/09 12:36:07 Skipping writing post, no content: https://www.hltv.org/news/39564/perfect-world-announce-rmr-and-qualifier-invites
-2024/08/09 12:36:07 Skipping writing post, no content: https://www.hltv.org/news/39563/latest-cs2-update-causes-further-boosting-issues
-2024/08/09 12:36:07 Skipping writing post, no content: https://www.hltv.org/news/39560/twistzz-on-ultimate-the-sky-is-the-limit-for-him
-2024/08/09 12:36:07 Skipping writing post, no content: https://www.hltv.org/news/39561/jackinho-steps-back-from-metizport
-2024/08/09 12:36:07 Skipping writing post, no content: https://www.hltv.org/news/39562/elige-powers-col-to-group-stage-falcons-limp-on
-2024/08/09 12:36:07 Skipping writing post, no content: https://www.hltv.org/news/39554/live-updates-from-iem-cologne-play-in-day-2
-2024/08/09 12:36:07 Skipping writing post, no content: https://www.hltv.org/news/39558/liquid-beat-furia-to-make-cologne-group-stage
-2024/08/09 12:36:07 Templated 99 posts, took 16.066994ms
+2024/08/09 13:01:24 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 132.958964ms
+2024/08/09 13:01:24 Content still empty after HTML reader: https://www.hltv.org/news/39565/live-updates-from-iem-cologne-play-in-day-3
+2024/08/09 13:01:24 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/09 13:01:24 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 344.618192ms
+2024/08/09 13:01:24 Content still empty after HTML reader: https://www.hltv.org/news/39523/short-news-week-32
+2024/08/09 13:01:24 Content still empty after HTML reader: https://www.hltv.org/news/39564/perfect-world-announce-rmr-and-qualifier-invites
+2024/08/09 13:01:24 Content still empty after HTML reader: https://www.hltv.org/news/39563/latest-cs2-update-causes-further-boosting-issues
+2024/08/09 13:01:24 Content still empty after HTML reader: https://www.hltv.org/news/39560/twistzz-on-ultimate-the-sky-is-the-limit-for-him
+2024/08/09 13:01:24 Content still empty after HTML reader: https://www.hltv.org/news/39561/jackinho-steps-back-from-metizport
+2024/08/09 13:01:24 Content still empty after HTML reader: https://www.hltv.org/news/39562/elige-powers-col-to-group-stage-falcons-limp-on
+2024/08/09 13:01:24 Content still empty after HTML reader: https://www.hltv.org/news/39554/live-updates-from-iem-cologne-play-in-day-2
+2024/08/09 13:01:24 Content still empty after HTML reader: https://www.hltv.org/news/39559/heroic-eliminate-3dmax-upon-degsters-return
+2024/08/09 13:01:25 Content still empty after HTML reader: https://www.hltv.org/news/39558/liquid-beat-furia-to-make-cologne-group-stage
+2024/08/09 13:01:25 Fetched posts from https://www.hltv.org/rss/news, took 468.410377ms
+2024/08/09 13:01:25 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 972.111988ms
+2024/08/09 13:01:25 Fetched posts from https://vlr.gg/rss, took 978.124855ms
+2024/08/09 13:01:25 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.090636019s
+2024/08/09 13:01:30 Fetched posts from https://blogtienao.com/feed, took 5.740335649s
+2024/08/09 13:01:50 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 26.027805051s
+2024/08/09 13:01:50 Skipping writing post, no content: https://www.hltv.org/news/39565/live-updates-from-iem-cologne-play-in-day-3
+2024/08/09 13:01:50 Skipping writing post, no content: https://www.hltv.org/news/39523/short-news-week-32
+2024/08/09 13:01:50 Skipping writing post, no content: https://www.hltv.org/news/39564/perfect-world-announce-rmr-and-qualifier-invites
+2024/08/09 13:01:50 Skipping writing post, no content: https://www.hltv.org/news/39563/latest-cs2-update-causes-further-boosting-issues
+2024/08/09 13:01:50 Skipping writing post, no content: https://www.hltv.org/news/39560/twistzz-on-ultimate-the-sky-is-the-limit-for-him
+2024/08/09 13:01:50 Skipping writing post, no content: https://www.hltv.org/news/39561/jackinho-steps-back-from-metizport
+2024/08/09 13:01:50 Skipping writing post, no content: https://www.hltv.org/news/39562/elige-powers-col-to-group-stage-falcons-limp-on
+2024/08/09 13:01:50 Skipping writing post, no content: https://www.hltv.org/news/39554/live-updates-from-iem-cologne-play-in-day-2
+2024/08/09 13:01:50 Skipping writing post, no content: https://www.hltv.org/news/39559/heroic-eliminate-3dmax-upon-degsters-return
+2024/08/09 13:01:50 Skipping writing post, no content: https://www.hltv.org/news/39558/liquid-beat-furia-to-make-cologne-group-stage
+2024/08/09 13:01:50 Templated 98 posts, took 15.64705ms
