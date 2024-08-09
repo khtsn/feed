@@ -1,32 +1,30 @@
-2024/08/09 08:52:47 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 105.832566ms
-2024/08/09 08:52:47 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/09 08:52:47 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 199.156239ms
-2024/08/09 08:52:47 Content still empty after HTML reader: https://www.hltv.org/news/39564/perfect-world-announce-rmr-and-qualifier-invites
-2024/08/09 08:52:47 Content still empty after HTML reader: https://www.hltv.org/news/39563/latest-cs2-update-causes-further-boosting-issues
-2024/08/09 08:52:47 Content still empty after HTML reader: https://www.hltv.org/news/39523/short-news-week-32
-2024/08/09 08:52:47 Content still empty after HTML reader: https://www.hltv.org/news/39560/twistzz-on-ultimate-the-sky-is-the-limit-for-him
-2024/08/09 08:52:47 Content still empty after HTML reader: https://www.nytimes.com/2024/08/08/us/crossfit-games-2024-death.html
-2024/08/09 08:52:47 Content still empty after HTML reader: https://www.hltv.org/news/39561/jackinho-steps-back-from-metizport
-2024/08/09 08:52:47 Content still empty after HTML reader: https://www.hltv.org/news/39562/elige-powers-col-to-group-stage-falcons-limp-on
-2024/08/09 08:52:47 Content still empty after HTML reader: https://www.hltv.org/news/39554/live-updates-from-iem-cologne-play-in-day-2
-2024/08/09 08:52:47 Content still empty after HTML reader: https://www.hltv.org/news/39559/heroic-eliminate-3dmax-upon-degsters-return
-2024/08/09 08:52:47 Content still empty after HTML reader: https://www.hltv.org/news/39558/liquid-beat-furia-to-make-cologne-group-stage
-2024/08/09 08:52:47 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 619.147335ms
-2024/08/09 08:52:47 Content still empty after HTML reader: https://www.hltv.org/news/39557/dexter-three-tournaments-in-a-row-its-clear-that-somethings-not-working
-2024/08/09 08:52:47 Fetched posts from https://www.hltv.org/rss/news, took 621.069804ms
-2024/08/09 08:52:48 Fetched posts from https://vlr.gg/rss, took 866.385945ms
-2024/08/09 08:52:48 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.339905252s
-2024/08/09 08:52:53 Fetched posts from https://blogtienao.com/feed, took 5.737329364s
-2024/08/09 08:53:05 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 17.931453381s
-2024/08/09 08:53:05 Skipping writing post, no content: https://www.hltv.org/news/39564/perfect-world-announce-rmr-and-qualifier-invites
-2024/08/09 08:53:05 Skipping writing post, no content: https://www.nytimes.com/2024/08/08/us/crossfit-games-2024-death.html
-2024/08/09 08:53:05 Skipping writing post, no content: https://www.hltv.org/news/39563/latest-cs2-update-causes-further-boosting-issues
-2024/08/09 08:53:05 Skipping writing post, no content: https://www.hltv.org/news/39523/short-news-week-32
-2024/08/09 08:53:05 Skipping writing post, no content: https://www.hltv.org/news/39560/twistzz-on-ultimate-the-sky-is-the-limit-for-him
-2024/08/09 08:53:05 Skipping writing post, no content: https://www.hltv.org/news/39561/jackinho-steps-back-from-metizport
-2024/08/09 08:53:05 Skipping writing post, no content: https://www.hltv.org/news/39562/elige-powers-col-to-group-stage-falcons-limp-on
-2024/08/09 08:53:05 Skipping writing post, no content: https://www.hltv.org/news/39554/live-updates-from-iem-cologne-play-in-day-2
-2024/08/09 08:53:05 Skipping writing post, no content: https://www.hltv.org/news/39559/heroic-eliminate-3dmax-upon-degsters-return
-2024/08/09 08:53:05 Skipping writing post, no content: https://www.hltv.org/news/39558/liquid-beat-furia-to-make-cologne-group-stage
-2024/08/09 08:53:05 Skipping writing post, no content: https://www.hltv.org/news/39557/dexter-three-tournaments-in-a-row-its-clear-that-somethings-not-working
-2024/08/09 08:53:05 Templated 95 posts, took 14.782545ms
+2024/08/09 09:20:50 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/09 09:20:50 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 117.123298ms
+2024/08/09 09:20:50 Fetched posts from http://rss.cnn.com/rss/cnn_topstories.rss, took 211.655286ms
+2024/08/09 09:20:50 Content still empty after HTML reader: https://www.hltv.org/news/39564/perfect-world-announce-rmr-and-qualifier-invites
+2024/08/09 09:20:50 Content still empty after HTML reader: https://www.hltv.org/news/39563/latest-cs2-update-causes-further-boosting-issues
+2024/08/09 09:20:50 Content still empty after HTML reader: https://www.hltv.org/news/39523/short-news-week-32
+2024/08/09 09:20:50 Content still empty after HTML reader: https://www.hltv.org/news/39560/twistzz-on-ultimate-the-sky-is-the-limit-for-him
+2024/08/09 09:20:50 Content still empty after HTML reader: https://www.hltv.org/news/39561/jackinho-steps-back-from-metizport
+2024/08/09 09:20:50 Content still empty after HTML reader: https://www.hltv.org/news/39562/elige-powers-col-to-group-stage-falcons-limp-on
+2024/08/09 09:20:50 Content still empty after HTML reader: https://www.hltv.org/news/39554/live-updates-from-iem-cologne-play-in-day-2
+2024/08/09 09:20:50 Content still empty after HTML reader: https://www.hltv.org/news/39559/heroic-eliminate-3dmax-upon-degsters-return
+2024/08/09 09:20:50 Content still empty after HTML reader: https://www.hltv.org/news/39558/liquid-beat-furia-to-make-cologne-group-stage
+2024/08/09 09:20:50 Content still empty after HTML reader: https://www.hltv.org/news/39557/dexter-three-tournaments-in-a-row-its-clear-that-somethings-not-working
+2024/08/09 09:20:50 Fetched posts from https://www.hltv.org/rss/news, took 431.427313ms
+2024/08/09 09:20:51 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 857.194713ms
+2024/08/09 09:20:52 Fetched posts from https://vlr.gg/rss, took 2.264059866s
+2024/08/09 09:20:54 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 4.109301184s
+2024/08/09 09:20:55 Fetched posts from https://blogtienao.com/feed, took 5.01065254s
+2024/08/09 09:21:06 Fetched posts from https://cdn.24h.com.vn/upload/rss/bongda.rss, took 15.726785681s
+2024/08/09 09:21:06 Skipping writing post, no content: https://www.hltv.org/news/39564/perfect-world-announce-rmr-and-qualifier-invites
+2024/08/09 09:21:06 Skipping writing post, no content: https://www.hltv.org/news/39563/latest-cs2-update-causes-further-boosting-issues
+2024/08/09 09:21:06 Skipping writing post, no content: https://www.hltv.org/news/39523/short-news-week-32
+2024/08/09 09:21:06 Skipping writing post, no content: https://www.hltv.org/news/39560/twistzz-on-ultimate-the-sky-is-the-limit-for-him
+2024/08/09 09:21:06 Skipping writing post, no content: https://www.hltv.org/news/39561/jackinho-steps-back-from-metizport
+2024/08/09 09:21:06 Skipping writing post, no content: https://www.hltv.org/news/39562/elige-powers-col-to-group-stage-falcons-limp-on
+2024/08/09 09:21:06 Skipping writing post, no content: https://www.hltv.org/news/39554/live-updates-from-iem-cologne-play-in-day-2
+2024/08/09 09:21:06 Skipping writing post, no content: https://www.hltv.org/news/39559/heroic-eliminate-3dmax-upon-degsters-return
+2024/08/09 09:21:06 Skipping writing post, no content: https://www.hltv.org/news/39558/liquid-beat-furia-to-make-cologne-group-stage
+2024/08/09 09:21:06 Skipping writing post, no content: https://www.hltv.org/news/39557/dexter-three-tournaments-in-a-row-its-clear-that-somethings-not-working
+2024/08/09 09:21:06 Templated 92 posts, took 14.296903ms
