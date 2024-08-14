@@ -12,7 +12,8 @@ body {
   body {
     background-color: #0f0f0f;
     color: hsl(0, 0%, 86.7%);
-    font-size: 2vw;
+    font-size: 3vh;
+    margin: auto auto;
   }
 
   a {
