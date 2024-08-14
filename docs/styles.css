@@ -24,7 +24,9 @@ h6 {
     background-color: #0f0f0f;
     color: hsl(0, 0%, 86.7%);
     font-size: 3vh;
+    max-width: 960px;
     margin: auto auto;
+    padding: 5%;
   }
 
   a {
