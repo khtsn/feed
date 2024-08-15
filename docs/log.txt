@@ -1,27 +1,29 @@
-2024/08/15 12:16:10 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/15 12:16:10 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 191.586857ms
-2024/08/15 12:16:10 Content still empty after HTML reader: https://www.hltv.org/news/39624/perfect-world-shanghai-major-europe-rmr-closed-qualifier-groups-revealed
-2024/08/15 12:16:10 Content still empty after HTML reader: https://www.hltv.org/news/39595/short-news-week-33
-2024/08/15 12:16:10 Content still empty after HTML reader: https://www.hltv.org/news/39622/ropz-people-look-at-me-like-im-s1mple-zywoo-or-donk-but-im-not
-2024/08/15 12:16:10 Content still empty after HTML reader: https://www.hltv.org/news/39620/niko-we-will-definitely-be-tested-more-in-playoffs
-2024/08/15 12:16:10 Content still empty after HTML reader: https://www.hltv.org/news/39621/mauisnake-returns-for-blast-showdown-as-schedule-announced
-2024/08/15 12:16:10 Content still empty after HTML reader: https://www.hltv.org/news/39619/holmes-replaces-frg-as-endpoint-coach
-2024/08/15 12:16:10 Content still empty after HTML reader: https://www.hltv.org/news/39618/neo-winning-like-this-is-a-huge-boost
-2024/08/15 12:16:10 Content still empty after HTML reader: https://www.hltv.org/news/39615/niko-on-not-becoming-igl-i-believed-i-could-still-be-one-of-the-best-players-in-the-world
-2024/08/15 12:16:10 Content still empty after HTML reader: https://www.hltv.org/news/39617/iem-cologne-2024-playoffs-set-with-saw-amongst-the-elite
-2024/08/15 12:16:10 Content still empty after HTML reader: https://www.hltv.org/news/39616/faze-to-lanxess-after-outrageous-1-11-comeback-over-liquid
-2024/08/15 12:16:10 Fetched posts from https://www.hltv.org/rss/news, took 493.532712ms
-2024/08/15 12:16:11 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 928.873565ms
-2024/08/15 12:16:11 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.06572048s
-2024/08/15 12:16:11 Fetched posts from https://vlr.gg/rss, took 1.37786424s
-2024/08/15 12:16:11 Skipping writing post, no content: https://www.hltv.org/news/39624/perfect-world-shanghai-major-europe-rmr-closed-qualifier-groups-revealed
-2024/08/15 12:16:11 Skipping writing post, no content: https://www.hltv.org/news/39595/short-news-week-33
-2024/08/15 12:16:11 Skipping writing post, no content: https://www.hltv.org/news/39622/ropz-people-look-at-me-like-im-s1mple-zywoo-or-donk-but-im-not
-2024/08/15 12:16:11 Skipping writing post, no content: https://www.hltv.org/news/39620/niko-we-will-definitely-be-tested-more-in-playoffs
-2024/08/15 12:16:11 Skipping writing post, no content: https://www.hltv.org/news/39621/mauisnake-returns-for-blast-showdown-as-schedule-announced
-2024/08/15 12:16:11 Skipping writing post, no content: https://www.hltv.org/news/39619/holmes-replaces-frg-as-endpoint-coach
-2024/08/15 12:16:11 Skipping writing post, no content: https://www.hltv.org/news/39618/neo-winning-like-this-is-a-huge-boost
-2024/08/15 12:16:11 Skipping writing post, no content: https://www.hltv.org/news/39615/niko-on-not-becoming-igl-i-believed-i-could-still-be-one-of-the-best-players-in-the-world
-2024/08/15 12:16:11 Skipping writing post, no content: https://www.hltv.org/news/39617/iem-cologne-2024-playoffs-set-with-saw-amongst-the-elite
-2024/08/15 12:16:11 Skipping writing post, no content: https://www.hltv.org/news/39616/faze-to-lanxess-after-outrageous-1-11-comeback-over-liquid
-2024/08/15 12:16:11 Templated 71 posts, took 10.58373ms
+2024/08/15 12:49:05 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/15 12:49:05 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 158.503271ms
+2024/08/15 12:49:05 Content still empty after HTML reader: https://www.hltv.org/news/39624/perfect-world-shanghai-major-europe-rmr-closed-qualifier-groups-revealed
+2024/08/15 12:49:05 Content still empty after HTML reader: https://www.hltv.org/news/39595/short-news-week-33
+2024/08/15 12:49:05 Content still empty after HTML reader: https://www.hltv.org/news/39622/ropz-people-look-at-me-like-im-s1mple-zywoo-or-donk-but-im-not
+2024/08/15 12:49:05 Content still empty after HTML reader: https://www.hltv.org/news/39620/niko-we-will-definitely-be-tested-more-in-playoffs
+2024/08/15 12:49:05 Content still empty after HTML reader: https://www.hltv.org/news/39621/mauisnake-returns-for-blast-showdown-as-schedule-announced
+2024/08/15 12:49:05 Content still empty after HTML reader: https://www.hltv.org/news/39619/holmes-replaces-frg-as-endpoint-coach
+2024/08/15 12:49:05 Content still empty after HTML reader: https://www.hltv.org/news/39618/neo-winning-like-this-is-a-huge-boost
+2024/08/15 12:49:05 Content still empty after HTML reader: https://www.hltv.org/news/39615/niko-on-not-becoming-igl-i-believed-i-could-still-be-one-of-the-best-players-in-the-world
+2024/08/15 12:49:05 Content still empty after HTML reader: https://www.hltv.org/news/39617/iem-cologne-2024-playoffs-set-with-saw-amongst-the-elite
+2024/08/15 12:49:05 Content still empty after HTML reader: https://www.nytimes.com/2024/08/14/us/politics/trump-rally-asheville.html
+2024/08/15 12:49:05 Content still empty after HTML reader: https://www.hltv.org/news/39616/faze-to-lanxess-after-outrageous-1-11-comeback-over-liquid
+2024/08/15 12:49:05 Fetched posts from https://www.hltv.org/rss/news, took 401.800902ms
+2024/08/15 12:49:05 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.010577673s
+2024/08/15 12:49:06 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.079581517s
+2024/08/15 12:49:06 Fetched posts from https://vlr.gg/rss, took 1.328211465s
+2024/08/15 12:49:06 Skipping writing post, no content: https://www.hltv.org/news/39624/perfect-world-shanghai-major-europe-rmr-closed-qualifier-groups-revealed
+2024/08/15 12:49:06 Skipping writing post, no content: https://www.nytimes.com/2024/08/14/us/politics/trump-rally-asheville.html
+2024/08/15 12:49:06 Skipping writing post, no content: https://www.hltv.org/news/39595/short-news-week-33
+2024/08/15 12:49:06 Skipping writing post, no content: https://www.hltv.org/news/39622/ropz-people-look-at-me-like-im-s1mple-zywoo-or-donk-but-im-not
+2024/08/15 12:49:06 Skipping writing post, no content: https://www.hltv.org/news/39620/niko-we-will-definitely-be-tested-more-in-playoffs
+2024/08/15 12:49:06 Skipping writing post, no content: https://www.hltv.org/news/39621/mauisnake-returns-for-blast-showdown-as-schedule-announced
+2024/08/15 12:49:06 Skipping writing post, no content: https://www.hltv.org/news/39619/holmes-replaces-frg-as-endpoint-coach
+2024/08/15 12:49:06 Skipping writing post, no content: https://www.hltv.org/news/39618/neo-winning-like-this-is-a-huge-boost
+2024/08/15 12:49:06 Skipping writing post, no content: https://www.hltv.org/news/39615/niko-on-not-becoming-igl-i-believed-i-could-still-be-one-of-the-best-players-in-the-world
+2024/08/15 12:49:06 Skipping writing post, no content: https://www.hltv.org/news/39617/iem-cologne-2024-playoffs-set-with-saw-amongst-the-elite
+2024/08/15 12:49:06 Skipping writing post, no content: https://www.hltv.org/news/39616/faze-to-lanxess-after-outrageous-1-11-comeback-over-liquid
+2024/08/15 12:49:06 Templated 68 posts, took 13.688347ms
