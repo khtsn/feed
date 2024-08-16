@@ -1,25 +1,27 @@
-2024/08/16 16:28:57 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/16 16:28:57 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 143.447932ms
-2024/08/16 16:28:57 Content still empty after HTML reader: https://www.hltv.org/news/39634/9z-invited-to-elisa-masters-espoo
-2024/08/16 16:28:58 Content still empty after HTML reader: https://www.hltv.org/news/39595/short-news-week-33
-2024/08/16 16:28:58 Content still empty after HTML reader: https://www.hltv.org/news/39631/live-updates-from-iem-cologne-quarter-finals
-2024/08/16 16:28:58 Content still empty after HTML reader: https://www.hltv.org/news/39632/perfect-world-announce-shanghai-major-roster-lock-dates
-2024/08/16 16:28:58 Content still empty after HTML reader: https://www.hltv.org/news/39630/video-players-share-their-favorite-iem-cologne-memories
-2024/08/16 16:28:58 Content still empty after HTML reader: https://www.hltv.org/news/39629/fnatic-og-advance-to-iem-rio-eu-closed-qualifier
-2024/08/16 16:28:58 Content still empty after HTML reader: https://www.hltv.org/news/39627/ropz-goes-for-198k-in-cologne-playoffs-fantasy
-2024/08/16 16:28:58 Content still empty after HTML reader: https://www.hltv.org/news/39626/apex-my-dream-is-to-win-at-least-one-katowice-or-cologne-and-one-more-major-before-i-retire
-2024/08/16 16:28:58 Content still empty after HTML reader: https://www.hltv.org/news/39625/hltv-confirmed-live-from-cologne-with-guests-rmn-mutiris-maniac-denis-ynk
-2024/08/16 16:28:58 Fetched posts from https://www.hltv.org/rss/news, took 494.041703ms
-2024/08/16 16:28:58 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 995.296879ms
-2024/08/16 16:28:58 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.074391046s
-2024/08/16 16:28:58 Fetched posts from https://vlr.gg/rss, took 1.109667602s
-2024/08/16 16:28:58 Skipping writing post, no content: https://www.hltv.org/news/39634/9z-invited-to-elisa-masters-espoo
-2024/08/16 16:28:58 Skipping writing post, no content: https://www.hltv.org/news/39595/short-news-week-33
-2024/08/16 16:28:58 Skipping writing post, no content: https://www.hltv.org/news/39631/live-updates-from-iem-cologne-quarter-finals
-2024/08/16 16:28:58 Skipping writing post, no content: https://www.hltv.org/news/39632/perfect-world-announce-shanghai-major-roster-lock-dates
-2024/08/16 16:28:58 Skipping writing post, no content: https://www.hltv.org/news/39630/video-players-share-their-favorite-iem-cologne-memories
-2024/08/16 16:28:58 Skipping writing post, no content: https://www.hltv.org/news/39629/fnatic-og-advance-to-iem-rio-eu-closed-qualifier
-2024/08/16 16:28:58 Skipping writing post, no content: https://www.hltv.org/news/39627/ropz-goes-for-198k-in-cologne-playoffs-fantasy
-2024/08/16 16:28:58 Skipping writing post, no content: https://www.hltv.org/news/39626/apex-my-dream-is-to-win-at-least-one-katowice-or-cologne-and-one-more-major-before-i-retire
-2024/08/16 16:28:58 Skipping writing post, no content: https://www.hltv.org/news/39625/hltv-confirmed-live-from-cologne-with-guests-rmn-mutiris-maniac-denis-ynk
-2024/08/16 16:28:58 Templated 70 posts, took 11.204976ms
+2024/08/16 16:44:32 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/16 16:44:32 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 120.180217ms
+2024/08/16 16:44:32 Content still empty after HTML reader: https://www.hltv.org/news/39634/9z-invited-to-elisa-masters-espoo
+2024/08/16 16:44:32 Content still empty after HTML reader: https://www.hltv.org/news/39595/short-news-week-33
+2024/08/16 16:44:32 Content still empty after HTML reader: https://www.hltv.org/news/39631/live-updates-from-iem-cologne-quarter-finals
+2024/08/16 16:44:32 Content still empty after HTML reader: https://www.hltv.org/news/39632/perfect-world-announce-shanghai-major-roster-lock-dates
+2024/08/16 16:44:32 Content still empty after HTML reader: https://www.hltv.org/news/39630/video-players-share-their-favorite-iem-cologne-memories
+2024/08/16 16:44:32 Content still empty after HTML reader: https://www.hltv.org/news/39629/fnatic-og-advance-to-iem-rio-eu-closed-qualifier
+2024/08/16 16:44:32 Content still empty after HTML reader: https://www.hltv.org/news/39628/bcgame-add-kwertzz
+2024/08/16 16:44:32 Content still empty after HTML reader: https://www.hltv.org/news/39627/ropz-goes-for-198k-in-cologne-playoffs-fantasy
+2024/08/16 16:44:32 Content still empty after HTML reader: https://www.hltv.org/news/39626/apex-my-dream-is-to-win-at-least-one-katowice-or-cologne-and-one-more-major-before-i-retire
+2024/08/16 16:44:32 Content still empty after HTML reader: https://www.hltv.org/news/39625/hltv-confirmed-live-from-cologne-with-guests-rmn-mutiris-maniac-denis-ynk
+2024/08/16 16:44:32 Fetched posts from https://www.hltv.org/rss/news, took 437.183385ms
+2024/08/16 16:44:33 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 866.731302ms
+2024/08/16 16:44:33 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 929.612906ms
+2024/08/16 16:44:33 Fetched posts from https://vlr.gg/rss, took 976.404032ms
+2024/08/16 16:44:33 Skipping writing post, no content: https://www.hltv.org/news/39634/9z-invited-to-elisa-masters-espoo
+2024/08/16 16:44:33 Skipping writing post, no content: https://www.hltv.org/news/39595/short-news-week-33
+2024/08/16 16:44:33 Skipping writing post, no content: https://www.hltv.org/news/39631/live-updates-from-iem-cologne-quarter-finals
+2024/08/16 16:44:33 Skipping writing post, no content: https://www.hltv.org/news/39632/perfect-world-announce-shanghai-major-roster-lock-dates
+2024/08/16 16:44:33 Skipping writing post, no content: https://www.hltv.org/news/39630/video-players-share-their-favorite-iem-cologne-memories
+2024/08/16 16:44:33 Skipping writing post, no content: https://www.hltv.org/news/39629/fnatic-og-advance-to-iem-rio-eu-closed-qualifier
+2024/08/16 16:44:33 Skipping writing post, no content: https://www.hltv.org/news/39628/bcgame-add-kwertzz
+2024/08/16 16:44:33 Skipping writing post, no content: https://www.hltv.org/news/39627/ropz-goes-for-198k-in-cologne-playoffs-fantasy
+2024/08/16 16:44:33 Skipping writing post, no content: https://www.hltv.org/news/39626/apex-my-dream-is-to-win-at-least-one-katowice-or-cologne-and-one-more-major-before-i-retire
+2024/08/16 16:44:33 Skipping writing post, no content: https://www.hltv.org/news/39625/hltv-confirmed-live-from-cologne-with-guests-rmn-mutiris-maniac-denis-ynk
+2024/08/16 16:44:33 Templated 70 posts, took 10.34363ms
