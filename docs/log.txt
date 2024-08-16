@@ -1,27 +1,29 @@
-2024/08/16 06:56:12 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/16 06:56:12 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 317.038798ms
-2024/08/16 06:56:12 Content still empty after HTML reader: https://www.hltv.org/news/39595/short-news-week-33
-2024/08/16 06:56:13 Content still empty after HTML reader: https://www.hltv.org/news/39629/fnatic-og-advance-to-iem-rio-eu-closed-qualifier
-2024/08/16 06:56:13 Content still empty after HTML reader: https://www.hltv.org/news/39628/bcgame-add-kwertzz
-2024/08/16 06:56:13 Content still empty after HTML reader: https://www.hltv.org/news/39627/ropz-goes-for-198k-in-cologne-playoffs-fantasy
-2024/08/16 06:56:13 Content still empty after HTML reader: https://www.hltv.org/news/39626/apex-my-dream-is-to-win-at-least-one-katowice-or-cologne-and-one-more-major-before-i-retire
-2024/08/16 06:56:13 Content still empty after HTML reader: https://www.hltv.org/news/39625/hltv-confirmed-live-from-cologne-with-guests-rmn-mutiris-maniac-denis-ynk
-2024/08/16 06:56:13 Content still empty after HTML reader: https://www.hltv.org/news/39624/perfect-world-shanghai-major-europe-rmr-closed-qualifier-groups-revealed
-2024/08/16 06:56:13 Content still empty after HTML reader: https://www.hltv.org/news/39622/ropz-people-look-at-me-like-im-s1mple-zywoo-or-donk-but-im-not
-2024/08/16 06:56:13 Content still empty after HTML reader: https://www.hltv.org/news/39620/niko-we-will-definitely-be-tested-more-in-playoffs
-2024/08/16 06:56:13 Content still empty after HTML reader: https://www.hltv.org/news/39621/mauisnake-returns-for-blast-showdown-as-schedule-announced
-2024/08/16 06:56:13 Fetched posts from https://www.hltv.org/rss/news, took 496.767253ms
-2024/08/16 06:56:13 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 732.790068ms
-2024/08/16 06:56:13 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 910.456802ms
-2024/08/16 06:56:13 Fetched posts from https://vlr.gg/rss, took 1.059952305s
-2024/08/16 06:56:13 Skipping writing post, no content: https://www.hltv.org/news/39595/short-news-week-33
-2024/08/16 06:56:13 Skipping writing post, no content: https://www.hltv.org/news/39629/fnatic-og-advance-to-iem-rio-eu-closed-qualifier
-2024/08/16 06:56:13 Skipping writing post, no content: https://www.hltv.org/news/39628/bcgame-add-kwertzz
-2024/08/16 06:56:13 Skipping writing post, no content: https://www.hltv.org/news/39627/ropz-goes-for-198k-in-cologne-playoffs-fantasy
-2024/08/16 06:56:13 Skipping writing post, no content: https://www.hltv.org/news/39626/apex-my-dream-is-to-win-at-least-one-katowice-or-cologne-and-one-more-major-before-i-retire
-2024/08/16 06:56:13 Skipping writing post, no content: https://www.hltv.org/news/39625/hltv-confirmed-live-from-cologne-with-guests-rmn-mutiris-maniac-denis-ynk
-2024/08/16 06:56:13 Skipping writing post, no content: https://www.hltv.org/news/39624/perfect-world-shanghai-major-europe-rmr-closed-qualifier-groups-revealed
-2024/08/16 06:56:13 Skipping writing post, no content: https://www.hltv.org/news/39622/ropz-people-look-at-me-like-im-s1mple-zywoo-or-donk-but-im-not
-2024/08/16 06:56:13 Skipping writing post, no content: https://www.hltv.org/news/39620/niko-we-will-definitely-be-tested-more-in-playoffs
-2024/08/16 06:56:13 Skipping writing post, no content: https://www.hltv.org/news/39621/mauisnake-returns-for-blast-showdown-as-schedule-announced
-2024/08/16 06:56:13 Templated 63 posts, took 9.267426ms
+2024/08/16 07:16:24 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/16 07:16:24 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 142.07271ms
+2024/08/16 07:16:24 Content still empty after HTML reader: https://www.hltv.org/news/39595/short-news-week-33
+2024/08/16 07:16:24 Content still empty after HTML reader: https://www.hltv.org/news/39629/fnatic-og-advance-to-iem-rio-eu-closed-qualifier
+2024/08/16 07:16:24 Content still empty after HTML reader: https://www.hltv.org/news/39628/bcgame-add-kwertzz
+2024/08/16 07:16:24 Content still empty after HTML reader: https://www.vlr.gg/390274/toast-speaks-on-disguised-reaching-ascension-in-year-two
+2024/08/16 07:16:24 Content still empty after HTML reader: https://www.hltv.org/news/39627/ropz-goes-for-198k-in-cologne-playoffs-fantasy
+2024/08/16 07:16:24 Content still empty after HTML reader: https://www.hltv.org/news/39626/apex-my-dream-is-to-win-at-least-one-katowice-or-cologne-and-one-more-major-before-i-retire
+2024/08/16 07:16:24 Content still empty after HTML reader: https://www.hltv.org/news/39625/hltv-confirmed-live-from-cologne-with-guests-rmn-mutiris-maniac-denis-ynk
+2024/08/16 07:16:24 Content still empty after HTML reader: https://www.hltv.org/news/39624/perfect-world-shanghai-major-europe-rmr-closed-qualifier-groups-revealed
+2024/08/16 07:16:24 Content still empty after HTML reader: https://www.hltv.org/news/39622/ropz-people-look-at-me-like-im-s1mple-zywoo-or-donk-but-im-not
+2024/08/16 07:16:24 Content still empty after HTML reader: https://www.hltv.org/news/39620/niko-we-will-definitely-be-tested-more-in-playoffs
+2024/08/16 07:16:24 Content still empty after HTML reader: https://www.hltv.org/news/39621/mauisnake-returns-for-blast-showdown-as-schedule-announced
+2024/08/16 07:16:24 Fetched posts from https://www.hltv.org/rss/news, took 692.923784ms
+2024/08/16 07:16:24 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 906.849706ms
+2024/08/16 07:16:25 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.148009467s
+2024/08/16 07:16:25 Fetched posts from https://vlr.gg/rss, took 1.348481382s
+2024/08/16 07:16:25 Skipping writing post, no content: https://www.hltv.org/news/39595/short-news-week-33
+2024/08/16 07:16:25 Skipping writing post, no content: https://www.hltv.org/news/39629/fnatic-og-advance-to-iem-rio-eu-closed-qualifier
+2024/08/16 07:16:25 Skipping writing post, no content: https://www.hltv.org/news/39628/bcgame-add-kwertzz
+2024/08/16 07:16:25 Skipping writing post, no content: https://www.hltv.org/news/39627/ropz-goes-for-198k-in-cologne-playoffs-fantasy
+2024/08/16 07:16:25 Skipping writing post, no content: https://www.hltv.org/news/39626/apex-my-dream-is-to-win-at-least-one-katowice-or-cologne-and-one-more-major-before-i-retire
+2024/08/16 07:16:25 Skipping writing post, no content: https://www.hltv.org/news/39625/hltv-confirmed-live-from-cologne-with-guests-rmn-mutiris-maniac-denis-ynk
+2024/08/16 07:16:25 Skipping writing post, no content: https://www.hltv.org/news/39624/perfect-world-shanghai-major-europe-rmr-closed-qualifier-groups-revealed
+2024/08/16 07:16:25 Skipping writing post, no content: https://www.hltv.org/news/39622/ropz-people-look-at-me-like-im-s1mple-zywoo-or-donk-but-im-not
+2024/08/16 07:16:25 Skipping writing post, no content: https://www.hltv.org/news/39620/niko-we-will-definitely-be-tested-more-in-playoffs
+2024/08/16 07:16:25 Skipping writing post, no content: https://www.hltv.org/news/39621/mauisnake-returns-for-blast-showdown-as-schedule-announced
+2024/08/16 07:16:25 Skipping writing post, no content: https://www.vlr.gg/390274/toast-speaks-on-disguised-reaching-ascension-in-year-two
+2024/08/16 07:16:25 Templated 63 posts, took 9.22019ms
