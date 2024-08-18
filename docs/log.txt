@@ -1,27 +1,27 @@
-2024/08/18 07:49:29 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/18 07:49:29 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 80.984363ms
-2024/08/18 07:49:29 Content still empty after HTML reader: https://www.hltv.org/news/39595/short-news-week-33
-2024/08/18 07:49:29 Content still empty after HTML reader: https://www.hltv.org/news/39646/monte-b8-among-teams-through-to-esl-challenger-atlanta-eu-closed-qualifier
-2024/08/18 07:49:29 Content still empty after HTML reader: https://www.hltv.org/news/39644/b1ad3-we-need-to-show-a-much-better-game-if-we-want-to-beat-vitality
-2024/08/18 07:49:29 Content still empty after HTML reader: https://www.hltv.org/news/39640/iem-cologne-semi-finals-day-as-it-happened
-2024/08/18 07:49:29 Content still empty after HTML reader: https://www.hltv.org/news/39645/clutches-power-navi-past-mouz-to-cologne-final
-2024/08/18 07:49:29 Content still empty after HTML reader: https://www.hltv.org/news/39643/betboom-dacha-belgrade-s2-team-list-finalized
-2024/08/18 07:49:29 Content still empty after HTML reader: https://www.hltv.org/news/39642/xtqzzz-we-felt-that-if-we-broke-saws-momentum-itd-be-gg
-2024/08/18 07:49:29 Content still empty after HTML reader: https://www.hltv.org/news/39641/vitality-roar-past-saw-to-reach-cologne-final
-2024/08/18 07:49:29 Content still empty after HTML reader: https://www.hltv.org/news/39639/aurora-and-9-pandas-trade-r3salt-and-clax
-2024/08/18 07:49:29 Content still empty after HTML reader: https://www.hltv.org/news/39631/iem-cologne-quarter-finals-day-as-it-happened
-2024/08/18 07:49:29 Fetched posts from https://www.hltv.org/rss/news, took 304.193665ms
-2024/08/18 07:49:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 655.739771ms
-2024/08/18 07:49:30 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 974.347733ms
-2024/08/18 07:49:31 Fetched posts from https://vlr.gg/rss, took 2.252193051s
-2024/08/18 07:49:31 Skipping writing post, no content: https://www.hltv.org/news/39595/short-news-week-33
-2024/08/18 07:49:31 Skipping writing post, no content: https://www.hltv.org/news/39646/monte-b8-among-teams-through-to-esl-challenger-atlanta-eu-closed-qualifier
-2024/08/18 07:49:31 Skipping writing post, no content: https://www.hltv.org/news/39644/b1ad3-we-need-to-show-a-much-better-game-if-we-want-to-beat-vitality
-2024/08/18 07:49:31 Skipping writing post, no content: https://www.hltv.org/news/39640/iem-cologne-semi-finals-day-as-it-happened
-2024/08/18 07:49:31 Skipping writing post, no content: https://www.hltv.org/news/39645/clutches-power-navi-past-mouz-to-cologne-final
-2024/08/18 07:49:31 Skipping writing post, no content: https://www.hltv.org/news/39643/betboom-dacha-belgrade-s2-team-list-finalized
-2024/08/18 07:49:31 Skipping writing post, no content: https://www.hltv.org/news/39642/xtqzzz-we-felt-that-if-we-broke-saws-momentum-itd-be-gg
-2024/08/18 07:49:31 Skipping writing post, no content: https://www.hltv.org/news/39641/vitality-roar-past-saw-to-reach-cologne-final
-2024/08/18 07:49:31 Skipping writing post, no content: https://www.hltv.org/news/39639/aurora-and-9-pandas-trade-r3salt-and-clax
-2024/08/18 07:49:31 Skipping writing post, no content: https://www.hltv.org/news/39631/iem-cologne-quarter-finals-day-as-it-happened
-2024/08/18 07:49:31 Templated 58 posts, took 8.350369ms
+2024/08/18 07:59:46 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/18 07:59:46 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 140.50012ms
+2024/08/18 07:59:47 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 681.46306ms
+2024/08/18 07:59:47 Content still empty after HTML reader: https://www.hltv.org/news/39595/short-news-week-33
+2024/08/18 07:59:47 Content still empty after HTML reader: https://www.hltv.org/news/39646/monte-b8-among-teams-through-to-esl-challenger-atlanta-eu-closed-qualifier
+2024/08/18 07:59:47 Content still empty after HTML reader: https://www.hltv.org/news/39644/b1ad3-we-need-to-show-a-much-better-game-if-we-want-to-beat-vitality
+2024/08/18 07:59:47 Content still empty after HTML reader: https://www.hltv.org/news/39640/iem-cologne-semi-finals-day-as-it-happened
+2024/08/18 07:59:47 Content still empty after HTML reader: https://www.hltv.org/news/39645/clutches-power-navi-past-mouz-to-cologne-final
+2024/08/18 07:59:47 Content still empty after HTML reader: https://www.hltv.org/news/39643/betboom-dacha-belgrade-s2-team-list-finalized
+2024/08/18 07:59:47 Content still empty after HTML reader: https://www.hltv.org/news/39642/xtqzzz-we-felt-that-if-we-broke-saws-momentum-itd-be-gg
+2024/08/18 07:59:47 Content still empty after HTML reader: https://www.hltv.org/news/39641/vitality-roar-past-saw-to-reach-cologne-final
+2024/08/18 07:59:47 Content still empty after HTML reader: https://www.hltv.org/news/39639/aurora-and-9-pandas-trade-r3salt-and-clax
+2024/08/18 07:59:47 Content still empty after HTML reader: https://www.hltv.org/news/39631/iem-cologne-quarter-finals-day-as-it-happened
+2024/08/18 07:59:47 Fetched posts from https://www.hltv.org/rss/news, took 858.391695ms
+2024/08/18 07:59:48 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.097341523s
+2024/08/18 07:59:48 Fetched posts from https://vlr.gg/rss, took 2.237153915s
+2024/08/18 07:59:48 Skipping writing post, no content: https://www.hltv.org/news/39595/short-news-week-33
+2024/08/18 07:59:48 Skipping writing post, no content: https://www.hltv.org/news/39646/monte-b8-among-teams-through-to-esl-challenger-atlanta-eu-closed-qualifier
+2024/08/18 07:59:48 Skipping writing post, no content: https://www.hltv.org/news/39644/b1ad3-we-need-to-show-a-much-better-game-if-we-want-to-beat-vitality
+2024/08/18 07:59:48 Skipping writing post, no content: https://www.hltv.org/news/39640/iem-cologne-semi-finals-day-as-it-happened
+2024/08/18 07:59:48 Skipping writing post, no content: https://www.hltv.org/news/39645/clutches-power-navi-past-mouz-to-cologne-final
+2024/08/18 07:59:48 Skipping writing post, no content: https://www.hltv.org/news/39643/betboom-dacha-belgrade-s2-team-list-finalized
+2024/08/18 07:59:48 Skipping writing post, no content: https://www.hltv.org/news/39642/xtqzzz-we-felt-that-if-we-broke-saws-momentum-itd-be-gg
+2024/08/18 07:59:48 Skipping writing post, no content: https://www.hltv.org/news/39641/vitality-roar-past-saw-to-reach-cologne-final
+2024/08/18 07:59:48 Skipping writing post, no content: https://www.hltv.org/news/39639/aurora-and-9-pandas-trade-r3salt-and-clax
+2024/08/18 07:59:48 Skipping writing post, no content: https://www.hltv.org/news/39631/iem-cologne-quarter-finals-day-as-it-happened
+2024/08/18 07:59:48 Templated 58 posts, took 8.313771ms
