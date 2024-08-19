@@ -1,27 +1,27 @@
-2024/08/19 19:36:51 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/19 19:36:51 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 83.739262ms
-2024/08/19 19:36:51 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/19 19:36:51 Content still empty after HTML reader: https://www.hltv.org/news/39656/vitality-claim-no1-spot-after-iem-cologne-victory
-2024/08/19 19:36:51 Content still empty after HTML reader: https://www.hltv.org/news/39653/vitality-added-to-blast-world-final-team-list
-2024/08/19 19:36:51 Content still empty after HTML reader: https://www.hltv.org/news/39652/vitality-join-the-intel-grand-slam-race
-2024/08/19 19:36:51 Content still empty after HTML reader: https://www.hltv.org/news/39651/iem-cologne-2024-reaches-third-highest-non-major-peak-in-cs-history-at-105m-viewers
-2024/08/19 19:36:51 Content still empty after HTML reader: https://www.hltv.org/news/39649/zywoo-i-had-never-played-this-kind-of-final
-2024/08/19 19:36:51 Content still empty after HTML reader: https://www.hltv.org/news/39647/iem-cologne-grand-final-day-as-it-happened
-2024/08/19 19:36:51 Content still empty after HTML reader: https://www.hltv.org/news/39648/zywoo-earns-20th-hltv-mvp-at-iem-cologne
-2024/08/19 19:36:51 Content still empty after HTML reader: https://www.hltv.org/news/39650/vitality-win-iem-cologne-2024-over-navi-after-nail-biting-117-round-final
-2024/08/19 19:36:51 Content still empty after HTML reader: https://www.hltv.org/news/39595/short-news-week-33
-2024/08/19 19:36:51 Fetched posts from https://www.hltv.org/rss/news, took 421.274696ms
-2024/08/19 19:36:52 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 714.438408ms
-2024/08/19 19:36:52 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.038183959s
-2024/08/19 19:36:53 Fetched posts from https://vlr.gg/rss, took 2.163106922s
-2024/08/19 19:36:53 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/19 19:36:53 Skipping writing post, no content: https://www.hltv.org/news/39656/vitality-claim-no1-spot-after-iem-cologne-victory
-2024/08/19 19:36:53 Skipping writing post, no content: https://www.hltv.org/news/39653/vitality-added-to-blast-world-final-team-list
-2024/08/19 19:36:53 Skipping writing post, no content: https://www.hltv.org/news/39652/vitality-join-the-intel-grand-slam-race
-2024/08/19 19:36:53 Skipping writing post, no content: https://www.hltv.org/news/39651/iem-cologne-2024-reaches-third-highest-non-major-peak-in-cs-history-at-105m-viewers
-2024/08/19 19:36:53 Skipping writing post, no content: https://www.hltv.org/news/39649/zywoo-i-had-never-played-this-kind-of-final
-2024/08/19 19:36:53 Skipping writing post, no content: https://www.hltv.org/news/39647/iem-cologne-grand-final-day-as-it-happened
-2024/08/19 19:36:53 Skipping writing post, no content: https://www.hltv.org/news/39648/zywoo-earns-20th-hltv-mvp-at-iem-cologne
-2024/08/19 19:36:53 Skipping writing post, no content: https://www.hltv.org/news/39650/vitality-win-iem-cologne-2024-over-navi-after-nail-biting-117-round-final
-2024/08/19 19:36:53 Skipping writing post, no content: https://www.hltv.org/news/39595/short-news-week-33
-2024/08/19 19:36:53 Templated 62 posts, took 10.697076ms
+2024/08/19 19:47:31 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/19 19:47:31 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 191.611715ms
+2024/08/19 19:47:32 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/19 19:47:32 Content still empty after HTML reader: https://www.hltv.org/news/39656/vitality-claim-no1-spot-after-iem-cologne-victory
+2024/08/19 19:47:32 Content still empty after HTML reader: https://www.hltv.org/news/39653/vitality-added-to-blast-world-final-team-list
+2024/08/19 19:47:32 Content still empty after HTML reader: https://www.hltv.org/news/39652/vitality-join-the-intel-grand-slam-race
+2024/08/19 19:47:32 Content still empty after HTML reader: https://www.hltv.org/news/39651/iem-cologne-2024-reaches-third-highest-non-major-peak-in-cs-history-at-105m-viewers
+2024/08/19 19:47:32 Content still empty after HTML reader: https://www.hltv.org/news/39649/zywoo-i-had-never-played-this-kind-of-final
+2024/08/19 19:47:32 Content still empty after HTML reader: https://www.hltv.org/news/39647/iem-cologne-grand-final-day-as-it-happened
+2024/08/19 19:47:32 Content still empty after HTML reader: https://www.hltv.org/news/39648/zywoo-earns-20th-hltv-mvp-at-iem-cologne
+2024/08/19 19:47:32 Content still empty after HTML reader: https://www.hltv.org/news/39650/vitality-win-iem-cologne-2024-over-navi-after-nail-biting-117-round-final
+2024/08/19 19:47:32 Content still empty after HTML reader: https://www.hltv.org/news/39595/short-news-week-33
+2024/08/19 19:47:32 Fetched posts from https://www.hltv.org/rss/news, took 453.036734ms
+2024/08/19 19:47:32 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 823.023011ms
+2024/08/19 19:47:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 965.629934ms
+2024/08/19 19:47:33 Fetched posts from https://vlr.gg/rss, took 2.164920578s
+2024/08/19 19:47:33 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/19 19:47:33 Skipping writing post, no content: https://www.hltv.org/news/39656/vitality-claim-no1-spot-after-iem-cologne-victory
+2024/08/19 19:47:33 Skipping writing post, no content: https://www.hltv.org/news/39653/vitality-added-to-blast-world-final-team-list
+2024/08/19 19:47:33 Skipping writing post, no content: https://www.hltv.org/news/39652/vitality-join-the-intel-grand-slam-race
+2024/08/19 19:47:33 Skipping writing post, no content: https://www.hltv.org/news/39651/iem-cologne-2024-reaches-third-highest-non-major-peak-in-cs-history-at-105m-viewers
+2024/08/19 19:47:33 Skipping writing post, no content: https://www.hltv.org/news/39649/zywoo-i-had-never-played-this-kind-of-final
+2024/08/19 19:47:33 Skipping writing post, no content: https://www.hltv.org/news/39647/iem-cologne-grand-final-day-as-it-happened
+2024/08/19 19:47:33 Skipping writing post, no content: https://www.hltv.org/news/39648/zywoo-earns-20th-hltv-mvp-at-iem-cologne
+2024/08/19 19:47:33 Skipping writing post, no content: https://www.hltv.org/news/39650/vitality-win-iem-cologne-2024-over-navi-after-nail-biting-117-round-final
+2024/08/19 19:47:33 Skipping writing post, no content: https://www.hltv.org/news/39595/short-news-week-33
+2024/08/19 19:47:33 Templated 62 posts, took 8.715792ms
