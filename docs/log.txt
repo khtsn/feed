@@ -1,27 +1,29 @@
-2024/08/19 15:31:50 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/19 15:31:50 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 178.896926ms
-2024/08/19 15:31:50 Content still empty after HTML reader: https://www.hltv.org/news/39653/vitality-added-to-blast-world-final-team-list
-2024/08/19 15:31:50 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/19 15:31:50 Content still empty after HTML reader: https://www.hltv.org/news/39652/vitality-join-the-intel-grand-slam-race
-2024/08/19 15:31:50 Content still empty after HTML reader: https://www.hltv.org/news/39651/iem-cologne-2024-reaches-third-highest-non-major-peak-in-cs-history-at-105m-viewers
-2024/08/19 15:31:50 Content still empty after HTML reader: https://www.hltv.org/news/39649/zywoo-i-had-never-played-this-kind-of-final
-2024/08/19 15:31:50 Content still empty after HTML reader: https://www.hltv.org/news/39647/iem-cologne-grand-final-day-as-it-happened
-2024/08/19 15:31:50 Content still empty after HTML reader: https://www.hltv.org/news/39648/zywoo-earns-20th-hltv-mvp-at-iem-cologne
-2024/08/19 15:31:50 Content still empty after HTML reader: https://www.hltv.org/news/39650/vitality-win-iem-cologne-2024-over-navi-after-nail-biting-117-round-final
-2024/08/19 15:31:50 Content still empty after HTML reader: https://www.hltv.org/news/39595/short-news-week-33
-2024/08/19 15:31:50 Content still empty after HTML reader: https://www.hltv.org/news/39646/monte-b8-among-teams-through-to-esl-challenger-atlanta-eu-closed-qualifier
-2024/08/19 15:31:50 Fetched posts from https://www.hltv.org/rss/news, took 309.540125ms
-2024/08/19 15:31:51 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 814.59748ms
-2024/08/19 15:31:51 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.371552461s
-2024/08/19 15:31:52 Fetched posts from https://vlr.gg/rss, took 2.150919697s
-2024/08/19 15:31:52 Skipping writing post, no content: https://www.hltv.org/news/39653/vitality-added-to-blast-world-final-team-list
-2024/08/19 15:31:52 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/19 15:31:52 Skipping writing post, no content: https://www.hltv.org/news/39652/vitality-join-the-intel-grand-slam-race
-2024/08/19 15:31:52 Skipping writing post, no content: https://www.hltv.org/news/39651/iem-cologne-2024-reaches-third-highest-non-major-peak-in-cs-history-at-105m-viewers
-2024/08/19 15:31:52 Skipping writing post, no content: https://www.hltv.org/news/39649/zywoo-i-had-never-played-this-kind-of-final
-2024/08/19 15:31:52 Skipping writing post, no content: https://www.hltv.org/news/39647/iem-cologne-grand-final-day-as-it-happened
-2024/08/19 15:31:52 Skipping writing post, no content: https://www.hltv.org/news/39648/zywoo-earns-20th-hltv-mvp-at-iem-cologne
-2024/08/19 15:31:52 Skipping writing post, no content: https://www.hltv.org/news/39650/vitality-win-iem-cologne-2024-over-navi-after-nail-biting-117-round-final
-2024/08/19 15:31:52 Skipping writing post, no content: https://www.hltv.org/news/39595/short-news-week-33
-2024/08/19 15:31:52 Skipping writing post, no content: https://www.hltv.org/news/39646/monte-b8-among-teams-through-to-esl-challenger-atlanta-eu-closed-qualifier
-2024/08/19 15:31:52 Templated 64 posts, took 9.512246ms
+2024/08/19 15:42:04 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/19 15:42:04 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 326.327341ms
+2024/08/19 15:42:04 Content still empty after HTML reader: https://www.hltv.org/news/39653/vitality-added-to-blast-world-final-team-list
+2024/08/19 15:42:04 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/19 15:42:04 Content still empty after HTML reader: https://www.hltv.org/news/39652/vitality-join-the-intel-grand-slam-race
+2024/08/19 15:42:04 Content still empty after HTML reader: https://www.nytimes.com/2024/08/19/us/politics/republican-impeachment-report-biden.html
+2024/08/19 15:42:04 Content still empty after HTML reader: https://www.hltv.org/news/39651/iem-cologne-2024-reaches-third-highest-non-major-peak-in-cs-history-at-105m-viewers
+2024/08/19 15:42:04 Content still empty after HTML reader: https://www.hltv.org/news/39649/zywoo-i-had-never-played-this-kind-of-final
+2024/08/19 15:42:04 Content still empty after HTML reader: https://www.hltv.org/news/39647/iem-cologne-grand-final-day-as-it-happened
+2024/08/19 15:42:04 Content still empty after HTML reader: https://www.hltv.org/news/39648/zywoo-earns-20th-hltv-mvp-at-iem-cologne
+2024/08/19 15:42:04 Content still empty after HTML reader: https://www.hltv.org/news/39650/vitality-win-iem-cologne-2024-over-navi-after-nail-biting-117-round-final
+2024/08/19 15:42:04 Content still empty after HTML reader: https://www.hltv.org/news/39595/short-news-week-33
+2024/08/19 15:42:04 Content still empty after HTML reader: https://www.hltv.org/news/39646/monte-b8-among-teams-through-to-esl-challenger-atlanta-eu-closed-qualifier
+2024/08/19 15:42:04 Fetched posts from https://www.hltv.org/rss/news, took 481.180435ms
+2024/08/19 15:42:05 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 984.564286ms
+2024/08/19 15:42:05 Fetched posts from https://vlr.gg/rss, took 996.733982ms
+2024/08/19 15:42:05 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.22499724s
+2024/08/19 15:42:05 Skipping writing post, no content: https://www.hltv.org/news/39653/vitality-added-to-blast-world-final-team-list
+2024/08/19 15:42:05 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/19 15:42:05 Skipping writing post, no content: https://www.hltv.org/news/39652/vitality-join-the-intel-grand-slam-race
+2024/08/19 15:42:05 Skipping writing post, no content: https://www.hltv.org/news/39651/iem-cologne-2024-reaches-third-highest-non-major-peak-in-cs-history-at-105m-viewers
+2024/08/19 15:42:05 Skipping writing post, no content: https://www.nytimes.com/2024/08/19/us/politics/republican-impeachment-report-biden.html
+2024/08/19 15:42:05 Skipping writing post, no content: https://www.hltv.org/news/39649/zywoo-i-had-never-played-this-kind-of-final
+2024/08/19 15:42:05 Skipping writing post, no content: https://www.hltv.org/news/39647/iem-cologne-grand-final-day-as-it-happened
+2024/08/19 15:42:05 Skipping writing post, no content: https://www.hltv.org/news/39648/zywoo-earns-20th-hltv-mvp-at-iem-cologne
+2024/08/19 15:42:05 Skipping writing post, no content: https://www.hltv.org/news/39650/vitality-win-iem-cologne-2024-over-navi-after-nail-biting-117-round-final
+2024/08/19 15:42:05 Skipping writing post, no content: https://www.hltv.org/news/39595/short-news-week-33
+2024/08/19 15:42:05 Skipping writing post, no content: https://www.hltv.org/news/39646/monte-b8-among-teams-through-to-esl-challenger-atlanta-eu-closed-qualifier
+2024/08/19 15:42:05 Templated 64 posts, took 9.840311ms
