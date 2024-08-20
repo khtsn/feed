@@ -1,25 +1,27 @@
-2024/08/20 09:48:56 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/20 09:48:56 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 134.426336ms
-2024/08/20 09:48:57 Content still empty after HTML reader: https://www.hltv.org/news/39659/jump-throw-grunt-now-audible-to-opponents-vacnet-30-testing-begins-in-new-update
-2024/08/20 09:48:57 Content still empty after HTML reader: https://www.hltv.org/news/39658/valve-take-stance-against-snap-tap-like-features-remove-jump-throw-binds
-2024/08/20 09:48:57 Content still empty after HTML reader: https://www.hltv.org/news/39655/fissure-announce-bb-dacha-belgrade-s2-play-in-groups
-2024/08/20 09:48:57 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/20 09:48:57 Content still empty after HTML reader: https://www.hltv.org/news/39656/vitality-claim-no1-spot-after-iem-cologne-victory
-2024/08/20 09:48:57 Content still empty after HTML reader: https://www.hltv.org/news/39653/vitality-added-to-blast-world-final-team-list
-2024/08/20 09:48:57 Content still empty after HTML reader: https://www.hltv.org/news/39652/vitality-join-the-intel-grand-slam-race
-2024/08/20 09:48:57 Content still empty after HTML reader: https://www.hltv.org/news/39651/iem-cologne-2024-reaches-third-highest-non-major-peak-in-cs-history-at-105m-viewers
-2024/08/20 09:48:57 Content still empty after HTML reader: https://www.hltv.org/news/39649/zywoo-i-had-never-played-this-kind-of-final
-2024/08/20 09:48:57 Fetched posts from https://www.hltv.org/rss/news, took 391.81684ms
-2024/08/20 09:48:57 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 575.701484ms
-2024/08/20 09:48:57 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 822.860884ms
-2024/08/20 09:48:57 Fetched posts from https://vlr.gg/rss, took 830.852792ms
-2024/08/20 09:48:57 Skipping writing post, no content: https://www.hltv.org/news/39659/jump-throw-grunt-now-audible-to-opponents-vacnet-30-testing-begins-in-new-update
-2024/08/20 09:48:57 Skipping writing post, no content: https://www.hltv.org/news/39658/valve-take-stance-against-snap-tap-like-features-remove-jump-throw-binds
-2024/08/20 09:48:57 Skipping writing post, no content: https://www.hltv.org/news/39655/fissure-announce-bb-dacha-belgrade-s2-play-in-groups
-2024/08/20 09:48:57 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/20 09:48:57 Skipping writing post, no content: https://www.hltv.org/news/39656/vitality-claim-no1-spot-after-iem-cologne-victory
-2024/08/20 09:48:57 Skipping writing post, no content: https://www.hltv.org/news/39653/vitality-added-to-blast-world-final-team-list
-2024/08/20 09:48:57 Skipping writing post, no content: https://www.hltv.org/news/39652/vitality-join-the-intel-grand-slam-race
-2024/08/20 09:48:57 Skipping writing post, no content: https://www.hltv.org/news/39651/iem-cologne-2024-reaches-third-highest-non-major-peak-in-cs-history-at-105m-viewers
-2024/08/20 09:48:57 Skipping writing post, no content: https://www.hltv.org/news/39649/zywoo-i-had-never-played-this-kind-of-final
-2024/08/20 09:48:57 Templated 55 posts, took 8.039654ms
+2024/08/20 09:59:14 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/20 09:59:14 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 126.025468ms
+2024/08/20 09:59:15 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 715.38657ms
+2024/08/20 09:59:15 Content still empty after HTML reader: https://www.hltv.org/news/39659/jump-throw-grunt-now-audible-to-opponents-vacnet-30-testing-begins-in-new-update
+2024/08/20 09:59:15 Content still empty after HTML reader: https://www.hltv.org/news/39658/valve-take-stance-against-snap-tap-like-features-remove-jump-throw-binds
+2024/08/20 09:59:15 Content still empty after HTML reader: https://www.hltv.org/news/39657/c9-b8-secure-last-rio-eu-closed-qualifier-spots
+2024/08/20 09:59:15 Content still empty after HTML reader: https://www.hltv.org/news/39655/fissure-announce-bb-dacha-belgrade-s2-play-in-groups
+2024/08/20 09:59:15 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/20 09:59:15 Content still empty after HTML reader: https://www.hltv.org/news/39656/vitality-claim-no1-spot-after-iem-cologne-victory
+2024/08/20 09:59:15 Content still empty after HTML reader: https://www.hltv.org/news/39653/vitality-added-to-blast-world-final-team-list
+2024/08/20 09:59:15 Content still empty after HTML reader: https://www.hltv.org/news/39652/vitality-join-the-intel-grand-slam-race
+2024/08/20 09:59:15 Content still empty after HTML reader: https://www.hltv.org/news/39651/iem-cologne-2024-reaches-third-highest-non-major-peak-in-cs-history-at-105m-viewers
+2024/08/20 09:59:15 Content still empty after HTML reader: https://www.hltv.org/news/39649/zywoo-i-had-never-played-this-kind-of-final
+2024/08/20 09:59:15 Fetched posts from https://www.hltv.org/rss/news, took 835.639389ms
+2024/08/20 09:59:16 Fetched posts from https://vlr.gg/rss, took 1.953307113s
+2024/08/20 09:59:17 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.835784404s
+2024/08/20 09:59:17 Skipping writing post, no content: https://www.hltv.org/news/39659/jump-throw-grunt-now-audible-to-opponents-vacnet-30-testing-begins-in-new-update
+2024/08/20 09:59:17 Skipping writing post, no content: https://www.hltv.org/news/39658/valve-take-stance-against-snap-tap-like-features-remove-jump-throw-binds
+2024/08/20 09:59:17 Skipping writing post, no content: https://www.hltv.org/news/39657/c9-b8-secure-last-rio-eu-closed-qualifier-spots
+2024/08/20 09:59:17 Skipping writing post, no content: https://www.hltv.org/news/39655/fissure-announce-bb-dacha-belgrade-s2-play-in-groups
+2024/08/20 09:59:17 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/20 09:59:17 Skipping writing post, no content: https://www.hltv.org/news/39656/vitality-claim-no1-spot-after-iem-cologne-victory
+2024/08/20 09:59:17 Skipping writing post, no content: https://www.hltv.org/news/39653/vitality-added-to-blast-world-final-team-list
+2024/08/20 09:59:17 Skipping writing post, no content: https://www.hltv.org/news/39652/vitality-join-the-intel-grand-slam-race
+2024/08/20 09:59:17 Skipping writing post, no content: https://www.hltv.org/news/39651/iem-cologne-2024-reaches-third-highest-non-major-peak-in-cs-history-at-105m-viewers
+2024/08/20 09:59:17 Skipping writing post, no content: https://www.hltv.org/news/39649/zywoo-i-had-never-played-this-kind-of-final
+2024/08/20 09:59:17 Templated 59 posts, took 9.410129ms
