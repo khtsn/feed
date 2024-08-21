@@ -1,29 +1,27 @@
-2024/08/21 09:30:14 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/21 09:30:14 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 139.302128ms
-2024/08/21 09:30:14 Content still empty after HTML reader: https://www.hltv.org/news/39673/perfect-world-announces-cac-2025
-2024/08/21 09:30:14 Content still empty after HTML reader: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
-2024/08/21 09:30:14 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/21 09:30:14 Content still empty after HTML reader: https://www.hltv.org/news/39670/esl-forces-teams-to-choose-rio-or-atlanta-qualifier-due-to-fairness-to-all-participants
-2024/08/21 09:30:14 Content still empty after HTML reader: https://www.hltv.org/news/39669/jijiehao-bench-kjaerbye
-2024/08/21 09:30:14 Content still empty after HTML reader: https://www.hltv.org/news/39663/shanghai-major-qualifier-super-week-set-to-start
-2024/08/21 09:30:14 Content still empty after HTML reader: https://www.vlr.gg/394620/secret-part-ways-with-ndg
-2024/08/21 09:30:14 Content still empty after HTML reader: https://www.hltv.org/news/39668/blast-fall-showdown-teams-format-schedule-prizes-talent
-2024/08/21 09:30:14 Content still empty after HTML reader: https://www.hltv.org/news/39667/all-you-need-to-know-about-blast-fall-showdown-fantasy
-2024/08/21 09:30:14 Content still empty after HTML reader: https://www.hltv.org/news/39666/into-the-breach-replace-boros-with-redstar-after-41-days
-2024/08/21 09:30:14 Content still empty after HTML reader: https://www.hltv.org/news/39665/blast-ban-snap-tap-for-showdown-onwards
-2024/08/21 09:30:14 Fetched posts from https://www.hltv.org/rss/news, took 423.735384ms
-2024/08/21 09:30:14 Fetched posts from https://vlr.gg/rss, took 761.492175ms
-2024/08/21 09:30:15 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.017267038s
-2024/08/21 09:30:15 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.143918642s
-2024/08/21 09:30:15 Skipping writing post, no content: https://www.hltv.org/news/39673/perfect-world-announces-cac-2025
-2024/08/21 09:30:15 Skipping writing post, no content: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
-2024/08/21 09:30:15 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/21 09:30:15 Skipping writing post, no content: https://www.hltv.org/news/39670/esl-forces-teams-to-choose-rio-or-atlanta-qualifier-due-to-fairness-to-all-participants
-2024/08/21 09:30:15 Skipping writing post, no content: https://www.hltv.org/news/39669/jijiehao-bench-kjaerbye
-2024/08/21 09:30:15 Skipping writing post, no content: https://www.hltv.org/news/39663/shanghai-major-qualifier-super-week-set-to-start
-2024/08/21 09:30:15 Skipping writing post, no content: https://www.hltv.org/news/39668/blast-fall-showdown-teams-format-schedule-prizes-talent
-2024/08/21 09:30:15 Skipping writing post, no content: https://www.vlr.gg/394620/secret-part-ways-with-ndg
-2024/08/21 09:30:15 Skipping writing post, no content: https://www.hltv.org/news/39667/all-you-need-to-know-about-blast-fall-showdown-fantasy
-2024/08/21 09:30:15 Skipping writing post, no content: https://www.hltv.org/news/39666/into-the-breach-replace-boros-with-redstar-after-41-days
-2024/08/21 09:30:15 Skipping writing post, no content: https://www.hltv.org/news/39665/blast-ban-snap-tap-for-showdown-onwards
-2024/08/21 09:30:15 Templated 54 posts, took 12.37002ms
+2024/08/21 09:40:42 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/21 09:40:42 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 165.947186ms
+2024/08/21 09:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39673/perfect-world-announces-cac-2025
+2024/08/21 09:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
+2024/08/21 09:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/21 09:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39670/esl-forces-teams-to-choose-rio-or-atlanta-qualifier-due-to-fairness-to-all-participants
+2024/08/21 09:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39669/jijiehao-bench-kjaerbye
+2024/08/21 09:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39663/shanghai-major-qualifier-super-week-set-to-start
+2024/08/21 09:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39668/blast-fall-showdown-teams-format-schedule-prizes-talent
+2024/08/21 09:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39667/all-you-need-to-know-about-blast-fall-showdown-fantasy
+2024/08/21 09:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39666/into-the-breach-replace-boros-with-redstar-after-41-days
+2024/08/21 09:40:42 Content still empty after HTML reader: https://www.hltv.org/news/39665/blast-ban-snap-tap-for-showdown-onwards
+2024/08/21 09:40:42 Fetched posts from https://www.hltv.org/rss/news, took 410.043028ms
+2024/08/21 09:40:42 Fetched posts from https://vlr.gg/rss, took 806.870648ms
+2024/08/21 09:40:43 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.35385681s
+2024/08/21 09:40:43 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.718057878s
+2024/08/21 09:40:43 Skipping writing post, no content: https://www.hltv.org/news/39673/perfect-world-announces-cac-2025
+2024/08/21 09:40:43 Skipping writing post, no content: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
+2024/08/21 09:40:43 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/21 09:40:43 Skipping writing post, no content: https://www.hltv.org/news/39670/esl-forces-teams-to-choose-rio-or-atlanta-qualifier-due-to-fairness-to-all-participants
+2024/08/21 09:40:43 Skipping writing post, no content: https://www.hltv.org/news/39669/jijiehao-bench-kjaerbye
+2024/08/21 09:40:43 Skipping writing post, no content: https://www.hltv.org/news/39663/shanghai-major-qualifier-super-week-set-to-start
+2024/08/21 09:40:43 Skipping writing post, no content: https://www.hltv.org/news/39668/blast-fall-showdown-teams-format-schedule-prizes-talent
+2024/08/21 09:40:43 Skipping writing post, no content: https://www.hltv.org/news/39667/all-you-need-to-know-about-blast-fall-showdown-fantasy
+2024/08/21 09:40:43 Skipping writing post, no content: https://www.hltv.org/news/39666/into-the-breach-replace-boros-with-redstar-after-41-days
+2024/08/21 09:40:43 Skipping writing post, no content: https://www.hltv.org/news/39665/blast-ban-snap-tap-for-showdown-onwards
+2024/08/21 09:40:43 Templated 54 posts, took 10.726669ms
