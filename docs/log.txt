@@ -1,27 +1,27 @@
-2024/08/21 18:12:05 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/21 18:12:05 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 140.10309ms
-2024/08/21 18:12:05 Content still empty after HTML reader: https://www.hltv.org/news/39674/dramatic-r3salt-clax-swap-finalized-moments-before-9-pandas-rmr-qualifier-campaign
-2024/08/21 18:12:05 Content still empty after HTML reader: https://www.hltv.org/news/39672/introducing-hltv-attributes
-2024/08/21 18:12:05 Content still empty after HTML reader: https://www.hltv.org/news/39673/perfect-world-announces-cac-2025
-2024/08/21 18:12:05 Content still empty after HTML reader: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
-2024/08/21 18:12:05 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/21 18:12:05 Content still empty after HTML reader: https://www.hltv.org/news/39670/esl-forces-teams-to-choose-rio-or-atlanta-qualifier-due-to-fairness-to-all-participants
-2024/08/21 18:12:05 Content still empty after HTML reader: https://www.hltv.org/news/39669/jijiehao-bench-kjaerbye
-2024/08/21 18:12:05 Content still empty after HTML reader: https://www.hltv.org/news/39663/shanghai-major-qualifier-super-week-set-to-start
-2024/08/21 18:12:05 Content still empty after HTML reader: https://www.hltv.org/news/39668/blast-fall-showdown-teams-format-schedule-prizes-talent
-2024/08/21 18:12:05 Content still empty after HTML reader: https://www.hltv.org/news/39667/all-you-need-to-know-about-blast-fall-showdown-fantasy
-2024/08/21 18:12:05 Fetched posts from https://www.hltv.org/rss/news, took 406.360284ms
-2024/08/21 18:12:05 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 903.098612ms
-2024/08/21 18:12:05 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 987.983653ms
-2024/08/21 18:12:06 Fetched posts from https://vlr.gg/rss, took 1.912426775s
-2024/08/21 18:12:06 Skipping writing post, no content: https://www.hltv.org/news/39674/dramatic-r3salt-clax-swap-finalized-moments-before-9-pandas-rmr-qualifier-campaign
-2024/08/21 18:12:06 Skipping writing post, no content: https://www.hltv.org/news/39672/introducing-hltv-attributes
-2024/08/21 18:12:06 Skipping writing post, no content: https://www.hltv.org/news/39673/perfect-world-announces-cac-2025
-2024/08/21 18:12:06 Skipping writing post, no content: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
-2024/08/21 18:12:06 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/21 18:12:06 Skipping writing post, no content: https://www.hltv.org/news/39670/esl-forces-teams-to-choose-rio-or-atlanta-qualifier-due-to-fairness-to-all-participants
-2024/08/21 18:12:06 Skipping writing post, no content: https://www.hltv.org/news/39669/jijiehao-bench-kjaerbye
-2024/08/21 18:12:06 Skipping writing post, no content: https://www.hltv.org/news/39663/shanghai-major-qualifier-super-week-set-to-start
-2024/08/21 18:12:06 Skipping writing post, no content: https://www.hltv.org/news/39668/blast-fall-showdown-teams-format-schedule-prizes-talent
-2024/08/21 18:12:06 Skipping writing post, no content: https://www.hltv.org/news/39667/all-you-need-to-know-about-blast-fall-showdown-fantasy
-2024/08/21 18:12:06 Templated 61 posts, took 9.00601ms
+2024/08/21 18:33:50 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/21 18:33:50 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 231.724143ms
+2024/08/21 18:33:51 Content still empty after HTML reader: https://www.hltv.org/news/39674/dramatic-r3salt-clax-swap-finalized-moments-before-9-pandas-rmr-qualifier-campaign
+2024/08/21 18:33:51 Content still empty after HTML reader: https://www.hltv.org/news/39672/introducing-hltv-attributes
+2024/08/21 18:33:51 Content still empty after HTML reader: https://www.hltv.org/news/39673/perfect-world-announces-cac-2025
+2024/08/21 18:33:51 Content still empty after HTML reader: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
+2024/08/21 18:33:51 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/21 18:33:51 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 804.842814ms
+2024/08/21 18:33:51 Content still empty after HTML reader: https://www.hltv.org/news/39670/esl-forces-teams-to-choose-rio-or-atlanta-qualifier-due-to-fairness-to-all-participants
+2024/08/21 18:33:51 Content still empty after HTML reader: https://www.hltv.org/news/39669/jijiehao-bench-kjaerbye
+2024/08/21 18:33:51 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 819.083899ms
+2024/08/21 18:33:51 Content still empty after HTML reader: https://www.hltv.org/news/39663/shanghai-major-qualifier-super-week-set-to-start
+2024/08/21 18:33:51 Content still empty after HTML reader: https://www.hltv.org/news/39668/blast-fall-showdown-teams-format-schedule-prizes-talent
+2024/08/21 18:33:51 Content still empty after HTML reader: https://www.hltv.org/news/39667/all-you-need-to-know-about-blast-fall-showdown-fantasy
+2024/08/21 18:33:51 Fetched posts from https://www.hltv.org/rss/news, took 853.739051ms
+2024/08/21 18:33:52 Fetched posts from https://vlr.gg/rss, took 1.844749378s
+2024/08/21 18:33:52 Skipping writing post, no content: https://www.hltv.org/news/39674/dramatic-r3salt-clax-swap-finalized-moments-before-9-pandas-rmr-qualifier-campaign
+2024/08/21 18:33:52 Skipping writing post, no content: https://www.hltv.org/news/39672/introducing-hltv-attributes
+2024/08/21 18:33:52 Skipping writing post, no content: https://www.hltv.org/news/39673/perfect-world-announces-cac-2025
+2024/08/21 18:33:52 Skipping writing post, no content: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
+2024/08/21 18:33:52 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/21 18:33:52 Skipping writing post, no content: https://www.hltv.org/news/39670/esl-forces-teams-to-choose-rio-or-atlanta-qualifier-due-to-fairness-to-all-participants
+2024/08/21 18:33:52 Skipping writing post, no content: https://www.hltv.org/news/39669/jijiehao-bench-kjaerbye
+2024/08/21 18:33:52 Skipping writing post, no content: https://www.hltv.org/news/39663/shanghai-major-qualifier-super-week-set-to-start
+2024/08/21 18:33:52 Skipping writing post, no content: https://www.hltv.org/news/39668/blast-fall-showdown-teams-format-schedule-prizes-talent
+2024/08/21 18:33:52 Skipping writing post, no content: https://www.hltv.org/news/39667/all-you-need-to-know-about-blast-fall-showdown-fantasy
+2024/08/21 18:33:52 Templated 61 posts, took 8.732279ms
