@@ -1,27 +1,29 @@
-2024/08/22 10:00:26 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/22 10:00:26 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 139.42499ms
-2024/08/22 10:00:26 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/22 10:00:26 Content still empty after HTML reader: https://www.hltv.org/news/39678/amkal-snap-nine-match-losing-streak-against-nip-in-fall-showdown
-2024/08/22 10:00:26 Content still empty after HTML reader: https://www.hltv.org/news/39677/ohnepixels-drillas-jijiehao-among-teams-through-to-middle-east-rmr-qualifier
-2024/08/22 10:00:26 Content still empty after HTML reader: https://www.hltv.org/news/39676/saw-as-og-eliminate-heroic-from-showdown-so-many-problems-we-need-to-fix
-2024/08/22 10:00:26 Content still empty after HTML reader: https://www.hltv.org/news/39675/ence-and-tsm-in-trouble-as-eu-rmr-cq-day-1-reaches-end
-2024/08/22 10:00:26 Content still empty after HTML reader: https://www.hltv.org/news/39674/dramatic-r3salt-clax-swap-finalized-moments-before-9-pandas-rmr-qualifier-campaign
-2024/08/22 10:00:26 Content still empty after HTML reader: https://www.hltv.org/news/39672/introducing-hltv-attributes
-2024/08/22 10:00:26 Content still empty after HTML reader: https://www.hltv.org/news/39673/perfect-world-announces-cac-2025
-2024/08/22 10:00:26 Content still empty after HTML reader: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
-2024/08/22 10:00:26 Content still empty after HTML reader: https://www.hltv.org/news/39670/esl-forces-teams-to-choose-rio-or-atlanta-qualifier-due-to-fairness-to-all-participants
-2024/08/22 10:00:26 Fetched posts from https://www.hltv.org/rss/news, took 391.578436ms
-2024/08/22 10:00:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.122662631s
-2024/08/22 10:00:27 Fetched posts from https://vlr.gg/rss, took 1.177816355s
-2024/08/22 10:00:27 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.264564412s
-2024/08/22 10:00:27 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/22 10:00:27 Skipping writing post, no content: https://www.hltv.org/news/39678/amkal-snap-nine-match-losing-streak-against-nip-in-fall-showdown
-2024/08/22 10:00:27 Skipping writing post, no content: https://www.hltv.org/news/39677/ohnepixels-drillas-jijiehao-among-teams-through-to-middle-east-rmr-qualifier
-2024/08/22 10:00:27 Skipping writing post, no content: https://www.hltv.org/news/39676/saw-as-og-eliminate-heroic-from-showdown-so-many-problems-we-need-to-fix
-2024/08/22 10:00:27 Skipping writing post, no content: https://www.hltv.org/news/39675/ence-and-tsm-in-trouble-as-eu-rmr-cq-day-1-reaches-end
-2024/08/22 10:00:27 Skipping writing post, no content: https://www.hltv.org/news/39674/dramatic-r3salt-clax-swap-finalized-moments-before-9-pandas-rmr-qualifier-campaign
-2024/08/22 10:00:27 Skipping writing post, no content: https://www.hltv.org/news/39672/introducing-hltv-attributes
-2024/08/22 10:00:27 Skipping writing post, no content: https://www.hltv.org/news/39673/perfect-world-announces-cac-2025
-2024/08/22 10:00:27 Skipping writing post, no content: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
-2024/08/22 10:00:27 Skipping writing post, no content: https://www.hltv.org/news/39670/esl-forces-teams-to-choose-rio-or-atlanta-qualifier-due-to-fairness-to-all-participants
-2024/08/22 10:00:27 Templated 57 posts, took 8.419464ms
+2024/08/22 10:25:58 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/22 10:25:58 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 162.045661ms
+2024/08/22 10:25:59 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/22 10:25:59 Content still empty after HTML reader: https://www.hltv.org/news/39678/amkal-snap-nine-match-losing-streak-against-nip-in-fall-showdown
+2024/08/22 10:25:59 Content still empty after HTML reader: https://www.hltv.org/news/39677/ohnepixels-drillas-jijiehao-among-teams-through-to-middle-east-rmr-qualifier
+2024/08/22 10:25:59 Content still empty after HTML reader: https://www.hltv.org/news/39676/saw-as-og-eliminate-heroic-from-showdown-so-many-problems-we-need-to-fix
+2024/08/22 10:25:59 Content still empty after HTML reader: https://www.nytimes.com/2024/08/22/world/europe/sicily-yacht-mike-lynch.html
+2024/08/22 10:25:59 Content still empty after HTML reader: https://www.hltv.org/news/39675/ence-and-tsm-in-trouble-as-eu-rmr-cq-day-1-reaches-end
+2024/08/22 10:25:59 Content still empty after HTML reader: https://www.hltv.org/news/39674/dramatic-r3salt-clax-swap-finalized-moments-before-9-pandas-rmr-qualifier-campaign
+2024/08/22 10:25:59 Content still empty after HTML reader: https://www.hltv.org/news/39672/introducing-hltv-attributes
+2024/08/22 10:25:59 Content still empty after HTML reader: https://www.hltv.org/news/39673/perfect-world-announces-cac-2025
+2024/08/22 10:25:59 Content still empty after HTML reader: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
+2024/08/22 10:25:59 Fetched posts from https://vlr.gg/rss, took 703.932992ms
+2024/08/22 10:25:59 Content still empty after HTML reader: https://www.hltv.org/news/39670/esl-forces-teams-to-choose-rio-or-atlanta-qualifier-due-to-fairness-to-all-participants
+2024/08/22 10:25:59 Fetched posts from https://www.hltv.org/rss/news, took 714.970725ms
+2024/08/22 10:25:59 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.063402863s
+2024/08/22 10:26:00 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.277725317s
+2024/08/22 10:26:00 Skipping writing post, no content: https://www.nytimes.com/2024/08/22/world/europe/sicily-yacht-mike-lynch.html
+2024/08/22 10:26:00 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/22 10:26:00 Skipping writing post, no content: https://www.hltv.org/news/39678/amkal-snap-nine-match-losing-streak-against-nip-in-fall-showdown
+2024/08/22 10:26:00 Skipping writing post, no content: https://www.hltv.org/news/39677/ohnepixels-drillas-jijiehao-among-teams-through-to-middle-east-rmr-qualifier
+2024/08/22 10:26:00 Skipping writing post, no content: https://www.hltv.org/news/39676/saw-as-og-eliminate-heroic-from-showdown-so-many-problems-we-need-to-fix
+2024/08/22 10:26:00 Skipping writing post, no content: https://www.hltv.org/news/39675/ence-and-tsm-in-trouble-as-eu-rmr-cq-day-1-reaches-end
+2024/08/22 10:26:00 Skipping writing post, no content: https://www.hltv.org/news/39674/dramatic-r3salt-clax-swap-finalized-moments-before-9-pandas-rmr-qualifier-campaign
+2024/08/22 10:26:00 Skipping writing post, no content: https://www.hltv.org/news/39672/introducing-hltv-attributes
+2024/08/22 10:26:00 Skipping writing post, no content: https://www.hltv.org/news/39673/perfect-world-announces-cac-2025
+2024/08/22 10:26:00 Skipping writing post, no content: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
+2024/08/22 10:26:00 Skipping writing post, no content: https://www.hltv.org/news/39670/esl-forces-teams-to-choose-rio-or-atlanta-qualifier-due-to-fairness-to-all-participants
+2024/08/22 10:26:00 Templated 58 posts, took 9.264924ms
