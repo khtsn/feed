@@ -1,27 +1,31 @@
-2024/08/23 13:01:03 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/23 13:01:03 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 139.323629ms
-2024/08/23 13:01:03 Content still empty after HTML reader: https://www.hltv.org/news/39686/monte-eliminate-ence-in-1-2-round-of-the-eu-rmrs-closed-qualifier
-2024/08/23 13:01:03 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/23 13:01:03 Content still empty after HTML reader: https://www.hltv.org/news/39685/betboom-dacha-belgrade-s2-teams-format-schedule-prizes-talent
-2024/08/23 13:01:03 Content still empty after HTML reader: https://www.hltv.org/news/39684/complexity-and-falcons-to-clash-in-showdown-quarter-finals
-2024/08/23 13:01:03 Content still empty after HTML reader: https://www.hltv.org/news/39683/1win-enterprise-amkal-and-zero-tenacity-eliminated-as-eu-rmr-cq-day-two-concludes
-2024/08/23 13:01:03 Content still empty after HTML reader: https://www.hltv.org/news/39682/blast-world-final-moves-to-singapore
-2024/08/23 13:01:03 Content still empty after HTML reader: https://www.hltv.org/news/39681/saw-cloud9-sinners-and-sangal-qualify-for-europe-rmrs
-2024/08/23 13:01:03 Content still empty after HTML reader: https://www.hltv.org/news/39680/rooster-qualify-for-esl-challenger-atlanta
-2024/08/23 13:01:03 Content still empty after HTML reader: https://www.hltv.org/news/39678/amkal-snap-nine-match-losing-streak-against-nip-in-fall-showdown
-2024/08/23 13:01:03 Content still empty after HTML reader: https://www.hltv.org/news/39677/ohnepixels-drillas-jijiehao-among-teams-through-to-middle-east-rmr-qualifier
-2024/08/23 13:01:03 Fetched posts from https://www.hltv.org/rss/news, took 609.490838ms
-2024/08/23 13:01:03 Fetched posts from https://vlr.gg/rss, took 858.202366ms
-2024/08/23 13:01:03 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 934.459106ms
-2024/08/23 13:01:04 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.040184333s
-2024/08/23 13:01:04 Skipping writing post, no content: https://www.hltv.org/news/39686/monte-eliminate-ence-in-1-2-round-of-the-eu-rmrs-closed-qualifier
-2024/08/23 13:01:04 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/23 13:01:04 Skipping writing post, no content: https://www.hltv.org/news/39685/betboom-dacha-belgrade-s2-teams-format-schedule-prizes-talent
-2024/08/23 13:01:04 Skipping writing post, no content: https://www.hltv.org/news/39684/complexity-and-falcons-to-clash-in-showdown-quarter-finals
-2024/08/23 13:01:04 Skipping writing post, no content: https://www.hltv.org/news/39683/1win-enterprise-amkal-and-zero-tenacity-eliminated-as-eu-rmr-cq-day-two-concludes
-2024/08/23 13:01:04 Skipping writing post, no content: https://www.hltv.org/news/39682/blast-world-final-moves-to-singapore
-2024/08/23 13:01:04 Skipping writing post, no content: https://www.hltv.org/news/39681/saw-cloud9-sinners-and-sangal-qualify-for-europe-rmrs
-2024/08/23 13:01:04 Skipping writing post, no content: https://www.hltv.org/news/39680/rooster-qualify-for-esl-challenger-atlanta
-2024/08/23 13:01:04 Skipping writing post, no content: https://www.hltv.org/news/39678/amkal-snap-nine-match-losing-streak-against-nip-in-fall-showdown
-2024/08/23 13:01:04 Skipping writing post, no content: https://www.hltv.org/news/39677/ohnepixels-drillas-jijiehao-among-teams-through-to-middle-east-rmr-qualifier
-2024/08/23 13:01:04 Templated 60 posts, took 9.048699ms
+2024/08/23 13:25:03 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/23 13:25:03 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 195.379492ms
+2024/08/23 13:25:03 Content still empty after HTML reader: https://www.hltv.org/news/39686/monte-end-ences-seven-major-streak-in-1-2-round-of-the-eu-rmrs-closed-qualifier
+2024/08/23 13:25:03 Content still empty after HTML reader: https://www.nytimes.com/2024/08/23/business/stock-market-election-season.html
+2024/08/23 13:25:03 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/23 13:25:03 Content still empty after HTML reader: https://www.hltv.org/news/39685/betboom-dacha-belgrade-s2-teams-format-schedule-prizes-talent
+2024/08/23 13:25:03 Content still empty after HTML reader: https://www.hltv.org/news/39684/complexity-and-falcons-to-clash-in-showdown-quarter-finals
+2024/08/23 13:25:03 Content still empty after HTML reader: https://www.vlr.gg/394733/riot-announces-vct-2025-details
+2024/08/23 13:25:03 Content still empty after HTML reader: https://www.hltv.org/news/39683/1win-enterprise-amkal-and-zero-tenacity-eliminated-as-eu-rmr-cq-day-two-concludes
+2024/08/23 13:25:03 Content still empty after HTML reader: https://www.hltv.org/news/39682/blast-world-final-moves-to-singapore
+2024/08/23 13:25:03 Content still empty after HTML reader: https://www.hltv.org/news/39681/saw-cloud9-sinners-and-sangal-qualify-for-europe-rmrs
+2024/08/23 13:25:03 Content still empty after HTML reader: https://www.hltv.org/news/39680/rooster-qualify-for-esl-challenger-atlanta
+2024/08/23 13:25:03 Content still empty after HTML reader: https://www.hltv.org/news/39678/amkal-snap-nine-match-losing-streak-against-nip-in-fall-showdown
+2024/08/23 13:25:03 Content still empty after HTML reader: https://www.hltv.org/news/39677/ohnepixels-drillas-jijiehao-among-teams-through-to-middle-east-rmr-qualifier
+2024/08/23 13:25:03 Fetched posts from https://www.hltv.org/rss/news, took 504.394959ms
+2024/08/23 13:25:03 Fetched posts from https://vlr.gg/rss, took 689.72493ms
+2024/08/23 13:25:03 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 937.315602ms
+2024/08/23 13:25:04 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.000488205s
+2024/08/23 13:25:04 Skipping writing post, no content: https://www.hltv.org/news/39686/monte-end-ences-seven-major-streak-in-1-2-round-of-the-eu-rmrs-closed-qualifier
+2024/08/23 13:25:04 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/23 13:25:04 Skipping writing post, no content: https://www.nytimes.com/2024/08/23/business/stock-market-election-season.html
+2024/08/23 13:25:04 Skipping writing post, no content: https://www.hltv.org/news/39685/betboom-dacha-belgrade-s2-teams-format-schedule-prizes-talent
+2024/08/23 13:25:04 Skipping writing post, no content: https://www.hltv.org/news/39684/complexity-and-falcons-to-clash-in-showdown-quarter-finals
+2024/08/23 13:25:04 Skipping writing post, no content: https://www.hltv.org/news/39683/1win-enterprise-amkal-and-zero-tenacity-eliminated-as-eu-rmr-cq-day-two-concludes
+2024/08/23 13:25:04 Skipping writing post, no content: https://www.hltv.org/news/39682/blast-world-final-moves-to-singapore
+2024/08/23 13:25:04 Skipping writing post, no content: https://www.hltv.org/news/39681/saw-cloud9-sinners-and-sangal-qualify-for-europe-rmrs
+2024/08/23 13:25:04 Skipping writing post, no content: https://www.hltv.org/news/39680/rooster-qualify-for-esl-challenger-atlanta
+2024/08/23 13:25:04 Skipping writing post, no content: https://www.hltv.org/news/39678/amkal-snap-nine-match-losing-streak-against-nip-in-fall-showdown
+2024/08/23 13:25:04 Skipping writing post, no content: https://www.hltv.org/news/39677/ohnepixels-drillas-jijiehao-among-teams-through-to-middle-east-rmr-qualifier
+2024/08/23 13:25:04 Skipping writing post, no content: https://www.vlr.gg/394733/riot-announces-vct-2025-details
+2024/08/23 13:25:04 Templated 59 posts, took 8.987728ms
