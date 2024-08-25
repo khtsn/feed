@@ -1,29 +1,27 @@
-2024/08/25 15:36:57 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/25 15:36:57 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 178.595773ms
-2024/08/25 15:36:57 Content still empty after HTML reader: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
-2024/08/25 15:36:57 Content still empty after HTML reader: https://www.hltv.org/news/39700/pain-through-to-bb-dacha-playoffs-betboom-eliminated
-2024/08/25 15:36:57 Content still empty after HTML reader: https://www.hltv.org/news/39697/parivision-disqualified-from-europe-rmr-over-banned-coach-involvement
-2024/08/25 15:36:57 Content still empty after HTML reader: https://www.hltv.org/news/39699/steel-helmet-among-five-teams-to-secure-spots-in-china-rmr-closed-qualifier
-2024/08/25 15:36:57 Content still empty after HTML reader: https://www.hltv.org/news/39696/faze-vp-prevail-in-showdown-quarter-finals
-2024/08/25 15:36:57 Content still empty after HTML reader: https://www.hltv.org/news/39695/bleed-b8-among-yalla-compass-summer-invites
-2024/08/25 15:36:57 Content still empty after HTML reader: https://www.hltv.org/news/39694/r3salt-ive-moved-to-9-pandas-to-f-even-harder-than-i-do-now
-2024/08/25 15:36:57 Content still empty after HTML reader: https://www.nytimes.com/2024/08/25/world/europe/bayesian-yacht-investigation.html
-2024/08/25 15:36:57 Content still empty after HTML reader: https://www.hltv.org/news/39693/9z-and-pain-triumph-in-bb-dacha-play-in-openers
-2024/08/25 15:36:57 Content still empty after HTML reader: https://www.hltv.org/news/39692/complexitys-woes-continue-with-showdown-exit
-2024/08/25 15:36:58 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/25 15:36:58 Fetched posts from https://www.hltv.org/rss/news, took 384.537813ms
-2024/08/25 15:36:58 Fetched posts from https://vlr.gg/rss, took 595.609022ms
-2024/08/25 15:36:58 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 747.181487ms
-2024/08/25 15:36:58 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 848.215385ms
-2024/08/25 15:36:58 Skipping writing post, no content: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
-2024/08/25 15:36:58 Skipping writing post, no content: https://www.hltv.org/news/39700/pain-through-to-bb-dacha-playoffs-betboom-eliminated
-2024/08/25 15:36:58 Skipping writing post, no content: https://www.hltv.org/news/39697/parivision-disqualified-from-europe-rmr-over-banned-coach-involvement
-2024/08/25 15:36:58 Skipping writing post, no content: https://www.hltv.org/news/39699/steel-helmet-among-five-teams-to-secure-spots-in-china-rmr-closed-qualifier
-2024/08/25 15:36:58 Skipping writing post, no content: https://www.nytimes.com/2024/08/25/world/europe/bayesian-yacht-investigation.html
-2024/08/25 15:36:58 Skipping writing post, no content: https://www.hltv.org/news/39696/faze-vp-prevail-in-showdown-quarter-finals
-2024/08/25 15:36:58 Skipping writing post, no content: https://www.hltv.org/news/39695/bleed-b8-among-yalla-compass-summer-invites
-2024/08/25 15:36:58 Skipping writing post, no content: https://www.hltv.org/news/39694/r3salt-ive-moved-to-9-pandas-to-f-even-harder-than-i-do-now
-2024/08/25 15:36:58 Skipping writing post, no content: https://www.hltv.org/news/39693/9z-and-pain-triumph-in-bb-dacha-play-in-openers
-2024/08/25 15:36:58 Skipping writing post, no content: https://www.hltv.org/news/39692/complexitys-woes-continue-with-showdown-exit
-2024/08/25 15:36:58 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/25 15:36:58 Templated 55 posts, took 8.123157ms
+2024/08/25 15:47:30 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/25 15:47:30 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 146.293766ms
+2024/08/25 15:47:30 Content still empty after HTML reader: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
+2024/08/25 15:47:30 Content still empty after HTML reader: https://www.hltv.org/news/39700/pain-through-to-bb-dacha-playoffs-betboom-eliminated
+2024/08/25 15:47:30 Content still empty after HTML reader: https://www.hltv.org/news/39697/parivision-disqualified-from-europe-rmr-over-banned-coach-involvement
+2024/08/25 15:47:30 Content still empty after HTML reader: https://www.hltv.org/news/39699/steel-helmet-among-five-teams-to-secure-spots-in-china-rmr-closed-qualifier
+2024/08/25 15:47:30 Content still empty after HTML reader: https://www.hltv.org/news/39696/faze-vp-prevail-in-showdown-quarter-finals
+2024/08/25 15:47:30 Content still empty after HTML reader: https://www.hltv.org/news/39695/bleed-b8-among-yalla-compass-summer-invites
+2024/08/25 15:47:30 Content still empty after HTML reader: https://www.hltv.org/news/39694/r3salt-ive-moved-to-9-pandas-to-f-even-harder-than-i-do-now
+2024/08/25 15:47:30 Content still empty after HTML reader: https://www.hltv.org/news/39693/9z-and-pain-triumph-in-bb-dacha-play-in-openers
+2024/08/25 15:47:30 Content still empty after HTML reader: https://www.hltv.org/news/39692/complexitys-woes-continue-with-showdown-exit
+2024/08/25 15:47:30 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/25 15:47:30 Fetched posts from https://www.hltv.org/rss/news, took 470.921305ms
+2024/08/25 15:47:30 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 776.5606ms
+2024/08/25 15:47:30 Fetched posts from https://vlr.gg/rss, took 917.14986ms
+2024/08/25 15:47:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.040673035s
+2024/08/25 15:47:30 Skipping writing post, no content: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
+2024/08/25 15:47:30 Skipping writing post, no content: https://www.hltv.org/news/39700/pain-through-to-bb-dacha-playoffs-betboom-eliminated
+2024/08/25 15:47:30 Skipping writing post, no content: https://www.hltv.org/news/39697/parivision-disqualified-from-europe-rmr-over-banned-coach-involvement
+2024/08/25 15:47:30 Skipping writing post, no content: https://www.hltv.org/news/39699/steel-helmet-among-five-teams-to-secure-spots-in-china-rmr-closed-qualifier
+2024/08/25 15:47:30 Skipping writing post, no content: https://www.hltv.org/news/39696/faze-vp-prevail-in-showdown-quarter-finals
+2024/08/25 15:47:30 Skipping writing post, no content: https://www.hltv.org/news/39695/bleed-b8-among-yalla-compass-summer-invites
+2024/08/25 15:47:30 Skipping writing post, no content: https://www.hltv.org/news/39694/r3salt-ive-moved-to-9-pandas-to-f-even-harder-than-i-do-now
+2024/08/25 15:47:30 Skipping writing post, no content: https://www.hltv.org/news/39693/9z-and-pain-triumph-in-bb-dacha-play-in-openers
+2024/08/25 15:47:30 Skipping writing post, no content: https://www.hltv.org/news/39692/complexitys-woes-continue-with-showdown-exit
+2024/08/25 15:47:30 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/25 15:47:30 Templated 55 posts, took 7.714609ms
