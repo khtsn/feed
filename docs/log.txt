@@ -1,29 +1,27 @@
-2024/08/26 10:51:41 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/26 10:51:41 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 204.812075ms
-2024/08/26 10:51:41 Content still empty after HTML reader: https://www.hltv.org/news/39707/media-niko-to-join-falcons-after-shanghai-major
-2024/08/26 10:51:41 Content still empty after HTML reader: https://www.hltv.org/news/39706/short-news-week-35
-2024/08/26 10:51:41 Content still empty after HTML reader: https://www.nytimes.com/2024/08/26/arts/design/rashid-johnson-guggenheim.html
-2024/08/26 10:51:41 Content still empty after HTML reader: https://www.hltv.org/news/39705/hltv-confirmed-rmr-qualifiers-niko-rumors-showdown-results
-2024/08/26 10:51:41 Content still empty after HTML reader: https://www.hltv.org/news/39702/woxic-it-needs-to-be-the-main-goal-for-us-to-go-for-first-place
-2024/08/26 10:51:41 Content still empty after HTML reader: https://www.hltv.org/news/39704/9-pandas-slam-furia-at-betboom-dacha
-2024/08/26 10:51:41 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/26 10:51:41 Content still empty after HTML reader: https://www.hltv.org/news/39703/faze-and-falcons-cruise-to-blast-fall-final
-2024/08/26 10:51:41 Content still empty after HTML reader: https://www.hltv.org/news/39701/biguzera-my-feeling-is-im-the-teams-father
-2024/08/26 10:51:41 Content still empty after HTML reader: https://www.hltv.org/news/39698/magisk-sometimes-we-only-start-playing-proper-cs-in-the-elimination-matches
-2024/08/26 10:51:41 Content still empty after HTML reader: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
-2024/08/26 10:51:41 Fetched posts from https://www.hltv.org/rss/news, took 517.059072ms
-2024/08/26 10:51:42 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 748.953189ms
-2024/08/26 10:51:42 Fetched posts from https://vlr.gg/rss, took 809.084434ms
-2024/08/26 10:51:43 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.934137532s
-2024/08/26 10:51:43 Skipping writing post, no content: https://www.hltv.org/news/39707/media-niko-to-join-falcons-after-shanghai-major
-2024/08/26 10:51:43 Skipping writing post, no content: https://www.hltv.org/news/39706/short-news-week-35
-2024/08/26 10:51:43 Skipping writing post, no content: https://www.hltv.org/news/39705/hltv-confirmed-rmr-qualifiers-niko-rumors-showdown-results
-2024/08/26 10:51:43 Skipping writing post, no content: https://www.nytimes.com/2024/08/26/arts/design/rashid-johnson-guggenheim.html
-2024/08/26 10:51:43 Skipping writing post, no content: https://www.hltv.org/news/39702/woxic-it-needs-to-be-the-main-goal-for-us-to-go-for-first-place
-2024/08/26 10:51:43 Skipping writing post, no content: https://www.hltv.org/news/39704/9-pandas-slam-furia-at-betboom-dacha
-2024/08/26 10:51:43 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/26 10:51:43 Skipping writing post, no content: https://www.hltv.org/news/39703/faze-and-falcons-cruise-to-blast-fall-final
-2024/08/26 10:51:43 Skipping writing post, no content: https://www.hltv.org/news/39701/biguzera-my-feeling-is-im-the-teams-father
-2024/08/26 10:51:43 Skipping writing post, no content: https://www.hltv.org/news/39698/magisk-sometimes-we-only-start-playing-proper-cs-in-the-elimination-matches
-2024/08/26 10:51:43 Skipping writing post, no content: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
-2024/08/26 10:51:43 Templated 55 posts, took 7.738971ms
+2024/08/26 11:08:35 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/26 11:08:35 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 281.56868ms
+2024/08/26 11:08:35 Content still empty after HTML reader: https://www.hltv.org/news/39708/falcons-get-revenge-on-9z-to-book-betboom-dacha-playoff-spot
+2024/08/26 11:08:35 Content still empty after HTML reader: https://www.hltv.org/news/39707/media-niko-to-join-falcons-after-shanghai-major
+2024/08/26 11:08:35 Content still empty after HTML reader: https://www.hltv.org/news/39706/short-news-week-35
+2024/08/26 11:08:35 Content still empty after HTML reader: https://www.hltv.org/news/39705/hltv-confirmed-rmr-qualifiers-niko-rumors-showdown-results
+2024/08/26 11:08:35 Content still empty after HTML reader: https://www.hltv.org/news/39702/woxic-it-needs-to-be-the-main-goal-for-us-to-go-for-first-place
+2024/08/26 11:08:35 Content still empty after HTML reader: https://www.hltv.org/news/39704/9-pandas-slam-furia-at-betboom-dacha
+2024/08/26 11:08:35 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/26 11:08:35 Content still empty after HTML reader: https://www.hltv.org/news/39703/faze-and-falcons-cruise-to-blast-fall-final
+2024/08/26 11:08:35 Content still empty after HTML reader: https://www.hltv.org/news/39701/biguzera-my-feeling-is-im-the-teams-father
+2024/08/26 11:08:35 Content still empty after HTML reader: https://www.hltv.org/news/39698/magisk-sometimes-we-only-start-playing-proper-cs-in-the-elimination-matches
+2024/08/26 11:08:35 Fetched posts from https://www.hltv.org/rss/news, took 507.757942ms
+2024/08/26 11:08:36 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 882.377725ms
+2024/08/26 11:08:37 Fetched posts from https://vlr.gg/rss, took 1.866646666s
+2024/08/26 11:08:39 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 4.330398111s
+2024/08/26 11:08:39 Skipping writing post, no content: https://www.hltv.org/news/39708/falcons-get-revenge-on-9z-to-book-betboom-dacha-playoff-spot
+2024/08/26 11:08:39 Skipping writing post, no content: https://www.hltv.org/news/39707/media-niko-to-join-falcons-after-shanghai-major
+2024/08/26 11:08:39 Skipping writing post, no content: https://www.hltv.org/news/39706/short-news-week-35
+2024/08/26 11:08:39 Skipping writing post, no content: https://www.hltv.org/news/39705/hltv-confirmed-rmr-qualifiers-niko-rumors-showdown-results
+2024/08/26 11:08:39 Skipping writing post, no content: https://www.hltv.org/news/39702/woxic-it-needs-to-be-the-main-goal-for-us-to-go-for-first-place
+2024/08/26 11:08:39 Skipping writing post, no content: https://www.hltv.org/news/39704/9-pandas-slam-furia-at-betboom-dacha
+2024/08/26 11:08:39 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/26 11:08:39 Skipping writing post, no content: https://www.hltv.org/news/39703/faze-and-falcons-cruise-to-blast-fall-final
+2024/08/26 11:08:39 Skipping writing post, no content: https://www.hltv.org/news/39701/biguzera-my-feeling-is-im-the-teams-father
+2024/08/26 11:08:39 Skipping writing post, no content: https://www.hltv.org/news/39698/magisk-sometimes-we-only-start-playing-proper-cs-in-the-elimination-matches
+2024/08/26 11:08:39 Templated 55 posts, took 7.835324ms
