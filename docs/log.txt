@@ -1,29 +1,27 @@
-2024/08/26 05:33:47 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/26 05:33:47 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 206.632797ms
-2024/08/26 05:33:47 Content still empty after HTML reader: https://www.hltv.org/news/39702/woxic-it-needs-to-be-the-main-goal-for-us-to-go-for-first-place
-2024/08/26 05:33:47 Content still empty after HTML reader: https://www.hltv.org/news/39704/9-pandas-slam-furia-at-betboom-dacha
-2024/08/26 05:33:47 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/26 05:33:47 Content still empty after HTML reader: https://www.hltv.org/news/39703/faze-and-falcons-cruise-to-blast-fall-final
-2024/08/26 05:33:47 Content still empty after HTML reader: https://www.hltv.org/news/39701/biguzera-my-feeling-is-im-the-teams-father
-2024/08/26 05:33:47 Content still empty after HTML reader: https://www.hltv.org/news/39698/magisk-sometimes-we-only-start-playing-proper-cs-in-the-elimination-matches
-2024/08/26 05:33:47 Content still empty after HTML reader: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
-2024/08/26 05:33:47 Content still empty after HTML reader: https://www.hltv.org/news/39700/pain-through-to-bb-dacha-playoffs-betboom-eliminated
-2024/08/26 05:33:47 Content still empty after HTML reader: https://www.hltv.org/news/39697/parivision-disqualified-from-europe-rmr-over-banned-coach-involvement
-2024/08/26 05:33:47 Content still empty after HTML reader: https://www.vlr.gg/395470/edward-gaming-take-down-levi-tan-advance-to-chinas-first-ever-international-grand-final
-2024/08/26 05:33:47 Content still empty after HTML reader: https://www.hltv.org/news/39699/steel-helmet-among-five-teams-to-secure-spots-in-china-rmr-closed-qualifier
-2024/08/26 05:33:47 Fetched posts from https://www.hltv.org/rss/news, took 432.644016ms
-2024/08/26 05:33:47 Fetched posts from https://vlr.gg/rss, took 688.160777ms
-2024/08/26 05:33:48 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 900.272456ms
-2024/08/26 05:33:48 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.225193866s
-2024/08/26 05:33:48 Skipping writing post, no content: https://www.hltv.org/news/39702/woxic-it-needs-to-be-the-main-goal-for-us-to-go-for-first-place
-2024/08/26 05:33:48 Skipping writing post, no content: https://www.hltv.org/news/39704/9-pandas-slam-furia-at-betboom-dacha
-2024/08/26 05:33:48 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
-2024/08/26 05:33:48 Skipping writing post, no content: https://www.hltv.org/news/39703/faze-and-falcons-cruise-to-blast-fall-final
-2024/08/26 05:33:48 Skipping writing post, no content: https://www.hltv.org/news/39701/biguzera-my-feeling-is-im-the-teams-father
-2024/08/26 05:33:48 Skipping writing post, no content: https://www.hltv.org/news/39698/magisk-sometimes-we-only-start-playing-proper-cs-in-the-elimination-matches
-2024/08/26 05:33:48 Skipping writing post, no content: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
-2024/08/26 05:33:48 Skipping writing post, no content: https://www.hltv.org/news/39700/pain-through-to-bb-dacha-playoffs-betboom-eliminated
-2024/08/26 05:33:48 Skipping writing post, no content: https://www.hltv.org/news/39697/parivision-disqualified-from-europe-rmr-over-banned-coach-involvement
-2024/08/26 05:33:48 Skipping writing post, no content: https://www.hltv.org/news/39699/steel-helmet-among-five-teams-to-secure-spots-in-china-rmr-closed-qualifier
-2024/08/26 05:33:48 Skipping writing post, no content: https://www.vlr.gg/395470/edward-gaming-take-down-levi-tan-advance-to-chinas-first-ever-international-grand-final
-2024/08/26 05:33:48 Templated 53 posts, took 7.341955ms
+2024/08/26 05:44:09 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/26 05:44:09 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 127.795635ms
+2024/08/26 05:44:09 Content still empty after HTML reader: https://www.hltv.org/news/39702/woxic-it-needs-to-be-the-main-goal-for-us-to-go-for-first-place
+2024/08/26 05:44:09 Content still empty after HTML reader: https://www.hltv.org/news/39704/9-pandas-slam-furia-at-betboom-dacha
+2024/08/26 05:44:09 Content still empty after HTML reader: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/26 05:44:09 Content still empty after HTML reader: https://www.hltv.org/news/39703/faze-and-falcons-cruise-to-blast-fall-final
+2024/08/26 05:44:09 Content still empty after HTML reader: https://www.hltv.org/news/39701/biguzera-my-feeling-is-im-the-teams-father
+2024/08/26 05:44:09 Content still empty after HTML reader: https://www.hltv.org/news/39698/magisk-sometimes-we-only-start-playing-proper-cs-in-the-elimination-matches
+2024/08/26 05:44:09 Content still empty after HTML reader: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
+2024/08/26 05:44:09 Content still empty after HTML reader: https://www.hltv.org/news/39700/pain-through-to-bb-dacha-playoffs-betboom-eliminated
+2024/08/26 05:44:09 Content still empty after HTML reader: https://www.hltv.org/news/39697/parivision-disqualified-from-europe-rmr-over-banned-coach-involvement
+2024/08/26 05:44:09 Content still empty after HTML reader: https://www.hltv.org/news/39699/steel-helmet-among-five-teams-to-secure-spots-in-china-rmr-closed-qualifier
+2024/08/26 05:44:09 Fetched posts from https://www.hltv.org/rss/news, took 438.437069ms
+2024/08/26 05:44:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 889.492119ms
+2024/08/26 05:44:10 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.353645493s
+2024/08/26 05:44:10 Fetched posts from https://vlr.gg/rss, took 1.758751846s
+2024/08/26 05:44:10 Skipping writing post, no content: https://www.hltv.org/news/39702/woxic-it-needs-to-be-the-main-goal-for-us-to-go-for-first-place
+2024/08/26 05:44:10 Skipping writing post, no content: https://www.hltv.org/news/39704/9-pandas-slam-furia-at-betboom-dacha
+2024/08/26 05:44:10 Skipping writing post, no content: https://www.hltv.org/news/39654/short-news-week-34
+2024/08/26 05:44:10 Skipping writing post, no content: https://www.hltv.org/news/39703/faze-and-falcons-cruise-to-blast-fall-final
+2024/08/26 05:44:10 Skipping writing post, no content: https://www.hltv.org/news/39701/biguzera-my-feeling-is-im-the-teams-father
+2024/08/26 05:44:10 Skipping writing post, no content: https://www.hltv.org/news/39698/magisk-sometimes-we-only-start-playing-proper-cs-in-the-elimination-matches
+2024/08/26 05:44:10 Skipping writing post, no content: https://www.hltv.org/news/39671/live-updates-from-shanghai-major-rmr-qualifiers
+2024/08/26 05:44:10 Skipping writing post, no content: https://www.hltv.org/news/39700/pain-through-to-bb-dacha-playoffs-betboom-eliminated
+2024/08/26 05:44:10 Skipping writing post, no content: https://www.hltv.org/news/39697/parivision-disqualified-from-europe-rmr-over-banned-coach-involvement
+2024/08/26 05:44:10 Skipping writing post, no content: https://www.hltv.org/news/39699/steel-helmet-among-five-teams-to-secure-spots-in-china-rmr-closed-qualifier
+2024/08/26 05:44:10 Templated 54 posts, took 7.58363ms
