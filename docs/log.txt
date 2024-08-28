@@ -1,29 +1,27 @@
-2024/08/28 21:45:05 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/28 21:45:05 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 255.881445ms
-2024/08/28 21:45:05 Content still empty after HTML reader: https://www.nytimes.com/2024/08/28/us/politics/supreme-court-biden-student-loans.html
-2024/08/28 21:45:05 Content still empty after HTML reader: https://www.hltv.org/news/39733/pain-beat-struggling-heroic-at-bb-dacha
-2024/08/28 21:45:05 Content still empty after HTML reader: https://www.hltv.org/news/39731/esl-pro-league-season-20-talent-announced
-2024/08/28 21:45:05 Content still empty after HTML reader: https://www.hltv.org/news/39730/amanek-returns-in-esc
-2024/08/28 21:45:05 Content still empty after HTML reader: https://www.hltv.org/news/39732/heroic-smash-falcons-to-qualify-for-iem-rio
-2024/08/28 21:45:05 Content still empty after HTML reader: https://www.hltv.org/news/39729/furia-ease-past-virtuspro-at-bb-dacha
-2024/08/28 21:45:05 Content still empty after HTML reader: https://www.hltv.org/news/39728/strong-starts-push-spirit-past-falcons-in-belgrade
-2024/08/28 21:45:05 Content still empty after HTML reader: https://www.hltv.org/news/39706/short-news-week-35
-2024/08/28 21:45:05 Content still empty after HTML reader: https://www.hltv.org/news/39727/pgl-acquires-esportal-assets
-2024/08/28 21:45:05 Content still empty after HTML reader: https://www.hltv.org/news/39717/siuhy-sometimes-we-just-forget-to-relax-and-regenerate
-2024/08/28 21:45:05 Content still empty after HTML reader: https://www.hltv.org/news/39726/live-updates-from-betboom-dacha-belgrade-season-2-day-one
-2024/08/28 21:45:05 Fetched posts from https://www.hltv.org/rss/news, took 468.791943ms
-2024/08/28 21:45:05 Fetched posts from https://vlr.gg/rss, took 823.208777ms
-2024/08/28 21:45:06 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.195975737s
-2024/08/28 21:45:06 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.620833143s
-2024/08/28 21:45:06 Skipping writing post, no content: https://www.hltv.org/news/39733/pain-beat-struggling-heroic-at-bb-dacha
-2024/08/28 21:45:06 Skipping writing post, no content: https://www.nytimes.com/2024/08/28/us/politics/supreme-court-biden-student-loans.html
-2024/08/28 21:45:06 Skipping writing post, no content: https://www.hltv.org/news/39731/esl-pro-league-season-20-talent-announced
-2024/08/28 21:45:06 Skipping writing post, no content: https://www.hltv.org/news/39730/amanek-returns-in-esc
-2024/08/28 21:45:06 Skipping writing post, no content: https://www.hltv.org/news/39732/heroic-smash-falcons-to-qualify-for-iem-rio
-2024/08/28 21:45:06 Skipping writing post, no content: https://www.hltv.org/news/39729/furia-ease-past-virtuspro-at-bb-dacha
-2024/08/28 21:45:06 Skipping writing post, no content: https://www.hltv.org/news/39728/strong-starts-push-spirit-past-falcons-in-belgrade
-2024/08/28 21:45:06 Skipping writing post, no content: https://www.hltv.org/news/39706/short-news-week-35
-2024/08/28 21:45:06 Skipping writing post, no content: https://www.hltv.org/news/39727/pgl-acquires-esportal-assets
-2024/08/28 21:45:06 Skipping writing post, no content: https://www.hltv.org/news/39717/siuhy-sometimes-we-just-forget-to-relax-and-regenerate
-2024/08/28 21:45:06 Skipping writing post, no content: https://www.hltv.org/news/39726/live-updates-from-betboom-dacha-belgrade-season-2-day-one
-2024/08/28 21:45:06 Templated 57 posts, took 7.957266ms
+2024/08/28 21:55:55 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/28 21:55:55 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 78.696442ms
+2024/08/28 21:55:55 Content still empty after HTML reader: https://www.hltv.org/news/39735/lux-the-statistics-probably-say-we-cant-but-i-think-we-can-win-this-tournament
+2024/08/28 21:55:55 Content still empty after HTML reader: https://www.hltv.org/news/39733/pain-beat-struggling-heroic-at-bb-dacha
+2024/08/28 21:55:55 Content still empty after HTML reader: https://www.hltv.org/news/39731/esl-pro-league-season-20-talent-announced
+2024/08/28 21:55:55 Content still empty after HTML reader: https://www.hltv.org/news/39730/amanek-returns-in-esc
+2024/08/28 21:55:55 Content still empty after HTML reader: https://www.hltv.org/news/39732/heroic-smash-falcons-to-qualify-for-iem-rio
+2024/08/28 21:55:55 Content still empty after HTML reader: https://www.hltv.org/news/39729/furia-ease-past-virtuspro-at-bb-dacha
+2024/08/28 21:55:55 Content still empty after HTML reader: https://www.hltv.org/news/39728/strong-starts-push-spirit-past-falcons-in-belgrade
+2024/08/28 21:55:55 Content still empty after HTML reader: https://www.hltv.org/news/39706/short-news-week-35
+2024/08/28 21:55:55 Content still empty after HTML reader: https://www.hltv.org/news/39727/pgl-acquires-esportal-assets
+2024/08/28 21:55:55 Content still empty after HTML reader: https://www.hltv.org/news/39717/siuhy-sometimes-we-just-forget-to-relax-and-regenerate
+2024/08/28 21:55:55 Fetched posts from https://www.hltv.org/rss/news, took 419.403272ms
+2024/08/28 21:55:56 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 926.898861ms
+2024/08/28 21:55:56 Fetched posts from https://vlr.gg/rss, took 1.482239652s
+2024/08/28 21:56:00 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 5.290173944s
+2024/08/28 21:56:00 Skipping writing post, no content: https://www.hltv.org/news/39735/lux-the-statistics-probably-say-we-cant-but-i-think-we-can-win-this-tournament
+2024/08/28 21:56:00 Skipping writing post, no content: https://www.hltv.org/news/39733/pain-beat-struggling-heroic-at-bb-dacha
+2024/08/28 21:56:00 Skipping writing post, no content: https://www.hltv.org/news/39731/esl-pro-league-season-20-talent-announced
+2024/08/28 21:56:00 Skipping writing post, no content: https://www.hltv.org/news/39730/amanek-returns-in-esc
+2024/08/28 21:56:00 Skipping writing post, no content: https://www.hltv.org/news/39732/heroic-smash-falcons-to-qualify-for-iem-rio
+2024/08/28 21:56:00 Skipping writing post, no content: https://www.hltv.org/news/39729/furia-ease-past-virtuspro-at-bb-dacha
+2024/08/28 21:56:00 Skipping writing post, no content: https://www.hltv.org/news/39728/strong-starts-push-spirit-past-falcons-in-belgrade
+2024/08/28 21:56:00 Skipping writing post, no content: https://www.hltv.org/news/39706/short-news-week-35
+2024/08/28 21:56:00 Skipping writing post, no content: https://www.hltv.org/news/39727/pgl-acquires-esportal-assets
+2024/08/28 21:56:00 Skipping writing post, no content: https://www.hltv.org/news/39717/siuhy-sometimes-we-just-forget-to-relax-and-regenerate
+2024/08/28 21:56:00 Templated 58 posts, took 8.46273ms
