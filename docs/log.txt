@@ -1,29 +1,27 @@
-2024/08/28 13:37:29 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/28 13:37:29 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 227.912621ms
-2024/08/28 13:37:29 Content still empty after HTML reader: https://www.nytimes.com/2024/08/27/us/politics/harris-border-immigration-democrats.html
-2024/08/28 13:37:29 Content still empty after HTML reader: https://www.hltv.org/news/39728/strong-starts-push-spirit-past-falcons-in-belgrade
-2024/08/28 13:37:29 Content still empty after HTML reader: https://www.hltv.org/news/39706/short-news-week-35
-2024/08/28 13:37:29 Content still empty after HTML reader: https://www.hltv.org/news/39727/pgl-acquires-esportal-assets
-2024/08/28 13:37:30 Content still empty after HTML reader: https://www.hltv.org/news/39717/siuhy-sometimes-we-just-forget-to-relax-and-regenerate
-2024/08/28 13:37:30 Content still empty after HTML reader: https://www.hltv.org/news/39726/live-updates-from-betboom-dacha-belgrade-season-2-day-one
-2024/08/28 13:37:30 Content still empty after HTML reader: https://www.hltv.org/news/39725/final-matches-set-for-americas-rmr-qualifiers
-2024/08/28 13:37:30 Content still empty after HTML reader: https://www.hltv.org/news/39724/wildcard-nouns-advance-to-americas-rmr
-2024/08/28 13:37:30 Content still empty after HTML reader: https://www.hltv.org/news/39721/all-teams-added-to-bb-dacha-playoffs-fantasy
-2024/08/28 13:37:30 Content still empty after HTML reader: https://www.hltv.org/news/39723/eternal-fire-qualify-for-iem-rio
-2024/08/28 13:37:30 Content still empty after HTML reader: https://www.hltv.org/news/39722/bestia-case-secure-americas-rmr-spots
-2024/08/28 13:37:30 Fetched posts from https://www.hltv.org/rss/news, took 423.001955ms
-2024/08/28 13:37:30 Fetched posts from https://vlr.gg/rss, took 543.780007ms
-2024/08/28 13:37:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 765.905281ms
-2024/08/28 13:37:30 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.056398128s
-2024/08/28 13:37:30 Skipping writing post, no content: https://www.hltv.org/news/39728/strong-starts-push-spirit-past-falcons-in-belgrade
-2024/08/28 13:37:30 Skipping writing post, no content: https://www.hltv.org/news/39706/short-news-week-35
-2024/08/28 13:37:30 Skipping writing post, no content: https://www.hltv.org/news/39727/pgl-acquires-esportal-assets
-2024/08/28 13:37:30 Skipping writing post, no content: https://www.hltv.org/news/39717/siuhy-sometimes-we-just-forget-to-relax-and-regenerate
-2024/08/28 13:37:30 Skipping writing post, no content: https://www.hltv.org/news/39726/live-updates-from-betboom-dacha-belgrade-season-2-day-one
-2024/08/28 13:37:30 Skipping writing post, no content: https://www.hltv.org/news/39725/final-matches-set-for-americas-rmr-qualifiers
-2024/08/28 13:37:30 Skipping writing post, no content: https://www.nytimes.com/2024/08/27/us/politics/harris-border-immigration-democrats.html
-2024/08/28 13:37:30 Skipping writing post, no content: https://www.hltv.org/news/39724/wildcard-nouns-advance-to-americas-rmr
-2024/08/28 13:37:30 Skipping writing post, no content: https://www.hltv.org/news/39721/all-teams-added-to-bb-dacha-playoffs-fantasy
-2024/08/28 13:37:30 Skipping writing post, no content: https://www.hltv.org/news/39723/eternal-fire-qualify-for-iem-rio
-2024/08/28 13:37:30 Skipping writing post, no content: https://www.hltv.org/news/39722/bestia-case-secure-americas-rmr-spots
-2024/08/28 13:37:30 Templated 57 posts, took 8.567736ms
+2024/08/28 13:48:06 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/28 13:48:06 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 131.178835ms
+2024/08/28 13:48:07 Content still empty after HTML reader: https://www.hltv.org/news/39728/strong-starts-push-spirit-past-falcons-in-belgrade
+2024/08/28 13:48:07 Content still empty after HTML reader: https://www.hltv.org/news/39706/short-news-week-35
+2024/08/28 13:48:07 Content still empty after HTML reader: https://www.hltv.org/news/39727/pgl-acquires-esportal-assets
+2024/08/28 13:48:07 Content still empty after HTML reader: https://www.hltv.org/news/39717/siuhy-sometimes-we-just-forget-to-relax-and-regenerate
+2024/08/28 13:48:07 Content still empty after HTML reader: https://www.hltv.org/news/39726/live-updates-from-betboom-dacha-belgrade-season-2-day-one
+2024/08/28 13:48:07 Content still empty after HTML reader: https://www.hltv.org/news/39725/final-matches-set-for-americas-rmr-qualifiers
+2024/08/28 13:48:07 Content still empty after HTML reader: https://www.hltv.org/news/39724/wildcard-nouns-advance-to-americas-rmr
+2024/08/28 13:48:07 Content still empty after HTML reader: https://www.hltv.org/news/39721/all-teams-added-to-bb-dacha-playoffs-fantasy
+2024/08/28 13:48:07 Content still empty after HTML reader: https://www.hltv.org/news/39723/eternal-fire-qualify-for-iem-rio
+2024/08/28 13:48:07 Content still empty after HTML reader: https://www.hltv.org/news/39722/bestia-case-secure-americas-rmr-spots
+2024/08/28 13:48:07 Fetched posts from https://www.hltv.org/rss/news, took 328.595138ms
+2024/08/28 13:48:07 Fetched posts from https://vlr.gg/rss, took 835.011243ms
+2024/08/28 13:48:07 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 971.399649ms
+2024/08/28 13:48:08 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.544268667s
+2024/08/28 13:48:08 Skipping writing post, no content: https://www.hltv.org/news/39728/strong-starts-push-spirit-past-falcons-in-belgrade
+2024/08/28 13:48:08 Skipping writing post, no content: https://www.hltv.org/news/39706/short-news-week-35
+2024/08/28 13:48:08 Skipping writing post, no content: https://www.hltv.org/news/39727/pgl-acquires-esportal-assets
+2024/08/28 13:48:08 Skipping writing post, no content: https://www.hltv.org/news/39717/siuhy-sometimes-we-just-forget-to-relax-and-regenerate
+2024/08/28 13:48:08 Skipping writing post, no content: https://www.hltv.org/news/39726/live-updates-from-betboom-dacha-belgrade-season-2-day-one
+2024/08/28 13:48:08 Skipping writing post, no content: https://www.hltv.org/news/39725/final-matches-set-for-americas-rmr-qualifiers
+2024/08/28 13:48:08 Skipping writing post, no content: https://www.hltv.org/news/39724/wildcard-nouns-advance-to-americas-rmr
+2024/08/28 13:48:08 Skipping writing post, no content: https://www.hltv.org/news/39721/all-teams-added-to-bb-dacha-playoffs-fantasy
+2024/08/28 13:48:08 Skipping writing post, no content: https://www.hltv.org/news/39723/eternal-fire-qualify-for-iem-rio
+2024/08/28 13:48:08 Skipping writing post, no content: https://www.hltv.org/news/39722/bestia-case-secure-americas-rmr-spots
+2024/08/28 13:48:08 Templated 56 posts, took 8.151893ms
