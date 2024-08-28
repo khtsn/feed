@@ -1,27 +1,25 @@
-2024/08/28 05:00:18 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/28 05:00:18 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 196.832387ms
-2024/08/28 05:00:19 Content still empty after HTML reader: https://www.hltv.org/news/39725/final-matches-set-for-americas-rmr-qualifiers
-2024/08/28 05:00:19 Content still empty after HTML reader: https://www.hltv.org/news/39724/wildcard-nouns-advance-to-americas-rmr
-2024/08/28 05:00:19 Content still empty after HTML reader: https://www.hltv.org/news/39721/all-teams-added-to-bb-dacha-playoffs-fantasy
-2024/08/28 05:00:19 Content still empty after HTML reader: https://www.hltv.org/news/39723/eternal-fire-qualify-for-iem-rio
-2024/08/28 05:00:19 Content still empty after HTML reader: https://www.hltv.org/news/39722/bestia-case-secure-americas-rmr-spots
-2024/08/28 05:00:19 Content still empty after HTML reader: https://www.hltv.org/news/39718/fallen-9-pandas-said-playing-us-and-winning-doesnt-matter-i-wanted-to-make-sure-it-does
-2024/08/28 05:00:19 Content still empty after HTML reader: https://www.hltv.org/news/39719/esl-reveals-pro-league-s20-opening-matchups
-2024/08/28 05:00:19 Content still empty after HTML reader: https://www.hltv.org/news/39720/betboom-dacha-belgrade-s2-playoff-bracket-set
-2024/08/28 05:00:19 Content still empty after HTML reader: https://www.hltv.org/news/39706/short-news-week-35
-2024/08/28 05:00:19 Content still empty after HTML reader: https://www.hltv.org/news/39716/furia-take-revenge-on-9-pandas-to-secure-final-betboom-dacha-playoffs-spot
-2024/08/28 05:00:19 Fetched posts from https://www.hltv.org/rss/news, took 463.508564ms
-2024/08/28 05:00:19 Fetched posts from https://vlr.gg/rss, took 849.594027ms
-2024/08/28 05:00:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 995.880899ms
-2024/08/28 05:00:20 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.407338498s
-2024/08/28 05:00:20 Skipping writing post, no content: https://www.hltv.org/news/39725/final-matches-set-for-americas-rmr-qualifiers
-2024/08/28 05:00:20 Skipping writing post, no content: https://www.hltv.org/news/39724/wildcard-nouns-advance-to-americas-rmr
-2024/08/28 05:00:20 Skipping writing post, no content: https://www.hltv.org/news/39721/all-teams-added-to-bb-dacha-playoffs-fantasy
-2024/08/28 05:00:20 Skipping writing post, no content: https://www.hltv.org/news/39723/eternal-fire-qualify-for-iem-rio
-2024/08/28 05:00:20 Skipping writing post, no content: https://www.hltv.org/news/39722/bestia-case-secure-americas-rmr-spots
-2024/08/28 05:00:20 Skipping writing post, no content: https://www.hltv.org/news/39718/fallen-9-pandas-said-playing-us-and-winning-doesnt-matter-i-wanted-to-make-sure-it-does
-2024/08/28 05:00:20 Skipping writing post, no content: https://www.hltv.org/news/39719/esl-reveals-pro-league-s20-opening-matchups
-2024/08/28 05:00:20 Skipping writing post, no content: https://www.hltv.org/news/39720/betboom-dacha-belgrade-s2-playoff-bracket-set
-2024/08/28 05:00:20 Skipping writing post, no content: https://www.hltv.org/news/39706/short-news-week-35
-2024/08/28 05:00:20 Skipping writing post, no content: https://www.hltv.org/news/39716/furia-take-revenge-on-9-pandas-to-secure-final-betboom-dacha-playoffs-spot
-2024/08/28 05:00:20 Templated 57 posts, took 8.985343ms
+2024/08/28 05:24:00 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/28 05:24:00 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 118.795425ms
+2024/08/28 05:24:00 Content still empty after HTML reader: https://www.hltv.org/news/39725/final-matches-set-for-americas-rmr-qualifiers
+2024/08/28 05:24:00 Content still empty after HTML reader: https://www.hltv.org/news/39724/wildcard-nouns-advance-to-americas-rmr
+2024/08/28 05:24:00 Content still empty after HTML reader: https://www.hltv.org/news/39721/all-teams-added-to-bb-dacha-playoffs-fantasy
+2024/08/28 05:24:00 Content still empty after HTML reader: https://www.hltv.org/news/39722/bestia-case-secure-americas-rmr-spots
+2024/08/28 05:24:00 Content still empty after HTML reader: https://www.hltv.org/news/39718/fallen-9-pandas-said-playing-us-and-winning-doesnt-matter-i-wanted-to-make-sure-it-does
+2024/08/28 05:24:00 Content still empty after HTML reader: https://www.hltv.org/news/39719/esl-reveals-pro-league-s20-opening-matchups
+2024/08/28 05:24:00 Content still empty after HTML reader: https://www.hltv.org/news/39720/betboom-dacha-belgrade-s2-playoff-bracket-set
+2024/08/28 05:24:00 Content still empty after HTML reader: https://www.hltv.org/news/39706/short-news-week-35
+2024/08/28 05:24:00 Content still empty after HTML reader: https://www.hltv.org/news/39716/furia-take-revenge-on-9-pandas-to-secure-final-betboom-dacha-playoffs-spot
+2024/08/28 05:24:00 Fetched posts from https://www.hltv.org/rss/news, took 464.885788ms
+2024/08/28 05:24:01 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.373698829s
+2024/08/28 05:24:02 Fetched posts from https://vlr.gg/rss, took 1.614218372s
+2024/08/28 05:24:03 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.500615249s
+2024/08/28 05:24:03 Skipping writing post, no content: https://www.hltv.org/news/39725/final-matches-set-for-americas-rmr-qualifiers
+2024/08/28 05:24:03 Skipping writing post, no content: https://www.hltv.org/news/39724/wildcard-nouns-advance-to-americas-rmr
+2024/08/28 05:24:03 Skipping writing post, no content: https://www.hltv.org/news/39721/all-teams-added-to-bb-dacha-playoffs-fantasy
+2024/08/28 05:24:03 Skipping writing post, no content: https://www.hltv.org/news/39722/bestia-case-secure-americas-rmr-spots
+2024/08/28 05:24:03 Skipping writing post, no content: https://www.hltv.org/news/39718/fallen-9-pandas-said-playing-us-and-winning-doesnt-matter-i-wanted-to-make-sure-it-does
+2024/08/28 05:24:03 Skipping writing post, no content: https://www.hltv.org/news/39719/esl-reveals-pro-league-s20-opening-matchups
+2024/08/28 05:24:03 Skipping writing post, no content: https://www.hltv.org/news/39720/betboom-dacha-belgrade-s2-playoff-bracket-set
+2024/08/28 05:24:03 Skipping writing post, no content: https://www.hltv.org/news/39706/short-news-week-35
+2024/08/28 05:24:03 Skipping writing post, no content: https://www.hltv.org/news/39716/furia-take-revenge-on-9-pandas-to-secure-final-betboom-dacha-playoffs-spot
+2024/08/28 05:24:03 Templated 57 posts, took 8.519972ms
