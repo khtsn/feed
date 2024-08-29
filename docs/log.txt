@@ -1,25 +1,27 @@
-2024/08/29 17:41:27 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/29 17:41:27 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 181.718377ms
-2024/08/29 17:41:27 Content still empty after HTML reader: https://www.hltv.org/news/39746/rare-atom-talon-lock-in-asia-rmr-spots
-2024/08/29 17:41:27 Content still empty after HTML reader: https://www.hltv.org/news/39745/ex-pera-roster-disbands-after-rmr-failure
-2024/08/29 17:41:27 Content still empty after HTML reader: https://www.hltv.org/news/39743/heroic-out-of-betboom-dacha-in-last-place
-2024/08/29 17:41:27 Content still empty after HTML reader: https://www.hltv.org/news/39740/esl-bans-controversial-keyboard-features-on-lan
-2024/08/29 17:41:27 Content still empty after HTML reader: https://www.hltv.org/news/39741/virtuspro-oust-falcons-from-betboom-dacha
-2024/08/29 17:41:27 Content still empty after HTML reader: https://www.hltv.org/news/39706/short-news-week-35
-2024/08/29 17:41:27 Content still empty after HTML reader: https://www.hltv.org/news/39739/live-updates-from-betboom-dacha-belgrade-s2-day-2
-2024/08/29 17:41:27 Content still empty after HTML reader: https://www.hltv.org/news/39738/boss-legacy-finalize-americas-rmr-team-list
-2024/08/29 17:41:27 Content still empty after HTML reader: https://www.hltv.org/news/39737/kr-red-canids-to-americas-rmr-fluxo-miss-out
-2024/08/29 17:41:27 Fetched posts from https://www.hltv.org/rss/news, took 478.719301ms
-2024/08/29 17:41:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 663.528933ms
-2024/08/29 17:41:28 Fetched posts from https://vlr.gg/rss, took 1.516528101s
-2024/08/29 17:41:30 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.895807522s
-2024/08/29 17:41:30 Skipping writing post, no content: https://www.hltv.org/news/39746/rare-atom-talon-lock-in-asia-rmr-spots
-2024/08/29 17:41:30 Skipping writing post, no content: https://www.hltv.org/news/39745/ex-pera-roster-disbands-after-rmr-failure
-2024/08/29 17:41:30 Skipping writing post, no content: https://www.hltv.org/news/39743/heroic-out-of-betboom-dacha-in-last-place
-2024/08/29 17:41:30 Skipping writing post, no content: https://www.hltv.org/news/39740/esl-bans-controversial-keyboard-features-on-lan
-2024/08/29 17:41:30 Skipping writing post, no content: https://www.hltv.org/news/39741/virtuspro-oust-falcons-from-betboom-dacha
-2024/08/29 17:41:30 Skipping writing post, no content: https://www.hltv.org/news/39706/short-news-week-35
-2024/08/29 17:41:30 Skipping writing post, no content: https://www.hltv.org/news/39739/live-updates-from-betboom-dacha-belgrade-s2-day-2
-2024/08/29 17:41:30 Skipping writing post, no content: https://www.hltv.org/news/39738/boss-legacy-finalize-americas-rmr-team-list
-2024/08/29 17:41:30 Skipping writing post, no content: https://www.hltv.org/news/39737/kr-red-canids-to-americas-rmr-fluxo-miss-out
-2024/08/29 17:41:30 Templated 52 posts, took 7.48541ms
+2024/08/29 17:52:08 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/29 17:52:08 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 143.136077ms
+2024/08/29 17:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39748/spirit-annihilate-furia-at-betboom-dacha
+2024/08/29 17:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39706/short-news-week-35
+2024/08/29 17:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39744/saw-i-would-expect-us-to-be-at-a-higher-level-at-this-point
+2024/08/29 17:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39746/rare-atom-talon-lock-in-asia-rmr-spots
+2024/08/29 17:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39745/ex-pera-roster-disbands-after-rmr-failure
+2024/08/29 17:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39743/heroic-out-of-betboom-dacha-in-last-place
+2024/08/29 17:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39740/esl-bans-controversial-keyboard-features-on-lan
+2024/08/29 17:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39741/virtuspro-oust-falcons-from-betboom-dacha
+2024/08/29 17:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39739/live-updates-from-betboom-dacha-belgrade-s2-day-2
+2024/08/29 17:52:08 Content still empty after HTML reader: https://www.hltv.org/news/39738/boss-legacy-finalize-americas-rmr-team-list
+2024/08/29 17:52:08 Fetched posts from https://www.hltv.org/rss/news, took 455.103254ms
+2024/08/29 17:52:09 Fetched posts from https://vlr.gg/rss, took 745.614152ms
+2024/08/29 17:52:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 922.672654ms
+2024/08/29 17:52:09 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.510486661s
+2024/08/29 17:52:09 Skipping writing post, no content: https://www.hltv.org/news/39748/spirit-annihilate-furia-at-betboom-dacha
+2024/08/29 17:52:09 Skipping writing post, no content: https://www.hltv.org/news/39706/short-news-week-35
+2024/08/29 17:52:09 Skipping writing post, no content: https://www.hltv.org/news/39744/saw-i-would-expect-us-to-be-at-a-higher-level-at-this-point
+2024/08/29 17:52:09 Skipping writing post, no content: https://www.hltv.org/news/39746/rare-atom-talon-lock-in-asia-rmr-spots
+2024/08/29 17:52:09 Skipping writing post, no content: https://www.hltv.org/news/39745/ex-pera-roster-disbands-after-rmr-failure
+2024/08/29 17:52:09 Skipping writing post, no content: https://www.hltv.org/news/39743/heroic-out-of-betboom-dacha-in-last-place
+2024/08/29 17:52:09 Skipping writing post, no content: https://www.hltv.org/news/39740/esl-bans-controversial-keyboard-features-on-lan
+2024/08/29 17:52:09 Skipping writing post, no content: https://www.hltv.org/news/39741/virtuspro-oust-falcons-from-betboom-dacha
+2024/08/29 17:52:09 Skipping writing post, no content: https://www.hltv.org/news/39739/live-updates-from-betboom-dacha-belgrade-s2-day-2
+2024/08/29 17:52:09 Skipping writing post, no content: https://www.hltv.org/news/39738/boss-legacy-finalize-americas-rmr-team-list
+2024/08/29 17:52:09 Templated 52 posts, took 8.540489ms
