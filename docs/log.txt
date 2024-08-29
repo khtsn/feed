@@ -1,27 +1,25 @@
-2024/08/29 02:56:18 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/29 02:56:18 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 147.93371ms
-2024/08/29 02:56:18 Content still empty after HTML reader: https://www.hltv.org/news/39737/kr-red-canids-to-americas-rmr-fluxo-miss-out
-2024/08/29 02:56:18 Content still empty after HTML reader: https://www.hltv.org/news/39734/cxzi-wolfy-to-depart-party-astronauts-after-rmr-qualifier-failure
-2024/08/29 02:56:18 Content still empty after HTML reader: https://www.hltv.org/news/39736/mouz-obliterate-eternal-fire-in-belgrade
-2024/08/29 02:56:18 Content still empty after HTML reader: https://www.hltv.org/news/39726/betboom-dacha-belgrade-season-2-day-one-as-it-happened
-2024/08/29 02:56:18 Content still empty after HTML reader: https://www.hltv.org/news/39735/lux-the-statistics-probably-say-we-cant-but-i-think-we-can-win-this-tournament
-2024/08/29 02:56:18 Content still empty after HTML reader: https://www.hltv.org/news/39733/pain-beat-struggling-heroic-at-bb-dacha
-2024/08/29 02:56:18 Content still empty after HTML reader: https://www.hltv.org/news/39731/esl-pro-league-season-20-talent-announced
-2024/08/29 02:56:18 Content still empty after HTML reader: https://www.hltv.org/news/39730/amanek-returns-in-esc
-2024/08/29 02:56:18 Content still empty after HTML reader: https://www.hltv.org/news/39732/heroic-smash-falcons-to-qualify-for-iem-rio
-2024/08/29 02:56:18 Content still empty after HTML reader: https://www.hltv.org/news/39729/furia-ease-past-virtuspro-at-bb-dacha
-2024/08/29 02:56:18 Fetched posts from https://www.hltv.org/rss/news, took 405.549317ms
-2024/08/29 02:56:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.318250844s
-2024/08/29 02:56:19 Fetched posts from https://vlr.gg/rss, took 1.616178588s
-2024/08/29 02:56:21 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 3.03151981s
-2024/08/29 02:56:21 Skipping writing post, no content: https://www.hltv.org/news/39737/kr-red-canids-to-americas-rmr-fluxo-miss-out
-2024/08/29 02:56:21 Skipping writing post, no content: https://www.hltv.org/news/39734/cxzi-wolfy-to-depart-party-astronauts-after-rmr-qualifier-failure
-2024/08/29 02:56:21 Skipping writing post, no content: https://www.hltv.org/news/39726/betboom-dacha-belgrade-season-2-day-one-as-it-happened
-2024/08/29 02:56:21 Skipping writing post, no content: https://www.hltv.org/news/39736/mouz-obliterate-eternal-fire-in-belgrade
-2024/08/29 02:56:21 Skipping writing post, no content: https://www.hltv.org/news/39735/lux-the-statistics-probably-say-we-cant-but-i-think-we-can-win-this-tournament
-2024/08/29 02:56:21 Skipping writing post, no content: https://www.hltv.org/news/39733/pain-beat-struggling-heroic-at-bb-dacha
-2024/08/29 02:56:21 Skipping writing post, no content: https://www.hltv.org/news/39731/esl-pro-league-season-20-talent-announced
-2024/08/29 02:56:21 Skipping writing post, no content: https://www.hltv.org/news/39730/amanek-returns-in-esc
-2024/08/29 02:56:21 Skipping writing post, no content: https://www.hltv.org/news/39732/heroic-smash-falcons-to-qualify-for-iem-rio
-2024/08/29 02:56:21 Skipping writing post, no content: https://www.hltv.org/news/39729/furia-ease-past-virtuspro-at-bb-dacha
-2024/08/29 02:56:21 Templated 55 posts, took 8.014432ms
+2024/08/29 03:19:56 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/29 03:19:56 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 238.541376ms
+2024/08/29 03:19:56 Content still empty after HTML reader: https://www.hltv.org/news/39737/kr-red-canids-to-americas-rmr-fluxo-miss-out
+2024/08/29 03:19:56 Content still empty after HTML reader: https://www.hltv.org/news/39734/cxzi-wolfy-to-depart-party-astronauts-after-rmr-qualifier-failure
+2024/08/29 03:19:56 Content still empty after HTML reader: https://www.hltv.org/news/39726/betboom-dacha-belgrade-season-2-day-one-as-it-happened
+2024/08/29 03:19:56 Content still empty after HTML reader: https://www.hltv.org/news/39735/lux-the-statistics-probably-say-we-cant-but-i-think-we-can-win-this-tournament
+2024/08/29 03:19:56 Content still empty after HTML reader: https://www.hltv.org/news/39733/pain-beat-struggling-heroic-at-bb-dacha
+2024/08/29 03:19:56 Content still empty after HTML reader: https://www.hltv.org/news/39731/esl-pro-league-season-20-talent-announced
+2024/08/29 03:19:56 Content still empty after HTML reader: https://www.hltv.org/news/39730/amanek-returns-in-esc
+2024/08/29 03:19:56 Content still empty after HTML reader: https://www.hltv.org/news/39732/heroic-smash-falcons-to-qualify-for-iem-rio
+2024/08/29 03:19:56 Content still empty after HTML reader: https://www.hltv.org/news/39729/furia-ease-past-virtuspro-at-bb-dacha
+2024/08/29 03:19:56 Fetched posts from https://www.hltv.org/rss/news, took 429.569415ms
+2024/08/29 03:19:57 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 603.918723ms
+2024/08/29 03:19:57 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.139431097s
+2024/08/29 03:19:58 Fetched posts from https://vlr.gg/rss, took 1.509744637s
+2024/08/29 03:19:58 Skipping writing post, no content: https://www.hltv.org/news/39737/kr-red-canids-to-americas-rmr-fluxo-miss-out
+2024/08/29 03:19:58 Skipping writing post, no content: https://www.hltv.org/news/39734/cxzi-wolfy-to-depart-party-astronauts-after-rmr-qualifier-failure
+2024/08/29 03:19:58 Skipping writing post, no content: https://www.hltv.org/news/39726/betboom-dacha-belgrade-season-2-day-one-as-it-happened
+2024/08/29 03:19:58 Skipping writing post, no content: https://www.hltv.org/news/39735/lux-the-statistics-probably-say-we-cant-but-i-think-we-can-win-this-tournament
+2024/08/29 03:19:58 Skipping writing post, no content: https://www.hltv.org/news/39733/pain-beat-struggling-heroic-at-bb-dacha
+2024/08/29 03:19:58 Skipping writing post, no content: https://www.hltv.org/news/39731/esl-pro-league-season-20-talent-announced
+2024/08/29 03:19:58 Skipping writing post, no content: https://www.hltv.org/news/39730/amanek-returns-in-esc
+2024/08/29 03:19:58 Skipping writing post, no content: https://www.hltv.org/news/39732/heroic-smash-falcons-to-qualify-for-iem-rio
+2024/08/29 03:19:58 Skipping writing post, no content: https://www.hltv.org/news/39729/furia-ease-past-virtuspro-at-bb-dacha
+2024/08/29 03:19:58 Templated 55 posts, took 8.005333ms
