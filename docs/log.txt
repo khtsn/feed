@@ -1,27 +1,29 @@
-2024/08/31 07:25:30 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/08/31 07:25:30 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 150.584362ms
-2024/08/31 07:25:30 Content still empty after HTML reader: https://www.hltv.org/news/39758/spirit-beat-mouz-to-qualify-for-bb-dacha-final
-2024/08/31 07:25:30 Content still empty after HTML reader: https://www.hltv.org/news/39752/betboom-dacha-belgrade-s2-day-3-as-it-happened
-2024/08/31 07:25:30 Content still empty after HTML reader: https://www.hltv.org/news/39756/perfect-world-shanghai-major-rmr-team-list-finalized
-2024/08/31 07:25:30 Content still empty after HTML reader: https://www.hltv.org/news/39757/skyesports-unveils-2025-roadmap-with-four-events-and-175-million-in-prize-money
-2024/08/31 07:25:30 Content still empty after HTML reader: https://www.hltv.org/news/39706/short-news-week-35
-2024/08/31 07:25:30 Content still empty after HTML reader: https://www.hltv.org/news/39755/pain-eliminate-virtuspro-from-betboom-dacha
-2024/08/31 07:25:30 Content still empty after HTML reader: https://www.hltv.org/news/39671/shanghai-major-rmr-superweek-as-it-happened
-2024/08/31 07:25:30 Content still empty after HTML reader: https://www.hltv.org/news/39754/drillas-alter-ego-and-gr-complete-asia-rmr-team-list
-2024/08/31 07:25:30 Content still empty after HTML reader: https://www.hltv.org/news/39753/fallen-records-personal-best-lan-map-rating-in-dacha-loss-to-eternal-fire
-2024/08/31 07:25:30 Content still empty after HTML reader: https://www.hltv.org/news/39751/valve-ranking-and-formula-implemented-on-hltv
-2024/08/31 07:25:30 Fetched posts from https://www.hltv.org/rss/news, took 383.771882ms
-2024/08/31 07:25:31 Fetched posts from https://vlr.gg/rss, took 770.655313ms
-2024/08/31 07:25:31 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.057472136s
-2024/08/31 07:25:31 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.357869649s
-2024/08/31 07:25:31 Skipping writing post, no content: https://www.hltv.org/news/39758/spirit-beat-mouz-to-qualify-for-bb-dacha-final
-2024/08/31 07:25:31 Skipping writing post, no content: https://www.hltv.org/news/39752/betboom-dacha-belgrade-s2-day-3-as-it-happened
-2024/08/31 07:25:31 Skipping writing post, no content: https://www.hltv.org/news/39756/perfect-world-shanghai-major-rmr-team-list-finalized
-2024/08/31 07:25:31 Skipping writing post, no content: https://www.hltv.org/news/39757/skyesports-unveils-2025-roadmap-with-four-events-and-175-million-in-prize-money
-2024/08/31 07:25:31 Skipping writing post, no content: https://www.hltv.org/news/39706/short-news-week-35
-2024/08/31 07:25:31 Skipping writing post, no content: https://www.hltv.org/news/39755/pain-eliminate-virtuspro-from-betboom-dacha
-2024/08/31 07:25:31 Skipping writing post, no content: https://www.hltv.org/news/39671/shanghai-major-rmr-superweek-as-it-happened
-2024/08/31 07:25:31 Skipping writing post, no content: https://www.hltv.org/news/39754/drillas-alter-ego-and-gr-complete-asia-rmr-team-list
-2024/08/31 07:25:31 Skipping writing post, no content: https://www.hltv.org/news/39753/fallen-records-personal-best-lan-map-rating-in-dacha-loss-to-eternal-fire
-2024/08/31 07:25:31 Skipping writing post, no content: https://www.hltv.org/news/39751/valve-ranking-and-formula-implemented-on-hltv
-2024/08/31 07:25:31 Templated 54 posts, took 7.844029ms
+2024/08/31 07:37:51 Content still empty after HTML reader: https://www.hltv.org/news/39758/spirit-beat-mouz-to-qualify-for-bb-dacha-final
+2024/08/31 07:37:51 Content still empty after HTML reader: https://www.hltv.org/news/39752/betboom-dacha-belgrade-s2-day-3-as-it-happened
+2024/08/31 07:37:51 Content still empty after HTML reader: https://www.hltv.org/news/39756/perfect-world-shanghai-major-rmr-team-list-finalized
+2024/08/31 07:37:51 Content still empty after HTML reader: https://www.hltv.org/news/39757/skyesports-unveils-2025-roadmap-with-four-events-and-175-million-in-prize-money
+2024/08/31 07:37:51 Content still empty after HTML reader: https://www.hltv.org/news/39706/short-news-week-35
+2024/08/31 07:37:51 Content still empty after HTML reader: https://www.hltv.org/news/39755/pain-eliminate-virtuspro-from-betboom-dacha
+2024/08/31 07:37:51 Content still empty after HTML reader: https://www.hltv.org/news/39671/shanghai-major-rmr-superweek-as-it-happened
+2024/08/31 07:37:51 Content still empty after HTML reader: https://www.hltv.org/news/39754/drillas-alter-ego-and-gr-complete-asia-rmr-team-list
+2024/08/31 07:37:51 Content still empty after HTML reader: https://www.hltv.org/news/39753/fallen-records-personal-best-lan-map-rating-in-dacha-loss-to-eternal-fire
+2024/08/31 07:37:51 Content still empty after HTML reader: https://www.nytimes.com/2024/08/30/world/europe/ukraine-f16-crash.html
+2024/08/31 07:37:51 Content still empty after HTML reader: https://www.hltv.org/news/39751/valve-ranking-and-formula-implemented-on-hltv
+2024/08/31 07:37:51 Fetched posts from https://www.hltv.org/rss/news, took 427.672573ms
+2024/08/31 07:37:51 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 722.763514ms
+2024/08/31 07:37:52 Fetched posts from https://vlr.gg/rss, took 1.604979571s
+2024/08/31 07:37:52 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.009482008s
+2024/08/31 07:37:55 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/08/31 07:37:55 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 5.084316946s
+2024/08/31 07:37:55 Skipping writing post, no content: https://www.nytimes.com/2024/08/30/world/europe/ukraine-f16-crash.html
+2024/08/31 07:37:55 Skipping writing post, no content: https://www.hltv.org/news/39758/spirit-beat-mouz-to-qualify-for-bb-dacha-final
+2024/08/31 07:37:55 Skipping writing post, no content: https://www.hltv.org/news/39752/betboom-dacha-belgrade-s2-day-3-as-it-happened
+2024/08/31 07:37:55 Skipping writing post, no content: https://www.hltv.org/news/39756/perfect-world-shanghai-major-rmr-team-list-finalized
+2024/08/31 07:37:55 Skipping writing post, no content: https://www.hltv.org/news/39757/skyesports-unveils-2025-roadmap-with-four-events-and-175-million-in-prize-money
+2024/08/31 07:37:55 Skipping writing post, no content: https://www.hltv.org/news/39706/short-news-week-35
+2024/08/31 07:37:55 Skipping writing post, no content: https://www.hltv.org/news/39755/pain-eliminate-virtuspro-from-betboom-dacha
+2024/08/31 07:37:55 Skipping writing post, no content: https://www.hltv.org/news/39671/shanghai-major-rmr-superweek-as-it-happened
+2024/08/31 07:37:55 Skipping writing post, no content: https://www.hltv.org/news/39754/drillas-alter-ego-and-gr-complete-asia-rmr-team-list
+2024/08/31 07:37:55 Skipping writing post, no content: https://www.hltv.org/news/39753/fallen-records-personal-best-lan-map-rating-in-dacha-loss-to-eternal-fire
+2024/08/31 07:37:55 Skipping writing post, no content: https://www.hltv.org/news/39751/valve-ranking-and-formula-implemented-on-hltv
+2024/08/31 07:37:55 Templated 54 posts, took 8.709044ms
