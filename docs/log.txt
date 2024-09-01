@@ -1,27 +1,29 @@
-2024/09/01 13:53:24 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/09/01 13:53:24 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 193.652796ms
-2024/09/01 13:53:24 Content still empty after HTML reader: https://www.hltv.org/news/39773/yalla-reveal-2025-event-locations
-2024/09/01 13:53:24 Content still empty after HTML reader: https://www.hltv.org/news/39761/thunderpick-world-championship-2025-announced
-2024/09/01 13:53:24 Content still empty after HTML reader: https://www.hltv.org/news/39772/eyeballers-bench-peppzor-and-golden
-2024/09/01 13:53:24 Content still empty after HTML reader: https://www.hltv.org/news/39771/betboom-dacha-belgrade-s2-grand-final-live-updates
-2024/09/01 13:53:24 Content still empty after HTML reader: https://www.hltv.org/news/39770/hally-on-iem-cologne-fiasco-its-my-mistake
-2024/09/01 13:53:24 Content still empty after HTML reader: https://www.hltv.org/news/39769/fissure-to-host-two-lan-events-in-belgrade-in-2025
-2024/09/01 13:53:24 Content still empty after HTML reader: https://www.hltv.org/news/39706/short-news-week-35
-2024/09/01 13:53:24 Content still empty after HTML reader: https://www.hltv.org/news/39768/maj3r-we-switched-positions-on-nuke-against-mouz-specially
-2024/09/01 13:53:24 Content still empty after HTML reader: https://www.hltv.org/news/39765/enterprise-elevate-drop-teams-after-missing-rmrs
-2024/09/01 13:53:24 Content still empty after HTML reader: https://www.hltv.org/news/39767/saw-finalize-esl-challenger-atlanta-team-list
-2024/09/01 13:53:24 Fetched posts from https://www.hltv.org/rss/news, took 433.279425ms
-2024/09/01 13:53:24 Fetched posts from https://vlr.gg/rss, took 761.569361ms
-2024/09/01 13:53:25 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.051252731s
-2024/09/01 13:53:25 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.203401092s
-2024/09/01 13:53:25 Skipping writing post, no content: https://www.hltv.org/news/39773/yalla-reveal-2025-event-locations
-2024/09/01 13:53:25 Skipping writing post, no content: https://www.hltv.org/news/39761/thunderpick-world-championship-2025-announced
-2024/09/01 13:53:25 Skipping writing post, no content: https://www.hltv.org/news/39772/eyeballers-bench-peppzor-and-golden
-2024/09/01 13:53:25 Skipping writing post, no content: https://www.hltv.org/news/39771/betboom-dacha-belgrade-s2-grand-final-live-updates
-2024/09/01 13:53:25 Skipping writing post, no content: https://www.hltv.org/news/39770/hally-on-iem-cologne-fiasco-its-my-mistake
-2024/09/01 13:53:25 Skipping writing post, no content: https://www.hltv.org/news/39769/fissure-to-host-two-lan-events-in-belgrade-in-2025
-2024/09/01 13:53:25 Skipping writing post, no content: https://www.hltv.org/news/39706/short-news-week-35
-2024/09/01 13:53:25 Skipping writing post, no content: https://www.hltv.org/news/39768/maj3r-we-switched-positions-on-nuke-against-mouz-specially
-2024/09/01 13:53:25 Skipping writing post, no content: https://www.hltv.org/news/39765/enterprise-elevate-drop-teams-after-missing-rmrs
-2024/09/01 13:53:25 Skipping writing post, no content: https://www.hltv.org/news/39767/saw-finalize-esl-challenger-atlanta-team-list
-2024/09/01 13:53:25 Templated 55 posts, took 7.815057ms
+2024/09/01 14:10:19 Content still empty after HTML reader: https://www.nytimes.com/2024/09/01/world/europe/ukraine-russia-energy-strikes.html
+2024/09/01 14:10:19 Content still empty after HTML reader: https://www.hltv.org/news/39773/yalla-reveal-2025-event-locations
+2024/09/01 14:10:19 Content still empty after HTML reader: https://www.hltv.org/news/39761/thunderpick-world-championship-2025-announced
+2024/09/01 14:10:19 Content still empty after HTML reader: https://www.hltv.org/news/39772/eyeballers-bench-peppzor-and-golden
+2024/09/01 14:10:19 Content still empty after HTML reader: https://www.hltv.org/news/39771/betboom-dacha-belgrade-s2-grand-final-live-updates
+2024/09/01 14:10:19 Content still empty after HTML reader: https://www.hltv.org/news/39770/hally-on-iem-cologne-fiasco-its-my-mistake
+2024/09/01 14:10:19 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/09/01 14:10:19 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 374.491416ms
+2024/09/01 14:10:19 Content still empty after HTML reader: https://www.hltv.org/news/39769/fissure-to-host-two-lan-events-in-belgrade-in-2025
+2024/09/01 14:10:19 Content still empty after HTML reader: https://www.hltv.org/news/39706/short-news-week-35
+2024/09/01 14:10:19 Content still empty after HTML reader: https://www.hltv.org/news/39768/maj3r-we-switched-positions-on-nuke-against-mouz-specially
+2024/09/01 14:10:19 Content still empty after HTML reader: https://www.hltv.org/news/39765/enterprise-elevate-drop-teams-after-missing-rmrs
+2024/09/01 14:10:19 Content still empty after HTML reader: https://www.hltv.org/news/39767/saw-finalize-esl-challenger-atlanta-team-list
+2024/09/01 14:10:19 Fetched posts from https://www.hltv.org/rss/news, took 434.085347ms
+2024/09/01 14:10:20 Fetched posts from https://vlr.gg/rss, took 631.167892ms
+2024/09/01 14:10:20 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 722.627612ms
+2024/09/01 14:10:20 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.077042182s
+2024/09/01 14:10:20 Skipping writing post, no content: https://www.hltv.org/news/39773/yalla-reveal-2025-event-locations
+2024/09/01 14:10:20 Skipping writing post, no content: https://www.nytimes.com/2024/09/01/world/europe/ukraine-russia-energy-strikes.html
+2024/09/01 14:10:20 Skipping writing post, no content: https://www.hltv.org/news/39761/thunderpick-world-championship-2025-announced
+2024/09/01 14:10:20 Skipping writing post, no content: https://www.hltv.org/news/39772/eyeballers-bench-peppzor-and-golden
+2024/09/01 14:10:20 Skipping writing post, no content: https://www.hltv.org/news/39771/betboom-dacha-belgrade-s2-grand-final-live-updates
+2024/09/01 14:10:20 Skipping writing post, no content: https://www.hltv.org/news/39770/hally-on-iem-cologne-fiasco-its-my-mistake
+2024/09/01 14:10:20 Skipping writing post, no content: https://www.hltv.org/news/39769/fissure-to-host-two-lan-events-in-belgrade-in-2025
+2024/09/01 14:10:20 Skipping writing post, no content: https://www.hltv.org/news/39706/short-news-week-35
+2024/09/01 14:10:20 Skipping writing post, no content: https://www.hltv.org/news/39768/maj3r-we-switched-positions-on-nuke-against-mouz-specially
+2024/09/01 14:10:20 Skipping writing post, no content: https://www.hltv.org/news/39765/enterprise-elevate-drop-teams-after-missing-rmrs
+2024/09/01 14:10:20 Skipping writing post, no content: https://www.hltv.org/news/39767/saw-finalize-esl-challenger-atlanta-team-list
+2024/09/01 14:10:20 Templated 55 posts, took 8.284509ms
