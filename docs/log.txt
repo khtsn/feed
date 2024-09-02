@@ -1,27 +1,27 @@
-2024/09/02 08:52:21 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/09/02 08:52:21 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 341.811964ms
-2024/09/02 08:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39780/liquid-complete-iem-rio-team-list
-2024/09/02 08:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39779/short-news-week-36
-2024/09/02 08:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39778/donk-to-make-up-for-cologne-we-need-to-play-on-a-decent-level-four-or-five-more-events
-2024/09/02 08:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39776/esl-pro-league-season-20-teams-format-schedule-talent-prizes-fantasy
-2024/09/02 08:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39777/hltv-confirmed-rmr-results-2025-circuit-announcements-and-issues
-2024/09/02 08:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39775/donk-wins-his-fourth-mvp-of-2024-at-bb-dacha-belgrade-s2
-2024/09/02 08:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39774/spirit-sweep-eternal-fire-to-win-bb-dacha-belgrade-season-2
-2024/09/02 08:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39773/yalla-reveal-2025-event-locations
-2024/09/02 08:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39706/short-news-week-35
-2024/09/02 08:52:21 Content still empty after HTML reader: https://www.hltv.org/news/39761/thunderpick-world-championship-2025-announced
-2024/09/02 08:52:21 Fetched posts from https://www.hltv.org/rss/news, took 538.74504ms
-2024/09/02 08:52:21 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 843.880124ms
-2024/09/02 08:52:22 Fetched posts from https://vlr.gg/rss, took 1.558796463s
-2024/09/02 08:52:23 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 2.360147885s
-2024/09/02 08:52:23 Skipping writing post, no content: https://www.hltv.org/news/39780/liquid-complete-iem-rio-team-list
-2024/09/02 08:52:23 Skipping writing post, no content: https://www.hltv.org/news/39779/short-news-week-36
-2024/09/02 08:52:23 Skipping writing post, no content: https://www.hltv.org/news/39778/donk-to-make-up-for-cologne-we-need-to-play-on-a-decent-level-four-or-five-more-events
-2024/09/02 08:52:23 Skipping writing post, no content: https://www.hltv.org/news/39776/esl-pro-league-season-20-teams-format-schedule-talent-prizes-fantasy
-2024/09/02 08:52:23 Skipping writing post, no content: https://www.hltv.org/news/39777/hltv-confirmed-rmr-results-2025-circuit-announcements-and-issues
-2024/09/02 08:52:23 Skipping writing post, no content: https://www.hltv.org/news/39775/donk-wins-his-fourth-mvp-of-2024-at-bb-dacha-belgrade-s2
-2024/09/02 08:52:23 Skipping writing post, no content: https://www.hltv.org/news/39774/spirit-sweep-eternal-fire-to-win-bb-dacha-belgrade-season-2
-2024/09/02 08:52:23 Skipping writing post, no content: https://www.hltv.org/news/39773/yalla-reveal-2025-event-locations
-2024/09/02 08:52:23 Skipping writing post, no content: https://www.hltv.org/news/39706/short-news-week-35
-2024/09/02 08:52:23 Skipping writing post, no content: https://www.hltv.org/news/39761/thunderpick-world-championship-2025-announced
-2024/09/02 08:52:23 Templated 51 posts, took 7.192147ms
+2024/09/02 09:12:23 error parsing https://www.teamblind.com/rss/Tech/rss: Get "https://www.teamblind.com/rss/Tech/rss": write tcp 10.1.0.138:39682->54.230.18.46:443: write: connection reset by peer
+2024/09/02 09:12:23 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 53.697001ms
+2024/09/02 09:12:23 Content still empty after HTML reader: https://www.hltv.org/news/39780/liquid-complete-iem-rio-team-list
+2024/09/02 09:12:23 Content still empty after HTML reader: https://www.hltv.org/news/39779/short-news-week-36
+2024/09/02 09:12:23 Content still empty after HTML reader: https://www.hltv.org/news/39778/donk-to-make-up-for-cologne-we-need-to-play-on-a-decent-level-four-or-five-more-events
+2024/09/02 09:12:23 Content still empty after HTML reader: https://www.hltv.org/news/39776/esl-pro-league-season-20-teams-format-schedule-talent-prizes-fantasy
+2024/09/02 09:12:23 Content still empty after HTML reader: https://www.hltv.org/news/39777/hltv-confirmed-rmr-results-2025-circuit-announcements-and-issues
+2024/09/02 09:12:23 Content still empty after HTML reader: https://www.hltv.org/news/39775/donk-wins-his-fourth-mvp-of-2024-at-bb-dacha-belgrade-s2
+2024/09/02 09:12:23 Content still empty after HTML reader: https://www.hltv.org/news/39774/spirit-sweep-eternal-fire-to-win-bb-dacha-belgrade-season-2
+2024/09/02 09:12:23 Content still empty after HTML reader: https://www.hltv.org/news/39773/yalla-reveal-2025-event-locations
+2024/09/02 09:12:23 Content still empty after HTML reader: https://www.hltv.org/news/39706/short-news-week-35
+2024/09/02 09:12:23 Content still empty after HTML reader: https://www.hltv.org/news/39761/thunderpick-world-championship-2025-announced
+2024/09/02 09:12:23 Fetched posts from https://www.hltv.org/rss/news, took 429.568342ms
+2024/09/02 09:12:24 Fetched posts from https://vlr.gg/rss, took 822.926081ms
+2024/09/02 09:12:24 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 845.774196ms
+2024/09/02 09:12:24 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.27705923s
+2024/09/02 09:12:24 Skipping writing post, no content: https://www.hltv.org/news/39780/liquid-complete-iem-rio-team-list
+2024/09/02 09:12:24 Skipping writing post, no content: https://www.hltv.org/news/39779/short-news-week-36
+2024/09/02 09:12:24 Skipping writing post, no content: https://www.hltv.org/news/39778/donk-to-make-up-for-cologne-we-need-to-play-on-a-decent-level-four-or-five-more-events
+2024/09/02 09:12:24 Skipping writing post, no content: https://www.hltv.org/news/39776/esl-pro-league-season-20-teams-format-schedule-talent-prizes-fantasy
+2024/09/02 09:12:24 Skipping writing post, no content: https://www.hltv.org/news/39777/hltv-confirmed-rmr-results-2025-circuit-announcements-and-issues
+2024/09/02 09:12:24 Skipping writing post, no content: https://www.hltv.org/news/39775/donk-wins-his-fourth-mvp-of-2024-at-bb-dacha-belgrade-s2
+2024/09/02 09:12:24 Skipping writing post, no content: https://www.hltv.org/news/39774/spirit-sweep-eternal-fire-to-win-bb-dacha-belgrade-season-2
+2024/09/02 09:12:24 Skipping writing post, no content: https://www.hltv.org/news/39773/yalla-reveal-2025-event-locations
+2024/09/02 09:12:24 Skipping writing post, no content: https://www.hltv.org/news/39706/short-news-week-35
+2024/09/02 09:12:24 Skipping writing post, no content: https://www.hltv.org/news/39761/thunderpick-world-championship-2025-announced
+2024/09/02 09:12:24 Templated 51 posts, took 7.233081ms
