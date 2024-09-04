@@ -1,25 +1,27 @@
-2024/09/04 10:45:54 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/09/04 10:45:54 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 166.916534ms
-2024/09/04 10:45:54 Content still empty after HTML reader: https://www.hltv.org/news/39779/short-news-week-36
-2024/09/04 10:45:54 Content still empty after HTML reader: https://www.hltv.org/news/39791/media-mibr-in-advanced-talks-with-lucaozy
-2024/09/04 10:45:54 Content still empty after HTML reader: https://www.hltv.org/news/39790/boost-and-crouch-jump-bugs-fixed-in-cs-update
-2024/09/04 10:45:54 Content still empty after HTML reader: https://www.hltv.org/news/39789/mibr-break-four-series-loss-streak-to-9z-at-close-of-epl-day-one
-2024/09/04 10:45:54 Content still empty after HTML reader: https://www.hltv.org/news/39788/virtuspro-replace-xoma-with-pashanoj
-2024/09/04 10:45:54 Content still empty after HTML reader: https://www.hltv.org/news/39787/teses-takes-responsibility-for-snap-tap-use-fcking-embarrassing-and-amateur-from-me
-2024/09/04 10:45:54 Content still empty after HTML reader: https://www.hltv.org/news/39786/sangal-upset-faze-in-epl-opener
-2024/09/04 10:45:54 Content still empty after HTML reader: https://www.hltv.org/news/39785/heroic-map-win-overturned-at-epl-after-player-uses-snap-tap
-2024/09/04 10:45:54 Content still empty after HTML reader: https://www.hltv.org/news/39781/the-evps-and-best-five-of-bb-dacha-belgrade-s2
-2024/09/04 10:45:54 Fetched posts from https://www.hltv.org/rss/news, took 502.13756ms
-2024/09/04 10:45:54 Fetched posts from https://vlr.gg/rss, took 824.705102ms
-2024/09/04 10:45:54 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 871.430851ms
-2024/09/04 10:45:59 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 5.409480939s
-2024/09/04 10:45:59 Skipping writing post, no content: https://www.hltv.org/news/39779/short-news-week-36
-2024/09/04 10:45:59 Skipping writing post, no content: https://www.hltv.org/news/39791/media-mibr-in-advanced-talks-with-lucaozy
-2024/09/04 10:45:59 Skipping writing post, no content: https://www.hltv.org/news/39790/boost-and-crouch-jump-bugs-fixed-in-cs-update
-2024/09/04 10:45:59 Skipping writing post, no content: https://www.hltv.org/news/39789/mibr-break-four-series-loss-streak-to-9z-at-close-of-epl-day-one
-2024/09/04 10:45:59 Skipping writing post, no content: https://www.hltv.org/news/39788/virtuspro-replace-xoma-with-pashanoj
-2024/09/04 10:45:59 Skipping writing post, no content: https://www.hltv.org/news/39787/teses-takes-responsibility-for-snap-tap-use-fcking-embarrassing-and-amateur-from-me
-2024/09/04 10:45:59 Skipping writing post, no content: https://www.hltv.org/news/39786/sangal-upset-faze-in-epl-opener
-2024/09/04 10:45:59 Skipping writing post, no content: https://www.hltv.org/news/39785/heroic-map-win-overturned-at-epl-after-player-uses-snap-tap
-2024/09/04 10:45:59 Skipping writing post, no content: https://www.hltv.org/news/39781/the-evps-and-best-five-of-bb-dacha-belgrade-s2
-2024/09/04 10:45:59 Templated 60 posts, took 9.114613ms
+2024/09/04 10:56:16 Content still empty after HTML reader: https://www.hltv.org/news/39779/short-news-week-36
+2024/09/04 10:56:16 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/09/04 10:56:16 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 215.736801ms
+2024/09/04 10:56:16 Content still empty after HTML reader: https://www.hltv.org/news/39791/media-mibr-in-advanced-talks-with-lucaozy
+2024/09/04 10:56:16 Content still empty after HTML reader: https://www.hltv.org/news/39790/boost-and-crouch-jump-bugs-fixed-in-cs-update
+2024/09/04 10:56:16 Content still empty after HTML reader: https://www.hltv.org/news/39789/mibr-break-four-series-loss-streak-to-9z-at-close-of-epl-day-one
+2024/09/04 10:56:16 Content still empty after HTML reader: https://www.hltv.org/news/39788/virtuspro-replace-xoma-with-pashanoj
+2024/09/04 10:56:16 Content still empty after HTML reader: https://www.hltv.org/news/39787/teses-takes-responsibility-for-snap-tap-use-fcking-embarrassing-and-amateur-from-me
+2024/09/04 10:56:16 Content still empty after HTML reader: https://www.hltv.org/news/39786/sangal-upset-faze-in-epl-opener
+2024/09/04 10:56:16 Content still empty after HTML reader: https://www.hltv.org/news/39785/heroic-map-win-overturned-at-epl-after-player-uses-snap-tap
+2024/09/04 10:56:16 Content still empty after HTML reader: https://www.hltv.org/news/39784/monte-promote-nawrot-to-head-coach
+2024/09/04 10:56:16 Content still empty after HTML reader: https://www.hltv.org/news/39781/the-evps-and-best-five-of-bb-dacha-belgrade-s2
+2024/09/04 10:56:16 Fetched posts from https://www.hltv.org/rss/news, took 333.035517ms
+2024/09/04 10:56:16 Fetched posts from https://vlr.gg/rss, took 956.979936ms
+2024/09/04 10:56:17 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.139925602s
+2024/09/04 10:56:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.166277246s
+2024/09/04 10:56:17 Skipping writing post, no content: https://www.hltv.org/news/39779/short-news-week-36
+2024/09/04 10:56:17 Skipping writing post, no content: https://www.hltv.org/news/39791/media-mibr-in-advanced-talks-with-lucaozy
+2024/09/04 10:56:17 Skipping writing post, no content: https://www.hltv.org/news/39790/boost-and-crouch-jump-bugs-fixed-in-cs-update
+2024/09/04 10:56:17 Skipping writing post, no content: https://www.hltv.org/news/39789/mibr-break-four-series-loss-streak-to-9z-at-close-of-epl-day-one
+2024/09/04 10:56:17 Skipping writing post, no content: https://www.hltv.org/news/39788/virtuspro-replace-xoma-with-pashanoj
+2024/09/04 10:56:17 Skipping writing post, no content: https://www.hltv.org/news/39787/teses-takes-responsibility-for-snap-tap-use-fcking-embarrassing-and-amateur-from-me
+2024/09/04 10:56:17 Skipping writing post, no content: https://www.hltv.org/news/39786/sangal-upset-faze-in-epl-opener
+2024/09/04 10:56:17 Skipping writing post, no content: https://www.hltv.org/news/39785/heroic-map-win-overturned-at-epl-after-player-uses-snap-tap
+2024/09/04 10:56:17 Skipping writing post, no content: https://www.hltv.org/news/39784/monte-promote-nawrot-to-head-coach
+2024/09/04 10:56:17 Skipping writing post, no content: https://www.hltv.org/news/39781/the-evps-and-best-five-of-bb-dacha-belgrade-s2
+2024/09/04 10:56:17 Templated 60 posts, took 9.321038ms
