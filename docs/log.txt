@@ -1,27 +1,29 @@
-2024/09/05 20:21:28 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/09/05 20:21:28 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 142.727953ms
-2024/09/05 20:21:28 Content still empty after HTML reader: https://www.hltv.org/news/39796/editorial-contract-lengths-should-be-public
-2024/09/05 20:21:28 Content still empty after HTML reader: https://www.hltv.org/news/39779/short-news-week-36
-2024/09/05 20:21:28 Content still empty after HTML reader: https://www.hltv.org/news/39799/mibr-stun-spirit-to-secure-playoffs-spot-in-malta
-2024/09/05 20:21:28 Content still empty after HTML reader: https://www.hltv.org/news/39798/blast-pgl-to-no-longer-work-with-maniac-in-aftermath-of-sexual-assault-allegations
-2024/09/05 20:21:28 Content still empty after HTML reader: https://www.hltv.org/news/39797/themongolz-go-26-1-in-landslide-win-against-koi
-2024/09/05 20:21:28 Content still empty after HTML reader: https://www.hltv.org/news/39795/neityu-earns-high-praise-from-apex-im-pretty-sure-he-will-play-in-a-top-10-team
-2024/09/05 20:21:28 Content still empty after HTML reader: https://www.hltv.org/news/39794/navi-and-eternal-fire-lock-in-epl-s20-playoff-spots
-2024/09/05 20:21:28 Content still empty after HTML reader: https://www.hltv.org/news/39793/maniac-steps-back-from-esl-pro-league-broadcast-following-sexual-assault-allegations
-2024/09/05 20:21:28 Content still empty after HTML reader: https://www.hltv.org/news/39792/donk-breaks-cs2-kill-record-against-wildcard
-2024/09/05 20:21:28 Content still empty after HTML reader: https://www.hltv.org/news/39791/media-mibr-in-advanced-talks-with-lucaozy
-2024/09/05 20:21:28 Fetched posts from https://www.hltv.org/rss/news, took 450.891076ms
-2024/09/05 20:21:29 Fetched posts from https://vlr.gg/rss, took 819.013933ms
-2024/09/05 20:21:29 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 864.643359ms
-2024/09/05 20:21:29 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.172205212s
-2024/09/05 20:21:29 Skipping writing post, no content: https://www.hltv.org/news/39796/editorial-contract-lengths-should-be-public
-2024/09/05 20:21:29 Skipping writing post, no content: https://www.hltv.org/news/39779/short-news-week-36
-2024/09/05 20:21:29 Skipping writing post, no content: https://www.hltv.org/news/39799/mibr-stun-spirit-to-secure-playoffs-spot-in-malta
-2024/09/05 20:21:29 Skipping writing post, no content: https://www.hltv.org/news/39798/blast-pgl-to-no-longer-work-with-maniac-in-aftermath-of-sexual-assault-allegations
-2024/09/05 20:21:29 Skipping writing post, no content: https://www.hltv.org/news/39797/themongolz-go-26-1-in-landslide-win-against-koi
-2024/09/05 20:21:29 Skipping writing post, no content: https://www.hltv.org/news/39795/neityu-earns-high-praise-from-apex-im-pretty-sure-he-will-play-in-a-top-10-team
-2024/09/05 20:21:29 Skipping writing post, no content: https://www.hltv.org/news/39794/navi-and-eternal-fire-lock-in-epl-s20-playoff-spots
-2024/09/05 20:21:29 Skipping writing post, no content: https://www.hltv.org/news/39793/maniac-steps-back-from-esl-pro-league-broadcast-following-sexual-assault-allegations
-2024/09/05 20:21:29 Skipping writing post, no content: https://www.hltv.org/news/39792/donk-breaks-cs2-kill-record-against-wildcard
-2024/09/05 20:21:29 Skipping writing post, no content: https://www.hltv.org/news/39791/media-mibr-in-advanced-talks-with-lucaozy
-2024/09/05 20:21:29 Templated 60 posts, took 9.312245ms
+2024/09/05 20:33:36 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/09/05 20:33:36 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 176.412829ms
+2024/09/05 20:33:37 Content still empty after HTML reader: https://www.hltv.org/news/39796/editorial-contract-lengths-should-be-public
+2024/09/05 20:33:37 Content still empty after HTML reader: https://www.hltv.org/news/39779/short-news-week-36
+2024/09/05 20:33:37 Content still empty after HTML reader: https://www.bbc.com/vietnamese/articles/cd05xg247jgo
+2024/09/05 20:33:37 Content still empty after HTML reader: https://www.hltv.org/news/39799/mibr-stun-spirit-to-secure-playoffs-spot-in-malta
+2024/09/05 20:33:37 Content still empty after HTML reader: https://www.hltv.org/news/39798/blast-pgl-to-no-longer-work-with-maniac-in-aftermath-of-sexual-assault-allegations
+2024/09/05 20:33:37 Content still empty after HTML reader: https://www.hltv.org/news/39797/themongolz-go-26-1-in-landslide-win-against-koi
+2024/09/05 20:33:37 Content still empty after HTML reader: https://www.hltv.org/news/39795/neityu-earns-high-praise-from-apex-im-pretty-sure-he-will-play-in-a-top-10-team
+2024/09/05 20:33:37 Content still empty after HTML reader: https://www.hltv.org/news/39794/navi-and-eternal-fire-lock-in-epl-s20-playoff-spots
+2024/09/05 20:33:37 Content still empty after HTML reader: https://www.hltv.org/news/39793/maniac-steps-back-from-esl-pro-league-broadcast-following-sexual-assault-allegations
+2024/09/05 20:33:37 Content still empty after HTML reader: https://www.hltv.org/news/39792/donk-breaks-cs2-kill-record-against-wildcard
+2024/09/05 20:33:37 Fetched posts from https://vlr.gg/rss, took 832.934117ms
+2024/09/05 20:33:37 Content still empty after HTML reader: https://www.hltv.org/news/39791/media-mibr-in-advanced-talks-with-lucaozy
+2024/09/05 20:33:37 Fetched posts from https://www.hltv.org/rss/news, took 833.43925ms
+2024/09/05 20:33:37 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 966.34448ms
+2024/09/05 20:33:37 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.065831516s
+2024/09/05 20:33:37 Skipping writing post, no content: https://www.hltv.org/news/39796/editorial-contract-lengths-should-be-public
+2024/09/05 20:33:37 Skipping writing post, no content: https://www.hltv.org/news/39779/short-news-week-36
+2024/09/05 20:33:37 Skipping writing post, no content: https://www.hltv.org/news/39799/mibr-stun-spirit-to-secure-playoffs-spot-in-malta
+2024/09/05 20:33:37 Skipping writing post, no content: https://www.hltv.org/news/39798/blast-pgl-to-no-longer-work-with-maniac-in-aftermath-of-sexual-assault-allegations
+2024/09/05 20:33:37 Skipping writing post, no content: https://www.hltv.org/news/39797/themongolz-go-26-1-in-landslide-win-against-koi
+2024/09/05 20:33:37 Skipping writing post, no content: https://www.bbc.com/vietnamese/articles/cd05xg247jgo
+2024/09/05 20:33:37 Skipping writing post, no content: https://www.hltv.org/news/39795/neityu-earns-high-praise-from-apex-im-pretty-sure-he-will-play-in-a-top-10-team
+2024/09/05 20:33:37 Skipping writing post, no content: https://www.hltv.org/news/39794/navi-and-eternal-fire-lock-in-epl-s20-playoff-spots
+2024/09/05 20:33:37 Skipping writing post, no content: https://www.hltv.org/news/39793/maniac-steps-back-from-esl-pro-league-broadcast-following-sexual-assault-allegations
+2024/09/05 20:33:37 Skipping writing post, no content: https://www.hltv.org/news/39792/donk-breaks-cs2-kill-record-against-wildcard
+2024/09/05 20:33:37 Skipping writing post, no content: https://www.hltv.org/news/39791/media-mibr-in-advanced-talks-with-lucaozy
+2024/09/05 20:33:37 Templated 59 posts, took 8.58268ms
