@@ -1,27 +1,25 @@
-2024/09/07 19:12:18 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/09/07 19:12:18 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 116.549451ms
-2024/09/07 19:12:18 Content still empty after HTML reader: https://www.hltv.org/news/39811/nip-wildcard-eliminated-from-epl
-2024/09/07 19:12:18 Content still empty after HTML reader: https://www.hltv.org/news/39810/1win-transfer-list-trio-to-rebuild-with-hobbit-and-lattykk
-2024/09/07 19:12:18 Content still empty after HTML reader: https://www.hltv.org/news/39809/c9-qualify-for-thunderpick-world-championship
-2024/09/07 19:12:18 Content still empty after HTML reader: https://www.hltv.org/news/39779/short-news-week-36
-2024/09/07 19:12:18 Content still empty after HTML reader: https://www.hltv.org/news/39808/9z-flyquest-sent-packing-from-malta
-2024/09/07 19:12:18 Content still empty after HTML reader: https://www.hltv.org/news/39806/spirit-secure-playoffs-koi-lynn-vision-eliminated
-2024/09/07 19:12:18 Content still empty after HTML reader: https://www.hltv.org/news/39805/faze-get-revenge-on-sangal-to-make-epl-playoffs
-2024/09/07 19:12:18 Content still empty after HTML reader: https://www.hltv.org/news/39804/seized-retires-looking-back-it-was-a-good-career
-2024/09/07 19:12:18 Content still empty after HTML reader: https://www.hltv.org/news/39803/the-mongolz-9z-drop-down-to-last-chance-stage
-2024/09/07 19:12:18 Content still empty after HTML reader: https://www.hltv.org/news/39802/maniac-admits-to-unacceptable-behavior-blames-alcohol-and-broken-childhood-in-apology
-2024/09/07 19:12:18 Fetched posts from https://www.hltv.org/rss/news, took 301.941092ms
-2024/09/07 19:12:19 Fetched posts from https://vlr.gg/rss, took 845.300631ms
-2024/09/07 19:12:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 972.379272ms
-2024/09/07 19:12:20 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.707744903s
-2024/09/07 19:12:20 Skipping writing post, no content: https://www.hltv.org/news/39811/nip-wildcard-eliminated-from-epl
-2024/09/07 19:12:20 Skipping writing post, no content: https://www.hltv.org/news/39810/1win-transfer-list-trio-to-rebuild-with-hobbit-and-lattykk
-2024/09/07 19:12:20 Skipping writing post, no content: https://www.hltv.org/news/39809/c9-qualify-for-thunderpick-world-championship
-2024/09/07 19:12:20 Skipping writing post, no content: https://www.hltv.org/news/39779/short-news-week-36
-2024/09/07 19:12:20 Skipping writing post, no content: https://www.hltv.org/news/39808/9z-flyquest-sent-packing-from-malta
-2024/09/07 19:12:20 Skipping writing post, no content: https://www.hltv.org/news/39806/spirit-secure-playoffs-koi-lynn-vision-eliminated
-2024/09/07 19:12:20 Skipping writing post, no content: https://www.hltv.org/news/39805/faze-get-revenge-on-sangal-to-make-epl-playoffs
-2024/09/07 19:12:20 Skipping writing post, no content: https://www.hltv.org/news/39804/seized-retires-looking-back-it-was-a-good-career
-2024/09/07 19:12:20 Skipping writing post, no content: https://www.hltv.org/news/39803/the-mongolz-9z-drop-down-to-last-chance-stage
-2024/09/07 19:12:20 Skipping writing post, no content: https://www.hltv.org/news/39802/maniac-admits-to-unacceptable-behavior-blames-alcohol-and-broken-childhood-in-apology
-2024/09/07 19:12:20 Templated 59 posts, took 9.317809ms
+2024/09/07 19:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39811/nip-wildcard-eliminated-from-epl
+2024/09/07 19:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39810/1win-transfer-list-trio-to-rebuild-with-hobbit-and-lattykk
+2024/09/07 19:23:33 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/09/07 19:23:33 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 365.487831ms
+2024/09/07 19:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39779/short-news-week-36
+2024/09/07 19:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39808/9z-flyquest-sent-packing-from-malta
+2024/09/07 19:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39806/spirit-secure-playoffs-koi-lynn-vision-eliminated
+2024/09/07 19:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39805/faze-get-revenge-on-sangal-to-make-epl-playoffs
+2024/09/07 19:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39804/seized-retires-looking-back-it-was-a-good-career
+2024/09/07 19:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39803/the-mongolz-9z-drop-down-to-last-chance-stage
+2024/09/07 19:23:33 Content still empty after HTML reader: https://www.hltv.org/news/39802/maniac-admits-to-unacceptable-behavior-blames-alcohol-and-broken-childhood-in-apology
+2024/09/07 19:23:33 Fetched posts from https://www.hltv.org/rss/news, took 485.498418ms
+2024/09/07 19:23:34 Fetched posts from https://vlr.gg/rss, took 800.27193ms
+2024/09/07 19:23:34 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 911.598913ms
+2024/09/07 19:23:34 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.26669663s
+2024/09/07 19:23:34 Skipping writing post, no content: https://www.hltv.org/news/39811/nip-wildcard-eliminated-from-epl
+2024/09/07 19:23:34 Skipping writing post, no content: https://www.hltv.org/news/39810/1win-transfer-list-trio-to-rebuild-with-hobbit-and-lattykk
+2024/09/07 19:23:34 Skipping writing post, no content: https://www.hltv.org/news/39779/short-news-week-36
+2024/09/07 19:23:34 Skipping writing post, no content: https://www.hltv.org/news/39808/9z-flyquest-sent-packing-from-malta
+2024/09/07 19:23:34 Skipping writing post, no content: https://www.hltv.org/news/39806/spirit-secure-playoffs-koi-lynn-vision-eliminated
+2024/09/07 19:23:34 Skipping writing post, no content: https://www.hltv.org/news/39805/faze-get-revenge-on-sangal-to-make-epl-playoffs
+2024/09/07 19:23:34 Skipping writing post, no content: https://www.hltv.org/news/39804/seized-retires-looking-back-it-was-a-good-career
+2024/09/07 19:23:34 Skipping writing post, no content: https://www.hltv.org/news/39803/the-mongolz-9z-drop-down-to-last-chance-stage
+2024/09/07 19:23:34 Skipping writing post, no content: https://www.hltv.org/news/39802/maniac-admits-to-unacceptable-behavior-blames-alcohol-and-broken-childhood-in-apology
+2024/09/07 19:23:34 Templated 59 posts, took 9.47077ms
