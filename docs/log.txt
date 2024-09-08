@@ -1,27 +1,29 @@
-2024/09/08 19:56:17 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
-2024/09/08 19:56:17 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 200.404098ms
-2024/09/08 19:56:17 Content still empty after HTML reader: https://www.hltv.org/news/39779/short-news-week-36
-2024/09/08 19:56:17 Content still empty after HTML reader: https://www.hltv.org/news/39814/g2-move-past-mibr-to-reach-epl-quarters
-2024/09/08 19:56:17 Content still empty after HTML reader: https://www.hltv.org/news/39813/heroic-beat-sangal-to-qualify-for-epl-playoffs
-2024/09/08 19:56:17 Content still empty after HTML reader: https://www.hltv.org/news/39812/the-mongolz-eliminate-3dmax-to-make-pro-league-playoffs
-2024/09/08 19:56:17 Content still empty after HTML reader: https://www.hltv.org/news/39811/nip-wildcard-eliminated-from-epl
-2024/09/08 19:56:17 Content still empty after HTML reader: https://www.hltv.org/news/39810/1win-transfer-list-trio-to-rebuild-with-hobbit-and-lattykk
-2024/09/08 19:56:17 Content still empty after HTML reader: https://www.hltv.org/news/39809/c9-qualify-for-thunderpick-world-championship
-2024/09/08 19:56:17 Content still empty after HTML reader: https://www.hltv.org/news/39808/9z-flyquest-sent-packing-from-malta
-2024/09/08 19:56:17 Content still empty after HTML reader: https://www.hltv.org/news/39806/spirit-secure-playoffs-koi-lynn-vision-eliminated
-2024/09/08 19:56:17 Content still empty after HTML reader: https://www.hltv.org/news/39805/faze-get-revenge-on-sangal-to-make-epl-playoffs
-2024/09/08 19:56:17 Fetched posts from https://www.hltv.org/rss/news, took 384.769382ms
-2024/09/08 19:56:17 Fetched posts from https://vlr.gg/rss, took 918.892513ms
-2024/09/08 19:56:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 997.12263ms
-2024/09/08 19:56:18 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 1.159123535s
-2024/09/08 19:56:18 Skipping writing post, no content: https://www.hltv.org/news/39779/short-news-week-36
-2024/09/08 19:56:18 Skipping writing post, no content: https://www.hltv.org/news/39814/g2-move-past-mibr-to-reach-epl-quarters
-2024/09/08 19:56:18 Skipping writing post, no content: https://www.hltv.org/news/39813/heroic-beat-sangal-to-qualify-for-epl-playoffs
-2024/09/08 19:56:18 Skipping writing post, no content: https://www.hltv.org/news/39812/the-mongolz-eliminate-3dmax-to-make-pro-league-playoffs
-2024/09/08 19:56:18 Skipping writing post, no content: https://www.hltv.org/news/39811/nip-wildcard-eliminated-from-epl
-2024/09/08 19:56:18 Skipping writing post, no content: https://www.hltv.org/news/39810/1win-transfer-list-trio-to-rebuild-with-hobbit-and-lattykk
-2024/09/08 19:56:18 Skipping writing post, no content: https://www.hltv.org/news/39809/c9-qualify-for-thunderpick-world-championship
-2024/09/08 19:56:18 Skipping writing post, no content: https://www.hltv.org/news/39808/9z-flyquest-sent-packing-from-malta
-2024/09/08 19:56:18 Skipping writing post, no content: https://www.hltv.org/news/39806/spirit-secure-playoffs-koi-lynn-vision-eliminated
-2024/09/08 19:56:18 Skipping writing post, no content: https://www.hltv.org/news/39805/faze-get-revenge-on-sangal-to-make-epl-playoffs
-2024/09/08 19:56:18 Templated 57 posts, took 11.524397ms
+2024/09/08 20:18:00 error parsing https://www.teamblind.com/rss/Tech/rss: http error: 404 Not Found
+2024/09/08 20:18:00 Fetched posts from https://www.teamblind.com/rss/Tech/rss, took 91.644859ms
+2024/09/08 20:18:00 Content still empty after HTML reader: https://www.hltv.org/news/39779/short-news-week-36
+2024/09/08 20:18:00 Content still empty after HTML reader: https://www.hltv.org/news/39814/g2-move-past-mibr-to-reach-epl-quarters
+2024/09/08 20:18:00 Content still empty after HTML reader: https://www.hltv.org/news/39813/heroic-beat-sangal-to-qualify-for-epl-playoffs
+2024/09/08 20:18:00 Content still empty after HTML reader: https://www.nytimes.com/2024/09/08/arts/music/kendrick-lamar-super-bowl-halftime-show.html
+2024/09/08 20:18:00 Content still empty after HTML reader: https://www.hltv.org/news/39812/the-mongolz-eliminate-3dmax-to-make-pro-league-playoffs
+2024/09/08 20:18:00 Content still empty after HTML reader: https://www.hltv.org/news/39811/nip-wildcard-eliminated-from-epl
+2024/09/08 20:18:00 Content still empty after HTML reader: https://www.hltv.org/news/39810/1win-transfer-list-trio-to-rebuild-with-hobbit-and-lattykk
+2024/09/08 20:18:00 Content still empty after HTML reader: https://www.hltv.org/news/39809/c9-qualify-for-thunderpick-world-championship
+2024/09/08 20:18:00 Content still empty after HTML reader: https://www.nytimes.com/2024/09/08/world/asia/china-women-land-rights.html
+2024/09/08 20:18:00 Content still empty after HTML reader: https://www.hltv.org/news/39808/9z-flyquest-sent-packing-from-malta
+2024/09/08 20:18:00 Content still empty after HTML reader: https://www.hltv.org/news/39805/faze-get-revenge-on-sangal-to-make-epl-playoffs
+2024/09/08 20:18:00 Fetched posts from https://www.hltv.org/rss/news, took 476.882001ms
+2024/09/08 20:18:00 Fetched posts from http://www.bbc.co.uk/vietnamese/index.xml, took 707.976739ms
+2024/09/08 20:18:00 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 740.678473ms
+2024/09/08 20:18:02 Fetched posts from https://vlr.gg/rss, took 2.084981295s
+2024/09/08 20:18:02 Skipping writing post, no content: https://www.hltv.org/news/39779/short-news-week-36
+2024/09/08 20:18:02 Skipping writing post, no content: https://www.hltv.org/news/39814/g2-move-past-mibr-to-reach-epl-quarters
+2024/09/08 20:18:02 Skipping writing post, no content: https://www.nytimes.com/2024/09/08/arts/music/kendrick-lamar-super-bowl-halftime-show.html
+2024/09/08 20:18:02 Skipping writing post, no content: https://www.hltv.org/news/39813/heroic-beat-sangal-to-qualify-for-epl-playoffs
+2024/09/08 20:18:02 Skipping writing post, no content: https://www.hltv.org/news/39812/the-mongolz-eliminate-3dmax-to-make-pro-league-playoffs
+2024/09/08 20:18:02 Skipping writing post, no content: https://www.nytimes.com/2024/09/08/world/asia/china-women-land-rights.html
+2024/09/08 20:18:02 Skipping writing post, no content: https://www.hltv.org/news/39811/nip-wildcard-eliminated-from-epl
+2024/09/08 20:18:02 Skipping writing post, no content: https://www.hltv.org/news/39810/1win-transfer-list-trio-to-rebuild-with-hobbit-and-lattykk
+2024/09/08 20:18:02 Skipping writing post, no content: https://www.hltv.org/news/39809/c9-qualify-for-thunderpick-world-championship
+2024/09/08 20:18:02 Skipping writing post, no content: https://www.hltv.org/news/39808/9z-flyquest-sent-packing-from-malta
+2024/09/08 20:18:02 Skipping writing post, no content: https://www.hltv.org/news/39805/faze-get-revenge-on-sangal-to-make-epl-playoffs
+2024/09/08 20:18:02 Templated 57 posts, took 9.038077ms
