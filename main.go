@@ -51,7 +51,6 @@ var (
 		"https://www.hltv.org/rss/news",
 		"https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
 		"https://vlr.gg/rss",
-		"https://www.teamblind.com/rss/Tech/rss",
 	}
 
 	// Show up to 60 days of posts
