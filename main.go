@@ -47,7 +47,7 @@ type Post struct {
 
 var (
 	feeds = []string{
-		"http://www.bbc.co.uk/vietnamese/index.xml",
+		"https://feeds.bbci.co.uk/vietnamese/rss.xml",
 		"https://www.hltv.org/rss/news",
 		"https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
 		"https://vlr.gg/rss",
