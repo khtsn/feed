@@ -1,25 +1,26 @@
-2024/10/23 06:53:25 Fetched posts from https://vlr.gg/rss, took 496.650393ms
-2024/10/23 06:53:26 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 716.823885ms
-2024/10/23 06:53:26 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 965.048956ms
-2024/10/23 06:53:26 Content still empty after HTML reader: https://www.hltv.org/news/40118/the-mongolz-top-group-b-in-thunderpick-9z-out
-2024/10/23 06:53:26 Content still empty after HTML reader: https://www.hltv.org/news/40117/esl-impact-league-s6-finals-team-list-set
-2024/10/23 06:53:26 Content still empty after HTML reader: https://www.hltv.org/news/40116/1win-unveil-new-roster-around-hobbit-lattykk
-2024/10/23 06:53:26 Content still empty after HTML reader: https://www.hltv.org/news/40115/three-yalla-compass-events-unveiled-for-2026
-2024/10/23 06:53:26 Content still empty after HTML reader: https://www.hltv.org/news/40105/short-news-week-43
-2024/10/23 06:53:27 Content still empty after HTML reader: https://www.hltv.org/news/40114/hltv-confirmed-concerns-about-the-2025-cs-circuit-ft-messioso
-2024/10/23 06:53:27 Content still empty after HTML reader: https://www.hltv.org/news/40113/pw-shanghai-major-ticket-sales-announced
-2024/10/23 06:53:27 Content still empty after HTML reader: https://www.hltv.org/news/40112/og-bench-nexius
-2024/10/23 06:53:27 Content still empty after HTML reader: https://www.hltv.org/news/40110/3dmax-beat-og-to-progress-in-thunderpick
-2024/10/23 06:53:27 Content still empty after HTML reader: https://www.hltv.org/news/40109/vp-cast-falcons-out-of-thunderpick-championship
-2024/10/23 06:53:27 Fetched posts from https://www.hltv.org/rss/news, took 1.720123298s
-2024/10/23 06:53:27 Skipping writing post, no content: https://www.hltv.org/news/40118/the-mongolz-top-group-b-in-thunderpick-9z-out
-2024/10/23 06:53:27 Skipping writing post, no content: https://www.hltv.org/news/40117/esl-impact-league-s6-finals-team-list-set
-2024/10/23 06:53:27 Skipping writing post, no content: https://www.hltv.org/news/40116/1win-unveil-new-roster-around-hobbit-lattykk
-2024/10/23 06:53:27 Skipping writing post, no content: https://www.hltv.org/news/40115/three-yalla-compass-events-unveiled-for-2026
-2024/10/23 06:53:27 Skipping writing post, no content: https://www.hltv.org/news/40105/short-news-week-43
-2024/10/23 06:53:27 Skipping writing post, no content: https://www.hltv.org/news/40114/hltv-confirmed-concerns-about-the-2025-cs-circuit-ft-messioso
-2024/10/23 06:53:27 Skipping writing post, no content: https://www.hltv.org/news/40113/pw-shanghai-major-ticket-sales-announced
-2024/10/23 06:53:27 Skipping writing post, no content: https://www.hltv.org/news/40112/og-bench-nexius
-2024/10/23 06:53:27 Skipping writing post, no content: https://www.hltv.org/news/40110/3dmax-beat-og-to-progress-in-thunderpick
-2024/10/23 06:53:27 Skipping writing post, no content: https://www.hltv.org/news/40109/vp-cast-falcons-out-of-thunderpick-championship
-2024/10/23 06:53:27 Templated 53 posts, took 7.631384ms
+2024/10/23 07:14:09 Content still empty after HTML reader: https://www.hltv.org/news/40118/the-mongolz-top-group-b-in-thunderpick-9z-out
+2024/10/23 07:14:09 Content still empty after HTML reader: https://www.hltv.org/news/40117/esl-impact-league-s6-finals-team-list-set
+2024/10/23 07:14:09 Content still empty after HTML reader: https://www.hltv.org/news/40116/1win-unveil-new-roster-around-hobbit-lattykk
+2024/10/23 07:14:09 Fetched posts from https://vlr.gg/rss, took 359.588287ms
+2024/10/23 07:14:09 Content still empty after HTML reader: https://www.hltv.org/news/40115/three-yalla-compass-events-unveiled-for-2026
+2024/10/23 07:14:09 Content still empty after HTML reader: https://www.hltv.org/news/40105/short-news-week-43
+2024/10/23 07:14:09 Content still empty after HTML reader: https://www.hltv.org/news/40114/hltv-confirmed-concerns-about-the-2025-cs-circuit-ft-messioso
+2024/10/23 07:14:09 Content still empty after HTML reader: https://www.hltv.org/news/40113/pw-shanghai-major-ticket-sales-announced
+2024/10/23 07:14:09 Content still empty after HTML reader: https://www.hltv.org/news/40112/og-bench-nexius
+2024/10/23 07:14:09 Content still empty after HTML reader: https://www.hltv.org/news/40110/3dmax-beat-og-to-progress-in-thunderpick
+2024/10/23 07:14:09 Content still empty after HTML reader: https://www.hltv.org/news/40109/vp-cast-falcons-out-of-thunderpick-championship
+2024/10/23 07:14:09 Fetched posts from https://www.hltv.org/rss/news, took 448.167192ms
+2024/10/23 07:14:10 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1.129127642s
+2024/10/23 07:15:09 error parsing https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml: Get "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml": context deadline exceeded
+2024/10/23 07:15:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1m0.057737605s
+2024/10/23 07:15:09 Skipping writing post, no content: https://www.hltv.org/news/40118/the-mongolz-top-group-b-in-thunderpick-9z-out
+2024/10/23 07:15:09 Skipping writing post, no content: https://www.hltv.org/news/40117/esl-impact-league-s6-finals-team-list-set
+2024/10/23 07:15:09 Skipping writing post, no content: https://www.hltv.org/news/40116/1win-unveil-new-roster-around-hobbit-lattykk
+2024/10/23 07:15:09 Skipping writing post, no content: https://www.hltv.org/news/40115/three-yalla-compass-events-unveiled-for-2026
+2024/10/23 07:15:09 Skipping writing post, no content: https://www.hltv.org/news/40105/short-news-week-43
+2024/10/23 07:15:09 Skipping writing post, no content: https://www.hltv.org/news/40114/hltv-confirmed-concerns-about-the-2025-cs-circuit-ft-messioso
+2024/10/23 07:15:09 Skipping writing post, no content: https://www.hltv.org/news/40113/pw-shanghai-major-ticket-sales-announced
+2024/10/23 07:15:09 Skipping writing post, no content: https://www.hltv.org/news/40112/og-bench-nexius
+2024/10/23 07:15:09 Skipping writing post, no content: https://www.hltv.org/news/40110/3dmax-beat-og-to-progress-in-thunderpick
+2024/10/23 07:15:09 Skipping writing post, no content: https://www.hltv.org/news/40109/vp-cast-falcons-out-of-thunderpick-championship
+2024/10/23 07:15:09 Templated 27 posts, took 4.668839ms
