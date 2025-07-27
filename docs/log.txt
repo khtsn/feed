@@ -1,6 +1,6 @@
-2025/07/27 11:13:47 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 375.410609ms
-2025/07/27 11:13:48 Fetched posts from https://www.hltv.org/rss/news, took 593.734384ms
-2025/07/27 11:13:48 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1.168745235s
-2025/07/27 11:14:17 error parsing https://vlr.gg/rss: Get "https://vlr.gg/rss": dial tcp 172.104.213.34:443: i/o timeout
-2025/07/27 11:14:17 Fetched posts from https://vlr.gg/rss, took 30.027736067s
-2025/07/27 11:14:17 Templated 40 posts, took 6.110765ms
+2025/07/27 11:30:26 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 240.072329ms
+2025/07/27 11:30:26 Fetched posts from https://www.hltv.org/rss/news, took 476.395733ms
+2025/07/27 11:30:27 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 653.460846ms
+2025/07/27 11:30:56 error parsing https://vlr.gg/rss: Get "https://www.vlr.gg/rss": dial tcp 172.104.213.34:443: i/o timeout
+2025/07/27 11:30:56 Fetched posts from https://vlr.gg/rss, took 30.384455207s
+2025/07/27 11:30:56 Templated 39 posts, took 6.207419ms
