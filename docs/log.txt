@@ -1,5 +1,6 @@
-2025/08/14 08:38:29 Fetched posts from https://vlr.gg/rss, took 412.517208ms
-2025/08/14 08:38:29 Fetched posts from https://www.hltv.org/rss/news, took 514.916139ms
-2025/08/14 08:38:29 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 526.597111ms
-2025/08/14 08:38:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 584.040863ms
-2025/08/14 08:38:30 Templated 48 posts, took 6.451059ms
+2025/08/14 08:57:43 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 332.803553ms
+2025/08/14 08:57:44 Fetched posts from https://vlr.gg/rss, took 892.067536ms
+2025/08/14 08:57:49 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 6.48342244s
+2025/08/14 08:58:43 error parsing https://www.hltv.org/rss/news: Get "https://www.hltv.org/rss/news": context deadline exceeded
+2025/08/14 08:58:43 Fetched posts from https://www.hltv.org/rss/news, took 1m0.000029007s
+2025/08/14 08:58:43 Templated 38 posts, took 6.217141ms
