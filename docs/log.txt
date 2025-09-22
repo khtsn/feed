@@ -1,5 +1,7 @@
-2025/09/22 05:17:43 Fetched posts from https://www.hltv.org/rss/news, took 738.493467ms
-2025/09/22 05:17:43 Fetched posts from https://vlr.gg/rss, took 1.152787693s
-2025/09/22 05:17:43 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.212398539s
-2025/09/22 05:17:44 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1.534781599s
-2025/09/22 05:17:44 Templated 50 posts, took 7.332598ms
+2025/09/22 05:35:38 Get "https://www.bbc.com/vietnamese/articles/cgkr24jkxdmo?at_medium=RSS&at_campaign=rss": read tcp 10.1.0.241:53300->151.101.200.81:443: read: connection reset by peer
+2025/09/22 05:35:38 Get "https://www.bbc.com/vietnamese/articles/c1wggw7p8y4o?at_medium=RSS&at_campaign=rss": read tcp 10.1.0.241:53306->151.101.200.81:443: read: connection reset by peer
+2025/09/22 05:35:39 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 516.051786ms
+2025/09/22 05:35:39 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 553.091782ms
+2025/09/22 05:35:39 Fetched posts from https://www.hltv.org/rss/news, took 642.608503ms
+2025/09/22 05:35:40 Fetched posts from https://vlr.gg/rss, took 1.516617008s
+2025/09/22 05:35:40 Templated 48 posts, took 6.98091ms
