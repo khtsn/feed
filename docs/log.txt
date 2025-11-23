@@ -1,5 +1,6 @@
-2025/11/23 17:54:35 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 345.085707ms
-2025/11/23 17:54:35 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 469.514758ms
-2025/11/23 17:54:35 Fetched posts from https://www.hltv.org/rss/news, took 610.24032ms
-2025/11/23 17:54:37 Fetched posts from https://vlr.gg/rss, took 2.054621957s
-2025/11/23 17:54:37 Templated 49 posts, took 6.663978ms
+2025/11/23 18:24:19 error parsing https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml: http error: 404 Not Found
+2025/11/23 18:24:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 201.787955ms
+2025/11/23 18:24:20 Fetched posts from https://www.hltv.org/rss/news, took 656.937173ms
+2025/11/23 18:24:20 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1.05776054s
+2025/11/23 18:24:21 Fetched posts from https://vlr.gg/rss, took 2.163015739s
+2025/11/23 18:24:21 Templated 32 posts, took 3.26254ms
