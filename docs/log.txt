@@ -1,17 +1,5 @@
-2025/12/09 05:51:50 Fetched posts from https://www.hltv.org/rss/news, took 533.787967ms
-2025/12/09 05:51:52 Fetched posts from https://vlr.gg/rss, took 1.950646985s
-2025/12/09 05:52:00 error parsing https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml: Get "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml": net/http: TLS handshake timeout
-2025/12/09 05:52:00 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 10.094519931s
-2025/12/09 05:52:00 Get "https://www.bbc.com/vietnamese/articles/ckgk0mjmmwvo?at_medium=RSS&at_campaign=rss": net/http: TLS handshake timeout
-2025/12/09 05:52:10 Get "https://www.bbc.com/vietnamese/articles/c3r7vjw20y2o?at_medium=RSS&at_campaign=rss": net/http: TLS handshake timeout
-2025/12/09 05:52:20 Get "https://www.bbc.com/vietnamese/articles/cvgj36d60x0o?at_medium=RSS&at_campaign=rss": net/http: TLS handshake timeout
-2025/12/09 05:52:30 Get "https://www.bbc.com/vietnamese/articles/clyxd04j9y9o?at_medium=RSS&at_campaign=rss": net/http: TLS handshake timeout
-2025/12/09 05:52:40 Get "https://www.bbc.com/vietnamese/articles/c4g92pz770jo?at_medium=RSS&at_campaign=rss": net/http: TLS handshake timeout
-2025/12/09 05:52:50 Get "https://www.bbc.com/vietnamese/articles/cdxe5gyl5zpo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2025/12/09 05:52:50 Get "https://www.bbc.com/vietnamese/articles/cx2gpqqg31vo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2025/12/09 05:52:50 Get "https://www.bbc.com/vietnamese/articles/cgqzn491lw2o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2025/12/09 05:52:50 Get "https://www.bbc.com/vietnamese/articles/c79xl35yyw5o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2025/12/09 05:52:50 Get "https://www.bbc.com/vietnamese/articles/c0r97zr77peo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2025/12/09 05:52:50 Get "https://www.bbc.com/vietnamese/articles/c741nrpz9p0o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2025/12/09 05:52:50 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.00936778s
-2025/12/09 05:52:50 Templated 18 posts, took 4.062976ms
+2025/12/09 06:19:38 Fetched posts from https://www.hltv.org/rss/news, took 717.06947ms
+2025/12/09 06:19:39 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 989.961134ms
+2025/12/09 06:19:39 Fetched posts from https://vlr.gg/rss, took 1.340635778s
+2025/12/09 06:19:42 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 4.381577859s
+2025/12/09 06:19:42 Templated 54 posts, took 6.302078ms
