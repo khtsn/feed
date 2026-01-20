@@ -1,5 +1,11 @@
-2026/01/20 06:52:08 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 337.759143ms
-2026/01/20 06:52:09 Fetched posts from https://www.hltv.org/rss/news, took 588.633436ms
-2026/01/20 06:52:09 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 650.870963ms
-2026/01/20 06:52:09 Fetched posts from https://vlr.gg/rss, took 695.963889ms
-2026/01/20 06:52:09 Templated 49 posts, took 6.086409ms
+2026/01/20 07:21:31 Fetched posts from https://www.hltv.org/rss/news, took 480.953135ms
+2026/01/20 07:21:31 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 678.610124ms
+2026/01/20 07:21:31 Fetched posts from https://vlr.gg/rss, took 690.469109ms
+2026/01/20 07:22:31 Get "https://www.bbc.com/vietnamese/articles/ce3ey45y4y1o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/01/20 07:22:31 Get "https://www.bbc.com/vietnamese/articles/c79rvl598yyo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/01/20 07:22:31 Get "https://www.bbc.com/vietnamese/articles/c9qpnwg1zr4o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/01/20 07:22:31 Get "https://www.bbc.com/vietnamese/articles/cn56qd5z5g1o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/01/20 07:22:31 Get "https://www.bbc.com/vietnamese/articles/c0r9r1nvyqlo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/01/20 07:22:31 Get "https://www.bbc.com/vietnamese/articles/cpdy96q7lzxo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/01/20 07:22:31 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.000827528s
+2026/01/20 07:22:31 Templated 44 posts, took 4.442626ms
