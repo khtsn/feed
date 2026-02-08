@@ -1,5 +1,6 @@
-2026/02/08 17:56:46 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 296.698031ms
-2026/02/08 17:56:46 Fetched posts from https://www.hltv.org/rss/news, took 510.941542ms
-2026/02/08 17:56:46 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1.151365261s
-2026/02/08 17:56:48 Fetched posts from https://vlr.gg/rss, took 3.063705405s
-2026/02/08 17:56:48 Templated 57 posts, took 7.319204ms
+2026/02/08 18:42:40 Fetched posts from https://www.hltv.org/rss/news, took 538.954912ms
+2026/02/08 18:42:40 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 770.7247ms
+2026/02/08 18:42:40 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1.133923154s
+2026/02/08 18:43:02 error parsing https://vlr.gg/rss: Get "https://www.vlr.gg/rss": net/http: TLS handshake timeout
+2026/02/08 18:43:02 Fetched posts from https://vlr.gg/rss, took 22.67675933s
+2026/02/08 18:43:02 Templated 42 posts, took 4.658033ms
