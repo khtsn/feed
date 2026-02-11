@@ -1,5 +1,14 @@
-2026/02/11 17:30:02 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 580.31251ms
-2026/02/11 17:30:02 Fetched posts from https://www.hltv.org/rss/news, took 616.554793ms
-2026/02/11 17:30:02 Fetched posts from https://vlr.gg/rss, took 825.333003ms
-2026/02/11 17:30:04 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 3.205294354s
-2026/02/11 17:30:04 Templated 48 posts, took 6.459803ms
+2026/02/11 18:34:00 Fetched posts from https://vlr.gg/rss, took 348.122649ms
+2026/02/11 18:34:01 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 816.784423ms
+2026/02/11 18:34:01 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1.713477923s
+2026/02/11 18:34:02 Content still empty after HTML reader: https://www.hltv.org/news/43852/bestia-bench-timo
+2026/02/11 18:34:02 Content still empty after HTML reader: https://www.hltv.org/news/43851/seven-top-10-teams-skip-iem-atlanta-as-invites-are-announced
+2026/02/11 18:34:02 Content still empty after HTML reader: https://www.hltv.org/news/43850/boros-leaves-jijiehao
+2026/02/11 18:34:02 Content still empty after HTML reader: https://www.hltv.org/news/43849/blast-unveils-open-rotterdam-invites
+2026/02/11 18:34:02 Content still empty after HTML reader: https://www.hltv.org/news/43848/iem-krakow-breaks-viewership-records
+2026/02/11 18:34:02 Fetched posts from https://www.hltv.org/rss/news, took 2.221839049s
+2026/02/11 18:34:02 Skipping writing post, no content: https://www.hltv.org/news/43852/bestia-bench-timo
+2026/02/11 18:34:02 Skipping writing post, no content: https://www.hltv.org/news/43851/seven-top-10-teams-skip-iem-atlanta-as-invites-are-announced
+2026/02/11 18:34:02 Skipping writing post, no content: https://www.hltv.org/news/43850/boros-leaves-jijiehao
+2026/02/11 18:34:02 Skipping writing post, no content: https://www.hltv.org/news/43849/blast-unveils-open-rotterdam-invites
+2026/02/11 18:34:02 Templated 45 posts, took 6.258608ms
