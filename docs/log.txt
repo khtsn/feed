@@ -1,15 +1,14 @@
-2026/02/14 10:40:08 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.130850629s
-2026/02/14 10:40:08 Fetched posts from https://vlr.gg/rss, took 1.192456253s
-2026/02/14 10:40:09 Content still empty after HTML reader: https://www.hltv.org/news/43863/pgl-cluj-napoca-group-stage-fantasy-about-to-start
-2026/02/14 10:40:09 Content still empty after HTML reader: https://www.hltv.org/news/43862/cct-announce-2026-european-circuit-structure
-2026/02/14 10:40:09 Content still empty after HTML reader: https://www.hltv.org/news/43861/pgl-cluj-napoca-teams-format-schedule-prizes-talent-fantasy
-2026/02/14 10:40:09 Content still empty after HTML reader: https://www.hltv.org/news/43860/iem-atlanta-team-list-set
-2026/02/14 10:40:09 Content still empty after HTML reader: https://www.hltv.org/news/43857/hltv-prospects-season-2-february-2026
-2026/02/14 10:40:09 Fetched posts from https://www.hltv.org/rss/news, took 1.918978716s
-2026/02/14 10:40:09 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 2.45560154s
-2026/02/14 10:40:09 Skipping writing post, no content: https://www.hltv.org/news/43863/pgl-cluj-napoca-group-stage-fantasy-about-to-start
-2026/02/14 10:40:09 Skipping writing post, no content: https://www.hltv.org/news/43862/cct-announce-2026-european-circuit-structure
-2026/02/14 10:40:09 Skipping writing post, no content: https://www.hltv.org/news/43861/pgl-cluj-napoca-teams-format-schedule-prizes-talent-fantasy
-2026/02/14 10:40:09 Skipping writing post, no content: https://www.hltv.org/news/43860/iem-atlanta-team-list-set
-2026/02/14 10:40:09 Skipping writing post, no content: https://www.hltv.org/news/43857/hltv-prospects-season-2-february-2026
-2026/02/14 10:40:09 Templated 54 posts, took 7.293134ms
+2026/02/14 10:59:50 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 360.724337ms
+2026/02/14 10:59:50 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 467.967902ms
+2026/02/14 10:59:50 Fetched posts from https://vlr.gg/rss, took 1.070410114s
+2026/02/14 10:59:51 Content still empty after HTML reader: https://www.hltv.org/news/43863/pgl-cluj-napoca-group-stage-fantasy-about-to-start
+2026/02/14 10:59:51 Content still empty after HTML reader: https://www.hltv.org/news/43862/cct-announce-2026-european-circuit-structure
+2026/02/14 10:59:51 Content still empty after HTML reader: https://www.hltv.org/news/43861/pgl-cluj-napoca-teams-format-schedule-prizes-talent-fantasy
+2026/02/14 10:59:51 Content still empty after HTML reader: https://www.hltv.org/news/43860/iem-atlanta-team-list-set
+2026/02/14 10:59:51 Content still empty after HTML reader: https://www.hltv.org/news/43857/hltv-prospects-season-2-february-2026
+2026/02/14 10:59:51 Fetched posts from https://www.hltv.org/rss/news, took 1.584121877s
+2026/02/14 10:59:51 Skipping writing post, no content: https://www.hltv.org/news/43863/pgl-cluj-napoca-group-stage-fantasy-about-to-start
+2026/02/14 10:59:51 Skipping writing post, no content: https://www.hltv.org/news/43862/cct-announce-2026-european-circuit-structure
+2026/02/14 10:59:51 Skipping writing post, no content: https://www.hltv.org/news/43861/pgl-cluj-napoca-teams-format-schedule-prizes-talent-fantasy
+2026/02/14 10:59:51 Skipping writing post, no content: https://www.hltv.org/news/43860/iem-atlanta-team-list-set
+2026/02/14 10:59:51 Templated 44 posts, took 6.546554ms
