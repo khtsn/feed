@@ -1,15 +1,13 @@
-2026/02/28 09:52:21 Fetched posts from https://vlr.gg/rss, took 326.284416ms
-2026/02/28 09:52:22 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 592.308524ms
-2026/02/28 09:52:24 Content still empty after HTML reader: https://www.hltv.org/news/43963/esl-pro-league-teams-format-schedule-prizes-fantasy
-2026/02/28 09:52:24 Content still empty after HTML reader: https://www.hltv.org/news/43964/playzone-announce-four-lans-with-96000
-2026/02/28 09:52:24 Content still empty after HTML reader: https://www.hltv.org/news/43962/sashi-bench-zyphon
-2026/02/28 09:52:24 Content still empty after HTML reader: https://www.hltv.org/news/43961/passion-ua-move-grim-to-the-bench
-2026/02/28 09:52:24 Content still empty after HTML reader: https://www.hltv.org/news/43957/the-evps-and-all-stars-of-pgl-cluj-napoca-2026
-2026/02/28 09:52:24 Fetched posts from https://www.hltv.org/rss/news, took 2.804019321s
-2026/02/28 09:52:24 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 3.031391705s
-2026/02/28 09:52:24 Skipping writing post, no content: https://www.hltv.org/news/43963/esl-pro-league-teams-format-schedule-prizes-fantasy
-2026/02/28 09:52:24 Skipping writing post, no content: https://www.hltv.org/news/43964/playzone-announce-four-lans-with-96000
-2026/02/28 09:52:24 Skipping writing post, no content: https://www.hltv.org/news/43962/sashi-bench-zyphon
-2026/02/28 09:52:24 Skipping writing post, no content: https://www.hltv.org/news/43961/passion-ua-move-grim-to-the-bench
-2026/02/28 09:52:24 Skipping writing post, no content: https://www.hltv.org/news/43957/the-evps-and-all-stars-of-pgl-cluj-napoca-2026
-2026/02/28 09:52:24 Templated 49 posts, took 6.603619ms
+2026/02/28 10:15:39 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 243.928421ms
+2026/02/28 10:15:39 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 570.919106ms
+2026/02/28 10:15:39 Fetched posts from https://vlr.gg/rss, took 725.260171ms
+2026/02/28 10:15:46 Content still empty after HTML reader: https://www.hltv.org/news/43964/playzone-announce-four-lans-with-96000
+2026/02/28 10:15:46 Content still empty after HTML reader: https://www.hltv.org/news/43962/sashi-bench-zyphon
+2026/02/28 10:15:46 Content still empty after HTML reader: https://www.hltv.org/news/43961/passion-ua-move-grim-to-the-bench
+2026/02/28 10:15:46 Content still empty after HTML reader: https://www.hltv.org/news/43957/the-evps-and-all-stars-of-pgl-cluj-napoca-2026
+2026/02/28 10:15:46 Fetched posts from https://www.hltv.org/rss/news, took 7.052765827s
+2026/02/28 10:15:46 Skipping writing post, no content: https://www.hltv.org/news/43964/playzone-announce-four-lans-with-96000
+2026/02/28 10:15:46 Skipping writing post, no content: https://www.hltv.org/news/43962/sashi-bench-zyphon
+2026/02/28 10:15:46 Skipping writing post, no content: https://www.hltv.org/news/43961/passion-ua-move-grim-to-the-bench
+2026/02/28 10:15:46 Skipping writing post, no content: https://www.hltv.org/news/43957/the-evps-and-all-stars-of-pgl-cluj-napoca-2026
+2026/02/28 10:15:46 Templated 49 posts, took 7.090952ms
