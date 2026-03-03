@@ -1,15 +1,14 @@
-2026/03/03 15:25:46 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.087908287s
-2026/03/03 15:25:46 Fetched posts from https://vlr.gg/rss, took 1.114319655s
-2026/03/03 15:25:46 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1.153511067s
-2026/03/03 15:25:48 Content still empty after HTML reader: https://www.hltv.org/news/43978/short-news-week-9
-2026/03/03 15:25:48 Content still empty after HTML reader: https://www.hltv.org/news/43983/liquid-join-nip-in-the-0-2-pool-following-day-two-of-epl-s23
-2026/03/03 15:25:48 Content still empty after HTML reader: https://www.hltv.org/news/43982/valve-release-march-vrs-update
-2026/03/03 15:25:48 Content still empty after HTML reader: https://www.hltv.org/news/43980/snappi-as-nip-go-0-2-at-epl-we-are-2-different-teams-in-practice-and-official
-2026/03/03 15:25:48 Content still empty after HTML reader: https://www.hltv.org/news/43979/mibr-replace-pain-at-pgl-bucharest
-2026/03/03 15:25:48 Fetched posts from https://www.hltv.org/rss/news, took 2.594271675s
-2026/03/03 15:25:48 Skipping writing post, no content: https://www.hltv.org/news/43978/short-news-week-9
-2026/03/03 15:25:48 Skipping writing post, no content: https://www.hltv.org/news/43983/liquid-join-nip-in-the-0-2-pool-following-day-two-of-epl-s23
-2026/03/03 15:25:48 Skipping writing post, no content: https://www.hltv.org/news/43982/valve-release-march-vrs-update
-2026/03/03 15:25:48 Skipping writing post, no content: https://www.hltv.org/news/43980/snappi-as-nip-go-0-2-at-epl-we-are-2-different-teams-in-practice-and-official
-2026/03/03 15:25:48 Skipping writing post, no content: https://www.hltv.org/news/43979/mibr-replace-pain-at-pgl-bucharest
-2026/03/03 15:25:48 Templated 51 posts, took 5.828263ms
+2026/03/03 16:06:53 Fetched posts from https://vlr.gg/rss, took 568.885362ms
+2026/03/03 16:06:53 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 600.776205ms
+2026/03/03 16:06:54 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 884.506627ms
+2026/03/03 16:06:55 Content still empty after HTML reader: https://www.hltv.org/news/43978/short-news-week-9
+2026/03/03 16:06:55 Content still empty after HTML reader: https://www.hltv.org/news/43983/liquid-join-nip-in-the-0-2-pool-following-day-two-of-epl-s23
+2026/03/03 16:06:55 Content still empty after HTML reader: https://www.hltv.org/news/43982/valve-release-march-vrs-update
+2026/03/03 16:06:55 Content still empty after HTML reader: https://www.hltv.org/news/43980/snappi-as-nip-go-0-2-at-epl-we-are-2-different-teams-in-practice-and-official
+2026/03/03 16:06:55 Content still empty after HTML reader: https://www.hltv.org/news/43979/mibr-replace-pain-at-pgl-bucharest
+2026/03/03 16:06:55 Fetched posts from https://www.hltv.org/rss/news, took 2.205039537s
+2026/03/03 16:06:55 Skipping writing post, no content: https://www.hltv.org/news/43978/short-news-week-9
+2026/03/03 16:06:55 Skipping writing post, no content: https://www.hltv.org/news/43983/liquid-join-nip-in-the-0-2-pool-following-day-two-of-epl-s23
+2026/03/03 16:06:55 Skipping writing post, no content: https://www.hltv.org/news/43982/valve-release-march-vrs-update
+2026/03/03 16:06:55 Skipping writing post, no content: https://www.hltv.org/news/43980/snappi-as-nip-go-0-2-at-epl-we-are-2-different-teams-in-practice-and-official
+2026/03/03 16:06:55 Templated 49 posts, took 6.137386ms
