@@ -1,15 +1,14 @@
-2026/03/03 06:30:12 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.133401755s
-2026/03/03 06:30:13 Fetched posts from https://vlr.gg/rss, took 1.405438497s
-2026/03/03 06:30:13 Content still empty after HTML reader: https://www.hltv.org/news/43978/short-news-week-9
-2026/03/03 06:30:13 Content still empty after HTML reader: https://www.hltv.org/news/43976/senzu-debuts-for-passion-ua-liquid-nip-and-3dmax-suffer-losses-on-day-one-of-epl-s23
-2026/03/03 06:30:13 Content still empty after HTML reader: https://www.hltv.org/news/43949/short-news-week-8
-2026/03/03 06:30:13 Content still empty after HTML reader: https://www.hltv.org/news/43975/fokus-complete-run-from-open-qualifier-for-pgl-bucharest-berth
-2026/03/03 06:30:13 Content still empty after HTML reader: https://www.hltv.org/news/43974/freed-from-the-shackles-of-an-academy-fut-have-broken-through
-2026/03/03 06:30:13 Fetched posts from https://www.hltv.org/rss/news, took 2.03722143s
-2026/03/03 06:30:14 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 3.014310967s
-2026/03/03 06:30:14 Skipping writing post, no content: https://www.hltv.org/news/43978/short-news-week-9
-2026/03/03 06:30:14 Skipping writing post, no content: https://www.hltv.org/news/43976/senzu-debuts-for-passion-ua-liquid-nip-and-3dmax-suffer-losses-on-day-one-of-epl-s23
-2026/03/03 06:30:14 Skipping writing post, no content: https://www.hltv.org/news/43949/short-news-week-8
-2026/03/03 06:30:14 Skipping writing post, no content: https://www.hltv.org/news/43975/fokus-complete-run-from-open-qualifier-for-pgl-bucharest-berth
-2026/03/03 06:30:14 Skipping writing post, no content: https://www.hltv.org/news/43974/freed-from-the-shackles-of-an-academy-fut-have-broken-through
-2026/03/03 06:30:14 Templated 52 posts, took 4.613091ms
+2026/03/03 07:27:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 453.297105ms
+2026/03/03 07:27:09 Fetched posts from https://vlr.gg/rss, took 605.354045ms
+2026/03/03 07:27:09 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 749.609007ms
+2026/03/03 07:27:10 Content still empty after HTML reader: https://www.hltv.org/news/43978/short-news-week-9
+2026/03/03 07:27:10 Content still empty after HTML reader: https://www.hltv.org/news/43976/senzu-debuts-for-passion-ua-liquid-nip-and-3dmax-suffer-losses-on-day-one-of-epl-s23
+2026/03/03 07:27:10 Content still empty after HTML reader: https://www.hltv.org/news/43949/short-news-week-8
+2026/03/03 07:27:10 Content still empty after HTML reader: https://www.hltv.org/news/43975/fokus-complete-run-from-open-qualifier-for-pgl-bucharest-berth
+2026/03/03 07:27:10 Content still empty after HTML reader: https://www.hltv.org/news/43974/freed-from-the-shackles-of-an-academy-fut-have-broken-through
+2026/03/03 07:27:10 Fetched posts from https://www.hltv.org/rss/news, took 1.643986739s
+2026/03/03 07:27:10 Skipping writing post, no content: https://www.hltv.org/news/43978/short-news-week-9
+2026/03/03 07:27:10 Skipping writing post, no content: https://www.hltv.org/news/43976/senzu-debuts-for-passion-ua-liquid-nip-and-3dmax-suffer-losses-on-day-one-of-epl-s23
+2026/03/03 07:27:10 Skipping writing post, no content: https://www.hltv.org/news/43949/short-news-week-8
+2026/03/03 07:27:10 Skipping writing post, no content: https://www.hltv.org/news/43975/fokus-complete-run-from-open-qualifier-for-pgl-bucharest-berth
+2026/03/03 07:27:10 Templated 51 posts, took 6.857395ms
