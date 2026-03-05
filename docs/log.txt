@@ -1,15 +1,13 @@
-2026/03/05 19:35:55 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.026030194s
-2026/03/05 19:35:55 Fetched posts from https://vlr.gg/rss, took 1.181397431s
-2026/03/05 19:35:55 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1.455090225s
-2026/03/05 19:35:57 Content still empty after HTML reader: https://www.hltv.org/news/44000/epl-stage-2-fantasy-live-with-13-teams-available
-2026/03/05 19:35:57 Content still empty after HTML reader: https://www.hltv.org/news/43999/infernos-graveyard-barred-and-balcony-extended-in-new-cs-update
-2026/03/05 19:35:57 Content still empty after HTML reader: https://www.hltv.org/news/43998/liquid-struggle-past-m80-to-stay-alive-at-epl
-2026/03/05 19:35:57 Content still empty after HTML reader: https://www.hltv.org/news/43997/pain-get-revenge-on-g2-for-cluj-to-reach-stage-2
-2026/03/05 19:35:57 Content still empty after HTML reader: https://www.hltv.org/news/43994/strike-9-not-so-world-cuppy
-2026/03/05 19:35:57 Fetched posts from https://www.hltv.org/rss/news, took 2.829562662s
-2026/03/05 19:35:57 Skipping writing post, no content: https://www.hltv.org/news/44000/epl-stage-2-fantasy-live-with-13-teams-available
-2026/03/05 19:35:57 Skipping writing post, no content: https://www.hltv.org/news/43999/infernos-graveyard-barred-and-balcony-extended-in-new-cs-update
-2026/03/05 19:35:57 Skipping writing post, no content: https://www.hltv.org/news/43998/liquid-struggle-past-m80-to-stay-alive-at-epl
-2026/03/05 19:35:57 Skipping writing post, no content: https://www.hltv.org/news/43997/pain-get-revenge-on-g2-for-cluj-to-reach-stage-2
-2026/03/05 19:35:57 Skipping writing post, no content: https://www.hltv.org/news/43994/strike-9-not-so-world-cuppy
-2026/03/05 19:35:57 Templated 56 posts, took 8.343408ms
+2026/03/05 20:07:04 Fetched posts from https://vlr.gg/rss, took 651.287817ms
+2026/03/05 20:07:04 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 651.587109ms
+2026/03/05 20:07:05 Content still empty after HTML reader: https://www.hltv.org/news/44000/epl-stage-2-fantasy-live-with-13-teams-available
+2026/03/05 20:07:05 Content still empty after HTML reader: https://www.hltv.org/news/43999/infernos-graveyard-barred-and-balcony-extended-in-new-cs-update
+2026/03/05 20:07:05 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 2.188278407s
+2026/03/05 20:07:05 Content still empty after HTML reader: https://www.hltv.org/news/43997/pain-get-revenge-on-g2-for-cluj-to-reach-stage-2
+2026/03/05 20:07:05 Content still empty after HTML reader: https://www.hltv.org/news/43994/strike-9-not-so-world-cuppy
+2026/03/05 20:07:05 Fetched posts from https://www.hltv.org/rss/news, took 2.223299311s
+2026/03/05 20:07:05 Skipping writing post, no content: https://www.hltv.org/news/44000/epl-stage-2-fantasy-live-with-13-teams-available
+2026/03/05 20:07:05 Skipping writing post, no content: https://www.hltv.org/news/43999/infernos-graveyard-barred-and-balcony-extended-in-new-cs-update
+2026/03/05 20:07:05 Skipping writing post, no content: https://www.hltv.org/news/43997/pain-get-revenge-on-g2-for-cluj-to-reach-stage-2
+2026/03/05 20:07:05 Skipping writing post, no content: https://www.hltv.org/news/43994/strike-9-not-so-world-cuppy
+2026/03/05 20:07:05 Templated 57 posts, took 4.972931ms
