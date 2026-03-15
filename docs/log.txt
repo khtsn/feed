@@ -1,15 +1,22 @@
-2026/03/15 22:40:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 300.322412ms
-2026/03/15 22:40:10 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 616.477098ms
-2026/03/15 22:40:11 Fetched posts from https://vlr.gg/rss, took 1.328047207s
-2026/03/15 22:40:11 Content still empty after HTML reader: https://www.hltv.org/news/44095/hooxi-on-people-writing-him-off-after-g2-it-feels-good-to-prove-some-of-them-wrong
-2026/03/15 22:40:11 Content still empty after HTML reader: https://www.hltv.org/news/44094/astralis-shut-down-fut-in-ot-to-take-bronze-at-esl-pro-league
-2026/03/15 22:40:11 Content still empty after HTML reader: https://www.hltv.org/news/44092/maj3r-on-facing-navi-i-feel-like-revenge-for-when-we-lost-to-them-in-the-epl-final
-2026/03/15 22:40:11 Content still empty after HTML reader: https://www.hltv.org/news/44091/cadian-cs2-has-been-pretty-tough-for-me-in-many-senses-but-im-just-trying-day-by-day-to-get-better
-2026/03/15 22:40:11 Content still empty after HTML reader: https://www.hltv.org/news/44090/aurora-secure-epl-grand-final-spot-over-astralis
-2026/03/15 22:40:11 Fetched posts from https://www.hltv.org/rss/news, took 1.8160216s
-2026/03/15 22:40:11 Skipping writing post, no content: https://www.hltv.org/news/44095/hooxi-on-people-writing-him-off-after-g2-it-feels-good-to-prove-some-of-them-wrong
-2026/03/15 22:40:11 Skipping writing post, no content: https://www.hltv.org/news/44094/astralis-shut-down-fut-in-ot-to-take-bronze-at-esl-pro-league
-2026/03/15 22:40:11 Skipping writing post, no content: https://www.hltv.org/news/44092/maj3r-on-facing-navi-i-feel-like-revenge-for-when-we-lost-to-them-in-the-epl-final
-2026/03/15 22:40:11 Skipping writing post, no content: https://www.hltv.org/news/44091/cadian-cs2-has-been-pretty-tough-for-me-in-many-senses-but-im-just-trying-day-by-day-to-get-better
-2026/03/15 22:40:11 Skipping writing post, no content: https://www.hltv.org/news/44090/aurora-secure-epl-grand-final-spot-over-astralis
-2026/03/15 22:40:11 Templated 50 posts, took 7.820333ms
+2026/03/15 23:01:43 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 521.293574ms
+2026/03/15 23:01:43 Fetched posts from https://vlr.gg/rss, took 636.94154ms
+2026/03/15 23:01:44 Content still empty after HTML reader: https://www.hltv.org/news/44095/hooxi-on-people-writing-him-off-after-g2-it-feels-good-to-prove-some-of-them-wrong
+2026/03/15 23:01:44 Content still empty after HTML reader: https://www.hltv.org/news/44094/astralis-shut-down-fut-in-ot-to-take-bronze-at-esl-pro-league
+2026/03/15 23:01:44 Content still empty after HTML reader: https://www.hltv.org/news/44092/maj3r-on-facing-navi-i-feel-like-revenge-for-when-we-lost-to-them-in-the-epl-final
+2026/03/15 23:01:44 Content still empty after HTML reader: https://www.hltv.org/news/44091/cadian-cs2-has-been-pretty-tough-for-me-in-many-senses-but-im-just-trying-day-by-day-to-get-better
+2026/03/15 23:01:44 Content still empty after HTML reader: https://www.hltv.org/news/44090/aurora-secure-epl-grand-final-spot-over-astralis
+2026/03/15 23:01:44 Fetched posts from https://www.hltv.org/rss/news, took 1.475242288s
+2026/03/15 23:02:42 Get "https://www.bbc.com/vietnamese/articles/clyv394gz95o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/03/15 23:02:42 Get "https://www.bbc.com/vietnamese/articles/c24d0359q3zo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/03/15 23:02:42 Get "https://www.bbc.com/vietnamese/articles/clyzr4jl2w0o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/03/15 23:02:42 Get "https://www.bbc.com/vietnamese/articles/cj4zjrpdy15o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/03/15 23:02:42 Get "https://www.bbc.com/vietnamese/articles/ckg2kenxvkvo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/03/15 23:02:42 Get "https://www.bbc.com/vietnamese/articles/ce8wx0l4lyko?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/03/15 23:02:42 Get "https://www.bbc.com/vietnamese/articles/c1jkkgegj38o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/03/15 23:02:42 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.058124568s
+2026/03/15 23:02:42 Skipping writing post, no content: https://www.hltv.org/news/44095/hooxi-on-people-writing-him-off-after-g2-it-feels-good-to-prove-some-of-them-wrong
+2026/03/15 23:02:42 Skipping writing post, no content: https://www.hltv.org/news/44094/astralis-shut-down-fut-in-ot-to-take-bronze-at-esl-pro-league
+2026/03/15 23:02:42 Skipping writing post, no content: https://www.hltv.org/news/44092/maj3r-on-facing-navi-i-feel-like-revenge-for-when-we-lost-to-them-in-the-epl-final
+2026/03/15 23:02:42 Skipping writing post, no content: https://www.hltv.org/news/44091/cadian-cs2-has-been-pretty-tough-for-me-in-many-senses-but-im-just-trying-day-by-day-to-get-better
+2026/03/15 23:02:42 Skipping writing post, no content: https://www.hltv.org/news/44090/aurora-secure-epl-grand-final-spot-over-astralis
+2026/03/15 23:02:42 Templated 43 posts, took 6.174819ms
