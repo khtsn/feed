@@ -1,19 +1,14 @@
-2026/03/27 11:24:26 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 833.593373ms
-2026/03/27 11:24:26 Fetched posts from https://vlr.gg/rss, took 1.060234665s
-2026/03/27 11:24:26 Content still empty after HTML reader: https://www.hltv.org/news/44189/mzinho-i-was-so-happy-that-i-stepped-up-vs-spirit
-2026/03/27 11:24:26 Content still empty after HTML reader: https://www.hltv.org/news/44187/maj3r-on-xantares-hand-injury-sometimes-he-feels-pain
-2026/03/27 11:24:26 Content still empty after HTML reader: https://www.hltv.org/news/44186/niko-on-seeking-revenge-against-parivision-we-made-them-look-better-than-they-are
-2026/03/27 11:24:26 Content still empty after HTML reader: https://www.hltv.org/news/44174/the-race-to-the-iem-cologne-major
-2026/03/27 11:24:26 Content still empty after HTML reader: https://www.hltv.org/news/44185/wildcard-replace-the-huns-at-pgl-bucharest
-2026/03/27 11:24:26 Fetched posts from https://www.hltv.org/rss/news, took 1.388021188s
-2026/03/27 11:25:25 Get "https://www.bbc.com/vietnamese/articles/cy81956zdvyo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/03/27 11:25:25 Get "https://www.bbc.com/vietnamese/articles/cgj063zxl26o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/03/27 11:25:25 Get "https://www.bbc.com/vietnamese/articles/cg542j400y8o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/03/27 11:25:25 Get "https://www.bbc.com/vietnamese/articles/c0krvz325e0o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/03/27 11:25:25 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003167648s
-2026/03/27 11:25:25 Skipping writing post, no content: https://www.hltv.org/news/44189/mzinho-i-was-so-happy-that-i-stepped-up-vs-spirit
-2026/03/27 11:25:25 Skipping writing post, no content: https://www.hltv.org/news/44187/maj3r-on-xantares-hand-injury-sometimes-he-feels-pain
-2026/03/27 11:25:25 Skipping writing post, no content: https://www.hltv.org/news/44186/niko-on-seeking-revenge-against-parivision-we-made-them-look-better-than-they-are
-2026/03/27 11:25:25 Skipping writing post, no content: https://www.hltv.org/news/44174/the-race-to-the-iem-cologne-major
-2026/03/27 11:25:25 Skipping writing post, no content: https://www.hltv.org/news/44185/wildcard-replace-the-huns-at-pgl-bucharest
-2026/03/27 11:25:25 Templated 57 posts, took 4.987632ms
+2026/03/27 12:01:40 Fetched posts from https://vlr.gg/rss, took 691.80213ms
+2026/03/27 12:01:41 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 854.109859ms
+2026/03/27 12:01:41 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1.425995668s
+2026/03/27 12:01:41 Content still empty after HTML reader: https://www.hltv.org/news/44189/mzinho-i-was-so-happy-that-i-stepped-up-vs-spirit
+2026/03/27 12:01:41 Content still empty after HTML reader: https://www.hltv.org/news/44187/maj3r-on-xantares-hand-injury-sometimes-he-feels-pain
+2026/03/27 12:01:41 Content still empty after HTML reader: https://www.hltv.org/news/44186/niko-on-seeking-revenge-against-parivision-we-made-them-look-better-than-they-are
+2026/03/27 12:01:41 Content still empty after HTML reader: https://www.hltv.org/news/44174/the-race-to-the-iem-cologne-major
+2026/03/27 12:01:41 Content still empty after HTML reader: https://www.hltv.org/news/44185/wildcard-replace-the-huns-at-pgl-bucharest
+2026/03/27 12:01:41 Fetched posts from https://www.hltv.org/rss/news, took 1.734860136s
+2026/03/27 12:01:41 Skipping writing post, no content: https://www.hltv.org/news/44189/mzinho-i-was-so-happy-that-i-stepped-up-vs-spirit
+2026/03/27 12:01:41 Skipping writing post, no content: https://www.hltv.org/news/44187/maj3r-on-xantares-hand-injury-sometimes-he-feels-pain
+2026/03/27 12:01:41 Skipping writing post, no content: https://www.hltv.org/news/44186/niko-on-seeking-revenge-against-parivision-we-made-them-look-better-than-they-are
+2026/03/27 12:01:41 Skipping writing post, no content: https://www.hltv.org/news/44174/the-race-to-the-iem-cologne-major
+2026/03/27 12:01:41 Templated 61 posts, took 8.0065ms
