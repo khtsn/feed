@@ -1,5 +1,7 @@
-2026/04/17 13:54:56 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.033672726s
-2026/04/17 13:54:57 Fetched posts from https://vlr.gg/rss, took 1.07892976s
-2026/04/17 13:54:57 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1.165216495s
-2026/04/17 13:55:00 Fetched posts from https://www.hltv.org/rss/news, took 4.171334581s
-2026/04/17 13:55:00 Templated 54 posts, took 6.92606ms
+2026/04/17 14:54:48 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 586.651758ms
+2026/04/17 14:54:48 Fetched posts from https://vlr.gg/rss, took 667.56677ms
+2026/04/17 14:54:50 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 2.566369075s
+2026/04/17 14:54:51 Content still empty after HTML reader: https://www.hltv.org/news/44392/b1ad3-the-way-makazze-is-playing-is-amazing
+2026/04/17 14:54:51 Fetched posts from https://www.hltv.org/rss/news, took 2.922245723s
+2026/04/17 14:54:51 Skipping writing post, no content: https://www.hltv.org/news/44392/b1ad3-the-way-makazze-is-playing-is-amazing
+2026/04/17 14:54:51 Templated 54 posts, took 8.811649ms
