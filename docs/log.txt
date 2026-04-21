@@ -1,15 +1,16 @@
-2026/04/21 17:41:12 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.503742841s
-2026/04/21 17:41:12 Content still empty after HTML reader: https://www.hltv.org/news/44428/falcons-confirm-karrigan-signing
-2026/04/21 17:41:12 Content still empty after HTML reader: https://www.hltv.org/news/44427/falcons-bench-kyxsan
-2026/04/21 17:41:12 Content still empty after HTML reader: https://www.hltv.org/news/44426/faze-confirm-karrigan-departure
-2026/04/21 17:41:12 Content still empty after HTML reader: https://www.hltv.org/news/44423/zywoo-we-won-four-trophies-already-this-year-and-we-just-feel-like-we-cannot-stop
-2026/04/21 17:41:12 Content still empty after HTML reader: https://www.hltv.org/news/44420/zywoo-claims-the-mvp-at-iem-rio-2026
-2026/04/21 17:41:12 Fetched posts from https://www.hltv.org/rss/news, took 2.032386163s
-2026/04/21 17:41:12 Fetched posts from https://vlr.gg/rss, took 2.383974418s
-2026/04/21 17:42:10 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.541237481s
-2026/04/21 17:42:10 Skipping writing post, no content: https://www.hltv.org/news/44428/falcons-confirm-karrigan-signing
-2026/04/21 17:42:10 Skipping writing post, no content: https://www.hltv.org/news/44427/falcons-bench-kyxsan
-2026/04/21 17:42:10 Skipping writing post, no content: https://www.hltv.org/news/44426/faze-confirm-karrigan-departure
-2026/04/21 17:42:10 Skipping writing post, no content: https://www.hltv.org/news/44423/zywoo-we-won-four-trophies-already-this-year-and-we-just-feel-like-we-cannot-stop
-2026/04/21 17:42:10 Skipping writing post, no content: https://www.hltv.org/news/44420/zywoo-claims-the-mvp-at-iem-rio-2026
-2026/04/21 17:42:10 Templated 44 posts, took 5.56306ms
+2026/04/21 18:45:09 Fetched posts from https://vlr.gg/rss, took 719.740103ms
+2026/04/21 18:45:10 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.608268751s
+2026/04/21 18:45:11 Content still empty after HTML reader: https://www.hltv.org/news/44428/falcons-confirm-karrigan-signing
+2026/04/21 18:45:11 Content still empty after HTML reader: https://www.hltv.org/news/44427/falcons-bench-kyxsan
+2026/04/21 18:45:11 Content still empty after HTML reader: https://www.hltv.org/news/44426/faze-confirm-karrigan-departure
+2026/04/21 18:45:11 Content still empty after HTML reader: https://www.hltv.org/news/44423/zywoo-we-won-four-trophies-already-this-year-and-we-just-feel-like-we-cannot-stop
+2026/04/21 18:45:11 Content still empty after HTML reader: https://www.hltv.org/news/44420/zywoo-claims-the-mvp-at-iem-rio-2026
+2026/04/21 18:45:11 Fetched posts from https://www.hltv.org/rss/news, took 2.249919459s
+2026/04/21 18:46:08 Get "https://www.bbc.com/vietnamese/articles/c203y147npgo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/04/21 18:46:08 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003959837s
+2026/04/21 18:46:08 Skipping writing post, no content: https://www.hltv.org/news/44428/falcons-confirm-karrigan-signing
+2026/04/21 18:46:08 Skipping writing post, no content: https://www.hltv.org/news/44427/falcons-bench-kyxsan
+2026/04/21 18:46:08 Skipping writing post, no content: https://www.hltv.org/news/44426/faze-confirm-karrigan-departure
+2026/04/21 18:46:08 Skipping writing post, no content: https://www.hltv.org/news/44423/zywoo-we-won-four-trophies-already-this-year-and-we-just-feel-like-we-cannot-stop
+2026/04/21 18:46:08 Skipping writing post, no content: https://www.hltv.org/news/44420/zywoo-claims-the-mvp-at-iem-rio-2026
+2026/04/21 18:46:08 Templated 48 posts, took 6.862573ms
