@@ -1,15 +1,16 @@
-2026/04/22 14:02:52 Fetched posts from https://vlr.gg/rss, took 496.264314ms
-2026/04/22 14:02:54 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.954333911s
-2026/04/22 14:02:54 Content still empty after HTML reader: https://www.hltv.org/news/44435/gentle-mates-bench-delonge
-2026/04/22 14:02:54 Content still empty after HTML reader: https://www.hltv.org/news/44433/opinion-why-karrigan-deserves-his-falcons-lifeboat
-2026/04/22 14:02:54 Content still empty after HTML reader: https://www.hltv.org/news/44432/zyphon-returns-to-sashi-active-roster
-2026/04/22 14:02:54 Content still empty after HTML reader: https://www.hltv.org/news/44431/mauschine-given-lifetime-ban-by-esic-for-on-stage-assault
-2026/04/22 14:02:54 Content still empty after HTML reader: https://www.hltv.org/news/44430/animgraph2-goes-live-in-latest-cs2-update
-2026/04/22 14:02:54 Fetched posts from https://www.hltv.org/rss/news, took 2.58571073s
-2026/04/22 14:03:51 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.522555583s
-2026/04/22 14:03:51 Skipping writing post, no content: https://www.hltv.org/news/44435/gentle-mates-bench-delonge
-2026/04/22 14:03:51 Skipping writing post, no content: https://www.hltv.org/news/44433/opinion-why-karrigan-deserves-his-falcons-lifeboat
-2026/04/22 14:03:51 Skipping writing post, no content: https://www.hltv.org/news/44432/zyphon-returns-to-sashi-active-roster
-2026/04/22 14:03:51 Skipping writing post, no content: https://www.hltv.org/news/44431/mauschine-given-lifetime-ban-by-esic-for-on-stage-assault
-2026/04/22 14:03:51 Skipping writing post, no content: https://www.hltv.org/news/44430/animgraph2-goes-live-in-latest-cs2-update
-2026/04/22 14:03:51 Templated 53 posts, took 7.627459ms
+2026/04/22 15:23:36 Fetched posts from https://vlr.gg/rss, took 935.47356ms
+2026/04/22 15:23:37 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.009489992s
+2026/04/22 15:23:37 Content still empty after HTML reader: https://www.hltv.org/news/44435/gentle-mates-bench-delonge
+2026/04/22 15:23:37 Content still empty after HTML reader: https://www.hltv.org/news/44433/opinion-why-karrigan-deserves-his-falcons-lifeboat
+2026/04/22 15:23:37 Content still empty after HTML reader: https://www.hltv.org/news/44432/zyphon-returns-to-sashi-active-roster
+2026/04/22 15:23:37 Content still empty after HTML reader: https://www.hltv.org/news/44431/mauschine-given-lifetime-ban-by-esic-for-on-stage-assault
+2026/04/22 15:23:37 Content still empty after HTML reader: https://www.hltv.org/news/44430/animgraph2-goes-live-in-latest-cs2-update
+2026/04/22 15:23:37 Fetched posts from https://www.hltv.org/rss/news, took 2.545253712s
+2026/04/22 15:24:35 Get "https://www.bbc.com/vietnamese/articles/cn0wn9kplvzo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/04/22 15:24:35 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.000162521s
+2026/04/22 15:24:35 Skipping writing post, no content: https://www.hltv.org/news/44435/gentle-mates-bench-delonge
+2026/04/22 15:24:35 Skipping writing post, no content: https://www.hltv.org/news/44433/opinion-why-karrigan-deserves-his-falcons-lifeboat
+2026/04/22 15:24:35 Skipping writing post, no content: https://www.hltv.org/news/44432/zyphon-returns-to-sashi-active-roster
+2026/04/22 15:24:35 Skipping writing post, no content: https://www.hltv.org/news/44431/mauschine-given-lifetime-ban-by-esic-for-on-stage-assault
+2026/04/22 15:24:35 Skipping writing post, no content: https://www.hltv.org/news/44430/animgraph2-goes-live-in-latest-cs2-update
+2026/04/22 15:24:35 Templated 50 posts, took 5.890687ms
