@@ -1,14 +1,15 @@
-2026/04/24 00:10:29 Fetched posts from https://vlr.gg/rss, took 1.07770147s
-2026/04/24 00:10:31 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.716073236s
-2026/04/24 00:10:31 Content still empty after HTML reader: https://www.hltv.org/news/44441/saffee-joins-pain
-2026/04/24 00:10:31 Content still empty after HTML reader: https://www.hltv.org/news/44440/adrrr-to-step-in-as-legacy-coach-for-rest-of-season
-2026/04/24 00:10:31 Content still empty after HTML reader: https://www.hltv.org/news/44425/full-stake-ranked-circuit-revealed
-2026/04/24 00:10:31 Content still empty after HTML reader: https://www.hltv.org/news/44439/k27-sign-fame-on-short-term-loan
-2026/04/24 00:10:31 Fetched posts from https://www.hltv.org/rss/news, took 3.063093081s
-2026/04/24 00:11:28 Get "https://www.bbc.com/vietnamese/articles/cge041v4p9lo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/04/24 00:11:28 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004088795s
-2026/04/24 00:11:28 Skipping writing post, no content: https://www.hltv.org/news/44441/saffee-joins-pain
-2026/04/24 00:11:28 Skipping writing post, no content: https://www.hltv.org/news/44440/adrrr-to-step-in-as-legacy-coach-for-rest-of-season
-2026/04/24 00:11:28 Skipping writing post, no content: https://www.hltv.org/news/44425/full-stake-ranked-circuit-revealed
-2026/04/24 00:11:28 Skipping writing post, no content: https://www.hltv.org/news/44439/k27-sign-fame-on-short-term-loan
-2026/04/24 00:11:28 Templated 53 posts, took 8.021835ms
+2026/04/24 03:50:43 Fetched posts from https://vlr.gg/rss, took 1.144626383s
+2026/04/24 03:50:43 Content still empty after HTML reader: https://www.hltv.org/news/44443/maden-announces-free-agency
+2026/04/24 03:50:43 Content still empty after HTML reader: https://www.hltv.org/news/44441/saffee-joins-pain
+2026/04/24 03:50:43 Content still empty after HTML reader: https://www.hltv.org/news/44440/adrrr-to-step-in-as-legacy-coach-for-rest-of-season
+2026/04/24 03:50:43 Content still empty after HTML reader: https://www.hltv.org/news/44425/full-stake-ranked-circuit-revealed
+2026/04/24 03:50:43 Content still empty after HTML reader: https://www.hltv.org/news/44439/k27-sign-fame-on-short-term-loan
+2026/04/24 03:50:43 Fetched posts from https://www.hltv.org/rss/news, took 1.631042474s
+2026/04/24 03:50:44 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.800514137s
+2026/04/24 03:51:42 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.912040356s
+2026/04/24 03:51:42 Skipping writing post, no content: https://www.hltv.org/news/44443/maden-announces-free-agency
+2026/04/24 03:51:42 Skipping writing post, no content: https://www.hltv.org/news/44441/saffee-joins-pain
+2026/04/24 03:51:42 Skipping writing post, no content: https://www.hltv.org/news/44440/adrrr-to-step-in-as-legacy-coach-for-rest-of-season
+2026/04/24 03:51:42 Skipping writing post, no content: https://www.hltv.org/news/44425/full-stake-ranked-circuit-revealed
+2026/04/24 03:51:42 Skipping writing post, no content: https://www.hltv.org/news/44439/k27-sign-fame-on-short-term-loan
+2026/04/24 03:51:42 Templated 54 posts, took 9.001588ms
