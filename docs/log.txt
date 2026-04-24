@@ -1,16 +1,15 @@
-2026/04/24 14:03:23 Fetched posts from https://vlr.gg/rss, took 1.735620639s
-2026/04/24 14:03:23 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.76982302s
-2026/04/24 14:03:24 Content still empty after HTML reader: https://www.hltv.org/news/44444/esic-bans-quartet-for-cheating-and-match-manipulation
-2026/04/24 14:03:24 Content still empty after HTML reader: https://www.hltv.org/news/44443/maden-announces-free-agency
-2026/04/24 14:03:24 Content still empty after HTML reader: https://www.hltv.org/news/44441/saffee-joins-pain
-2026/04/24 14:03:24 Content still empty after HTML reader: https://www.hltv.org/news/44440/adrrr-to-step-in-as-legacy-coach-for-rest-of-season
-2026/04/24 14:03:24 Content still empty after HTML reader: https://www.hltv.org/news/44425/full-stake-ranked-circuit-revealed
-2026/04/24 14:03:24 Fetched posts from https://www.hltv.org/rss/news, took 2.600906477s
-2026/04/24 14:04:21 Get "https://www.bbc.com/vietnamese/articles/c98mrgj82r2o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/04/24 14:04:21 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003627428s
-2026/04/24 14:04:21 Skipping writing post, no content: https://www.hltv.org/news/44444/esic-bans-quartet-for-cheating-and-match-manipulation
-2026/04/24 14:04:21 Skipping writing post, no content: https://www.hltv.org/news/44443/maden-announces-free-agency
-2026/04/24 14:04:21 Skipping writing post, no content: https://www.hltv.org/news/44441/saffee-joins-pain
-2026/04/24 14:04:21 Skipping writing post, no content: https://www.hltv.org/news/44440/adrrr-to-step-in-as-legacy-coach-for-rest-of-season
-2026/04/24 14:04:21 Skipping writing post, no content: https://www.hltv.org/news/44425/full-stake-ranked-circuit-revealed
-2026/04/24 14:04:22 Templated 57 posts, took 7.120679ms
+2026/04/24 15:20:40 Fetched posts from https://vlr.gg/rss, took 1.298791729s
+2026/04/24 15:20:41 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.800836594s
+2026/04/24 15:20:41 Content still empty after HTML reader: https://www.hltv.org/news/44445/esic-suspends-nomercy-amid-integrity-breach-probe
+2026/04/24 15:20:41 Content still empty after HTML reader: https://www.hltv.org/news/44444/esic-bans-quartet-for-cheating-and-match-manipulation
+2026/04/24 15:20:41 Content still empty after HTML reader: https://www.hltv.org/news/44443/maden-announces-free-agency
+2026/04/24 15:20:41 Content still empty after HTML reader: https://www.hltv.org/news/44441/saffee-joins-pain
+2026/04/24 15:20:41 Content still empty after HTML reader: https://www.hltv.org/news/44440/adrrr-to-step-in-as-legacy-coach-for-rest-of-season
+2026/04/24 15:20:41 Fetched posts from https://www.hltv.org/rss/news, took 1.838166998s
+2026/04/24 15:21:38 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.510896011s
+2026/04/24 15:21:38 Skipping writing post, no content: https://www.hltv.org/news/44445/esic-suspends-nomercy-amid-integrity-breach-probe
+2026/04/24 15:21:38 Skipping writing post, no content: https://www.hltv.org/news/44444/esic-bans-quartet-for-cheating-and-match-manipulation
+2026/04/24 15:21:38 Skipping writing post, no content: https://www.hltv.org/news/44443/maden-announces-free-agency
+2026/04/24 15:21:38 Skipping writing post, no content: https://www.hltv.org/news/44441/saffee-joins-pain
+2026/04/24 15:21:38 Skipping writing post, no content: https://www.hltv.org/news/44440/adrrr-to-step-in-as-legacy-coach-for-rest-of-season
+2026/04/24 15:21:38 Templated 55 posts, took 8.66536ms
