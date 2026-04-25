@@ -1,15 +1,16 @@
-2026/04/25 12:30:25 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.291039807s
-2026/04/25 12:30:25 Fetched posts from https://vlr.gg/rss, took 1.454742104s
-2026/04/25 12:30:25 Content still empty after HTML reader: https://www.hltv.org/news/44442/the-evps-and-all-stars-of-iem-rio-2026
-2026/04/25 12:30:25 Content still empty after HTML reader: https://www.hltv.org/news/44436/hltv-prospects-april-2026
-2026/04/25 12:30:25 Content still empty after HTML reader: https://www.hltv.org/news/44446/official-neityu-to-stand-in-for-faze
-2026/04/25 12:30:25 Content still empty after HTML reader: https://www.hltv.org/news/44445/esic-suspends-nomercy-amid-integrity-breach-probe
-2026/04/25 12:30:25 Content still empty after HTML reader: https://www.hltv.org/news/44444/esic-bans-quartet-for-cheating-and-match-manipulation
-2026/04/25 12:30:25 Fetched posts from https://www.hltv.org/rss/news, took 1.930176415s
-2026/04/25 12:31:23 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.853281575s
-2026/04/25 12:31:23 Skipping writing post, no content: https://www.hltv.org/news/44442/the-evps-and-all-stars-of-iem-rio-2026
-2026/04/25 12:31:23 Skipping writing post, no content: https://www.hltv.org/news/44436/hltv-prospects-april-2026
-2026/04/25 12:31:23 Skipping writing post, no content: https://www.hltv.org/news/44446/official-neityu-to-stand-in-for-faze
-2026/04/25 12:31:23 Skipping writing post, no content: https://www.hltv.org/news/44445/esic-suspends-nomercy-amid-integrity-breach-probe
-2026/04/25 12:31:23 Skipping writing post, no content: https://www.hltv.org/news/44444/esic-bans-quartet-for-cheating-and-match-manipulation
-2026/04/25 12:31:23 Templated 45 posts, took 6.230336ms
+2026/04/25 13:46:33 Fetched posts from https://vlr.gg/rss, took 1.120015985s
+2026/04/25 13:46:34 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.352992955s
+2026/04/25 13:46:34 Content still empty after HTML reader: https://www.hltv.org/news/44442/the-evps-and-all-stars-of-iem-rio-2026
+2026/04/25 13:46:34 Content still empty after HTML reader: https://www.hltv.org/news/44436/hltv-prospects-april-2026
+2026/04/25 13:46:34 Content still empty after HTML reader: https://www.hltv.org/news/44446/official-neityu-to-stand-in-for-faze
+2026/04/25 13:46:34 Content still empty after HTML reader: https://www.hltv.org/news/44445/esic-suspends-nomercy-amid-integrity-breach-probe
+2026/04/25 13:46:34 Content still empty after HTML reader: https://www.hltv.org/news/44444/esic-bans-quartet-for-cheating-and-match-manipulation
+2026/04/25 13:46:34 Fetched posts from https://www.hltv.org/rss/news, took 2.230271437s
+2026/04/25 13:47:32 Get "https://www.bbc.com/vietnamese/articles/ce8jr2996x8o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/04/25 13:47:32 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.00357466s
+2026/04/25 13:47:32 Skipping writing post, no content: https://www.hltv.org/news/44442/the-evps-and-all-stars-of-iem-rio-2026
+2026/04/25 13:47:32 Skipping writing post, no content: https://www.hltv.org/news/44436/hltv-prospects-april-2026
+2026/04/25 13:47:32 Skipping writing post, no content: https://www.hltv.org/news/44446/official-neityu-to-stand-in-for-faze
+2026/04/25 13:47:32 Skipping writing post, no content: https://www.hltv.org/news/44445/esic-suspends-nomercy-amid-integrity-breach-probe
+2026/04/25 13:47:32 Skipping writing post, no content: https://www.hltv.org/news/44444/esic-bans-quartet-for-cheating-and-match-manipulation
+2026/04/25 13:47:32 Templated 44 posts, took 6.893479ms
