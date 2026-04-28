@@ -1,15 +1,16 @@
-2026/04/28 18:57:52 Fetched posts from https://vlr.gg/rss, took 1.129006322s
-2026/04/28 18:57:52 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.209045441s
-2026/04/28 18:57:53 Content still empty after HTML reader: https://www.hltv.org/news/44464/legacy-win-betboom-rush-b-summit-s3
-2026/04/28 18:57:53 Content still empty after HTML reader: https://www.hltv.org/news/44465/short-news-week-17
-2026/04/28 18:57:53 Content still empty after HTML reader: https://www.hltv.org/news/44463/coolio-to-stand-in-for-launx-at-blast-rivals
-2026/04/28 18:57:53 Content still empty after HTML reader: https://www.hltv.org/news/44462/sdy-joins-passion-ua-on-loan
-2026/04/28 18:57:53 Content still empty after HTML reader: https://www.hltv.org/news/44461/bcgame-announce-senzu-loan-signing
-2026/04/28 18:57:53 Fetched posts from https://www.hltv.org/rss/news, took 2.508282844s
-2026/04/28 18:58:50 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.483479546s
-2026/04/28 18:58:50 Skipping writing post, no content: https://www.hltv.org/news/44464/legacy-win-betboom-rush-b-summit-s3
-2026/04/28 18:58:50 Skipping writing post, no content: https://www.hltv.org/news/44465/short-news-week-17
-2026/04/28 18:58:50 Skipping writing post, no content: https://www.hltv.org/news/44463/coolio-to-stand-in-for-launx-at-blast-rivals
-2026/04/28 18:58:50 Skipping writing post, no content: https://www.hltv.org/news/44462/sdy-joins-passion-ua-on-loan
-2026/04/28 18:58:50 Skipping writing post, no content: https://www.hltv.org/news/44461/bcgame-announce-senzu-loan-signing
-2026/04/28 18:58:50 Templated 48 posts, took 6.968909ms
+2026/04/28 20:21:31 Fetched posts from https://vlr.gg/rss, took 497.389754ms
+2026/04/28 20:21:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.631915433s
+2026/04/28 20:21:32 Content still empty after HTML reader: https://www.hltv.org/news/44467/hltv-confirmed-with-stavn-return-to-action-awping-and-nip
+2026/04/28 20:21:32 Content still empty after HTML reader: https://www.hltv.org/news/44466/blast-rivals-2026-s1-teams-format-schedule-prizes-talent-fantasy
+2026/04/28 20:21:32 Content still empty after HTML reader: https://www.hltv.org/news/44464/legacy-win-betboom-rush-b-summit-s3
+2026/04/28 20:21:32 Content still empty after HTML reader: https://www.hltv.org/news/44463/coolio-to-stand-in-for-launx-at-blast-rivals
+2026/04/28 20:21:32 Content still empty after HTML reader: https://www.hltv.org/news/44462/sdy-joins-passion-ua-on-loan
+2026/04/28 20:21:32 Fetched posts from https://www.hltv.org/rss/news, took 1.814202647s
+2026/04/28 20:22:30 Get "https://www.bbc.com/vietnamese/articles/cn9q09w2n4ro?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/04/28 20:22:30 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003478415s
+2026/04/28 20:22:30 Skipping writing post, no content: https://www.hltv.org/news/44467/hltv-confirmed-with-stavn-return-to-action-awping-and-nip
+2026/04/28 20:22:30 Skipping writing post, no content: https://www.hltv.org/news/44466/blast-rivals-2026-s1-teams-format-schedule-prizes-talent-fantasy
+2026/04/28 20:22:30 Skipping writing post, no content: https://www.hltv.org/news/44464/legacy-win-betboom-rush-b-summit-s3
+2026/04/28 20:22:30 Skipping writing post, no content: https://www.hltv.org/news/44463/coolio-to-stand-in-for-launx-at-blast-rivals
+2026/04/28 20:22:30 Skipping writing post, no content: https://www.hltv.org/news/44462/sdy-joins-passion-ua-on-loan
+2026/04/28 20:22:30 Templated 49 posts, took 6.989684ms
