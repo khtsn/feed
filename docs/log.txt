@@ -1,14 +1,13 @@
-2026/04/29 11:13:28 Fetched posts from https://vlr.gg/rss, took 627.752809ms
-2026/04/29 11:13:29 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.862787181s
-2026/04/29 11:14:27 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.589088267s
-2026/04/29 11:14:27 Get "https://www.hltv.org/news/44473/molodoy-i-can-only-try-to-help-fallen-win-more-tournaments-in-his-last-year": context deadline exceeded
-2026/04/29 11:14:27 Get "https://www.hltv.org/news/44469/stavn-the-plan-after-kicking-cadian-in-heroic-was-for-me-to-go-into-igling-or-awping": context deadline exceeded
-2026/04/29 11:14:27 Get "https://www.hltv.org/news/44474/valve-releases-cache-update": context deadline exceeded
-2026/04/29 11:14:27 Get "https://www.hltv.org/news/44472/ryu-im-with-guys-who-have-insane-experience-and-im-just-trying-to-absorb-it": context deadline exceeded
-2026/04/29 11:14:27 Get "https://www.hltv.org/news/44471/twistzz-i-hope-frozen-wants-to-be-here-for-the-rebuild-and-be-a-pillar-alongside-me-and-the-other-ogs": context deadline exceeded
-2026/04/29 11:14:27 Get "https://www.hltv.org/news/44470/blast-rivals-fantasy-about-to-start-with-most-teams-built-around-vitality": context deadline exceeded
-2026/04/29 11:14:27 Get "https://www.hltv.org/news/44454/inside-gamerlegion-workplace-misconduct-paris-major-sticker-drama-and-history-of-late-payments": context deadline exceeded
-2026/04/29 11:14:27 Get "https://www.hltv.org/news/44468/jl-and-xelex-fans-come-here-ft-hawka": context deadline exceeded
-2026/04/29 11:14:27 Get "https://www.hltv.org/news/44467/hltv-confirmed-with-stavn-return-to-action-awping-and-nip": context deadline exceeded
-2026/04/29 11:14:27 Fetched posts from https://www.hltv.org/rss/news, took 1m0.000910879s
-2026/04/29 11:14:27 Templated 50 posts, took 7.360293ms
+2026/04/29 12:55:47 Fetched posts from https://vlr.gg/rss, took 770.502845ms
+2026/04/29 12:55:47 Content still empty after HTML reader: https://www.hltv.org/news/44471/twistzz-i-hope-frozen-wants-to-be-here-for-the-rebuild-and-be-a-pillar-alongside-me-and-the-other-ogs
+2026/04/29 12:55:47 Content still empty after HTML reader: https://www.hltv.org/news/44470/blast-rivals-fantasy-about-to-start-with-most-teams-built-around-vitality
+2026/04/29 12:55:47 Content still empty after HTML reader: https://www.hltv.org/news/44454/inside-gamerlegion-workplace-misconduct-paris-major-sticker-drama-and-history-of-late-payments
+2026/04/29 12:55:47 Content still empty after HTML reader: https://www.hltv.org/news/44468/jl-and-xelex-fans-come-here-ft-hawka
+2026/04/29 12:55:47 Fetched posts from https://www.hltv.org/rss/news, took 1.291423994s
+2026/04/29 12:55:48 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.806450417s
+2026/04/29 12:56:41 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 54.860947922s
+2026/04/29 12:56:41 Skipping writing post, no content: https://www.hltv.org/news/44471/twistzz-i-hope-frozen-wants-to-be-here-for-the-rebuild-and-be-a-pillar-alongside-me-and-the-other-ogs
+2026/04/29 12:56:41 Skipping writing post, no content: https://www.hltv.org/news/44470/blast-rivals-fantasy-about-to-start-with-most-teams-built-around-vitality
+2026/04/29 12:56:41 Skipping writing post, no content: https://www.hltv.org/news/44454/inside-gamerlegion-workplace-misconduct-paris-major-sticker-drama-and-history-of-late-payments
+2026/04/29 12:56:41 Skipping writing post, no content: https://www.hltv.org/news/44468/jl-and-xelex-fans-come-here-ft-hawka
+2026/04/29 12:56:41 Templated 55 posts, took 7.410909ms
