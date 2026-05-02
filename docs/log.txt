@@ -1,15 +1,16 @@
-2026/05/02 22:21:40 Fetched posts from https://vlr.gg/rss, took 728.753259ms
-2026/05/02 22:21:41 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.556830423s
-2026/05/02 22:21:41 Content still empty after HTML reader: https://www.hltv.org/news/44502/hypex-im-excited-to-see-what-vitality-are-like-on-stage
-2026/05/02 22:21:41 Content still empty after HTML reader: https://www.hltv.org/news/44503/boros-barred-from-acl-2026-over-discriminatory-language
-2026/05/02 22:21:41 Content still empty after HTML reader: https://www.hltv.org/news/44500/twistzz-i-feel-like-tomorrow-we-get-to-show-the-real-us-against-navi
-2026/05/02 22:21:41 Content still empty after HTML reader: https://www.hltv.org/news/44501/gamerlegion-move-to-rivals-semis-over-astralis
-2026/05/02 22:21:41 Content still empty after HTML reader: https://www.hltv.org/news/44499/faze-stun-g2-to-reach-semis-in-fort-worth
-2026/05/02 22:21:41 Fetched posts from https://www.hltv.org/rss/news, took 1.59581877s
-2026/05/02 22:22:39 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.779449888s
-2026/05/02 22:22:39 Skipping writing post, no content: https://www.hltv.org/news/44502/hypex-im-excited-to-see-what-vitality-are-like-on-stage
-2026/05/02 22:22:39 Skipping writing post, no content: https://www.hltv.org/news/44503/boros-barred-from-acl-2026-over-discriminatory-language
-2026/05/02 22:22:39 Skipping writing post, no content: https://www.hltv.org/news/44500/twistzz-i-feel-like-tomorrow-we-get-to-show-the-real-us-against-navi
-2026/05/02 22:22:39 Skipping writing post, no content: https://www.hltv.org/news/44501/gamerlegion-move-to-rivals-semis-over-astralis
-2026/05/02 22:22:39 Skipping writing post, no content: https://www.hltv.org/news/44499/faze-stun-g2-to-reach-semis-in-fort-worth
-2026/05/02 22:22:39 Templated 51 posts, took 6.843917ms
+2026/05/02 23:07:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.156835593s
+2026/05/02 23:07:09 Content still empty after HTML reader: https://www.hltv.org/news/44504/ferjee-rainhas-do-clutch-2026-finals-to-feature-50000-prize-pool
+2026/05/02 23:07:09 Content still empty after HTML reader: https://www.hltv.org/news/44502/hypex-im-excited-to-see-what-vitality-are-like-on-stage
+2026/05/02 23:07:09 Content still empty after HTML reader: https://www.hltv.org/news/44503/boros-barred-from-acl-2026-over-discriminatory-language
+2026/05/02 23:07:09 Content still empty after HTML reader: https://www.hltv.org/news/44500/twistzz-i-feel-like-tomorrow-we-get-to-show-the-real-us-against-navi
+2026/05/02 23:07:09 Content still empty after HTML reader: https://www.hltv.org/news/44501/gamerlegion-move-to-rivals-semis-over-astralis
+2026/05/02 23:07:09 Fetched posts from https://www.hltv.org/rss/news, took 1.728799897s
+2026/05/02 23:07:09 Fetched posts from https://vlr.gg/rss, took 1.792555989s
+2026/05/02 23:08:08 Get "https://www.bbc.com/vietnamese/articles/cx21n4rdn3do?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/05/02 23:08:08 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.00247018s
+2026/05/02 23:08:08 Skipping writing post, no content: https://www.hltv.org/news/44504/ferjee-rainhas-do-clutch-2026-finals-to-feature-50000-prize-pool
+2026/05/02 23:08:08 Skipping writing post, no content: https://www.hltv.org/news/44502/hypex-im-excited-to-see-what-vitality-are-like-on-stage
+2026/05/02 23:08:08 Skipping writing post, no content: https://www.hltv.org/news/44503/boros-barred-from-acl-2026-over-discriminatory-language
+2026/05/02 23:08:08 Skipping writing post, no content: https://www.hltv.org/news/44500/twistzz-i-feel-like-tomorrow-we-get-to-show-the-real-us-against-navi
+2026/05/02 23:08:08 Skipping writing post, no content: https://www.hltv.org/news/44501/gamerlegion-move-to-rivals-semis-over-astralis
+2026/05/02 23:08:08 Templated 48 posts, took 5.11408ms
