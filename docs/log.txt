@@ -1,15 +1,16 @@
-2026/05/02 11:58:41 Fetched posts from https://vlr.gg/rss, took 709.012071ms
-2026/05/02 11:58:43 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.776412285s
-2026/05/02 11:58:43 Content still empty after HTML reader: https://www.hltv.org/news/44497/live-updates-from-blast-rivals-quarter-finals
-2026/05/02 11:58:43 Content still empty after HTML reader: https://www.hltv.org/news/44465/short-news-week-17
-2026/05/02 11:58:43 Content still empty after HTML reader: https://www.hltv.org/news/44498/vitality-vs-bcgame-headlines-iem-atlantas-opening-round
-2026/05/02 11:58:43 Content still empty after HTML reader: https://www.hltv.org/news/44496/big-pause-equipa-project
-2026/05/02 11:58:43 Content still empty after HTML reader: https://www.hltv.org/news/44495/9ine-bench-cej0t
-2026/05/02 11:58:43 Fetched posts from https://www.hltv.org/rss/news, took 1.954690601s
-2026/05/02 11:59:41 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.956680296s
-2026/05/02 11:59:41 Skipping writing post, no content: https://www.hltv.org/news/44497/live-updates-from-blast-rivals-quarter-finals
-2026/05/02 11:59:41 Skipping writing post, no content: https://www.hltv.org/news/44465/short-news-week-17
-2026/05/02 11:59:41 Skipping writing post, no content: https://www.hltv.org/news/44498/vitality-vs-bcgame-headlines-iem-atlantas-opening-round
-2026/05/02 11:59:41 Skipping writing post, no content: https://www.hltv.org/news/44496/big-pause-equipa-project
-2026/05/02 11:59:41 Skipping writing post, no content: https://www.hltv.org/news/44495/9ine-bench-cej0t
-2026/05/02 11:59:41 Templated 52 posts, took 7.284514ms
+2026/05/02 13:39:41 Fetched posts from https://vlr.gg/rss, took 895.7585ms
+2026/05/02 13:39:42 Content still empty after HTML reader: https://www.hltv.org/news/44499/faze-stun-g2-to-reach-semis-in-fort-worth
+2026/05/02 13:39:42 Content still empty after HTML reader: https://www.hltv.org/news/44497/live-updates-from-blast-rivals-quarter-finals
+2026/05/02 13:39:42 Content still empty after HTML reader: https://www.hltv.org/news/44465/short-news-week-17
+2026/05/02 13:39:42 Content still empty after HTML reader: https://www.hltv.org/news/44498/vitality-vs-bcgame-headlines-iem-atlantas-opening-round
+2026/05/02 13:39:42 Content still empty after HTML reader: https://www.hltv.org/news/44496/big-pause-equipa-project
+2026/05/02 13:39:42 Fetched posts from https://www.hltv.org/rss/news, took 1.489419756s
+2026/05/02 13:39:42 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.642117973s
+2026/05/02 13:40:41 Get "https://www.bbc.com/vietnamese/articles/cx21n4rdn3do?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/05/02 13:40:41 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004019263s
+2026/05/02 13:40:41 Skipping writing post, no content: https://www.hltv.org/news/44499/faze-stun-g2-to-reach-semis-in-fort-worth
+2026/05/02 13:40:41 Skipping writing post, no content: https://www.hltv.org/news/44497/live-updates-from-blast-rivals-quarter-finals
+2026/05/02 13:40:41 Skipping writing post, no content: https://www.hltv.org/news/44465/short-news-week-17
+2026/05/02 13:40:41 Skipping writing post, no content: https://www.hltv.org/news/44498/vitality-vs-bcgame-headlines-iem-atlantas-opening-round
+2026/05/02 13:40:41 Skipping writing post, no content: https://www.hltv.org/news/44496/big-pause-equipa-project
+2026/05/02 13:40:41 Templated 51 posts, took 6.984811ms
