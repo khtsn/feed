@@ -1,14 +1,12 @@
-2026/05/08 11:46:01 Fetched posts from https://vlr.gg/rss, took 1.086420791s
-2026/05/08 11:46:02 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.004431184s
-2026/05/08 11:46:02 Content still empty after HTML reader: https://www.hltv.org/news/44524/nafany-enters-free-agency
-2026/05/08 11:46:02 Content still empty after HTML reader: https://www.hltv.org/news/44521/the-evps-and-all-stars-of-blast-rivals-2026-season-1
-2026/05/08 11:46:02 Content still empty after HTML reader: https://www.hltv.org/news/44523/9ine-bench-bnox
-2026/05/08 11:46:02 Content still empty after HTML reader: https://www.hltv.org/news/44520/pgl-astana-teams-format-schedule-prizes-talent-fantasy
-2026/05/08 11:46:02 Fetched posts from https://www.hltv.org/rss/news, took 2.14579816s
-2026/05/08 11:47:00 Get "https://www.bbc.com/vietnamese/articles/c9we59lnzzgo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/05/08 11:47:00 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.00016047s
-2026/05/08 11:47:00 Skipping writing post, no content: https://www.hltv.org/news/44524/nafany-enters-free-agency
-2026/05/08 11:47:00 Skipping writing post, no content: https://www.hltv.org/news/44521/the-evps-and-all-stars-of-blast-rivals-2026-season-1
-2026/05/08 11:47:00 Skipping writing post, no content: https://www.hltv.org/news/44523/9ine-bench-bnox
-2026/05/08 11:47:00 Skipping writing post, no content: https://www.hltv.org/news/44520/pgl-astana-teams-format-schedule-prizes-talent-fantasy
-2026/05/08 11:47:00 Templated 62 posts, took 7.959215ms
+2026/05/08 13:00:11 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.151088269s
+2026/05/08 13:00:11 Fetched posts from https://vlr.gg/rss, took 2.794566926s
+2026/05/08 13:00:12 Content still empty after HTML reader: https://www.hltv.org/news/44524/nafany-enters-free-agency
+2026/05/08 13:00:12 Content still empty after HTML reader: https://www.hltv.org/news/44521/the-evps-and-all-stars-of-blast-rivals-2026-season-1
+2026/05/08 13:00:12 Content still empty after HTML reader: https://www.hltv.org/news/44523/9ine-bench-bnox
+2026/05/08 13:00:12 Fetched posts from https://www.hltv.org/rss/news, took 3.094556989s
+2026/05/08 13:01:09 Get "https://www.bbc.com/vietnamese/articles/c9we59lnzzgo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/05/08 13:01:09 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.002819324s
+2026/05/08 13:01:09 Skipping writing post, no content: https://www.hltv.org/news/44524/nafany-enters-free-agency
+2026/05/08 13:01:09 Skipping writing post, no content: https://www.hltv.org/news/44521/the-evps-and-all-stars-of-blast-rivals-2026-season-1
+2026/05/08 13:01:09 Skipping writing post, no content: https://www.hltv.org/news/44523/9ine-bench-bnox
+2026/05/08 13:01:09 Templated 61 posts, took 8.596174ms
