@@ -1,16 +1,16 @@
-2026/05/09 22:43:47 Fetched posts from https://vlr.gg/rss, took 1.281253184s
-2026/05/09 22:43:47 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.366858659s
-2026/05/09 22:43:47 Content still empty after HTML reader: https://www.hltv.org/news/44533/the-best-highlights-from-pgl-astana-group-stage
-2026/05/09 22:43:47 Content still empty after HTML reader: https://www.hltv.org/news/44536/cobrazera-we-rested-and-we-have-so-much-energy-so-we-will-do-better-from-bucharest
-2026/05/09 22:43:48 Content still empty after HTML reader: https://www.hltv.org/news/44538/falcons-move-past-k27-on-karrigans-debut
-2026/05/09 22:43:48 Content still empty after HTML reader: https://www.hltv.org/news/44537/mouz-debut-with-narrow-win-over-gentle-mates
-2026/05/09 22:43:48 Content still empty after HTML reader: https://www.hltv.org/news/44535/chr1zn-in-cluj-we-werent-ready-for-it-now-its-going-to-be-much-better
-2026/05/09 22:43:48 Fetched posts from https://www.hltv.org/rss/news, took 1.995608331s
-2026/05/09 22:44:46 Get "https://www.bbc.com/vietnamese/articles/c4g40ljg8ejo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/05/09 22:44:46 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003792051s
-2026/05/09 22:44:46 Skipping writing post, no content: https://www.hltv.org/news/44533/the-best-highlights-from-pgl-astana-group-stage
-2026/05/09 22:44:46 Skipping writing post, no content: https://www.hltv.org/news/44536/cobrazera-we-rested-and-we-have-so-much-energy-so-we-will-do-better-from-bucharest
-2026/05/09 22:44:46 Skipping writing post, no content: https://www.hltv.org/news/44538/falcons-move-past-k27-on-karrigans-debut
-2026/05/09 22:44:46 Skipping writing post, no content: https://www.hltv.org/news/44537/mouz-debut-with-narrow-win-over-gentle-mates
-2026/05/09 22:44:46 Skipping writing post, no content: https://www.hltv.org/news/44535/chr1zn-in-cluj-we-werent-ready-for-it-now-its-going-to-be-much-better
-2026/05/09 22:44:46 Templated 48 posts, took 8.128454ms
+2026/05/09 23:32:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.356846943s
+2026/05/09 23:32:20 Fetched posts from https://vlr.gg/rss, took 1.454466386s
+2026/05/09 23:32:20 Content still empty after HTML reader: https://www.hltv.org/news/44533/the-best-highlights-from-pgl-astana-group-stage
+2026/05/09 23:32:20 Content still empty after HTML reader: https://www.hltv.org/news/44536/cobrazera-we-rested-and-we-have-so-much-energy-so-we-will-do-better-from-bucharest
+2026/05/09 23:32:20 Content still empty after HTML reader: https://www.hltv.org/news/44538/falcons-move-past-k27-on-karrigans-debut
+2026/05/09 23:32:20 Content still empty after HTML reader: https://www.hltv.org/news/44537/mouz-debut-with-narrow-win-over-gentle-mates
+2026/05/09 23:32:20 Content still empty after HTML reader: https://www.hltv.org/news/44535/chr1zn-in-cluj-we-werent-ready-for-it-now-its-going-to-be-much-better
+2026/05/09 23:32:20 Fetched posts from https://www.hltv.org/rss/news, took 1.702782234s
+2026/05/09 23:33:18 Get "https://www.bbc.com/vietnamese/articles/c4g40ljg8ejo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/05/09 23:33:18 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.000112073s
+2026/05/09 23:33:18 Skipping writing post, no content: https://www.hltv.org/news/44533/the-best-highlights-from-pgl-astana-group-stage
+2026/05/09 23:33:18 Skipping writing post, no content: https://www.hltv.org/news/44536/cobrazera-we-rested-and-we-have-so-much-energy-so-we-will-do-better-from-bucharest
+2026/05/09 23:33:18 Skipping writing post, no content: https://www.hltv.org/news/44538/falcons-move-past-k27-on-karrigans-debut
+2026/05/09 23:33:18 Skipping writing post, no content: https://www.hltv.org/news/44537/mouz-debut-with-narrow-win-over-gentle-mates
+2026/05/09 23:33:18 Skipping writing post, no content: https://www.hltv.org/news/44535/chr1zn-in-cluj-we-werent-ready-for-it-now-its-going-to-be-much-better
+2026/05/09 23:33:18 Templated 49 posts, took 8.391322ms
