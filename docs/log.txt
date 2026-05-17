@@ -1,15 +1,16 @@
-2026/05/17 12:44:01 Fetched posts from https://vlr.gg/rss, took 660.435078ms
-2026/05/17 12:44:01 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.176050349s
-2026/05/17 12:44:02 Content still empty after HTML reader: https://www.hltv.org/news/44634/navi-breeze-past-bb-to-qualify-for-atlanta-final
-2026/05/17 12:44:02 Content still empty after HTML reader: https://www.hltv.org/news/44633/tauson-i-would-like-to-play-navi-it-makes-it-more-deserved-for-us-to-win
-2026/05/17 12:44:02 Content still empty after HTML reader: https://www.hltv.org/news/44631/gamerlegion-take-down-legacy-to-make-iem-atlantas-grand-final
-2026/05/17 12:44:02 Content still empty after HTML reader: https://www.hltv.org/news/44632/mezii-we-had-to-expect-that-we-werent-going-to-keep-winning-events-with-no-preparation
-2026/05/17 12:44:02 Content still empty after HTML reader: https://www.hltv.org/news/44630/karrigan-m0nesy-was-feeling-it-i-couldve-let-him-loose-but-sometimes-we-have-to-win-in-different-ways-than-just-off-individual-firepower
-2026/05/17 12:44:02 Fetched posts from https://www.hltv.org/rss/news, took 1.577059084s
-2026/05/17 12:44:59 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.42743378s
-2026/05/17 12:44:59 Skipping writing post, no content: https://www.hltv.org/news/44634/navi-breeze-past-bb-to-qualify-for-atlanta-final
-2026/05/17 12:44:59 Skipping writing post, no content: https://www.hltv.org/news/44633/tauson-i-would-like-to-play-navi-it-makes-it-more-deserved-for-us-to-win
-2026/05/17 12:44:59 Skipping writing post, no content: https://www.hltv.org/news/44631/gamerlegion-take-down-legacy-to-make-iem-atlantas-grand-final
-2026/05/17 12:44:59 Skipping writing post, no content: https://www.hltv.org/news/44632/mezii-we-had-to-expect-that-we-werent-going-to-keep-winning-events-with-no-preparation
-2026/05/17 12:44:59 Skipping writing post, no content: https://www.hltv.org/news/44630/karrigan-m0nesy-was-feeling-it-i-couldve-let-him-loose-but-sometimes-we-have-to-win-in-different-ways-than-just-off-individual-firepower
-2026/05/17 12:44:59 Templated 51 posts, took 6.549996ms
+2026/05/17 14:14:21 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.106416487s
+2026/05/17 14:14:21 Content still empty after HTML reader: https://www.hltv.org/news/44629/iem-atlanta-semi-finals-day-as-it-happened
+2026/05/17 14:14:21 Content still empty after HTML reader: https://www.hltv.org/news/44634/navi-breeze-past-bb-to-qualify-for-atlanta-final
+2026/05/17 14:14:21 Content still empty after HTML reader: https://www.hltv.org/news/44633/tauson-i-would-like-to-play-navi-it-makes-it-more-deserved-for-us-to-win
+2026/05/17 14:14:21 Content still empty after HTML reader: https://www.hltv.org/news/44631/gamerlegion-take-down-legacy-to-make-iem-atlantas-grand-final
+2026/05/17 14:14:21 Content still empty after HTML reader: https://www.hltv.org/news/44632/mezii-we-had-to-expect-that-we-werent-going-to-keep-winning-events-with-no-preparation
+2026/05/17 14:14:21 Fetched posts from https://www.hltv.org/rss/news, took 1.583644648s
+2026/05/17 14:14:22 Fetched posts from https://vlr.gg/rss, took 2.236361764s
+2026/05/17 14:15:20 Get "https://www.bbc.com/vietnamese/articles/cpdp9vqz316o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/05/17 14:15:20 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004113975s
+2026/05/17 14:15:20 Skipping writing post, no content: https://www.hltv.org/news/44629/iem-atlanta-semi-finals-day-as-it-happened
+2026/05/17 14:15:20 Skipping writing post, no content: https://www.hltv.org/news/44634/navi-breeze-past-bb-to-qualify-for-atlanta-final
+2026/05/17 14:15:20 Skipping writing post, no content: https://www.hltv.org/news/44633/tauson-i-would-like-to-play-navi-it-makes-it-more-deserved-for-us-to-win
+2026/05/17 14:15:20 Skipping writing post, no content: https://www.hltv.org/news/44631/gamerlegion-take-down-legacy-to-make-iem-atlantas-grand-final
+2026/05/17 14:15:20 Skipping writing post, no content: https://www.hltv.org/news/44632/mezii-we-had-to-expect-that-we-werent-going-to-keep-winning-events-with-no-preparation
+2026/05/17 14:15:20 Templated 53 posts, took 7.546338ms
