@@ -1,15 +1,16 @@
-2026/05/26 09:39:18 Fetched posts from https://vlr.gg/rss, took 836.787178ms
-2026/05/26 09:39:18 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.464200692s
-2026/05/26 09:39:19 Content still empty after HTML reader: https://www.hltv.org/news/44706/hext-i-think-cxzi-brings-some-things-peeping-was-lacking
-2026/05/26 09:39:19 Content still empty after HTML reader: https://www.hltv.org/news/44705/alliance-get-revenge-on-eyeballers-in-swedish-derby-rematch-to-conquer-prague
-2026/05/26 09:39:19 Content still empty after HTML reader: https://www.hltv.org/news/44704/wildcard-defeat-fokus-to-win-bc-game-masters-championship-season-2
-2026/05/26 09:39:19 Content still empty after HTML reader: https://www.hltv.org/news/44703/sangal-put-patsi-and-clax-up-for-transfer
-2026/05/26 09:39:19 Content still empty after HTML reader: https://www.hltv.org/news/44702/latto-both-wins-are-special-but-this-one-has-a-little-extra-to-it-because-we-faced-falcons-a-team-i-really-respect
-2026/05/26 09:39:19 Fetched posts from https://www.hltv.org/rss/news, took 2.156992149s
-2026/05/26 09:40:11 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 54.727792672s
-2026/05/26 09:40:11 Skipping writing post, no content: https://www.hltv.org/news/44706/hext-i-think-cxzi-brings-some-things-peeping-was-lacking
-2026/05/26 09:40:11 Skipping writing post, no content: https://www.hltv.org/news/44705/alliance-get-revenge-on-eyeballers-in-swedish-derby-rematch-to-conquer-prague
-2026/05/26 09:40:11 Skipping writing post, no content: https://www.hltv.org/news/44704/wildcard-defeat-fokus-to-win-bc-game-masters-championship-season-2
-2026/05/26 09:40:11 Skipping writing post, no content: https://www.hltv.org/news/44703/sangal-put-patsi-and-clax-up-for-transfer
-2026/05/26 09:40:11 Skipping writing post, no content: https://www.hltv.org/news/44702/latto-both-wins-are-special-but-this-one-has-a-little-extra-to-it-because-we-faced-falcons-a-team-i-really-respect
-2026/05/26 09:40:11 Templated 45 posts, took 3.643628ms
+2026/05/26 16:27:28 Fetched posts from https://vlr.gg/rss, took 1.201444968s
+2026/05/26 16:27:28 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.271016656s
+2026/05/26 16:27:28 Content still empty after HTML reader: https://www.hltv.org/news/44707/esl-announces-iem-beijing-2026
+2026/05/26 16:27:28 Content still empty after HTML reader: https://www.hltv.org/news/44706/hext-i-think-cxzi-brings-some-things-peeping-was-lacking
+2026/05/26 16:27:29 Content still empty after HTML reader: https://www.hltv.org/news/44705/alliance-get-revenge-on-eyeballers-in-swedish-derby-rematch-to-conquer-prague
+2026/05/26 16:27:29 Content still empty after HTML reader: https://www.hltv.org/news/44704/wildcard-defeat-fokus-to-win-bc-game-masters-championship-season-2
+2026/05/26 16:27:29 Content still empty after HTML reader: https://www.hltv.org/news/44703/sangal-put-patsi-and-clax-up-for-transfer
+2026/05/26 16:27:29 Fetched posts from https://www.hltv.org/rss/news, took 2.035614688s
+2026/05/26 16:28:27 Get "https://www.bbc.com/vietnamese/articles/c202lqewyy6o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/05/26 16:28:27 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004357696s
+2026/05/26 16:28:27 Skipping writing post, no content: https://www.hltv.org/news/44707/esl-announces-iem-beijing-2026
+2026/05/26 16:28:27 Skipping writing post, no content: https://www.hltv.org/news/44706/hext-i-think-cxzi-brings-some-things-peeping-was-lacking
+2026/05/26 16:28:27 Skipping writing post, no content: https://www.hltv.org/news/44705/alliance-get-revenge-on-eyeballers-in-swedish-derby-rematch-to-conquer-prague
+2026/05/26 16:28:27 Skipping writing post, no content: https://www.hltv.org/news/44704/wildcard-defeat-fokus-to-win-bc-game-masters-championship-season-2
+2026/05/26 16:28:27 Skipping writing post, no content: https://www.hltv.org/news/44703/sangal-put-patsi-and-clax-up-for-transfer
+2026/05/26 16:28:27 Templated 46 posts, took 3.73343ms
