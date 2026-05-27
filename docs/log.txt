@@ -1,15 +1,16 @@
-2026/05/27 21:20:51 Fetched posts from https://vlr.gg/rss, took 654.362767ms
-2026/05/27 21:20:52 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.658174859s
-2026/05/27 21:20:52 Content still empty after HTML reader: https://www.hltv.org/news/44709/fluxo-confirm-dav1deus-and-ltz-signings
-2026/05/27 21:20:52 Content still empty after HTML reader: https://www.hltv.org/news/44708/cast-your-vote-for-the-major-mvp-medal-design
-2026/05/27 21:20:52 Content still empty after HTML reader: https://www.hltv.org/news/44649/short-news-week-20
-2026/05/27 21:20:52 Content still empty after HTML reader: https://www.hltv.org/news/44707/esl-announces-iem-beijing-2026
-2026/05/27 21:20:52 Content still empty after HTML reader: https://www.hltv.org/news/44706/hext-i-think-cxzi-brings-some-things-peeping-was-lacking
-2026/05/27 21:20:52 Fetched posts from https://www.hltv.org/rss/news, took 2.040864719s
-2026/05/27 21:21:50 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004174411s
-2026/05/27 21:21:50 Skipping writing post, no content: https://www.hltv.org/news/44709/fluxo-confirm-dav1deus-and-ltz-signings
-2026/05/27 21:21:50 Skipping writing post, no content: https://www.hltv.org/news/44708/cast-your-vote-for-the-major-mvp-medal-design
-2026/05/27 21:21:50 Skipping writing post, no content: https://www.hltv.org/news/44649/short-news-week-20
-2026/05/27 21:21:50 Skipping writing post, no content: https://www.hltv.org/news/44707/esl-announces-iem-beijing-2026
-2026/05/27 21:21:50 Skipping writing post, no content: https://www.hltv.org/news/44706/hext-i-think-cxzi-brings-some-things-peeping-was-lacking
-2026/05/27 21:21:50 Templated 53 posts, took 4.963913ms
+2026/05/27 22:53:41 Fetched posts from https://vlr.gg/rss, took 271.484844ms
+2026/05/27 22:53:42 Content still empty after HTML reader: https://www.hltv.org/news/44709/fluxo-confirm-dav1deus-and-ltz-signings
+2026/05/27 22:53:42 Content still empty after HTML reader: https://www.hltv.org/news/44708/cast-your-vote-for-the-major-mvp-medal-design
+2026/05/27 22:53:42 Content still empty after HTML reader: https://www.hltv.org/news/44649/short-news-week-20
+2026/05/27 22:53:42 Content still empty after HTML reader: https://www.hltv.org/news/44707/esl-announces-iem-beijing-2026
+2026/05/27 22:53:42 Content still empty after HTML reader: https://www.hltv.org/news/44706/hext-i-think-cxzi-brings-some-things-peeping-was-lacking
+2026/05/27 22:53:42 Fetched posts from https://www.hltv.org/rss/news, took 1.566990519s
+2026/05/27 22:53:43 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.215134893s
+2026/05/27 22:54:41 Get "https://www.bbc.com/vietnamese/articles/c9v3lvmpnl1o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/05/27 22:54:41 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003378309s
+2026/05/27 22:54:41 Skipping writing post, no content: https://www.hltv.org/news/44709/fluxo-confirm-dav1deus-and-ltz-signings
+2026/05/27 22:54:41 Skipping writing post, no content: https://www.hltv.org/news/44708/cast-your-vote-for-the-major-mvp-medal-design
+2026/05/27 22:54:41 Skipping writing post, no content: https://www.hltv.org/news/44649/short-news-week-20
+2026/05/27 22:54:41 Skipping writing post, no content: https://www.hltv.org/news/44707/esl-announces-iem-beijing-2026
+2026/05/27 22:54:41 Skipping writing post, no content: https://www.hltv.org/news/44706/hext-i-think-cxzi-brings-some-things-peeping-was-lacking
+2026/05/27 22:54:41 Templated 55 posts, took 7.093561ms
