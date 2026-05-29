@@ -1,15 +1,16 @@
-2026/05/29 21:25:27 Fetched posts from https://vlr.gg/rss, took 844.826894ms
-2026/05/29 21:25:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.672193754s
-2026/05/29 21:25:28 Content still empty after HTML reader: https://www.hltv.org/news/44727/esl-announces-cologne-major-talent
-2026/05/29 21:25:28 Content still empty after HTML reader: https://www.hltv.org/news/44726/virtuspro-debut-with-mpkbk-lan-victory
-2026/05/29 21:25:28 Content still empty after HTML reader: https://www.hltv.org/news/44723/hltv-confirmed-iem-cologne-major-preview
-2026/05/29 21:25:28 Content still empty after HTML reader: https://www.hltv.org/news/44722/tdk-m80-and-shinden-qualify-for-epl-s24
-2026/05/29 21:25:28 Content still empty after HTML reader: https://www.hltv.org/news/44721/valve-addresses-spectator-flash-effect-in-update
-2026/05/29 21:25:28 Fetched posts from https://www.hltv.org/rss/news, took 2.322334704s
-2026/05/29 21:26:25 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.560395407s
-2026/05/29 21:26:25 Skipping writing post, no content: https://www.hltv.org/news/44727/esl-announces-cologne-major-talent
-2026/05/29 21:26:25 Skipping writing post, no content: https://www.hltv.org/news/44726/virtuspro-debut-with-mpkbk-lan-victory
-2026/05/29 21:26:25 Skipping writing post, no content: https://www.hltv.org/news/44723/hltv-confirmed-iem-cologne-major-preview
-2026/05/29 21:26:25 Skipping writing post, no content: https://www.hltv.org/news/44722/tdk-m80-and-shinden-qualify-for-epl-s24
-2026/05/29 21:26:25 Skipping writing post, no content: https://www.hltv.org/news/44721/valve-addresses-spectator-flash-effect-in-update
-2026/05/29 21:26:25 Templated 56 posts, took 7.817151ms
+2026/05/29 22:51:07 Fetched posts from https://vlr.gg/rss, took 426.939556ms
+2026/05/29 22:51:08 Content still empty after HTML reader: https://www.hltv.org/news/44727/esl-announces-cologne-major-talent
+2026/05/29 22:51:08 Content still empty after HTML reader: https://www.hltv.org/news/44726/virtuspro-debut-with-mpkbk-lan-victory
+2026/05/29 22:51:08 Content still empty after HTML reader: https://www.hltv.org/news/44723/hltv-confirmed-iem-cologne-major-preview
+2026/05/29 22:51:08 Content still empty after HTML reader: https://www.hltv.org/news/44722/tdk-m80-and-shinden-qualify-for-epl-s24
+2026/05/29 22:51:08 Content still empty after HTML reader: https://www.hltv.org/news/44721/valve-addresses-spectator-flash-effect-in-update
+2026/05/29 22:51:08 Fetched posts from https://www.hltv.org/rss/news, took 1.603679332s
+2026/05/29 22:51:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.080732055s
+2026/05/29 22:52:07 Get "https://www.bbc.com/vietnamese/articles/cvgzj1jvr7po?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/05/29 22:52:07 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003919969s
+2026/05/29 22:52:07 Skipping writing post, no content: https://www.hltv.org/news/44727/esl-announces-cologne-major-talent
+2026/05/29 22:52:07 Skipping writing post, no content: https://www.hltv.org/news/44726/virtuspro-debut-with-mpkbk-lan-victory
+2026/05/29 22:52:07 Skipping writing post, no content: https://www.hltv.org/news/44723/hltv-confirmed-iem-cologne-major-preview
+2026/05/29 22:52:07 Skipping writing post, no content: https://www.hltv.org/news/44722/tdk-m80-and-shinden-qualify-for-epl-s24
+2026/05/29 22:52:07 Skipping writing post, no content: https://www.hltv.org/news/44721/valve-addresses-spectator-flash-effect-in-update
+2026/05/29 22:52:07 Templated 55 posts, took 8.660816ms
