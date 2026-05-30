@@ -1,15 +1,16 @@
-2026/05/30 16:31:21 Fetched posts from https://vlr.gg/rss, took 1.323426179s
-2026/05/30 16:31:21 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.499456519s
-2026/05/30 16:31:22 Content still empty after HTML reader: https://www.hltv.org/news/44725/the-evps-and-all-stars-of-cs-asia-championship-2026
-2026/05/30 16:31:22 Content still empty after HTML reader: https://www.hltv.org/news/44727/esl-announces-cologne-major-talent
-2026/05/30 16:31:22 Content still empty after HTML reader: https://www.hltv.org/news/44726/virtuspro-debut-with-mpkbk-lan-victory
-2026/05/30 16:31:22 Content still empty after HTML reader: https://www.hltv.org/news/44723/hltv-confirmed-iem-cologne-major-preview
-2026/05/30 16:31:22 Content still empty after HTML reader: https://www.hltv.org/news/44722/tdk-m80-and-shinden-qualify-for-epl-s24
-2026/05/30 16:31:22 Fetched posts from https://www.hltv.org/rss/news, took 2.443492038s
-2026/05/30 16:32:19 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.75241184s
-2026/05/30 16:32:19 Skipping writing post, no content: https://www.hltv.org/news/44725/the-evps-and-all-stars-of-cs-asia-championship-2026
-2026/05/30 16:32:19 Skipping writing post, no content: https://www.hltv.org/news/44727/esl-announces-cologne-major-talent
-2026/05/30 16:32:19 Skipping writing post, no content: https://www.hltv.org/news/44726/virtuspro-debut-with-mpkbk-lan-victory
-2026/05/30 16:32:19 Skipping writing post, no content: https://www.hltv.org/news/44723/hltv-confirmed-iem-cologne-major-preview
-2026/05/30 16:32:19 Skipping writing post, no content: https://www.hltv.org/news/44722/tdk-m80-and-shinden-qualify-for-epl-s24
-2026/05/30 16:32:19 Templated 49 posts, took 5.534431ms
+2026/05/30 17:39:13 Fetched posts from https://vlr.gg/rss, took 1.162037688s
+2026/05/30 17:39:13 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.318123781s
+2026/05/30 17:39:14 Content still empty after HTML reader: https://www.hltv.org/news/44728/xelex-storms-to-fourth-in-pre-major-prospects-update
+2026/05/30 17:39:14 Content still empty after HTML reader: https://www.hltv.org/news/44725/the-evps-and-all-stars-of-cs-asia-championship-2026
+2026/05/30 17:39:14 Content still empty after HTML reader: https://www.hltv.org/news/44727/esl-announces-cologne-major-talent
+2026/05/30 17:39:14 Content still empty after HTML reader: https://www.hltv.org/news/44726/virtuspro-debut-with-mpkbk-lan-victory
+2026/05/30 17:39:14 Content still empty after HTML reader: https://www.hltv.org/news/44723/hltv-confirmed-iem-cologne-major-preview
+2026/05/30 17:39:14 Fetched posts from https://www.hltv.org/rss/news, took 2.200724075s
+2026/05/30 17:40:12 Get "https://www.bbc.com/vietnamese/articles/cjwpg0w5glqo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/05/30 17:40:12 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.00454934s
+2026/05/30 17:40:12 Skipping writing post, no content: https://www.hltv.org/news/44728/xelex-storms-to-fourth-in-pre-major-prospects-update
+2026/05/30 17:40:12 Skipping writing post, no content: https://www.hltv.org/news/44725/the-evps-and-all-stars-of-cs-asia-championship-2026
+2026/05/30 17:40:12 Skipping writing post, no content: https://www.hltv.org/news/44727/esl-announces-cologne-major-talent
+2026/05/30 17:40:12 Skipping writing post, no content: https://www.hltv.org/news/44726/virtuspro-debut-with-mpkbk-lan-victory
+2026/05/30 17:40:12 Skipping writing post, no content: https://www.hltv.org/news/44723/hltv-confirmed-iem-cologne-major-preview
+2026/05/30 17:40:12 Templated 50 posts, took 7.275633ms
