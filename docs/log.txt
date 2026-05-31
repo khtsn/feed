@@ -1,16 +1,15 @@
-2026/05/30 23:15:55 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.058918091s
-2026/05/30 23:15:55 Fetched posts from https://vlr.gg/rss, took 1.256222996s
-2026/05/30 23:15:56 Content still empty after HTML reader: https://www.hltv.org/news/44731/a-conversation-with-bcgs-ceo-landing-s1mple-shopping-for-a-core-and-top-5-goals
-2026/05/30 23:15:56 Content still empty after HTML reader: https://www.hltv.org/news/44730/faze-stave-off-elimination-at-stake-ranked-as-magic-reach-grand-final
-2026/05/30 23:15:56 Content still empty after HTML reader: https://www.hltv.org/news/44717/the-art-of-the-pre-major-hail-mary
-2026/05/30 23:15:56 Content still empty after HTML reader: https://www.hltv.org/news/44728/xelex-storms-to-fourth-in-pre-major-prospects-update
-2026/05/30 23:15:56 Content still empty after HTML reader: https://www.hltv.org/news/44725/the-evps-and-all-stars-of-cs-asia-championship-2026
-2026/05/30 23:15:56 Fetched posts from https://www.hltv.org/rss/news, took 2.078199671s
-2026/05/30 23:16:54 Get "https://www.bbc.com/vietnamese/articles/cjwpg0w5glqo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/05/30 23:16:54 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.002288471s
-2026/05/30 23:16:54 Skipping writing post, no content: https://www.hltv.org/news/44731/a-conversation-with-bcgs-ceo-landing-s1mple-shopping-for-a-core-and-top-5-goals
-2026/05/30 23:16:54 Skipping writing post, no content: https://www.hltv.org/news/44730/faze-stave-off-elimination-at-stake-ranked-as-magic-reach-grand-final
-2026/05/30 23:16:54 Skipping writing post, no content: https://www.hltv.org/news/44717/the-art-of-the-pre-major-hail-mary
-2026/05/30 23:16:54 Skipping writing post, no content: https://www.hltv.org/news/44728/xelex-storms-to-fourth-in-pre-major-prospects-update
-2026/05/30 23:16:54 Skipping writing post, no content: https://www.hltv.org/news/44725/the-evps-and-all-stars-of-cs-asia-championship-2026
-2026/05/30 23:16:54 Templated 45 posts, took 7.346121ms
+2026/05/31 00:17:11 Fetched posts from https://vlr.gg/rss, took 533.687938ms
+2026/05/31 00:17:12 Content still empty after HTML reader: https://www.hltv.org/news/44731/a-conversation-with-bcgs-ceo-landing-s1mple-shopping-for-a-core-and-top-5-goals
+2026/05/31 00:17:12 Content still empty after HTML reader: https://www.hltv.org/news/44730/faze-stave-off-elimination-at-stake-ranked-as-magic-reach-grand-final
+2026/05/31 00:17:12 Content still empty after HTML reader: https://www.hltv.org/news/44717/the-art-of-the-pre-major-hail-mary
+2026/05/31 00:17:12 Content still empty after HTML reader: https://www.hltv.org/news/44728/xelex-storms-to-fourth-in-pre-major-prospects-update
+2026/05/31 00:17:12 Content still empty after HTML reader: https://www.hltv.org/news/44725/the-evps-and-all-stars-of-cs-asia-championship-2026
+2026/05/31 00:17:12 Fetched posts from https://www.hltv.org/rss/news, took 1.552769267s
+2026/05/31 00:17:12 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.588400299s
+2026/05/31 00:18:09 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.32550888s
+2026/05/31 00:18:09 Skipping writing post, no content: https://www.hltv.org/news/44731/a-conversation-with-bcgs-ceo-landing-s1mple-shopping-for-a-core-and-top-5-goals
+2026/05/31 00:18:09 Skipping writing post, no content: https://www.hltv.org/news/44730/faze-stave-off-elimination-at-stake-ranked-as-magic-reach-grand-final
+2026/05/31 00:18:09 Skipping writing post, no content: https://www.hltv.org/news/44717/the-art-of-the-pre-major-hail-mary
+2026/05/31 00:18:09 Skipping writing post, no content: https://www.hltv.org/news/44728/xelex-storms-to-fourth-in-pre-major-prospects-update
+2026/05/31 00:18:09 Skipping writing post, no content: https://www.hltv.org/news/44725/the-evps-and-all-stars-of-cs-asia-championship-2026
+2026/05/31 00:18:09 Templated 46 posts, took 6.308871ms
