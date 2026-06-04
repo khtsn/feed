@@ -1,5 +1,16 @@
-2026/06/04 12:12:40 Fetched posts from https://vlr.gg/rss, took 426.867432ms
-2026/06/04 12:12:41 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.607774741s
-2026/06/04 12:12:43 Fetched posts from https://www.hltv.org/rss/news, took 2.737512302s
-2026/06/04 12:13:39 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.477136178s
-2026/06/04 12:13:39 Templated 53 posts, took 8.094302ms
+2026/06/04 15:45:22 Fetched posts from https://vlr.gg/rss, took 1.195059052s
+2026/06/04 15:45:22 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.559197307s
+2026/06/04 15:45:23 Content still empty after HTML reader: https://www.hltv.org/news/44780/sk0r-departs-the-huns
+2026/06/04 15:45:23 Content still empty after HTML reader: https://www.hltv.org/news/44752/on-the-ground-at-iem-cologne-major-stage-1
+2026/06/04 15:45:23 Content still empty after HTML reader: https://www.hltv.org/news/44777/yxngstxr-on-recent-results-its-been-hard-weve-been-trying-to-regroup-as-a-team
+2026/06/04 15:45:23 Content still empty after HTML reader: https://www.hltv.org/news/44772/beastik-on-0-3-exit-it-feels-even-worse-than-not-qualifying
+2026/06/04 15:45:23 Content still empty after HTML reader: https://www.hltv.org/news/44779/iem-cologne-major-stage-1-round-4-matchups-set
+2026/06/04 15:45:23 Fetched posts from https://www.hltv.org/rss/news, took 2.484528488s
+2026/06/04 15:46:21 Get "https://www.bbc.com/vietnamese/articles/c3e2lw0dyw8o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/06/04 15:46:21 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003947604s
+2026/06/04 15:46:21 Skipping writing post, no content: https://www.hltv.org/news/44780/sk0r-departs-the-huns
+2026/06/04 15:46:21 Skipping writing post, no content: https://www.hltv.org/news/44752/on-the-ground-at-iem-cologne-major-stage-1
+2026/06/04 15:46:21 Skipping writing post, no content: https://www.hltv.org/news/44777/yxngstxr-on-recent-results-its-been-hard-weve-been-trying-to-regroup-as-a-team
+2026/06/04 15:46:21 Skipping writing post, no content: https://www.hltv.org/news/44772/beastik-on-0-3-exit-it-feels-even-worse-than-not-qualifying
+2026/06/04 15:46:21 Skipping writing post, no content: https://www.hltv.org/news/44779/iem-cologne-major-stage-1-round-4-matchups-set
+2026/06/04 15:46:21 Templated 53 posts, took 7.459892ms
