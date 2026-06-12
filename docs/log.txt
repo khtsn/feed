@@ -1,15 +1,16 @@
-2026/06/12 12:26:32 Fetched posts from https://vlr.gg/rss, took 1.368567882s
-2026/06/12 12:26:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.445019332s
-2026/06/12 12:26:33 Content still empty after HTML reader: https://www.hltv.org/news/44869/bc-game-puts-future-events-on-hold
-2026/06/12 12:26:33 Content still empty after HTML reader: https://www.hltv.org/news/44859/on-the-ground-at-iem-cologne-major-stage-3
-2026/06/12 12:26:33 Content still empty after HTML reader: https://www.hltv.org/news/44868/spirit-vs-aurora-g2-vs-fut-among-day-two-matchups-in-cologne
-2026/06/12 12:26:33 Content still empty after HTML reader: https://www.hltv.org/news/44867/spirit-outclass-navi-to-end-stage-3-day-one
-2026/06/12 12:26:33 Content still empty after HTML reader: https://www.hltv.org/news/44858/iem-cologne-major-stage-3-day-1-highlights
-2026/06/12 12:26:33 Fetched posts from https://www.hltv.org/rss/news, took 2.340974559s
-2026/06/12 12:27:30 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.57859374s
-2026/06/12 12:27:30 Skipping writing post, no content: https://www.hltv.org/news/44869/bc-game-puts-future-events-on-hold
-2026/06/12 12:27:30 Skipping writing post, no content: https://www.hltv.org/news/44859/on-the-ground-at-iem-cologne-major-stage-3
-2026/06/12 12:27:30 Skipping writing post, no content: https://www.hltv.org/news/44868/spirit-vs-aurora-g2-vs-fut-among-day-two-matchups-in-cologne
-2026/06/12 12:27:30 Skipping writing post, no content: https://www.hltv.org/news/44867/spirit-outclass-navi-to-end-stage-3-day-one
-2026/06/12 12:27:30 Skipping writing post, no content: https://www.hltv.org/news/44858/iem-cologne-major-stage-3-day-1-highlights
-2026/06/12 12:27:30 Templated 58 posts, took 6.911383ms
+2026/06/12 15:46:52 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.243431861s
+2026/06/12 15:46:52 Fetched posts from https://vlr.gg/rss, took 1.411512998s
+2026/06/12 15:46:52 Content still empty after HTML reader: https://www.hltv.org/news/44872/antyvirus-banned-by-akros-for-competitive-integrity-violation
+2026/06/12 15:46:52 Content still empty after HTML reader: https://www.hltv.org/news/44871/the-mongolz-send-b8-to-0-2-pool
+2026/06/12 15:46:52 Content still empty after HTML reader: https://www.hltv.org/news/44870/iem-cologne-major-stage-3-day-2-highlights
+2026/06/12 15:46:52 Content still empty after HTML reader: https://www.hltv.org/news/44869/bc-game-puts-future-events-on-hold
+2026/06/12 15:46:52 Content still empty after HTML reader: https://www.hltv.org/news/44859/on-the-ground-at-iem-cologne-major-stage-3
+2026/06/12 15:46:52 Fetched posts from https://www.hltv.org/rss/news, took 1.457060259s
+2026/06/12 15:47:51 Get "https://www.bbc.com/vietnamese/articles/cgmdvw0lvz4o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/06/12 15:47:51 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004114039s
+2026/06/12 15:47:51 Skipping writing post, no content: https://www.hltv.org/news/44872/antyvirus-banned-by-akros-for-competitive-integrity-violation
+2026/06/12 15:47:51 Skipping writing post, no content: https://www.hltv.org/news/44871/the-mongolz-send-b8-to-0-2-pool
+2026/06/12 15:47:51 Skipping writing post, no content: https://www.hltv.org/news/44870/iem-cologne-major-stage-3-day-2-highlights
+2026/06/12 15:47:51 Skipping writing post, no content: https://www.hltv.org/news/44869/bc-game-puts-future-events-on-hold
+2026/06/12 15:47:51 Skipping writing post, no content: https://www.hltv.org/news/44859/on-the-ground-at-iem-cologne-major-stage-3
+2026/06/12 15:47:51 Templated 55 posts, took 8.940351ms
