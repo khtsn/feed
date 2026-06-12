@@ -1,15 +1,16 @@
-2026/06/12 21:59:51 Fetched posts from https://vlr.gg/rss, took 713.638484ms
-2026/06/12 21:59:52 Content still empty after HTML reader: https://www.hltv.org/news/44882/9z-stun-vitality-to-move-into-2-0-pool
-2026/06/12 21:59:52 Content still empty after HTML reader: https://www.hltv.org/news/44881/b1ad3-jokes-about-going-1-1-people-with-3-0-are-not-winning-majors-and-we-dont-want-to-be-3-0
-2026/06/12 21:59:52 Content still empty after HTML reader: https://www.hltv.org/news/44880/boombl4-its-the-most-unexpected-season-of-my-career
-2026/06/12 21:59:52 Content still empty after HTML reader: https://www.hltv.org/news/44879/bbs-ct-dominance-nets-them-win-over-falcons
-2026/06/12 21:59:52 Content still empty after HTML reader: https://www.hltv.org/news/44878/saw-sunpayus-needs-to-find-his-form-again-that-comes-from-not-overthinking
-2026/06/12 21:59:52 Fetched posts from https://www.hltv.org/rss/news, took 1.706682007s
-2026/06/12 21:59:53 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.237817658s
-2026/06/12 22:00:50 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.673995029s
-2026/06/12 22:00:50 Skipping writing post, no content: https://www.hltv.org/news/44882/9z-stun-vitality-to-move-into-2-0-pool
-2026/06/12 22:00:50 Skipping writing post, no content: https://www.hltv.org/news/44881/b1ad3-jokes-about-going-1-1-people-with-3-0-are-not-winning-majors-and-we-dont-want-to-be-3-0
-2026/06/12 22:00:50 Skipping writing post, no content: https://www.hltv.org/news/44880/boombl4-its-the-most-unexpected-season-of-my-career
-2026/06/12 22:00:50 Skipping writing post, no content: https://www.hltv.org/news/44879/bbs-ct-dominance-nets-them-win-over-falcons
-2026/06/12 22:00:50 Skipping writing post, no content: https://www.hltv.org/news/44878/saw-sunpayus-needs-to-find-his-form-again-that-comes-from-not-overthinking
-2026/06/12 22:00:50 Templated 56 posts, took 8.668254ms
+2026/06/12 23:39:42 Fetched posts from https://vlr.gg/rss, took 1.399194295s
+2026/06/12 23:39:43 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.340868543s
+2026/06/12 23:39:43 Content still empty after HTML reader: https://www.hltv.org/news/44882/9z-stun-vitality-to-move-into-2-0-pool
+2026/06/12 23:39:43 Content still empty after HTML reader: https://www.hltv.org/news/44881/b1ad3-jokes-about-going-1-1-people-with-3-0-are-not-winning-majors-and-we-dont-want-to-be-3-0
+2026/06/12 23:39:43 Content still empty after HTML reader: https://www.hltv.org/news/44880/boombl4-its-the-most-unexpected-season-of-my-career
+2026/06/12 23:39:43 Content still empty after HTML reader: https://www.hltv.org/news/44879/bbs-ct-dominance-nets-them-win-over-falcons
+2026/06/12 23:39:43 Content still empty after HTML reader: https://www.hltv.org/news/44878/saw-sunpayus-needs-to-find-his-form-again-that-comes-from-not-overthinking
+2026/06/12 23:39:43 Fetched posts from https://www.hltv.org/rss/news, took 2.471257099s
+2026/06/12 23:40:41 Get "https://www.bbc.com/vietnamese/articles/cgmdvw0lvz4o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/06/12 23:40:41 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003284919s
+2026/06/12 23:40:41 Skipping writing post, no content: https://www.hltv.org/news/44882/9z-stun-vitality-to-move-into-2-0-pool
+2026/06/12 23:40:41 Skipping writing post, no content: https://www.hltv.org/news/44881/b1ad3-jokes-about-going-1-1-people-with-3-0-are-not-winning-majors-and-we-dont-want-to-be-3-0
+2026/06/12 23:40:41 Skipping writing post, no content: https://www.hltv.org/news/44880/boombl4-its-the-most-unexpected-season-of-my-career
+2026/06/12 23:40:41 Skipping writing post, no content: https://www.hltv.org/news/44879/bbs-ct-dominance-nets-them-win-over-falcons
+2026/06/12 23:40:41 Skipping writing post, no content: https://www.hltv.org/news/44878/saw-sunpayus-needs-to-find-his-form-again-that-comes-from-not-overthinking
+2026/06/12 23:40:41 Templated 53 posts, took 6.623536ms
