@@ -1,16 +1,16 @@
-2026/06/12 15:46:52 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.243431861s
-2026/06/12 15:46:52 Fetched posts from https://vlr.gg/rss, took 1.411512998s
-2026/06/12 15:46:52 Content still empty after HTML reader: https://www.hltv.org/news/44872/antyvirus-banned-by-akros-for-competitive-integrity-violation
-2026/06/12 15:46:52 Content still empty after HTML reader: https://www.hltv.org/news/44871/the-mongolz-send-b8-to-0-2-pool
-2026/06/12 15:46:52 Content still empty after HTML reader: https://www.hltv.org/news/44870/iem-cologne-major-stage-3-day-2-highlights
-2026/06/12 15:46:52 Content still empty after HTML reader: https://www.hltv.org/news/44869/bc-game-puts-future-events-on-hold
-2026/06/12 15:46:52 Content still empty after HTML reader: https://www.hltv.org/news/44859/on-the-ground-at-iem-cologne-major-stage-3
-2026/06/12 15:46:52 Fetched posts from https://www.hltv.org/rss/news, took 1.457060259s
-2026/06/12 15:47:51 Get "https://www.bbc.com/vietnamese/articles/cgmdvw0lvz4o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/06/12 15:47:51 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004114039s
-2026/06/12 15:47:51 Skipping writing post, no content: https://www.hltv.org/news/44872/antyvirus-banned-by-akros-for-competitive-integrity-violation
-2026/06/12 15:47:51 Skipping writing post, no content: https://www.hltv.org/news/44871/the-mongolz-send-b8-to-0-2-pool
-2026/06/12 15:47:51 Skipping writing post, no content: https://www.hltv.org/news/44870/iem-cologne-major-stage-3-day-2-highlights
-2026/06/12 15:47:51 Skipping writing post, no content: https://www.hltv.org/news/44869/bc-game-puts-future-events-on-hold
-2026/06/12 15:47:51 Skipping writing post, no content: https://www.hltv.org/news/44859/on-the-ground-at-iem-cologne-major-stage-3
-2026/06/12 15:47:51 Templated 55 posts, took 8.940351ms
+2026/06/12 17:54:47 Fetched posts from https://vlr.gg/rss, took 813.360628ms
+2026/06/12 17:54:48 Content still empty after HTML reader: https://www.hltv.org/news/44875/sidde-we-are-working-on-letting-go-of-things-that-go-wrong-in-our-games
+2026/06/12 17:54:48 Content still empty after HTML reader: https://www.hltv.org/news/44829/short-news-week-23
+2026/06/12 17:54:48 Content still empty after HTML reader: https://www.hltv.org/news/44873/alliance-announce-bobeksde-to-replace-mail09
+2026/06/12 17:54:48 Content still empty after HTML reader: https://www.hltv.org/news/44872/antyvirus-banned-by-akros-for-competitive-integrity-violation
+2026/06/12 17:54:48 Content still empty after HTML reader: https://www.hltv.org/news/44871/the-mongolz-send-b8-to-0-2-pool
+2026/06/12 17:54:48 Fetched posts from https://www.hltv.org/rss/news, took 1.641310652s
+2026/06/12 17:54:53 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 6.601432549s
+2026/06/12 17:55:46 Get "https://www.bbc.com/vietnamese/articles/cgmdvw0lvz4o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/06/12 17:55:46 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.000230614s
+2026/06/12 17:55:46 Skipping writing post, no content: https://www.hltv.org/news/44875/sidde-we-are-working-on-letting-go-of-things-that-go-wrong-in-our-games
+2026/06/12 17:55:46 Skipping writing post, no content: https://www.hltv.org/news/44829/short-news-week-23
+2026/06/12 17:55:46 Skipping writing post, no content: https://www.hltv.org/news/44873/alliance-announce-bobeksde-to-replace-mail09
+2026/06/12 17:55:46 Skipping writing post, no content: https://www.hltv.org/news/44872/antyvirus-banned-by-akros-for-competitive-integrity-violation
+2026/06/12 17:55:46 Skipping writing post, no content: https://www.hltv.org/news/44871/the-mongolz-send-b8-to-0-2-pool
+2026/06/12 17:55:46 Templated 52 posts, took 7.15085ms
