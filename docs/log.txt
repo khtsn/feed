@@ -1,16 +1,15 @@
-2026/06/15 00:11:40 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.235331672s
-2026/06/15 00:11:41 Content still empty after HTML reader: https://www.hltv.org/news/44829/short-news-week-23
-2026/06/15 00:11:41 Content still empty after HTML reader: https://www.hltv.org/news/44907/g2-outclass-legacy-to-survive-in-cologne
-2026/06/15 00:11:41 Content still empty after HTML reader: https://www.hltv.org/news/44904/sycrone-im-set-on-xertion-as-an-igl
-2026/06/15 00:11:41 Content still empty after HTML reader: https://www.hltv.org/news/44903/vitality-march-past-betboom-to-reach-playoffs
-2026/06/15 00:11:41 Content still empty after HTML reader: https://www.hltv.org/news/44902/woxic-1v4-fires-aurora-to-major-playoffs-over-9z
-2026/06/15 00:11:41 Fetched posts from https://www.hltv.org/rss/news, took 1.550348314s
-2026/06/15 00:11:41 Fetched posts from https://vlr.gg/rss, took 1.560095682s
-2026/06/15 00:12:39 Get "https://www.bbc.com/vietnamese/articles/ckg41dwpyjno?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/06/15 00:12:39 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004607211s
-2026/06/15 00:12:39 Skipping writing post, no content: https://www.hltv.org/news/44829/short-news-week-23
-2026/06/15 00:12:39 Skipping writing post, no content: https://www.hltv.org/news/44907/g2-outclass-legacy-to-survive-in-cologne
-2026/06/15 00:12:39 Skipping writing post, no content: https://www.hltv.org/news/44904/sycrone-im-set-on-xertion-as-an-igl
-2026/06/15 00:12:39 Skipping writing post, no content: https://www.hltv.org/news/44903/vitality-march-past-betboom-to-reach-playoffs
-2026/06/15 00:12:39 Skipping writing post, no content: https://www.hltv.org/news/44902/woxic-1v4-fires-aurora-to-major-playoffs-over-9z
-2026/06/15 00:12:39 Templated 47 posts, took 6.324461ms
+2026/06/15 05:28:08 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 678.935824ms
+2026/06/15 05:28:09 Fetched posts from https://vlr.gg/rss, took 1.552057289s
+2026/06/15 05:28:10 Content still empty after HTML reader: https://www.hltv.org/news/44829/short-news-week-23
+2026/06/15 05:28:10 Content still empty after HTML reader: https://www.hltv.org/news/44907/g2-outclass-legacy-to-survive-in-cologne
+2026/06/15 05:28:10 Content still empty after HTML reader: https://www.hltv.org/news/44904/sycrone-im-set-on-xertion-as-an-igl
+2026/06/15 05:28:10 Content still empty after HTML reader: https://www.hltv.org/news/44903/vitality-march-past-betboom-to-reach-playoffs
+2026/06/15 05:28:10 Content still empty after HTML reader: https://www.hltv.org/news/44902/woxic-1v4-fires-aurora-to-major-playoffs-over-9z
+2026/06/15 05:28:10 Fetched posts from https://www.hltv.org/rss/news, took 2.14565973s
+2026/06/15 05:29:07 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.881289349s
+2026/06/15 05:29:07 Skipping writing post, no content: https://www.hltv.org/news/44829/short-news-week-23
+2026/06/15 05:29:07 Skipping writing post, no content: https://www.hltv.org/news/44907/g2-outclass-legacy-to-survive-in-cologne
+2026/06/15 05:29:07 Skipping writing post, no content: https://www.hltv.org/news/44904/sycrone-im-set-on-xertion-as-an-igl
+2026/06/15 05:29:07 Skipping writing post, no content: https://www.hltv.org/news/44903/vitality-march-past-betboom-to-reach-playoffs
+2026/06/15 05:29:07 Skipping writing post, no content: https://www.hltv.org/news/44902/woxic-1v4-fires-aurora-to-major-playoffs-over-9z
+2026/06/15 05:29:07 Templated 43 posts, took 3.912773ms
