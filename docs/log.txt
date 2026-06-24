@@ -1,16 +1,16 @@
-2026/06/24 11:13:56 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.184889985s
-2026/06/24 11:13:57 Fetched posts from https://vlr.gg/rss, took 1.63160147s
-2026/06/24 11:13:58 Content still empty after HTML reader: https://www.hltv.org/news/44995/bcgame-secure-permanent-senzu-signing
-2026/06/24 11:13:58 Content still empty after HTML reader: https://www.hltv.org/news/44992/gentle-mates-in-negotiations-to-sell-roster-set-to-leave-counter-strike
-2026/06/24 11:13:58 Content still empty after HTML reader: https://www.hltv.org/news/44994/fnatic-make-jackasmos-loan-permanent
-2026/06/24 11:13:58 Content still empty after HTML reader: https://www.hltv.org/news/44993/nemiga-replace-9z-at-bounty-s2
-2026/06/24 11:13:58 Content still empty after HTML reader: https://www.hltv.org/news/44991/hltv-confirmed-nikos-major-cologne-in-retrospect-roster-watch
-2026/06/24 11:13:58 Fetched posts from https://www.hltv.org/rss/news, took 2.336234772s
-2026/06/24 11:14:55 Get "https://www.bbc.com/vietnamese/articles/ckg5lnvvgkno?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/06/24 11:14:55 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004300109s
-2026/06/24 11:14:55 Skipping writing post, no content: https://www.hltv.org/news/44995/bcgame-secure-permanent-senzu-signing
-2026/06/24 11:14:55 Skipping writing post, no content: https://www.hltv.org/news/44992/gentle-mates-in-negotiations-to-sell-roster-set-to-leave-counter-strike
-2026/06/24 11:14:55 Skipping writing post, no content: https://www.hltv.org/news/44994/fnatic-make-jackasmos-loan-permanent
-2026/06/24 11:14:55 Skipping writing post, no content: https://www.hltv.org/news/44993/nemiga-replace-9z-at-bounty-s2
-2026/06/24 11:14:55 Skipping writing post, no content: https://www.hltv.org/news/44991/hltv-confirmed-nikos-major-cologne-in-retrospect-roster-watch
-2026/06/24 11:14:55 Templated 56 posts, took 6.755804ms
+2026/06/24 13:29:50 Fetched posts from https://vlr.gg/rss, took 726.018516ms
+2026/06/24 13:29:51 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.560027715s
+2026/06/24 13:29:51 Content still empty after HTML reader: https://www.hltv.org/news/44996/media-insani-to-remain-with-mibr
+2026/06/24 13:29:51 Content still empty after HTML reader: https://www.hltv.org/news/44995/bcgame-secure-permanent-senzu-signing
+2026/06/24 13:29:51 Content still empty after HTML reader: https://www.hltv.org/news/44992/gentle-mates-in-negotiations-to-sell-roster-set-to-leave-counter-strike
+2026/06/24 13:29:51 Content still empty after HTML reader: https://www.hltv.org/news/44994/fnatic-make-jackasmos-loan-permanent
+2026/06/24 13:29:51 Content still empty after HTML reader: https://www.hltv.org/news/44993/nemiga-replace-9z-at-bounty-s2
+2026/06/24 13:29:51 Fetched posts from https://www.hltv.org/rss/news, took 1.588407305s
+2026/06/24 13:30:49 Get "https://www.bbc.com/vietnamese/articles/ckg5lnvvgkno?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/06/24 13:30:49 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.000205714s
+2026/06/24 13:30:49 Skipping writing post, no content: https://www.hltv.org/news/44996/media-insani-to-remain-with-mibr
+2026/06/24 13:30:49 Skipping writing post, no content: https://www.hltv.org/news/44995/bcgame-secure-permanent-senzu-signing
+2026/06/24 13:30:49 Skipping writing post, no content: https://www.hltv.org/news/44992/gentle-mates-in-negotiations-to-sell-roster-set-to-leave-counter-strike
+2026/06/24 13:30:49 Skipping writing post, no content: https://www.hltv.org/news/44994/fnatic-make-jackasmos-loan-permanent
+2026/06/24 13:30:49 Skipping writing post, no content: https://www.hltv.org/news/44993/nemiga-replace-9z-at-bounty-s2
+2026/06/24 13:30:49 Templated 53 posts, took 6.569324ms
