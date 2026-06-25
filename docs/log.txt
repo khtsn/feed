@@ -1,15 +1,16 @@
-2026/06/25 17:03:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.193769668s
-2026/06/25 17:03:32 Fetched posts from https://vlr.gg/rss, took 1.255026009s
-2026/06/25 17:03:33 Content still empty after HTML reader: https://www.hltv.org/news/45003/gamerlegion-suffer-last-place-exit-at-super-draculan
-2026/06/25 17:03:33 Content still empty after HTML reader: https://www.hltv.org/news/45001/kursy-joins-3dmax-as-rifler
-2026/06/25 17:03:33 Content still empty after HTML reader: https://www.hltv.org/news/44999/g2-seek-loan-offers-for-tak
-2026/06/25 17:03:33 Content still empty after HTML reader: https://www.hltv.org/news/45000/3dmax-bench-ex3rcice
-2026/06/25 17:03:33 Content still empty after HTML reader: https://www.hltv.org/news/44988/paker-games-wins-fantasy-spring-2026-rickastley123-makes-third-top-10-placement
-2026/06/25 17:03:33 Fetched posts from https://www.hltv.org/rss/news, took 1.688394652s
-2026/06/25 17:04:31 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.565864606s
-2026/06/25 17:04:31 Skipping writing post, no content: https://www.hltv.org/news/45003/gamerlegion-suffer-last-place-exit-at-super-draculan
-2026/06/25 17:04:31 Skipping writing post, no content: https://www.hltv.org/news/45001/kursy-joins-3dmax-as-rifler
-2026/06/25 17:04:31 Skipping writing post, no content: https://www.hltv.org/news/44999/g2-seek-loan-offers-for-tak
-2026/06/25 17:04:31 Skipping writing post, no content: https://www.hltv.org/news/45000/3dmax-bench-ex3rcice
-2026/06/25 17:04:31 Skipping writing post, no content: https://www.hltv.org/news/44988/paker-games-wins-fantasy-spring-2026-rickastley123-makes-third-top-10-placement
-2026/06/25 17:04:31 Templated 57 posts, took 9.54221ms
+2026/06/25 19:13:00 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.602084977s
+2026/06/25 19:13:01 Content still empty after HTML reader: https://www.hltv.org/news/45002/g2-bench-sunpayus
+2026/06/25 19:13:01 Content still empty after HTML reader: https://www.hltv.org/news/44989/the-evps-and-all-stars-of-iem-cologne-major-2026
+2026/06/25 19:13:01 Content still empty after HTML reader: https://www.hltv.org/news/45003/gamerlegion-suffer-last-place-exit-at-super-draculan
+2026/06/25 19:13:01 Content still empty after HTML reader: https://www.hltv.org/news/45001/kursy-joins-3dmax-as-rifler
+2026/06/25 19:13:01 Content still empty after HTML reader: https://www.hltv.org/news/44999/g2-seek-loan-offers-for-tak
+2026/06/25 19:13:01 Fetched posts from https://www.hltv.org/rss/news, took 2.081397508s
+2026/06/25 19:13:01 Fetched posts from https://vlr.gg/rss, took 2.223687192s
+2026/06/25 19:13:59 Get "https://www.bbc.com/vietnamese/articles/c3dyr970rvzo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/06/25 19:13:59 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003096201s
+2026/06/25 19:13:59 Skipping writing post, no content: https://www.hltv.org/news/45002/g2-bench-sunpayus
+2026/06/25 19:13:59 Skipping writing post, no content: https://www.hltv.org/news/44989/the-evps-and-all-stars-of-iem-cologne-major-2026
+2026/06/25 19:13:59 Skipping writing post, no content: https://www.hltv.org/news/45003/gamerlegion-suffer-last-place-exit-at-super-draculan
+2026/06/25 19:13:59 Skipping writing post, no content: https://www.hltv.org/news/45001/kursy-joins-3dmax-as-rifler
+2026/06/25 19:13:59 Skipping writing post, no content: https://www.hltv.org/news/44999/g2-seek-loan-offers-for-tak
+2026/06/25 19:13:59 Templated 61 posts, took 8.688765ms
