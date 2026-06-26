@@ -1,16 +1,15 @@
-2026/06/26 17:20:49 Fetched posts from https://vlr.gg/rss, took 1.522260521s
-2026/06/26 17:20:49 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.74960122s
-2026/06/26 17:20:50 Content still empty after HTML reader: https://www.hltv.org/news/45009/blast-confirm-cache-addition-at-upcoming-events-and-most-qualifiers
-2026/06/26 17:20:50 Content still empty after HTML reader: https://www.hltv.org/news/45008/faze-loan-jboen-for-remainder-of-2026
-2026/06/26 17:20:50 Content still empty after HTML reader: https://www.hltv.org/news/45007/faze-bench-broky
-2026/06/26 17:20:50 Content still empty after HTML reader: https://www.hltv.org/news/45005/media-mibr-set-to-land-nqz
-2026/06/26 17:20:50 Content still empty after HTML reader: https://www.hltv.org/news/45004/g2-complete-r1nkle-signing
-2026/06/26 17:20:50 Fetched posts from https://www.hltv.org/rss/news, took 2.22302238s
-2026/06/26 17:21:48 Get "https://www.bbc.com/vietnamese/articles/czrxp1mvlzlo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/06/26 17:21:48 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004012456s
-2026/06/26 17:21:48 Skipping writing post, no content: https://www.hltv.org/news/45009/blast-confirm-cache-addition-at-upcoming-events-and-most-qualifiers
-2026/06/26 17:21:48 Skipping writing post, no content: https://www.hltv.org/news/45008/faze-loan-jboen-for-remainder-of-2026
-2026/06/26 17:21:48 Skipping writing post, no content: https://www.hltv.org/news/45007/faze-bench-broky
-2026/06/26 17:21:48 Skipping writing post, no content: https://www.hltv.org/news/45005/media-mibr-set-to-land-nqz
-2026/06/26 17:21:48 Skipping writing post, no content: https://www.hltv.org/news/45004/g2-complete-r1nkle-signing
-2026/06/26 17:21:48 Templated 58 posts, took 9.063721ms
+2026/06/26 19:12:45 Fetched posts from https://vlr.gg/rss, took 796.115009ms
+2026/06/26 19:12:46 Content still empty after HTML reader: https://www.hltv.org/news/45009/blast-confirm-cache-addition-at-upcoming-events-and-most-qualifiers
+2026/06/26 19:12:46 Content still empty after HTML reader: https://www.hltv.org/news/45008/faze-loan-jboen-for-remainder-of-2026
+2026/06/26 19:12:46 Content still empty after HTML reader: https://www.hltv.org/news/45007/faze-bench-broky
+2026/06/26 19:12:46 Content still empty after HTML reader: https://www.hltv.org/news/45005/media-mibr-set-to-land-nqz
+2026/06/26 19:12:46 Content still empty after HTML reader: https://www.hltv.org/news/45004/g2-complete-r1nkle-signing
+2026/06/26 19:12:46 Fetched posts from https://www.hltv.org/rss/news, took 1.369071763s
+2026/06/26 19:12:48 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 3.435389373s
+2026/06/26 19:13:44 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.342450278s
+2026/06/26 19:13:44 Skipping writing post, no content: https://www.hltv.org/news/45009/blast-confirm-cache-addition-at-upcoming-events-and-most-qualifiers
+2026/06/26 19:13:44 Skipping writing post, no content: https://www.hltv.org/news/45008/faze-loan-jboen-for-remainder-of-2026
+2026/06/26 19:13:44 Skipping writing post, no content: https://www.hltv.org/news/45007/faze-bench-broky
+2026/06/26 19:13:44 Skipping writing post, no content: https://www.hltv.org/news/45005/media-mibr-set-to-land-nqz
+2026/06/26 19:13:44 Skipping writing post, no content: https://www.hltv.org/news/45004/g2-complete-r1nkle-signing
+2026/06/26 19:13:44 Templated 56 posts, took 7.693549ms
