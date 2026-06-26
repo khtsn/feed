@@ -1,16 +1,15 @@
-2026/06/26 11:13:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.057802247s
-2026/06/26 11:13:20 Fetched posts from https://vlr.gg/rss, took 2.208275274s
-2026/06/26 11:13:21 Content still empty after HTML reader: https://www.hltv.org/news/45004/g2-complete-r1nkle-signing
-2026/06/26 11:13:21 Content still empty after HTML reader: https://www.hltv.org/news/45002/g2-bench-sunpayus
-2026/06/26 11:13:21 Content still empty after HTML reader: https://www.hltv.org/news/44989/the-evps-and-all-stars-of-iem-cologne-major-2026
-2026/06/26 11:13:21 Content still empty after HTML reader: https://www.hltv.org/news/45003/gamerlegion-suffer-last-place-exit-at-super-draculan
-2026/06/26 11:13:21 Content still empty after HTML reader: https://www.hltv.org/news/45001/kursy-joins-3dmax-as-rifler
-2026/06/26 11:13:21 Fetched posts from https://www.hltv.org/rss/news, took 2.440552998s
-2026/06/26 11:14:18 Get "https://www.bbc.com/vietnamese/articles/czrxp1mvlzlo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/06/26 11:14:18 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004171167s
-2026/06/26 11:14:18 Skipping writing post, no content: https://www.hltv.org/news/45004/g2-complete-r1nkle-signing
-2026/06/26 11:14:18 Skipping writing post, no content: https://www.hltv.org/news/45002/g2-bench-sunpayus
-2026/06/26 11:14:18 Skipping writing post, no content: https://www.hltv.org/news/44989/the-evps-and-all-stars-of-iem-cologne-major-2026
-2026/06/26 11:14:18 Skipping writing post, no content: https://www.hltv.org/news/45003/gamerlegion-suffer-last-place-exit-at-super-draculan
-2026/06/26 11:14:18 Skipping writing post, no content: https://www.hltv.org/news/45001/kursy-joins-3dmax-as-rifler
-2026/06/26 11:14:18 Templated 61 posts, took 8.167914ms
+2026/06/26 13:22:18 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.728675847s
+2026/06/26 13:22:18 Fetched posts from https://vlr.gg/rss, took 2.074910649s
+2026/06/26 13:22:19 Content still empty after HTML reader: https://www.hltv.org/news/45005/media-mibr-set-to-land-nqz
+2026/06/26 13:22:19 Content still empty after HTML reader: https://www.hltv.org/news/45004/g2-complete-r1nkle-signing
+2026/06/26 13:22:19 Content still empty after HTML reader: https://www.hltv.org/news/45002/g2-bench-sunpayus
+2026/06/26 13:22:19 Content still empty after HTML reader: https://www.hltv.org/news/44989/the-evps-and-all-stars-of-iem-cologne-major-2026
+2026/06/26 13:22:19 Content still empty after HTML reader: https://www.hltv.org/news/45003/gamerlegion-suffer-last-place-exit-at-super-draculan
+2026/06/26 13:22:19 Fetched posts from https://www.hltv.org/rss/news, took 3.137765347s
+2026/06/26 13:23:15 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.405097792s
+2026/06/26 13:23:15 Skipping writing post, no content: https://www.hltv.org/news/45005/media-mibr-set-to-land-nqz
+2026/06/26 13:23:15 Skipping writing post, no content: https://www.hltv.org/news/45004/g2-complete-r1nkle-signing
+2026/06/26 13:23:15 Skipping writing post, no content: https://www.hltv.org/news/45002/g2-bench-sunpayus
+2026/06/26 13:23:15 Skipping writing post, no content: https://www.hltv.org/news/44989/the-evps-and-all-stars-of-iem-cologne-major-2026
+2026/06/26 13:23:15 Skipping writing post, no content: https://www.hltv.org/news/45003/gamerlegion-suffer-last-place-exit-at-super-draculan
+2026/06/26 13:23:15 Templated 65 posts, took 7.950468ms
