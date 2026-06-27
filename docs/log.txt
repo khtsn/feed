@@ -1,16 +1,16 @@
-2026/06/27 18:47:07 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.09070867s
-2026/06/27 18:47:08 Fetched posts from https://vlr.gg/rss, took 1.15855664s
-2026/06/27 18:47:08 Content still empty after HTML reader: https://www.hltv.org/news/45012/kl1ms-loan-to-mibr-comes-to-an-end
-2026/06/27 18:47:08 Content still empty after HTML reader: https://www.hltv.org/news/45011/kvem-announces-free-agency
-2026/06/27 18:47:08 Content still empty after HTML reader: https://www.hltv.org/news/45009/blast-confirm-cache-addition-at-upcoming-events-and-most-qualifiers
-2026/06/27 18:47:08 Content still empty after HTML reader: https://www.hltv.org/news/45008/faze-loan-jboen-for-remainder-of-2026
-2026/06/27 18:47:08 Content still empty after HTML reader: https://www.hltv.org/news/45007/faze-bench-broky
-2026/06/27 18:47:08 Fetched posts from https://www.hltv.org/rss/news, took 1.55908455s
-2026/06/27 18:48:06 Get "https://www.bbc.com/vietnamese/articles/c39y7ldd3e1o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/06/27 18:48:06 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.000211428s
-2026/06/27 18:48:06 Skipping writing post, no content: https://www.hltv.org/news/45012/kl1ms-loan-to-mibr-comes-to-an-end
-2026/06/27 18:48:06 Skipping writing post, no content: https://www.hltv.org/news/45011/kvem-announces-free-agency
-2026/06/27 18:48:06 Skipping writing post, no content: https://www.hltv.org/news/45009/blast-confirm-cache-addition-at-upcoming-events-and-most-qualifiers
-2026/06/27 18:48:06 Skipping writing post, no content: https://www.hltv.org/news/45008/faze-loan-jboen-for-remainder-of-2026
-2026/06/27 18:48:06 Skipping writing post, no content: https://www.hltv.org/news/45007/faze-bench-broky
-2026/06/27 18:48:06 Templated 47 posts, took 6.970095ms
+2026/06/27 20:00:15 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.182365773s
+2026/06/27 20:00:16 Fetched posts from https://vlr.gg/rss, took 2.248301518s
+2026/06/27 20:00:16 Content still empty after HTML reader: https://www.hltv.org/news/45012/kl1ms-loan-to-mibr-comes-to-an-end
+2026/06/27 20:00:16 Content still empty after HTML reader: https://www.hltv.org/news/45011/kvem-announces-free-agency
+2026/06/27 20:00:16 Content still empty after HTML reader: https://www.hltv.org/news/45009/blast-confirm-cache-addition-at-upcoming-events-and-most-qualifiers
+2026/06/27 20:00:16 Content still empty after HTML reader: https://www.hltv.org/news/45008/faze-loan-jboen-for-remainder-of-2026
+2026/06/27 20:00:16 Content still empty after HTML reader: https://www.hltv.org/news/45007/faze-bench-broky
+2026/06/27 20:00:16 Fetched posts from https://www.hltv.org/rss/news, took 2.714533287s
+2026/06/27 20:01:13 Get "https://www.bbc.com/vietnamese/articles/c39y7ldd3e1o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/06/27 20:01:13 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.000819457s
+2026/06/27 20:01:13 Skipping writing post, no content: https://www.hltv.org/news/45012/kl1ms-loan-to-mibr-comes-to-an-end
+2026/06/27 20:01:13 Skipping writing post, no content: https://www.hltv.org/news/45011/kvem-announces-free-agency
+2026/06/27 20:01:13 Skipping writing post, no content: https://www.hltv.org/news/45009/blast-confirm-cache-addition-at-upcoming-events-and-most-qualifiers
+2026/06/27 20:01:13 Skipping writing post, no content: https://www.hltv.org/news/45008/faze-loan-jboen-for-remainder-of-2026
+2026/06/27 20:01:13 Skipping writing post, no content: https://www.hltv.org/news/45007/faze-bench-broky
+2026/06/27 20:01:13 Templated 45 posts, took 6.724227ms
