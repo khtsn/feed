@@ -1,14 +1,15 @@
-2026/06/29 03:26:00 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.182687493s
-2026/06/29 03:26:00 Fetched posts from https://vlr.gg/rss, took 1.323787706s
-2026/06/29 03:26:00 Content still empty after HTML reader: https://www.hltv.org/news/45013/mibr-confirm-nqz-signing
-2026/06/29 03:26:00 Content still empty after HTML reader: https://www.hltv.org/news/45012/kl1ms-loan-to-mibr-comes-to-an-end
-2026/06/29 03:26:00 Content still empty after HTML reader: https://www.hltv.org/news/45011/kvem-announces-free-agency
-2026/06/29 03:26:00 Content still empty after HTML reader: https://www.hltv.org/news/45009/blast-confirm-cache-addition-at-upcoming-events-and-most-qualifiers
-2026/06/29 03:26:00 Fetched posts from https://www.hltv.org/rss/news, took 1.922209941s
-2026/06/29 03:26:58 Get "https://www.bbc.com/vietnamese/articles/clyezrjn6p1o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/06/29 03:26:58 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.00380131s
-2026/06/29 03:26:58 Skipping writing post, no content: https://www.hltv.org/news/45013/mibr-confirm-nqz-signing
-2026/06/29 03:26:58 Skipping writing post, no content: https://www.hltv.org/news/45012/kl1ms-loan-to-mibr-comes-to-an-end
-2026/06/29 03:26:58 Skipping writing post, no content: https://www.hltv.org/news/45011/kvem-announces-free-agency
-2026/06/29 03:26:58 Skipping writing post, no content: https://www.hltv.org/news/45009/blast-confirm-cache-addition-at-upcoming-events-and-most-qualifiers
-2026/06/29 03:26:58 Templated 48 posts, took 8.559438ms
+2026/06/29 08:31:43 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 767.517395ms
+2026/06/29 08:31:43 Fetched posts from https://vlr.gg/rss, took 1.326937353s
+2026/06/29 08:31:44 Content still empty after HTML reader: https://www.hltv.org/news/45014/super-draculan-semi-finals-set
+2026/06/29 08:31:44 Content still empty after HTML reader: https://www.hltv.org/news/45013/mibr-confirm-nqz-signing
+2026/06/29 08:31:44 Content still empty after HTML reader: https://www.hltv.org/news/45012/kl1ms-loan-to-mibr-comes-to-an-end
+2026/06/29 08:31:44 Content still empty after HTML reader: https://www.hltv.org/news/45011/kvem-announces-free-agency
+2026/06/29 08:31:44 Content still empty after HTML reader: https://www.hltv.org/news/45009/blast-confirm-cache-addition-at-upcoming-events-and-most-qualifiers
+2026/06/29 08:31:44 Fetched posts from https://www.hltv.org/rss/news, took 1.621752547s
+2026/06/29 08:32:42 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.808142628s
+2026/06/29 08:32:42 Skipping writing post, no content: https://www.hltv.org/news/45014/super-draculan-semi-finals-set
+2026/06/29 08:32:42 Skipping writing post, no content: https://www.hltv.org/news/45013/mibr-confirm-nqz-signing
+2026/06/29 08:32:42 Skipping writing post, no content: https://www.hltv.org/news/45012/kl1ms-loan-to-mibr-comes-to-an-end
+2026/06/29 08:32:42 Skipping writing post, no content: https://www.hltv.org/news/45011/kvem-announces-free-agency
+2026/06/29 08:32:42 Skipping writing post, no content: https://www.hltv.org/news/45009/blast-confirm-cache-addition-at-upcoming-events-and-most-qualifiers
+2026/06/29 08:32:42 Templated 49 posts, took 5.958719ms
