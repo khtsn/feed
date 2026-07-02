@@ -1,14 +1,15 @@
-2026/07/02 12:26:49 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.162476842s
-2026/07/02 12:26:50 Content still empty after HTML reader: https://www.hltv.org/news/45043/fames-k27-loan-ends
-2026/07/02 12:26:50 Content still empty after HTML reader: https://www.hltv.org/news/45019/short-news-week-26
-2026/07/02 12:26:50 Content still empty after HTML reader: https://www.hltv.org/news/45042/official-gizmy-takes-over-as-100-thieves-igl
-2026/07/02 12:26:50 Content still empty after HTML reader: https://www.hltv.org/news/45040/fnatic-sign-cairne
-2026/07/02 12:26:50 Fetched posts from https://www.hltv.org/rss/news, took 1.471545677s
-2026/07/02 12:26:50 Fetched posts from https://vlr.gg/rss, took 1.671032655s
-2026/07/02 12:27:48 Get "https://www.bbc.com/vietnamese/articles/cn4d218e8zzo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/07/02 12:27:48 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004523426s
-2026/07/02 12:27:48 Skipping writing post, no content: https://www.hltv.org/news/45043/fames-k27-loan-ends
-2026/07/02 12:27:48 Skipping writing post, no content: https://www.hltv.org/news/45019/short-news-week-26
-2026/07/02 12:27:48 Skipping writing post, no content: https://www.hltv.org/news/45042/official-gizmy-takes-over-as-100-thieves-igl
-2026/07/02 12:27:48 Skipping writing post, no content: https://www.hltv.org/news/45040/fnatic-sign-cairne
-2026/07/02 12:27:48 Templated 58 posts, took 7.835691ms
+2026/07/02 14:40:25 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.223706733s
+2026/07/02 14:40:25 Content still empty after HTML reader: https://www.hltv.org/news/45045/eternal-fire-part-ways-with-demqq-rigon
+2026/07/02 14:40:25 Content still empty after HTML reader: https://www.hltv.org/news/45044/tech-issues-plague-xse-pro-league-guangzhou-day-one-as-faze-drop-to-0-1-pool
+2026/07/02 14:40:25 Content still empty after HTML reader: https://www.hltv.org/news/45043/fames-k27-loan-ends
+2026/07/02 14:40:25 Content still empty after HTML reader: https://www.hltv.org/news/45042/official-gizmy-takes-over-as-100-thieves-igl
+2026/07/02 14:40:25 Content still empty after HTML reader: https://www.hltv.org/news/45041/iem-to-return-to-brazil-in-2027
+2026/07/02 14:40:25 Fetched posts from https://www.hltv.org/rss/news, took 1.812128231s
+2026/07/02 14:40:26 Fetched posts from https://vlr.gg/rss, took 2.837143877s
+2026/07/02 14:41:23 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.375515724s
+2026/07/02 14:41:23 Skipping writing post, no content: https://www.hltv.org/news/45045/eternal-fire-part-ways-with-demqq-rigon
+2026/07/02 14:41:23 Skipping writing post, no content: https://www.hltv.org/news/45044/tech-issues-plague-xse-pro-league-guangzhou-day-one-as-faze-drop-to-0-1-pool
+2026/07/02 14:41:23 Skipping writing post, no content: https://www.hltv.org/news/45043/fames-k27-loan-ends
+2026/07/02 14:41:23 Skipping writing post, no content: https://www.hltv.org/news/45042/official-gizmy-takes-over-as-100-thieves-igl
+2026/07/02 14:41:23 Skipping writing post, no content: https://www.hltv.org/news/45041/iem-to-return-to-brazil-in-2027
+2026/07/02 14:41:23 Templated 57 posts, took 9.10617ms
