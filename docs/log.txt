@@ -1,16 +1,14 @@
-2026/07/02 10:23:57 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 820.565145ms
-2026/07/02 10:23:58 Content still empty after HTML reader: https://www.hltv.org/news/45019/short-news-week-26
-2026/07/02 10:23:58 Content still empty after HTML reader: https://www.hltv.org/news/45042/official-gizmy-takes-over-as-100-thieves-igl
-2026/07/02 10:23:58 Content still empty after HTML reader: https://www.hltv.org/news/45041/iem-to-return-to-brazil-in-2027
-2026/07/02 10:23:58 Content still empty after HTML reader: https://www.hltv.org/news/45040/fnatic-sign-cairne
-2026/07/02 10:23:58 Content still empty after HTML reader: https://www.hltv.org/news/45039/100000-logitech-g-connect-lan-announced-in-warsaw
-2026/07/02 10:23:58 Fetched posts from https://www.hltv.org/rss/news, took 1.071965986s
-2026/07/02 10:23:58 Fetched posts from https://vlr.gg/rss, took 1.188361088s
-2026/07/02 10:24:57 Get "https://www.bbc.com/vietnamese/articles/ce37e3vjw8do?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/07/02 10:24:57 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004334115s
-2026/07/02 10:24:57 Skipping writing post, no content: https://www.hltv.org/news/45019/short-news-week-26
-2026/07/02 10:24:57 Skipping writing post, no content: https://www.hltv.org/news/45042/official-gizmy-takes-over-as-100-thieves-igl
-2026/07/02 10:24:57 Skipping writing post, no content: https://www.hltv.org/news/45041/iem-to-return-to-brazil-in-2027
-2026/07/02 10:24:57 Skipping writing post, no content: https://www.hltv.org/news/45040/fnatic-sign-cairne
-2026/07/02 10:24:57 Skipping writing post, no content: https://www.hltv.org/news/45039/100000-logitech-g-connect-lan-announced-in-warsaw
-2026/07/02 10:24:57 Templated 57 posts, took 8.322905ms
+2026/07/02 12:26:49 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.162476842s
+2026/07/02 12:26:50 Content still empty after HTML reader: https://www.hltv.org/news/45043/fames-k27-loan-ends
+2026/07/02 12:26:50 Content still empty after HTML reader: https://www.hltv.org/news/45019/short-news-week-26
+2026/07/02 12:26:50 Content still empty after HTML reader: https://www.hltv.org/news/45042/official-gizmy-takes-over-as-100-thieves-igl
+2026/07/02 12:26:50 Content still empty after HTML reader: https://www.hltv.org/news/45040/fnatic-sign-cairne
+2026/07/02 12:26:50 Fetched posts from https://www.hltv.org/rss/news, took 1.471545677s
+2026/07/02 12:26:50 Fetched posts from https://vlr.gg/rss, took 1.671032655s
+2026/07/02 12:27:48 Get "https://www.bbc.com/vietnamese/articles/cn4d218e8zzo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/02 12:27:48 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004523426s
+2026/07/02 12:27:48 Skipping writing post, no content: https://www.hltv.org/news/45043/fames-k27-loan-ends
+2026/07/02 12:27:48 Skipping writing post, no content: https://www.hltv.org/news/45019/short-news-week-26
+2026/07/02 12:27:48 Skipping writing post, no content: https://www.hltv.org/news/45042/official-gizmy-takes-over-as-100-thieves-igl
+2026/07/02 12:27:48 Skipping writing post, no content: https://www.hltv.org/news/45040/fnatic-sign-cairne
+2026/07/02 12:27:48 Templated 58 posts, took 7.835691ms
