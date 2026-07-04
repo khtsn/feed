@@ -1,15 +1,16 @@
-2026/07/04 05:25:56 Fetched posts from https://vlr.gg/rss, took 955.432347ms
-2026/07/04 05:25:57 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 996.55107ms
-2026/07/04 05:25:57 Content still empty after HTML reader: https://www.hltv.org/news/45054/aurora-sign-ash
-2026/07/04 05:25:57 Content still empty after HTML reader: https://www.hltv.org/news/45056/nicoodoz-joins-phantom
-2026/07/04 05:25:57 Content still empty after HTML reader: https://www.hltv.org/news/45055/9ine-finalize-roster-with-b1elany
-2026/07/04 05:25:57 Content still empty after HTML reader: https://www.hltv.org/news/45053/k27-sign-clax-from-sangal
-2026/07/04 05:25:57 Content still empty after HTML reader: https://www.hltv.org/news/45052/nip-and-faze-on-brink-of-early-elimination-after-xse-pro-league-day-two
-2026/07/04 05:25:57 Fetched posts from https://www.hltv.org/rss/news, took 1.423402298s
-2026/07/04 05:26:55 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.873254971s
-2026/07/04 05:26:55 Skipping writing post, no content: https://www.hltv.org/news/45054/aurora-sign-ash
-2026/07/04 05:26:55 Skipping writing post, no content: https://www.hltv.org/news/45056/nicoodoz-joins-phantom
-2026/07/04 05:26:55 Skipping writing post, no content: https://www.hltv.org/news/45055/9ine-finalize-roster-with-b1elany
-2026/07/04 05:26:55 Skipping writing post, no content: https://www.hltv.org/news/45053/k27-sign-clax-from-sangal
-2026/07/04 05:26:55 Skipping writing post, no content: https://www.hltv.org/news/45052/nip-and-faze-on-brink-of-early-elimination-after-xse-pro-league-day-two
-2026/07/04 05:26:55 Templated 50 posts, took 7.764031ms
+2026/07/04 08:10:31 Fetched posts from https://vlr.gg/rss, took 1.09444502s
+2026/07/04 08:10:31 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.159599135s
+2026/07/04 08:10:31 Content still empty after HTML reader: https://www.hltv.org/news/45054/aurora-sign-ash
+2026/07/04 08:10:31 Content still empty after HTML reader: https://www.hltv.org/news/45056/nicoodoz-joins-phantom
+2026/07/04 08:10:31 Content still empty after HTML reader: https://www.hltv.org/news/45055/9ine-finalize-roster-with-b1elany
+2026/07/04 08:10:31 Content still empty after HTML reader: https://www.hltv.org/news/45053/k27-sign-clax-from-sangal
+2026/07/04 08:10:31 Content still empty after HTML reader: https://www.hltv.org/news/45052/nip-and-faze-on-brink-of-early-elimination-after-xse-pro-league-day-two
+2026/07/04 08:10:31 Fetched posts from https://www.hltv.org/rss/news, took 1.597564963s
+2026/07/04 08:11:30 Get "https://www.bbc.com/vietnamese/articles/cpq3xpn427jo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/04 08:11:30 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004840688s
+2026/07/04 08:11:30 Skipping writing post, no content: https://www.hltv.org/news/45054/aurora-sign-ash
+2026/07/04 08:11:30 Skipping writing post, no content: https://www.hltv.org/news/45056/nicoodoz-joins-phantom
+2026/07/04 08:11:30 Skipping writing post, no content: https://www.hltv.org/news/45055/9ine-finalize-roster-with-b1elany
+2026/07/04 08:11:30 Skipping writing post, no content: https://www.hltv.org/news/45053/k27-sign-clax-from-sangal
+2026/07/04 08:11:30 Skipping writing post, no content: https://www.hltv.org/news/45052/nip-and-faze-on-brink-of-early-elimination-after-xse-pro-league-day-two
+2026/07/04 08:11:30 Templated 49 posts, took 6.814666ms
