@@ -1,15 +1,16 @@
-2026/07/05 16:47:48 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.247364488s
-2026/07/05 16:47:48 Fetched posts from https://vlr.gg/rss, took 1.602213248s
-2026/07/05 16:47:48 Content still empty after HTML reader: https://www.hltv.org/news/45059/eternal-fire-sign-kvem
-2026/07/05 16:47:49 Content still empty after HTML reader: https://www.hltv.org/news/45058/official-saw-unveil-new-roster
-2026/07/05 16:47:49 Content still empty after HTML reader: https://www.hltv.org/news/45057/jimpphat-signs-with-aurora
-2026/07/05 16:47:49 Content still empty after HTML reader: https://www.hltv.org/news/45054/aurora-sign-ash
-2026/07/05 16:47:49 Content still empty after HTML reader: https://www.hltv.org/news/45056/nicoodoz-joins-phantom
-2026/07/05 16:47:49 Fetched posts from https://www.hltv.org/rss/news, took 2.152762222s
-2026/07/05 16:48:46 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.855520006s
-2026/07/05 16:48:46 Skipping writing post, no content: https://www.hltv.org/news/45059/eternal-fire-sign-kvem
-2026/07/05 16:48:46 Skipping writing post, no content: https://www.hltv.org/news/45058/official-saw-unveil-new-roster
-2026/07/05 16:48:46 Skipping writing post, no content: https://www.hltv.org/news/45057/jimpphat-signs-with-aurora
-2026/07/05 16:48:46 Skipping writing post, no content: https://www.hltv.org/news/45054/aurora-sign-ash
-2026/07/05 16:48:46 Skipping writing post, no content: https://www.hltv.org/news/45056/nicoodoz-joins-phantom
-2026/07/05 16:48:46 Templated 45 posts, took 6.289254ms
+2026/07/05 17:50:59 Fetched posts from https://vlr.gg/rss, took 908.468566ms
+2026/07/05 17:51:00 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.096562432s
+2026/07/05 17:51:00 Content still empty after HTML reader: https://www.hltv.org/news/45059/eternal-fire-sign-kvem
+2026/07/05 17:51:00 Content still empty after HTML reader: https://www.hltv.org/news/45058/official-saw-unveil-new-roster
+2026/07/05 17:51:00 Content still empty after HTML reader: https://www.hltv.org/news/45057/jimpphat-signs-with-aurora
+2026/07/05 17:51:00 Content still empty after HTML reader: https://www.hltv.org/news/45054/aurora-sign-ash
+2026/07/05 17:51:00 Content still empty after HTML reader: https://www.hltv.org/news/45056/nicoodoz-joins-phantom
+2026/07/05 17:51:00 Fetched posts from https://www.hltv.org/rss/news, took 1.196345496s
+2026/07/05 17:51:59 Get "https://www.bbc.com/vietnamese/articles/c75ykg0w2kdo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/05 17:51:59 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004275974s
+2026/07/05 17:51:59 Skipping writing post, no content: https://www.hltv.org/news/45059/eternal-fire-sign-kvem
+2026/07/05 17:51:59 Skipping writing post, no content: https://www.hltv.org/news/45058/official-saw-unveil-new-roster
+2026/07/05 17:51:59 Skipping writing post, no content: https://www.hltv.org/news/45057/jimpphat-signs-with-aurora
+2026/07/05 17:51:59 Skipping writing post, no content: https://www.hltv.org/news/45054/aurora-sign-ash
+2026/07/05 17:51:59 Skipping writing post, no content: https://www.hltv.org/news/45056/nicoodoz-joins-phantom
+2026/07/05 17:51:59 Templated 43 posts, took 6.63675ms
