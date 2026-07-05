@@ -1,15 +1,16 @@
-2026/07/05 12:52:55 Fetched posts from https://vlr.gg/rss, took 708.244948ms
-2026/07/05 12:52:55 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 864.427088ms
-2026/07/05 12:52:56 Content still empty after HTML reader: https://www.hltv.org/news/45058/official-saw-unveil-new-roster
-2026/07/05 12:52:56 Content still empty after HTML reader: https://www.hltv.org/news/45057/jimpphat-signs-with-aurora
-2026/07/05 12:52:56 Content still empty after HTML reader: https://www.hltv.org/news/45054/aurora-sign-ash
-2026/07/05 12:52:56 Content still empty after HTML reader: https://www.hltv.org/news/45056/nicoodoz-joins-phantom
-2026/07/05 12:52:56 Content still empty after HTML reader: https://www.hltv.org/news/45055/9ine-finalize-roster-with-b1elany
-2026/07/05 12:52:56 Fetched posts from https://www.hltv.org/rss/news, took 1.278663165s
-2026/07/05 12:53:54 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.747956057s
-2026/07/05 12:53:54 Skipping writing post, no content: https://www.hltv.org/news/45058/official-saw-unveil-new-roster
-2026/07/05 12:53:54 Skipping writing post, no content: https://www.hltv.org/news/45057/jimpphat-signs-with-aurora
-2026/07/05 12:53:54 Skipping writing post, no content: https://www.hltv.org/news/45054/aurora-sign-ash
-2026/07/05 12:53:54 Skipping writing post, no content: https://www.hltv.org/news/45056/nicoodoz-joins-phantom
-2026/07/05 12:53:54 Skipping writing post, no content: https://www.hltv.org/news/45055/9ine-finalize-roster-with-b1elany
-2026/07/05 12:53:54 Templated 44 posts, took 5.286404ms
+2026/07/05 14:26:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 729.576929ms
+2026/07/05 14:26:32 Fetched posts from https://vlr.gg/rss, took 801.887064ms
+2026/07/05 14:26:33 Content still empty after HTML reader: https://www.hltv.org/news/45058/official-saw-unveil-new-roster
+2026/07/05 14:26:33 Content still empty after HTML reader: https://www.hltv.org/news/45057/jimpphat-signs-with-aurora
+2026/07/05 14:26:33 Content still empty after HTML reader: https://www.hltv.org/news/45054/aurora-sign-ash
+2026/07/05 14:26:33 Content still empty after HTML reader: https://www.hltv.org/news/45056/nicoodoz-joins-phantom
+2026/07/05 14:26:33 Content still empty after HTML reader: https://www.hltv.org/news/45055/9ine-finalize-roster-with-b1elany
+2026/07/05 14:26:33 Fetched posts from https://www.hltv.org/rss/news, took 1.401367086s
+2026/07/05 14:27:32 Get "https://www.bbc.com/vietnamese/articles/c75ykg0w2kdo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/05 14:27:32 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004479832s
+2026/07/05 14:27:32 Skipping writing post, no content: https://www.hltv.org/news/45058/official-saw-unveil-new-roster
+2026/07/05 14:27:32 Skipping writing post, no content: https://www.hltv.org/news/45057/jimpphat-signs-with-aurora
+2026/07/05 14:27:32 Skipping writing post, no content: https://www.hltv.org/news/45054/aurora-sign-ash
+2026/07/05 14:27:32 Skipping writing post, no content: https://www.hltv.org/news/45056/nicoodoz-joins-phantom
+2026/07/05 14:27:32 Skipping writing post, no content: https://www.hltv.org/news/45055/9ine-finalize-roster-with-b1elany
+2026/07/05 14:27:32 Templated 44 posts, took 8.102561ms
