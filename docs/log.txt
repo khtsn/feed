@@ -1,16 +1,15 @@
-2026/07/05 23:39:33 Fetched posts from https://vlr.gg/rss, took 582.287109ms
-2026/07/05 23:39:34 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.485681146s
-2026/07/05 23:39:34 Content still empty after HTML reader: https://www.hltv.org/news/45063/sources-br0-set-to-join-eternal-fire
-2026/07/05 23:39:34 Content still empty after HTML reader: https://www.hltv.org/news/45060/faze-and-nip-stave-off-elimination-as-xse-pro-league-day-three-ends
-2026/07/05 23:39:34 Content still empty after HTML reader: https://www.hltv.org/news/45059/eternal-fire-sign-kvem
-2026/07/05 23:39:34 Content still empty after HTML reader: https://www.hltv.org/news/45058/official-saw-unveil-new-roster
-2026/07/05 23:39:34 Content still empty after HTML reader: https://www.hltv.org/news/45057/jimpphat-signs-with-aurora
-2026/07/05 23:39:34 Fetched posts from https://www.hltv.org/rss/news, took 1.693551132s
-2026/07/05 23:40:32 Get "https://www.bbc.com/vietnamese/articles/c75ykg0w2kdo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/07/05 23:40:32 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004570218s
-2026/07/05 23:40:32 Skipping writing post, no content: https://www.hltv.org/news/45063/sources-br0-set-to-join-eternal-fire
-2026/07/05 23:40:32 Skipping writing post, no content: https://www.hltv.org/news/45060/faze-and-nip-stave-off-elimination-as-xse-pro-league-day-three-ends
-2026/07/05 23:40:32 Skipping writing post, no content: https://www.hltv.org/news/45059/eternal-fire-sign-kvem
-2026/07/05 23:40:32 Skipping writing post, no content: https://www.hltv.org/news/45058/official-saw-unveil-new-roster
-2026/07/05 23:40:32 Skipping writing post, no content: https://www.hltv.org/news/45057/jimpphat-signs-with-aurora
-2026/07/05 23:40:32 Templated 41 posts, took 6.986985ms
+2026/07/06 01:23:10 Fetched posts from https://vlr.gg/rss, took 585.436376ms
+2026/07/06 01:23:11 Content still empty after HTML reader: https://www.hltv.org/news/45063/sources-br0-set-to-join-eternal-fire
+2026/07/06 01:23:11 Content still empty after HTML reader: https://www.hltv.org/news/45060/faze-and-nip-stave-off-elimination-as-xse-pro-league-day-three-ends
+2026/07/06 01:23:11 Content still empty after HTML reader: https://www.hltv.org/news/45059/eternal-fire-sign-kvem
+2026/07/06 01:23:11 Content still empty after HTML reader: https://www.hltv.org/news/45058/official-saw-unveil-new-roster
+2026/07/06 01:23:11 Content still empty after HTML reader: https://www.hltv.org/news/45057/jimpphat-signs-with-aurora
+2026/07/06 01:23:11 Fetched posts from https://www.hltv.org/rss/news, took 1.266414261s
+2026/07/06 01:23:11 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.943724489s
+2026/07/06 01:24:09 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.899056413s
+2026/07/06 01:24:09 Skipping writing post, no content: https://www.hltv.org/news/45063/sources-br0-set-to-join-eternal-fire
+2026/07/06 01:24:09 Skipping writing post, no content: https://www.hltv.org/news/45060/faze-and-nip-stave-off-elimination-as-xse-pro-league-day-three-ends
+2026/07/06 01:24:09 Skipping writing post, no content: https://www.hltv.org/news/45059/eternal-fire-sign-kvem
+2026/07/06 01:24:09 Skipping writing post, no content: https://www.hltv.org/news/45058/official-saw-unveil-new-roster
+2026/07/06 01:24:09 Skipping writing post, no content: https://www.hltv.org/news/45057/jimpphat-signs-with-aurora
+2026/07/06 01:24:09 Templated 45 posts, took 7.174335ms
