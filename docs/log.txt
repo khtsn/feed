@@ -1,16 +1,15 @@
-2026/07/07 16:09:57 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.126167044s
-2026/07/07 16:09:57 Fetched posts from https://vlr.gg/rss, took 1.487182221s
-2026/07/07 16:09:58 Content still empty after HTML reader: https://www.hltv.org/news/45074/heroic-bench-xfl0ud
-2026/07/07 16:09:58 Content still empty after HTML reader: https://www.hltv.org/news/45073/official-fut-bench-launx
-2026/07/07 16:09:58 Content still empty after HTML reader: https://www.hltv.org/news/45069/short-news-week-27
-2026/07/07 16:09:58 Content still empty after HTML reader: https://www.hltv.org/news/45072/heroic-unveil-doto-as-new-head-coach
-2026/07/07 16:09:58 Content still empty after HTML reader: https://www.hltv.org/news/45071/phantom-bring-in-cej0t
-2026/07/07 16:09:58 Fetched posts from https://www.hltv.org/rss/news, took 2.502735013s
-2026/07/07 16:10:56 Get "https://www.bbc.com/vietnamese/articles/c75y9026gx7o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/07/07 16:10:56 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003962339s
-2026/07/07 16:10:56 Skipping writing post, no content: https://www.hltv.org/news/45074/heroic-bench-xfl0ud
-2026/07/07 16:10:56 Skipping writing post, no content: https://www.hltv.org/news/45073/official-fut-bench-launx
-2026/07/07 16:10:56 Skipping writing post, no content: https://www.hltv.org/news/45069/short-news-week-27
-2026/07/07 16:10:56 Skipping writing post, no content: https://www.hltv.org/news/45072/heroic-unveil-doto-as-new-head-coach
-2026/07/07 16:10:56 Skipping writing post, no content: https://www.hltv.org/news/45071/phantom-bring-in-cej0t
-2026/07/07 16:10:56 Templated 46 posts, took 6.15904ms
+2026/07/07 18:19:33 Fetched posts from https://vlr.gg/rss, took 848.242428ms
+2026/07/07 18:19:33 Content still empty after HTML reader: https://www.hltv.org/news/45075/heroic-down-to-three-as-yxngstxr-steps-down
+2026/07/07 18:19:33 Content still empty after HTML reader: https://www.hltv.org/news/45074/heroic-bench-xfl0ud
+2026/07/07 18:19:33 Content still empty after HTML reader: https://www.hltv.org/news/45073/official-fut-bench-launx
+2026/07/07 18:19:33 Content still empty after HTML reader: https://www.hltv.org/news/45069/short-news-week-27
+2026/07/07 18:19:33 Content still empty after HTML reader: https://www.hltv.org/news/45072/heroic-unveil-doto-as-new-head-coach
+2026/07/07 18:19:33 Fetched posts from https://www.hltv.org/rss/news, took 1.491652596s
+2026/07/07 18:19:33 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.648868367s
+2026/07/07 18:20:32 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.768386185s
+2026/07/07 18:20:32 Skipping writing post, no content: https://www.hltv.org/news/45075/heroic-down-to-three-as-yxngstxr-steps-down
+2026/07/07 18:20:32 Skipping writing post, no content: https://www.hltv.org/news/45074/heroic-bench-xfl0ud
+2026/07/07 18:20:32 Skipping writing post, no content: https://www.hltv.org/news/45073/official-fut-bench-launx
+2026/07/07 18:20:32 Skipping writing post, no content: https://www.hltv.org/news/45069/short-news-week-27
+2026/07/07 18:20:32 Skipping writing post, no content: https://www.hltv.org/news/45072/heroic-unveil-doto-as-new-head-coach
+2026/07/07 18:20:32 Templated 48 posts, took 6.88593ms
