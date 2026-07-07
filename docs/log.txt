@@ -1,16 +1,16 @@
-2026/07/07 21:46:59 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.230264357s
-2026/07/07 21:46:59 Fetched posts from https://vlr.gg/rss, took 1.507789007s
-2026/07/07 21:47:00 Content still empty after HTML reader: https://www.hltv.org/news/45076/brollan-departs-mouz
-2026/07/07 21:47:00 Content still empty after HTML reader: https://www.hltv.org/news/45075/heroic-down-to-three-as-yxngstxr-steps-down
-2026/07/07 21:47:00 Content still empty after HTML reader: https://www.hltv.org/news/45074/heroic-bench-xfl0ud
-2026/07/07 21:47:00 Content still empty after HTML reader: https://www.hltv.org/news/45073/official-fut-bench-launx
-2026/07/07 21:47:00 Content still empty after HTML reader: https://www.hltv.org/news/45069/short-news-week-27
-2026/07/07 21:47:00 Fetched posts from https://www.hltv.org/rss/news, took 1.856683618s
-2026/07/07 21:47:58 Get "https://www.bbc.com/vietnamese/articles/c75y9026gx7o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/07/07 21:47:58 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004297345s
-2026/07/07 21:47:58 Skipping writing post, no content: https://www.hltv.org/news/45076/brollan-departs-mouz
-2026/07/07 21:47:58 Skipping writing post, no content: https://www.hltv.org/news/45075/heroic-down-to-three-as-yxngstxr-steps-down
-2026/07/07 21:47:58 Skipping writing post, no content: https://www.hltv.org/news/45074/heroic-bench-xfl0ud
-2026/07/07 21:47:58 Skipping writing post, no content: https://www.hltv.org/news/45073/official-fut-bench-launx
-2026/07/07 21:47:58 Skipping writing post, no content: https://www.hltv.org/news/45069/short-news-week-27
-2026/07/07 21:47:58 Templated 51 posts, took 6.370275ms
+2026/07/07 22:46:06 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.142878393s
+2026/07/07 22:46:07 Fetched posts from https://vlr.gg/rss, took 1.529979901s
+2026/07/07 22:46:08 Content still empty after HTML reader: https://www.hltv.org/news/45076/brollan-departs-mouz
+2026/07/07 22:46:08 Content still empty after HTML reader: https://www.hltv.org/news/45075/heroic-down-to-three-as-yxngstxr-steps-down
+2026/07/07 22:46:08 Content still empty after HTML reader: https://www.hltv.org/news/45074/heroic-bench-xfl0ud
+2026/07/07 22:46:08 Content still empty after HTML reader: https://www.hltv.org/news/45073/official-fut-bench-launx
+2026/07/07 22:46:08 Content still empty after HTML reader: https://www.hltv.org/news/45069/short-news-week-27
+2026/07/07 22:46:08 Fetched posts from https://www.hltv.org/rss/news, took 3.122583846s
+2026/07/07 22:47:05 Get "https://www.bbc.com/vietnamese/articles/c75y9026gx7o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/07 22:47:05 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003938754s
+2026/07/07 22:47:05 Skipping writing post, no content: https://www.hltv.org/news/45076/brollan-departs-mouz
+2026/07/07 22:47:05 Skipping writing post, no content: https://www.hltv.org/news/45075/heroic-down-to-three-as-yxngstxr-steps-down
+2026/07/07 22:47:05 Skipping writing post, no content: https://www.hltv.org/news/45074/heroic-bench-xfl0ud
+2026/07/07 22:47:05 Skipping writing post, no content: https://www.hltv.org/news/45073/official-fut-bench-launx
+2026/07/07 22:47:05 Skipping writing post, no content: https://www.hltv.org/news/45069/short-news-week-27
+2026/07/07 22:47:05 Templated 53 posts, took 6.647737ms
