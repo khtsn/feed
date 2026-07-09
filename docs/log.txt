@@ -1,15 +1,16 @@
-2026/07/09 14:14:48 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.060190175s
-2026/07/09 14:14:49 Fetched posts from https://vlr.gg/rss, took 1.382132362s
-2026/07/09 14:14:50 Content still empty after HTML reader: https://www.hltv.org/news/45086/media-n1ssim-returns-to-legacys-starting-roster
-2026/07/09 14:14:50 Content still empty after HTML reader: https://www.hltv.org/news/45062/jimpphat-talks-mouz-departure-and-new-beginning-in-aurora
-2026/07/09 14:14:50 Content still empty after HTML reader: https://www.hltv.org/news/45085/sources-bcgame-set-sights-on-mzinho
-2026/07/09 14:14:50 Content still empty after HTML reader: https://www.hltv.org/news/45084/stake-ranked-episode-3-bracket-announced
-2026/07/09 14:14:50 Content still empty after HTML reader: https://www.hltv.org/news/45069/short-news-week-27
-2026/07/09 14:14:50 Fetched posts from https://www.hltv.org/rss/news, took 2.431410293s
-2026/07/09 14:15:47 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.459266782s
-2026/07/09 14:15:47 Skipping writing post, no content: https://www.hltv.org/news/45086/media-n1ssim-returns-to-legacys-starting-roster
-2026/07/09 14:15:47 Skipping writing post, no content: https://www.hltv.org/news/45062/jimpphat-talks-mouz-departure-and-new-beginning-in-aurora
-2026/07/09 14:15:47 Skipping writing post, no content: https://www.hltv.org/news/45085/sources-bcgame-set-sights-on-mzinho
-2026/07/09 14:15:47 Skipping writing post, no content: https://www.hltv.org/news/45084/stake-ranked-episode-3-bracket-announced
-2026/07/09 14:15:47 Skipping writing post, no content: https://www.hltv.org/news/45069/short-news-week-27
-2026/07/09 14:15:47 Templated 51 posts, took 6.502145ms
+2026/07/09 16:44:18 Fetched posts from https://vlr.gg/rss, took 598.406501ms
+2026/07/09 16:44:19 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.17806939s
+2026/07/09 16:44:19 Content still empty after HTML reader: https://www.hltv.org/news/45091/9z-beat-tyloo-to-reach-xse-pro-league-semis
+2026/07/09 16:44:19 Content still empty after HTML reader: https://www.hltv.org/news/45089/cybershoke-sign-alkaren-on-loan
+2026/07/09 16:44:19 Content still empty after HTML reader: https://www.hltv.org/news/45087/bomb-explosion-overhauled-in-new-update
+2026/07/09 16:44:19 Content still empty after HTML reader: https://www.hltv.org/news/45086/media-n1ssim-returns-to-legacys-starting-roster
+2026/07/09 16:44:19 Content still empty after HTML reader: https://www.hltv.org/news/45062/jimpphat-talks-mouz-departure-and-new-beginning-in-aurora
+2026/07/09 16:44:19 Fetched posts from https://www.hltv.org/rss/news, took 1.544171782s
+2026/07/09 16:45:18 Get "https://www.bbc.com/vietnamese/articles/c14y1815n3zo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/09 16:45:18 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003980459s
+2026/07/09 16:45:18 Skipping writing post, no content: https://www.hltv.org/news/45091/9z-beat-tyloo-to-reach-xse-pro-league-semis
+2026/07/09 16:45:18 Skipping writing post, no content: https://www.hltv.org/news/45089/cybershoke-sign-alkaren-on-loan
+2026/07/09 16:45:18 Skipping writing post, no content: https://www.hltv.org/news/45087/bomb-explosion-overhauled-in-new-update
+2026/07/09 16:45:18 Skipping writing post, no content: https://www.hltv.org/news/45086/media-n1ssim-returns-to-legacys-starting-roster
+2026/07/09 16:45:18 Skipping writing post, no content: https://www.hltv.org/news/45062/jimpphat-talks-mouz-departure-and-new-beginning-in-aurora
+2026/07/09 16:45:18 Templated 48 posts, took 6.020086ms
