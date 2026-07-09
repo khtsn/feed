@@ -1,16 +1,15 @@
-2026/07/09 05:17:13 Fetched posts from https://vlr.gg/rss, took 1.227424238s
-2026/07/09 05:17:13 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.250453804s
-2026/07/09 05:17:14 Content still empty after HTML reader: https://www.hltv.org/news/45069/short-news-week-27
-2026/07/09 05:17:14 Content still empty after HTML reader: https://www.hltv.org/news/45083/slaxejezzz-on-dastan-in-game-he-might-push-a-bit-but-in-life-hes-a-fun-guy-a-kind-one
-2026/07/09 05:17:14 Content still empty after HTML reader: https://www.hltv.org/news/45082/official-aurora-complete-rebuild-with-kyxsan
-2026/07/09 05:17:14 Content still empty after HTML reader: https://www.hltv.org/news/45081/johnny-speeds-bench-friberg-nawwk-and-lekr0
-2026/07/09 05:17:14 Content still empty after HTML reader: https://www.hltv.org/news/45080/imperial-bench-levi
-2026/07/09 05:17:14 Fetched posts from https://www.hltv.org/rss/news, took 2.504162961s
-2026/07/09 05:18:12 Get "https://www.bbc.com/vietnamese/articles/c75yyqrw14po?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/07/09 05:18:12 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003664572s
-2026/07/09 05:18:12 Skipping writing post, no content: https://www.hltv.org/news/45069/short-news-week-27
-2026/07/09 05:18:12 Skipping writing post, no content: https://www.hltv.org/news/45083/slaxejezzz-on-dastan-in-game-he-might-push-a-bit-but-in-life-hes-a-fun-guy-a-kind-one
-2026/07/09 05:18:12 Skipping writing post, no content: https://www.hltv.org/news/45082/official-aurora-complete-rebuild-with-kyxsan
-2026/07/09 05:18:12 Skipping writing post, no content: https://www.hltv.org/news/45081/johnny-speeds-bench-friberg-nawwk-and-lekr0
-2026/07/09 05:18:12 Skipping writing post, no content: https://www.hltv.org/news/45080/imperial-bench-levi
-2026/07/09 05:18:12 Templated 50 posts, took 4.800878ms
+2026/07/09 08:50:43 Fetched posts from https://vlr.gg/rss, took 633.452661ms
+2026/07/09 08:50:44 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.371528457s
+2026/07/09 08:50:44 Content still empty after HTML reader: https://www.hltv.org/news/45069/short-news-week-27
+2026/07/09 08:50:44 Content still empty after HTML reader: https://www.hltv.org/news/45083/slaxejezzz-on-dastan-in-game-he-might-push-a-bit-but-in-life-hes-a-fun-guy-a-kind-one
+2026/07/09 08:50:44 Content still empty after HTML reader: https://www.hltv.org/news/45082/official-aurora-complete-rebuild-with-kyxsan
+2026/07/09 08:50:44 Content still empty after HTML reader: https://www.hltv.org/news/45081/johnny-speeds-bench-friberg-nawwk-and-lekr0
+2026/07/09 08:50:44 Content still empty after HTML reader: https://www.hltv.org/news/45080/imperial-bench-levi
+2026/07/09 08:50:44 Fetched posts from https://www.hltv.org/rss/news, took 1.412757166s
+2026/07/09 08:51:43 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.71988058s
+2026/07/09 08:51:43 Skipping writing post, no content: https://www.hltv.org/news/45069/short-news-week-27
+2026/07/09 08:51:43 Skipping writing post, no content: https://www.hltv.org/news/45083/slaxejezzz-on-dastan-in-game-he-might-push-a-bit-but-in-life-hes-a-fun-guy-a-kind-one
+2026/07/09 08:51:43 Skipping writing post, no content: https://www.hltv.org/news/45082/official-aurora-complete-rebuild-with-kyxsan
+2026/07/09 08:51:43 Skipping writing post, no content: https://www.hltv.org/news/45081/johnny-speeds-bench-friberg-nawwk-and-lekr0
+2026/07/09 08:51:43 Skipping writing post, no content: https://www.hltv.org/news/45080/imperial-bench-levi
+2026/07/09 08:51:43 Templated 55 posts, took 7.468674ms
