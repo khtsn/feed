@@ -1,15 +1,16 @@
-2026/07/11 08:24:56 Fetched posts from https://vlr.gg/rss, took 772.717523ms
-2026/07/11 08:24:56 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.195905789s
-2026/07/11 08:24:57 Content still empty after HTML reader: https://www.hltv.org/news/45107/betclic-part-ways-with-bogdan
-2026/07/11 08:24:57 Content still empty after HTML reader: https://www.hltv.org/news/45106/mouz-nxt-sign-esx-and-mixer
-2026/07/11 08:24:57 Content still empty after HTML reader: https://www.hltv.org/news/45105/faze-breeze-past-betboom-to-reach-xse-pro-league-semi-finals
-2026/07/11 08:24:57 Content still empty after HTML reader: https://www.hltv.org/news/45104/mail09-returns-to-metizports-starting-roster
-2026/07/11 08:24:57 Content still empty after HTML reader: https://www.hltv.org/news/45103/faven-we-improved-a-bit-since-cologne
-2026/07/11 08:24:57 Fetched posts from https://www.hltv.org/rss/news, took 1.749289466s
-2026/07/11 08:25:54 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.457199482s
-2026/07/11 08:25:54 Skipping writing post, no content: https://www.hltv.org/news/45107/betclic-part-ways-with-bogdan
-2026/07/11 08:25:54 Skipping writing post, no content: https://www.hltv.org/news/45106/mouz-nxt-sign-esx-and-mixer
-2026/07/11 08:25:54 Skipping writing post, no content: https://www.hltv.org/news/45105/faze-breeze-past-betboom-to-reach-xse-pro-league-semi-finals
-2026/07/11 08:25:54 Skipping writing post, no content: https://www.hltv.org/news/45104/mail09-returns-to-metizports-starting-roster
-2026/07/11 08:25:54 Skipping writing post, no content: https://www.hltv.org/news/45103/faven-we-improved-a-bit-since-cologne
-2026/07/11 08:25:54 Templated 52 posts, took 8.333584ms
+2026/07/11 09:57:25 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.27872066s
+2026/07/11 09:57:26 Fetched posts from https://vlr.gg/rss, took 1.648652692s
+2026/07/11 09:57:26 Content still empty after HTML reader: https://www.hltv.org/news/45107/betclic-part-ways-with-bogdan
+2026/07/11 09:57:26 Content still empty after HTML reader: https://www.hltv.org/news/45106/mouz-nxt-sign-esx-and-mixer
+2026/07/11 09:57:26 Content still empty after HTML reader: https://www.hltv.org/news/45105/faze-breeze-past-betboom-to-reach-xse-pro-league-semi-finals
+2026/07/11 09:57:26 Content still empty after HTML reader: https://www.hltv.org/news/45104/mail09-returns-to-metizports-starting-roster
+2026/07/11 09:57:26 Content still empty after HTML reader: https://www.hltv.org/news/45103/faven-we-improved-a-bit-since-cologne
+2026/07/11 09:57:26 Fetched posts from https://www.hltv.org/rss/news, took 2.091771843s
+2026/07/11 09:58:24 Get "https://www.bbc.com/vietnamese/articles/cx2vg79y87lo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/11 09:58:24 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.00086353s
+2026/07/11 09:58:24 Skipping writing post, no content: https://www.hltv.org/news/45107/betclic-part-ways-with-bogdan
+2026/07/11 09:58:24 Skipping writing post, no content: https://www.hltv.org/news/45106/mouz-nxt-sign-esx-and-mixer
+2026/07/11 09:58:24 Skipping writing post, no content: https://www.hltv.org/news/45105/faze-breeze-past-betboom-to-reach-xse-pro-league-semi-finals
+2026/07/11 09:58:24 Skipping writing post, no content: https://www.hltv.org/news/45104/mail09-returns-to-metizports-starting-roster
+2026/07/11 09:58:24 Skipping writing post, no content: https://www.hltv.org/news/45103/faven-we-improved-a-bit-since-cologne
+2026/07/11 09:58:24 Templated 51 posts, took 8.128793ms
