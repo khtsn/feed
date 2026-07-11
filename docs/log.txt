@@ -1,15 +1,16 @@
-2026/07/11 17:36:27 Fetched posts from https://vlr.gg/rss, took 805.310031ms
-2026/07/11 17:36:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.096066254s
-2026/07/11 17:36:28 Content still empty after HTML reader: https://www.hltv.org/news/45109/saadzin-joins-imperial
-2026/07/11 17:36:28 Content still empty after HTML reader: https://www.hltv.org/news/45108/enkay-j-on-replacing-broky-it-was-a-very-hard-choice-but-it-was-inevitable
-2026/07/11 17:36:28 Content still empty after HTML reader: https://www.hltv.org/news/45107/betclic-part-ways-with-bogdan
-2026/07/11 17:36:28 Content still empty after HTML reader: https://www.hltv.org/news/45106/mouz-nxt-sign-esx-and-mixer
-2026/07/11 17:36:28 Content still empty after HTML reader: https://www.hltv.org/news/45105/faze-breeze-past-betboom-to-reach-xse-pro-league-semi-finals
-2026/07/11 17:36:28 Fetched posts from https://www.hltv.org/rss/news, took 1.828388507s
-2026/07/11 17:37:26 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.866963382s
-2026/07/11 17:37:26 Skipping writing post, no content: https://www.hltv.org/news/45109/saadzin-joins-imperial
-2026/07/11 17:37:26 Skipping writing post, no content: https://www.hltv.org/news/45108/enkay-j-on-replacing-broky-it-was-a-very-hard-choice-but-it-was-inevitable
-2026/07/11 17:37:26 Skipping writing post, no content: https://www.hltv.org/news/45107/betclic-part-ways-with-bogdan
-2026/07/11 17:37:26 Skipping writing post, no content: https://www.hltv.org/news/45106/mouz-nxt-sign-esx-and-mixer
-2026/07/11 17:37:26 Skipping writing post, no content: https://www.hltv.org/news/45105/faze-breeze-past-betboom-to-reach-xse-pro-league-semi-finals
-2026/07/11 17:37:26 Templated 46 posts, took 7.752232ms
+2026/07/11 18:32:29 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 998.62403ms
+2026/07/11 18:32:30 Fetched posts from https://vlr.gg/rss, took 1.549672699s
+2026/07/11 18:32:30 Content still empty after HTML reader: https://www.hltv.org/news/45049/how-does-falcons-iem-cologne-playoff-run-compare-to-the-other-hardest-runs-in-history
+2026/07/11 18:32:30 Content still empty after HTML reader: https://www.hltv.org/news/45109/saadzin-joins-imperial
+2026/07/11 18:32:30 Content still empty after HTML reader: https://www.hltv.org/news/45108/enkay-j-on-replacing-broky-it-was-a-very-hard-choice-but-it-was-inevitable
+2026/07/11 18:32:30 Content still empty after HTML reader: https://www.hltv.org/news/45107/betclic-part-ways-with-bogdan
+2026/07/11 18:32:30 Content still empty after HTML reader: https://www.hltv.org/news/45106/mouz-nxt-sign-esx-and-mixer
+2026/07/11 18:32:30 Fetched posts from https://www.hltv.org/rss/news, took 1.972576063s
+2026/07/11 18:33:28 Get "https://www.bbc.com/vietnamese/articles/cqj1xxv140lo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/11 18:33:28 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.000595161s
+2026/07/11 18:33:28 Skipping writing post, no content: https://www.hltv.org/news/45049/how-does-falcons-iem-cologne-playoff-run-compare-to-the-other-hardest-runs-in-history
+2026/07/11 18:33:28 Skipping writing post, no content: https://www.hltv.org/news/45109/saadzin-joins-imperial
+2026/07/11 18:33:28 Skipping writing post, no content: https://www.hltv.org/news/45108/enkay-j-on-replacing-broky-it-was-a-very-hard-choice-but-it-was-inevitable
+2026/07/11 18:33:28 Skipping writing post, no content: https://www.hltv.org/news/45107/betclic-part-ways-with-bogdan
+2026/07/11 18:33:28 Skipping writing post, no content: https://www.hltv.org/news/45106/mouz-nxt-sign-esx-and-mixer
+2026/07/11 18:33:28 Templated 47 posts, took 5.738158ms
