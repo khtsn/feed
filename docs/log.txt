@@ -1,16 +1,15 @@
-2026/07/12 01:05:59 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.334584734s
-2026/07/12 01:05:59 Fetched posts from https://vlr.gg/rss, took 1.547958825s
-2026/07/12 01:05:59 Content still empty after HTML reader: https://www.hltv.org/news/45069/short-news-week-27
-2026/07/12 01:05:59 Content still empty after HTML reader: https://www.hltv.org/news/45113/shalfey-steps-in-for-k27-at-stake-ranked
-2026/07/12 01:05:59 Content still empty after HTML reader: https://www.hltv.org/news/45111/9z-beat-alliance-to-secure-first-notable-event-grand-final-appearance
-2026/07/12 01:05:59 Content still empty after HTML reader: https://www.hltv.org/news/45110/boombl4-first-we-need-to-make-playoffs-and-gain-experience-by-the-end-of-next-season-we-can-start-putting-up-a-worthy-fight
-2026/07/12 01:05:59 Content still empty after HTML reader: https://www.hltv.org/news/45049/how-does-falcons-iem-cologne-playoff-run-compare-to-the-other-hardest-runs-in-history
-2026/07/12 01:05:59 Fetched posts from https://www.hltv.org/rss/news, took 2.158625406s
-2026/07/12 01:06:57 Get "https://www.bbc.com/vietnamese/articles/cqj1xxv140lo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/07/12 01:06:57 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003793636s
-2026/07/12 01:06:57 Skipping writing post, no content: https://www.hltv.org/news/45069/short-news-week-27
-2026/07/12 01:06:57 Skipping writing post, no content: https://www.hltv.org/news/45113/shalfey-steps-in-for-k27-at-stake-ranked
-2026/07/12 01:06:57 Skipping writing post, no content: https://www.hltv.org/news/45111/9z-beat-alliance-to-secure-first-notable-event-grand-final-appearance
-2026/07/12 01:06:57 Skipping writing post, no content: https://www.hltv.org/news/45110/boombl4-first-we-need-to-make-playoffs-and-gain-experience-by-the-end-of-next-season-we-can-start-putting-up-a-worthy-fight
-2026/07/12 01:06:57 Skipping writing post, no content: https://www.hltv.org/news/45049/how-does-falcons-iem-cologne-playoff-run-compare-to-the-other-hardest-runs-in-history
-2026/07/12 01:06:57 Templated 41 posts, took 4.112288ms
+2026/07/12 04:35:16 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 974.833469ms
+2026/07/12 04:35:16 Content still empty after HTML reader: https://www.hltv.org/news/45069/short-news-week-27
+2026/07/12 04:35:16 Content still empty after HTML reader: https://www.hltv.org/news/45113/shalfey-steps-in-for-k27-at-stake-ranked
+2026/07/12 04:35:16 Content still empty after HTML reader: https://www.hltv.org/news/45111/9z-beat-alliance-to-secure-first-notable-event-grand-final-appearance
+2026/07/12 04:35:16 Content still empty after HTML reader: https://www.hltv.org/news/45110/boombl4-first-we-need-to-make-playoffs-and-gain-experience-by-the-end-of-next-season-we-can-start-putting-up-a-worthy-fight
+2026/07/12 04:35:16 Content still empty after HTML reader: https://www.hltv.org/news/45049/how-does-falcons-iem-cologne-playoff-run-compare-to-the-other-hardest-runs-in-history
+2026/07/12 04:35:16 Fetched posts from https://www.hltv.org/rss/news, took 1.173582007s
+2026/07/12 04:35:57 Fetched posts from https://vlr.gg/rss, took 42.478978061s
+2026/07/12 04:36:14 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.557219064s
+2026/07/12 04:36:14 Skipping writing post, no content: https://www.hltv.org/news/45069/short-news-week-27
+2026/07/12 04:36:14 Skipping writing post, no content: https://www.hltv.org/news/45113/shalfey-steps-in-for-k27-at-stake-ranked
+2026/07/12 04:36:14 Skipping writing post, no content: https://www.hltv.org/news/45111/9z-beat-alliance-to-secure-first-notable-event-grand-final-appearance
+2026/07/12 04:36:14 Skipping writing post, no content: https://www.hltv.org/news/45110/boombl4-first-we-need-to-make-playoffs-and-gain-experience-by-the-end-of-next-season-we-can-start-putting-up-a-worthy-fight
+2026/07/12 04:36:14 Skipping writing post, no content: https://www.hltv.org/news/45049/how-does-falcons-iem-cologne-playoff-run-compare-to-the-other-hardest-runs-in-history
+2026/07/12 04:36:14 Templated 42 posts, took 5.085927ms
