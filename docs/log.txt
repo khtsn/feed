@@ -1,15 +1,16 @@
-2026/07/13 04:38:32 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 867.596948ms
-2026/07/13 04:38:33 Fetched posts from https://vlr.gg/rss, took 1.146445667s
-2026/07/13 04:38:34 Content still empty after HTML reader: https://www.hltv.org/news/45119/9z-sweep-parivision-to-win-xse-pro-league
-2026/07/13 04:38:34 Content still empty after HTML reader: https://www.hltv.org/news/45118/the-mongolz-bench-cobrazera
-2026/07/13 04:38:34 Content still empty after HTML reader: https://www.hltv.org/news/45117/inner-circle-qualify-for-blast-open-porto
-2026/07/13 04:38:34 Content still empty after HTML reader: https://www.hltv.org/news/45116/hampus-returns-on-johnny-speeds
-2026/07/13 04:38:34 Content still empty after HTML reader: https://www.hltv.org/news/45115/twist-i-feel-like-sweden-is-for-sure-coming-back-to-the-top
-2026/07/13 04:38:34 Fetched posts from https://www.hltv.org/rss/news, took 2.095505609s
-2026/07/13 04:39:32 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.998683228s
-2026/07/13 04:39:32 Skipping writing post, no content: https://www.hltv.org/news/45119/9z-sweep-parivision-to-win-xse-pro-league
-2026/07/13 04:39:32 Skipping writing post, no content: https://www.hltv.org/news/45118/the-mongolz-bench-cobrazera
-2026/07/13 04:39:32 Skipping writing post, no content: https://www.hltv.org/news/45117/inner-circle-qualify-for-blast-open-porto
-2026/07/13 04:39:32 Skipping writing post, no content: https://www.hltv.org/news/45116/hampus-returns-on-johnny-speeds
-2026/07/13 04:39:32 Skipping writing post, no content: https://www.hltv.org/news/45115/twist-i-feel-like-sweden-is-for-sure-coming-back-to-the-top
-2026/07/13 04:39:32 Templated 44 posts, took 3.663964ms
+2026/07/13 07:52:44 Fetched posts from https://vlr.gg/rss, took 653.41811ms
+2026/07/13 07:52:44 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 957.349933ms
+2026/07/13 07:52:45 Content still empty after HTML reader: https://www.hltv.org/news/45119/9z-sweep-parivision-to-win-xse-pro-league
+2026/07/13 07:52:45 Content still empty after HTML reader: https://www.hltv.org/news/45118/the-mongolz-bench-cobrazera
+2026/07/13 07:52:45 Content still empty after HTML reader: https://www.hltv.org/news/45117/inner-circle-qualify-for-blast-open-porto
+2026/07/13 07:52:45 Content still empty after HTML reader: https://www.hltv.org/news/45116/hampus-returns-on-johnny-speeds
+2026/07/13 07:52:45 Content still empty after HTML reader: https://www.hltv.org/news/45115/twist-i-feel-like-sweden-is-for-sure-coming-back-to-the-top
+2026/07/13 07:52:45 Fetched posts from https://www.hltv.org/rss/news, took 1.757320923s
+2026/07/13 07:53:43 Get "https://www.bbc.com/vietnamese/articles/cly754j0q3po?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/13 07:53:43 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004180599s
+2026/07/13 07:53:43 Skipping writing post, no content: https://www.hltv.org/news/45119/9z-sweep-parivision-to-win-xse-pro-league
+2026/07/13 07:53:43 Skipping writing post, no content: https://www.hltv.org/news/45118/the-mongolz-bench-cobrazera
+2026/07/13 07:53:43 Skipping writing post, no content: https://www.hltv.org/news/45117/inner-circle-qualify-for-blast-open-porto
+2026/07/13 07:53:43 Skipping writing post, no content: https://www.hltv.org/news/45116/hampus-returns-on-johnny-speeds
+2026/07/13 07:53:43 Skipping writing post, no content: https://www.hltv.org/news/45115/twist-i-feel-like-sweden-is-for-sure-coming-back-to-the-top
+2026/07/13 07:53:43 Templated 44 posts, took 6.234421ms
