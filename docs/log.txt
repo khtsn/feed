@@ -1,16 +1,15 @@
-2026/07/13 15:59:36 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.01092384s
-2026/07/13 15:59:36 Fetched posts from https://vlr.gg/rss, took 1.292361022s
-2026/07/13 15:59:38 Content still empty after HTML reader: https://www.hltv.org/news/45120/the-mongolz-add-tikuak-and-darkmeister
-2026/07/13 15:59:38 Content still empty after HTML reader: https://www.hltv.org/news/45119/9z-sweep-parivision-to-win-xse-pro-league
-2026/07/13 15:59:38 Content still empty after HTML reader: https://www.hltv.org/news/45118/the-mongolz-bench-cobrazera
-2026/07/13 15:59:38 Content still empty after HTML reader: https://www.hltv.org/news/45117/inner-circle-qualify-for-blast-open-porto
-2026/07/13 15:59:38 Content still empty after HTML reader: https://www.hltv.org/news/45116/hampus-returns-on-johnny-speeds
-2026/07/13 15:59:38 Fetched posts from https://www.hltv.org/rss/news, took 2.860779482s
-2026/07/13 16:00:35 Get "https://www.bbc.com/vietnamese/articles/c24y0l3q7z0o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/07/13 16:00:35 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004229058s
-2026/07/13 16:00:35 Skipping writing post, no content: https://www.hltv.org/news/45120/the-mongolz-add-tikuak-and-darkmeister
-2026/07/13 16:00:35 Skipping writing post, no content: https://www.hltv.org/news/45119/9z-sweep-parivision-to-win-xse-pro-league
-2026/07/13 16:00:35 Skipping writing post, no content: https://www.hltv.org/news/45118/the-mongolz-bench-cobrazera
-2026/07/13 16:00:35 Skipping writing post, no content: https://www.hltv.org/news/45117/inner-circle-qualify-for-blast-open-porto
-2026/07/13 16:00:35 Skipping writing post, no content: https://www.hltv.org/news/45116/hampus-returns-on-johnny-speeds
-2026/07/13 16:00:35 Templated 48 posts, took 3.530111ms
+2026/07/13 18:02:17 Fetched posts from https://vlr.gg/rss, took 1.232801518s
+2026/07/13 18:02:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.254081684s
+2026/07/13 18:02:17 Content still empty after HTML reader: https://www.hltv.org/news/45069/short-news-week-27
+2026/07/13 18:02:17 Content still empty after HTML reader: https://www.hltv.org/news/45121/huasopeek-earns-career-first-mvp-award-at-xse-pro-league
+2026/07/13 18:02:17 Content still empty after HTML reader: https://www.hltv.org/news/45120/the-mongolz-add-tikuak-and-darkmeister
+2026/07/13 18:02:17 Content still empty after HTML reader: https://www.hltv.org/news/45119/9z-sweep-parivision-to-win-xse-pro-league
+2026/07/13 18:02:17 Content still empty after HTML reader: https://www.hltv.org/news/45118/the-mongolz-bench-cobrazera
+2026/07/13 18:02:17 Fetched posts from https://www.hltv.org/rss/news, took 2.074799198s
+2026/07/13 18:03:15 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.578455514s
+2026/07/13 18:03:15 Skipping writing post, no content: https://www.hltv.org/news/45069/short-news-week-27
+2026/07/13 18:03:15 Skipping writing post, no content: https://www.hltv.org/news/45121/huasopeek-earns-career-first-mvp-award-at-xse-pro-league
+2026/07/13 18:03:15 Skipping writing post, no content: https://www.hltv.org/news/45120/the-mongolz-add-tikuak-and-darkmeister
+2026/07/13 18:03:15 Skipping writing post, no content: https://www.hltv.org/news/45119/9z-sweep-parivision-to-win-xse-pro-league
+2026/07/13 18:03:15 Skipping writing post, no content: https://www.hltv.org/news/45118/the-mongolz-bench-cobrazera
+2026/07/13 18:03:15 Templated 53 posts, took 4.819288ms
