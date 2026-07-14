@@ -1,15 +1,16 @@
-2026/07/14 14:53:13 Fetched posts from https://vlr.gg/rss, took 1.41354235s
-2026/07/14 14:53:13 Content still empty after HTML reader: https://www.hltv.org/news/45128/blast-open-porto-teams-announced
-2026/07/14 14:53:13 Content still empty after HTML reader: https://www.hltv.org/news/45127/huasopeek-were-close-to-being-a-tier-one-team-but-i-dont-think-were-there-yet
-2026/07/14 14:53:14 Content still empty after HTML reader: https://www.hltv.org/news/45123/lvg-m80-sharks-join-blast-porto-team-list
-2026/07/14 14:53:14 Content still empty after HTML reader: https://www.hltv.org/news/45122/am-gaming-squad-find-new-home
-2026/07/14 14:53:14 Content still empty after HTML reader: https://www.hltv.org/news/45069/short-news-week-27
-2026/07/14 14:53:14 Fetched posts from https://www.hltv.org/rss/news, took 1.998959118s
-2026/07/14 14:53:14 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.419306518s
-2026/07/14 14:54:11 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.665310552s
-2026/07/14 14:54:11 Skipping writing post, no content: https://www.hltv.org/news/45128/blast-open-porto-teams-announced
-2026/07/14 14:54:11 Skipping writing post, no content: https://www.hltv.org/news/45127/huasopeek-were-close-to-being-a-tier-one-team-but-i-dont-think-were-there-yet
-2026/07/14 14:54:11 Skipping writing post, no content: https://www.hltv.org/news/45123/lvg-m80-sharks-join-blast-porto-team-list
-2026/07/14 14:54:11 Skipping writing post, no content: https://www.hltv.org/news/45122/am-gaming-squad-find-new-home
-2026/07/14 14:54:11 Skipping writing post, no content: https://www.hltv.org/news/45069/short-news-week-27
-2026/07/14 14:54:11 Templated 54 posts, took 8.381219ms
+2026/07/14 16:09:25 Fetched posts from https://vlr.gg/rss, took 588.153119ms
+2026/07/14 16:09:26 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.118727285s
+2026/07/14 16:09:26 Content still empty after HTML reader: https://www.hltv.org/news/45130/blast-to-host-2027-open-event-in-ulaanbaatar
+2026/07/14 16:09:26 Content still empty after HTML reader: https://www.hltv.org/news/45129/gratisfaction-to-stand-in-for-flyquest-at-dfrag
+2026/07/14 16:09:26 Content still empty after HTML reader: https://www.hltv.org/news/45128/blast-open-porto-teams-announced
+2026/07/14 16:09:26 Content still empty after HTML reader: https://www.hltv.org/news/45127/huasopeek-were-close-to-being-a-tier-one-team-but-i-dont-think-were-there-yet
+2026/07/14 16:09:26 Content still empty after HTML reader: https://www.hltv.org/news/45123/lvg-m80-sharks-join-blast-porto-team-list
+2026/07/14 16:09:26 Fetched posts from https://www.hltv.org/rss/news, took 1.450957919s
+2026/07/14 16:10:24 Get "https://www.bbc.com/vietnamese/articles/cp8rg97ddwjo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/14 16:10:24 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.00216129s
+2026/07/14 16:10:24 Skipping writing post, no content: https://www.hltv.org/news/45130/blast-to-host-2027-open-event-in-ulaanbaatar
+2026/07/14 16:10:24 Skipping writing post, no content: https://www.hltv.org/news/45129/gratisfaction-to-stand-in-for-flyquest-at-dfrag
+2026/07/14 16:10:24 Skipping writing post, no content: https://www.hltv.org/news/45128/blast-open-porto-teams-announced
+2026/07/14 16:10:24 Skipping writing post, no content: https://www.hltv.org/news/45127/huasopeek-were-close-to-being-a-tier-one-team-but-i-dont-think-were-there-yet
+2026/07/14 16:10:24 Skipping writing post, no content: https://www.hltv.org/news/45123/lvg-m80-sharks-join-blast-porto-team-list
+2026/07/14 16:10:24 Templated 44 posts, took 7.546619ms
