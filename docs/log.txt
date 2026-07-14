@@ -1,15 +1,16 @@
-2026/07/14 21:06:59 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 978.454619ms
-2026/07/14 21:07:00 Fetched posts from https://vlr.gg/rss, took 1.860842991s
-2026/07/14 21:07:00 Content still empty after HTML reader: https://www.hltv.org/news/45131/fokus-sign-podi
-2026/07/14 21:07:00 Content still empty after HTML reader: https://www.hltv.org/news/45132/mouz-announce-pr-signing
-2026/07/14 21:07:00 Content still empty after HTML reader: https://www.hltv.org/news/45130/blast-to-host-2027-open-event-in-ulaanbaatar
-2026/07/14 21:07:00 Content still empty after HTML reader: https://www.hltv.org/news/45129/gratisfaction-to-stand-in-for-flyquest-at-dfrag
-2026/07/14 21:07:00 Content still empty after HTML reader: https://www.hltv.org/news/45128/blast-open-porto-teams-announced
-2026/07/14 21:07:00 Fetched posts from https://www.hltv.org/rss/news, took 1.912629996s
-2026/07/14 21:07:58 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.764324897s
-2026/07/14 21:07:58 Skipping writing post, no content: https://www.hltv.org/news/45131/fokus-sign-podi
-2026/07/14 21:07:58 Skipping writing post, no content: https://www.hltv.org/news/45132/mouz-announce-pr-signing
-2026/07/14 21:07:58 Skipping writing post, no content: https://www.hltv.org/news/45130/blast-to-host-2027-open-event-in-ulaanbaatar
-2026/07/14 21:07:58 Skipping writing post, no content: https://www.hltv.org/news/45129/gratisfaction-to-stand-in-for-flyquest-at-dfrag
-2026/07/14 21:07:58 Skipping writing post, no content: https://www.hltv.org/news/45128/blast-open-porto-teams-announced
-2026/07/14 21:07:58 Templated 50 posts, took 6.828011ms
+2026/07/14 22:10:28 Fetched posts from https://vlr.gg/rss, took 979.885072ms
+2026/07/14 22:10:28 Content still empty after HTML reader: https://www.hltv.org/news/45131/fokus-sign-podi
+2026/07/14 22:10:28 Content still empty after HTML reader: https://www.hltv.org/news/45132/mouz-announce-pr-signing
+2026/07/14 22:10:29 Content still empty after HTML reader: https://www.hltv.org/news/45130/blast-to-host-2027-open-event-in-ulaanbaatar
+2026/07/14 22:10:29 Content still empty after HTML reader: https://www.hltv.org/news/45129/gratisfaction-to-stand-in-for-flyquest-at-dfrag
+2026/07/14 22:10:29 Content still empty after HTML reader: https://www.hltv.org/news/45128/blast-open-porto-teams-announced
+2026/07/14 22:10:29 Fetched posts from https://www.hltv.org/rss/news, took 1.485120929s
+2026/07/14 22:10:29 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.493117807s
+2026/07/14 22:11:27 Get "https://www.bbc.com/vietnamese/articles/cp8rg97ddwjo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/14 22:11:27 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.001559162s
+2026/07/14 22:11:27 Skipping writing post, no content: https://www.hltv.org/news/45131/fokus-sign-podi
+2026/07/14 22:11:27 Skipping writing post, no content: https://www.hltv.org/news/45132/mouz-announce-pr-signing
+2026/07/14 22:11:27 Skipping writing post, no content: https://www.hltv.org/news/45130/blast-to-host-2027-open-event-in-ulaanbaatar
+2026/07/14 22:11:27 Skipping writing post, no content: https://www.hltv.org/news/45129/gratisfaction-to-stand-in-for-flyquest-at-dfrag
+2026/07/14 22:11:27 Skipping writing post, no content: https://www.hltv.org/news/45128/blast-open-porto-teams-announced
+2026/07/14 22:11:27 Templated 50 posts, took 7.456987ms
