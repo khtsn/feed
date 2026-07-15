@@ -1,15 +1,16 @@
-2026/07/15 16:39:06 Fetched posts from https://vlr.gg/rss, took 953.181208ms
-2026/07/15 16:39:06 Content still empty after HTML reader: https://www.hltv.org/news/45134/cruc1al-to-stand-in-for-m8s-at-stake-ranked
-2026/07/15 16:39:06 Content still empty after HTML reader: https://www.hltv.org/news/45133/three-top-5-teams-to-attend-starseries-fall
-2026/07/15 16:39:06 Content still empty after HTML reader: https://www.hltv.org/news/45131/fokus-sign-podi
-2026/07/15 16:39:06 Content still empty after HTML reader: https://www.hltv.org/news/45132/mouz-announce-pr-signing
-2026/07/15 16:39:06 Content still empty after HTML reader: https://www.hltv.org/news/45130/blast-to-host-2027-open-event-in-ulaanbaatar
-2026/07/15 16:39:06 Fetched posts from https://www.hltv.org/rss/news, took 1.651470595s
-2026/07/15 16:39:06 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.679113138s
-2026/07/15 16:40:04 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.758752376s
-2026/07/15 16:40:04 Skipping writing post, no content: https://www.hltv.org/news/45134/cruc1al-to-stand-in-for-m8s-at-stake-ranked
-2026/07/15 16:40:04 Skipping writing post, no content: https://www.hltv.org/news/45133/three-top-5-teams-to-attend-starseries-fall
-2026/07/15 16:40:04 Skipping writing post, no content: https://www.hltv.org/news/45131/fokus-sign-podi
-2026/07/15 16:40:04 Skipping writing post, no content: https://www.hltv.org/news/45132/mouz-announce-pr-signing
-2026/07/15 16:40:04 Skipping writing post, no content: https://www.hltv.org/news/45130/blast-to-host-2027-open-event-in-ulaanbaatar
-2026/07/15 16:40:04 Templated 55 posts, took 7.759432ms
+2026/07/15 17:52:52 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.514737954s
+2026/07/15 17:52:52 Fetched posts from https://vlr.gg/rss, took 1.653091875s
+2026/07/15 17:52:52 Content still empty after HTML reader: https://www.hltv.org/news/45134/cruc1al-to-stand-in-for-m8s-at-stake-ranked
+2026/07/15 17:52:52 Content still empty after HTML reader: https://www.hltv.org/news/45133/three-top-5-teams-to-attend-starseries-fall
+2026/07/15 17:52:52 Content still empty after HTML reader: https://www.hltv.org/news/45131/fokus-sign-podi
+2026/07/15 17:52:52 Content still empty after HTML reader: https://www.hltv.org/news/45132/mouz-announce-pr-signing
+2026/07/15 17:52:52 Content still empty after HTML reader: https://www.hltv.org/news/45130/blast-to-host-2027-open-event-in-ulaanbaatar
+2026/07/15 17:52:52 Fetched posts from https://www.hltv.org/rss/news, took 2.361057262s
+2026/07/15 17:53:50 Get "https://www.bbc.com/vietnamese/articles/czj8r02p8nyo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/15 17:53:50 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004787269s
+2026/07/15 17:53:50 Skipping writing post, no content: https://www.hltv.org/news/45134/cruc1al-to-stand-in-for-m8s-at-stake-ranked
+2026/07/15 17:53:50 Skipping writing post, no content: https://www.hltv.org/news/45133/three-top-5-teams-to-attend-starseries-fall
+2026/07/15 17:53:50 Skipping writing post, no content: https://www.hltv.org/news/45131/fokus-sign-podi
+2026/07/15 17:53:50 Skipping writing post, no content: https://www.hltv.org/news/45132/mouz-announce-pr-signing
+2026/07/15 17:53:50 Skipping writing post, no content: https://www.hltv.org/news/45130/blast-to-host-2027-open-event-in-ulaanbaatar
+2026/07/15 17:53:50 Templated 54 posts, took 8.73588ms
