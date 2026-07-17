@@ -1,15 +1,16 @@
-2026/07/17 01:10:49 Fetched posts from https://vlr.gg/rss, took 1.144194459s
-2026/07/17 01:10:49 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.240905279s
-2026/07/17 01:10:49 Content still empty after HTML reader: https://www.hltv.org/news/45146/falcons-the-only-top-team-to-skip-pgl-masters-bucharest-as-invites-are-announced
-2026/07/17 01:10:49 Content still empty after HTML reader: https://www.hltv.org/news/45143/volt-replaces-mhn1-on-infinite
-2026/07/17 01:10:49 Content still empty after HTML reader: https://www.hltv.org/news/45145/arrozdoce-enters-free-agency
-2026/07/17 01:10:49 Content still empty after HTML reader: https://www.hltv.org/news/45140/astralis-unveil-neo-as-new-head-coach
-2026/07/17 01:10:49 Content still empty after HTML reader: https://www.hltv.org/news/45139/mibr-dismiss-academy-player-stormzyn-over-controversial-in-game-interaction
-2026/07/17 01:10:49 Fetched posts from https://www.hltv.org/rss/news, took 1.53689109s
-2026/07/17 01:11:47 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.730689321s
-2026/07/17 01:11:47 Skipping writing post, no content: https://www.hltv.org/news/45146/falcons-the-only-top-team-to-skip-pgl-masters-bucharest-as-invites-are-announced
-2026/07/17 01:11:47 Skipping writing post, no content: https://www.hltv.org/news/45143/volt-replaces-mhn1-on-infinite
-2026/07/17 01:11:47 Skipping writing post, no content: https://www.hltv.org/news/45145/arrozdoce-enters-free-agency
-2026/07/17 01:11:47 Skipping writing post, no content: https://www.hltv.org/news/45140/astralis-unveil-neo-as-new-head-coach
-2026/07/17 01:11:47 Skipping writing post, no content: https://www.hltv.org/news/45139/mibr-dismiss-academy-player-stormzyn-over-controversial-in-game-interaction
-2026/07/17 01:11:47 Templated 50 posts, took 8.001322ms
+2026/07/17 04:25:14 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.096762112s
+2026/07/17 04:25:14 Fetched posts from https://vlr.gg/rss, took 1.329842367s
+2026/07/17 04:25:15 Content still empty after HTML reader: https://www.hltv.org/news/45146/falcons-the-only-top-team-to-skip-pgl-masters-bucharest-as-invites-are-announced
+2026/07/17 04:25:15 Content still empty after HTML reader: https://www.hltv.org/news/45143/volt-replaces-mhn1-on-infinite
+2026/07/17 04:25:15 Content still empty after HTML reader: https://www.hltv.org/news/45145/arrozdoce-enters-free-agency
+2026/07/17 04:25:15 Content still empty after HTML reader: https://www.hltv.org/news/45140/astralis-unveil-neo-as-new-head-coach
+2026/07/17 04:25:15 Content still empty after HTML reader: https://www.hltv.org/news/45139/mibr-dismiss-academy-player-stormzyn-over-controversial-in-game-interaction
+2026/07/17 04:25:15 Fetched posts from https://www.hltv.org/rss/news, took 1.965505879s
+2026/07/17 04:26:13 Get "https://www.bbc.com/vietnamese/articles/c1eye27yl43o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/17 04:26:13 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004450924s
+2026/07/17 04:26:13 Skipping writing post, no content: https://www.hltv.org/news/45146/falcons-the-only-top-team-to-skip-pgl-masters-bucharest-as-invites-are-announced
+2026/07/17 04:26:13 Skipping writing post, no content: https://www.hltv.org/news/45143/volt-replaces-mhn1-on-infinite
+2026/07/17 04:26:13 Skipping writing post, no content: https://www.hltv.org/news/45145/arrozdoce-enters-free-agency
+2026/07/17 04:26:13 Skipping writing post, no content: https://www.hltv.org/news/45140/astralis-unveil-neo-as-new-head-coach
+2026/07/17 04:26:13 Skipping writing post, no content: https://www.hltv.org/news/45139/mibr-dismiss-academy-player-stormzyn-over-controversial-in-game-interaction
+2026/07/17 04:26:13 Templated 54 posts, took 5.483156ms
