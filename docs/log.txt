@@ -1,15 +1,16 @@
-2026/07/18 10:49:33 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 693.73577ms
-2026/07/18 10:49:34 Content still empty after HTML reader: https://www.hltv.org/news/45154/ultimate-to-stand-in-for-liquid-in-blast-bounty
-2026/07/18 10:49:34 Content still empty after HTML reader: https://www.hltv.org/news/45153/fame-and-belchonokk-join-tdk
-2026/07/18 10:49:34 Content still empty after HTML reader: https://www.hltv.org/news/45152/buzz-and-anlelele-depart-ecstatic-nut-nut-placed-on-transfer-list
-2026/07/18 10:49:34 Content still empty after HTML reader: https://www.hltv.org/news/45151/fl4mus-returns-to-gamerlegion
-2026/07/18 10:49:34 Content still empty after HTML reader: https://www.hltv.org/news/45150/nemiga-bench-1eer-for-robo
-2026/07/18 10:49:34 Fetched posts from https://www.hltv.org/rss/news, took 1.837498208s
-2026/07/18 10:49:34 Fetched posts from https://vlr.gg/rss, took 2.019583205s
-2026/07/18 10:50:32 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.646786515s
-2026/07/18 10:50:32 Skipping writing post, no content: https://www.hltv.org/news/45154/ultimate-to-stand-in-for-liquid-in-blast-bounty
-2026/07/18 10:50:32 Skipping writing post, no content: https://www.hltv.org/news/45153/fame-and-belchonokk-join-tdk
-2026/07/18 10:50:32 Skipping writing post, no content: https://www.hltv.org/news/45152/buzz-and-anlelele-depart-ecstatic-nut-nut-placed-on-transfer-list
-2026/07/18 10:50:32 Skipping writing post, no content: https://www.hltv.org/news/45151/fl4mus-returns-to-gamerlegion
-2026/07/18 10:50:32 Skipping writing post, no content: https://www.hltv.org/news/45150/nemiga-bench-1eer-for-robo
-2026/07/18 10:50:32 Templated 43 posts, took 7.303062ms
+2026/07/18 11:40:02 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 779.426716ms
+2026/07/18 11:40:03 Content still empty after HTML reader: https://www.hltv.org/news/45154/ultimate-to-stand-in-for-liquid-in-blast-bounty
+2026/07/18 11:40:03 Fetched posts from https://vlr.gg/rss, took 1.591179642s
+2026/07/18 11:40:03 Content still empty after HTML reader: https://www.hltv.org/news/45153/fame-and-belchonokk-join-tdk
+2026/07/18 11:40:03 Content still empty after HTML reader: https://www.hltv.org/news/45152/buzz-and-anlelele-depart-ecstatic-nut-nut-placed-on-transfer-list
+2026/07/18 11:40:03 Content still empty after HTML reader: https://www.hltv.org/news/45151/fl4mus-returns-to-gamerlegion
+2026/07/18 11:40:03 Content still empty after HTML reader: https://www.hltv.org/news/45150/nemiga-bench-1eer-for-robo
+2026/07/18 11:40:03 Fetched posts from https://www.hltv.org/rss/news, took 1.625992801s
+2026/07/18 11:41:01 Get "https://www.bbc.com/vietnamese/articles/ckgd27e7x88o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/18 11:41:01 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.00476322s
+2026/07/18 11:41:01 Skipping writing post, no content: https://www.hltv.org/news/45154/ultimate-to-stand-in-for-liquid-in-blast-bounty
+2026/07/18 11:41:01 Skipping writing post, no content: https://www.hltv.org/news/45153/fame-and-belchonokk-join-tdk
+2026/07/18 11:41:01 Skipping writing post, no content: https://www.hltv.org/news/45152/buzz-and-anlelele-depart-ecstatic-nut-nut-placed-on-transfer-list
+2026/07/18 11:41:01 Skipping writing post, no content: https://www.hltv.org/news/45151/fl4mus-returns-to-gamerlegion
+2026/07/18 11:41:01 Skipping writing post, no content: https://www.hltv.org/news/45150/nemiga-bench-1eer-for-robo
+2026/07/18 11:41:01 Templated 42 posts, took 6.459946ms
