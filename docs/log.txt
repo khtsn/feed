@@ -1,16 +1,15 @@
-2026/07/20 12:37:10 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.012400618s
-2026/07/20 12:37:11 Fetched posts from https://vlr.gg/rss, took 1.436090259s
-2026/07/20 12:37:11 Content still empty after HTML reader: https://www.hltv.org/news/45160/new-look-heroic-sweep-k27-to-win-stake-ranked-episode-3
-2026/07/20 12:37:11 Content still empty after HTML reader: https://www.hltv.org/news/45158/blast-bounty-teams-format-schedule-prizes-talent-fantasy
-2026/07/20 12:37:11 Content still empty after HTML reader: https://www.hltv.org/news/45157/heroic-reach-stake-ranked-grand-final-on-day-three-3dmax-eliminated
-2026/07/20 12:37:11 Content still empty after HTML reader: https://www.hltv.org/news/45155/blast-bounty-2026-season-2-live-draft
-2026/07/20 12:37:11 Content still empty after HTML reader: https://www.hltv.org/news/45156/starseries-fall-closed-qualifier-invites-announced
-2026/07/20 12:37:11 Fetched posts from https://www.hltv.org/rss/news, took 1.768326727s
-2026/07/20 12:38:09 Get "https://www.bbc.com/vietnamese/articles/c4gvl1w9930o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/07/20 12:38:09 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004659939s
-2026/07/20 12:38:09 Skipping writing post, no content: https://www.hltv.org/news/45160/new-look-heroic-sweep-k27-to-win-stake-ranked-episode-3
-2026/07/20 12:38:09 Skipping writing post, no content: https://www.hltv.org/news/45158/blast-bounty-teams-format-schedule-prizes-talent-fantasy
-2026/07/20 12:38:09 Skipping writing post, no content: https://www.hltv.org/news/45157/heroic-reach-stake-ranked-grand-final-on-day-three-3dmax-eliminated
-2026/07/20 12:38:09 Skipping writing post, no content: https://www.hltv.org/news/45155/blast-bounty-2026-season-2-live-draft
-2026/07/20 12:38:09 Skipping writing post, no content: https://www.hltv.org/news/45156/starseries-fall-closed-qualifier-invites-announced
-2026/07/20 12:38:09 Templated 46 posts, took 5.579534ms
+2026/07/20 14:55:09 Fetched posts from https://vlr.gg/rss, took 1.076544231s
+2026/07/20 14:55:10 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.755756316s
+2026/07/20 14:55:10 Content still empty after HTML reader: https://www.hltv.org/news/45141/stat-check-mouz-look-to-pr-for-some-extra-dynamism
+2026/07/20 14:55:10 Content still empty after HTML reader: https://www.hltv.org/news/45160/new-look-heroic-sweep-k27-to-win-stake-ranked-episode-3
+2026/07/20 14:55:10 Content still empty after HTML reader: https://www.hltv.org/news/45158/blast-bounty-teams-format-schedule-prizes-talent-fantasy
+2026/07/20 14:55:10 Content still empty after HTML reader: https://www.hltv.org/news/45157/heroic-reach-stake-ranked-grand-final-on-day-three-3dmax-eliminated
+2026/07/20 14:55:10 Content still empty after HTML reader: https://www.hltv.org/news/45155/blast-bounty-2026-season-2-live-draft
+2026/07/20 14:55:10 Fetched posts from https://www.hltv.org/rss/news, took 2.013101671s
+2026/07/20 14:56:08 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.996326665s
+2026/07/20 14:56:08 Skipping writing post, no content: https://www.hltv.org/news/45141/stat-check-mouz-look-to-pr-for-some-extra-dynamism
+2026/07/20 14:56:08 Skipping writing post, no content: https://www.hltv.org/news/45160/new-look-heroic-sweep-k27-to-win-stake-ranked-episode-3
+2026/07/20 14:56:08 Skipping writing post, no content: https://www.hltv.org/news/45158/blast-bounty-teams-format-schedule-prizes-talent-fantasy
+2026/07/20 14:56:08 Skipping writing post, no content: https://www.hltv.org/news/45157/heroic-reach-stake-ranked-grand-final-on-day-three-3dmax-eliminated
+2026/07/20 14:56:08 Skipping writing post, no content: https://www.hltv.org/news/45155/blast-bounty-2026-season-2-live-draft
+2026/07/20 14:56:08 Templated 50 posts, took 4.313448ms
