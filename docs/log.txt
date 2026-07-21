@@ -1,15 +1,16 @@
-2026/07/21 15:03:22 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.061921837s
-2026/07/21 15:03:22 Fetched posts from https://vlr.gg/rss, took 1.774820774s
-2026/07/21 15:03:22 Content still empty after HTML reader: https://www.hltv.org/news/45159/a-catastrophe-how-the-new-major-sticker-system-is-impacting-the-cs-scene
-2026/07/21 15:03:22 Content still empty after HTML reader: https://www.hltv.org/news/45161/team-list-set-for-esports-nations-cup
-2026/07/21 15:03:22 Content still empty after HTML reader: https://www.hltv.org/news/45124/short-news-week-28
-2026/07/21 15:03:23 Content still empty after HTML reader: https://www.hltv.org/news/45141/stat-check-mouz-look-to-pr-for-some-extra-dynamism
-2026/07/21 15:03:23 Content still empty after HTML reader: https://www.hltv.org/news/45160/new-look-heroic-sweep-k27-to-win-stake-ranked-episode-3
-2026/07/21 15:03:23 Fetched posts from https://www.hltv.org/rss/news, took 1.995188464s
-2026/07/21 15:04:20 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.801218194s
-2026/07/21 15:04:20 Skipping writing post, no content: https://www.hltv.org/news/45159/a-catastrophe-how-the-new-major-sticker-system-is-impacting-the-cs-scene
-2026/07/21 15:04:20 Skipping writing post, no content: https://www.hltv.org/news/45161/team-list-set-for-esports-nations-cup
-2026/07/21 15:04:20 Skipping writing post, no content: https://www.hltv.org/news/45124/short-news-week-28
-2026/07/21 15:04:20 Skipping writing post, no content: https://www.hltv.org/news/45141/stat-check-mouz-look-to-pr-for-some-extra-dynamism
-2026/07/21 15:04:20 Skipping writing post, no content: https://www.hltv.org/news/45160/new-look-heroic-sweep-k27-to-win-stake-ranked-episode-3
-2026/07/21 15:04:20 Templated 54 posts, took 5.692385ms
+2026/07/21 16:38:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.440392483s
+2026/07/21 16:38:17 Fetched posts from https://vlr.gg/rss, took 1.452660159s
+2026/07/21 16:38:17 Content still empty after HTML reader: https://www.hltv.org/news/45159/a-catastrophe-how-the-new-major-sticker-system-is-impacting-the-cs-scene
+2026/07/21 16:38:17 Content still empty after HTML reader: https://www.hltv.org/news/45161/team-list-set-for-esports-nations-cup
+2026/07/21 16:38:17 Content still empty after HTML reader: https://www.hltv.org/news/45124/short-news-week-28
+2026/07/21 16:38:17 Content still empty after HTML reader: https://www.hltv.org/news/45141/stat-check-mouz-look-to-pr-for-some-extra-dynamism
+2026/07/21 16:38:17 Content still empty after HTML reader: https://www.hltv.org/news/45160/new-look-heroic-sweep-k27-to-win-stake-ranked-episode-3
+2026/07/21 16:38:17 Fetched posts from https://www.hltv.org/rss/news, took 1.805606943s
+2026/07/21 16:39:15 Get "https://www.bbc.com/vietnamese/articles/c4g6xr2zy1eo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/21 16:39:15 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004739386s
+2026/07/21 16:39:15 Skipping writing post, no content: https://www.hltv.org/news/45159/a-catastrophe-how-the-new-major-sticker-system-is-impacting-the-cs-scene
+2026/07/21 16:39:15 Skipping writing post, no content: https://www.hltv.org/news/45161/team-list-set-for-esports-nations-cup
+2026/07/21 16:39:15 Skipping writing post, no content: https://www.hltv.org/news/45124/short-news-week-28
+2026/07/21 16:39:15 Skipping writing post, no content: https://www.hltv.org/news/45141/stat-check-mouz-look-to-pr-for-some-extra-dynamism
+2026/07/21 16:39:15 Skipping writing post, no content: https://www.hltv.org/news/45160/new-look-heroic-sweep-k27-to-win-stake-ranked-episode-3
+2026/07/21 16:39:15 Templated 52 posts, took 6.625101ms
