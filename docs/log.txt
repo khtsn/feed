@@ -1,15 +1,16 @@
-2026/07/22 07:16:16 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 781.099763ms
-2026/07/22 07:16:17 Fetched posts from https://vlr.gg/rss, took 1.791134243s
-2026/07/22 07:16:19 Content still empty after HTML reader: https://www.hltv.org/news/45164/young-ninjas-project-put-on-hold
-2026/07/22 07:16:19 Content still empty after HTML reader: https://www.hltv.org/news/45163/online-blast-bounty-and-starseries-qualifiers-fantasy-games-are-live
-2026/07/22 07:16:19 Content still empty after HTML reader: https://www.hltv.org/news/45159/a-catastrophe-how-the-new-major-sticker-system-is-impacting-the-cs-scene
-2026/07/22 07:16:19 Content still empty after HTML reader: https://www.hltv.org/news/45161/team-list-set-for-esports-nations-cup
-2026/07/22 07:16:19 Content still empty after HTML reader: https://www.hltv.org/news/45124/short-news-week-28
-2026/07/22 07:16:19 Fetched posts from https://www.hltv.org/rss/news, took 4.66398069s
-2026/07/22 07:17:15 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.788060921s
-2026/07/22 07:17:15 Skipping writing post, no content: https://www.hltv.org/news/45164/young-ninjas-project-put-on-hold
-2026/07/22 07:17:15 Skipping writing post, no content: https://www.hltv.org/news/45163/online-blast-bounty-and-starseries-qualifiers-fantasy-games-are-live
-2026/07/22 07:17:15 Skipping writing post, no content: https://www.hltv.org/news/45159/a-catastrophe-how-the-new-major-sticker-system-is-impacting-the-cs-scene
-2026/07/22 07:17:15 Skipping writing post, no content: https://www.hltv.org/news/45161/team-list-set-for-esports-nations-cup
-2026/07/22 07:17:15 Skipping writing post, no content: https://www.hltv.org/news/45124/short-news-week-28
-2026/07/22 07:17:15 Templated 50 posts, took 6.112648ms
+2026/07/22 09:42:07 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 987.810305ms
+2026/07/22 09:42:07 Fetched posts from https://vlr.gg/rss, took 1.030187337s
+2026/07/22 09:42:08 Content still empty after HTML reader: https://www.hltv.org/news/45164/young-ninjas-project-put-on-hold
+2026/07/22 09:42:08 Content still empty after HTML reader: https://www.hltv.org/news/45163/online-blast-bounty-and-starseries-qualifiers-fantasy-games-are-live
+2026/07/22 09:42:08 Content still empty after HTML reader: https://www.hltv.org/news/45159/a-catastrophe-how-the-new-major-sticker-system-is-impacting-the-cs-scene
+2026/07/22 09:42:08 Content still empty after HTML reader: https://www.hltv.org/news/45161/team-list-set-for-esports-nations-cup
+2026/07/22 09:42:08 Content still empty after HTML reader: https://www.hltv.org/news/45124/short-news-week-28
+2026/07/22 09:42:08 Fetched posts from https://www.hltv.org/rss/news, took 1.782389976s
+2026/07/22 09:43:06 Get "https://www.bbc.com/vietnamese/articles/cjej0njeywgo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/22 09:43:06 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.000157932s
+2026/07/22 09:43:06 Skipping writing post, no content: https://www.hltv.org/news/45164/young-ninjas-project-put-on-hold
+2026/07/22 09:43:06 Skipping writing post, no content: https://www.hltv.org/news/45163/online-blast-bounty-and-starseries-qualifiers-fantasy-games-are-live
+2026/07/22 09:43:06 Skipping writing post, no content: https://www.hltv.org/news/45159/a-catastrophe-how-the-new-major-sticker-system-is-impacting-the-cs-scene
+2026/07/22 09:43:06 Skipping writing post, no content: https://www.hltv.org/news/45161/team-list-set-for-esports-nations-cup
+2026/07/22 09:43:06 Skipping writing post, no content: https://www.hltv.org/news/45124/short-news-week-28
+2026/07/22 09:43:06 Templated 47 posts, took 7.464368ms
