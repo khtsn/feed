@@ -1,16 +1,15 @@
-2026/07/22 17:57:49 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.290770963s
-2026/07/22 17:57:49 Fetched posts from https://vlr.gg/rss, took 1.591263522s
-2026/07/22 17:57:49 Content still empty after HTML reader: https://www.hltv.org/news/45166/sharks-to-play-as-dendele-following-partnership
-2026/07/22 17:57:49 Content still empty after HTML reader: https://www.hltv.org/news/44998/summer-2026-rostermania-as-it-happened
-2026/07/22 17:57:49 Content still empty after HTML reader: https://www.hltv.org/news/45164/young-ninjas-project-put-on-hold
-2026/07/22 17:57:49 Content still empty after HTML reader: https://www.hltv.org/news/45163/online-blast-bounty-and-starseries-qualifiers-fantasy-games-are-live
-2026/07/22 17:57:49 Content still empty after HTML reader: https://www.hltv.org/news/45159/a-catastrophe-how-the-new-major-sticker-system-is-impacting-the-cs-scene
-2026/07/22 17:57:49 Fetched posts from https://www.hltv.org/rss/news, took 1.96817003s
-2026/07/22 17:58:47 Get "https://www.bbc.com/vietnamese/articles/c4gjxy13g49o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/07/22 17:58:47 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004356231s
-2026/07/22 17:58:47 Skipping writing post, no content: https://www.hltv.org/news/45166/sharks-to-play-as-dendele-following-partnership
-2026/07/22 17:58:47 Skipping writing post, no content: https://www.hltv.org/news/44998/summer-2026-rostermania-as-it-happened
-2026/07/22 17:58:47 Skipping writing post, no content: https://www.hltv.org/news/45164/young-ninjas-project-put-on-hold
-2026/07/22 17:58:47 Skipping writing post, no content: https://www.hltv.org/news/45163/online-blast-bounty-and-starseries-qualifiers-fantasy-games-are-live
-2026/07/22 17:58:47 Skipping writing post, no content: https://www.hltv.org/news/45159/a-catastrophe-how-the-new-major-sticker-system-is-impacting-the-cs-scene
-2026/07/22 17:58:47 Templated 51 posts, took 7.237319ms
+2026/07/22 19:35:51 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.48921419s
+2026/07/22 19:35:51 Fetched posts from https://vlr.gg/rss, took 1.573379131s
+2026/07/22 19:35:53 Content still empty after HTML reader: https://www.hltv.org/news/45166/sharks-to-play-as-dendele-following-partnership
+2026/07/22 19:35:53 Content still empty after HTML reader: https://www.hltv.org/news/44998/summer-2026-rostermania-as-it-happened
+2026/07/22 19:35:53 Content still empty after HTML reader: https://www.hltv.org/news/45164/young-ninjas-project-put-on-hold
+2026/07/22 19:35:53 Content still empty after HTML reader: https://www.hltv.org/news/45163/online-blast-bounty-and-starseries-qualifiers-fantasy-games-are-live
+2026/07/22 19:35:53 Content still empty after HTML reader: https://www.hltv.org/news/45159/a-catastrophe-how-the-new-major-sticker-system-is-impacting-the-cs-scene
+2026/07/22 19:35:53 Fetched posts from https://www.hltv.org/rss/news, took 2.691239515s
+2026/07/22 19:36:49 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.31045909s
+2026/07/22 19:36:49 Skipping writing post, no content: https://www.hltv.org/news/45166/sharks-to-play-as-dendele-following-partnership
+2026/07/22 19:36:49 Skipping writing post, no content: https://www.hltv.org/news/44998/summer-2026-rostermania-as-it-happened
+2026/07/22 19:36:49 Skipping writing post, no content: https://www.hltv.org/news/45164/young-ninjas-project-put-on-hold
+2026/07/22 19:36:49 Skipping writing post, no content: https://www.hltv.org/news/45163/online-blast-bounty-and-starseries-qualifiers-fantasy-games-are-live
+2026/07/22 19:36:49 Skipping writing post, no content: https://www.hltv.org/news/45159/a-catastrophe-how-the-new-major-sticker-system-is-impacting-the-cs-scene
+2026/07/22 19:36:49 Templated 50 posts, took 5.046793ms
