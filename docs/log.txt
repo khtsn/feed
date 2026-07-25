@@ -1,16 +1,15 @@
-2026/07/25 06:58:10 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.087093974s
-2026/07/25 06:58:10 Fetched posts from https://vlr.gg/rss, took 1.477397455s
-2026/07/25 06:58:11 Content still empty after HTML reader: https://www.hltv.org/news/45175/spirit-survive-og-scare-to-close-day-three-of-blast-bounty
-2026/07/25 06:58:11 Content still empty after HTML reader: https://www.hltv.org/news/45174/100-thieves-eliminated-from-starseries-fall-qualifier-by-nuclear-tigeres
-2026/07/25 06:58:11 Content still empty after HTML reader: https://www.hltv.org/news/45173/fokus-stun-aurora-to-eliminate-them-from-blast-bounty
-2026/07/25 06:58:11 Content still empty after HTML reader: https://www.hltv.org/news/45172/tge-takes-over-as-bestia-head-coach
-2026/07/25 06:58:11 Content still empty after HTML reader: https://www.hltv.org/news/45171/100-thieves-eliminate-falcons-in-shock-upset-to-end-day-two-of-blast-bounty-s2
-2026/07/25 06:58:11 Fetched posts from https://www.hltv.org/rss/news, took 2.174346325s
-2026/07/25 06:59:09 Get "https://www.bbc.com/vietnamese/articles/cgljy6epjzwo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/07/25 06:59:09 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.000222208s
-2026/07/25 06:59:09 Skipping writing post, no content: https://www.hltv.org/news/45175/spirit-survive-og-scare-to-close-day-three-of-blast-bounty
-2026/07/25 06:59:09 Skipping writing post, no content: https://www.hltv.org/news/45174/100-thieves-eliminated-from-starseries-fall-qualifier-by-nuclear-tigeres
-2026/07/25 06:59:09 Skipping writing post, no content: https://www.hltv.org/news/45173/fokus-stun-aurora-to-eliminate-them-from-blast-bounty
-2026/07/25 06:59:09 Skipping writing post, no content: https://www.hltv.org/news/45172/tge-takes-over-as-bestia-head-coach
-2026/07/25 06:59:09 Skipping writing post, no content: https://www.hltv.org/news/45171/100-thieves-eliminate-falcons-in-shock-upset-to-end-day-two-of-blast-bounty-s2
-2026/07/25 06:59:09 Templated 46 posts, took 5.768447ms
+2026/07/25 09:05:00 Fetched posts from https://vlr.gg/rss, took 517.442966ms
+2026/07/25 09:05:00 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 796.085975ms
+2026/07/25 09:05:01 Content still empty after HTML reader: https://www.hltv.org/news/45175/spirit-survive-og-scare-to-close-day-three-of-blast-bounty
+2026/07/25 09:05:01 Content still empty after HTML reader: https://www.hltv.org/news/45174/100-thieves-eliminated-from-starseries-fall-qualifier-by-nuclear-tigeres
+2026/07/25 09:05:01 Content still empty after HTML reader: https://www.hltv.org/news/45173/fokus-stun-aurora-to-eliminate-them-from-blast-bounty
+2026/07/25 09:05:01 Content still empty after HTML reader: https://www.hltv.org/news/45172/tge-takes-over-as-bestia-head-coach
+2026/07/25 09:05:01 Content still empty after HTML reader: https://www.hltv.org/news/45171/100-thieves-eliminate-falcons-in-shock-upset-to-end-day-two-of-blast-bounty-s2
+2026/07/25 09:05:01 Fetched posts from https://www.hltv.org/rss/news, took 1.782659016s
+2026/07/25 09:05:59 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.476865052s
+2026/07/25 09:05:59 Skipping writing post, no content: https://www.hltv.org/news/45175/spirit-survive-og-scare-to-close-day-three-of-blast-bounty
+2026/07/25 09:05:59 Skipping writing post, no content: https://www.hltv.org/news/45174/100-thieves-eliminated-from-starseries-fall-qualifier-by-nuclear-tigeres
+2026/07/25 09:05:59 Skipping writing post, no content: https://www.hltv.org/news/45173/fokus-stun-aurora-to-eliminate-them-from-blast-bounty
+2026/07/25 09:05:59 Skipping writing post, no content: https://www.hltv.org/news/45172/tge-takes-over-as-bestia-head-coach
+2026/07/25 09:05:59 Skipping writing post, no content: https://www.hltv.org/news/45171/100-thieves-eliminate-falcons-in-shock-upset-to-end-day-two-of-blast-bounty-s2
+2026/07/25 09:05:59 Templated 47 posts, took 6.54228ms
