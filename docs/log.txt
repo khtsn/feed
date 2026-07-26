@@ -1,15 +1,16 @@
-2026/07/26 15:13:02 Fetched posts from https://vlr.gg/rss, took 1.083548492s
-2026/07/26 15:13:03 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.759778132s
-2026/07/26 15:13:03 Content still empty after HTML reader: https://www.hltv.org/news/45181/liquid-make-light-work-of-g2-en-route-to-malta
-2026/07/26 15:13:03 Content still empty after HTML reader: https://www.hltv.org/news/45180/faze-clinch-first-bounty-finals-spot-over-dendele
-2026/07/26 15:13:03 Content still empty after HTML reader: https://www.hltv.org/news/45162/short-news-week-29
-2026/07/26 15:13:03 Content still empty after HTML reader: https://www.hltv.org/news/45177/astralis-eliminated-as-starseries-fall-qualifier-reaches-playoffs
-2026/07/26 15:13:03 Content still empty after HTML reader: https://www.hltv.org/news/45179/blast-bounty-stage-2-live-draft
-2026/07/26 15:13:03 Fetched posts from https://www.hltv.org/rss/news, took 2.245954825s
-2026/07/26 15:14:00 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.673858625s
-2026/07/26 15:14:00 Skipping writing post, no content: https://www.hltv.org/news/45181/liquid-make-light-work-of-g2-en-route-to-malta
-2026/07/26 15:14:00 Skipping writing post, no content: https://www.hltv.org/news/45180/faze-clinch-first-bounty-finals-spot-over-dendele
-2026/07/26 15:14:00 Skipping writing post, no content: https://www.hltv.org/news/45162/short-news-week-29
-2026/07/26 15:14:00 Skipping writing post, no content: https://www.hltv.org/news/45177/astralis-eliminated-as-starseries-fall-qualifier-reaches-playoffs
-2026/07/26 15:14:00 Skipping writing post, no content: https://www.hltv.org/news/45179/blast-bounty-stage-2-live-draft
-2026/07/26 15:14:00 Templated 48 posts, took 3.759126ms
+2026/07/26 16:15:05 Fetched posts from https://vlr.gg/rss, took 1.052470507s
+2026/07/26 16:15:05 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.244328095s
+2026/07/26 16:15:05 Content still empty after HTML reader: https://www.hltv.org/news/45181/liquid-make-light-work-of-g2-en-route-to-malta
+2026/07/26 16:15:05 Content still empty after HTML reader: https://www.hltv.org/news/45180/faze-clinch-first-bounty-finals-spot-over-dendele
+2026/07/26 16:15:05 Content still empty after HTML reader: https://www.hltv.org/news/45162/short-news-week-29
+2026/07/26 16:15:05 Content still empty after HTML reader: https://www.hltv.org/news/45177/astralis-eliminated-as-starseries-fall-qualifier-reaches-playoffs
+2026/07/26 16:15:05 Content still empty after HTML reader: https://www.hltv.org/news/45179/blast-bounty-stage-2-live-draft
+2026/07/26 16:15:05 Fetched posts from https://www.hltv.org/rss/news, took 1.334517023s
+2026/07/26 16:16:04 Get "https://www.bbc.com/vietnamese/articles/c20ekz4prdko?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/26 16:16:04 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004027198s
+2026/07/26 16:16:04 Skipping writing post, no content: https://www.hltv.org/news/45181/liquid-make-light-work-of-g2-en-route-to-malta
+2026/07/26 16:16:04 Skipping writing post, no content: https://www.hltv.org/news/45180/faze-clinch-first-bounty-finals-spot-over-dendele
+2026/07/26 16:16:04 Skipping writing post, no content: https://www.hltv.org/news/45162/short-news-week-29
+2026/07/26 16:16:04 Skipping writing post, no content: https://www.hltv.org/news/45177/astralis-eliminated-as-starseries-fall-qualifier-reaches-playoffs
+2026/07/26 16:16:04 Skipping writing post, no content: https://www.hltv.org/news/45179/blast-bounty-stage-2-live-draft
+2026/07/26 16:16:04 Templated 47 posts, took 5.896485ms
