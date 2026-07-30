@@ -1,15 +1,16 @@
-2026/07/30 03:26:59 Fetched posts from https://vlr.gg/rss, took 889.691071ms
-2026/07/30 03:26:59 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.127807231s
-2026/07/30 03:26:59 Content still empty after HTML reader: https://www.hltv.org/news/45196/twistzz-until-faze-says-otherwise-i-will-give-everything-i-have-and-become-the-best-leader-i-can-be
-2026/07/30 03:26:59 Content still empty after HTML reader: https://www.hltv.org/news/45192/short-news-week-30
-2026/07/30 03:26:59 Content still empty after HTML reader: https://www.hltv.org/news/45195/valve-ships-new-ranked-cologne-major-stickers
-2026/07/30 03:26:59 Content still empty after HTML reader: https://www.hltv.org/news/45194/ewc-2026-grand-final-moved-to-accor-arena
-2026/07/30 03:26:59 Content still empty after HTML reader: https://www.hltv.org/news/45193/maaraa-unable-to-attend-bounty-finals-and-ewc
-2026/07/30 03:26:59 Fetched posts from https://www.hltv.org/rss/news, took 1.486006215s
-2026/07/30 03:27:57 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.565317618s
-2026/07/30 03:27:57 Skipping writing post, no content: https://www.hltv.org/news/45196/twistzz-until-faze-says-otherwise-i-will-give-everything-i-have-and-become-the-best-leader-i-can-be
-2026/07/30 03:27:57 Skipping writing post, no content: https://www.hltv.org/news/45192/short-news-week-30
-2026/07/30 03:27:57 Skipping writing post, no content: https://www.hltv.org/news/45195/valve-ships-new-ranked-cologne-major-stickers
-2026/07/30 03:27:57 Skipping writing post, no content: https://www.hltv.org/news/45194/ewc-2026-grand-final-moved-to-accor-arena
-2026/07/30 03:27:57 Skipping writing post, no content: https://www.hltv.org/news/45193/maaraa-unable-to-attend-bounty-finals-and-ewc
-2026/07/30 03:27:57 Templated 46 posts, took 6.624782ms
+2026/07/30 06:07:42 Fetched posts from https://vlr.gg/rss, took 1.224030677s
+2026/07/30 06:07:42 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.26685575s
+2026/07/30 06:07:42 Content still empty after HTML reader: https://www.hltv.org/news/45196/twistzz-until-faze-says-otherwise-i-will-give-everything-i-have-and-become-the-best-leader-i-can-be
+2026/07/30 06:07:42 Content still empty after HTML reader: https://www.hltv.org/news/45192/short-news-week-30
+2026/07/30 06:07:42 Content still empty after HTML reader: https://www.hltv.org/news/45195/valve-ships-new-ranked-cologne-major-stickers
+2026/07/30 06:07:42 Content still empty after HTML reader: https://www.hltv.org/news/45194/ewc-2026-grand-final-moved-to-accor-arena
+2026/07/30 06:07:42 Content still empty after HTML reader: https://www.hltv.org/news/45193/maaraa-unable-to-attend-bounty-finals-and-ewc
+2026/07/30 06:07:42 Fetched posts from https://www.hltv.org/rss/news, took 2.020651771s
+2026/07/30 06:08:40 Get "https://www.bbc.com/vietnamese/articles/clyjgg5835xo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/30 06:08:40 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.00449864s
+2026/07/30 06:08:40 Skipping writing post, no content: https://www.hltv.org/news/45196/twistzz-until-faze-says-otherwise-i-will-give-everything-i-have-and-become-the-best-leader-i-can-be
+2026/07/30 06:08:40 Skipping writing post, no content: https://www.hltv.org/news/45192/short-news-week-30
+2026/07/30 06:08:40 Skipping writing post, no content: https://www.hltv.org/news/45195/valve-ships-new-ranked-cologne-major-stickers
+2026/07/30 06:08:40 Skipping writing post, no content: https://www.hltv.org/news/45194/ewc-2026-grand-final-moved-to-accor-arena
+2026/07/30 06:08:40 Skipping writing post, no content: https://www.hltv.org/news/45193/maaraa-unable-to-attend-bounty-finals-and-ewc
+2026/07/30 06:08:40 Templated 46 posts, took 6.683214ms
