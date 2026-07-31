@@ -1,16 +1,15 @@
-2026/07/31 12:21:22 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.4273278s
-2026/07/31 12:21:22 Fetched posts from https://vlr.gg/rss, took 1.63836314s
-2026/07/31 12:21:24 Content still empty after HTML reader: https://www.hltv.org/news/45192/short-news-week-30
-2026/07/31 12:21:24 Content still empty after HTML reader: https://www.hltv.org/news/45206/jorko-im-just-being-myself-i-dont-want-my-teammates-to-feel-tilted
-2026/07/31 12:21:24 Content still empty after HTML reader: https://www.hltv.org/news/45205/spirit-advance-to-blast-bounty-semis-over-liquid
-2026/07/31 12:21:24 Content still empty after HTML reader: https://www.hltv.org/news/45202/kursy-on-rifling-i-wanted-to-change-and-i-really-like-it
-2026/07/31 12:21:24 Content still empty after HTML reader: https://www.hltv.org/news/45199/pr-i-really-like-the-way-xertion-calls-because-i-have-more-responsibilities-than-before
-2026/07/31 12:21:24 Fetched posts from https://www.hltv.org/rss/news, took 2.91898079s
-2026/07/31 12:22:21 Get "https://www.bbc.com/vietnamese/articles/c2k7qkedvk0o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/07/31 12:22:21 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004085294s
-2026/07/31 12:22:21 Skipping writing post, no content: https://www.hltv.org/news/45192/short-news-week-30
-2026/07/31 12:22:21 Skipping writing post, no content: https://www.hltv.org/news/45206/jorko-im-just-being-myself-i-dont-want-my-teammates-to-feel-tilted
-2026/07/31 12:22:21 Skipping writing post, no content: https://www.hltv.org/news/45205/spirit-advance-to-blast-bounty-semis-over-liquid
-2026/07/31 12:22:21 Skipping writing post, no content: https://www.hltv.org/news/45202/kursy-on-rifling-i-wanted-to-change-and-i-really-like-it
-2026/07/31 12:22:21 Skipping writing post, no content: https://www.hltv.org/news/45199/pr-i-really-like-the-way-xertion-calls-because-i-have-more-responsibilities-than-before
-2026/07/31 12:22:21 Templated 55 posts, took 6.750548ms
+2026/07/31 14:44:02 Fetched posts from https://vlr.gg/rss, took 968.626754ms
+2026/07/31 14:44:02 Content still empty after HTML reader: https://www.hltv.org/news/45207/mouz-survive-3dmax-scare-to-make-bounty-semis
+2026/07/31 14:44:02 Content still empty after HTML reader: https://www.hltv.org/news/45204/live-updates-from-blast-bounty-season-2-finals-quarter-finals
+2026/07/31 14:44:02 Content still empty after HTML reader: https://www.hltv.org/news/45192/short-news-week-30
+2026/07/31 14:44:02 Content still empty after HTML reader: https://www.hltv.org/news/45206/jorko-im-just-being-myself-i-dont-want-my-teammates-to-feel-tilted
+2026/07/31 14:44:02 Content still empty after HTML reader: https://www.hltv.org/news/45205/spirit-advance-to-blast-bounty-semis-over-liquid
+2026/07/31 14:44:02 Fetched posts from https://www.hltv.org/rss/news, took 1.242281168s
+2026/07/31 14:44:02 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.798427428s
+2026/07/31 14:45:00 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.382977176s
+2026/07/31 14:45:00 Skipping writing post, no content: https://www.hltv.org/news/45207/mouz-survive-3dmax-scare-to-make-bounty-semis
+2026/07/31 14:45:00 Skipping writing post, no content: https://www.hltv.org/news/45204/live-updates-from-blast-bounty-season-2-finals-quarter-finals
+2026/07/31 14:45:00 Skipping writing post, no content: https://www.hltv.org/news/45192/short-news-week-30
+2026/07/31 14:45:00 Skipping writing post, no content: https://www.hltv.org/news/45206/jorko-im-just-being-myself-i-dont-want-my-teammates-to-feel-tilted
+2026/07/31 14:45:00 Skipping writing post, no content: https://www.hltv.org/news/45205/spirit-advance-to-blast-bounty-semis-over-liquid
+2026/07/31 14:45:00 Templated 54 posts, took 7.364594ms
