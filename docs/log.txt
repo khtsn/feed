@@ -1,15 +1,16 @@
-2026/07/31 22:50:15 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.257270397s
-2026/07/31 22:50:15 Fetched posts from https://vlr.gg/rss, took 1.513020243s
-2026/07/31 22:50:30 Content still empty after HTML reader: https://www.hltv.org/news/45213/frozen-we-are-playing-better-than-we-did-half-a-year-ago-but-there-is-still-so-much-to-improve
-2026/07/31 22:50:30 Content still empty after HTML reader: https://www.hltv.org/news/45212/faze-grab-semi-final-berth-over-the-mongolz
-2026/07/31 22:50:30 Content still empty after HTML reader: https://www.hltv.org/news/45211/1win-bench-team
-2026/07/31 22:50:30 Content still empty after HTML reader: https://www.hltv.org/news/45210/johnny-speeds-and-heap-part-ways
-2026/07/31 22:50:30 Content still empty after HTML reader: https://www.hltv.org/news/45201/neo-on-faze-removal-no-grudges-it-is-what-it-is-but-ive-learned-my-lesson
-2026/07/31 22:50:30 Fetched posts from https://www.hltv.org/rss/news, took 16.500947344s
-2026/07/31 22:51:13 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.495386933s
-2026/07/31 22:51:13 Skipping writing post, no content: https://www.hltv.org/news/45213/frozen-we-are-playing-better-than-we-did-half-a-year-ago-but-there-is-still-so-much-to-improve
-2026/07/31 22:51:13 Skipping writing post, no content: https://www.hltv.org/news/45212/faze-grab-semi-final-berth-over-the-mongolz
-2026/07/31 22:51:13 Skipping writing post, no content: https://www.hltv.org/news/45211/1win-bench-team
-2026/07/31 22:51:13 Skipping writing post, no content: https://www.hltv.org/news/45210/johnny-speeds-and-heap-part-ways
-2026/07/31 22:51:13 Skipping writing post, no content: https://www.hltv.org/news/45201/neo-on-faze-removal-no-grudges-it-is-what-it-is-but-ive-learned-my-lesson
-2026/07/31 22:51:13 Templated 52 posts, took 6.349739ms
+2026/07/31 23:48:04 Fetched posts from https://vlr.gg/rss, took 723.064436ms
+2026/07/31 23:48:04 Content still empty after HTML reader: https://www.hltv.org/news/45213/frozen-we-are-playing-better-than-we-did-half-a-year-ago-but-there-is-still-so-much-to-improve
+2026/07/31 23:48:04 Content still empty after HTML reader: https://www.hltv.org/news/45212/faze-grab-semi-final-berth-over-the-mongolz
+2026/07/31 23:48:04 Content still empty after HTML reader: https://www.hltv.org/news/45211/1win-bench-team
+2026/07/31 23:48:04 Content still empty after HTML reader: https://www.hltv.org/news/45210/johnny-speeds-and-heap-part-ways
+2026/07/31 23:48:04 Content still empty after HTML reader: https://www.hltv.org/news/45201/neo-on-faze-removal-no-grudges-it-is-what-it-is-but-ive-learned-my-lesson
+2026/07/31 23:48:04 Fetched posts from https://www.hltv.org/rss/news, took 1.626586947s
+2026/07/31 23:48:05 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.589269518s
+2026/07/31 23:49:03 Get "https://www.bbc.com/vietnamese/articles/c2k7qkedvk0o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/07/31 23:49:03 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003601557s
+2026/07/31 23:49:03 Skipping writing post, no content: https://www.hltv.org/news/45213/frozen-we-are-playing-better-than-we-did-half-a-year-ago-but-there-is-still-so-much-to-improve
+2026/07/31 23:49:03 Skipping writing post, no content: https://www.hltv.org/news/45212/faze-grab-semi-final-berth-over-the-mongolz
+2026/07/31 23:49:03 Skipping writing post, no content: https://www.hltv.org/news/45211/1win-bench-team
+2026/07/31 23:49:03 Skipping writing post, no content: https://www.hltv.org/news/45210/johnny-speeds-and-heap-part-ways
+2026/07/31 23:49:03 Skipping writing post, no content: https://www.hltv.org/news/45201/neo-on-faze-removal-no-grudges-it-is-what-it-is-but-ive-learned-my-lesson
+2026/07/31 23:49:03 Templated 51 posts, took 7.911134ms
