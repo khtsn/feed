@@ -1,16 +1,15 @@
-2026/08/01 10:58:47 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.260930696s
-2026/08/01 10:58:47 Fetched posts from https://vlr.gg/rss, took 2.018329283s
-2026/08/01 10:58:47 Content still empty after HTML reader: https://www.hltv.org/news/45204/blast-bounty-s2-quarter-finals-as-they-happened
-2026/08/01 10:58:47 Content still empty after HTML reader: https://www.hltv.org/news/45192/short-news-week-30
-2026/08/01 10:58:47 Content still empty after HTML reader: https://www.hltv.org/news/45213/frozen-we-are-playing-better-than-we-did-half-a-year-ago-but-there-is-still-so-much-to-improve
-2026/08/01 10:58:47 Content still empty after HTML reader: https://www.hltv.org/news/45212/faze-grab-semi-final-berth-over-the-mongolz
-2026/08/01 10:58:47 Content still empty after HTML reader: https://www.hltv.org/news/45211/1win-bench-team
-2026/08/01 10:58:47 Fetched posts from https://www.hltv.org/rss/news, took 2.215606768s
-2026/08/01 10:59:45 Get "https://www.bbc.com/vietnamese/articles/ce97vv51k0po?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/08/01 10:59:45 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004585293s
-2026/08/01 10:59:45 Skipping writing post, no content: https://www.hltv.org/news/45204/blast-bounty-s2-quarter-finals-as-they-happened
-2026/08/01 10:59:45 Skipping writing post, no content: https://www.hltv.org/news/45192/short-news-week-30
-2026/08/01 10:59:45 Skipping writing post, no content: https://www.hltv.org/news/45213/frozen-we-are-playing-better-than-we-did-half-a-year-ago-but-there-is-still-so-much-to-improve
-2026/08/01 10:59:45 Skipping writing post, no content: https://www.hltv.org/news/45212/faze-grab-semi-final-berth-over-the-mongolz
-2026/08/01 10:59:45 Skipping writing post, no content: https://www.hltv.org/news/45211/1win-bench-team
-2026/08/01 10:59:45 Templated 47 posts, took 6.822755ms
+2026/08/01 12:07:00 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.508528676s
+2026/08/01 12:07:00 Fetched posts from https://vlr.gg/rss, took 1.792294656s
+2026/08/01 12:07:00 Content still empty after HTML reader: https://www.hltv.org/news/45204/blast-bounty-s2-quarter-finals-as-they-happened
+2026/08/01 12:07:01 Content still empty after HTML reader: https://www.hltv.org/news/45192/short-news-week-30
+2026/08/01 12:07:01 Content still empty after HTML reader: https://www.hltv.org/news/45213/frozen-we-are-playing-better-than-we-did-half-a-year-ago-but-there-is-still-so-much-to-improve
+2026/08/01 12:07:01 Content still empty after HTML reader: https://www.hltv.org/news/45212/faze-grab-semi-final-berth-over-the-mongolz
+2026/08/01 12:07:01 Content still empty after HTML reader: https://www.hltv.org/news/45211/1win-bench-team
+2026/08/01 12:07:01 Fetched posts from https://www.hltv.org/rss/news, took 2.379692471s
+2026/08/01 12:07:58 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.511243921s
+2026/08/01 12:07:58 Skipping writing post, no content: https://www.hltv.org/news/45204/blast-bounty-s2-quarter-finals-as-they-happened
+2026/08/01 12:07:58 Skipping writing post, no content: https://www.hltv.org/news/45192/short-news-week-30
+2026/08/01 12:07:58 Skipping writing post, no content: https://www.hltv.org/news/45213/frozen-we-are-playing-better-than-we-did-half-a-year-ago-but-there-is-still-so-much-to-improve
+2026/08/01 12:07:58 Skipping writing post, no content: https://www.hltv.org/news/45212/faze-grab-semi-final-berth-over-the-mongolz
+2026/08/01 12:07:58 Skipping writing post, no content: https://www.hltv.org/news/45211/1win-bench-team
+2026/08/01 12:07:58 Templated 49 posts, took 6.471765ms
