@@ -1,15 +1,16 @@
-2026/08/02 23:39:55 Fetched posts from https://vlr.gg/rss, took 1.05980632s
-2026/08/02 23:39:55 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.163084809s
-2026/08/02 23:39:56 Content still empty after HTML reader: https://www.hltv.org/news/45225/fissure-playground-3-moves-to-suzhou
-2026/08/02 23:39:56 Content still empty after HTML reader: https://www.hltv.org/news/45221/spinx-everyone-wants-to-have-fun-on-the-server-but-you-need-to-put-the-team-first-always
-2026/08/02 23:39:56 Content still empty after HTML reader: https://www.hltv.org/news/45222/bcgame-win-elisa-esports-breakout-series-1-on-new-rosters-debut
-2026/08/02 23:39:56 Content still empty after HTML reader: https://www.hltv.org/news/45220/mouz-inch-past-astralis-into-blast-bounty-final
-2026/08/02 23:39:56 Content still empty after HTML reader: https://www.hltv.org/news/45219/spirit-survive-faze-scare-to-move-on-to-blast-bounty-grand-final
-2026/08/02 23:39:56 Fetched posts from https://www.hltv.org/rss/news, took 2.13293428s
-2026/08/02 23:40:48 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 54.846213178s
-2026/08/02 23:40:48 Skipping writing post, no content: https://www.hltv.org/news/45225/fissure-playground-3-moves-to-suzhou
-2026/08/02 23:40:48 Skipping writing post, no content: https://www.hltv.org/news/45221/spinx-everyone-wants-to-have-fun-on-the-server-but-you-need-to-put-the-team-first-always
-2026/08/02 23:40:48 Skipping writing post, no content: https://www.hltv.org/news/45222/bcgame-win-elisa-esports-breakout-series-1-on-new-rosters-debut
-2026/08/02 23:40:48 Skipping writing post, no content: https://www.hltv.org/news/45220/mouz-inch-past-astralis-into-blast-bounty-final
-2026/08/02 23:40:48 Skipping writing post, no content: https://www.hltv.org/news/45219/spirit-survive-faze-scare-to-move-on-to-blast-bounty-grand-final
-2026/08/02 23:40:48 Templated 43 posts, took 7.066189ms
+2026/08/03 01:15:15 Fetched posts from https://vlr.gg/rss, took 676.295919ms
+2026/08/03 01:15:15 Content still empty after HTML reader: https://www.hltv.org/news/45225/fissure-playground-3-moves-to-suzhou
+2026/08/03 01:15:15 Content still empty after HTML reader: https://www.hltv.org/news/45221/spinx-everyone-wants-to-have-fun-on-the-server-but-you-need-to-put-the-team-first-always
+2026/08/03 01:15:15 Content still empty after HTML reader: https://www.hltv.org/news/45222/bcgame-win-elisa-esports-breakout-series-1-on-new-rosters-debut
+2026/08/03 01:15:15 Content still empty after HTML reader: https://www.hltv.org/news/45220/mouz-inch-past-astralis-into-blast-bounty-final
+2026/08/03 01:15:15 Content still empty after HTML reader: https://www.hltv.org/news/45219/spirit-survive-faze-scare-to-move-on-to-blast-bounty-grand-final
+2026/08/03 01:15:15 Fetched posts from https://www.hltv.org/rss/news, took 1.190632297s
+2026/08/03 01:15:16 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.320749953s
+2026/08/03 01:16:14 Get "https://www.bbc.com/vietnamese/articles/cx2kplgk5x9o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/03 01:16:14 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004226812s
+2026/08/03 01:16:14 Skipping writing post, no content: https://www.hltv.org/news/45225/fissure-playground-3-moves-to-suzhou
+2026/08/03 01:16:14 Skipping writing post, no content: https://www.hltv.org/news/45221/spinx-everyone-wants-to-have-fun-on-the-server-but-you-need-to-put-the-team-first-always
+2026/08/03 01:16:14 Skipping writing post, no content: https://www.hltv.org/news/45222/bcgame-win-elisa-esports-breakout-series-1-on-new-rosters-debut
+2026/08/03 01:16:14 Skipping writing post, no content: https://www.hltv.org/news/45220/mouz-inch-past-astralis-into-blast-bounty-final
+2026/08/03 01:16:14 Skipping writing post, no content: https://www.hltv.org/news/45219/spirit-survive-faze-scare-to-move-on-to-blast-bounty-grand-final
+2026/08/03 01:16:14 Templated 45 posts, took 6.717657ms
