@@ -1,17 +1,16 @@
-2026/08/03 20:10:24 Fetched posts from https://vlr.gg/rss, took 936.66437ms
-2026/08/03 20:10:25 failed to parse input: stream error: stream ID 43; PROTOCOL_ERROR; received from peer
-2026/08/03 20:10:25 Content still empty after HTML reader: https://www.hltv.org/news/45192/short-news-week-30
-2026/08/03 20:10:25 Content still empty after HTML reader: https://www.hltv.org/news/45228/spinx-i-always-wanted-to-have-just-one-mvp-in-my-career
-2026/08/03 20:10:25 Content still empty after HTML reader: https://www.hltv.org/news/45224/blast-bounty-s2-grand-final-as-it-happened
-2026/08/03 20:10:25 Content still empty after HTML reader: https://www.hltv.org/news/45227/spinx-earns-career-first-mvp-at-blast-bounty-season-2-finals
-2026/08/03 20:10:25 Content still empty after HTML reader: https://www.hltv.org/news/45226/mouz-subdue-spirit-to-win-blast-bounty-s2
-2026/08/03 20:10:25 Fetched posts from https://www.hltv.org/rss/news, took 1.761738489s
-2026/08/03 20:10:25 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.90959262s
-2026/08/03 20:11:23 Get "https://www.bbc.com/vietnamese/articles/c9v47k9wkx4o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/08/03 20:11:23 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004292109s
-2026/08/03 20:11:23 Skipping writing post, no content: https://www.hltv.org/news/45192/short-news-week-30
-2026/08/03 20:11:23 Skipping writing post, no content: https://www.hltv.org/news/45228/spinx-i-always-wanted-to-have-just-one-mvp-in-my-career
-2026/08/03 20:11:23 Skipping writing post, no content: https://www.hltv.org/news/45224/blast-bounty-s2-grand-final-as-it-happened
-2026/08/03 20:11:23 Skipping writing post, no content: https://www.hltv.org/news/45227/spinx-earns-career-first-mvp-at-blast-bounty-season-2-finals
-2026/08/03 20:11:23 Skipping writing post, no content: https://www.hltv.org/news/45226/mouz-subdue-spirit-to-win-blast-bounty-s2
-2026/08/03 20:11:23 Templated 50 posts, took 6.333212ms
+2026/08/03 21:29:52 Fetched posts from https://vlr.gg/rss, took 505.34576ms
+2026/08/03 21:29:52 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.115934054s
+2026/08/03 21:29:53 Content still empty after HTML reader: https://www.hltv.org/news/45192/short-news-week-30
+2026/08/03 21:29:53 Content still empty after HTML reader: https://www.hltv.org/news/45228/spinx-i-always-wanted-to-have-just-one-mvp-in-my-career
+2026/08/03 21:29:53 Content still empty after HTML reader: https://www.hltv.org/news/45224/blast-bounty-s2-grand-final-as-it-happened
+2026/08/03 21:29:53 Content still empty after HTML reader: https://www.hltv.org/news/45227/spinx-earns-career-first-mvp-at-blast-bounty-season-2-finals
+2026/08/03 21:29:53 Content still empty after HTML reader: https://www.hltv.org/news/45226/mouz-subdue-spirit-to-win-blast-bounty-s2
+2026/08/03 21:29:53 Fetched posts from https://www.hltv.org/rss/news, took 1.589513965s
+2026/08/03 21:30:51 Get "https://www.bbc.com/vietnamese/articles/c9v47k9wkx4o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/03 21:30:51 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004703551s
+2026/08/03 21:30:51 Skipping writing post, no content: https://www.hltv.org/news/45192/short-news-week-30
+2026/08/03 21:30:51 Skipping writing post, no content: https://www.hltv.org/news/45228/spinx-i-always-wanted-to-have-just-one-mvp-in-my-career
+2026/08/03 21:30:51 Skipping writing post, no content: https://www.hltv.org/news/45224/blast-bounty-s2-grand-final-as-it-happened
+2026/08/03 21:30:51 Skipping writing post, no content: https://www.hltv.org/news/45227/spinx-earns-career-first-mvp-at-blast-bounty-season-2-finals
+2026/08/03 21:30:51 Skipping writing post, no content: https://www.hltv.org/news/45226/mouz-subdue-spirit-to-win-blast-bounty-s2
+2026/08/03 21:30:51 Templated 48 posts, took 6.123635ms
