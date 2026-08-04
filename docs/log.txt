@@ -1,15 +1,13 @@
-2026/08/04 21:19:52 Fetched posts from https://vlr.gg/rss, took 932.685974ms
-2026/08/04 21:19:52 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.599474394s
-2026/08/04 21:19:53 Content still empty after HTML reader: https://www.hltv.org/news/45233/mibr-and-nrg-qualify-for-starseries-fall
-2026/08/04 21:19:53 Content still empty after HTML reader: https://www.hltv.org/news/45231/ewc-qualifier-groups-announced-liquid-bcg-and-heroic-among-the-headliners
-2026/08/04 21:19:53 Content still empty after HTML reader: https://www.hltv.org/news/45232/tacitus-joins-imperial-as-head-coach
-2026/08/04 21:19:53 Content still empty after HTML reader: https://www.hltv.org/news/45230/short-news-week-31
-2026/08/04 21:19:53 Content still empty after HTML reader: https://www.hltv.org/news/45229/perfecto-enters-free-agency
-2026/08/04 21:19:53 Fetched posts from https://www.hltv.org/rss/news, took 2.206367223s
-2026/08/04 21:20:46 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 55.471785054s
-2026/08/04 21:20:46 Skipping writing post, no content: https://www.hltv.org/news/45233/mibr-and-nrg-qualify-for-starseries-fall
-2026/08/04 21:20:46 Skipping writing post, no content: https://www.hltv.org/news/45231/ewc-qualifier-groups-announced-liquid-bcg-and-heroic-among-the-headliners
-2026/08/04 21:20:46 Skipping writing post, no content: https://www.hltv.org/news/45232/tacitus-joins-imperial-as-head-coach
-2026/08/04 21:20:46 Skipping writing post, no content: https://www.hltv.org/news/45230/short-news-week-31
-2026/08/04 21:20:46 Skipping writing post, no content: https://www.hltv.org/news/45229/perfecto-enters-free-agency
-2026/08/04 21:20:46 Templated 50 posts, took 6.756038ms
+2026/08/04 22:32:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.3149273s
+2026/08/04 22:32:09 Fetched posts from https://vlr.gg/rss, took 1.838840129s
+2026/08/04 22:32:16 Content still empty after HTML reader: https://www.hltv.org/news/45231/ewc-qualifier-groups-announced-liquid-bcg-and-heroic-among-the-headliners
+2026/08/04 22:32:16 Content still empty after HTML reader: https://www.hltv.org/news/45232/tacitus-joins-imperial-as-head-coach
+2026/08/04 22:32:16 Content still empty after HTML reader: https://www.hltv.org/news/45230/short-news-week-31
+2026/08/04 22:32:16 Content still empty after HTML reader: https://www.hltv.org/news/45229/perfecto-enters-free-agency
+2026/08/04 22:32:16 Fetched posts from https://www.hltv.org/rss/news, took 8.887315545s
+2026/08/04 22:33:03 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 55.837996968s
+2026/08/04 22:33:03 Skipping writing post, no content: https://www.hltv.org/news/45231/ewc-qualifier-groups-announced-liquid-bcg-and-heroic-among-the-headliners
+2026/08/04 22:33:03 Skipping writing post, no content: https://www.hltv.org/news/45232/tacitus-joins-imperial-as-head-coach
+2026/08/04 22:33:03 Skipping writing post, no content: https://www.hltv.org/news/45230/short-news-week-31
+2026/08/04 22:33:03 Skipping writing post, no content: https://www.hltv.org/news/45229/perfecto-enters-free-agency
+2026/08/04 22:33:03 Templated 49 posts, took 5.392752ms
