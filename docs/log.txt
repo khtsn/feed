@@ -1,15 +1,14 @@
-2026/08/08 12:16:37 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 721.956503ms
-2026/08/08 12:16:37 Fetched posts from https://vlr.gg/rss, took 762.863336ms
-2026/08/08 12:16:37 Content still empty after HTML reader: https://www.hltv.org/news/45245/bcgame-big-among-first-teams-through-to-ewc-open-qualifier-playoffs
-2026/08/08 12:16:37 Content still empty after HTML reader: https://www.hltv.org/news/45230/short-news-week-31
-2026/08/08 12:16:37 Content still empty after HTML reader: https://www.hltv.org/news/45244/official-gentle-mates-leave-cs
-2026/08/08 12:16:37 Content still empty after HTML reader: https://www.hltv.org/news/45242/the-evp-and-all-stars-of-blast-bounty-2026-season-2-finals
-2026/08/08 12:16:37 Content still empty after HTML reader: https://www.hltv.org/news/45241/esports-world-cup-teams-format-schedule-prizes-talent-fantasy
-2026/08/08 12:16:37 Fetched posts from https://www.hltv.org/rss/news, took 1.224365908s
-2026/08/08 12:17:35 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.471101816s
-2026/08/08 12:17:35 Skipping writing post, no content: https://www.hltv.org/news/45245/bcgame-big-among-first-teams-through-to-ewc-open-qualifier-playoffs
-2026/08/08 12:17:35 Skipping writing post, no content: https://www.hltv.org/news/45230/short-news-week-31
-2026/08/08 12:17:35 Skipping writing post, no content: https://www.hltv.org/news/45244/official-gentle-mates-leave-cs
-2026/08/08 12:17:35 Skipping writing post, no content: https://www.hltv.org/news/45242/the-evp-and-all-stars-of-blast-bounty-2026-season-2-finals
-2026/08/08 12:17:35 Skipping writing post, no content: https://www.hltv.org/news/45241/esports-world-cup-teams-format-schedule-prizes-talent-fantasy
-2026/08/08 12:17:35 Templated 42 posts, took 6.261815ms
+2026/08/08 13:16:29 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 617.37695ms
+2026/08/08 13:16:30 Fetched posts from https://vlr.gg/rss, took 1.160205616s
+2026/08/08 13:16:31 Content still empty after HTML reader: https://www.hltv.org/news/45230/short-news-week-31
+2026/08/08 13:16:31 Content still empty after HTML reader: https://www.hltv.org/news/45244/official-gentle-mates-leave-cs
+2026/08/08 13:16:31 Content still empty after HTML reader: https://www.hltv.org/news/45242/the-evp-and-all-stars-of-blast-bounty-2026-season-2-finals
+2026/08/08 13:16:31 Content still empty after HTML reader: https://www.hltv.org/news/45241/esports-world-cup-teams-format-schedule-prizes-talent-fantasy
+2026/08/08 13:16:31 Fetched posts from https://www.hltv.org/rss/news, took 2.784366417s
+2026/08/08 13:17:28 Get "https://www.bbc.com/vietnamese/articles/cwylx58jjg6o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/08 13:17:28 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004148582s
+2026/08/08 13:17:28 Skipping writing post, no content: https://www.hltv.org/news/45230/short-news-week-31
+2026/08/08 13:17:28 Skipping writing post, no content: https://www.hltv.org/news/45244/official-gentle-mates-leave-cs
+2026/08/08 13:17:28 Skipping writing post, no content: https://www.hltv.org/news/45242/the-evp-and-all-stars-of-blast-bounty-2026-season-2-finals
+2026/08/08 13:17:28 Skipping writing post, no content: https://www.hltv.org/news/45241/esports-world-cup-teams-format-schedule-prizes-talent-fantasy
+2026/08/08 13:17:28 Templated 40 posts, took 6.532771ms
