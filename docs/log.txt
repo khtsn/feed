@@ -1,15 +1,16 @@
-2026/08/10 04:45:23 Fetched posts from https://vlr.gg/rss, took 533.612683ms
-2026/08/10 04:45:23 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 885.604196ms
-2026/08/10 04:45:24 Content still empty after HTML reader: https://www.hltv.org/news/45261/100t-beat-1win-to-qualify-for-ewc-group-stage
-2026/08/10 04:45:24 Content still empty after HTML reader: https://www.hltv.org/news/45260/taz-im-proud-of-the-guys-that-they-were-fighting-until-the-end-this-is-not-something-we-were-known-for-at-the-beginning-of-the-year
-2026/08/10 04:45:24 Content still empty after HTML reader: https://www.hltv.org/news/45259/100-thieves-knock-bcg-out-of-ewc
-2026/08/10 04:45:24 Content still empty after HTML reader: https://www.hltv.org/news/45258/fnatic-through-to-ewc-qualification-game-over-heroic
-2026/08/10 04:45:24 Content still empty after HTML reader: https://www.hltv.org/news/45257/1win-eliminate-liquid-100-thieves-face-bcgame
-2026/08/10 04:45:24 Fetched posts from https://www.hltv.org/rss/news, took 1.436246783s
-2026/08/10 04:46:22 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.67087763s
-2026/08/10 04:46:22 Skipping writing post, no content: https://www.hltv.org/news/45261/100t-beat-1win-to-qualify-for-ewc-group-stage
-2026/08/10 04:46:22 Skipping writing post, no content: https://www.hltv.org/news/45260/taz-im-proud-of-the-guys-that-they-were-fighting-until-the-end-this-is-not-something-we-were-known-for-at-the-beginning-of-the-year
-2026/08/10 04:46:22 Skipping writing post, no content: https://www.hltv.org/news/45259/100-thieves-knock-bcg-out-of-ewc
-2026/08/10 04:46:22 Skipping writing post, no content: https://www.hltv.org/news/45258/fnatic-through-to-ewc-qualification-game-over-heroic
-2026/08/10 04:46:22 Skipping writing post, no content: https://www.hltv.org/news/45257/1win-eliminate-liquid-100-thieves-face-bcgame
-2026/08/10 04:46:22 Templated 43 posts, took 7.436783ms
+2026/08/10 06:02:58 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.16720357s
+2026/08/10 06:02:58 Fetched posts from https://vlr.gg/rss, took 1.209191937s
+2026/08/10 06:02:59 Content still empty after HTML reader: https://www.hltv.org/news/45261/100t-beat-1win-to-qualify-for-ewc-group-stage
+2026/08/10 06:02:59 Content still empty after HTML reader: https://www.hltv.org/news/45260/taz-im-proud-of-the-guys-that-they-were-fighting-until-the-end-this-is-not-something-we-were-known-for-at-the-beginning-of-the-year
+2026/08/10 06:02:59 Content still empty after HTML reader: https://www.hltv.org/news/45259/100-thieves-knock-bcg-out-of-ewc
+2026/08/10 06:02:59 Content still empty after HTML reader: https://www.hltv.org/news/45258/fnatic-through-to-ewc-qualification-game-over-heroic
+2026/08/10 06:02:59 Content still empty after HTML reader: https://www.hltv.org/news/45257/1win-eliminate-liquid-100-thieves-face-bcgame
+2026/08/10 06:02:59 Fetched posts from https://www.hltv.org/rss/news, took 2.18002242s
+2026/08/10 06:03:56 Get "https://www.bbc.com/vietnamese/articles/cwymvg2yxydo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/10 06:03:56 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004847811s
+2026/08/10 06:03:56 Skipping writing post, no content: https://www.hltv.org/news/45261/100t-beat-1win-to-qualify-for-ewc-group-stage
+2026/08/10 06:03:56 Skipping writing post, no content: https://www.hltv.org/news/45260/taz-im-proud-of-the-guys-that-they-were-fighting-until-the-end-this-is-not-something-we-were-known-for-at-the-beginning-of-the-year
+2026/08/10 06:03:56 Skipping writing post, no content: https://www.hltv.org/news/45259/100-thieves-knock-bcg-out-of-ewc
+2026/08/10 06:03:56 Skipping writing post, no content: https://www.hltv.org/news/45258/fnatic-through-to-ewc-qualification-game-over-heroic
+2026/08/10 06:03:56 Skipping writing post, no content: https://www.hltv.org/news/45257/1win-eliminate-liquid-100-thieves-face-bcgame
+2026/08/10 06:03:56 Templated 42 posts, took 5.008697ms
