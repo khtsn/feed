@@ -1,16 +1,15 @@
-2026/08/10 13:58:53 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.056505664s
-2026/08/10 13:58:53 Fetched posts from https://vlr.gg/rss, took 1.37230564s
-2026/08/10 13:58:53 Content still empty after HTML reader: https://www.hltv.org/news/45243/on-the-ground-at-the-esports-world-cup-lcq
-2026/08/10 13:58:53 Content still empty after HTML reader: https://www.hltv.org/news/45264/awp-fans-come-here-ft-btrams
-2026/08/10 13:58:53 Content still empty after HTML reader: https://www.hltv.org/news/45263/jijiehao-complete-ewc-main-event-team-list
-2026/08/10 13:58:53 Content still empty after HTML reader: https://www.hltv.org/news/45262/big-k27-join-ewc-main-event
-2026/08/10 13:58:53 Content still empty after HTML reader: https://www.hltv.org/news/45261/100t-beat-1win-to-qualify-for-ewc-group-stage
-2026/08/10 13:58:53 Fetched posts from https://www.hltv.org/rss/news, took 1.452078268s
-2026/08/10 13:59:51 Get "https://www.bbc.com/vietnamese/articles/cx2jyv97q4vo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/08/10 13:59:51 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004011498s
-2026/08/10 13:59:51 Skipping writing post, no content: https://www.hltv.org/news/45243/on-the-ground-at-the-esports-world-cup-lcq
-2026/08/10 13:59:51 Skipping writing post, no content: https://www.hltv.org/news/45264/awp-fans-come-here-ft-btrams
-2026/08/10 13:59:51 Skipping writing post, no content: https://www.hltv.org/news/45263/jijiehao-complete-ewc-main-event-team-list
-2026/08/10 13:59:51 Skipping writing post, no content: https://www.hltv.org/news/45262/big-k27-join-ewc-main-event
-2026/08/10 13:59:51 Skipping writing post, no content: https://www.hltv.org/news/45261/100t-beat-1win-to-qualify-for-ewc-group-stage
-2026/08/10 13:59:51 Templated 49 posts, took 6.696201ms
+2026/08/10 15:08:25 Fetched posts from https://vlr.gg/rss, took 704.985908ms
+2026/08/10 15:08:25 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.103595841s
+2026/08/10 15:08:26 Content still empty after HTML reader: https://www.hltv.org/news/45243/on-the-ground-at-the-esports-world-cup-lcq
+2026/08/10 15:08:26 Content still empty after HTML reader: https://www.hltv.org/news/45264/awp-fans-come-here-ft-btrams
+2026/08/10 15:08:26 Content still empty after HTML reader: https://www.hltv.org/news/45263/jijiehao-complete-ewc-main-event-team-list
+2026/08/10 15:08:26 Content still empty after HTML reader: https://www.hltv.org/news/45262/big-k27-join-ewc-main-event
+2026/08/10 15:08:26 Content still empty after HTML reader: https://www.hltv.org/news/45261/100t-beat-1win-to-qualify-for-ewc-group-stage
+2026/08/10 15:08:26 Fetched posts from https://www.hltv.org/rss/news, took 2.315172094s
+2026/08/10 15:09:23 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.332203649s
+2026/08/10 15:09:23 Skipping writing post, no content: https://www.hltv.org/news/45243/on-the-ground-at-the-esports-world-cup-lcq
+2026/08/10 15:09:23 Skipping writing post, no content: https://www.hltv.org/news/45264/awp-fans-come-here-ft-btrams
+2026/08/10 15:09:23 Skipping writing post, no content: https://www.hltv.org/news/45263/jijiehao-complete-ewc-main-event-team-list
+2026/08/10 15:09:23 Skipping writing post, no content: https://www.hltv.org/news/45262/big-k27-join-ewc-main-event
+2026/08/10 15:09:23 Skipping writing post, no content: https://www.hltv.org/news/45261/100t-beat-1win-to-qualify-for-ewc-group-stage
+2026/08/10 15:09:23 Templated 50 posts, took 6.688959ms
