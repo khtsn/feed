@@ -1,15 +1,16 @@
-2026/08/11 02:49:51 Fetched posts from https://vlr.gg/rss, took 340.795497ms
-2026/08/11 02:49:52 Content still empty after HTML reader: https://www.hltv.org/news/45266/jdc-this-is-hopefully-the-year-when-we-take-the-next-step
-2026/08/11 02:49:52 Content still empty after HTML reader: https://www.hltv.org/news/45265/esports-world-cup-groups-revealed
-2026/08/11 02:49:52 Content still empty after HTML reader: https://www.hltv.org/news/45243/on-the-ground-at-the-esports-world-cup-lcq
-2026/08/11 02:49:52 Content still empty after HTML reader: https://www.hltv.org/news/45264/awp-fans-come-here-ft-btrams
-2026/08/11 02:49:52 Content still empty after HTML reader: https://www.hltv.org/news/45263/jijiehao-complete-ewc-main-event-team-list
-2026/08/11 02:49:52 Fetched posts from https://www.hltv.org/rss/news, took 1.485503579s
-2026/08/11 02:49:52 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.066120069s
-2026/08/11 02:50:50 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.649661327s
-2026/08/11 02:50:50 Skipping writing post, no content: https://www.hltv.org/news/45266/jdc-this-is-hopefully-the-year-when-we-take-the-next-step
-2026/08/11 02:50:50 Skipping writing post, no content: https://www.hltv.org/news/45265/esports-world-cup-groups-revealed
-2026/08/11 02:50:50 Skipping writing post, no content: https://www.hltv.org/news/45243/on-the-ground-at-the-esports-world-cup-lcq
-2026/08/11 02:50:50 Skipping writing post, no content: https://www.hltv.org/news/45264/awp-fans-come-here-ft-btrams
-2026/08/11 02:50:50 Skipping writing post, no content: https://www.hltv.org/news/45263/jijiehao-complete-ewc-main-event-team-list
-2026/08/11 02:50:50 Templated 49 posts, took 6.752513ms
+2026/08/11 04:07:42 Fetched posts from https://vlr.gg/rss, took 268.709617ms
+2026/08/11 04:07:42 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.100823925s
+2026/08/11 04:07:42 Content still empty after HTML reader: https://www.hltv.org/news/45266/jdc-this-is-hopefully-the-year-when-we-take-the-next-step
+2026/08/11 04:07:42 Content still empty after HTML reader: https://www.hltv.org/news/45265/esports-world-cup-groups-revealed
+2026/08/11 04:07:42 Content still empty after HTML reader: https://www.hltv.org/news/45243/on-the-ground-at-the-esports-world-cup-lcq
+2026/08/11 04:07:42 Content still empty after HTML reader: https://www.hltv.org/news/45264/awp-fans-come-here-ft-btrams
+2026/08/11 04:07:42 Content still empty after HTML reader: https://www.hltv.org/news/45263/jijiehao-complete-ewc-main-event-team-list
+2026/08/11 04:07:42 Fetched posts from https://www.hltv.org/rss/news, took 1.224010989s
+2026/08/11 04:08:41 Get "https://www.bbc.com/vietnamese/articles/czxq74n9p1go?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/11 04:08:41 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004333647s
+2026/08/11 04:08:41 Skipping writing post, no content: https://www.hltv.org/news/45266/jdc-this-is-hopefully-the-year-when-we-take-the-next-step
+2026/08/11 04:08:41 Skipping writing post, no content: https://www.hltv.org/news/45265/esports-world-cup-groups-revealed
+2026/08/11 04:08:41 Skipping writing post, no content: https://www.hltv.org/news/45243/on-the-ground-at-the-esports-world-cup-lcq
+2026/08/11 04:08:41 Skipping writing post, no content: https://www.hltv.org/news/45264/awp-fans-come-here-ft-btrams
+2026/08/11 04:08:41 Skipping writing post, no content: https://www.hltv.org/news/45263/jijiehao-complete-ewc-main-event-team-list
+2026/08/11 04:08:41 Templated 46 posts, took 5.610821ms
