@@ -1,15 +1,16 @@
-2026/08/12 06:45:32 Fetched posts from https://vlr.gg/rss, took 434.882927ms
-2026/08/12 06:45:33 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 944.894909ms
-2026/08/12 06:45:33 Content still empty after HTML reader: https://www.hltv.org/news/45275/pain-replace-betboom-at-blast-open-porto
-2026/08/12 06:45:33 Content still empty after HTML reader: https://www.hltv.org/news/45272/short-news-week-32
-2026/08/12 06:45:33 Content still empty after HTML reader: https://www.hltv.org/news/45274/the-mongolz-faze-among-invites-to-fpg-3
-2026/08/12 06:45:33 Content still empty after HTML reader: https://www.hltv.org/news/45271/making-the-1-difference-being-a-performance-manager-in-vitality-amidst-an-era
-2026/08/12 06:45:33 Content still empty after HTML reader: https://www.hltv.org/news/45270/esl-pro-league-s24-invites-announced
-2026/08/12 06:45:33 Fetched posts from https://www.hltv.org/rss/news, took 1.202248115s
-2026/08/12 06:46:32 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.918894078s
-2026/08/12 06:46:32 Skipping writing post, no content: https://www.hltv.org/news/45275/pain-replace-betboom-at-blast-open-porto
-2026/08/12 06:46:32 Skipping writing post, no content: https://www.hltv.org/news/45272/short-news-week-32
-2026/08/12 06:46:32 Skipping writing post, no content: https://www.hltv.org/news/45274/the-mongolz-faze-among-invites-to-fpg-3
-2026/08/12 06:46:32 Skipping writing post, no content: https://www.hltv.org/news/45271/making-the-1-difference-being-a-performance-manager-in-vitality-amidst-an-era
-2026/08/12 06:46:32 Skipping writing post, no content: https://www.hltv.org/news/45270/esl-pro-league-s24-invites-announced
-2026/08/12 06:46:32 Templated 46 posts, took 6.658169ms
+2026/08/12 08:05:29 Fetched posts from https://vlr.gg/rss, took 709.403951ms
+2026/08/12 08:05:30 Content still empty after HTML reader: https://www.hltv.org/news/45275/pain-replace-betboom-at-blast-open-porto
+2026/08/12 08:05:30 Content still empty after HTML reader: https://www.hltv.org/news/45272/short-news-week-32
+2026/08/12 08:05:30 Content still empty after HTML reader: https://www.hltv.org/news/45274/the-mongolz-faze-among-invites-to-fpg-3
+2026/08/12 08:05:30 Content still empty after HTML reader: https://www.hltv.org/news/45271/making-the-1-difference-being-a-performance-manager-in-vitality-amidst-an-era
+2026/08/12 08:05:30 Content still empty after HTML reader: https://www.hltv.org/news/45270/esl-pro-league-s24-invites-announced
+2026/08/12 08:05:30 Fetched posts from https://www.hltv.org/rss/news, took 1.532659176s
+2026/08/12 08:05:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.644735996s
+2026/08/12 08:06:29 Get "https://www.bbc.com/vietnamese/articles/cj63d68426no?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/12 08:06:29 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.00443653s
+2026/08/12 08:06:29 Skipping writing post, no content: https://www.hltv.org/news/45275/pain-replace-betboom-at-blast-open-porto
+2026/08/12 08:06:29 Skipping writing post, no content: https://www.hltv.org/news/45272/short-news-week-32
+2026/08/12 08:06:29 Skipping writing post, no content: https://www.hltv.org/news/45274/the-mongolz-faze-among-invites-to-fpg-3
+2026/08/12 08:06:29 Skipping writing post, no content: https://www.hltv.org/news/45271/making-the-1-difference-being-a-performance-manager-in-vitality-amidst-an-era
+2026/08/12 08:06:29 Skipping writing post, no content: https://www.hltv.org/news/45270/esl-pro-league-s24-invites-announced
+2026/08/12 08:06:29 Templated 44 posts, took 6.489149ms
