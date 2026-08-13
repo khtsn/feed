@@ -1,15 +1,16 @@
-2026/08/13 16:37:04 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.120499358s
-2026/08/13 16:37:04 Fetched posts from https://vlr.gg/rss, took 1.391358774s
-2026/08/13 16:37:05 Content still empty after HTML reader: https://www.hltv.org/news/45289/iem-beijing-invites-announced
-2026/08/13 16:37:05 Content still empty after HTML reader: https://www.hltv.org/news/45280/the-best-highlights-from-ewc-2026-group-stage
-2026/08/13 16:37:05 Content still empty after HTML reader: https://www.hltv.org/news/45288/bo1s-conclude-as-ewc-day-one-draws-to-a-close
-2026/08/13 16:37:05 Content still empty after HTML reader: https://www.hltv.org/news/45284/ash-ive-been-biting-my-tongue-a-little-bit-sometimes-like-okay-this-is-the-way-we-play
-2026/08/13 16:37:05 Content still empty after HTML reader: https://www.hltv.org/news/45286/astralis-heroic-100-thieves-among-teams-confirmed-at-stake-pulse-beat-ii
-2026/08/13 16:37:05 Fetched posts from https://www.hltv.org/rss/news, took 2.265807253s
-2026/08/13 16:38:03 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.928316444s
-2026/08/13 16:38:03 Skipping writing post, no content: https://www.hltv.org/news/45289/iem-beijing-invites-announced
-2026/08/13 16:38:03 Skipping writing post, no content: https://www.hltv.org/news/45280/the-best-highlights-from-ewc-2026-group-stage
-2026/08/13 16:38:03 Skipping writing post, no content: https://www.hltv.org/news/45288/bo1s-conclude-as-ewc-day-one-draws-to-a-close
-2026/08/13 16:38:03 Skipping writing post, no content: https://www.hltv.org/news/45284/ash-ive-been-biting-my-tongue-a-little-bit-sometimes-like-okay-this-is-the-way-we-play
-2026/08/13 16:38:03 Skipping writing post, no content: https://www.hltv.org/news/45286/astralis-heroic-100-thieves-among-teams-confirmed-at-stake-pulse-beat-ii
-2026/08/13 16:38:03 Templated 47 posts, took 5.677922ms
+2026/08/13 17:38:53 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 973.135818ms
+2026/08/13 17:38:53 Fetched posts from https://vlr.gg/rss, took 1.141583816s
+2026/08/13 17:38:54 Content still empty after HTML reader: https://www.hltv.org/news/45290/gamerlegion-saunter-past-jijiehao-for-ewc-playoffs
+2026/08/13 17:38:54 Content still empty after HTML reader: https://www.hltv.org/news/45289/iem-beijing-invites-announced
+2026/08/13 17:38:54 Content still empty after HTML reader: https://www.hltv.org/news/45280/the-best-highlights-from-ewc-2026-group-stage
+2026/08/13 17:38:54 Content still empty after HTML reader: https://www.hltv.org/news/45288/bo1s-conclude-as-ewc-day-one-draws-to-a-close
+2026/08/13 17:38:54 Content still empty after HTML reader: https://www.hltv.org/news/45284/ash-ive-been-biting-my-tongue-a-little-bit-sometimes-like-okay-this-is-the-way-we-play
+2026/08/13 17:38:54 Fetched posts from https://www.hltv.org/rss/news, took 2.069204685s
+2026/08/13 17:39:52 Get "https://www.bbc.com/vietnamese/articles/cz64797e7x0o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/13 17:39:52 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.000092476s
+2026/08/13 17:39:52 Skipping writing post, no content: https://www.hltv.org/news/45290/gamerlegion-saunter-past-jijiehao-for-ewc-playoffs
+2026/08/13 17:39:52 Skipping writing post, no content: https://www.hltv.org/news/45289/iem-beijing-invites-announced
+2026/08/13 17:39:52 Skipping writing post, no content: https://www.hltv.org/news/45280/the-best-highlights-from-ewc-2026-group-stage
+2026/08/13 17:39:52 Skipping writing post, no content: https://www.hltv.org/news/45288/bo1s-conclude-as-ewc-day-one-draws-to-a-close
+2026/08/13 17:39:52 Skipping writing post, no content: https://www.hltv.org/news/45284/ash-ive-been-biting-my-tongue-a-little-bit-sometimes-like-okay-this-is-the-way-we-play
+2026/08/13 17:39:52 Templated 45 posts, took 4.314484ms
