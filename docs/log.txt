@@ -1,15 +1,16 @@
-2026/08/14 16:23:33 Fetched posts from https://vlr.gg/rss, took 1.353358371s
-2026/08/14 16:23:34 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.739378589s
-2026/08/14 16:23:34 Content still empty after HTML reader: https://www.hltv.org/news/45287/b1ad3-we-were-close-to-making-some-changes
-2026/08/14 16:23:34 Content still empty after HTML reader: https://www.hltv.org/news/45280/the-best-highlights-from-ewc-2026-group-stage
-2026/08/14 16:23:34 Content still empty after HTML reader: https://www.hltv.org/news/45298/falcons-beat-astralis-to-make-playoffs-in-paris
-2026/08/14 16:23:34 Content still empty after HTML reader: https://www.hltv.org/news/45297/faze-ease-past-legacy-into-ewc-playoffs
-2026/08/14 16:23:34 Content still empty after HTML reader: https://www.hltv.org/news/45292/lux-the-hardest-thing-is-the-playstyle-sometimes-i-have-a-very-clear-vision-and-they-have-a-different-one
-2026/08/14 16:23:34 Fetched posts from https://www.hltv.org/rss/news, took 1.92776372s
-2026/08/14 16:24:32 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.754407864s
-2026/08/14 16:24:32 Skipping writing post, no content: https://www.hltv.org/news/45287/b1ad3-we-were-close-to-making-some-changes
-2026/08/14 16:24:32 Skipping writing post, no content: https://www.hltv.org/news/45280/the-best-highlights-from-ewc-2026-group-stage
-2026/08/14 16:24:32 Skipping writing post, no content: https://www.hltv.org/news/45298/falcons-beat-astralis-to-make-playoffs-in-paris
-2026/08/14 16:24:32 Skipping writing post, no content: https://www.hltv.org/news/45297/faze-ease-past-legacy-into-ewc-playoffs
-2026/08/14 16:24:32 Skipping writing post, no content: https://www.hltv.org/news/45292/lux-the-hardest-thing-is-the-playstyle-sometimes-i-have-a-very-clear-vision-and-they-have-a-different-one
-2026/08/14 16:24:32 Templated 49 posts, took 6.765154ms
+2026/08/14 17:26:18 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 976.468611ms
+2026/08/14 17:26:19 Fetched posts from https://vlr.gg/rss, took 1.474274957s
+2026/08/14 17:26:19 Content still empty after HTML reader: https://www.hltv.org/news/45299/234-rated-xkacpersky-sends-betboom-home
+2026/08/14 17:26:19 Content still empty after HTML reader: https://www.hltv.org/news/45295/lake-i-think-were-playing-better-even-if-it-doesnt-really-show-in-the-scores
+2026/08/14 17:26:19 Content still empty after HTML reader: https://www.hltv.org/news/45287/b1ad3-we-were-close-to-making-some-changes
+2026/08/14 17:26:19 Content still empty after HTML reader: https://www.hltv.org/news/45280/the-best-highlights-from-ewc-2026-group-stage
+2026/08/14 17:26:19 Content still empty after HTML reader: https://www.hltv.org/news/45298/falcons-beat-astralis-to-make-playoffs-in-paris
+2026/08/14 17:26:19 Fetched posts from https://www.hltv.org/rss/news, took 1.54207908s
+2026/08/14 17:27:17 Get "https://www.bbc.com/vietnamese/articles/ce8kp2xzvl5o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/14 17:27:17 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003885121s
+2026/08/14 17:27:17 Skipping writing post, no content: https://www.hltv.org/news/45299/234-rated-xkacpersky-sends-betboom-home
+2026/08/14 17:27:17 Skipping writing post, no content: https://www.hltv.org/news/45295/lake-i-think-were-playing-better-even-if-it-doesnt-really-show-in-the-scores
+2026/08/14 17:27:17 Skipping writing post, no content: https://www.hltv.org/news/45287/b1ad3-we-were-close-to-making-some-changes
+2026/08/14 17:27:17 Skipping writing post, no content: https://www.hltv.org/news/45280/the-best-highlights-from-ewc-2026-group-stage
+2026/08/14 17:27:17 Skipping writing post, no content: https://www.hltv.org/news/45298/falcons-beat-astralis-to-make-playoffs-in-paris
+2026/08/14 17:27:17 Templated 49 posts, took 6.115975ms
