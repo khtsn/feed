@@ -1,15 +1,16 @@
-2026/08/14 10:27:03 Fetched posts from https://vlr.gg/rss, took 991.130048ms
-2026/08/14 10:27:03 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.208908843s
-2026/08/14 10:27:03 Content still empty after HTML reader: https://www.hltv.org/news/45292/lux-the-hardest-thing-is-the-playstyle-sometimes-i-have-a-very-clear-vision-and-they-have-a-different-one
-2026/08/14 10:27:03 Content still empty after HTML reader: https://www.hltv.org/news/45294/aurora-romp-past-m80-in-ewc-elimination-match
-2026/08/14 10:27:03 Content still empty after HTML reader: https://www.hltv.org/news/45293/g2-outclass-big-to-make-ewc-playoffs
-2026/08/14 10:27:03 Content still empty after HTML reader: https://www.hltv.org/news/45272/short-news-week-32
-2026/08/14 10:27:03 Content still empty after HTML reader: https://www.hltv.org/news/45291/spirit-overcome-luminosity-to-stay-alive-in-paris
-2026/08/14 10:27:03 Fetched posts from https://www.hltv.org/rss/news, took 1.604667347s
-2026/08/14 10:28:02 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.769677977s
-2026/08/14 10:28:02 Skipping writing post, no content: https://www.hltv.org/news/45292/lux-the-hardest-thing-is-the-playstyle-sometimes-i-have-a-very-clear-vision-and-they-have-a-different-one
-2026/08/14 10:28:02 Skipping writing post, no content: https://www.hltv.org/news/45294/aurora-romp-past-m80-in-ewc-elimination-match
-2026/08/14 10:28:02 Skipping writing post, no content: https://www.hltv.org/news/45293/g2-outclass-big-to-make-ewc-playoffs
-2026/08/14 10:28:02 Skipping writing post, no content: https://www.hltv.org/news/45272/short-news-week-32
-2026/08/14 10:28:02 Skipping writing post, no content: https://www.hltv.org/news/45291/spirit-overcome-luminosity-to-stay-alive-in-paris
-2026/08/14 10:28:02 Templated 47 posts, took 5.130576ms
+2026/08/14 11:20:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.084676064s
+2026/08/14 11:20:09 Fetched posts from https://vlr.gg/rss, took 1.148756724s
+2026/08/14 11:20:12 Content still empty after HTML reader: https://www.hltv.org/news/45292/lux-the-hardest-thing-is-the-playstyle-sometimes-i-have-a-very-clear-vision-and-they-have-a-different-one
+2026/08/14 11:20:12 Content still empty after HTML reader: https://www.hltv.org/news/45294/aurora-romp-past-m80-in-ewc-elimination-match
+2026/08/14 11:20:12 Content still empty after HTML reader: https://www.hltv.org/news/45293/g2-outclass-big-to-make-ewc-playoffs
+2026/08/14 11:20:12 Content still empty after HTML reader: https://www.hltv.org/news/45272/short-news-week-32
+2026/08/14 11:20:12 Content still empty after HTML reader: https://www.hltv.org/news/45291/spirit-overcome-luminosity-to-stay-alive-in-paris
+2026/08/14 11:20:12 Fetched posts from https://www.hltv.org/rss/news, took 4.255373208s
+2026/08/14 11:21:08 Get "https://www.bbc.com/vietnamese/articles/c20426n2wvno?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/14 11:21:08 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004586068s
+2026/08/14 11:21:08 Skipping writing post, no content: https://www.hltv.org/news/45292/lux-the-hardest-thing-is-the-playstyle-sometimes-i-have-a-very-clear-vision-and-they-have-a-different-one
+2026/08/14 11:21:08 Skipping writing post, no content: https://www.hltv.org/news/45294/aurora-romp-past-m80-in-ewc-elimination-match
+2026/08/14 11:21:08 Skipping writing post, no content: https://www.hltv.org/news/45293/g2-outclass-big-to-make-ewc-playoffs
+2026/08/14 11:21:08 Skipping writing post, no content: https://www.hltv.org/news/45272/short-news-week-32
+2026/08/14 11:21:08 Skipping writing post, no content: https://www.hltv.org/news/45291/spirit-overcome-luminosity-to-stay-alive-in-paris
+2026/08/14 11:21:08 Templated 48 posts, took 5.933726ms
