@@ -1,16 +1,16 @@
-2026/08/14 14:34:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.102043805s
-2026/08/14 14:34:09 Fetched posts from https://vlr.gg/rss, took 1.117014806s
-2026/08/14 14:34:10 Content still empty after HTML reader: https://www.hltv.org/news/45287/b1ad3-we-were-close-to-making-some-changes
-2026/08/14 14:34:10 Content still empty after HTML reader: https://www.hltv.org/news/45280/the-best-highlights-from-ewc-2026-group-stage
-2026/08/14 14:34:10 Content still empty after HTML reader: https://www.hltv.org/news/45298/falcons-beat-astralis-to-make-playoffs-in-paris
-2026/08/14 14:34:10 Content still empty after HTML reader: https://www.hltv.org/news/45297/faze-ease-past-legacy-into-ewc-playoffs
-2026/08/14 14:34:10 Content still empty after HTML reader: https://www.hltv.org/news/45292/lux-the-hardest-thing-is-the-playstyle-sometimes-i-have-a-very-clear-vision-and-they-have-a-different-one
-2026/08/14 14:34:10 Fetched posts from https://www.hltv.org/rss/news, took 2.014613702s
-2026/08/14 14:35:08 Get "https://www.bbc.com/vietnamese/articles/ce8kp2xzvl5o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/08/14 14:35:08 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004155124s
-2026/08/14 14:35:08 Skipping writing post, no content: https://www.hltv.org/news/45287/b1ad3-we-were-close-to-making-some-changes
-2026/08/14 14:35:08 Skipping writing post, no content: https://www.hltv.org/news/45280/the-best-highlights-from-ewc-2026-group-stage
-2026/08/14 14:35:08 Skipping writing post, no content: https://www.hltv.org/news/45298/falcons-beat-astralis-to-make-playoffs-in-paris
-2026/08/14 14:35:08 Skipping writing post, no content: https://www.hltv.org/news/45297/faze-ease-past-legacy-into-ewc-playoffs
-2026/08/14 14:35:08 Skipping writing post, no content: https://www.hltv.org/news/45292/lux-the-hardest-thing-is-the-playstyle-sometimes-i-have-a-very-clear-vision-and-they-have-a-different-one
-2026/08/14 14:35:08 Templated 46 posts, took 5.001423ms
+2026/08/14 15:26:04 Fetched posts from https://vlr.gg/rss, took 688.278726ms
+2026/08/14 15:26:05 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.169815345s
+2026/08/14 15:26:05 Content still empty after HTML reader: https://www.hltv.org/news/45287/b1ad3-we-were-close-to-making-some-changes
+2026/08/14 15:26:05 Content still empty after HTML reader: https://www.hltv.org/news/45280/the-best-highlights-from-ewc-2026-group-stage
+2026/08/14 15:26:05 Content still empty after HTML reader: https://www.hltv.org/news/45298/falcons-beat-astralis-to-make-playoffs-in-paris
+2026/08/14 15:26:05 Content still empty after HTML reader: https://www.hltv.org/news/45297/faze-ease-past-legacy-into-ewc-playoffs
+2026/08/14 15:26:05 Content still empty after HTML reader: https://www.hltv.org/news/45292/lux-the-hardest-thing-is-the-playstyle-sometimes-i-have-a-very-clear-vision-and-they-have-a-different-one
+2026/08/14 15:26:05 Fetched posts from https://www.hltv.org/rss/news, took 1.791581662s
+2026/08/14 15:27:04 Get "https://www.bbc.com/vietnamese/articles/ce8kp2xzvl5o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/14 15:27:04 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.000170023s
+2026/08/14 15:27:04 Skipping writing post, no content: https://www.hltv.org/news/45287/b1ad3-we-were-close-to-making-some-changes
+2026/08/14 15:27:04 Skipping writing post, no content: https://www.hltv.org/news/45280/the-best-highlights-from-ewc-2026-group-stage
+2026/08/14 15:27:04 Skipping writing post, no content: https://www.hltv.org/news/45298/falcons-beat-astralis-to-make-playoffs-in-paris
+2026/08/14 15:27:04 Skipping writing post, no content: https://www.hltv.org/news/45297/faze-ease-past-legacy-into-ewc-playoffs
+2026/08/14 15:27:04 Skipping writing post, no content: https://www.hltv.org/news/45292/lux-the-hardest-thing-is-the-playstyle-sometimes-i-have-a-very-clear-vision-and-they-have-a-different-one
+2026/08/14 15:27:04 Templated 49 posts, took 5.946984ms
