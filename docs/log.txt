@@ -1,16 +1,15 @@
-2026/08/15 07:25:23 Fetched posts from https://vlr.gg/rss, took 825.142059ms
-2026/08/15 07:25:23 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.015031745s
-2026/08/15 07:25:23 Content still empty after HTML reader: https://www.hltv.org/news/45272/short-news-week-32
-2026/08/15 07:25:23 Content still empty after HTML reader: https://www.hltv.org/news/45301/snappi-sometimes-its-hard-to-know-which-nip-shows-up
-2026/08/15 07:25:23 Content still empty after HTML reader: https://www.hltv.org/news/45300/lynn-vision-dominate-chinese-derby-to-eliminate-tyloo-from-ewc
-2026/08/15 07:25:23 Content still empty after HTML reader: https://www.hltv.org/news/45299/234-rated-xkacpersky-sends-betboom-home
-2026/08/15 07:25:23 Content still empty after HTML reader: https://www.hltv.org/news/45295/lake-i-think-were-playing-better-even-if-it-doesnt-really-show-in-the-scores
-2026/08/15 07:25:23 Fetched posts from https://www.hltv.org/rss/news, took 1.529837399s
-2026/08/15 07:26:22 Get "https://www.bbc.com/vietnamese/articles/cm2gp8v0v2no?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/08/15 07:26:22 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003605137s
-2026/08/15 07:26:22 Skipping writing post, no content: https://www.hltv.org/news/45272/short-news-week-32
-2026/08/15 07:26:22 Skipping writing post, no content: https://www.hltv.org/news/45301/snappi-sometimes-its-hard-to-know-which-nip-shows-up
-2026/08/15 07:26:22 Skipping writing post, no content: https://www.hltv.org/news/45300/lynn-vision-dominate-chinese-derby-to-eliminate-tyloo-from-ewc
-2026/08/15 07:26:22 Skipping writing post, no content: https://www.hltv.org/news/45299/234-rated-xkacpersky-sends-betboom-home
-2026/08/15 07:26:22 Skipping writing post, no content: https://www.hltv.org/news/45295/lake-i-think-were-playing-better-even-if-it-doesnt-really-show-in-the-scores
-2026/08/15 07:26:22 Templated 44 posts, took 6.703466ms
+2026/08/15 07:52:34 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 884.495108ms
+2026/08/15 07:52:34 Fetched posts from https://vlr.gg/rss, took 1.32084942s
+2026/08/15 07:52:35 Content still empty after HTML reader: https://www.hltv.org/news/45272/short-news-week-32
+2026/08/15 07:52:35 Content still empty after HTML reader: https://www.hltv.org/news/45301/snappi-sometimes-its-hard-to-know-which-nip-shows-up
+2026/08/15 07:52:35 Content still empty after HTML reader: https://www.hltv.org/news/45300/lynn-vision-dominate-chinese-derby-to-eliminate-tyloo-from-ewc
+2026/08/15 07:52:35 Content still empty after HTML reader: https://www.hltv.org/news/45299/234-rated-xkacpersky-sends-betboom-home
+2026/08/15 07:52:35 Content still empty after HTML reader: https://www.hltv.org/news/45295/lake-i-think-were-playing-better-even-if-it-doesnt-really-show-in-the-scores
+2026/08/15 07:52:35 Fetched posts from https://www.hltv.org/rss/news, took 2.176154453s
+2026/08/15 07:53:33 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.525559788s
+2026/08/15 07:53:33 Skipping writing post, no content: https://www.hltv.org/news/45272/short-news-week-32
+2026/08/15 07:53:33 Skipping writing post, no content: https://www.hltv.org/news/45301/snappi-sometimes-its-hard-to-know-which-nip-shows-up
+2026/08/15 07:53:33 Skipping writing post, no content: https://www.hltv.org/news/45300/lynn-vision-dominate-chinese-derby-to-eliminate-tyloo-from-ewc
+2026/08/15 07:53:33 Skipping writing post, no content: https://www.hltv.org/news/45299/234-rated-xkacpersky-sends-betboom-home
+2026/08/15 07:53:33 Skipping writing post, no content: https://www.hltv.org/news/45295/lake-i-think-were-playing-better-even-if-it-doesnt-really-show-in-the-scores
+2026/08/15 07:53:33 Templated 45 posts, took 7.024818ms
