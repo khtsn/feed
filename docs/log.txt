@@ -1,16 +1,15 @@
-2026/08/15 14:51:59 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 763.542536ms
-2026/08/15 14:51:59 Fetched posts from https://vlr.gg/rss, took 1.037945468s
-2026/08/15 14:52:00 Content still empty after HTML reader: https://www.hltv.org/news/45304/xtqzzz-no-excuse
-2026/08/15 14:52:00 Content still empty after HTML reader: https://www.hltv.org/news/45302/b8-crush-vitality-on-d2-to-make-ewc-playoffs
-2026/08/15 14:52:00 Content still empty after HTML reader: https://www.hltv.org/news/45303/fut-deny-mouz-comeback-to-secure-ewc-playoffs
-2026/08/15 14:52:00 Content still empty after HTML reader: https://www.hltv.org/news/45272/short-news-week-32
-2026/08/15 14:52:00 Content still empty after HTML reader: https://www.hltv.org/news/45301/snappi-sometimes-its-hard-to-know-which-nip-shows-up
-2026/08/15 14:52:00 Fetched posts from https://www.hltv.org/rss/news, took 1.887119176s
-2026/08/15 14:52:58 Get "https://www.bbc.com/vietnamese/articles/c74grmdy0vjo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/08/15 14:52:58 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.00336188s
-2026/08/15 14:52:58 Skipping writing post, no content: https://www.hltv.org/news/45304/xtqzzz-no-excuse
-2026/08/15 14:52:58 Skipping writing post, no content: https://www.hltv.org/news/45302/b8-crush-vitality-on-d2-to-make-ewc-playoffs
-2026/08/15 14:52:58 Skipping writing post, no content: https://www.hltv.org/news/45303/fut-deny-mouz-comeback-to-secure-ewc-playoffs
-2026/08/15 14:52:58 Skipping writing post, no content: https://www.hltv.org/news/45272/short-news-week-32
-2026/08/15 14:52:58 Skipping writing post, no content: https://www.hltv.org/news/45301/snappi-sometimes-its-hard-to-know-which-nip-shows-up
-2026/08/15 14:52:58 Templated 39 posts, took 4.202918ms
+2026/08/15 15:11:11 Fetched posts from https://vlr.gg/rss, took 463.369422ms
+2026/08/15 15:11:11 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 674.315203ms
+2026/08/15 15:11:12 Content still empty after HTML reader: https://www.hltv.org/news/45305/mibr-stamp-k27-out-of-ewc
+2026/08/15 15:11:12 Content still empty after HTML reader: https://www.hltv.org/news/45304/xtqzzz-no-excuse
+2026/08/15 15:11:12 Content still empty after HTML reader: https://www.hltv.org/news/45302/b8-crush-vitality-on-d2-to-make-ewc-playoffs
+2026/08/15 15:11:12 Content still empty after HTML reader: https://www.hltv.org/news/45303/fut-deny-mouz-comeback-to-secure-ewc-playoffs
+2026/08/15 15:11:12 Content still empty after HTML reader: https://www.hltv.org/news/45272/short-news-week-32
+2026/08/15 15:11:12 Fetched posts from https://www.hltv.org/rss/news, took 1.84632085s
+2026/08/15 15:12:10 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.985041985s
+2026/08/15 15:12:10 Skipping writing post, no content: https://www.hltv.org/news/45305/mibr-stamp-k27-out-of-ewc
+2026/08/15 15:12:10 Skipping writing post, no content: https://www.hltv.org/news/45304/xtqzzz-no-excuse
+2026/08/15 15:12:10 Skipping writing post, no content: https://www.hltv.org/news/45302/b8-crush-vitality-on-d2-to-make-ewc-playoffs
+2026/08/15 15:12:10 Skipping writing post, no content: https://www.hltv.org/news/45303/fut-deny-mouz-comeback-to-secure-ewc-playoffs
+2026/08/15 15:12:10 Skipping writing post, no content: https://www.hltv.org/news/45272/short-news-week-32
+2026/08/15 15:12:10 Templated 41 posts, took 7.721081ms
