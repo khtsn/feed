@@ -1,15 +1,16 @@
-2026/08/15 16:16:23 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 879.628438ms
-2026/08/15 16:16:24 Content still empty after HTML reader: https://www.hltv.org/news/45305/mibr-stamp-k27-out-of-ewc
-2026/08/15 16:16:24 Content still empty after HTML reader: https://www.hltv.org/news/45304/xtqzzz-no-excuse
-2026/08/15 16:16:24 Content still empty after HTML reader: https://www.hltv.org/news/45302/b8-crush-vitality-on-d2-to-make-ewc-playoffs
-2026/08/15 16:16:24 Content still empty after HTML reader: https://www.hltv.org/news/45303/fut-deny-mouz-comeback-to-secure-ewc-playoffs
-2026/08/15 16:16:24 Content still empty after HTML reader: https://www.hltv.org/news/45272/short-news-week-32
-2026/08/15 16:16:24 Fetched posts from https://www.hltv.org/rss/news, took 1.436070924s
-2026/08/15 16:16:25 Fetched posts from https://vlr.gg/rss, took 3.041861215s
-2026/08/15 16:17:22 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.511188322s
-2026/08/15 16:17:22 Skipping writing post, no content: https://www.hltv.org/news/45305/mibr-stamp-k27-out-of-ewc
-2026/08/15 16:17:22 Skipping writing post, no content: https://www.hltv.org/news/45304/xtqzzz-no-excuse
-2026/08/15 16:17:22 Skipping writing post, no content: https://www.hltv.org/news/45302/b8-crush-vitality-on-d2-to-make-ewc-playoffs
-2026/08/15 16:17:22 Skipping writing post, no content: https://www.hltv.org/news/45303/fut-deny-mouz-comeback-to-secure-ewc-playoffs
-2026/08/15 16:17:22 Skipping writing post, no content: https://www.hltv.org/news/45272/short-news-week-32
-2026/08/15 16:17:22 Templated 39 posts, took 5.757714ms
+2026/08/15 16:44:49 Fetched posts from https://vlr.gg/rss, took 627.882155ms
+2026/08/15 16:44:49 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 672.427592ms
+2026/08/15 16:44:50 Content still empty after HTML reader: https://www.hltv.org/news/45306/parivision-cast-100-thieves-out-of-ewc
+2026/08/15 16:44:50 Content still empty after HTML reader: https://www.hltv.org/news/45305/mibr-stamp-k27-out-of-ewc
+2026/08/15 16:44:50 Content still empty after HTML reader: https://www.hltv.org/news/45304/xtqzzz-no-excuse
+2026/08/15 16:44:50 Content still empty after HTML reader: https://www.hltv.org/news/45302/b8-crush-vitality-on-d2-to-make-ewc-playoffs
+2026/08/15 16:44:50 Content still empty after HTML reader: https://www.hltv.org/news/45303/fut-deny-mouz-comeback-to-secure-ewc-playoffs
+2026/08/15 16:44:50 Fetched posts from https://www.hltv.org/rss/news, took 1.506230029s
+2026/08/15 16:45:49 Get "https://www.bbc.com/vietnamese/articles/c74grmdy0vjo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/15 16:45:49 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004149102s
+2026/08/15 16:45:49 Skipping writing post, no content: https://www.hltv.org/news/45306/parivision-cast-100-thieves-out-of-ewc
+2026/08/15 16:45:49 Skipping writing post, no content: https://www.hltv.org/news/45305/mibr-stamp-k27-out-of-ewc
+2026/08/15 16:45:49 Skipping writing post, no content: https://www.hltv.org/news/45304/xtqzzz-no-excuse
+2026/08/15 16:45:49 Skipping writing post, no content: https://www.hltv.org/news/45302/b8-crush-vitality-on-d2-to-make-ewc-playoffs
+2026/08/15 16:45:49 Skipping writing post, no content: https://www.hltv.org/news/45303/fut-deny-mouz-comeback-to-secure-ewc-playoffs
+2026/08/15 16:45:49 Templated 38 posts, took 5.68699ms
