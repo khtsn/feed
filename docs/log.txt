@@ -1,16 +1,15 @@
-2026/08/15 23:35:47 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 995.465508ms
-2026/08/15 23:35:47 Fetched posts from https://vlr.gg/rss, took 1.218856986s
-2026/08/15 23:35:47 Content still empty after HTML reader: https://www.hltv.org/news/45311/furia-march-past-9z-into-ewc-playoffs
-2026/08/15 23:35:47 Content still empty after HTML reader: https://www.hltv.org/news/45310/3dmax-dumped-out-of-ewc-by-magic
-2026/08/15 23:35:47 Content still empty after HTML reader: https://www.hltv.org/news/45309/pain-continue-through-ewc-lower-bracket-after-eliminating-wildcard
-2026/08/15 23:35:47 Content still empty after HTML reader: https://www.hltv.org/news/45308/navi-overcome-the-mongolz-in-three-maps-to-secure-ewc-playoff-berth
-2026/08/15 23:35:47 Content still empty after HTML reader: https://www.hltv.org/news/45280/the-best-highlights-from-ewc-2026-group-stage
-2026/08/15 23:35:47 Fetched posts from https://www.hltv.org/rss/news, took 1.773360737s
-2026/08/15 23:36:46 Get "https://www.bbc.com/vietnamese/articles/c74grmdy0vjo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/08/15 23:36:46 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003591249s
-2026/08/15 23:36:46 Skipping writing post, no content: https://www.hltv.org/news/45311/furia-march-past-9z-into-ewc-playoffs
-2026/08/15 23:36:46 Skipping writing post, no content: https://www.hltv.org/news/45310/3dmax-dumped-out-of-ewc-by-magic
-2026/08/15 23:36:46 Skipping writing post, no content: https://www.hltv.org/news/45309/pain-continue-through-ewc-lower-bracket-after-eliminating-wildcard
-2026/08/15 23:36:46 Skipping writing post, no content: https://www.hltv.org/news/45308/navi-overcome-the-mongolz-in-three-maps-to-secure-ewc-playoff-berth
-2026/08/15 23:36:46 Skipping writing post, no content: https://www.hltv.org/news/45280/the-best-highlights-from-ewc-2026-group-stage
-2026/08/15 23:36:46 Templated 39 posts, took 5.459376ms
+2026/08/15 23:53:49 Fetched posts from https://vlr.gg/rss, took 801.076569ms
+2026/08/15 23:53:49 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.186953849s
+2026/08/15 23:53:50 Content still empty after HTML reader: https://www.hltv.org/news/45311/furia-march-past-9z-into-ewc-playoffs
+2026/08/15 23:53:50 Content still empty after HTML reader: https://www.hltv.org/news/45310/3dmax-dumped-out-of-ewc-by-magic
+2026/08/15 23:53:50 Content still empty after HTML reader: https://www.hltv.org/news/45309/pain-continue-through-ewc-lower-bracket-after-eliminating-wildcard
+2026/08/15 23:53:50 Content still empty after HTML reader: https://www.hltv.org/news/45308/navi-overcome-the-mongolz-in-three-maps-to-secure-ewc-playoff-berth
+2026/08/15 23:53:50 Content still empty after HTML reader: https://www.hltv.org/news/45280/the-best-highlights-from-ewc-2026-group-stage
+2026/08/15 23:53:50 Fetched posts from https://www.hltv.org/rss/news, took 1.936886031s
+2026/08/15 23:54:48 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.731952493s
+2026/08/15 23:54:48 Skipping writing post, no content: https://www.hltv.org/news/45311/furia-march-past-9z-into-ewc-playoffs
+2026/08/15 23:54:48 Skipping writing post, no content: https://www.hltv.org/news/45310/3dmax-dumped-out-of-ewc-by-magic
+2026/08/15 23:54:48 Skipping writing post, no content: https://www.hltv.org/news/45309/pain-continue-through-ewc-lower-bracket-after-eliminating-wildcard
+2026/08/15 23:54:48 Skipping writing post, no content: https://www.hltv.org/news/45308/navi-overcome-the-mongolz-in-three-maps-to-secure-ewc-playoff-berth
+2026/08/15 23:54:48 Skipping writing post, no content: https://www.hltv.org/news/45280/the-best-highlights-from-ewc-2026-group-stage
+2026/08/15 23:54:48 Templated 41 posts, took 4.916818ms
