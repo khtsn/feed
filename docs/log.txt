@@ -1,15 +1,16 @@
-2026/08/15 17:51:23 Fetched posts from https://vlr.gg/rss, took 496.070641ms
-2026/08/15 17:51:23 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 594.934223ms
-2026/08/15 17:51:24 Content still empty after HTML reader: https://www.hltv.org/news/45307/dastan-i-need-to-be-patient-and-try-for-us-to-be-a-stable-tier-1-team-as-fast-as-possible
-2026/08/15 17:51:24 Content still empty after HTML reader: https://www.hltv.org/news/45306/parivision-cast-100-thieves-out-of-ewc
-2026/08/15 17:51:24 Content still empty after HTML reader: https://www.hltv.org/news/45305/mibr-stamp-k27-out-of-ewc
-2026/08/15 17:51:24 Content still empty after HTML reader: https://www.hltv.org/news/45304/xtqzzz-no-excuse
-2026/08/15 17:51:24 Content still empty after HTML reader: https://www.hltv.org/news/45302/b8-crush-vitality-on-d2-to-make-ewc-playoffs
-2026/08/15 17:51:24 Fetched posts from https://www.hltv.org/rss/news, took 2.072770456s
-2026/08/15 17:52:22 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.422528675s
-2026/08/15 17:52:22 Skipping writing post, no content: https://www.hltv.org/news/45307/dastan-i-need-to-be-patient-and-try-for-us-to-be-a-stable-tier-1-team-as-fast-as-possible
-2026/08/15 17:52:22 Skipping writing post, no content: https://www.hltv.org/news/45306/parivision-cast-100-thieves-out-of-ewc
-2026/08/15 17:52:22 Skipping writing post, no content: https://www.hltv.org/news/45305/mibr-stamp-k27-out-of-ewc
-2026/08/15 17:52:22 Skipping writing post, no content: https://www.hltv.org/news/45304/xtqzzz-no-excuse
-2026/08/15 17:52:22 Skipping writing post, no content: https://www.hltv.org/news/45302/b8-crush-vitality-on-d2-to-make-ewc-playoffs
-2026/08/15 17:52:22 Templated 39 posts, took 6.084247ms
+2026/08/15 18:12:33 Fetched posts from https://vlr.gg/rss, took 497.70668ms
+2026/08/15 18:12:34 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.111821164s
+2026/08/15 18:12:34 Content still empty after HTML reader: https://www.hltv.org/news/45280/the-best-highlights-from-ewc-2026-group-stage
+2026/08/15 18:12:34 Content still empty after HTML reader: https://www.hltv.org/news/45307/dastan-i-need-to-be-patient-and-try-for-us-to-be-a-stable-tier-1-team-as-fast-as-possible
+2026/08/15 18:12:34 Content still empty after HTML reader: https://www.hltv.org/news/45306/parivision-cast-100-thieves-out-of-ewc
+2026/08/15 18:12:35 Content still empty after HTML reader: https://www.hltv.org/news/45305/mibr-stamp-k27-out-of-ewc
+2026/08/15 18:12:35 Content still empty after HTML reader: https://www.hltv.org/news/45304/xtqzzz-no-excuse
+2026/08/15 18:12:35 Fetched posts from https://www.hltv.org/rss/news, took 2.041454604s
+2026/08/15 18:13:32 Get "https://www.bbc.com/vietnamese/articles/c74grmdy0vjo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/15 18:13:32 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.002837536s
+2026/08/15 18:13:32 Skipping writing post, no content: https://www.hltv.org/news/45280/the-best-highlights-from-ewc-2026-group-stage
+2026/08/15 18:13:32 Skipping writing post, no content: https://www.hltv.org/news/45307/dastan-i-need-to-be-patient-and-try-for-us-to-be-a-stable-tier-1-team-as-fast-as-possible
+2026/08/15 18:13:32 Skipping writing post, no content: https://www.hltv.org/news/45306/parivision-cast-100-thieves-out-of-ewc
+2026/08/15 18:13:32 Skipping writing post, no content: https://www.hltv.org/news/45305/mibr-stamp-k27-out-of-ewc
+2026/08/15 18:13:32 Skipping writing post, no content: https://www.hltv.org/news/45304/xtqzzz-no-excuse
+2026/08/15 18:13:32 Templated 40 posts, took 5.628376ms
