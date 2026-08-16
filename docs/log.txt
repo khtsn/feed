@@ -1,15 +1,16 @@
-2026/08/16 19:55:21 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.181573056s
-2026/08/16 19:55:21 Fetched posts from https://vlr.gg/rss, took 1.487726698s
-2026/08/16 19:55:22 Content still empty after HTML reader: https://www.hltv.org/news/45319/vitality-make-quick-work-of-lynn-vision-to-reach-ewc-playoffs
-2026/08/16 19:55:22 Content still empty after HTML reader: https://www.hltv.org/news/45272/short-news-week-32
-2026/08/16 19:55:22 Content still empty after HTML reader: https://www.hltv.org/news/45318/cacanito-im-just-a-bit-disappointed-that-we-didnt-fight-until-the-end
-2026/08/16 19:55:22 Content still empty after HTML reader: https://www.hltv.org/news/45317/donk-its-stupid-to-not-rate-hally-as-a-great-coach
-2026/08/16 19:55:22 Content still empty after HTML reader: https://www.hltv.org/news/45316/spirit-labour-past-big-into-ewc-playoffs
-2026/08/16 19:55:22 Fetched posts from https://www.hltv.org/rss/news, took 2.043837974s
-2026/08/16 19:56:20 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.920289291s
-2026/08/16 19:56:20 Skipping writing post, no content: https://www.hltv.org/news/45319/vitality-make-quick-work-of-lynn-vision-to-reach-ewc-playoffs
-2026/08/16 19:56:20 Skipping writing post, no content: https://www.hltv.org/news/45272/short-news-week-32
-2026/08/16 19:56:20 Skipping writing post, no content: https://www.hltv.org/news/45318/cacanito-im-just-a-bit-disappointed-that-we-didnt-fight-until-the-end
-2026/08/16 19:56:20 Skipping writing post, no content: https://www.hltv.org/news/45317/donk-its-stupid-to-not-rate-hally-as-a-great-coach
-2026/08/16 19:56:20 Skipping writing post, no content: https://www.hltv.org/news/45316/spirit-labour-past-big-into-ewc-playoffs
-2026/08/16 19:56:20 Templated 45 posts, took 6.22128ms
+2026/08/16 20:20:48 Fetched posts from https://vlr.gg/rss, took 921.346678ms
+2026/08/16 20:20:48 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.027711645s
+2026/08/16 20:20:49 Content still empty after HTML reader: https://www.hltv.org/news/45319/vitality-make-quick-work-of-lynn-vision-to-reach-ewc-playoffs
+2026/08/16 20:20:49 Content still empty after HTML reader: https://www.hltv.org/news/45272/short-news-week-32
+2026/08/16 20:20:49 Content still empty after HTML reader: https://www.hltv.org/news/45318/cacanito-im-just-a-bit-disappointed-that-we-didnt-fight-until-the-end
+2026/08/16 20:20:49 Content still empty after HTML reader: https://www.hltv.org/news/45317/donk-its-stupid-to-not-rate-hally-as-a-great-coach
+2026/08/16 20:20:49 Content still empty after HTML reader: https://www.hltv.org/news/45316/spirit-labour-past-big-into-ewc-playoffs
+2026/08/16 20:20:49 Fetched posts from https://www.hltv.org/rss/news, took 1.609061224s
+2026/08/16 20:21:47 Get "https://www.bbc.com/vietnamese/articles/ckgd87x17r8o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/16 20:21:47 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.000112948s
+2026/08/16 20:21:47 Skipping writing post, no content: https://www.hltv.org/news/45319/vitality-make-quick-work-of-lynn-vision-to-reach-ewc-playoffs
+2026/08/16 20:21:47 Skipping writing post, no content: https://www.hltv.org/news/45272/short-news-week-32
+2026/08/16 20:21:47 Skipping writing post, no content: https://www.hltv.org/news/45318/cacanito-im-just-a-bit-disappointed-that-we-didnt-fight-until-the-end
+2026/08/16 20:21:47 Skipping writing post, no content: https://www.hltv.org/news/45317/donk-its-stupid-to-not-rate-hally-as-a-great-coach
+2026/08/16 20:21:47 Skipping writing post, no content: https://www.hltv.org/news/45316/spirit-labour-past-big-into-ewc-playoffs
+2026/08/16 20:21:47 Templated 45 posts, took 6.763629ms
