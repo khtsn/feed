@@ -1,16 +1,16 @@
-2026/08/17 16:37:07 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.057452619s
-2026/08/17 16:37:08 Fetched posts from https://vlr.gg/rss, took 1.58942473s
-2026/08/17 16:37:08 Content still empty after HTML reader: https://www.hltv.org/news/45325/legacy-2-0-mibr-to-claim-last-ewc-playoff-spot
-2026/08/17 16:37:08 Content still empty after HTML reader: https://www.hltv.org/news/45324/astralis-beat-nip-to-make-ewc-playoffs
-2026/08/17 16:37:08 Content still empty after HTML reader: https://www.hltv.org/news/45323/magic-inch-past-9z-into-ewc-playoffs
-2026/08/17 16:37:08 Content still empty after HTML reader: https://www.hltv.org/news/45321/mouz-deny-parivision-inferno-comeback-to-secure-playoffs-at-ewc
-2026/08/17 16:37:08 Content still empty after HTML reader: https://www.hltv.org/news/45320/the-mongolz-advance-to-ewc-playoffs-with-2-0-victory-over-pain
-2026/08/17 16:37:08 Fetched posts from https://www.hltv.org/rss/news, took 2.028434613s
-2026/08/17 16:38:06 Get "https://www.bbc.com/vietnamese/articles/c78gy255nepo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/08/17 16:38:06 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.001234665s
-2026/08/17 16:38:06 Skipping writing post, no content: https://www.hltv.org/news/45325/legacy-2-0-mibr-to-claim-last-ewc-playoff-spot
-2026/08/17 16:38:06 Skipping writing post, no content: https://www.hltv.org/news/45324/astralis-beat-nip-to-make-ewc-playoffs
-2026/08/17 16:38:06 Skipping writing post, no content: https://www.hltv.org/news/45323/magic-inch-past-9z-into-ewc-playoffs
-2026/08/17 16:38:06 Skipping writing post, no content: https://www.hltv.org/news/45321/mouz-deny-parivision-inferno-comeback-to-secure-playoffs-at-ewc
-2026/08/17 16:38:06 Skipping writing post, no content: https://www.hltv.org/news/45320/the-mongolz-advance-to-ewc-playoffs-with-2-0-victory-over-pain
-2026/08/17 16:38:06 Templated 49 posts, took 5.496285ms
+2026/08/17 17:00:57 Fetched posts from https://vlr.gg/rss, took 728.53504ms
+2026/08/17 17:00:57 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.285739292s
+2026/08/17 17:00:58 Content still empty after HTML reader: https://www.hltv.org/news/45325/legacy-2-0-mibr-to-claim-last-ewc-playoff-spot
+2026/08/17 17:00:58 Content still empty after HTML reader: https://www.hltv.org/news/45324/astralis-beat-nip-to-make-ewc-playoffs
+2026/08/17 17:00:58 Content still empty after HTML reader: https://www.hltv.org/news/45323/magic-inch-past-9z-into-ewc-playoffs
+2026/08/17 17:00:58 Content still empty after HTML reader: https://www.hltv.org/news/45321/mouz-deny-parivision-inferno-comeback-to-secure-playoffs-at-ewc
+2026/08/17 17:00:58 Content still empty after HTML reader: https://www.hltv.org/news/45320/the-mongolz-advance-to-ewc-playoffs-with-2-0-victory-over-pain
+2026/08/17 17:00:58 Fetched posts from https://www.hltv.org/rss/news, took 1.582360535s
+2026/08/17 17:01:56 Get "https://www.bbc.com/vietnamese/articles/c78gy255nepo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/17 17:01:56 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003604482s
+2026/08/17 17:01:56 Skipping writing post, no content: https://www.hltv.org/news/45325/legacy-2-0-mibr-to-claim-last-ewc-playoff-spot
+2026/08/17 17:01:56 Skipping writing post, no content: https://www.hltv.org/news/45324/astralis-beat-nip-to-make-ewc-playoffs
+2026/08/17 17:01:56 Skipping writing post, no content: https://www.hltv.org/news/45323/magic-inch-past-9z-into-ewc-playoffs
+2026/08/17 17:01:56 Skipping writing post, no content: https://www.hltv.org/news/45321/mouz-deny-parivision-inferno-comeback-to-secure-playoffs-at-ewc
+2026/08/17 17:01:56 Skipping writing post, no content: https://www.hltv.org/news/45320/the-mongolz-advance-to-ewc-playoffs-with-2-0-victory-over-pain
+2026/08/17 17:01:56 Templated 49 posts, took 7.339009ms
