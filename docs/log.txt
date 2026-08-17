@@ -1,15 +1,16 @@
-2026/08/17 23:39:33 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.294032034s
-2026/08/17 23:39:33 Fetched posts from https://vlr.gg/rss, took 1.298368946s
-2026/08/17 23:39:33 Content still empty after HTML reader: https://www.hltv.org/news/45315/neityu-even-though-we-dont-have-much-practice-i-think-we-have-really-strong-basics
-2026/08/17 23:39:33 Content still empty after HTML reader: https://www.hltv.org/news/45272/short-news-week-32
-2026/08/17 23:39:33 Content still empty after HTML reader: https://www.hltv.org/news/45322/xertion-the-confidence-you-get-from-winning-trophies-is-massive-i-think-this-is-a-little-bit-of-what-broke-us-in-2025
-2026/08/17 23:39:33 Content still empty after HTML reader: https://www.hltv.org/news/45326/vitality-falcons-spirit-on-same-side-of-ewc-playoff-bracket
-2026/08/17 23:39:33 Content still empty after HTML reader: https://www.hltv.org/news/45325/legacy-2-0-mibr-to-claim-last-ewc-playoff-spot
-2026/08/17 23:39:33 Fetched posts from https://www.hltv.org/rss/news, took 2.061083558s
-2026/08/17 23:40:31 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.693638648s
-2026/08/17 23:40:31 Skipping writing post, no content: https://www.hltv.org/news/45315/neityu-even-though-we-dont-have-much-practice-i-think-we-have-really-strong-basics
-2026/08/17 23:40:31 Skipping writing post, no content: https://www.hltv.org/news/45272/short-news-week-32
-2026/08/17 23:40:31 Skipping writing post, no content: https://www.hltv.org/news/45322/xertion-the-confidence-you-get-from-winning-trophies-is-massive-i-think-this-is-a-little-bit-of-what-broke-us-in-2025
-2026/08/17 23:40:31 Skipping writing post, no content: https://www.hltv.org/news/45326/vitality-falcons-spirit-on-same-side-of-ewc-playoff-bracket
-2026/08/17 23:40:31 Skipping writing post, no content: https://www.hltv.org/news/45325/legacy-2-0-mibr-to-claim-last-ewc-playoff-spot
-2026/08/17 23:40:31 Templated 48 posts, took 5.793837ms
+2026/08/17 23:57:26 Fetched posts from https://vlr.gg/rss, took 1.315445786s
+2026/08/17 23:57:26 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.660431501s
+2026/08/17 23:57:26 Content still empty after HTML reader: https://www.hltv.org/news/45315/neityu-even-though-we-dont-have-much-practice-i-think-we-have-really-strong-basics
+2026/08/17 23:57:26 Content still empty after HTML reader: https://www.hltv.org/news/45272/short-news-week-32
+2026/08/17 23:57:26 Content still empty after HTML reader: https://www.hltv.org/news/45322/xertion-the-confidence-you-get-from-winning-trophies-is-massive-i-think-this-is-a-little-bit-of-what-broke-us-in-2025
+2026/08/17 23:57:26 Content still empty after HTML reader: https://www.hltv.org/news/45326/vitality-falcons-spirit-on-same-side-of-ewc-playoff-bracket
+2026/08/17 23:57:26 Content still empty after HTML reader: https://www.hltv.org/news/45325/legacy-2-0-mibr-to-claim-last-ewc-playoff-spot
+2026/08/17 23:57:26 Fetched posts from https://www.hltv.org/rss/news, took 2.145147023s
+2026/08/17 23:58:24 Get "https://www.bbc.com/vietnamese/articles/c78gy255nepo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/17 23:58:24 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.000124329s
+2026/08/17 23:58:24 Skipping writing post, no content: https://www.hltv.org/news/45315/neityu-even-though-we-dont-have-much-practice-i-think-we-have-really-strong-basics
+2026/08/17 23:58:24 Skipping writing post, no content: https://www.hltv.org/news/45272/short-news-week-32
+2026/08/17 23:58:24 Skipping writing post, no content: https://www.hltv.org/news/45322/xertion-the-confidence-you-get-from-winning-trophies-is-massive-i-think-this-is-a-little-bit-of-what-broke-us-in-2025
+2026/08/17 23:58:24 Skipping writing post, no content: https://www.hltv.org/news/45326/vitality-falcons-spirit-on-same-side-of-ewc-playoff-bracket
+2026/08/17 23:58:24 Skipping writing post, no content: https://www.hltv.org/news/45325/legacy-2-0-mibr-to-claim-last-ewc-playoff-spot
+2026/08/17 23:58:24 Templated 48 posts, took 5.086211ms
