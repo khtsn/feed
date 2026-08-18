@@ -1,16 +1,15 @@
-2026/08/18 18:52:16 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.287021442s
-2026/08/18 18:52:16 Fetched posts from https://vlr.gg/rss, took 1.406082264s
-2026/08/18 18:52:17 Content still empty after HTML reader: https://www.hltv.org/news/45331/esports-nations-cup-postponed-to-2027
-2026/08/18 18:52:17 Content still empty after HTML reader: https://www.hltv.org/news/45328/try-its-been-a-really-tough-few-years-for-me-this-is-the-first-team-where-ill-have-the-chance-to-prove-myself-in-tier-1
-2026/08/18 18:52:17 Content still empty after HTML reader: https://www.hltv.org/news/45330/liquid-b8-and-gamerlegion-among-logitech-g-play-connect-team-list
-2026/08/18 18:52:17 Content still empty after HTML reader: https://www.hltv.org/news/45269/as-passion-ua-crumbles-players-and-staff-are-owed-significant-sums
-2026/08/18 18:52:17 Content still empty after HTML reader: https://www.hltv.org/news/45329/furia-fe-depart-counter-strike-for-valorant
-2026/08/18 18:52:17 Fetched posts from https://www.hltv.org/rss/news, took 2.187311187s
-2026/08/18 18:53:15 Get "https://www.bbc.com/vietnamese/articles/crmrrm184rmo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/08/18 18:53:15 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004464862s
-2026/08/18 18:53:15 Skipping writing post, no content: https://www.hltv.org/news/45331/esports-nations-cup-postponed-to-2027
-2026/08/18 18:53:15 Skipping writing post, no content: https://www.hltv.org/news/45328/try-its-been-a-really-tough-few-years-for-me-this-is-the-first-team-where-ill-have-the-chance-to-prove-myself-in-tier-1
-2026/08/18 18:53:15 Skipping writing post, no content: https://www.hltv.org/news/45330/liquid-b8-and-gamerlegion-among-logitech-g-play-connect-team-list
-2026/08/18 18:53:15 Skipping writing post, no content: https://www.hltv.org/news/45269/as-passion-ua-crumbles-players-and-staff-are-owed-significant-sums
-2026/08/18 18:53:15 Skipping writing post, no content: https://www.hltv.org/news/45329/furia-fe-depart-counter-strike-for-valorant
-2026/08/18 18:53:15 Templated 48 posts, took 6.307141ms
+2026/08/18 19:21:07 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 973.665801ms
+2026/08/18 19:21:07 Fetched posts from https://vlr.gg/rss, took 1.40490413s
+2026/08/18 19:21:08 Content still empty after HTML reader: https://www.hltv.org/news/45331/esports-nations-cup-postponed-to-2027
+2026/08/18 19:21:08 Content still empty after HTML reader: https://www.hltv.org/news/45328/try-its-been-a-really-tough-few-years-for-me-this-is-the-first-team-where-ill-have-the-chance-to-prove-myself-in-tier-1
+2026/08/18 19:21:08 Content still empty after HTML reader: https://www.hltv.org/news/45330/liquid-b8-and-gamerlegion-among-logitech-g-play-connect-team-list
+2026/08/18 19:21:08 Content still empty after HTML reader: https://www.hltv.org/news/45269/as-passion-ua-crumbles-players-and-staff-are-owed-significant-sums
+2026/08/18 19:21:08 Content still empty after HTML reader: https://www.hltv.org/news/45329/furia-fe-depart-counter-strike-for-valorant
+2026/08/18 19:21:08 Fetched posts from https://www.hltv.org/rss/news, took 2.371006772s
+2026/08/18 19:22:05 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.577406668s
+2026/08/18 19:22:05 Skipping writing post, no content: https://www.hltv.org/news/45331/esports-nations-cup-postponed-to-2027
+2026/08/18 19:22:05 Skipping writing post, no content: https://www.hltv.org/news/45328/try-its-been-a-really-tough-few-years-for-me-this-is-the-first-team-where-ill-have-the-chance-to-prove-myself-in-tier-1
+2026/08/18 19:22:05 Skipping writing post, no content: https://www.hltv.org/news/45330/liquid-b8-and-gamerlegion-among-logitech-g-play-connect-team-list
+2026/08/18 19:22:05 Skipping writing post, no content: https://www.hltv.org/news/45269/as-passion-ua-crumbles-players-and-staff-are-owed-significant-sums
+2026/08/18 19:22:05 Skipping writing post, no content: https://www.hltv.org/news/45329/furia-fe-depart-counter-strike-for-valorant
+2026/08/18 19:22:05 Templated 47 posts, took 7.583656ms
