@@ -1,16 +1,15 @@
-2026/08/20 10:58:50 Fetched posts from https://vlr.gg/rss, took 919.567109ms
-2026/08/20 10:58:50 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.378075077s
-2026/08/20 10:58:51 Content still empty after HTML reader: https://www.hltv.org/news/45343/furia-mount-comeback-against-aurora-to-reach-ewc-quarter-finals
-2026/08/20 10:58:51 Content still empty after HTML reader: https://www.hltv.org/news/45342/r1nkle-life-is-good
-2026/08/20 10:58:51 Content still empty after HTML reader: https://www.hltv.org/news/45340/fut-reverse-sweep-magic-to-make-ewc-quarters
-2026/08/20 10:58:51 Content still empty after HTML reader: https://www.hltv.org/news/45339/g2-defeat-astralis-to-reach-ewc-quarter-finals
-2026/08/20 10:58:51 Content still empty after HTML reader: https://www.hltv.org/news/45267/zywoo-and-apex-talk-vitality-contract-extensions-legacy-and-the-season-ahead
-2026/08/20 10:58:51 Fetched posts from https://www.hltv.org/rss/news, took 2.080718264s
-2026/08/20 10:59:49 Get "https://www.bbc.com/vietnamese/articles/cyvlz04y8z4o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/08/20 10:59:49 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004077978s
-2026/08/20 10:59:49 Skipping writing post, no content: https://www.hltv.org/news/45343/furia-mount-comeback-against-aurora-to-reach-ewc-quarter-finals
-2026/08/20 10:59:49 Skipping writing post, no content: https://www.hltv.org/news/45342/r1nkle-life-is-good
-2026/08/20 10:59:49 Skipping writing post, no content: https://www.hltv.org/news/45340/fut-reverse-sweep-magic-to-make-ewc-quarters
-2026/08/20 10:59:49 Skipping writing post, no content: https://www.hltv.org/news/45339/g2-defeat-astralis-to-reach-ewc-quarter-finals
-2026/08/20 10:59:49 Skipping writing post, no content: https://www.hltv.org/news/45267/zywoo-and-apex-talk-vitality-contract-extensions-legacy-and-the-season-ahead
-2026/08/20 10:59:49 Templated 50 posts, took 8.149715ms
+2026/08/20 11:34:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 887.730241ms
+2026/08/20 11:34:31 Fetched posts from https://vlr.gg/rss, took 1.00094731s
+2026/08/20 11:34:31 Content still empty after HTML reader: https://www.hltv.org/news/45343/furia-mount-comeback-against-aurora-to-reach-ewc-quarter-finals
+2026/08/20 11:34:31 Content still empty after HTML reader: https://www.hltv.org/news/45342/r1nkle-life-is-good
+2026/08/20 11:34:31 Content still empty after HTML reader: https://www.hltv.org/news/45340/fut-reverse-sweep-magic-to-make-ewc-quarters
+2026/08/20 11:34:31 Content still empty after HTML reader: https://www.hltv.org/news/45339/g2-defeat-astralis-to-reach-ewc-quarter-finals
+2026/08/20 11:34:31 Content still empty after HTML reader: https://www.hltv.org/news/45267/zywoo-and-apex-talk-vitality-contract-extensions-legacy-and-the-season-ahead
+2026/08/20 11:34:31 Fetched posts from https://www.hltv.org/rss/news, took 1.532113429s
+2026/08/20 11:35:29 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.748957588s
+2026/08/20 11:35:29 Skipping writing post, no content: https://www.hltv.org/news/45343/furia-mount-comeback-against-aurora-to-reach-ewc-quarter-finals
+2026/08/20 11:35:29 Skipping writing post, no content: https://www.hltv.org/news/45342/r1nkle-life-is-good
+2026/08/20 11:35:29 Skipping writing post, no content: https://www.hltv.org/news/45340/fut-reverse-sweep-magic-to-make-ewc-quarters
+2026/08/20 11:35:29 Skipping writing post, no content: https://www.hltv.org/news/45339/g2-defeat-astralis-to-reach-ewc-quarter-finals
+2026/08/20 11:35:29 Skipping writing post, no content: https://www.hltv.org/news/45267/zywoo-and-apex-talk-vitality-contract-extensions-legacy-and-the-season-ahead
+2026/08/20 11:35:29 Templated 52 posts, took 4.9778ms
