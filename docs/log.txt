@@ -1,16 +1,16 @@
-2026/08/20 14:26:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.053883825s
-2026/08/20 14:26:10 Fetched posts from https://vlr.gg/rss, took 1.563558833s
-2026/08/20 14:26:11 Content still empty after HTML reader: https://www.hltv.org/news/45344/xelex-goes-from-zero-to-hero-in-mouz-comeback-to-make-ewc-quarters-over-gamerlegion
-2026/08/20 14:26:11 Content still empty after HTML reader: https://www.hltv.org/news/45338/live-updates-from-the-ewc-playoffs
-2026/08/20 14:26:11 Content still empty after HTML reader: https://www.hltv.org/news/45343/furia-mount-comeback-against-aurora-to-reach-ewc-quarter-finals
-2026/08/20 14:26:11 Content still empty after HTML reader: https://www.hltv.org/news/45342/r1nkle-life-is-good
-2026/08/20 14:26:11 Content still empty after HTML reader: https://www.hltv.org/news/45340/fut-reverse-sweep-magic-to-make-ewc-quarters
-2026/08/20 14:26:11 Fetched posts from https://www.hltv.org/rss/news, took 2.58499566s
-2026/08/20 14:27:08 Get "https://www.bbc.com/vietnamese/articles/cyvlz04y8z4o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/08/20 14:27:08 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004392092s
-2026/08/20 14:27:08 Skipping writing post, no content: https://www.hltv.org/news/45344/xelex-goes-from-zero-to-hero-in-mouz-comeback-to-make-ewc-quarters-over-gamerlegion
-2026/08/20 14:27:08 Skipping writing post, no content: https://www.hltv.org/news/45338/live-updates-from-the-ewc-playoffs
-2026/08/20 14:27:08 Skipping writing post, no content: https://www.hltv.org/news/45343/furia-mount-comeback-against-aurora-to-reach-ewc-quarter-finals
-2026/08/20 14:27:08 Skipping writing post, no content: https://www.hltv.org/news/45342/r1nkle-life-is-good
-2026/08/20 14:27:08 Skipping writing post, no content: https://www.hltv.org/news/45340/fut-reverse-sweep-magic-to-make-ewc-quarters
-2026/08/20 14:27:08 Templated 52 posts, took 7.894421ms
+2026/08/20 15:05:20 Fetched posts from https://vlr.gg/rss, took 636.278656ms
+2026/08/20 15:05:21 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.145329248s
+2026/08/20 15:05:21 Content still empty after HTML reader: https://www.hltv.org/news/45333/short-news-week-33
+2026/08/20 15:05:21 Content still empty after HTML reader: https://www.hltv.org/news/45344/xelex-goes-from-zero-to-hero-in-mouz-comeback-to-make-ewc-quarters-over-gamerlegion
+2026/08/20 15:05:21 Content still empty after HTML reader: https://www.hltv.org/news/45338/live-updates-from-the-ewc-playoffs
+2026/08/20 15:05:21 Content still empty after HTML reader: https://www.hltv.org/news/45343/furia-mount-comeback-against-aurora-to-reach-ewc-quarter-finals
+2026/08/20 15:05:21 Content still empty after HTML reader: https://www.hltv.org/news/45342/r1nkle-life-is-good
+2026/08/20 15:05:21 Fetched posts from https://www.hltv.org/rss/news, took 1.78316872s
+2026/08/20 15:06:20 Get "https://www.bbc.com/vietnamese/articles/cyvlz04y8z4o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/20 15:06:20 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.002285602s
+2026/08/20 15:06:20 Skipping writing post, no content: https://www.hltv.org/news/45333/short-news-week-33
+2026/08/20 15:06:20 Skipping writing post, no content: https://www.hltv.org/news/45344/xelex-goes-from-zero-to-hero-in-mouz-comeback-to-make-ewc-quarters-over-gamerlegion
+2026/08/20 15:06:20 Skipping writing post, no content: https://www.hltv.org/news/45338/live-updates-from-the-ewc-playoffs
+2026/08/20 15:06:20 Skipping writing post, no content: https://www.hltv.org/news/45343/furia-mount-comeback-against-aurora-to-reach-ewc-quarter-finals
+2026/08/20 15:06:20 Skipping writing post, no content: https://www.hltv.org/news/45342/r1nkle-life-is-good
+2026/08/20 15:06:20 Templated 52 posts, took 5.482567ms
