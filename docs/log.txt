@@ -1,15 +1,14 @@
-2026/08/20 07:59:08 Fetched posts from https://vlr.gg/rss, took 767.280397ms
-2026/08/20 07:59:09 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.662574322s
-2026/08/20 07:59:09 Content still empty after HTML reader: https://www.hltv.org/news/45340/fut-reverse-sweep-magic-to-make-ewc-quarters
-2026/08/20 07:59:09 Content still empty after HTML reader: https://www.hltv.org/news/45339/g2-defeat-astralis-to-reach-ewc-quarter-finals
-2026/08/20 07:59:09 Content still empty after HTML reader: https://www.hltv.org/news/45267/zywoo-and-apex-talk-vitality-contract-extensions-legacy-and-the-season-ahead
-2026/08/20 07:59:09 Content still empty after HTML reader: https://www.hltv.org/news/45337/furia-9z-and-g2-among-final-invites-for-fpg-3
-2026/08/20 07:59:09 Content still empty after HTML reader: https://www.hltv.org/news/45335/teses-everyone-on-the-team-is-really-hungry-for-more-than-just-a-major
-2026/08/20 07:59:09 Fetched posts from https://www.hltv.org/rss/news, took 1.822196108s
-2026/08/20 08:00:07 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.498652834s
-2026/08/20 08:00:07 Skipping writing post, no content: https://www.hltv.org/news/45340/fut-reverse-sweep-magic-to-make-ewc-quarters
-2026/08/20 08:00:07 Skipping writing post, no content: https://www.hltv.org/news/45339/g2-defeat-astralis-to-reach-ewc-quarter-finals
-2026/08/20 08:00:07 Skipping writing post, no content: https://www.hltv.org/news/45267/zywoo-and-apex-talk-vitality-contract-extensions-legacy-and-the-season-ahead
-2026/08/20 08:00:07 Skipping writing post, no content: https://www.hltv.org/news/45337/furia-9z-and-g2-among-final-invites-for-fpg-3
-2026/08/20 08:00:07 Skipping writing post, no content: https://www.hltv.org/news/45335/teses-everyone-on-the-team-is-really-hungry-for-more-than-just-a-major
-2026/08/20 08:00:07 Templated 54 posts, took 8.543141ms
+2026/08/20 08:49:30 Fetched posts from https://vlr.gg/rss, took 1.262970151s
+2026/08/20 08:49:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.524380513s
+2026/08/20 08:49:31 Content still empty after HTML reader: https://www.hltv.org/news/45340/fut-reverse-sweep-magic-to-make-ewc-quarters
+2026/08/20 08:49:31 Content still empty after HTML reader: https://www.hltv.org/news/45339/g2-defeat-astralis-to-reach-ewc-quarter-finals
+2026/08/20 08:49:31 Content still empty after HTML reader: https://www.hltv.org/news/45267/zywoo-and-apex-talk-vitality-contract-extensions-legacy-and-the-season-ahead
+2026/08/20 08:49:31 Content still empty after HTML reader: https://www.hltv.org/news/45337/furia-9z-and-g2-among-final-invites-for-fpg-3
+2026/08/20 08:49:31 Fetched posts from https://www.hltv.org/rss/news, took 2.571400815s
+2026/08/20 08:50:28 Get "https://www.bbc.com/vietnamese/articles/cq6d30dg6pmo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/20 08:50:28 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.001906773s
+2026/08/20 08:50:28 Skipping writing post, no content: https://www.hltv.org/news/45340/fut-reverse-sweep-magic-to-make-ewc-quarters
+2026/08/20 08:50:28 Skipping writing post, no content: https://www.hltv.org/news/45339/g2-defeat-astralis-to-reach-ewc-quarter-finals
+2026/08/20 08:50:28 Skipping writing post, no content: https://www.hltv.org/news/45267/zywoo-and-apex-talk-vitality-contract-extensions-legacy-and-the-season-ahead
+2026/08/20 08:50:28 Skipping writing post, no content: https://www.hltv.org/news/45337/furia-9z-and-g2-among-final-invites-for-fpg-3
+2026/08/20 08:50:28 Templated 53 posts, took 8.576866ms
