@@ -1,15 +1,16 @@
-2026/08/21 11:47:34 Fetched posts from https://vlr.gg/rss, took 1.16879794s
-2026/08/21 11:47:34 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.358570477s
-2026/08/21 11:47:34 Content still empty after HTML reader: https://www.hltv.org/news/45352/furia-romp-past-g2-into-ewc-semi-finals
-2026/08/21 11:47:34 Content still empty after HTML reader: https://www.hltv.org/news/45350/vitality-send-faze-home-from-ewc-to-secure-matchup-with-spirit
-2026/08/21 11:47:34 Content still empty after HTML reader: https://www.hltv.org/news/45349/spirit-move-past-b8-at-ewc
-2026/08/21 11:47:34 Content still empty after HTML reader: https://www.hltv.org/news/45348/aleksib-just-need-to-be-twice-as-good-twice-as-prepared-not-lose-hope-and-keep-grinding
-2026/08/21 11:47:34 Content still empty after HTML reader: https://www.hltv.org/news/45347/legacy-stun-navi-with-dominant-2-0-win-in-paris
-2026/08/21 11:47:34 Fetched posts from https://www.hltv.org/rss/news, took 1.73394143s
-2026/08/21 11:48:32 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.578350426s
-2026/08/21 11:48:32 Skipping writing post, no content: https://www.hltv.org/news/45352/furia-romp-past-g2-into-ewc-semi-finals
-2026/08/21 11:48:32 Skipping writing post, no content: https://www.hltv.org/news/45350/vitality-send-faze-home-from-ewc-to-secure-matchup-with-spirit
-2026/08/21 11:48:32 Skipping writing post, no content: https://www.hltv.org/news/45349/spirit-move-past-b8-at-ewc
-2026/08/21 11:48:32 Skipping writing post, no content: https://www.hltv.org/news/45348/aleksib-just-need-to-be-twice-as-good-twice-as-prepared-not-lose-hope-and-keep-grinding
-2026/08/21 11:48:32 Skipping writing post, no content: https://www.hltv.org/news/45347/legacy-stun-navi-with-dominant-2-0-win-in-paris
-2026/08/21 11:48:32 Templated 55 posts, took 3.374776ms
+2026/08/21 12:15:58 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 922.875533ms
+2026/08/21 12:15:59 Fetched posts from https://vlr.gg/rss, took 1.924668904s
+2026/08/21 12:15:59 Content still empty after HTML reader: https://www.hltv.org/news/45352/furia-romp-past-g2-into-ewc-semi-finals
+2026/08/21 12:15:59 Content still empty after HTML reader: https://www.hltv.org/news/45350/vitality-send-faze-home-from-ewc-to-secure-matchup-with-spirit
+2026/08/21 12:15:59 Content still empty after HTML reader: https://www.hltv.org/news/45349/spirit-move-past-b8-at-ewc
+2026/08/21 12:15:59 Content still empty after HTML reader: https://www.hltv.org/news/45348/aleksib-just-need-to-be-twice-as-good-twice-as-prepared-not-lose-hope-and-keep-grinding
+2026/08/21 12:15:59 Content still empty after HTML reader: https://www.hltv.org/news/45347/legacy-stun-navi-with-dominant-2-0-win-in-paris
+2026/08/21 12:15:59 Fetched posts from https://www.hltv.org/rss/news, took 1.9777426s
+2026/08/21 12:16:57 Get "https://www.bbc.com/vietnamese/articles/c4gw12gn21qo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/21 12:16:57 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004087239s
+2026/08/21 12:16:57 Skipping writing post, no content: https://www.hltv.org/news/45352/furia-romp-past-g2-into-ewc-semi-finals
+2026/08/21 12:16:57 Skipping writing post, no content: https://www.hltv.org/news/45350/vitality-send-faze-home-from-ewc-to-secure-matchup-with-spirit
+2026/08/21 12:16:57 Skipping writing post, no content: https://www.hltv.org/news/45349/spirit-move-past-b8-at-ewc
+2026/08/21 12:16:57 Skipping writing post, no content: https://www.hltv.org/news/45348/aleksib-just-need-to-be-twice-as-good-twice-as-prepared-not-lose-hope-and-keep-grinding
+2026/08/21 12:16:57 Skipping writing post, no content: https://www.hltv.org/news/45347/legacy-stun-navi-with-dominant-2-0-win-in-paris
+2026/08/21 12:16:57 Templated 55 posts, took 9.327528ms
