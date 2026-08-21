@@ -1,15 +1,16 @@
-2026/08/21 19:16:19 Fetched posts from https://vlr.gg/rss, took 1.03324222s
-2026/08/21 19:16:20 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.571015765s
-2026/08/21 19:16:20 Content still empty after HTML reader: https://www.hltv.org/news/45336/rebels-sign-aragornn-arrozdoce-and-shr
-2026/08/21 19:16:20 Content still empty after HTML reader: https://www.hltv.org/news/45333/short-news-week-33
-2026/08/21 19:16:20 Content still empty after HTML reader: https://www.hltv.org/news/45354/live-updates-from-ewc-quarter-finals
-2026/08/21 19:16:20 Content still empty after HTML reader: https://www.hltv.org/news/45353/yekindar-i-saw-news-that-yekindar-has-many-options-somebody-forgot-to-tell-me-i-guess
-2026/08/21 19:16:20 Content still empty after HTML reader: https://www.hltv.org/news/45351/art-we-know-the-level-of-cs-and-the-potential-we-have
-2026/08/21 19:16:20 Fetched posts from https://www.hltv.org/rss/news, took 1.849429155s
-2026/08/21 19:17:18 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.954852673s
-2026/08/21 19:17:18 Skipping writing post, no content: https://www.hltv.org/news/45336/rebels-sign-aragornn-arrozdoce-and-shr
-2026/08/21 19:17:18 Skipping writing post, no content: https://www.hltv.org/news/45333/short-news-week-33
-2026/08/21 19:17:18 Skipping writing post, no content: https://www.hltv.org/news/45354/live-updates-from-ewc-quarter-finals
-2026/08/21 19:17:18 Skipping writing post, no content: https://www.hltv.org/news/45353/yekindar-i-saw-news-that-yekindar-has-many-options-somebody-forgot-to-tell-me-i-guess
-2026/08/21 19:17:18 Skipping writing post, no content: https://www.hltv.org/news/45351/art-we-know-the-level-of-cs-and-the-potential-we-have
-2026/08/21 19:17:18 Templated 56 posts, took 8.074611ms
+2026/08/21 19:41:52 Fetched posts from https://vlr.gg/rss, took 1.208219639s
+2026/08/21 19:41:53 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.385935714s
+2026/08/21 19:41:53 Content still empty after HTML reader: https://www.hltv.org/news/45336/rebels-sign-aragornn-arrozdoce-and-shr
+2026/08/21 19:41:53 Content still empty after HTML reader: https://www.hltv.org/news/45333/short-news-week-33
+2026/08/21 19:41:53 Content still empty after HTML reader: https://www.hltv.org/news/45354/live-updates-from-ewc-quarter-finals
+2026/08/21 19:41:53 Content still empty after HTML reader: https://www.hltv.org/news/45353/yekindar-i-saw-news-that-yekindar-has-many-options-somebody-forgot-to-tell-me-i-guess
+2026/08/21 19:41:53 Content still empty after HTML reader: https://www.hltv.org/news/45351/art-we-know-the-level-of-cs-and-the-potential-we-have
+2026/08/21 19:41:53 Fetched posts from https://www.hltv.org/rss/news, took 1.852916203s
+2026/08/21 19:42:51 Get "https://www.bbc.com/vietnamese/articles/c4gw12gn21qo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/21 19:42:51 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003700297s
+2026/08/21 19:42:51 Skipping writing post, no content: https://www.hltv.org/news/45336/rebels-sign-aragornn-arrozdoce-and-shr
+2026/08/21 19:42:51 Skipping writing post, no content: https://www.hltv.org/news/45333/short-news-week-33
+2026/08/21 19:42:51 Skipping writing post, no content: https://www.hltv.org/news/45354/live-updates-from-ewc-quarter-finals
+2026/08/21 19:42:51 Skipping writing post, no content: https://www.hltv.org/news/45353/yekindar-i-saw-news-that-yekindar-has-many-options-somebody-forgot-to-tell-me-i-guess
+2026/08/21 19:42:51 Skipping writing post, no content: https://www.hltv.org/news/45351/art-we-know-the-level-of-cs-and-the-potential-we-have
+2026/08/21 19:42:51 Templated 55 posts, took 8.130109ms
