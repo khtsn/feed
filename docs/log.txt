@@ -1,15 +1,16 @@
-2026/08/22 10:55:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 964.918353ms
-2026/08/22 10:55:31 Content still empty after HTML reader: https://www.hltv.org/news/45359/latto-we-respect-falcons-a-lot-but-were-not-afraid
-2026/08/22 10:55:31 Content still empty after HTML reader: https://www.hltv.org/news/45358/niko-i-dont-remember-the-last-time-we-got-destroyed-like-this
-2026/08/22 10:55:31 Content still empty after HTML reader: https://www.hltv.org/news/45357/legacy-eliminate-falcons-from-ewc
-2026/08/22 10:55:31 Content still empty after HTML reader: https://www.hltv.org/news/45356/mibr-chief-insani-has-a-good-offer-from-us-on-the-table-hes-thinking-it-over
-2026/08/22 10:55:31 Content still empty after HTML reader: https://www.hltv.org/news/45355/fut-sweep-mouz-to-make-ewc-semis
-2026/08/22 10:55:31 Fetched posts from https://www.hltv.org/rss/news, took 1.323561238s
-2026/08/22 10:55:31 Fetched posts from https://vlr.gg/rss, took 1.334340666s
-2026/08/22 10:56:29 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.672296995s
-2026/08/22 10:56:29 Skipping writing post, no content: https://www.hltv.org/news/45359/latto-we-respect-falcons-a-lot-but-were-not-afraid
-2026/08/22 10:56:29 Skipping writing post, no content: https://www.hltv.org/news/45358/niko-i-dont-remember-the-last-time-we-got-destroyed-like-this
-2026/08/22 10:56:29 Skipping writing post, no content: https://www.hltv.org/news/45357/legacy-eliminate-falcons-from-ewc
-2026/08/22 10:56:29 Skipping writing post, no content: https://www.hltv.org/news/45356/mibr-chief-insani-has-a-good-offer-from-us-on-the-table-hes-thinking-it-over
-2026/08/22 10:56:29 Skipping writing post, no content: https://www.hltv.org/news/45355/fut-sweep-mouz-to-make-ewc-semis
-2026/08/22 10:56:29 Templated 54 posts, took 6.356756ms
+2026/08/22 11:20:18 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.139849203s
+2026/08/22 11:20:19 Content still empty after HTML reader: https://www.hltv.org/news/45359/latto-we-respect-falcons-a-lot-but-were-not-afraid
+2026/08/22 11:20:19 Content still empty after HTML reader: https://www.hltv.org/news/45358/niko-i-dont-remember-the-last-time-we-got-destroyed-like-this
+2026/08/22 11:20:19 Content still empty after HTML reader: https://www.hltv.org/news/45357/legacy-eliminate-falcons-from-ewc
+2026/08/22 11:20:19 Content still empty after HTML reader: https://www.hltv.org/news/45356/mibr-chief-insani-has-a-good-offer-from-us-on-the-table-hes-thinking-it-over
+2026/08/22 11:20:19 Content still empty after HTML reader: https://www.hltv.org/news/45355/fut-sweep-mouz-to-make-ewc-semis
+2026/08/22 11:20:19 Fetched posts from https://www.hltv.org/rss/news, took 1.417940738s
+2026/08/22 11:20:19 Fetched posts from https://vlr.gg/rss, took 1.507859328s
+2026/08/22 11:21:17 Get "https://www.bbc.com/vietnamese/articles/cx2dw1vj1d5o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/22 11:21:17 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.000138695s
+2026/08/22 11:21:17 Skipping writing post, no content: https://www.hltv.org/news/45359/latto-we-respect-falcons-a-lot-but-were-not-afraid
+2026/08/22 11:21:17 Skipping writing post, no content: https://www.hltv.org/news/45358/niko-i-dont-remember-the-last-time-we-got-destroyed-like-this
+2026/08/22 11:21:17 Skipping writing post, no content: https://www.hltv.org/news/45357/legacy-eliminate-falcons-from-ewc
+2026/08/22 11:21:17 Skipping writing post, no content: https://www.hltv.org/news/45356/mibr-chief-insani-has-a-good-offer-from-us-on-the-table-hes-thinking-it-over
+2026/08/22 11:21:17 Skipping writing post, no content: https://www.hltv.org/news/45355/fut-sweep-mouz-to-make-ewc-semis
+2026/08/22 11:21:17 Templated 53 posts, took 6.982435ms
