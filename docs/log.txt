@@ -1,16 +1,15 @@
-2026/08/22 08:49:08 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 730.907537ms
-2026/08/22 08:49:09 Fetched posts from https://vlr.gg/rss, took 1.896986209s
-2026/08/22 08:49:09 Content still empty after HTML reader: https://www.hltv.org/news/45357/legacy-eliminate-falcons-from-ewc
-2026/08/22 08:49:10 Content still empty after HTML reader: https://www.hltv.org/news/45356/mibr-chief-insani-has-a-good-offer-from-us-on-the-table-hes-thinking-it-over
-2026/08/22 08:49:10 Content still empty after HTML reader: https://www.hltv.org/news/45355/fut-sweep-mouz-to-make-ewc-semis
-2026/08/22 08:49:10 Content still empty after HTML reader: https://www.hltv.org/news/45336/rebels-sign-aragornn-arrozdoce-and-shr
-2026/08/22 08:49:10 Content still empty after HTML reader: https://www.hltv.org/news/45333/short-news-week-33
-2026/08/22 08:49:10 Fetched posts from https://www.hltv.org/rss/news, took 2.414325048s
-2026/08/22 08:50:07 Get "https://www.bbc.com/vietnamese/articles/cwy4944y9npo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/08/22 08:50:07 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.002399615s
-2026/08/22 08:50:07 Skipping writing post, no content: https://www.hltv.org/news/45357/legacy-eliminate-falcons-from-ewc
-2026/08/22 08:50:07 Skipping writing post, no content: https://www.hltv.org/news/45356/mibr-chief-insani-has-a-good-offer-from-us-on-the-table-hes-thinking-it-over
-2026/08/22 08:50:07 Skipping writing post, no content: https://www.hltv.org/news/45355/fut-sweep-mouz-to-make-ewc-semis
-2026/08/22 08:50:07 Skipping writing post, no content: https://www.hltv.org/news/45336/rebels-sign-aragornn-arrozdoce-and-shr
-2026/08/22 08:50:07 Skipping writing post, no content: https://www.hltv.org/news/45333/short-news-week-33
-2026/08/22 08:50:07 Templated 52 posts, took 6.42133ms
+2026/08/22 09:13:45 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 864.56078ms
+2026/08/22 09:13:45 Fetched posts from https://vlr.gg/rss, took 915.078075ms
+2026/08/22 09:13:46 Content still empty after HTML reader: https://www.hltv.org/news/45357/legacy-eliminate-falcons-from-ewc
+2026/08/22 09:13:46 Content still empty after HTML reader: https://www.hltv.org/news/45356/mibr-chief-insani-has-a-good-offer-from-us-on-the-table-hes-thinking-it-over
+2026/08/22 09:13:46 Content still empty after HTML reader: https://www.hltv.org/news/45355/fut-sweep-mouz-to-make-ewc-semis
+2026/08/22 09:13:46 Content still empty after HTML reader: https://www.hltv.org/news/45336/rebels-sign-aragornn-arrozdoce-and-shr
+2026/08/22 09:13:46 Content still empty after HTML reader: https://www.hltv.org/news/45333/short-news-week-33
+2026/08/22 09:13:46 Fetched posts from https://www.hltv.org/rss/news, took 1.168288529s
+2026/08/22 09:14:44 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.781897411s
+2026/08/22 09:14:44 Skipping writing post, no content: https://www.hltv.org/news/45357/legacy-eliminate-falcons-from-ewc
+2026/08/22 09:14:44 Skipping writing post, no content: https://www.hltv.org/news/45356/mibr-chief-insani-has-a-good-offer-from-us-on-the-table-hes-thinking-it-over
+2026/08/22 09:14:44 Skipping writing post, no content: https://www.hltv.org/news/45355/fut-sweep-mouz-to-make-ewc-semis
+2026/08/22 09:14:44 Skipping writing post, no content: https://www.hltv.org/news/45336/rebels-sign-aragornn-arrozdoce-and-shr
+2026/08/22 09:14:44 Skipping writing post, no content: https://www.hltv.org/news/45333/short-news-week-33
+2026/08/22 09:14:44 Templated 54 posts, took 8.433114ms
