@@ -1,15 +1,16 @@
-2026/08/24 16:58:31 Fetched posts from https://vlr.gg/rss, took 1.198387436s
-2026/08/24 16:58:31 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.214317978s
-2026/08/24 16:58:32 Content still empty after HTML reader: https://www.hltv.org/news/45376/donk-earns-esports-world-cup-mvp
-2026/08/24 16:58:32 Content still empty after HTML reader: https://www.hltv.org/news/45377/spirit-beat-fut-3-1-to-win-esports-world-cup
-2026/08/24 16:58:32 Content still empty after HTML reader: https://www.hltv.org/news/45375/eternal-fire-sign-soulfly-make-jottaaas-loan-permanent
-2026/08/24 16:58:32 Content still empty after HTML reader: https://www.hltv.org/news/45371/legacy-take-third-place-at-ewc-over-furia
-2026/08/24 16:58:32 Content still empty after HTML reader: https://www.hltv.org/news/45372/eternal-fire-bench-br0
-2026/08/24 16:58:32 Fetched posts from https://www.hltv.org/rss/news, took 1.497057755s
-2026/08/24 16:59:30 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.594224231s
-2026/08/24 16:59:30 Skipping writing post, no content: https://www.hltv.org/news/45376/donk-earns-esports-world-cup-mvp
-2026/08/24 16:59:30 Skipping writing post, no content: https://www.hltv.org/news/45377/spirit-beat-fut-3-1-to-win-esports-world-cup
-2026/08/24 16:59:30 Skipping writing post, no content: https://www.hltv.org/news/45375/eternal-fire-sign-soulfly-make-jottaaas-loan-permanent
-2026/08/24 16:59:30 Skipping writing post, no content: https://www.hltv.org/news/45371/legacy-take-third-place-at-ewc-over-furia
-2026/08/24 16:59:30 Skipping writing post, no content: https://www.hltv.org/news/45372/eternal-fire-bench-br0
-2026/08/24 16:59:30 Templated 58 posts, took 7.334836ms
+2026/08/24 17:37:17 Fetched posts from https://vlr.gg/rss, took 1.161257309s
+2026/08/24 17:37:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.279287411s
+2026/08/24 17:37:17 Content still empty after HTML reader: https://www.hltv.org/news/45370/esports-world-cup-grand-final-as-it-happened
+2026/08/24 17:37:17 Content still empty after HTML reader: https://www.hltv.org/news/45376/donk-earns-esports-world-cup-mvp
+2026/08/24 17:37:17 Content still empty after HTML reader: https://www.hltv.org/news/45377/spirit-beat-fut-3-1-to-win-esports-world-cup
+2026/08/24 17:37:17 Content still empty after HTML reader: https://www.hltv.org/news/45375/eternal-fire-sign-soulfly-make-jottaaas-loan-permanent
+2026/08/24 17:37:17 Content still empty after HTML reader: https://www.hltv.org/news/45371/legacy-take-third-place-at-ewc-over-furia
+2026/08/24 17:37:17 Fetched posts from https://www.hltv.org/rss/news, took 1.59573968s
+2026/08/24 17:38:16 Get "https://www.bbc.com/vietnamese/articles/c171471zw7lo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/24 17:38:16 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.001722549s
+2026/08/24 17:38:16 Skipping writing post, no content: https://www.hltv.org/news/45370/esports-world-cup-grand-final-as-it-happened
+2026/08/24 17:38:16 Skipping writing post, no content: https://www.hltv.org/news/45376/donk-earns-esports-world-cup-mvp
+2026/08/24 17:38:16 Skipping writing post, no content: https://www.hltv.org/news/45377/spirit-beat-fut-3-1-to-win-esports-world-cup
+2026/08/24 17:38:16 Skipping writing post, no content: https://www.hltv.org/news/45375/eternal-fire-sign-soulfly-make-jottaaas-loan-permanent
+2026/08/24 17:38:16 Skipping writing post, no content: https://www.hltv.org/news/45371/legacy-take-third-place-at-ewc-over-furia
+2026/08/24 17:38:16 Templated 57 posts, took 6.578063ms
