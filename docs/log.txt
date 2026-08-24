@@ -1,16 +1,16 @@
-2026/08/24 20:26:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 800.439728ms
-2026/08/24 20:26:31 Fetched posts from https://vlr.gg/rss, took 1.846665714s
-2026/08/24 20:26:32 Content still empty after HTML reader: https://www.hltv.org/news/45379/donk-i-still-see-a-lot-of-things-that-i-can-improve
-2026/08/24 20:26:32 Content still empty after HTML reader: https://www.hltv.org/news/45370/esports-world-cup-grand-final-as-it-happened
-2026/08/24 20:26:32 Content still empty after HTML reader: https://www.hltv.org/news/45376/donk-earns-esports-world-cup-mvp
-2026/08/24 20:26:32 Content still empty after HTML reader: https://www.hltv.org/news/45377/spirit-beat-fut-3-1-to-win-esports-world-cup
-2026/08/24 20:26:32 Content still empty after HTML reader: https://www.hltv.org/news/45375/eternal-fire-sign-soulfly-make-jottaaas-loan-permanent
-2026/08/24 20:26:32 Fetched posts from https://www.hltv.org/rss/news, took 2.310934473s
-2026/08/24 20:27:30 Get "https://www.bbc.com/vietnamese/articles/c171471zw7lo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/08/24 20:27:30 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004464737s
-2026/08/24 20:27:30 Skipping writing post, no content: https://www.hltv.org/news/45379/donk-i-still-see-a-lot-of-things-that-i-can-improve
-2026/08/24 20:27:30 Skipping writing post, no content: https://www.hltv.org/news/45370/esports-world-cup-grand-final-as-it-happened
-2026/08/24 20:27:30 Skipping writing post, no content: https://www.hltv.org/news/45376/donk-earns-esports-world-cup-mvp
-2026/08/24 20:27:30 Skipping writing post, no content: https://www.hltv.org/news/45377/spirit-beat-fut-3-1-to-win-esports-world-cup
-2026/08/24 20:27:30 Skipping writing post, no content: https://www.hltv.org/news/45375/eternal-fire-sign-soulfly-make-jottaaas-loan-permanent
-2026/08/24 20:27:30 Templated 50 posts, took 6.526245ms
+2026/08/24 20:59:34 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.787637111s
+2026/08/24 20:59:34 Fetched posts from https://vlr.gg/rss, took 1.790085801s
+2026/08/24 20:59:34 Content still empty after HTML reader: https://www.hltv.org/news/45333/short-news-week-33
+2026/08/24 20:59:34 Content still empty after HTML reader: https://www.hltv.org/news/45379/donk-i-still-see-a-lot-of-things-that-i-can-improve
+2026/08/24 20:59:34 Content still empty after HTML reader: https://www.hltv.org/news/45370/esports-world-cup-grand-final-as-it-happened
+2026/08/24 20:59:34 Content still empty after HTML reader: https://www.hltv.org/news/45376/donk-earns-esports-world-cup-mvp
+2026/08/24 20:59:34 Content still empty after HTML reader: https://www.hltv.org/news/45377/spirit-beat-fut-3-1-to-win-esports-world-cup
+2026/08/24 20:59:34 Fetched posts from https://www.hltv.org/rss/news, took 2.004176479s
+2026/08/24 21:00:32 Get "https://www.bbc.com/vietnamese/articles/c171471zw7lo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/24 21:00:32 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004055865s
+2026/08/24 21:00:32 Skipping writing post, no content: https://www.hltv.org/news/45333/short-news-week-33
+2026/08/24 21:00:32 Skipping writing post, no content: https://www.hltv.org/news/45379/donk-i-still-see-a-lot-of-things-that-i-can-improve
+2026/08/24 21:00:32 Skipping writing post, no content: https://www.hltv.org/news/45370/esports-world-cup-grand-final-as-it-happened
+2026/08/24 21:00:32 Skipping writing post, no content: https://www.hltv.org/news/45376/donk-earns-esports-world-cup-mvp
+2026/08/24 21:00:32 Skipping writing post, no content: https://www.hltv.org/news/45377/spirit-beat-fut-3-1-to-win-esports-world-cup
+2026/08/24 21:00:32 Templated 52 posts, took 5.658444ms
