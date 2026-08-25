@@ -1,15 +1,14 @@
-2026/08/25 07:26:42 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 907.646901ms
-2026/08/25 07:26:42 Fetched posts from https://vlr.gg/rss, took 1.630095878s
-2026/08/25 07:26:43 Content still empty after HTML reader: https://www.hltv.org/news/45378/coolio-we-ran-out-of-energy-and-you-could-see-on-the-guys-that-the-ancient-loss-hit-them-hard
-2026/08/25 07:26:43 Content still empty after HTML reader: https://www.hltv.org/news/45333/short-news-week-33
-2026/08/25 07:26:43 Content still empty after HTML reader: https://www.hltv.org/news/45379/donk-i-still-see-a-lot-of-things-that-i-can-improve
-2026/08/25 07:26:43 Content still empty after HTML reader: https://www.hltv.org/news/45370/esports-world-cup-grand-final-as-it-happened
-2026/08/25 07:26:43 Content still empty after HTML reader: https://www.hltv.org/news/45376/donk-earns-esports-world-cup-mvp
-2026/08/25 07:26:43 Fetched posts from https://www.hltv.org/rss/news, took 2.275702491s
-2026/08/25 07:27:41 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.883181726s
-2026/08/25 07:27:41 Skipping writing post, no content: https://www.hltv.org/news/45378/coolio-we-ran-out-of-energy-and-you-could-see-on-the-guys-that-the-ancient-loss-hit-them-hard
-2026/08/25 07:27:41 Skipping writing post, no content: https://www.hltv.org/news/45333/short-news-week-33
-2026/08/25 07:27:41 Skipping writing post, no content: https://www.hltv.org/news/45379/donk-i-still-see-a-lot-of-things-that-i-can-improve
-2026/08/25 07:27:41 Skipping writing post, no content: https://www.hltv.org/news/45370/esports-world-cup-grand-final-as-it-happened
-2026/08/25 07:27:41 Skipping writing post, no content: https://www.hltv.org/news/45376/donk-earns-esports-world-cup-mvp
-2026/08/25 07:27:41 Templated 54 posts, took 8.920312ms
+2026/08/25 08:08:01 Fetched posts from https://vlr.gg/rss, took 762.3765ms
+2026/08/25 08:08:02 Content still empty after HTML reader: https://www.hltv.org/news/45378/coolio-we-ran-out-of-energy-and-you-could-see-on-the-guys-that-the-ancient-loss-hit-them-hard
+2026/08/25 08:08:02 Content still empty after HTML reader: https://www.hltv.org/news/45379/donk-i-still-see-a-lot-of-things-that-i-can-improve
+2026/08/25 08:08:02 Content still empty after HTML reader: https://www.hltv.org/news/45370/esports-world-cup-grand-final-as-it-happened
+2026/08/25 08:08:02 Content still empty after HTML reader: https://www.hltv.org/news/45376/donk-earns-esports-world-cup-mvp
+2026/08/25 08:08:02 Fetched posts from https://www.hltv.org/rss/news, took 1.035244816s
+2026/08/25 08:08:02 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.057708126s
+2026/08/25 08:09:01 Get "https://www.bbc.com/vietnamese/articles/cly8ylnne1yo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/25 08:09:01 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004020004s
+2026/08/25 08:09:01 Skipping writing post, no content: https://www.hltv.org/news/45378/coolio-we-ran-out-of-energy-and-you-could-see-on-the-guys-that-the-ancient-loss-hit-them-hard
+2026/08/25 08:09:01 Skipping writing post, no content: https://www.hltv.org/news/45379/donk-i-still-see-a-lot-of-things-that-i-can-improve
+2026/08/25 08:09:01 Skipping writing post, no content: https://www.hltv.org/news/45370/esports-world-cup-grand-final-as-it-happened
+2026/08/25 08:09:01 Skipping writing post, no content: https://www.hltv.org/news/45376/donk-earns-esports-world-cup-mvp
+2026/08/25 08:09:01 Templated 53 posts, took 7.670772ms
