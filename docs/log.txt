@@ -1,16 +1,15 @@
-2026/08/26 06:20:23 Fetched posts from https://vlr.gg/rss, took 591.405413ms
-2026/08/26 06:20:23 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 947.985718ms
-2026/08/26 06:20:23 Content still empty after HTML reader: https://www.hltv.org/news/45385/luminosity-confirm-kakafu-signing
-2026/08/26 06:20:23 Content still empty after HTML reader: https://www.hltv.org/news/45384/blast-open-porto-teams-format-schedule-prizes-talent-fantasy
-2026/08/26 06:20:23 Content still empty after HTML reader: https://www.hltv.org/news/45382/eternal-fire-among-teams-to-make-iem-beijing-closed-qualifier
-2026/08/26 06:20:23 Content still empty after HTML reader: https://www.hltv.org/news/45381/luminosity-bench-bymas
-2026/08/26 06:20:23 Content still empty after HTML reader: https://www.hltv.org/news/45380/yxngstxr-departs-heroic
-2026/08/26 06:20:23 Fetched posts from https://www.hltv.org/rss/news, took 1.130962373s
-2026/08/26 06:21:22 Get "https://www.bbc.com/vietnamese/articles/c0m3nngz38po?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/08/26 06:21:22 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003101857s
-2026/08/26 06:21:22 Skipping writing post, no content: https://www.hltv.org/news/45385/luminosity-confirm-kakafu-signing
-2026/08/26 06:21:22 Skipping writing post, no content: https://www.hltv.org/news/45384/blast-open-porto-teams-format-schedule-prizes-talent-fantasy
-2026/08/26 06:21:22 Skipping writing post, no content: https://www.hltv.org/news/45382/eternal-fire-among-teams-to-make-iem-beijing-closed-qualifier
-2026/08/26 06:21:22 Skipping writing post, no content: https://www.hltv.org/news/45381/luminosity-bench-bymas
-2026/08/26 06:21:22 Skipping writing post, no content: https://www.hltv.org/news/45380/yxngstxr-departs-heroic
-2026/08/26 06:21:22 Templated 50 posts, took 5.923588ms
+2026/08/26 07:14:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 884.67784ms
+2026/08/26 07:14:30 Fetched posts from https://vlr.gg/rss, took 1.128134052s
+2026/08/26 07:14:31 Content still empty after HTML reader: https://www.hltv.org/news/45385/luminosity-confirm-kakafu-signing
+2026/08/26 07:14:31 Content still empty after HTML reader: https://www.hltv.org/news/45384/blast-open-porto-teams-format-schedule-prizes-talent-fantasy
+2026/08/26 07:14:31 Content still empty after HTML reader: https://www.hltv.org/news/45382/eternal-fire-among-teams-to-make-iem-beijing-closed-qualifier
+2026/08/26 07:14:31 Content still empty after HTML reader: https://www.hltv.org/news/45381/luminosity-bench-bymas
+2026/08/26 07:14:31 Content still empty after HTML reader: https://www.hltv.org/news/45380/yxngstxr-departs-heroic
+2026/08/26 07:14:31 Fetched posts from https://www.hltv.org/rss/news, took 1.63669199s
+2026/08/26 07:15:29 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.448958456s
+2026/08/26 07:15:29 Skipping writing post, no content: https://www.hltv.org/news/45385/luminosity-confirm-kakafu-signing
+2026/08/26 07:15:29 Skipping writing post, no content: https://www.hltv.org/news/45384/blast-open-porto-teams-format-schedule-prizes-talent-fantasy
+2026/08/26 07:15:29 Skipping writing post, no content: https://www.hltv.org/news/45382/eternal-fire-among-teams-to-make-iem-beijing-closed-qualifier
+2026/08/26 07:15:29 Skipping writing post, no content: https://www.hltv.org/news/45381/luminosity-bench-bymas
+2026/08/26 07:15:29 Skipping writing post, no content: https://www.hltv.org/news/45380/yxngstxr-departs-heroic
+2026/08/26 07:15:29 Templated 52 posts, took 5.068481ms
