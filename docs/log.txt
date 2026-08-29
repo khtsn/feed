@@ -1,15 +1,16 @@
-2026/08/29 03:45:08 Fetched posts from https://vlr.gg/rss, took 883.975015ms
-2026/08/29 03:45:08 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.033929012s
-2026/08/29 03:45:09 Content still empty after HTML reader: https://www.hltv.org/news/45407/biguzera-i-feel-as-a-team-we-dont-trust-each-other-anymore
-2026/08/29 03:45:09 Content still empty after HTML reader: https://www.hltv.org/news/45406/spirit-through-to-porto-playoffs-with-2-0-victory-over-g2
-2026/08/29 03:45:09 Content still empty after HTML reader: https://www.hltv.org/news/45404/zonic-on-beating-lynn-vision-it-was-good-to-see-mentality-wise-that-we-could-come-back
-2026/08/29 03:45:09 Content still empty after HTML reader: https://www.hltv.org/news/45403/3dmax-members-issue-statements-on-unpaid-salaries
-2026/08/29 03:45:09 Content still empty after HTML reader: https://www.hltv.org/news/45402/lattos-ace-powers-legacy-past-fut-at-blast-open
-2026/08/29 03:45:09 Fetched posts from https://www.hltv.org/rss/news, took 1.646287727s
-2026/08/29 03:46:07 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.400954033s
-2026/08/29 03:46:07 Skipping writing post, no content: https://www.hltv.org/news/45407/biguzera-i-feel-as-a-team-we-dont-trust-each-other-anymore
-2026/08/29 03:46:07 Skipping writing post, no content: https://www.hltv.org/news/45406/spirit-through-to-porto-playoffs-with-2-0-victory-over-g2
-2026/08/29 03:46:07 Skipping writing post, no content: https://www.hltv.org/news/45404/zonic-on-beating-lynn-vision-it-was-good-to-see-mentality-wise-that-we-could-come-back
-2026/08/29 03:46:07 Skipping writing post, no content: https://www.hltv.org/news/45403/3dmax-members-issue-statements-on-unpaid-salaries
-2026/08/29 03:46:07 Skipping writing post, no content: https://www.hltv.org/news/45402/lattos-ace-powers-legacy-past-fut-at-blast-open
-2026/08/29 03:46:07 Templated 46 posts, took 6.639912ms
+2026/08/29 10:27:43 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 792.176751ms
+2026/08/29 10:27:44 Fetched posts from https://vlr.gg/rss, took 1.487459682s
+2026/08/29 10:27:45 Content still empty after HTML reader: https://www.hltv.org/news/45407/biguzera-i-feel-as-a-team-we-dont-trust-each-other-anymore
+2026/08/29 10:27:45 Content still empty after HTML reader: https://www.hltv.org/news/45406/spirit-through-to-porto-playoffs-with-2-0-victory-over-g2
+2026/08/29 10:27:45 Content still empty after HTML reader: https://www.hltv.org/news/45404/zonic-on-beating-lynn-vision-it-was-good-to-see-mentality-wise-that-we-could-come-back
+2026/08/29 10:27:45 Content still empty after HTML reader: https://www.hltv.org/news/45403/3dmax-members-issue-statements-on-unpaid-salaries
+2026/08/29 10:27:45 Content still empty after HTML reader: https://www.hltv.org/news/45402/lattos-ace-powers-legacy-past-fut-at-blast-open
+2026/08/29 10:27:45 Fetched posts from https://www.hltv.org/rss/news, took 2.272010974s
+2026/08/29 10:28:43 Get "https://www.bbc.com/vietnamese/articles/c62qegx60nxo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/08/29 10:28:43 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.00500815s
+2026/08/29 10:28:43 Skipping writing post, no content: https://www.hltv.org/news/45407/biguzera-i-feel-as-a-team-we-dont-trust-each-other-anymore
+2026/08/29 10:28:43 Skipping writing post, no content: https://www.hltv.org/news/45406/spirit-through-to-porto-playoffs-with-2-0-victory-over-g2
+2026/08/29 10:28:43 Skipping writing post, no content: https://www.hltv.org/news/45404/zonic-on-beating-lynn-vision-it-was-good-to-see-mentality-wise-that-we-could-come-back
+2026/08/29 10:28:43 Skipping writing post, no content: https://www.hltv.org/news/45403/3dmax-members-issue-statements-on-unpaid-salaries
+2026/08/29 10:28:43 Skipping writing post, no content: https://www.hltv.org/news/45402/lattos-ace-powers-legacy-past-fut-at-blast-open
+2026/08/29 10:28:43 Templated 45 posts, took 5.796241ms
