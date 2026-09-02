@@ -1,15 +1,16 @@
-2026/09/02 17:17:23 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 879.606891ms
-2026/09/02 17:17:24 Fetched posts from https://vlr.gg/rss, took 1.001823294s
-2026/09/02 17:17:25 Content still empty after HTML reader: https://www.hltv.org/news/45436/packed-six-team-blast-playoffs-and-three-more-partner-fantasy-games-open-to-play
-2026/09/02 17:17:25 Content still empty after HTML reader: https://www.hltv.org/news/45435/hadji-announces-his-retirement-as-player
-2026/09/02 17:17:25 Content still empty after HTML reader: https://www.hltv.org/news/45433/maden-steps-in-for-gamerlegion-in-iem-beijing-closed-qualifier
-2026/09/02 17:17:25 Content still empty after HTML reader: https://www.hltv.org/news/45432/apex-when-i-play-like-that-i-think-were-such-a-dangerous-team
-2026/09/02 17:17:25 Content still empty after HTML reader: https://www.hltv.org/news/45431/blast-open-porto-playoff-bracket-set
-2026/09/02 17:17:25 Fetched posts from https://www.hltv.org/rss/news, took 2.313929572s
-2026/09/02 17:18:22 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.80507606s
-2026/09/02 17:18:22 Skipping writing post, no content: https://www.hltv.org/news/45436/packed-six-team-blast-playoffs-and-three-more-partner-fantasy-games-open-to-play
-2026/09/02 17:18:22 Skipping writing post, no content: https://www.hltv.org/news/45435/hadji-announces-his-retirement-as-player
-2026/09/02 17:18:22 Skipping writing post, no content: https://www.hltv.org/news/45433/maden-steps-in-for-gamerlegion-in-iem-beijing-closed-qualifier
-2026/09/02 17:18:22 Skipping writing post, no content: https://www.hltv.org/news/45432/apex-when-i-play-like-that-i-think-were-such-a-dangerous-team
-2026/09/02 17:18:22 Skipping writing post, no content: https://www.hltv.org/news/45431/blast-open-porto-playoff-bracket-set
-2026/09/02 17:18:22 Templated 48 posts, took 7.796127ms
+2026/09/02 19:52:09 Fetched posts from https://vlr.gg/rss, took 519.34502ms
+2026/09/02 19:52:10 Content still empty after HTML reader: https://www.hltv.org/news/45405/hltv-prospects-spotlight-kl1m
+2026/09/02 19:52:10 Content still empty after HTML reader: https://www.hltv.org/news/45436/packed-six-team-blast-playoffs-and-three-more-partner-fantasy-games-open-to-play
+2026/09/02 19:52:10 Content still empty after HTML reader: https://www.hltv.org/news/45435/hadji-announces-his-retirement-as-player
+2026/09/02 19:52:10 Content still empty after HTML reader: https://www.hltv.org/news/45433/maden-steps-in-for-gamerlegion-in-iem-beijing-closed-qualifier
+2026/09/02 19:52:10 Content still empty after HTML reader: https://www.hltv.org/news/45432/apex-when-i-play-like-that-i-think-were-such-a-dangerous-team
+2026/09/02 19:52:10 Fetched posts from https://www.hltv.org/rss/news, took 1.586281897s
+2026/09/02 19:52:10 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.622573257s
+2026/09/02 19:53:09 Get "https://www.bbc.com/vietnamese/articles/c8r6588de7ro?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/09/02 19:53:09 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004230717s
+2026/09/02 19:53:09 Skipping writing post, no content: https://www.hltv.org/news/45405/hltv-prospects-spotlight-kl1m
+2026/09/02 19:53:09 Skipping writing post, no content: https://www.hltv.org/news/45436/packed-six-team-blast-playoffs-and-three-more-partner-fantasy-games-open-to-play
+2026/09/02 19:53:09 Skipping writing post, no content: https://www.hltv.org/news/45435/hadji-announces-his-retirement-as-player
+2026/09/02 19:53:09 Skipping writing post, no content: https://www.hltv.org/news/45433/maden-steps-in-for-gamerlegion-in-iem-beijing-closed-qualifier
+2026/09/02 19:53:09 Skipping writing post, no content: https://www.hltv.org/news/45432/apex-when-i-play-like-that-i-think-were-such-a-dangerous-team
+2026/09/02 19:53:09 Templated 47 posts, took 5.798444ms
