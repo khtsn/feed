@@ -1,15 +1,16 @@
-2026/09/03 17:11:26 Fetched posts from https://vlr.gg/rss, took 661.545113ms
-2026/09/03 17:11:27 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 989.819923ms
-2026/09/03 17:11:28 Content still empty after HTML reader: https://www.hltv.org/news/45439/hltv-prospects-ranking-september-2026
-2026/09/03 17:11:28 Content still empty after HTML reader: https://www.hltv.org/news/45441/cobrazera-returns-to-the-mongolz-starting-five-for-fissure-playground-3
-2026/09/03 17:11:28 Content still empty after HTML reader: https://www.hltv.org/news/45440/dako-sets-new-cs2-regulation-kill-record
-2026/09/03 17:11:28 Content still empty after HTML reader: https://www.hltv.org/news/45425/the-evps-and-all-stars-of-esports-world-cup-2026
-2026/09/03 17:11:28 Content still empty after HTML reader: https://www.hltv.org/news/45438/nip-sign-krimbo-on-loan-from-big
-2026/09/03 17:11:28 Fetched posts from https://www.hltv.org/rss/news, took 1.97054212s
-2026/09/03 17:12:26 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.914587985s
-2026/09/03 17:12:26 Skipping writing post, no content: https://www.hltv.org/news/45439/hltv-prospects-ranking-september-2026
-2026/09/03 17:12:26 Skipping writing post, no content: https://www.hltv.org/news/45441/cobrazera-returns-to-the-mongolz-starting-five-for-fissure-playground-3
-2026/09/03 17:12:26 Skipping writing post, no content: https://www.hltv.org/news/45440/dako-sets-new-cs2-regulation-kill-record
-2026/09/03 17:12:26 Skipping writing post, no content: https://www.hltv.org/news/45425/the-evps-and-all-stars-of-esports-world-cup-2026
-2026/09/03 17:12:26 Skipping writing post, no content: https://www.hltv.org/news/45438/nip-sign-krimbo-on-loan-from-big
-2026/09/03 17:12:26 Templated 51 posts, took 5.66867ms
+2026/09/03 19:51:07 Fetched posts from https://vlr.gg/rss, took 202.301341ms
+2026/09/03 19:51:08 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.671038679s
+2026/09/03 19:51:08 Content still empty after HTML reader: https://www.hltv.org/news/45442/pgl-masters-bucharest-2026-closed-qualifier-teams-announced
+2026/09/03 19:51:08 Content still empty after HTML reader: https://www.hltv.org/news/45439/hltv-prospects-ranking-september-2026
+2026/09/03 19:51:08 Content still empty after HTML reader: https://www.hltv.org/news/45441/cobrazera-returns-to-the-mongolz-starting-five-for-fissure-playground-3
+2026/09/03 19:51:09 Content still empty after HTML reader: https://www.hltv.org/news/45440/dako-sets-new-cs2-regulation-kill-record
+2026/09/03 19:51:09 Content still empty after HTML reader: https://www.hltv.org/news/45425/the-evps-and-all-stars-of-esports-world-cup-2026
+2026/09/03 19:51:09 Fetched posts from https://www.hltv.org/rss/news, took 1.921477043s
+2026/09/03 19:52:07 Get "https://www.bbc.com/vietnamese/articles/cdx02gq9q4lo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/09/03 19:52:07 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004018378s
+2026/09/03 19:52:07 Skipping writing post, no content: https://www.hltv.org/news/45442/pgl-masters-bucharest-2026-closed-qualifier-teams-announced
+2026/09/03 19:52:07 Skipping writing post, no content: https://www.hltv.org/news/45439/hltv-prospects-ranking-september-2026
+2026/09/03 19:52:07 Skipping writing post, no content: https://www.hltv.org/news/45441/cobrazera-returns-to-the-mongolz-starting-five-for-fissure-playground-3
+2026/09/03 19:52:07 Skipping writing post, no content: https://www.hltv.org/news/45440/dako-sets-new-cs2-regulation-kill-record
+2026/09/03 19:52:07 Skipping writing post, no content: https://www.hltv.org/news/45425/the-evps-and-all-stars-of-esports-world-cup-2026
+2026/09/03 19:52:07 Templated 47 posts, took 6.120094ms
