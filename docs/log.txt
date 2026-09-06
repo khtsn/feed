@@ -1,15 +1,16 @@
-2026/09/06 01:05:10 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 791.928798ms
-2026/09/06 01:05:10 Fetched posts from https://vlr.gg/rss, took 1.626881516s
-2026/09/06 01:05:11 Content still empty after HTML reader: https://www.hltv.org/news/45456/spirit-advance-to-blast-porto-final-over-falcons
-2026/09/06 01:05:11 Content still empty after HTML reader: https://www.hltv.org/news/45453/xtqzzz-on-playing-with-jl-we-were-really-happy-to-have-something-new
-2026/09/06 01:05:11 Content still empty after HTML reader: https://www.hltv.org/news/45452/heroic-b8-complete-iem-beijing-team-list
-2026/09/06 01:05:11 Content still empty after HTML reader: https://www.hltv.org/news/45447/blast-porto-quarter-finals-as-they-happened
-2026/09/06 01:05:11 Content still empty after HTML reader: https://www.hltv.org/news/45451/vitality-recover-from-nuke-drubbing-to-make-blast-porto-semi-final
-2026/09/06 01:05:11 Fetched posts from https://www.hltv.org/rss/news, took 2.526558601s
-2026/09/06 01:06:08 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.398234663s
-2026/09/06 01:06:08 Skipping writing post, no content: https://www.hltv.org/news/45456/spirit-advance-to-blast-porto-final-over-falcons
-2026/09/06 01:06:08 Skipping writing post, no content: https://www.hltv.org/news/45453/xtqzzz-on-playing-with-jl-we-were-really-happy-to-have-something-new
-2026/09/06 01:06:08 Skipping writing post, no content: https://www.hltv.org/news/45452/heroic-b8-complete-iem-beijing-team-list
-2026/09/06 01:06:08 Skipping writing post, no content: https://www.hltv.org/news/45447/blast-porto-quarter-finals-as-they-happened
-2026/09/06 01:06:08 Skipping writing post, no content: https://www.hltv.org/news/45451/vitality-recover-from-nuke-drubbing-to-make-blast-porto-semi-final
-2026/09/06 01:06:08 Templated 44 posts, took 6.860217ms
+2026/09/06 05:53:24 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.191107623s
+2026/09/06 05:53:24 Fetched posts from https://vlr.gg/rss, took 1.244644095s
+2026/09/06 05:53:24 Content still empty after HTML reader: https://www.hltv.org/news/45456/spirit-advance-to-blast-porto-final-over-falcons
+2026/09/06 05:53:24 Content still empty after HTML reader: https://www.hltv.org/news/45453/xtqzzz-on-playing-with-jl-we-were-really-happy-to-have-something-new
+2026/09/06 05:53:24 Content still empty after HTML reader: https://www.hltv.org/news/45452/heroic-b8-complete-iem-beijing-team-list
+2026/09/06 05:53:24 Content still empty after HTML reader: https://www.hltv.org/news/45447/blast-porto-quarter-finals-as-they-happened
+2026/09/06 05:53:24 Content still empty after HTML reader: https://www.hltv.org/news/45451/vitality-recover-from-nuke-drubbing-to-make-blast-porto-semi-final
+2026/09/06 05:53:24 Fetched posts from https://www.hltv.org/rss/news, took 1.607269939s
+2026/09/06 05:54:22 Get "https://www.bbc.com/vietnamese/articles/c2dw3yperjzo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/09/06 05:54:22 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003976947s
+2026/09/06 05:54:22 Skipping writing post, no content: https://www.hltv.org/news/45456/spirit-advance-to-blast-porto-final-over-falcons
+2026/09/06 05:54:22 Skipping writing post, no content: https://www.hltv.org/news/45453/xtqzzz-on-playing-with-jl-we-were-really-happy-to-have-something-new
+2026/09/06 05:54:22 Skipping writing post, no content: https://www.hltv.org/news/45452/heroic-b8-complete-iem-beijing-team-list
+2026/09/06 05:54:22 Skipping writing post, no content: https://www.hltv.org/news/45447/blast-porto-quarter-finals-as-they-happened
+2026/09/06 05:54:22 Skipping writing post, no content: https://www.hltv.org/news/45451/vitality-recover-from-nuke-drubbing-to-make-blast-porto-semi-final
+2026/09/06 05:54:22 Templated 43 posts, took 5.684016ms
