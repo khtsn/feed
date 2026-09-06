@@ -1,16 +1,17 @@
-2026/09/06 05:53:24 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.191107623s
-2026/09/06 05:53:24 Fetched posts from https://vlr.gg/rss, took 1.244644095s
-2026/09/06 05:53:24 Content still empty after HTML reader: https://www.hltv.org/news/45456/spirit-advance-to-blast-porto-final-over-falcons
-2026/09/06 05:53:24 Content still empty after HTML reader: https://www.hltv.org/news/45453/xtqzzz-on-playing-with-jl-we-were-really-happy-to-have-something-new
-2026/09/06 05:53:24 Content still empty after HTML reader: https://www.hltv.org/news/45452/heroic-b8-complete-iem-beijing-team-list
-2026/09/06 05:53:24 Content still empty after HTML reader: https://www.hltv.org/news/45447/blast-porto-quarter-finals-as-they-happened
-2026/09/06 05:53:24 Content still empty after HTML reader: https://www.hltv.org/news/45451/vitality-recover-from-nuke-drubbing-to-make-blast-porto-semi-final
-2026/09/06 05:53:24 Fetched posts from https://www.hltv.org/rss/news, took 1.607269939s
-2026/09/06 05:54:22 Get "https://www.bbc.com/vietnamese/articles/c2dw3yperjzo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/09/06 05:54:22 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003976947s
-2026/09/06 05:54:22 Skipping writing post, no content: https://www.hltv.org/news/45456/spirit-advance-to-blast-porto-final-over-falcons
-2026/09/06 05:54:22 Skipping writing post, no content: https://www.hltv.org/news/45453/xtqzzz-on-playing-with-jl-we-were-really-happy-to-have-something-new
-2026/09/06 05:54:22 Skipping writing post, no content: https://www.hltv.org/news/45452/heroic-b8-complete-iem-beijing-team-list
-2026/09/06 05:54:22 Skipping writing post, no content: https://www.hltv.org/news/45447/blast-porto-quarter-finals-as-they-happened
-2026/09/06 05:54:22 Skipping writing post, no content: https://www.hltv.org/news/45451/vitality-recover-from-nuke-drubbing-to-make-blast-porto-semi-final
-2026/09/06 05:54:22 Templated 43 posts, took 5.684016ms
+2026/09/06 10:07:28 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.355439054s
+2026/09/06 10:07:28 Fetched posts from https://vlr.gg/rss, took 1.605557594s
+2026/09/06 10:07:28 Content still empty after HTML reader: https://www.hltv.org/news/45457/niko-we-are-not-carrying-the-confidence-we-had-from-the-major-well-it-hurt-us-more-than-we-benefitted
+2026/09/06 10:07:28 Content still empty after HTML reader: https://www.hltv.org/news/45456/spirit-advance-to-blast-porto-final-over-falcons
+2026/09/06 10:07:29 Content still empty after HTML reader: https://www.hltv.org/news/45453/xtqzzz-on-playing-with-jl-we-were-really-happy-to-have-something-new
+2026/09/06 10:07:29 Content still empty after HTML reader: https://www.hltv.org/news/45452/heroic-b8-complete-iem-beijing-team-list
+2026/09/06 10:07:29 Content still empty after HTML reader: https://www.hltv.org/news/45447/blast-porto-quarter-finals-as-they-happened
+2026/09/06 10:07:29 Fetched posts from https://www.hltv.org/rss/news, took 2.446450976s
+2026/09/06 10:08:26 Get "https://www.bbc.com/vietnamese/articles/c4gj742973qo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/09/06 10:08:26 Get "https://www.bbc.com/vietnamese/articles/cvgy8q62611o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/09/06 10:08:26 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004210905s
+2026/09/06 10:08:26 Skipping writing post, no content: https://www.hltv.org/news/45457/niko-we-are-not-carrying-the-confidence-we-had-from-the-major-well-it-hurt-us-more-than-we-benefitted
+2026/09/06 10:08:26 Skipping writing post, no content: https://www.hltv.org/news/45456/spirit-advance-to-blast-porto-final-over-falcons
+2026/09/06 10:08:26 Skipping writing post, no content: https://www.hltv.org/news/45453/xtqzzz-on-playing-with-jl-we-were-really-happy-to-have-something-new
+2026/09/06 10:08:26 Skipping writing post, no content: https://www.hltv.org/news/45452/heroic-b8-complete-iem-beijing-team-list
+2026/09/06 10:08:26 Skipping writing post, no content: https://www.hltv.org/news/45447/blast-porto-quarter-finals-as-they-happened
+2026/09/06 10:08:26 Templated 45 posts, took 5.667899ms
