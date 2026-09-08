@@ -1,16 +1,15 @@
-2026/09/08 13:41:09 Fetched posts from https://vlr.gg/rss, took 1.15362523s
-2026/09/08 13:41:10 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.47632946s
-2026/09/08 13:41:10 Content still empty after HTML reader: https://www.hltv.org/news/45478/snax-to-miss-start-of-fissure-playground-3
-2026/09/08 13:41:10 Content still empty after HTML reader: https://www.hltv.org/news/45474/the-evps-and-all-stars-of-blast-open-porto-2026
-2026/09/08 13:41:10 Content still empty after HTML reader: https://www.hltv.org/news/45475/teams-announced-for-twc-closed-qualifier
-2026/09/08 13:41:10 Content still empty after HTML reader: https://www.hltv.org/news/45476/krabeni-pens-contract-extension-with-fut
-2026/09/08 13:41:10 Content still empty after HTML reader: https://www.hltv.org/news/45473/single-game-fissure-playground-3-fantasy-is-about-to-start
-2026/09/08 13:41:10 Fetched posts from https://www.hltv.org/rss/news, took 1.598348104s
-2026/09/08 13:42:08 Get "https://www.bbc.com/vietnamese/articles/cy0zj2x1xd8o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/09/08 13:42:08 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004965249s
-2026/09/08 13:42:08 Skipping writing post, no content: https://www.hltv.org/news/45478/snax-to-miss-start-of-fissure-playground-3
-2026/09/08 13:42:08 Skipping writing post, no content: https://www.hltv.org/news/45474/the-evps-and-all-stars-of-blast-open-porto-2026
-2026/09/08 13:42:08 Skipping writing post, no content: https://www.hltv.org/news/45475/teams-announced-for-twc-closed-qualifier
-2026/09/08 13:42:08 Skipping writing post, no content: https://www.hltv.org/news/45476/krabeni-pens-contract-extension-with-fut
-2026/09/08 13:42:08 Skipping writing post, no content: https://www.hltv.org/news/45473/single-game-fissure-playground-3-fantasy-is-about-to-start
-2026/09/08 13:42:08 Templated 55 posts, took 8.19234ms
+2026/09/08 17:31:58 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.025855854s
+2026/09/08 17:31:58 Fetched posts from https://vlr.gg/rss, took 1.254133863s
+2026/09/08 17:31:58 Content still empty after HTML reader: https://www.hltv.org/news/45455/how-clutchains-esports-project-came-crashing-down
+2026/09/08 17:31:58 Content still empty after HTML reader: https://www.hltv.org/news/45478/snax-to-miss-start-of-fissure-playground-3
+2026/09/08 17:31:58 Content still empty after HTML reader: https://www.hltv.org/news/45474/the-evps-and-all-stars-of-blast-open-porto-2026
+2026/09/08 17:31:58 Content still empty after HTML reader: https://www.hltv.org/news/45475/teams-announced-for-twc-closed-qualifier
+2026/09/08 17:31:58 Content still empty after HTML reader: https://www.hltv.org/news/45476/krabeni-pens-contract-extension-with-fut
+2026/09/08 17:31:58 Fetched posts from https://www.hltv.org/rss/news, took 1.429795133s
+2026/09/08 17:32:57 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.753359108s
+2026/09/08 17:32:57 Skipping writing post, no content: https://www.hltv.org/news/45455/how-clutchains-esports-project-came-crashing-down
+2026/09/08 17:32:57 Skipping writing post, no content: https://www.hltv.org/news/45478/snax-to-miss-start-of-fissure-playground-3
+2026/09/08 17:32:57 Skipping writing post, no content: https://www.hltv.org/news/45474/the-evps-and-all-stars-of-blast-open-porto-2026
+2026/09/08 17:32:57 Skipping writing post, no content: https://www.hltv.org/news/45475/teams-announced-for-twc-closed-qualifier
+2026/09/08 17:32:57 Skipping writing post, no content: https://www.hltv.org/news/45476/krabeni-pens-contract-extension-with-fut
+2026/09/08 17:32:57 Templated 53 posts, took 7.92269ms
