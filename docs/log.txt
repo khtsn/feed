@@ -1,16 +1,15 @@
-2026/09/09 09:53:38 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.147570851s
-2026/09/09 09:53:38 Fetched posts from https://vlr.gg/rss, took 1.642361479s
-2026/09/09 09:53:38 Content still empty after HTML reader: https://www.hltv.org/news/45482/sidde-we-cant-only-base-the-tournaments-we-attend-on-our-schedule-or-on-whats-convenient
-2026/09/09 09:53:38 Content still empty after HTML reader: https://www.hltv.org/news/45481/alliance-stun-faze-at-fissure-playground
-2026/09/09 09:53:38 Content still empty after HTML reader: https://www.hltv.org/news/45480/mibr-beat-the-mongolz-in-fissure-3-opener
-2026/09/09 09:53:38 Content still empty after HTML reader: https://www.hltv.org/news/45479/liquid-fans-come-here-ft-tc
-2026/09/09 09:53:38 Content still empty after HTML reader: https://www.hltv.org/news/45455/how-clutchains-esports-project-came-crashing-down
-2026/09/09 09:53:38 Fetched posts from https://www.hltv.org/rss/news, took 1.862767468s
-2026/09/09 09:54:36 Get "https://www.bbc.com/vietnamese/articles/c3d7180r5kyo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/09/09 09:54:36 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004428495s
-2026/09/09 09:54:36 Skipping writing post, no content: https://www.hltv.org/news/45482/sidde-we-cant-only-base-the-tournaments-we-attend-on-our-schedule-or-on-whats-convenient
-2026/09/09 09:54:36 Skipping writing post, no content: https://www.hltv.org/news/45481/alliance-stun-faze-at-fissure-playground
-2026/09/09 09:54:36 Skipping writing post, no content: https://www.hltv.org/news/45480/mibr-beat-the-mongolz-in-fissure-3-opener
-2026/09/09 09:54:36 Skipping writing post, no content: https://www.hltv.org/news/45479/liquid-fans-come-here-ft-tc
-2026/09/09 09:54:36 Skipping writing post, no content: https://www.hltv.org/news/45455/how-clutchains-esports-project-came-crashing-down
-2026/09/09 09:54:36 Templated 45 posts, took 6.045231ms
+2026/09/09 14:06:51 Fetched posts from https://vlr.gg/rss, took 589.12079ms
+2026/09/09 14:06:52 Content still empty after HTML reader: https://www.hltv.org/news/45477/short-news-week-36
+2026/09/09 14:06:52 Content still empty after HTML reader: https://www.hltv.org/news/45483/fpg-3-day-one-ends-past-1-am-as-astralis-beat-g2
+2026/09/09 14:06:52 Content still empty after HTML reader: https://www.hltv.org/news/45482/sidde-we-cant-only-base-the-tournaments-we-attend-on-our-schedule-or-on-whats-convenient
+2026/09/09 14:06:52 Content still empty after HTML reader: https://www.hltv.org/news/45481/alliance-stun-faze-at-fissure-playground
+2026/09/09 14:06:52 Content still empty after HTML reader: https://www.hltv.org/news/45480/mibr-beat-the-mongolz-in-fissure-3-opener
+2026/09/09 14:06:52 Fetched posts from https://www.hltv.org/rss/news, took 1.828301465s
+2026/09/09 14:06:56 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 5.758801443s
+2026/09/09 14:07:50 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.606201182s
+2026/09/09 14:07:50 Skipping writing post, no content: https://www.hltv.org/news/45477/short-news-week-36
+2026/09/09 14:07:50 Skipping writing post, no content: https://www.hltv.org/news/45483/fpg-3-day-one-ends-past-1-am-as-astralis-beat-g2
+2026/09/09 14:07:50 Skipping writing post, no content: https://www.hltv.org/news/45482/sidde-we-cant-only-base-the-tournaments-we-attend-on-our-schedule-or-on-whats-convenient
+2026/09/09 14:07:50 Skipping writing post, no content: https://www.hltv.org/news/45481/alliance-stun-faze-at-fissure-playground
+2026/09/09 14:07:50 Skipping writing post, no content: https://www.hltv.org/news/45480/mibr-beat-the-mongolz-in-fissure-3-opener
+2026/09/09 14:07:50 Templated 47 posts, took 6.274615ms
