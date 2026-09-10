@@ -1,16 +1,15 @@
-2026/09/10 09:43:55 Fetched posts from https://vlr.gg/rss, took 1.021647629s
-2026/09/10 09:43:55 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.098416797s
-2026/09/10 09:43:55 Content still empty after HTML reader: https://www.hltv.org/news/45488/xenn-we-can-improve-a-lot-of-the-things-we-did-wrong-here
-2026/09/10 09:43:55 Content still empty after HTML reader: https://www.hltv.org/news/45487/mibr-and-legacy-secure-fpg-3-playoff-spots
-2026/09/10 09:43:55 Content still empty after HTML reader: https://www.hltv.org/news/45486/faze-out-in-last-place-at-fpg
-2026/09/10 09:43:55 Content still empty after HTML reader: https://www.hltv.org/news/45485/valve-releases-september-ranking-after-delay-causes-chaos-among-tos
-2026/09/10 09:43:55 Content still empty after HTML reader: https://www.hltv.org/news/45484/the-mongolz-eliminated-by-countrymen-5star-at-fpg-3
-2026/09/10 09:43:55 Fetched posts from https://www.hltv.org/rss/news, took 1.264267942s
-2026/09/10 09:44:54 Get "https://www.bbc.com/vietnamese/articles/czjzkjvxxnxo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/09/10 09:44:54 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004503344s
-2026/09/10 09:44:54 Skipping writing post, no content: https://www.hltv.org/news/45488/xenn-we-can-improve-a-lot-of-the-things-we-did-wrong-here
-2026/09/10 09:44:54 Skipping writing post, no content: https://www.hltv.org/news/45487/mibr-and-legacy-secure-fpg-3-playoff-spots
-2026/09/10 09:44:54 Skipping writing post, no content: https://www.hltv.org/news/45486/faze-out-in-last-place-at-fpg
-2026/09/10 09:44:54 Skipping writing post, no content: https://www.hltv.org/news/45485/valve-releases-september-ranking-after-delay-causes-chaos-among-tos
-2026/09/10 09:44:54 Skipping writing post, no content: https://www.hltv.org/news/45484/the-mongolz-eliminated-by-countrymen-5star-at-fpg-3
-2026/09/10 09:44:54 Templated 54 posts, took 7.600177ms
+2026/09/10 13:52:01 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.516405705s
+2026/09/10 13:52:02 Fetched posts from https://vlr.gg/rss, took 1.99947403s
+2026/09/10 13:52:02 Content still empty after HTML reader: https://www.hltv.org/news/45489/grashog-lets-hope-we-can-come-back-in-the-season-its-unfortunately-not-looking-good
+2026/09/10 13:52:02 Content still empty after HTML reader: https://www.hltv.org/news/45490/fpg-3-day-two-ends-with-furia-and-betboom-securing-playoff-spots
+2026/09/10 13:52:02 Content still empty after HTML reader: https://www.hltv.org/news/45488/xenn-we-can-improve-a-lot-of-the-things-we-did-wrong-here
+2026/09/10 13:52:02 Content still empty after HTML reader: https://www.hltv.org/news/45487/mibr-and-legacy-secure-fpg-3-playoff-spots
+2026/09/10 13:52:02 Content still empty after HTML reader: https://www.hltv.org/news/45486/faze-out-in-last-place-at-fpg
+2026/09/10 13:52:02 Fetched posts from https://www.hltv.org/rss/news, took 2.392208442s
+2026/09/10 13:52:59 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.636818751s
+2026/09/10 13:52:59 Skipping writing post, no content: https://www.hltv.org/news/45489/grashog-lets-hope-we-can-come-back-in-the-season-its-unfortunately-not-looking-good
+2026/09/10 13:52:59 Skipping writing post, no content: https://www.hltv.org/news/45490/fpg-3-day-two-ends-with-furia-and-betboom-securing-playoff-spots
+2026/09/10 13:52:59 Skipping writing post, no content: https://www.hltv.org/news/45488/xenn-we-can-improve-a-lot-of-the-things-we-did-wrong-here
+2026/09/10 13:52:59 Skipping writing post, no content: https://www.hltv.org/news/45487/mibr-and-legacy-secure-fpg-3-playoff-spots
+2026/09/10 13:52:59 Skipping writing post, no content: https://www.hltv.org/news/45486/faze-out-in-last-place-at-fpg
+2026/09/10 13:52:59 Templated 60 posts, took 5.766243ms
