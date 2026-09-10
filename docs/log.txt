@@ -1,15 +1,16 @@
-2026/09/09 22:30:17 Fetched posts from https://vlr.gg/rss, took 775.862944ms
-2026/09/09 22:30:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.198878307s
-2026/09/09 22:30:17 Content still empty after HTML reader: https://www.hltv.org/news/45486/faze-out-in-last-place-at-fpg
-2026/09/09 22:30:18 Content still empty after HTML reader: https://www.hltv.org/news/45485/valve-releases-september-ranking-after-delay-causes-chaos-among-tos
-2026/09/09 22:30:18 Content still empty after HTML reader: https://www.hltv.org/news/45484/the-mongolz-eliminated-by-countrymen-5star-at-fpg-3
-2026/09/09 22:30:18 Content still empty after HTML reader: https://www.hltv.org/news/45483/fpg-3-day-one-ends-past-1-am-as-astralis-beat-g2
-2026/09/09 22:30:18 Content still empty after HTML reader: https://www.hltv.org/news/45482/sidde-we-cant-only-base-the-tournaments-we-attend-on-our-schedule-or-on-whats-convenient
-2026/09/09 22:30:18 Fetched posts from https://www.hltv.org/rss/news, took 1.688895047s
-2026/09/09 22:31:16 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.976406102s
-2026/09/09 22:31:16 Skipping writing post, no content: https://www.hltv.org/news/45486/faze-out-in-last-place-at-fpg
-2026/09/09 22:31:16 Skipping writing post, no content: https://www.hltv.org/news/45485/valve-releases-september-ranking-after-delay-causes-chaos-among-tos
-2026/09/09 22:31:16 Skipping writing post, no content: https://www.hltv.org/news/45484/the-mongolz-eliminated-by-countrymen-5star-at-fpg-3
-2026/09/09 22:31:16 Skipping writing post, no content: https://www.hltv.org/news/45483/fpg-3-day-one-ends-past-1-am-as-astralis-beat-g2
-2026/09/09 22:31:16 Skipping writing post, no content: https://www.hltv.org/news/45482/sidde-we-cant-only-base-the-tournaments-we-attend-on-our-schedule-or-on-whats-convenient
-2026/09/09 22:31:16 Templated 51 posts, took 7.780634ms
+2026/09/10 00:31:24 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.624528915s
+2026/09/10 00:31:24 Fetched posts from https://vlr.gg/rss, took 1.647422634s
+2026/09/10 00:31:25 Content still empty after HTML reader: https://www.hltv.org/news/45486/faze-out-in-last-place-at-fpg
+2026/09/10 00:31:25 Content still empty after HTML reader: https://www.hltv.org/news/45485/valve-releases-september-ranking-after-delay-causes-chaos-among-tos
+2026/09/10 00:31:25 Content still empty after HTML reader: https://www.hltv.org/news/45484/the-mongolz-eliminated-by-countrymen-5star-at-fpg-3
+2026/09/10 00:31:25 Content still empty after HTML reader: https://www.hltv.org/news/45483/fpg-3-day-one-ends-past-1-am-as-astralis-beat-g2
+2026/09/10 00:31:25 Content still empty after HTML reader: https://www.hltv.org/news/45482/sidde-we-cant-only-base-the-tournaments-we-attend-on-our-schedule-or-on-whats-convenient
+2026/09/10 00:31:25 Fetched posts from https://www.hltv.org/rss/news, took 1.789241023s
+2026/09/10 00:32:23 Get "https://www.bbc.com/vietnamese/articles/c3d7180r5kyo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/09/10 00:32:23 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004844768s
+2026/09/10 00:32:23 Skipping writing post, no content: https://www.hltv.org/news/45486/faze-out-in-last-place-at-fpg
+2026/09/10 00:32:23 Skipping writing post, no content: https://www.hltv.org/news/45485/valve-releases-september-ranking-after-delay-causes-chaos-among-tos
+2026/09/10 00:32:23 Skipping writing post, no content: https://www.hltv.org/news/45484/the-mongolz-eliminated-by-countrymen-5star-at-fpg-3
+2026/09/10 00:32:23 Skipping writing post, no content: https://www.hltv.org/news/45483/fpg-3-day-one-ends-past-1-am-as-astralis-beat-g2
+2026/09/10 00:32:23 Skipping writing post, no content: https://www.hltv.org/news/45482/sidde-we-cant-only-base-the-tournaments-we-attend-on-our-schedule-or-on-whats-convenient
+2026/09/10 00:32:23 Templated 52 posts, took 8.397859ms
