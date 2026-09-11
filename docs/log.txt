@@ -1,15 +1,16 @@
-2026/09/11 00:15:03 Fetched posts from https://vlr.gg/rss, took 1.248584133s
-2026/09/11 00:15:04 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.849795173s
-2026/09/11 00:15:04 Content still empty after HTML reader: https://www.hltv.org/news/45495/n1ssim-try-is-an-insane-awper
-2026/09/11 00:15:04 Content still empty after HTML reader: https://www.hltv.org/news/45494/legacy-betboom-secure-semi-final-berths-at-fpg
-2026/09/11 00:15:04 Content still empty after HTML reader: https://www.hltv.org/news/45493/5star-take-another-scalp-with-astralis-elimination
-2026/09/11 00:15:04 Content still empty after HTML reader: https://www.hltv.org/news/45492/magic-dump-parivision-out-of-fpg-3
-2026/09/11 00:15:04 Content still empty after HTML reader: https://www.hltv.org/news/45491/9z-and-tyloo-bow-out-of-fpg-3
-2026/09/11 00:15:04 Fetched posts from https://www.hltv.org/rss/news, took 2.052366045s
-2026/09/11 00:16:02 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.944539182s
-2026/09/11 00:16:02 Skipping writing post, no content: https://www.hltv.org/news/45495/n1ssim-try-is-an-insane-awper
-2026/09/11 00:16:02 Skipping writing post, no content: https://www.hltv.org/news/45494/legacy-betboom-secure-semi-final-berths-at-fpg
-2026/09/11 00:16:02 Skipping writing post, no content: https://www.hltv.org/news/45493/5star-take-another-scalp-with-astralis-elimination
-2026/09/11 00:16:02 Skipping writing post, no content: https://www.hltv.org/news/45492/magic-dump-parivision-out-of-fpg-3
-2026/09/11 00:16:02 Skipping writing post, no content: https://www.hltv.org/news/45491/9z-and-tyloo-bow-out-of-fpg-3
-2026/09/11 00:16:02 Templated 53 posts, took 7.6333ms
+2026/09/11 04:48:43 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 714.266216ms
+2026/09/11 04:48:44 Fetched posts from https://vlr.gg/rss, took 1.803460841s
+2026/09/11 04:48:44 Content still empty after HTML reader: https://www.hltv.org/news/45495/n1ssim-try-is-an-insane-awper
+2026/09/11 04:48:44 Content still empty after HTML reader: https://www.hltv.org/news/45494/legacy-betboom-secure-semi-final-berths-at-fpg
+2026/09/11 04:48:44 Content still empty after HTML reader: https://www.hltv.org/news/45493/5star-take-another-scalp-with-astralis-elimination
+2026/09/11 04:48:44 Content still empty after HTML reader: https://www.hltv.org/news/45492/magic-dump-parivision-out-of-fpg-3
+2026/09/11 04:48:44 Content still empty after HTML reader: https://www.hltv.org/news/45491/9z-and-tyloo-bow-out-of-fpg-3
+2026/09/11 04:48:44 Fetched posts from https://www.hltv.org/rss/news, took 1.835857546s
+2026/09/11 04:49:42 Get "https://www.bbc.com/vietnamese/articles/clyj8v682qyo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/09/11 04:49:42 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004837506s
+2026/09/11 04:49:42 Skipping writing post, no content: https://www.hltv.org/news/45495/n1ssim-try-is-an-insane-awper
+2026/09/11 04:49:42 Skipping writing post, no content: https://www.hltv.org/news/45494/legacy-betboom-secure-semi-final-berths-at-fpg
+2026/09/11 04:49:42 Skipping writing post, no content: https://www.hltv.org/news/45493/5star-take-another-scalp-with-astralis-elimination
+2026/09/11 04:49:42 Skipping writing post, no content: https://www.hltv.org/news/45492/magic-dump-parivision-out-of-fpg-3
+2026/09/11 04:49:42 Skipping writing post, no content: https://www.hltv.org/news/45491/9z-and-tyloo-bow-out-of-fpg-3
+2026/09/11 04:49:42 Templated 47 posts, took 6.234879ms
