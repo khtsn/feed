@@ -1,15 +1,16 @@
-2026/09/16 06:51:22 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 831.811051ms
-2026/09/16 06:51:23 Fetched posts from https://vlr.gg/rss, took 1.175789266s
-2026/09/16 06:51:23 Content still empty after HTML reader: https://www.hltv.org/news/45521/esports-world-cup-2027-and-2028-dates-revealed
-2026/09/16 06:51:23 Content still empty after HTML reader: https://www.hltv.org/news/45520/nip-sign-adamb
-2026/09/16 06:51:23 Content still empty after HTML reader: https://www.hltv.org/news/45518/infinite-part-ways-with-dytor
-2026/09/16 06:51:23 Content still empty after HTML reader: https://www.hltv.org/news/45517/official-tatu-replaces-piriajr-on-pain
-2026/09/16 06:51:23 Content still empty after HTML reader: https://www.hltv.org/news/45516/media-pain-set-to-bench-piriajr
-2026/09/16 06:51:23 Fetched posts from https://www.hltv.org/rss/news, took 1.340270197s
-2026/09/16 06:52:21 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.979517783s
-2026/09/16 06:52:21 Skipping writing post, no content: https://www.hltv.org/news/45521/esports-world-cup-2027-and-2028-dates-revealed
-2026/09/16 06:52:21 Skipping writing post, no content: https://www.hltv.org/news/45520/nip-sign-adamb
-2026/09/16 06:52:21 Skipping writing post, no content: https://www.hltv.org/news/45518/infinite-part-ways-with-dytor
-2026/09/16 06:52:21 Skipping writing post, no content: https://www.hltv.org/news/45517/official-tatu-replaces-piriajr-on-pain
-2026/09/16 06:52:21 Skipping writing post, no content: https://www.hltv.org/news/45516/media-pain-set-to-bench-piriajr
-2026/09/16 06:52:21 Templated 53 posts, took 7.594076ms
+2026/09/16 12:17:37 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.49539777s
+2026/09/16 12:17:38 Content still empty after HTML reader: https://www.hltv.org/news/45519/starladder-starseries-fall-teams-format-schedule-prizes-talent-fantasy
+2026/09/16 12:17:38 Content still empty after HTML reader: https://www.hltv.org/news/45521/esports-world-cup-2027-and-2028-dates-revealed
+2026/09/16 12:17:38 Content still empty after HTML reader: https://www.hltv.org/news/45520/nip-sign-adamb
+2026/09/16 12:17:38 Content still empty after HTML reader: https://www.hltv.org/news/45518/infinite-part-ways-with-dytor
+2026/09/16 12:17:38 Content still empty after HTML reader: https://www.hltv.org/news/45517/official-tatu-replaces-piriajr-on-pain
+2026/09/16 12:17:38 Fetched posts from https://www.hltv.org/rss/news, took 1.787098808s
+2026/09/16 12:17:39 Fetched posts from https://vlr.gg/rss, took 2.754196125s
+2026/09/16 12:18:36 Get "https://www.bbc.com/vietnamese/articles/c8d3y7g6p39o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/09/16 12:18:36 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.00426955s
+2026/09/16 12:18:36 Skipping writing post, no content: https://www.hltv.org/news/45519/starladder-starseries-fall-teams-format-schedule-prizes-talent-fantasy
+2026/09/16 12:18:36 Skipping writing post, no content: https://www.hltv.org/news/45521/esports-world-cup-2027-and-2028-dates-revealed
+2026/09/16 12:18:36 Skipping writing post, no content: https://www.hltv.org/news/45520/nip-sign-adamb
+2026/09/16 12:18:36 Skipping writing post, no content: https://www.hltv.org/news/45518/infinite-part-ways-with-dytor
+2026/09/16 12:18:36 Skipping writing post, no content: https://www.hltv.org/news/45517/official-tatu-replaces-piriajr-on-pain
+2026/09/16 12:18:36 Templated 67 posts, took 9.164179ms
