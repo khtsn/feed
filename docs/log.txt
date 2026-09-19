@@ -1,15 +1,16 @@
-2026/09/19 12:04:38 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 901.037801ms
-2026/09/19 12:04:39 Content still empty after HTML reader: https://www.hltv.org/news/45546/wildcard-sign-fr3nd-on-loan-to-replace-mhl
-2026/09/19 12:04:39 Content still empty after HTML reader: https://www.hltv.org/news/45545/aurora-march-past-nrg-in-starseries-fall
-2026/09/19 12:04:39 Content still empty after HTML reader: https://www.hltv.org/news/45544/lnz-tomaszin-has-a-fighting-spirit-that-we-maybe-didnt-have-before-in-his-role
-2026/09/19 12:04:39 Content still empty after HTML reader: https://www.hltv.org/news/45543/mibr-eliminate-understrength-magic-from-starseries
-2026/09/19 12:04:39 Content still empty after HTML reader: https://www.hltv.org/news/45542/sycrone-what-fans-will-respect-the-most-is-if-we-play-good-counter-strike
-2026/09/19 12:04:39 Fetched posts from https://www.hltv.org/rss/news, took 1.810458934s
-2026/09/19 12:04:39 Fetched posts from https://vlr.gg/rss, took 1.883952412s
-2026/09/19 12:05:37 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.658708435s
-2026/09/19 12:05:37 Skipping writing post, no content: https://www.hltv.org/news/45546/wildcard-sign-fr3nd-on-loan-to-replace-mhl
-2026/09/19 12:05:37 Skipping writing post, no content: https://www.hltv.org/news/45545/aurora-march-past-nrg-in-starseries-fall
-2026/09/19 12:05:37 Skipping writing post, no content: https://www.hltv.org/news/45544/lnz-tomaszin-has-a-fighting-spirit-that-we-maybe-didnt-have-before-in-his-role
-2026/09/19 12:05:37 Skipping writing post, no content: https://www.hltv.org/news/45543/mibr-eliminate-understrength-magic-from-starseries
-2026/09/19 12:05:37 Skipping writing post, no content: https://www.hltv.org/news/45542/sycrone-what-fans-will-respect-the-most-is-if-we-play-good-counter-strike
-2026/09/19 12:05:37 Templated 49 posts, took 7.629047ms
+2026/09/19 15:49:53 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 835.341593ms
+2026/09/19 15:49:53 Fetched posts from https://vlr.gg/rss, took 927.435876ms
+2026/09/19 15:49:54 Content still empty after HTML reader: https://www.hltv.org/news/45547/liquid-and-nip-eliminated-as-logitech-g-play-connect-reaches-playoffs
+2026/09/19 15:49:54 Content still empty after HTML reader: https://www.hltv.org/news/45546/wildcard-sign-fr3nd-on-loan-to-replace-mhl
+2026/09/19 15:49:54 Content still empty after HTML reader: https://www.hltv.org/news/45545/aurora-march-past-nrg-in-starseries-fall
+2026/09/19 15:49:54 Content still empty after HTML reader: https://www.hltv.org/news/45544/lnz-tomaszin-has-a-fighting-spirit-that-we-maybe-didnt-have-before-in-his-role
+2026/09/19 15:49:54 Content still empty after HTML reader: https://www.hltv.org/news/45543/mibr-eliminate-understrength-magic-from-starseries
+2026/09/19 15:49:54 Fetched posts from https://www.hltv.org/rss/news, took 1.70812167s
+2026/09/19 15:50:52 Get "https://www.bbc.com/vietnamese/articles/cr89jkl28ep2o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/09/19 15:50:52 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.001662261s
+2026/09/19 15:50:52 Skipping writing post, no content: https://www.hltv.org/news/45547/liquid-and-nip-eliminated-as-logitech-g-play-connect-reaches-playoffs
+2026/09/19 15:50:52 Skipping writing post, no content: https://www.hltv.org/news/45546/wildcard-sign-fr3nd-on-loan-to-replace-mhl
+2026/09/19 15:50:52 Skipping writing post, no content: https://www.hltv.org/news/45545/aurora-march-past-nrg-in-starseries-fall
+2026/09/19 15:50:52 Skipping writing post, no content: https://www.hltv.org/news/45544/lnz-tomaszin-has-a-fighting-spirit-that-we-maybe-didnt-have-before-in-his-role
+2026/09/19 15:50:52 Skipping writing post, no content: https://www.hltv.org/news/45543/mibr-eliminate-understrength-magic-from-starseries
+2026/09/19 15:50:52 Templated 46 posts, took 5.766598ms
