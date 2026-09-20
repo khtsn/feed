@@ -1,15 +1,16 @@
-2026/09/20 13:44:20 Fetched posts from https://vlr.gg/rss, took 698.465084ms
-2026/09/20 13:44:20 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 753.073498ms
-2026/09/20 13:44:21 Content still empty after HTML reader: https://www.hltv.org/news/45551/furia-eliminate-mouz-from-starseries-fall
-2026/09/20 13:44:21 Content still empty after HTML reader: https://www.hltv.org/news/45550/mibr-dump-nrg-out-of-starseries-fall
-2026/09/20 13:44:21 Content still empty after HTML reader: https://www.hltv.org/news/45549/mezii-its-so-weird-when-youre-not-there-like-all-your-friends-are-at-a-party-and-youre-not-invited
-2026/09/20 13:44:21 Content still empty after HTML reader: https://www.hltv.org/news/45548/vitality-smash-furia-to-reach-upper-finals-at-starseries-fall
-2026/09/20 13:44:21 Content still empty after HTML reader: https://www.hltv.org/news/45547/liquid-and-nip-eliminated-as-logitech-g-play-connect-reaches-playoffs
-2026/09/20 13:44:21 Fetched posts from https://www.hltv.org/rss/news, took 1.683817664s
-2026/09/20 13:45:19 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.555794683s
-2026/09/20 13:45:19 Skipping writing post, no content: https://www.hltv.org/news/45551/furia-eliminate-mouz-from-starseries-fall
-2026/09/20 13:45:19 Skipping writing post, no content: https://www.hltv.org/news/45550/mibr-dump-nrg-out-of-starseries-fall
-2026/09/20 13:45:19 Skipping writing post, no content: https://www.hltv.org/news/45549/mezii-its-so-weird-when-youre-not-there-like-all-your-friends-are-at-a-party-and-youre-not-invited
-2026/09/20 13:45:19 Skipping writing post, no content: https://www.hltv.org/news/45548/vitality-smash-furia-to-reach-upper-finals-at-starseries-fall
-2026/09/20 13:45:19 Skipping writing post, no content: https://www.hltv.org/news/45547/liquid-and-nip-eliminated-as-logitech-g-play-connect-reaches-playoffs
-2026/09/20 13:45:19 Templated 42 posts, took 7.709508ms
+2026/09/20 17:01:50 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.010485899s
+2026/09/20 17:01:50 Fetched posts from https://vlr.gg/rss, took 1.331091163s
+2026/09/20 17:01:51 Content still empty after HTML reader: https://www.hltv.org/news/45553/aurora-punish-limp-vitality-offense-to-reach-first-final-with-new-roster
+2026/09/20 17:01:51 Content still empty after HTML reader: https://www.hltv.org/news/45552/xertion-we-never-showed-up-in-this-tournament
+2026/09/20 17:01:51 Content still empty after HTML reader: https://www.hltv.org/news/45551/furia-eliminate-mouz-from-starseries-fall
+2026/09/20 17:01:51 Content still empty after HTML reader: https://www.hltv.org/news/45550/mibr-dump-nrg-out-of-starseries-fall
+2026/09/20 17:01:51 Content still empty after HTML reader: https://www.hltv.org/news/45549/mezii-its-so-weird-when-youre-not-there-like-all-your-friends-are-at-a-party-and-youre-not-invited
+2026/09/20 17:01:51 Fetched posts from https://www.hltv.org/rss/news, took 1.669354088s
+2026/09/20 17:02:49 Get "https://www.bbc.com/vietnamese/articles/c6pwl0xe0w08o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/09/20 17:02:49 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004544378s
+2026/09/20 17:02:49 Skipping writing post, no content: https://www.hltv.org/news/45553/aurora-punish-limp-vitality-offense-to-reach-first-final-with-new-roster
+2026/09/20 17:02:49 Skipping writing post, no content: https://www.hltv.org/news/45552/xertion-we-never-showed-up-in-this-tournament
+2026/09/20 17:02:49 Skipping writing post, no content: https://www.hltv.org/news/45551/furia-eliminate-mouz-from-starseries-fall
+2026/09/20 17:02:49 Skipping writing post, no content: https://www.hltv.org/news/45550/mibr-dump-nrg-out-of-starseries-fall
+2026/09/20 17:02:49 Skipping writing post, no content: https://www.hltv.org/news/45549/mezii-its-so-weird-when-youre-not-there-like-all-your-friends-are-at-a-party-and-youre-not-invited
+2026/09/20 17:02:49 Templated 43 posts, took 5.43871ms
