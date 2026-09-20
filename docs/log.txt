@@ -1,16 +1,15 @@
-2026/09/20 19:22:13 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.427552015s
-2026/09/20 19:22:13 Fetched posts from https://vlr.gg/rss, took 1.436308115s
-2026/09/20 19:22:14 Content still empty after HTML reader: https://www.hltv.org/news/45555/furia-beat-mibr-to-set-up-vitality-rematch
-2026/09/20 19:22:14 Content still empty after HTML reader: https://www.hltv.org/news/45554/jimpphat-recently-ive-just-had-such-a-crazy-amount-of-confidence
-2026/09/20 19:22:14 Content still empty after HTML reader: https://www.hltv.org/news/45553/aurora-punish-limp-vitality-offense-to-reach-first-final-with-new-roster
-2026/09/20 19:22:14 Content still empty after HTML reader: https://www.hltv.org/news/45552/xertion-we-never-showed-up-in-this-tournament
-2026/09/20 19:22:14 Content still empty after HTML reader: https://www.hltv.org/news/45551/furia-eliminate-mouz-from-starseries-fall
-2026/09/20 19:22:14 Fetched posts from https://www.hltv.org/rss/news, took 2.44380617s
-2026/09/20 19:23:12 Get "https://www.bbc.com/vietnamese/articles/c6pwl0xe0w08o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/09/20 19:23:12 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004947221s
-2026/09/20 19:23:12 Skipping writing post, no content: https://www.hltv.org/news/45555/furia-beat-mibr-to-set-up-vitality-rematch
-2026/09/20 19:23:12 Skipping writing post, no content: https://www.hltv.org/news/45554/jimpphat-recently-ive-just-had-such-a-crazy-amount-of-confidence
-2026/09/20 19:23:12 Skipping writing post, no content: https://www.hltv.org/news/45553/aurora-punish-limp-vitality-offense-to-reach-first-final-with-new-roster
-2026/09/20 19:23:12 Skipping writing post, no content: https://www.hltv.org/news/45552/xertion-we-never-showed-up-in-this-tournament
-2026/09/20 19:23:12 Skipping writing post, no content: https://www.hltv.org/news/45551/furia-eliminate-mouz-from-starseries-fall
-2026/09/20 19:23:12 Templated 42 posts, took 6.180232ms
+2026/09/20 21:42:33 Fetched posts from https://vlr.gg/rss, took 875.78729ms
+2026/09/20 21:42:33 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.165004122s
+2026/09/20 21:42:34 Content still empty after HTML reader: https://www.hltv.org/news/45556/vitality-ease-past-furia-into-starseries-final
+2026/09/20 21:42:34 Content still empty after HTML reader: https://www.hltv.org/news/45555/furia-beat-mibr-to-set-up-vitality-rematch
+2026/09/20 21:42:34 Content still empty after HTML reader: https://www.hltv.org/news/45554/jimpphat-recently-ive-just-had-such-a-crazy-amount-of-confidence
+2026/09/20 21:42:34 Content still empty after HTML reader: https://www.hltv.org/news/45553/aurora-punish-limp-vitality-offense-to-reach-first-final-with-new-roster
+2026/09/20 21:42:34 Content still empty after HTML reader: https://www.hltv.org/news/45552/xertion-we-never-showed-up-in-this-tournament
+2026/09/20 21:42:34 Fetched posts from https://www.hltv.org/rss/news, took 1.873101931s
+2026/09/20 21:43:32 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.601009383s
+2026/09/20 21:43:32 Skipping writing post, no content: https://www.hltv.org/news/45556/vitality-ease-past-furia-into-starseries-final
+2026/09/20 21:43:32 Skipping writing post, no content: https://www.hltv.org/news/45555/furia-beat-mibr-to-set-up-vitality-rematch
+2026/09/20 21:43:32 Skipping writing post, no content: https://www.hltv.org/news/45554/jimpphat-recently-ive-just-had-such-a-crazy-amount-of-confidence
+2026/09/20 21:43:32 Skipping writing post, no content: https://www.hltv.org/news/45553/aurora-punish-limp-vitality-offense-to-reach-first-final-with-new-roster
+2026/09/20 21:43:32 Skipping writing post, no content: https://www.hltv.org/news/45552/xertion-we-never-showed-up-in-this-tournament
+2026/09/20 21:43:32 Templated 43 posts, took 5.294347ms
