@@ -1,15 +1,16 @@
-2026/09/21 19:22:08 Fetched posts from https://vlr.gg/rss, took 922.496075ms
-2026/09/21 19:22:08 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 962.324145ms
-2026/09/21 19:22:09 Content still empty after HTML reader: https://www.hltv.org/news/45477/short-news-week-37
-2026/09/21 19:22:09 Content still empty after HTML reader: https://www.hltv.org/news/45557/50000-winline-cis-lan-season-9-announced
-2026/09/21 19:22:09 Content still empty after HTML reader: https://www.hltv.org/news/45556/vitality-ease-past-furia-into-starseries-final
-2026/09/21 19:22:09 Content still empty after HTML reader: https://www.hltv.org/news/45555/furia-beat-mibr-to-set-up-vitality-rematch
-2026/09/21 19:22:09 Content still empty after HTML reader: https://www.hltv.org/news/45554/jimpphat-recently-ive-just-had-such-a-crazy-amount-of-confidence
-2026/09/21 19:22:09 Fetched posts from https://www.hltv.org/rss/news, took 2.308547096s
-2026/09/21 19:23:07 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.4376843s
-2026/09/21 19:23:07 Skipping writing post, no content: https://www.hltv.org/news/45477/short-news-week-37
-2026/09/21 19:23:07 Skipping writing post, no content: https://www.hltv.org/news/45557/50000-winline-cis-lan-season-9-announced
-2026/09/21 19:23:07 Skipping writing post, no content: https://www.hltv.org/news/45556/vitality-ease-past-furia-into-starseries-final
-2026/09/21 19:23:07 Skipping writing post, no content: https://www.hltv.org/news/45555/furia-beat-mibr-to-set-up-vitality-rematch
-2026/09/21 19:23:07 Skipping writing post, no content: https://www.hltv.org/news/45554/jimpphat-recently-ive-just-had-such-a-crazy-amount-of-confidence
-2026/09/21 19:23:07 Templated 41 posts, took 6.462786ms
+2026/09/21 22:40:44 Fetched posts from https://vlr.gg/rss, took 696.75069ms
+2026/09/21 22:40:45 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.26220851s
+2026/09/21 22:40:45 Content still empty after HTML reader: https://www.hltv.org/news/45477/short-news-week-37
+2026/09/21 22:40:45 Content still empty after HTML reader: https://www.hltv.org/news/45557/50000-winline-cis-lan-season-9-announced
+2026/09/21 22:40:45 Content still empty after HTML reader: https://www.hltv.org/news/45556/vitality-ease-past-furia-into-starseries-final
+2026/09/21 22:40:45 Content still empty after HTML reader: https://www.hltv.org/news/45555/furia-beat-mibr-to-set-up-vitality-rematch
+2026/09/21 22:40:45 Content still empty after HTML reader: https://www.hltv.org/news/45554/jimpphat-recently-ive-just-had-such-a-crazy-amount-of-confidence
+2026/09/21 22:40:45 Fetched posts from https://www.hltv.org/rss/news, took 1.834840556s
+2026/09/21 22:41:43 Get "https://www.bbc.com/vietnamese/articles/cw62m6e9ey3zo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/09/21 22:41:43 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.00428469s
+2026/09/21 22:41:43 Skipping writing post, no content: https://www.hltv.org/news/45477/short-news-week-37
+2026/09/21 22:41:43 Skipping writing post, no content: https://www.hltv.org/news/45557/50000-winline-cis-lan-season-9-announced
+2026/09/21 22:41:43 Skipping writing post, no content: https://www.hltv.org/news/45556/vitality-ease-past-furia-into-starseries-final
+2026/09/21 22:41:43 Skipping writing post, no content: https://www.hltv.org/news/45555/furia-beat-mibr-to-set-up-vitality-rematch
+2026/09/21 22:41:43 Skipping writing post, no content: https://www.hltv.org/news/45554/jimpphat-recently-ive-just-had-such-a-crazy-amount-of-confidence
+2026/09/21 22:41:43 Templated 44 posts, took 5.921413ms
