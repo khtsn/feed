@@ -1,14 +1,16 @@
-2026/09/24 10:08:39 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 760.056231ms
-2026/09/24 10:08:40 Fetched posts from https://vlr.gg/rss, took 1.403393385s
-2026/09/24 10:08:40 Content still empty after HTML reader: https://www.hltv.org/news/45567/silent-reload-mechanic-arrives-in-new-cs-update
-2026/09/24 10:08:40 Content still empty after HTML reader: https://www.hltv.org/news/45566/official-bcgame-add-asap
-2026/09/24 10:08:40 Content still empty after HTML reader: https://www.hltv.org/news/45565/bcgame-bench-electronic-sources-indicate-asap-as-replacement
-2026/09/24 10:08:40 Content still empty after HTML reader: https://www.hltv.org/news/45563/the-evps-and-all-stars-of-fissure-playground-3
-2026/09/24 10:08:40 Fetched posts from https://www.hltv.org/rss/news, took 1.970516107s
-2026/09/24 10:09:38 Get "https://www.bbc.com/vietnamese/articles/cmjw5g3qj7pzo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/09/24 10:09:38 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004864958s
-2026/09/24 10:09:38 Skipping writing post, no content: https://www.hltv.org/news/45567/silent-reload-mechanic-arrives-in-new-cs-update
-2026/09/24 10:09:38 Skipping writing post, no content: https://www.hltv.org/news/45566/official-bcgame-add-asap
-2026/09/24 10:09:38 Skipping writing post, no content: https://www.hltv.org/news/45565/bcgame-bench-electronic-sources-indicate-asap-as-replacement
-2026/09/24 10:09:38 Skipping writing post, no content: https://www.hltv.org/news/45563/the-evps-and-all-stars-of-fissure-playground-3
-2026/09/24 10:09:38 Templated 41 posts, took 7.587109ms
+2026/09/24 15:04:05 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 859.264085ms
+2026/09/24 15:04:05 Fetched posts from https://vlr.gg/rss, took 1.126485437s
+2026/09/24 15:04:06 Content still empty after HTML reader: https://www.hltv.org/news/45564/the-evps-and-all-stars-of-starladder-starseries-fall-2026
+2026/09/24 15:04:06 Content still empty after HTML reader: https://www.hltv.org/news/45567/silent-reload-mechanic-arrives-in-new-cs-update
+2026/09/24 15:04:06 Content still empty after HTML reader: https://www.hltv.org/news/45566/official-bcgame-add-asap
+2026/09/24 15:04:06 Content still empty after HTML reader: https://www.hltv.org/news/45565/bcgame-bench-electronic-sources-indicate-asap-as-replacement
+2026/09/24 15:04:06 Content still empty after HTML reader: https://www.hltv.org/news/45563/the-evps-and-all-stars-of-fissure-playground-3
+2026/09/24 15:04:06 Fetched posts from https://www.hltv.org/rss/news, took 2.055338833s
+2026/09/24 15:05:04 Get "https://www.bbc.com/vietnamese/articles/cmjw5g3qj7pzo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/09/24 15:05:04 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.000197985s
+2026/09/24 15:05:04 Skipping writing post, no content: https://www.hltv.org/news/45564/the-evps-and-all-stars-of-starladder-starseries-fall-2026
+2026/09/24 15:05:04 Skipping writing post, no content: https://www.hltv.org/news/45567/silent-reload-mechanic-arrives-in-new-cs-update
+2026/09/24 15:05:04 Skipping writing post, no content: https://www.hltv.org/news/45566/official-bcgame-add-asap
+2026/09/24 15:05:04 Skipping writing post, no content: https://www.hltv.org/news/45565/bcgame-bench-electronic-sources-indicate-asap-as-replacement
+2026/09/24 15:05:04 Skipping writing post, no content: https://www.hltv.org/news/45563/the-evps-and-all-stars-of-fissure-playground-3
+2026/09/24 15:05:04 Templated 45 posts, took 8.615133ms
