@@ -1,16 +1,15 @@
-2026/09/25 05:23:17 Fetched posts from https://vlr.gg/rss, took 987.3133ms
-2026/09/25 05:23:17 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.127167655s
-2026/09/25 05:23:17 Content still empty after HTML reader: https://www.hltv.org/news/45569/oddik-pause-esports-operations
-2026/09/25 05:23:17 Content still empty after HTML reader: https://www.hltv.org/news/45568/complexity-ceases-operations-and-jason-lake-departs-after-23-years
-2026/09/25 05:23:17 Content still empty after HTML reader: https://www.hltv.org/news/45564/the-evps-and-all-stars-of-starladder-starseries-fall-2026
-2026/09/25 05:23:17 Content still empty after HTML reader: https://www.hltv.org/news/45567/silent-reload-mechanic-arrives-in-new-cs-update
-2026/09/25 05:23:17 Content still empty after HTML reader: https://www.hltv.org/news/45566/official-bcgame-add-asap
-2026/09/25 05:23:17 Fetched posts from https://www.hltv.org/rss/news, took 1.827561557s
-2026/09/25 05:24:16 Get "https://www.bbc.com/vietnamese/articles/cx305yle1g8go?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/09/25 05:24:16 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.958110764s
-2026/09/25 05:24:16 Skipping writing post, no content: https://www.hltv.org/news/45569/oddik-pause-esports-operations
-2026/09/25 05:24:16 Skipping writing post, no content: https://www.hltv.org/news/45568/complexity-ceases-operations-and-jason-lake-departs-after-23-years
-2026/09/25 05:24:16 Skipping writing post, no content: https://www.hltv.org/news/45564/the-evps-and-all-stars-of-starladder-starseries-fall-2026
-2026/09/25 05:24:16 Skipping writing post, no content: https://www.hltv.org/news/45567/silent-reload-mechanic-arrives-in-new-cs-update
-2026/09/25 05:24:16 Skipping writing post, no content: https://www.hltv.org/news/45566/official-bcgame-add-asap
-2026/09/25 05:24:16 Templated 46 posts, took 10.04382ms
+2026/09/25 10:21:42 Fetched posts from https://vlr.gg/rss, took 373.287576ms
+2026/09/25 10:21:43 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 751.096373ms
+2026/09/25 10:21:44 Content still empty after HTML reader: https://www.hltv.org/news/45569/oddik-pause-esports-operations
+2026/09/25 10:21:44 Content still empty after HTML reader: https://www.hltv.org/news/45568/complexity-ceases-operations-and-jason-lake-departs-after-23-years
+2026/09/25 10:21:44 Content still empty after HTML reader: https://www.hltv.org/news/45564/the-evps-and-all-stars-of-starladder-starseries-fall-2026
+2026/09/25 10:21:44 Content still empty after HTML reader: https://www.hltv.org/news/45567/silent-reload-mechanic-arrives-in-new-cs-update
+2026/09/25 10:21:44 Content still empty after HTML reader: https://www.hltv.org/news/45566/official-bcgame-add-asap
+2026/09/25 10:21:44 Fetched posts from https://www.hltv.org/rss/news, took 1.642704682s
+2026/09/25 10:22:42 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.836019175s
+2026/09/25 10:22:42 Skipping writing post, no content: https://www.hltv.org/news/45569/oddik-pause-esports-operations
+2026/09/25 10:22:42 Skipping writing post, no content: https://www.hltv.org/news/45568/complexity-ceases-operations-and-jason-lake-departs-after-23-years
+2026/09/25 10:22:42 Skipping writing post, no content: https://www.hltv.org/news/45564/the-evps-and-all-stars-of-starladder-starseries-fall-2026
+2026/09/25 10:22:42 Skipping writing post, no content: https://www.hltv.org/news/45567/silent-reload-mechanic-arrives-in-new-cs-update
+2026/09/25 10:22:42 Skipping writing post, no content: https://www.hltv.org/news/45566/official-bcgame-add-asap
+2026/09/25 10:22:42 Templated 52 posts, took 11.026257ms
