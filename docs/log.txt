@@ -1,16 +1,15 @@
-2026/09/29 01:19:39 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.273933179s
-2026/09/29 01:19:40 Fetched posts from https://vlr.gg/rss, took 1.781058267s
-2026/09/29 01:19:40 Content still empty after HTML reader: https://www.hltv.org/news/45586/liquid-claim-ibp-masters-title-over-wildcard
-2026/09/29 01:19:40 Content still empty after HTML reader: https://www.hltv.org/news/45585/malek-passes-away-aged-35
-2026/09/29 01:19:40 Content still empty after HTML reader: https://www.hltv.org/news/45584/imperial-beat-pain-to-win-ferjee-in-house-s2
-2026/09/29 01:19:40 Content still empty after HTML reader: https://www.hltv.org/news/45583/eternal-fire-nemesis-qualify-for-stake-ranked-5
-2026/09/29 01:19:40 Content still empty after HTML reader: https://www.hltv.org/news/45582/art-out-of-esl-pro-league-s24-with-meningitis
-2026/09/29 01:19:40 Fetched posts from https://www.hltv.org/rss/news, took 2.11169536s
-2026/09/29 01:20:38 Get "https://www.bbc.com/vietnamese/articles/cr1e556v8gxwo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/09/29 01:20:38 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004956638s
-2026/09/29 01:20:38 Skipping writing post, no content: https://www.hltv.org/news/45586/liquid-claim-ibp-masters-title-over-wildcard
-2026/09/29 01:20:38 Skipping writing post, no content: https://www.hltv.org/news/45585/malek-passes-away-aged-35
-2026/09/29 01:20:38 Skipping writing post, no content: https://www.hltv.org/news/45584/imperial-beat-pain-to-win-ferjee-in-house-s2
-2026/09/29 01:20:38 Skipping writing post, no content: https://www.hltv.org/news/45583/eternal-fire-nemesis-qualify-for-stake-ranked-5
-2026/09/29 01:20:38 Skipping writing post, no content: https://www.hltv.org/news/45582/art-out-of-esl-pro-league-s24-with-meningitis
-2026/09/29 01:20:38 Templated 51 posts, took 10.557547ms
+2026/09/29 07:02:08 Fetched posts from https://vlr.gg/rss, took 1.076994314s
+2026/09/29 07:02:08 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.210700275s
+2026/09/29 07:02:09 Content still empty after HTML reader: https://www.hltv.org/news/45586/liquid-claim-ibp-masters-title-over-wildcard
+2026/09/29 07:02:09 Content still empty after HTML reader: https://www.hltv.org/news/45585/malek-passes-away-aged-35
+2026/09/29 07:02:09 Content still empty after HTML reader: https://www.hltv.org/news/45584/imperial-beat-pain-to-win-ferjee-in-house-s2
+2026/09/29 07:02:09 Content still empty after HTML reader: https://www.hltv.org/news/45583/eternal-fire-nemesis-qualify-for-stake-ranked-5
+2026/09/29 07:02:09 Content still empty after HTML reader: https://www.hltv.org/news/45582/art-out-of-esl-pro-league-s24-with-meningitis
+2026/09/29 07:02:09 Fetched posts from https://www.hltv.org/rss/news, took 1.511082725s
+2026/09/29 07:03:02 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 55.209837237s
+2026/09/29 07:03:02 Skipping writing post, no content: https://www.hltv.org/news/45586/liquid-claim-ibp-masters-title-over-wildcard
+2026/09/29 07:03:02 Skipping writing post, no content: https://www.hltv.org/news/45585/malek-passes-away-aged-35
+2026/09/29 07:03:02 Skipping writing post, no content: https://www.hltv.org/news/45584/imperial-beat-pain-to-win-ferjee-in-house-s2
+2026/09/29 07:03:02 Skipping writing post, no content: https://www.hltv.org/news/45583/eternal-fire-nemesis-qualify-for-stake-ranked-5
+2026/09/29 07:03:02 Skipping writing post, no content: https://www.hltv.org/news/45582/art-out-of-esl-pro-league-s24-with-meningitis
+2026/09/29 07:03:02 Templated 47 posts, took 16.806086ms
