@@ -1,15 +1,16 @@
-2026/09/29 13:59:53 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.131814714s
-2026/09/29 13:59:54 Content still empty after HTML reader: https://www.hltv.org/news/45589/cybershoke-sign-yiksrezo
-2026/09/29 13:59:54 Content still empty after HTML reader: https://www.hltv.org/news/45586/liquid-claim-ibp-masters-title-over-wildcard
-2026/09/29 13:59:54 Content still empty after HTML reader: https://www.hltv.org/news/45585/malek-passes-away-aged-35
-2026/09/29 13:59:54 Content still empty after HTML reader: https://www.hltv.org/news/45584/imperial-beat-pain-to-win-ferjee-in-house-s2
-2026/09/29 13:59:54 Content still empty after HTML reader: https://www.hltv.org/news/45583/eternal-fire-nemesis-qualify-for-stake-ranked-5
-2026/09/29 13:59:54 Fetched posts from https://www.hltv.org/rss/news, took 1.632584997s
-2026/09/29 13:59:54 Fetched posts from https://vlr.gg/rss, took 1.72580104s
-2026/09/29 14:00:51 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.297063722s
-2026/09/29 14:00:51 Skipping writing post, no content: https://www.hltv.org/news/45589/cybershoke-sign-yiksrezo
-2026/09/29 14:00:51 Skipping writing post, no content: https://www.hltv.org/news/45586/liquid-claim-ibp-masters-title-over-wildcard
-2026/09/29 14:00:51 Skipping writing post, no content: https://www.hltv.org/news/45585/malek-passes-away-aged-35
-2026/09/29 14:00:51 Skipping writing post, no content: https://www.hltv.org/news/45584/imperial-beat-pain-to-win-ferjee-in-house-s2
-2026/09/29 14:00:51 Skipping writing post, no content: https://www.hltv.org/news/45583/eternal-fire-nemesis-qualify-for-stake-ranked-5
-2026/09/29 14:00:51 Templated 53 posts, took 8.786273ms
+2026/09/29 19:17:42 Fetched posts from https://vlr.gg/rss, took 813.785874ms
+2026/09/29 19:17:42 Content still empty after HTML reader: https://www.hltv.org/news/45591/nip-claim-first-title-with-krimbo-at-1win-private-club-s1
+2026/09/29 19:17:42 Content still empty after HTML reader: https://www.hltv.org/news/45590/bcgame-to-debut-with-asap-at-rog-journey
+2026/09/29 19:17:42 Content still empty after HTML reader: https://www.hltv.org/news/45589/cybershoke-sign-yiksrezo
+2026/09/29 19:17:42 Content still empty after HTML reader: https://www.hltv.org/news/45586/liquid-claim-ibp-masters-title-over-wildcard
+2026/09/29 19:17:42 Content still empty after HTML reader: https://www.hltv.org/news/45585/malek-passes-away-aged-35
+2026/09/29 19:17:42 Fetched posts from https://www.hltv.org/rss/news, took 1.482746169s
+2026/09/29 19:17:43 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.872137507s
+2026/09/29 19:18:41 Get "https://www.bbc.com/vietnamese/articles/cq74ee42844mo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/09/29 19:18:41 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003679676s
+2026/09/29 19:18:41 Skipping writing post, no content: https://www.hltv.org/news/45591/nip-claim-first-title-with-krimbo-at-1win-private-club-s1
+2026/09/29 19:18:41 Skipping writing post, no content: https://www.hltv.org/news/45590/bcgame-to-debut-with-asap-at-rog-journey
+2026/09/29 19:18:41 Skipping writing post, no content: https://www.hltv.org/news/45589/cybershoke-sign-yiksrezo
+2026/09/29 19:18:41 Skipping writing post, no content: https://www.hltv.org/news/45586/liquid-claim-ibp-masters-title-over-wildcard
+2026/09/29 19:18:41 Skipping writing post, no content: https://www.hltv.org/news/45585/malek-passes-away-aged-35
+2026/09/29 19:18:41 Templated 45 posts, took 13.472034ms
