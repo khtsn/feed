@@ -1,16 +1,16 @@
-2026/10/01 21:14:33 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 896.642725ms
-2026/10/01 21:14:34 Fetched posts from https://vlr.gg/rss, took 1.431815942s
-2026/10/01 21:14:34 Content still empty after HTML reader: https://www.hltv.org/news/45588/fut-confirm-sunpayus-signing
-2026/10/01 21:14:34 Content still empty after HTML reader: https://www.hltv.org/news/45601/heroic-bench-doto
-2026/10/01 21:14:34 Content still empty after HTML reader: https://www.hltv.org/news/45596/rating-30-receives-small-accuracy-improvements
-2026/10/01 21:14:34 Content still empty after HTML reader: https://www.hltv.org/news/45600/loud-drop-unannounced-cs-team
-2026/10/01 21:14:34 Content still empty after HTML reader: https://www.hltv.org/news/45598/five-vrs-talking-points-a-month-before-singapore-major-invites
-2026/10/01 21:14:34 Fetched posts from https://www.hltv.org/rss/news, took 1.843924642s
-2026/10/01 21:15:33 Get "https://www.bbc.com/vietnamese/articles/c6jdv7e0v3jko?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/10/01 21:15:33 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.998586801s
-2026/10/01 21:15:33 Skipping writing post, no content: https://www.hltv.org/news/45588/fut-confirm-sunpayus-signing
-2026/10/01 21:15:33 Skipping writing post, no content: https://www.hltv.org/news/45601/heroic-bench-doto
-2026/10/01 21:15:33 Skipping writing post, no content: https://www.hltv.org/news/45596/rating-30-receives-small-accuracy-improvements
-2026/10/01 21:15:33 Skipping writing post, no content: https://www.hltv.org/news/45600/loud-drop-unannounced-cs-team
-2026/10/01 21:15:33 Skipping writing post, no content: https://www.hltv.org/news/45598/five-vrs-talking-points-a-month-before-singapore-major-invites
-2026/10/01 21:15:33 Templated 47 posts, took 13.745049ms
+2026/10/02 00:51:36 Fetched posts from https://vlr.gg/rss, took 1.194393527s
+2026/10/02 00:51:36 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.502436224s
+2026/10/02 00:51:37 Content still empty after HTML reader: https://www.hltv.org/news/45603/esl-expands-iem-cologne-playoffs-to-eight-teams-for-2027-with-360-stage-setup
+2026/10/02 00:51:37 Content still empty after HTML reader: https://www.hltv.org/news/45588/fut-confirm-sunpayus-signing
+2026/10/02 00:51:37 Content still empty after HTML reader: https://www.hltv.org/news/45601/heroic-bench-doto
+2026/10/02 00:51:37 Content still empty after HTML reader: https://www.hltv.org/news/45596/rating-30-receives-small-accuracy-improvements
+2026/10/02 00:51:37 Content still empty after HTML reader: https://www.hltv.org/news/45600/loud-drop-unannounced-cs-team
+2026/10/02 00:51:37 Fetched posts from https://www.hltv.org/rss/news, took 2.129966578s
+2026/10/02 00:52:35 Get "https://www.bbc.com/vietnamese/articles/c6jdv7e0v3jko?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/10/02 00:52:35 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003894164s
+2026/10/02 00:52:35 Skipping writing post, no content: https://www.hltv.org/news/45603/esl-expands-iem-cologne-playoffs-to-eight-teams-for-2027-with-360-stage-setup
+2026/10/02 00:52:35 Skipping writing post, no content: https://www.hltv.org/news/45588/fut-confirm-sunpayus-signing
+2026/10/02 00:52:35 Skipping writing post, no content: https://www.hltv.org/news/45601/heroic-bench-doto
+2026/10/02 00:52:35 Skipping writing post, no content: https://www.hltv.org/news/45596/rating-30-receives-small-accuracy-improvements
+2026/10/02 00:52:35 Skipping writing post, no content: https://www.hltv.org/news/45600/loud-drop-unannounced-cs-team
+2026/10/02 00:52:35 Templated 47 posts, took 8.717259ms
