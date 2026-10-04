@@ -1,14 +1,16 @@
-2026/10/04 00:37:30 Fetched posts from https://vlr.gg/rss, took 660.895571ms
-2026/10/04 00:37:30 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.105136132s
-2026/10/04 00:37:31 Content still empty after HTML reader: https://www.hltv.org/news/45622/dastan-i-try-to-play-with-hobbit-to-bring-one-more-trophy-for-him
-2026/10/04 00:37:31 Content still empty after HTML reader: https://www.hltv.org/news/45623/bcg-and-100t-eliminated-from-rog-journey
-2026/10/04 00:37:31 Content still empty after HTML reader: https://www.hltv.org/news/45621/parivision-secure-massive-vrs-payout-over-art-less-legacy
-2026/10/04 00:37:31 Content still empty after HTML reader: https://www.hltv.org/news/45587/short-news-week-39
-2026/10/04 00:37:31 Fetched posts from https://www.hltv.org/rss/news, took 2.138994519s
-2026/10/04 00:38:29 Get "https://www.bbc.com/vietnamese/articles/cw1mvme94xpmo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/10/04 00:38:29 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004633842s
-2026/10/04 00:38:29 Skipping writing post, no content: https://www.hltv.org/news/45622/dastan-i-try-to-play-with-hobbit-to-bring-one-more-trophy-for-him
-2026/10/04 00:38:29 Skipping writing post, no content: https://www.hltv.org/news/45623/bcg-and-100t-eliminated-from-rog-journey
-2026/10/04 00:38:29 Skipping writing post, no content: https://www.hltv.org/news/45621/parivision-secure-massive-vrs-payout-over-art-less-legacy
-2026/10/04 00:38:29 Skipping writing post, no content: https://www.hltv.org/news/45587/short-news-week-39
-2026/10/04 00:38:29 Templated 41 posts, took 8.161534ms
+2026/10/04 06:20:50 Fetched posts from https://vlr.gg/rss, took 513.864288ms
+2026/10/04 06:20:50 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 644.234832ms
+2026/10/04 06:20:51 Content still empty after HTML reader: https://www.hltv.org/news/45624/ash-on-wicadia-he-pays-so-much-attention-in-prep-now-im-blown-away-as-a-guy-that-wasnt-throwing-any-grenades-he-knows-them-all-now
+2026/10/04 06:20:51 Content still empty after HTML reader: https://www.hltv.org/news/45622/dastan-i-try-to-play-with-hobbit-to-bring-one-more-trophy-for-him
+2026/10/04 06:20:51 Content still empty after HTML reader: https://www.hltv.org/news/45623/bcg-and-100t-eliminated-from-rog-journey
+2026/10/04 06:20:51 Content still empty after HTML reader: https://www.hltv.org/news/45621/parivision-secure-massive-vrs-payout-over-art-less-legacy
+2026/10/04 06:20:51 Content still empty after HTML reader: https://www.hltv.org/news/45587/short-news-week-39
+2026/10/04 06:20:51 Fetched posts from https://www.hltv.org/rss/news, took 1.130042758s
+2026/10/04 06:21:50 Get "https://www.bbc.com/vietnamese/articles/ckq6367dq2qlo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/10/04 06:21:50 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004512692s
+2026/10/04 06:21:50 Skipping writing post, no content: https://www.hltv.org/news/45624/ash-on-wicadia-he-pays-so-much-attention-in-prep-now-im-blown-away-as-a-guy-that-wasnt-throwing-any-grenades-he-knows-them-all-now
+2026/10/04 06:21:50 Skipping writing post, no content: https://www.hltv.org/news/45622/dastan-i-try-to-play-with-hobbit-to-bring-one-more-trophy-for-him
+2026/10/04 06:21:50 Skipping writing post, no content: https://www.hltv.org/news/45623/bcg-and-100t-eliminated-from-rog-journey
+2026/10/04 06:21:50 Skipping writing post, no content: https://www.hltv.org/news/45621/parivision-secure-massive-vrs-payout-over-art-less-legacy
+2026/10/04 06:21:50 Skipping writing post, no content: https://www.hltv.org/news/45587/short-news-week-39
+2026/10/04 06:21:50 Templated 41 posts, took 8.304414ms
