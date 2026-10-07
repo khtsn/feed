@@ -1,16 +1,15 @@
-2026/10/07 06:34:04 Fetched posts from https://vlr.gg/rss, took 446.459252ms
-2026/10/07 06:34:05 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.043905532s
-2026/10/07 06:34:05 Content still empty after HTML reader: https://www.hltv.org/news/45656/aurora-beat-furia-to-qualify-for-spodek
-2026/10/07 06:34:05 Content still empty after HTML reader: https://www.hltv.org/news/45654/magic-sign-lattykk-to-replace-mo0n
-2026/10/07 06:34:05 Content still empty after HTML reader: https://www.hltv.org/news/45655/valve-adjust-rules-for-vrs-region-swaps
-2026/10/07 06:34:05 Content still empty after HTML reader: https://www.hltv.org/news/45653/9z-send-betboom-packing-from-katowice
-2026/10/07 06:34:05 Content still empty after HTML reader: https://www.hltv.org/news/45652/heavygod-we-need-to-check-why-our-level-was-so-low-this-event
-2026/10/07 06:34:05 Fetched posts from https://www.hltv.org/rss/news, took 1.346279628s
-2026/10/07 06:35:04 Get "https://www.bbc.com/vietnamese/articles/cj62ygrxxy4ko?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/10/07 06:35:04 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004333541s
-2026/10/07 06:35:04 Skipping writing post, no content: https://www.hltv.org/news/45656/aurora-beat-furia-to-qualify-for-spodek
-2026/10/07 06:35:04 Skipping writing post, no content: https://www.hltv.org/news/45654/magic-sign-lattykk-to-replace-mo0n
-2026/10/07 06:35:04 Skipping writing post, no content: https://www.hltv.org/news/45655/valve-adjust-rules-for-vrs-region-swaps
-2026/10/07 06:35:04 Skipping writing post, no content: https://www.hltv.org/news/45653/9z-send-betboom-packing-from-katowice
-2026/10/07 06:35:04 Skipping writing post, no content: https://www.hltv.org/news/45652/heavygod-we-need-to-check-why-our-level-was-so-low-this-event
-2026/10/07 06:35:04 Templated 46 posts, took 8.625245ms
+2026/10/07 13:51:47 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.011245602s
+2026/10/07 13:51:47 Fetched posts from https://vlr.gg/rss, took 1.185211211s
+2026/10/07 13:51:47 Content still empty after HTML reader: https://www.hltv.org/news/45660/falcons-outlast-navi-to-secure-epl-playoffs
+2026/10/07 13:51:47 Content still empty after HTML reader: https://www.hltv.org/news/45658/swisher-everyone-is-hoping-that-valve-rethink-their-stance-on-the-stickers
+2026/10/07 13:51:47 Content still empty after HTML reader: https://www.hltv.org/news/45657/m80-eliminate-art-less-legacy-from-epl
+2026/10/07 13:51:47 Content still empty after HTML reader: https://www.hltv.org/news/45656/aurora-beat-furia-to-qualify-for-spodek
+2026/10/07 13:51:47 Content still empty after HTML reader: https://www.hltv.org/news/45654/magic-sign-lattykk-to-replace-mo0n
+2026/10/07 13:51:47 Fetched posts from https://www.hltv.org/rss/news, took 1.621648598s
+2026/10/07 13:52:45 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.49531269s
+2026/10/07 13:52:45 Skipping writing post, no content: https://www.hltv.org/news/45660/falcons-outlast-navi-to-secure-epl-playoffs
+2026/10/07 13:52:45 Skipping writing post, no content: https://www.hltv.org/news/45658/swisher-everyone-is-hoping-that-valve-rethink-their-stance-on-the-stickers
+2026/10/07 13:52:45 Skipping writing post, no content: https://www.hltv.org/news/45657/m80-eliminate-art-less-legacy-from-epl
+2026/10/07 13:52:45 Skipping writing post, no content: https://www.hltv.org/news/45656/aurora-beat-furia-to-qualify-for-spodek
+2026/10/07 13:52:45 Skipping writing post, no content: https://www.hltv.org/news/45654/magic-sign-lattykk-to-replace-mo0n
+2026/10/07 13:52:45 Templated 46 posts, took 10.876261ms
