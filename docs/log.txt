@@ -1,16 +1,15 @@
-2026/10/08 03:03:02 Fetched posts from https://vlr.gg/rss, took 1.116499594s
-2026/10/08 03:03:02 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.154513616s
-2026/10/08 03:03:03 Content still empty after HTML reader: https://www.hltv.org/news/45670/hobbit-for-me-nowadays-its-like-a-dream
-2026/10/08 03:03:03 Content still empty after HTML reader: https://www.hltv.org/news/45669/art-to-return-for-thunderpick-world-championship
-2026/10/08 03:03:03 Content still empty after HTML reader: https://www.hltv.org/news/45667/parivision-make-epl-playoffs-over-navi
-2026/10/08 03:03:03 Content still empty after HTML reader: https://www.hltv.org/news/45666/valve-issues-exception-for-bcgame-to-qualify-for-singapore-major-through-asia
-2026/10/08 03:03:03 Content still empty after HTML reader: https://www.hltv.org/news/45641/short-news-week-40
-2026/10/08 03:03:03 Fetched posts from https://www.hltv.org/rss/news, took 1.935036056s
-2026/10/08 03:04:01 Get "https://www.bbc.com/vietnamese/articles/ckly05wyjw6lo?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/10/08 03:04:01 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004762817s
-2026/10/08 03:04:01 Skipping writing post, no content: https://www.hltv.org/news/45670/hobbit-for-me-nowadays-its-like-a-dream
-2026/10/08 03:04:01 Skipping writing post, no content: https://www.hltv.org/news/45669/art-to-return-for-thunderpick-world-championship
-2026/10/08 03:04:01 Skipping writing post, no content: https://www.hltv.org/news/45667/parivision-make-epl-playoffs-over-navi
-2026/10/08 03:04:01 Skipping writing post, no content: https://www.hltv.org/news/45666/valve-issues-exception-for-bcgame-to-qualify-for-singapore-major-through-asia
-2026/10/08 03:04:01 Skipping writing post, no content: https://www.hltv.org/news/45641/short-news-week-40
-2026/10/08 03:04:01 Templated 43 posts, took 8.617751ms
+2026/10/08 10:25:59 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 777.606581ms
+2026/10/08 10:25:59 Fetched posts from https://vlr.gg/rss, took 1.182029121s
+2026/10/08 10:26:01 Content still empty after HTML reader: https://www.hltv.org/news/45668/aleksib-we-need-to-enjoy-the-game-more-all-these-setbacks-make-you-overthink
+2026/10/08 10:26:01 Content still empty after HTML reader: https://www.hltv.org/news/45670/hobbit-for-me-nowadays-its-like-a-dream
+2026/10/08 10:26:01 Content still empty after HTML reader: https://www.hltv.org/news/45669/art-to-return-for-thunderpick-world-championship
+2026/10/08 10:26:01 Content still empty after HTML reader: https://www.hltv.org/news/45667/parivision-make-epl-playoffs-over-navi
+2026/10/08 10:26:01 Content still empty after HTML reader: https://www.hltv.org/news/45666/valve-issues-exception-for-bcgame-to-qualify-for-singapore-major-through-asia
+2026/10/08 10:26:01 Fetched posts from https://www.hltv.org/rss/news, took 2.799130682s
+2026/10/08 10:26:58 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.575019649s
+2026/10/08 10:26:58 Skipping writing post, no content: https://www.hltv.org/news/45668/aleksib-we-need-to-enjoy-the-game-more-all-these-setbacks-make-you-overthink
+2026/10/08 10:26:58 Skipping writing post, no content: https://www.hltv.org/news/45670/hobbit-for-me-nowadays-its-like-a-dream
+2026/10/08 10:26:58 Skipping writing post, no content: https://www.hltv.org/news/45669/art-to-return-for-thunderpick-world-championship
+2026/10/08 10:26:58 Skipping writing post, no content: https://www.hltv.org/news/45667/parivision-make-epl-playoffs-over-navi
+2026/10/08 10:26:58 Skipping writing post, no content: https://www.hltv.org/news/45666/valve-issues-exception-for-bcgame-to-qualify-for-singapore-major-through-asia
+2026/10/08 10:26:58 Templated 44 posts, took 15.674186ms
