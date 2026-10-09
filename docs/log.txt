@@ -1,15 +1,16 @@
-2026/10/09 02:22:43 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 914.783906ms
-2026/10/09 02:22:44 Content still empty after HTML reader: https://www.hltv.org/news/45674/all-top-14-teams-accept-invites-to-pgl-bucharest-2027
-2026/10/09 02:22:44 Content still empty after HTML reader: https://www.hltv.org/news/45599/hltv-prospects-ranking-october-2026
-2026/10/09 02:22:44 Content still empty after HTML reader: https://www.hltv.org/news/45673/matchups-set-for-epl-quarter-finals
-2026/10/09 02:22:44 Content still empty after HTML reader: https://www.hltv.org/news/45672/spirit-secure-last-spot-in-the-spodek-over-m80
-2026/10/09 02:22:44 Content still empty after HTML reader: https://www.hltv.org/news/45619/the-best-highlights-from-epl-s24-groups
-2026/10/09 02:22:44 Fetched posts from https://www.hltv.org/rss/news, took 1.923887338s
-2026/10/09 02:22:45 Fetched posts from https://vlr.gg/rss, took 1.982893861s
-2026/10/09 02:23:42 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.269356309s
-2026/10/09 02:23:42 Skipping writing post, no content: https://www.hltv.org/news/45674/all-top-14-teams-accept-invites-to-pgl-bucharest-2027
-2026/10/09 02:23:42 Skipping writing post, no content: https://www.hltv.org/news/45599/hltv-prospects-ranking-october-2026
-2026/10/09 02:23:42 Skipping writing post, no content: https://www.hltv.org/news/45673/matchups-set-for-epl-quarter-finals
-2026/10/09 02:23:42 Skipping writing post, no content: https://www.hltv.org/news/45672/spirit-secure-last-spot-in-the-spodek-over-m80
-2026/10/09 02:23:42 Skipping writing post, no content: https://www.hltv.org/news/45619/the-best-highlights-from-epl-s24-groups
-2026/10/09 02:23:42 Templated 48 posts, took 9.78531ms
+2026/10/09 09:23:10 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 763.293609ms
+2026/10/09 09:23:10 Fetched posts from https://vlr.gg/rss, took 1.042790269s
+2026/10/09 09:23:10 Content still empty after HTML reader: https://www.hltv.org/news/45675/kyousuke-is-second-most-picked-at-197000-in-epl-playoffs-fantasy
+2026/10/09 09:23:10 Content still empty after HTML reader: https://www.hltv.org/news/45674/all-top-14-teams-accept-invites-to-pgl-bucharest-2027
+2026/10/09 09:23:10 Content still empty after HTML reader: https://www.hltv.org/news/45599/hltv-prospects-ranking-october-2026
+2026/10/09 09:23:10 Content still empty after HTML reader: https://www.hltv.org/news/45673/matchups-set-for-epl-quarter-finals
+2026/10/09 09:23:11 Content still empty after HTML reader: https://www.hltv.org/news/45672/spirit-secure-last-spot-in-the-spodek-over-m80
+2026/10/09 09:23:11 Fetched posts from https://www.hltv.org/rss/news, took 1.45966961s
+2026/10/09 09:24:09 Get "https://www.bbc.com/vietnamese/articles/cm5yngx4ggrwo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/10/09 09:24:09 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.000079752s
+2026/10/09 09:24:09 Skipping writing post, no content: https://www.hltv.org/news/45675/kyousuke-is-second-most-picked-at-197000-in-epl-playoffs-fantasy
+2026/10/09 09:24:09 Skipping writing post, no content: https://www.hltv.org/news/45674/all-top-14-teams-accept-invites-to-pgl-bucharest-2027
+2026/10/09 09:24:09 Skipping writing post, no content: https://www.hltv.org/news/45599/hltv-prospects-ranking-october-2026
+2026/10/09 09:24:09 Skipping writing post, no content: https://www.hltv.org/news/45673/matchups-set-for-epl-quarter-finals
+2026/10/09 09:24:09 Skipping writing post, no content: https://www.hltv.org/news/45672/spirit-secure-last-spot-in-the-spodek-over-m80
+2026/10/09 09:24:09 Templated 44 posts, took 10.012616ms
