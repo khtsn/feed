@@ -1,15 +1,16 @@
-2026/10/10 06:26:54 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.076602685s
-2026/10/10 06:26:54 Fetched posts from https://vlr.gg/rss, took 1.293431424s
-2026/10/10 06:26:54 Content still empty after HTML reader: https://www.hltv.org/news/45688/thunderpick-world-championship-matchups-announced-with-virtuspro-replaced-by-nip
-2026/10/10 06:26:54 Content still empty after HTML reader: https://www.hltv.org/news/45686/mouz-see-off-furia-to-continue-flawless-epl-run
-2026/10/10 06:26:54 Content still empty after HTML reader: https://www.hltv.org/news/45685/maden-joins-big-academy-as-in-game-leader
-2026/10/10 06:26:54 Content still empty after HTML reader: https://www.hltv.org/news/45684/flamez-every-second-on-teamspeak-was-alive-and-when-we-talk-like-that-no-one-can-beat-us
-2026/10/10 06:26:54 Content still empty after HTML reader: https://www.hltv.org/news/45683/vitality-move-past-parivision-to-make-epl-semi
-2026/10/10 06:26:54 Fetched posts from https://www.hltv.org/rss/news, took 1.823032068s
-2026/10/10 06:27:52 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.507342079s
-2026/10/10 06:27:52 Skipping writing post, no content: https://www.hltv.org/news/45688/thunderpick-world-championship-matchups-announced-with-virtuspro-replaced-by-nip
-2026/10/10 06:27:52 Skipping writing post, no content: https://www.hltv.org/news/45686/mouz-see-off-furia-to-continue-flawless-epl-run
-2026/10/10 06:27:52 Skipping writing post, no content: https://www.hltv.org/news/45685/maden-joins-big-academy-as-in-game-leader
-2026/10/10 06:27:52 Skipping writing post, no content: https://www.hltv.org/news/45684/flamez-every-second-on-teamspeak-was-alive-and-when-we-talk-like-that-no-one-can-beat-us
-2026/10/10 06:27:52 Skipping writing post, no content: https://www.hltv.org/news/45683/vitality-move-past-parivision-to-make-epl-semi
-2026/10/10 06:27:52 Templated 50 posts, took 22.85036ms
+2026/10/10 12:55:43 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 821.458437ms
+2026/10/10 12:55:44 Content still empty after HTML reader: https://www.hltv.org/news/45676/astralis-bench-hooxi-and-jabbi
+2026/10/10 12:55:44 Content still empty after HTML reader: https://www.hltv.org/news/45688/thunderpick-world-championship-matchups-announced-with-virtuspro-replaced-by-nip
+2026/10/10 12:55:44 Content still empty after HTML reader: https://www.hltv.org/news/45686/mouz-see-off-furia-to-continue-flawless-epl-run
+2026/10/10 12:55:44 Content still empty after HTML reader: https://www.hltv.org/news/45685/maden-joins-big-academy-as-in-game-leader
+2026/10/10 12:55:44 Content still empty after HTML reader: https://www.hltv.org/news/45684/flamez-every-second-on-teamspeak-was-alive-and-when-we-talk-like-that-no-one-can-beat-us
+2026/10/10 12:55:44 Fetched posts from https://www.hltv.org/rss/news, took 1.845835385s
+2026/10/10 12:55:44 Fetched posts from https://vlr.gg/rss, took 2.377599716s
+2026/10/10 12:56:42 Get "https://www.bbc.com/vietnamese/articles/c81dwp3x4q97o?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/10/10 12:56:42 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004368399s
+2026/10/10 12:56:42 Skipping writing post, no content: https://www.hltv.org/news/45676/astralis-bench-hooxi-and-jabbi
+2026/10/10 12:56:42 Skipping writing post, no content: https://www.hltv.org/news/45688/thunderpick-world-championship-matchups-announced-with-virtuspro-replaced-by-nip
+2026/10/10 12:56:42 Skipping writing post, no content: https://www.hltv.org/news/45686/mouz-see-off-furia-to-continue-flawless-epl-run
+2026/10/10 12:56:42 Skipping writing post, no content: https://www.hltv.org/news/45685/maden-joins-big-academy-as-in-game-leader
+2026/10/10 12:56:42 Skipping writing post, no content: https://www.hltv.org/news/45684/flamez-every-second-on-teamspeak-was-alive-and-when-we-talk-like-that-no-one-can-beat-us
+2026/10/10 12:56:42 Templated 47 posts, took 10.337942ms
