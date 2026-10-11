@@ -1,15 +1,16 @@
-2026/10/10 23:52:37 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.023730016s
-2026/10/10 23:52:37 Fetched posts from https://vlr.gg/rss, took 1.097303779s
-2026/10/10 23:52:38 Content still empty after HTML reader: https://www.hltv.org/news/45690/bbl-confirm-mistr-signing
-2026/10/10 23:52:38 Content still empty after HTML reader: https://www.hltv.org/news/45641/short-news-week-40
-2026/10/10 23:52:38 Content still empty after HTML reader: https://www.hltv.org/news/45687/sidde-we-need-to-find-a-good-balance-to-not-get-to-the-major-feeling-100-burned-out
-2026/10/10 23:52:38 Content still empty after HTML reader: https://www.hltv.org/news/45689/spirit-outclass-falcons-to-set-up-mouz-rematch
-2026/10/10 23:52:38 Content still empty after HTML reader: https://www.hltv.org/news/45676/astralis-bench-hooxi-and-jabbi
-2026/10/10 23:52:38 Fetched posts from https://www.hltv.org/rss/news, took 1.789914933s
-2026/10/10 23:53:36 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.569518402s
-2026/10/10 23:53:36 Skipping writing post, no content: https://www.hltv.org/news/45690/bbl-confirm-mistr-signing
-2026/10/10 23:53:36 Skipping writing post, no content: https://www.hltv.org/news/45641/short-news-week-40
-2026/10/10 23:53:36 Skipping writing post, no content: https://www.hltv.org/news/45687/sidde-we-need-to-find-a-good-balance-to-not-get-to-the-major-feeling-100-burned-out
-2026/10/10 23:53:36 Skipping writing post, no content: https://www.hltv.org/news/45689/spirit-outclass-falcons-to-set-up-mouz-rematch
-2026/10/10 23:53:36 Skipping writing post, no content: https://www.hltv.org/news/45676/astralis-bench-hooxi-and-jabbi
-2026/10/10 23:53:36 Templated 50 posts, took 9.547461ms
+2026/10/11 03:12:45 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.147790107s
+2026/10/11 03:12:45 Content still empty after HTML reader: https://www.hltv.org/news/45690/bbl-confirm-mistr-signing
+2026/10/11 03:12:45 Content still empty after HTML reader: https://www.hltv.org/news/45641/short-news-week-40
+2026/10/11 03:12:45 Content still empty after HTML reader: https://www.hltv.org/news/45687/sidde-we-need-to-find-a-good-balance-to-not-get-to-the-major-feeling-100-burned-out
+2026/10/11 03:12:45 Content still empty after HTML reader: https://www.hltv.org/news/45689/spirit-outclass-falcons-to-set-up-mouz-rematch
+2026/10/11 03:12:45 Content still empty after HTML reader: https://www.hltv.org/news/45676/astralis-bench-hooxi-and-jabbi
+2026/10/11 03:12:45 Fetched posts from https://www.hltv.org/rss/news, took 1.560961686s
+2026/10/11 03:12:46 Fetched posts from https://vlr.gg/rss, took 2.231912291s
+2026/10/11 03:13:43 Get "https://www.bbc.com/vietnamese/articles/c862yw0n7vqdo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/10/11 03:13:43 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.004577383s
+2026/10/11 03:13:43 Skipping writing post, no content: https://www.hltv.org/news/45690/bbl-confirm-mistr-signing
+2026/10/11 03:13:43 Skipping writing post, no content: https://www.hltv.org/news/45641/short-news-week-40
+2026/10/11 03:13:43 Skipping writing post, no content: https://www.hltv.org/news/45687/sidde-we-need-to-find-a-good-balance-to-not-get-to-the-major-feeling-100-burned-out
+2026/10/11 03:13:43 Skipping writing post, no content: https://www.hltv.org/news/45689/spirit-outclass-falcons-to-set-up-mouz-rematch
+2026/10/11 03:13:43 Skipping writing post, no content: https://www.hltv.org/news/45676/astralis-bench-hooxi-and-jabbi
+2026/10/11 03:13:43 Templated 52 posts, took 9.724402ms
