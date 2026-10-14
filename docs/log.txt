@@ -1,16 +1,15 @@
-2026/10/14 00:21:09 Fetched posts from https://vlr.gg/rss, took 1.145711134s
-2026/10/14 00:21:10 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.725328926s
-2026/10/14 00:21:12 Content still empty after HTML reader: https://www.hltv.org/news/45710/falcons-and-aurora-players-are-most-picked-in-twc-2026-fantasy
-2026/10/14 00:21:12 Content still empty after HTML reader: https://www.hltv.org/news/45711/falcons-announce-m0nesy-contract-extension
-2026/10/14 00:21:12 Content still empty after HTML reader: https://www.hltv.org/news/45709/mvp-haters-come-here-ft-mauisnake-and-striker
-2026/10/14 00:21:12 Content still empty after HTML reader: https://www.hltv.org/news/45708/short-news-week-41
-2026/10/14 00:21:12 Content still empty after HTML reader: https://www.hltv.org/news/45706/thunderpick-world-championship-teams-format-schedule-prizes-talent-fantasy
-2026/10/14 00:21:12 Fetched posts from https://www.hltv.org/rss/news, took 4.146416734s
-2026/10/14 00:22:08 Get "https://www.bbc.com/vietnamese/articles/c6n8drl37jd7o?at_medium=RSS&at_campaign=rss": context deadline exceeded
-2026/10/14 00:22:08 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.000009068s
-2026/10/14 00:22:08 Skipping writing post, no content: https://www.hltv.org/news/45710/falcons-and-aurora-players-are-most-picked-in-twc-2026-fantasy
-2026/10/14 00:22:08 Skipping writing post, no content: https://www.hltv.org/news/45711/falcons-announce-m0nesy-contract-extension
-2026/10/14 00:22:08 Skipping writing post, no content: https://www.hltv.org/news/45709/mvp-haters-come-here-ft-mauisnake-and-striker
-2026/10/14 00:22:08 Skipping writing post, no content: https://www.hltv.org/news/45708/short-news-week-41
-2026/10/14 00:22:08 Skipping writing post, no content: https://www.hltv.org/news/45706/thunderpick-world-championship-teams-format-schedule-prizes-talent-fantasy
-2026/10/14 00:22:08 Templated 46 posts, took 7.898582ms
+2026/10/14 05:06:37 Fetched posts from https://vlr.gg/rss, took 765.044394ms
+2026/10/14 05:06:38 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.451661853s
+2026/10/14 05:06:38 Content still empty after HTML reader: https://www.hltv.org/news/45710/falcons-and-aurora-players-are-most-picked-in-twc-2026-fantasy
+2026/10/14 05:06:38 Content still empty after HTML reader: https://www.hltv.org/news/45711/falcons-announce-m0nesy-contract-extension
+2026/10/14 05:06:38 Content still empty after HTML reader: https://www.hltv.org/news/45709/mvp-haters-come-here-ft-mauisnake-and-striker
+2026/10/14 05:06:38 Content still empty after HTML reader: https://www.hltv.org/news/45708/short-news-week-41
+2026/10/14 05:06:38 Content still empty after HTML reader: https://www.hltv.org/news/45706/thunderpick-world-championship-teams-format-schedule-prizes-talent-fantasy
+2026/10/14 05:06:38 Fetched posts from https://www.hltv.org/rss/news, took 1.799138279s
+2026/10/14 05:07:26 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 49.733355622s
+2026/10/14 05:07:26 Skipping writing post, no content: https://www.hltv.org/news/45710/falcons-and-aurora-players-are-most-picked-in-twc-2026-fantasy
+2026/10/14 05:07:26 Skipping writing post, no content: https://www.hltv.org/news/45711/falcons-announce-m0nesy-contract-extension
+2026/10/14 05:07:26 Skipping writing post, no content: https://www.hltv.org/news/45709/mvp-haters-come-here-ft-mauisnake-and-striker
+2026/10/14 05:07:26 Skipping writing post, no content: https://www.hltv.org/news/45708/short-news-week-41
+2026/10/14 05:07:26 Skipping writing post, no content: https://www.hltv.org/news/45706/thunderpick-world-championship-teams-format-schedule-prizes-talent-fantasy
+2026/10/14 05:07:26 Templated 47 posts, took 8.181283ms
