@@ -1,15 +1,16 @@
-2026/10/14 19:19:11 Fetched posts from https://vlr.gg/rss, took 1.009329363s
-2026/10/14 19:19:11 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.086593381s
-2026/10/14 19:19:14 Content still empty after HTML reader: https://www.hltv.org/news/45717/sdy-headlines-new-look-monte-lineup
-2026/10/14 19:19:14 Content still empty after HTML reader: https://www.hltv.org/news/45715/brnz4n-departs-mibr
-2026/10/14 19:19:14 Content still empty after HTML reader: https://www.hltv.org/news/45714/official-astralis-sign-siuhy-and-cmtry
-2026/10/14 19:19:14 Content still empty after HTML reader: https://www.hltv.org/news/45707/strike-11-another-loophole-bites-the-dust-or-does-it
-2026/10/14 19:19:14 Content still empty after HTML reader: https://www.hltv.org/news/45713/cybershoke-disband-team
-2026/10/14 19:19:14 Fetched posts from https://www.hltv.org/rss/news, took 4.490726277s
-2026/10/14 19:20:10 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.949675279s
-2026/10/14 19:20:10 Skipping writing post, no content: https://www.hltv.org/news/45717/sdy-headlines-new-look-monte-lineup
-2026/10/14 19:20:10 Skipping writing post, no content: https://www.hltv.org/news/45715/brnz4n-departs-mibr
-2026/10/14 19:20:10 Skipping writing post, no content: https://www.hltv.org/news/45714/official-astralis-sign-siuhy-and-cmtry
-2026/10/14 19:20:10 Skipping writing post, no content: https://www.hltv.org/news/45707/strike-11-another-loophole-bites-the-dust-or-does-it
-2026/10/14 19:20:10 Skipping writing post, no content: https://www.hltv.org/news/45713/cybershoke-disband-team
-2026/10/14 19:20:10 Templated 48 posts, took 9.752581ms
+2026/10/14 22:23:48 Fetched posts from https://vlr.gg/rss, took 386.033946ms
+2026/10/14 22:23:49 Content still empty after HTML reader: https://www.hltv.org/news/45719/bit-if-we-make-it-back-to-the-playoffs-consistently-im-sure-at-some-point-well-win-another-tournament
+2026/10/14 22:23:49 Content still empty after HTML reader: https://www.hltv.org/news/45718/9z-beat-aurora-2-0-to-kick-off-twc-2026
+2026/10/14 22:23:49 Content still empty after HTML reader: https://www.hltv.org/news/45717/sdy-headlines-new-look-monte-lineup
+2026/10/14 22:23:49 Content still empty after HTML reader: https://www.hltv.org/news/45715/brnz4n-departs-mibr
+2026/10/14 22:23:49 Content still empty after HTML reader: https://www.hltv.org/news/45714/official-astralis-sign-siuhy-and-cmtry
+2026/10/14 22:23:49 Fetched posts from https://www.hltv.org/rss/news, took 1.702319316s
+2026/10/14 22:23:50 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 2.485304145s
+2026/10/14 22:24:48 Get "https://www.bbc.com/vietnamese/articles/cq33x7lzyxejo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/10/14 22:24:48 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003636846s
+2026/10/14 22:24:48 Skipping writing post, no content: https://www.hltv.org/news/45719/bit-if-we-make-it-back-to-the-playoffs-consistently-im-sure-at-some-point-well-win-another-tournament
+2026/10/14 22:24:48 Skipping writing post, no content: https://www.hltv.org/news/45718/9z-beat-aurora-2-0-to-kick-off-twc-2026
+2026/10/14 22:24:48 Skipping writing post, no content: https://www.hltv.org/news/45717/sdy-headlines-new-look-monte-lineup
+2026/10/14 22:24:48 Skipping writing post, no content: https://www.hltv.org/news/45715/brnz4n-departs-mibr
+2026/10/14 22:24:48 Skipping writing post, no content: https://www.hltv.org/news/45714/official-astralis-sign-siuhy-and-cmtry
+2026/10/14 22:24:48 Templated 44 posts, took 9.407023ms
