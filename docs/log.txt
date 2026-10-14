@@ -1,15 +1,16 @@
-2026/10/14 10:07:58 Fetched posts from https://vlr.gg/rss, took 865.005036ms
-2026/10/14 10:07:59 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.431442046s
-2026/10/14 10:08:00 Content still empty after HTML reader: https://www.hltv.org/news/45712/closed-beta-of-hltv-brain-launched
-2026/10/14 10:08:00 Content still empty after HTML reader: https://www.hltv.org/news/45710/falcons-and-aurora-players-are-most-picked-in-twc-2026-fantasy
-2026/10/14 10:08:00 Content still empty after HTML reader: https://www.hltv.org/news/45711/falcons-announce-m0nesy-contract-extension
-2026/10/14 10:08:00 Content still empty after HTML reader: https://www.hltv.org/news/45709/mvp-haters-come-here-ft-mauisnake-and-striker
-2026/10/14 10:08:00 Content still empty after HTML reader: https://www.hltv.org/news/45708/short-news-week-41
-2026/10/14 10:08:00 Fetched posts from https://www.hltv.org/rss/news, took 2.475732718s
-2026/10/14 10:08:57 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 59.75651014s
-2026/10/14 10:08:57 Skipping writing post, no content: https://www.hltv.org/news/45712/closed-beta-of-hltv-brain-launched
-2026/10/14 10:08:57 Skipping writing post, no content: https://www.hltv.org/news/45710/falcons-and-aurora-players-are-most-picked-in-twc-2026-fantasy
-2026/10/14 10:08:57 Skipping writing post, no content: https://www.hltv.org/news/45711/falcons-announce-m0nesy-contract-extension
-2026/10/14 10:08:57 Skipping writing post, no content: https://www.hltv.org/news/45709/mvp-haters-come-here-ft-mauisnake-and-striker
-2026/10/14 10:08:57 Skipping writing post, no content: https://www.hltv.org/news/45708/short-news-week-41
-2026/10/14 10:08:57 Templated 47 posts, took 8.685343ms
+2026/10/14 15:05:58 Fetched posts from https://vlr.gg/rss, took 579.308089ms
+2026/10/14 15:05:58 Fetched posts from https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, took 1.426090979s
+2026/10/14 15:06:00 Content still empty after HTML reader: https://www.hltv.org/news/45707/strike-11-another-loophole-bites-the-dust-or-does-it
+2026/10/14 15:06:00 Content still empty after HTML reader: https://www.hltv.org/news/45713/cybershoke-disband-team
+2026/10/14 15:06:00 Content still empty after HTML reader: https://www.hltv.org/news/45712/closed-beta-of-hltv-brain-launched
+2026/10/14 15:06:00 Content still empty after HTML reader: https://www.hltv.org/news/45710/falcons-and-aurora-players-are-most-picked-in-twc-2026-fantasy
+2026/10/14 15:06:00 Content still empty after HTML reader: https://www.hltv.org/news/45711/falcons-announce-m0nesy-contract-extension
+2026/10/14 15:06:00 Fetched posts from https://www.hltv.org/rss/news, took 3.433792981s
+2026/10/14 15:06:57 Get "https://www.bbc.com/vietnamese/articles/cq33x7lzyxejo?at_medium=RSS&at_campaign=rss": context deadline exceeded
+2026/10/14 15:06:57 Fetched posts from https://feeds.bbci.co.uk/vietnamese/rss.xml, took 1m0.003713223s
+2026/10/14 15:06:57 Skipping writing post, no content: https://www.hltv.org/news/45707/strike-11-another-loophole-bites-the-dust-or-does-it
+2026/10/14 15:06:57 Skipping writing post, no content: https://www.hltv.org/news/45713/cybershoke-disband-team
+2026/10/14 15:06:57 Skipping writing post, no content: https://www.hltv.org/news/45712/closed-beta-of-hltv-brain-launched
+2026/10/14 15:06:57 Skipping writing post, no content: https://www.hltv.org/news/45710/falcons-and-aurora-players-are-most-picked-in-twc-2026-fantasy
+2026/10/14 15:06:57 Skipping writing post, no content: https://www.hltv.org/news/45711/falcons-announce-m0nesy-contract-extension
+2026/10/14 15:06:57 Templated 47 posts, took 11.11638ms
